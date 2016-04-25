@@ -1,0 +1,8 @@
+{ name: 'Howard Werth',
+  href: 'http://en.wikipedia.org/wiki/Howard_Werth',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 849,
+       quote: [ 'Later his taste expanded to the jazz influences of Charles Mingus, Thelonious Monk, Art Blakey and Miles Davis.' ] } ] }

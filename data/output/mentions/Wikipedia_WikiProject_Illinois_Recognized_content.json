@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:WikiProject Illinois/Recognized content',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Illinois/Recognized_content',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ ' Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis (2005-09-28)' ] } ] }

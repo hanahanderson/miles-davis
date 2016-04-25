@@ -1,0 +1,8 @@
+{ name: 'John Creedon',
+  href: 'http://en.wikipedia.org/wiki/John_Creedon',
+  mentions: 
+   [ { sectionHeader: 'Personal life',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 4430,
+       quote: [ 'His record collection includes albums by Miles Davis and John Coltrane and selections from Americana, Eric Bibb, John Prine and the Handsome Family.' ] } ] }

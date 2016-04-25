@@ -1,0 +1,8 @@
+{ name: 'Live & More (Marcus Miller album)',
+  href: 'http://en.wikipedia.org/wiki/Live_%26_More_(Marcus_Miller_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1666,
+       quote: [ 'Miles Davis' ] } ] }

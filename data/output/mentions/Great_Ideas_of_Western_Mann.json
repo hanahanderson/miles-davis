@@ -1,0 +1,8 @@
+{ name: 'Great Ideas of Western Mann',
+  href: 'http://en.wikipedia.org/wiki/Great_Ideas_of_Western_Mann',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1134,
+       quote: [ '"The Theme" (Miles Davis) - 6:41' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Robert Levin (writer)',
+  href: 'http://en.wikipedia.org/wiki/Robert_Levin_(writer)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1556,
+       quote: [ 'Levin, described by Nat Hentoff as “a writer from whom I always learn something,” also wrote some 100 liner notes for Blue Note Records, Prestige Records, Impulse Records, United Artists, etc., and for such artists as Miles Davis, John Coltrane, Thelonious Monk, Sonny Rollins, Cecil Taylor and Coleman Hawkins.' ] } ] }

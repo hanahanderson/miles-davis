@@ -1,0 +1,8 @@
+{ name: 'Marie Möör',
+  href: 'http://en.wikipedia.org/wiki/Marie_M%C3%B6%C3%B6r',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 867,
+       quote: [ 'In 1982, Marie Möör met the French saxophonist, Barney Wilen "a jazz musician who at age 18 was already playing with Miles Davis".' ] } ] }

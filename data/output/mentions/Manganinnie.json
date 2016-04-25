@@ -1,0 +1,8 @@
+{ name: 'Manganinnie',
+  href: 'http://en.wikipedia.org/wiki/Manganinnie',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 2406,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

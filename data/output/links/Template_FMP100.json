@@ -1,0 +1,9 @@
+{ name: 'Template:FMP100',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:FMP100',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '3965968 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664919693 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:FMP100?oldid=664919693',
+          href: 'http://en.wikipedia.org/wiki/Template:FMP100?oldid=664919693' } ] } }

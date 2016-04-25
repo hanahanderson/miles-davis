@@ -1,0 +1,13 @@
+{ name: 'Music of Illinois',
+  href: 'http://en.wikipedia.org/wiki/Music_of_Illinois',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3692,
+       quote: [ 'Famous jazz musicians originally from Illinois include trumpeter Miles Davis (from Alton, Illinois near St.' ] },
+     { sectionHeader: 'Rock and roll',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 6010,
+       quote: [ 'Illinois musicians inducted into the Rock and Roll Hall of Fame include Sam Cooke, Muddy Waters, The Impressions and Curtis Mayfield, The Staple Singers; Earth, Wind & Fire; Buddy Guy, Miles Davis, Paul Butterfield Blues Band, Chicago, and Cheap Trick.' ] } ] }

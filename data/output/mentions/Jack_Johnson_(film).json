@@ -1,0 +1,13 @@
+{ name: 'Jack Johnson (film)',
+  href: 'http://en.wikipedia.org/wiki/Jack_Johnson_(film)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 328,
+       quote: [ 'Cayton asked jazz artist Miles Davis to record music for the documentary, which resulted in Davis\' 1971 album of the same name.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'David Was',
+  href: 'http://en.wikipedia.org/wiki/David_Was',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 319,
+       quote: [ 'A graduate of the University of Michigan, Was left his native Detroit for California, and found employment as the jazz critic for the now-defunct Hearst daily the Los Angeles Herald Examiner, where he forged friendships with Sonny Rollins, Miles Davis and Mel Tormé.' ] } ] }

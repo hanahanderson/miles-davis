@@ -1,0 +1,8 @@
+{ name: 'Curtis Clark',
+  href: 'http://en.wikipedia.org/wiki/Curtis_Clark',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 598,
+       quote: [ 'Influenced by Miles Davis, Duke Ellington, Horace Tapscott, Thelonious Monk and John Coltrane, Clark was based in Amsterdam for many years until his return to the U.S. He is now situated in New England.' ] } ] }

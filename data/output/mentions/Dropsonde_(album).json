@@ -1,0 +1,8 @@
+{ name: 'Dropsonde (album)',
+  href: 'http://en.wikipedia.org/wiki/Dropsonde_(album)',
+  mentions: 
+   [ { sectionHeader: 'Overview',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1108,
+       quote: [ 'Unlike Jenssen\'s previous output, there is a notable jazz influence present on this album (such as on the tracks "Birds Fly By Flapping Their Wings" and "In Triple Time"), evocative of Miles Davis\'s 1970s jazz fusion works.' ] } ] }

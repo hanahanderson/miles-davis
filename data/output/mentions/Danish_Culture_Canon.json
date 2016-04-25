@@ -1,0 +1,8 @@
+{ name: 'Danish Culture Canon',
+  href: 'http://en.wikipedia.org/wiki/Danish_Culture_Canon',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 10250,
+       quote: [ 'Palle Mikkelborg with Miles Davis' ] } ] }

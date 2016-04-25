@@ -1,0 +1,13 @@
+{ name: 'Wah-wah pedal',
+  href: 'http://en.wikipedia.org/wiki/Wah-wah_pedal',
+  mentions: 
+   [ { sectionHeader: 'Other instruments',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 8894,
+       quote: [ 'Many bassists have also used the wah-wah effect, for example Michael Henderson on Miles Davis\'s album On the Corner (1972).' ] },
+     { sectionHeader: 'Other instruments',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 10739,
+       quote: [] } ] }

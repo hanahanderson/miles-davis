@@ -1,0 +1,8 @@
+{ name: 'List of Juilliard School people',
+  href: 'http://en.wikipedia.org/wiki/List_of_Juilliard_School_people',
+  mentions: 
+   [ { sectionHeader: 'Notable alumni',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 8957,
+       quote: [ 'Miles Davis – jazz trumpeter (one semester)' ] } ] }

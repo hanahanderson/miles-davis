@@ -1,0 +1,8 @@
+{ name: 'Frank Loesser',
+  href: 'http://en.wikipedia.org/wiki/Frank_Loesser',
+  mentions: 
+   [ { sectionHeader: 'Notable songs',
+       sectionSubHeader: '',
+       sectionIndex: 45,
+       wordCountBeforeSection: 12793,
+       quote: [ '"A Bushel and a Peck", "Fugue for Tinhorns", "If I Were A Bell" (a favorite of Miles Davis, featured in recordings with John Coltrane), "Luck Be a Lady Tonight", "Sit Down, You\'re Rockin\' the Boat" and "I\'ll Know" from Guys and Dolls' ] } ] }

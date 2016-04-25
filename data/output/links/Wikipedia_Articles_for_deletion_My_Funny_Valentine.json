@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Articles for deletion/My Funny Valentine',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Articles_for_deletion/My_Funny_Valentine',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

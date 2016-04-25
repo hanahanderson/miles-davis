@@ -1,0 +1,18 @@
+{ name: 'Isle of Wight Festival',
+  href: 'http://en.wikipedia.org/wiki/Isle_of_Wight_Festival',
+  mentions: 
+   [ { sectionHeader: 'Original Festival details',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2171,
+       quote: [ 'Included in the line-up of over fifty performers were Jimi Hendrix, Miles Davis, The Doors, The Who, Lighthouse, Ten Years After, Emerson, Lake & Palmer, Joni Mitchell, The Moody Blues, Melanie, Donovan, Gilberto Gil, Free, Chicago, Richie Havens, John Sebastian, Leonard Cohen, Jethro Tull, Taste and Tiny Tim.' ] },
+     { sectionHeader: 'Original Festival details',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2910,
+       quote: [ 'To date there have been individual films of Miles Davis, Jimi Hendrix, The Who, Emerson, Lake & Palmer, The Moody Blues, Free, Leonard Cohen and Jethro Tull.' ] },
+     { sectionHeader: 'Original Festival details',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 4563,
+       quote: [ 'Arguably the best-remembered of the early versions of the IoW festivals, due to its line-up, attendance and news coverage, the line-up included Jimi Hendrix, Miles Davis, Jethro Tull, Ten Years After, Chicago, The Doors, Lighthouse, The Who (their set produced a live album), Emerson, Lake & Palmer, The Moody Blues, Joan Baez, Free, Joni Mitchell, Leonard Cohen, Kris Kristofferson, Donovan, John Sebastian, Terry Reid, Taste, and Shawn Phillips.' ] } ] }

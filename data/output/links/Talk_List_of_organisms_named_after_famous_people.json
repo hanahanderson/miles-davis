@@ -1,0 +1,4 @@
+{ name: 'Talk:List of organisms named after famous people',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Talk:List_of_organisms_named_after_famous_people',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

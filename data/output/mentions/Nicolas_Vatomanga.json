@@ -1,0 +1,8 @@
+{ name: 'Nicolas Vatomanga',
+  href: 'http://en.wikipedia.org/wiki/Nicolas_Vatomanga',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3434,
+       quote: [ 'Further encouraged by Silo Andrianandraina (also a young Malagasy jazzman), a friend from second class in high school, Vatomanga listened and explored the world of jazz fundamentals, particularly through the works of Charlie Parker, Miles Davis, George Shearing, Oscar Peterson, Sonny Rollins, Stan Getz, Bill Evans, McCoy Tyner, Herbie Hancock, Wayne Shorter, Joe Zawinul and John Coltrane. "Trane" in particular became a great influence.' ] } ] }

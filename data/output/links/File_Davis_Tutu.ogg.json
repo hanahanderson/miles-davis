@@ -1,0 +1,9 @@
+{ name: 'File:Davis Tutu.ogg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Davis_Tutu.ogg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '45680752 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '651521536 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Davis_Tutu.ogg?oldid=651521536',
+          href: 'http://en.wikipedia.org/wiki/File:Davis_Tutu.ogg?oldid=651521536' } ] } }

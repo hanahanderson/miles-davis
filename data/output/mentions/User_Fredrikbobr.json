@@ -1,0 +1,8 @@
+{ name: 'User:Fredrikbobr',
+  href: 'http://en.wikipedia.org/wiki/User:Fredrikbobr',
+  mentions: 
+   [ { sectionHeader: 'Wilhelm´s style of playing',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3629,
+       quote: [ 'Around 1955 there were other big influenses as well; Miles Davis had just released his ´Round about midnight where pianist Red Garland played.' ] } ] }

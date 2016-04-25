@@ -1,0 +1,109 @@
+{ name: 'Remember Shakti – Saturday Night in Bombay',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Remember_Shakti_%E2%80%93_Saturday_Night_in_Bombay',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '61.833333333333336' } ],
+     'dbo:abstract': [ { value: 'Remember Shakti – Saturday Night in Bombay is a live album by the world fusion band Remember Shakti released in November 2001 on the Verve label. The live set features John McLaughlin on Guitar, U. Srinivas on Mandolin, Vikku Selvaganesh playing Kanjira, Ghatam, Mridangam, all Indian percussion instruments, Zakir Hussain on Tabla and a number of Indian guest musicians. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Remember_Shakti',
+          href: 'http://dbpedia.org/resource/Remember_Shakti' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:World_music',
+          href: 'http://dbpedia.org/resource/World_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Remember_Shakti_–_The_Believer',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_–_The_Believer' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:releaseDate': [ { value: '2001-06-19 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3710.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '42653263 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662323384 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Remember_Shakti',
+          href: 'http://dbpedia.org/resource/Remember_Shakti' } ],
+     'dbp:cover': [ { value: 'Remember Shakti – Saturday Night in Bombay.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:World_music',
+          href: 'http://dbpedia.org/resource/World_music' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Believer (en)' } ],
+     'dbp:m': 
+      [ { value: '5 (xsd:integer)' },
+        { value: '10 (xsd:integer)' },
+        { value: '18 (xsd:integer)' },
+        { value: '26 (xsd:integer)' } ],
+     'dbp:name': [ { value: 'Remember Shakti – Saturday Night in Bombay (en)' } ],
+     'dbp:producer': [ { value: 'John McLaughlin, Daniel Richard (en)' } ],
+     'dbp:released': [ { value: '2001-06-19 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:s': 
+      [ { value: '38 (xsd:integer)' },
+        { value: '39 (xsd:integer)' },
+        { value: '45 (xsd:integer)' },
+        { value: '48 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Remember Shakti - Saturday Night in Bombay (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Shakti_(band)_albums',
+          href: 'http://dbpedia.org/resource/Category:Shakti_(band)_albums' },
+        { value: 'dbc:2001_albums',
+          href: 'http://dbpedia.org/resource/Category:2001_albums' },
+        { value: 'dbc:World_music_albums',
+          href: 'http://dbpedia.org/resource/Category:World_music_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Remember Shakti – Saturday Night in Bombay is a live album by the world fusion band Remember Shakti released in November 2001 on the Verve label. The live set features John McLaughlin on Guitar, U. Srinivas on Mandolin, Vikku Selvaganesh playing Kanjira, Ghatam, Mridangam, all Indian percussion instruments, Zakir Hussain on Tabla and a number of Indian guest musicians. (en)' } ],
+     'rdfs:label': [ { value: 'Remember Shakti – Saturday Night in Bombay (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Remember Shakti – Saturday Night in Bombay',
+          href: 'http://rdf.freebase.com/ns/m.01p1rlq' },
+        { value: 'dbpedia-wikidata:Remember Shakti – Saturday Night in Bombay',
+          href: 'http://wikidata.dbpedia.org/resource/Q16968497' },
+        { value: 'wikidata:Remember Shakti – Saturday Night in Bombay',
+          href: 'http://www.wikidata.org/entity/Q16968497' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Remember_Shakti_–_Saturday_Night_in_Bombay?oldid=662323384',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_–_Saturday_Night_in_Bombay?oldid=662323384' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Remember_Shakti_–_Saturday_Night_in_Bombay',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_–_Saturday_Night_in_Bombay' } ],
+     'foaf:name': [ { value: 'Remember Shakti – Saturday Night in Bombay (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Thieves_and_Poets',
+          href: 'http://dbpedia.org/resource/Thieves_and_Poets' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Remember_Shakti_–_The_Believer',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_–_The_Believer' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Remember Shakti – Saturday Night in Bombay',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_%E2%80%93_Saturday_Night_in_Bombay' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Remember_Shakti_–_Saturday_Night_in_Bombay',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_–_Saturday_Night_in_Bombay' } ] } }

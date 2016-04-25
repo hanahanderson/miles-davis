@@ -1,0 +1,8 @@
+{ name: 'User talk:128.186.53.58',
+  href: 'http://en.wikipedia.org/wiki/User_talk:128.186.53.58',
+  mentions: 
+   [ { sectionHeader: 'November 2008',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 33,
+       quote: [ 'The recent edit you made to Miles Davis has been reverted, as it appears to be unconstructive.' ] } ] }

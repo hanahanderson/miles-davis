@@ -1,0 +1,13 @@
+{ name: 'Al Haig',
+  href: 'http://en.wikipedia.org/wiki/Al_Haig',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 786,
+       quote: [ 'He was part of the celebrated nonet on the first session of Miles Davis\' Birth of the Cool.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 4320,
+       quote: [ 'With Miles Davis, Stan Getz and Lee Konitz' ] } ] }

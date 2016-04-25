@@ -1,0 +1,58 @@
+{ name: 'Music of Ohio',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Music_of_Ohio',
+  values: 
+   { 'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Rock-and-roll-hall-of-fame-sunset.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Rock-and-roll-hall-of-fame-sunset.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.offguardrecords.com/p/recording-studio.html',
+          href: 'http://www.offguardrecords.com/p/recording-studio.html' },
+        { value: 'http://groups.yahoo.com/group/youngstownsrocknrollhistory/',
+          href: 'http://groups.yahoo.com/group/youngstownsrocknrollhistory/' } ],
+     'dbo:wikiPageID': [ { value: '307687 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683315922 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_of_Ohio',
+          href: 'http://dbpedia.org/resource/Category:Music_of_Ohio' },
+        { value: 'dbc:Ohio_culture',
+          href: 'http://dbpedia.org/resource/Category:Ohio_culture' },
+        { value: 'dbc:Music_of_United_States_subdivisions',
+          href: 'http://dbpedia.org/resource/Category:Music_of_United_States_subdivisions' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:label': [ { value: 'Music of Ohio (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:Cincy_Blues_Fest',
+          href: 'http://dbpedia.org/resource/Cincy_Blues_Fest' },
+        { value: 'dbr:Midwest_hip_hop',
+          href: 'http://dbpedia.org/resource/Midwest_hip_hop' },
+        { value: 'dbr:Appalachian_music',
+          href: 'http://dbpedia.org/resource/Appalachian_music' },
+        { value: 'dbr:Renfro_Valley_Barn_Dance',
+          href: 'http://dbpedia.org/resource/Renfro_Valley_Barn_Dance' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Music of Ohio',
+          href: 'http://rdf.freebase.com/ns/m.0119j8ny' },
+        { value: 'dbpedia-wikidata:Music of Ohio',
+          href: 'http://wikidata.dbpedia.org/resource/Q6942231' },
+        { value: 'wikidata:Music of Ohio',
+          href: 'http://www.wikidata.org/entity/Q6942231' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Music_of_Ohio?oldid=683315922',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Ohio?oldid=683315922' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Rock-and-roll-hall-of-fame-sunset.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Rock-and-roll-hall-of-fame-sunset.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Music_of_Ohio',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Ohio' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Metalcore_in_Ohio',
+          href: 'http://dbpedia.org/resource/Metalcore_in_Ohio' },
+        { value: 'dbr:Ohio_metalcore',
+          href: 'http://dbpedia.org/resource/Ohio_metalcore' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Music_of_Ohio',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Ohio' } ] } }

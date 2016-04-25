@@ -1,0 +1,8 @@
+{ name: 'Überjam',
+  href: 'http://en.wikipedia.org/wiki/%C3%9Cberjam',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1818,
+       quote: [ 'Miles Davis' ] } ] }

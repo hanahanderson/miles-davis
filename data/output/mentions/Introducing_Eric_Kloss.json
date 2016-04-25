@@ -1,0 +1,8 @@
+{ name: 'Introducing Eric Kloss',
+  href: 'http://en.wikipedia.org/wiki/Introducing_Eric_Kloss',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1027,
+       quote: [ '"All Blues" (Miles Davis) - 5:37' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'If (band)',
+  href: 'http://en.wikipedia.org/wiki/If_(band)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1335,
+       quote: [ 'They also shared billings with, amongst others, Miles Davis, Muddy Waters, Willie Dixon and Leon Russell as well as many of the classic rock bands of the day, such as Traffic, Yes, Grand Funk Railroad, Ten Years After, Kiss, Dr Hook and the Medicine Show, and Lynyrd Skynyrd.' ] } ] }

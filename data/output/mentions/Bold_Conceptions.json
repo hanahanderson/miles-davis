@@ -1,0 +1,8 @@
+{ name: 'Bold Conceptions',
+  href: 'http://en.wikipedia.org/wiki/Bold_Conceptions',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 526,
+       quote: [ '"Nardis" (Miles Davis) - 5:30' ] } ] }

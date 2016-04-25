@@ -1,0 +1,105 @@
+{ name: 'Solo Concert',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Solo_Concert',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '47.483333333333334' } ],
+     'dbo:abstract': [ { value: 'Solo Concert is a live album by guitarist Ralph Towner recorded in 1979 and released on the ECM label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Ralph_Towner',
+          href: 'http://dbpedia.org/resource/Ralph_Towner' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Old_Friends,_New_Friends',
+          href: 'http://dbpedia.org/resource/Old_Friends,_New_Friends' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbo:runtime': [ { value: '2849.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Five_Years_Later',
+          href: 'http://dbpedia.org/resource/Five_Years_Later' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '33091314 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '666048527 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Ralph_Towner',
+          href: 'http://dbpedia.org/resource/Ralph_Towner' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Ralph_Towner',
+          href: 'http://dbpedia.org/resource/Ralph_Towner' } ],
+     'dbp:cover': [ { value: 'Solo Concert .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Old Friends, New Friends (en)' } ],
+     'dbp:length': [ { value: '2849.0' } ],
+     'dbp:name': [ { value: 'Solo Concert (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Five Years Later (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbp:recorded': [ { value: 'October 1979 (en)' } ],
+     'dbp:released': [ { value: '1980 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Solo Concert (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1980_albums',
+          href: 'http://dbpedia.org/resource/Category:1980_albums' },
+        { value: 'dbc:Ralph_Towner_albums',
+          href: 'http://dbpedia.org/resource/Category:Ralph_Towner_albums' },
+        { value: 'dbc:Albums_produced_by_Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Manfred_Eicher' },
+        { value: 'dbc:ECM_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:ECM_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Solo Concert is a live album by guitarist Ralph Towner recorded in 1979 and released on the ECM label. (en)' } ],
+     'rdfs:label': [ { value: 'Solo Concert (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Solo Concert',
+          href: 'http://rdf.freebase.com/ns/m.01ltmkt' },
+        { value: 'wikidata:Solo Concert',
+          href: 'http://www.wikidata.org/entity/Q7558452' },
+        { value: 'dbpedia-wikidata:Solo Concert',
+          href: 'http://wikidata.dbpedia.org/resource/Q7558452' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Solo_Concert?oldid=666048527',
+          href: 'http://en.wikipedia.org/wiki/Solo_Concert?oldid=666048527' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Solo_Concert',
+          href: 'http://en.wikipedia.org/wiki/Solo_Concert' } ],
+     'foaf:name': [ { value: 'Solo Concert (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Old_Friends,_New_Friends',
+          href: 'http://dbpedia.org/resource/Old_Friends,_New_Friends' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Solo_Concert_(album)',
+          href: 'http://dbpedia.org/resource/Solo_Concert_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Solo_Concert',
+          href: 'http://en.wikipedia.org/wiki/Solo_Concert' } ] } }

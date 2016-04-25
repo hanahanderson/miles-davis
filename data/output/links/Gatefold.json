@@ -1,0 +1,37 @@
+{ name: 'Gatefold',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Gatefold',
+  values: 
+   { 'dbo:abstract': [ { value: 'A gatefold is a type of fold used for advertising around a magazine or section, and for packaging of media such as the phonographic industry. (en)' } ],
+     'dbo:wikiPageID': [ { value: '2472071 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682088981 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Advertising_publications_by_format',
+          href: 'http://dbpedia.org/resource/Category:Advertising_publications_by_format' },
+        { value: 'dbc:Albums',
+          href: 'http://dbpedia.org/resource/Category:Albums' },
+        { value: 'dbc:Marketing',
+          href: 'http://dbpedia.org/resource/Category:Marketing' },
+        { value: 'dbc:Packaging',
+          href: 'http://dbpedia.org/resource/Category:Packaging' } ],
+     'rdfs:comment': [ { value: 'A gatefold is a type of fold used for advertising around a magazine or section, and for packaging of media such as the phonographic industry. (en)' } ],
+     'rdfs:label': [ { value: 'Gatefold (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Gatefold',
+          href: 'http://rdf.freebase.com/ns/m.07gddb' },
+        { value: 'dbpedia-wikidata:Gatefold',
+          href: 'http://wikidata.dbpedia.org/resource/Q5527049' },
+        { value: 'wikidata:Gatefold',
+          href: 'http://www.wikidata.org/entity/Q5527049' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Gatefold?oldid=682088981',
+          href: 'http://en.wikipedia.org/wiki/Gatefold?oldid=682088981' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Gatefold',
+          href: 'http://en.wikipedia.org/wiki/Gatefold' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Gatefold_LP',
+          href: 'http://dbpedia.org/resource/Gatefold_LP' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Gatefold',
+          href: 'http://en.wikipedia.org/wiki/Gatefold' } ] } }

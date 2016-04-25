@@ -1,0 +1,8 @@
+{ name: 'Fritz Renold',
+  href: 'http://en.wikipedia.org/wiki/Fritz_Renold',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1115,
+       quote: [ 'When he discovered Miles Davis\' Funny Valentine and Kinda Blue in the LP bins at Montreux, he was converted to jazz.' ] } ] }

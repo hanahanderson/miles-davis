@@ -1,0 +1,8 @@
+{ name: 'In the Land of the Giants',
+  href: 'http://en.wikipedia.org/wiki/In_the_Land_of_the_Giants',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 927,
+       quote: [ '"So What" (Miles Davis) - 11:01' ] } ] }

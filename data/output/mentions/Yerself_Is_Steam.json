@@ -1,0 +1,13 @@
+{ name: 'Yerself Is Steam',
+  href: 'http://en.wikipedia.org/wiki/Yerself_Is_Steam',
+  mentions: 
+   [ { sectionHeader: 'Lego My Ego',
+       sectionSubHeader: 'Formatting notes',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3854,
+       quote: [ 'CD version:\n1 is a cover of the Sly and the Family Stone song, originally released on the A-side of a 7" single in March 1992 by the Rough Trade Singles Club.\n2 is recorded live by the BBC Mobile Recording Studio at Finsbury Park, London, June 1992. "Shhh/Peaceful" is a cover of the Miles Davis song (from In a Silent Way), which is only quoted briefly in the introduction.\n3, 4, 6 and 8 are from a Peel Session recorded on August 27, 1991 and first broadcast on October 5, 1991. 8 is "Chasing a Bee" with some changed lyrics.' ] },
+     { sectionHeader: 'Lego My Ego',
+       sectionSubHeader: 'Formatting notes',
+       sectionIndex: 21,
+       wordCountBeforeSection: 5341,
+       quote: [ 'All songs written by Mercury Rev, except "If You Want Me to Say" by Sylvester Stewart and "Shhh/Peaceful" by Miles Davis. "Blood on the Moon" has no writer\'s credit, but is presumably also written by Grasshopper.' ] } ] }

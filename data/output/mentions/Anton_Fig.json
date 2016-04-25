@@ -1,0 +1,8 @@
+{ name: 'Anton Fig',
+  href: 'http://en.wikipedia.org/wiki/Anton_Fig',
+  mentions: 
+   [ { sectionHeader: 'David Letterman',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2162,
+       quote: [ 'During this tenure, Fig and the rest of the band have played with scores of artists including Miles Davis, James Brown, Bruce Springsteen, Stevie Winwood, Bonnie Raitt, and Tony Bennett.' ] } ] }

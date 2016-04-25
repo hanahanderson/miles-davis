@@ -1,0 +1,8 @@
+{ name: 'Ingolstädter Jazztage',
+  href: 'http://en.wikipedia.org/wiki/Ingolst%C3%A4dter_Jazztage',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Ray Charles, Betty Carter, Miles Davis, Fats Domino, Lionel Hampton, Stanley Jordan, Taj Mahal, Maceo Parker, Maynard Ferguson, Airto Moreira, Eddie Palmieri, Mike Mainieri & Steps Ahead, Ray Brown, Klaus Doldinger\'s Passport, Percussion Academia' ] } ] }

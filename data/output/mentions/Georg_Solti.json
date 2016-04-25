@@ -1,0 +1,8 @@
+{ name: 'Georg Solti',
+  href: 'http://en.wikipedia.org/wiki/Georg_Solti',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Later years',
+       sectionIndex: 80,
+       wordCountBeforeSection: 48207,
+       quote: [ 'Miles Davis (1984)' ] } ] }

@@ -1,0 +1,18 @@
+{ name: 'Michał Urbaniak',
+  href: 'http://en.wikipedia.org/wiki/Micha%C5%82_Urbaniak',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Urbanator, Miles Davis' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4467,
+       quote: [ 'In 1985, he was invited to play during the recording of Tutu with the father of Jazz & Jazz Fusion, Miles Davis.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6285,
+       quote: [ 'With Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Silence (David Murray album)',
+  href: 'http://en.wikipedia.org/wiki/Silence_(David_Murray_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1242,
+       quote: [ '"Jean-Pierre" (Miles Davis) - 10:07' ] } ] }

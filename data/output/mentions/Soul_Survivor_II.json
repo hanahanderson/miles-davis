@@ -1,0 +1,8 @@
+{ name: 'Soul Survivor II',
+  href: 'http://en.wikipedia.org/wiki/Soul_Survivor_II',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1909,
+       quote: [ 'The album\'s front cover is a nod to the Miles Davis album Tutu, which features the legendary jazz trumpeter in an identical, albeit black and white, portrait shot.' ] } ] }

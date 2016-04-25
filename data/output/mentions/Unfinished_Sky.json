@@ -1,0 +1,8 @@
+{ name: 'Unfinished Sky',
+  href: 'http://en.wikipedia.org/wiki/Unfinished_Sky',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 1410,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

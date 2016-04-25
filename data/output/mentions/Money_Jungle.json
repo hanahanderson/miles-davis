@@ -1,0 +1,8 @@
+{ name: 'Money Jungle',
+  href: 'http://en.wikipedia.org/wiki/Money_Jungle',
+  mentions: 
+   [ { sectionHeader: 'Reception and influence',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 10195,
+       quote: [ 'Drmmer Jeff "Tain" Watts observed that the members of the trio were "doing their thing, but they’re together", and compares this with later groups led by Keith Jarrett and Wayne Shorter, stating that the later groups "have a much freer way of doing it, but everybody\'s kind of in their own zone and yet they’re definitely playing the composition in tune with each other, just like Duke and Max and Mingus were doing on Money Jungle.":38 Trumpeter Miles Davis had a different view of the session: in a 1964 Down Beat blind listening test, he criticised the record company for putting the three musicians together, saying that "Max and Mingus can play together, by themselves.' ] } ] }

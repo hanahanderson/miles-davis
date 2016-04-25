@@ -1,0 +1,8 @@
+{ name: 'Skylark (Shirley Scott album)',
+  href: 'http://en.wikipedia.org/wiki/Skylark_(Shirley_Scott_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 641,
+       quote: [ '"The Party\'s Over/The Theme" (Betty Comden, Adolph Green, Jule Styne/Miles Davis) - 6:23' ] } ] }

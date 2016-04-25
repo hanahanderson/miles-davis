@@ -1,0 +1,8 @@
+{ name: 'Mike Ratledge',
+  href: 'http://en.wikipedia.org/wiki/Mike_Ratledge',
+  mentions: 
+   [ { sectionHeader: 'Biography and career',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1034,
+       quote: [ 'Through Cecil Taylor\'s piano pieces Ratledge became familiar with the music of Thelonious Monk, Miles Davis and John Coltrane.' ] } ] }

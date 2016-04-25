@@ -1,0 +1,8 @@
+{ name: 'Cuckooland',
+  href: 'http://en.wikipedia.org/wiki/Cuckooland',
+  mentions: 
+   [ { sectionHeader: 'Notes',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1367,
+       quote: [ '"Old Europe" is about Juliette Greco and Miles Davis.' ] } ] }

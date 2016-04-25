@@ -1,0 +1,13 @@
+{ name: 'User talk:Jmmyjam',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Jmmyjam',
+  mentions: 
+   [ { sectionHeader: 'September 2013',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 9191,
+       quote: [ 'I have automatically detected that your edit to Miles Davis may have broken the syntax by modifying 1 "[]"s.' ] },
+     { sectionHeader: 'September 2013',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 9191,
+       quote: [ 'I have automatically detected that your edit to Miles Davis may have broken the syntax by modifying 1 "[]"s.' ] } ] }

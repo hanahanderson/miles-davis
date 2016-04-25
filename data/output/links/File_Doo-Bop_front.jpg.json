@@ -1,0 +1,12 @@
+{ name: 'File:Doo-Bop front.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Doo-Bop_front.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '3565197 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '143909295 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Doo-Bop_front.jpg?oldid=143909295',
+          href: 'http://en.wikipedia.org/wiki/File:Doo-Bop_front.jpg?oldid=143909295' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Doo-Bop_front.jpg',
+          href: 'http://dbpedia.org/resource/File:Doo-Bop_front.jpg' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'List of NME covers',
+  href: 'http://en.wikipedia.org/wiki/List_of_NME_covers',
+  mentions: 
+   [ { sectionHeader: '1985',
+       sectionSubHeader: '',
+       sectionIndex: 43,
+       wordCountBeforeSection: 23497,
+       quote: [ '13/07/85 Miles Davis' ] } ] }

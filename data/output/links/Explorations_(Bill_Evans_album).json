@@ -1,0 +1,127 @@
+{ name: 'Explorations (Bill Evans album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Explorations_(Bill_Evans_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '60.0' } ],
+     'dbo:abstract': [ { value: 'Explorations is an album by jazz musician Bill Evans originally released on Riverside label in 1961. The album won the Billboard Jazz Critics Best Piano LP poll for 1961. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Portrait_in_Jazz',
+          href: 'http://dbpedia.org/resource/Portrait_in_Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbo:recordDate': [ { value: '1961-02-02 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '3600.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Sunday_at_the_Village_Vanguard',
+          href: 'http://dbpedia.org/resource/Sunday_at_the_Village_Vanguard' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.billevans.net/bill2.html',
+          href: 'http://www.billevans.net/bill2.html' },
+        { value: 'http://www.jazzdisco.org/bill-evans/catalog/',
+          href: 'http://www.jazzdisco.org/bill-evans/catalog/' } ],
+     'dbo:wikiPageID': [ { value: '983287 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681186247 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Bill_Evans_Trio_Explorations.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' },
+        { value: 'RLP 351 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Portrait in Jazz (en)' } ],
+     'dbp:length': [ { value: '3600.0' } ],
+     'dbp:name': [ { value: 'Explorations (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Sunday at the Village Vanguard (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbp:recorded': 
+      [ { value: '1961-02-02 (xsd:date)' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbp:released': [ { value: 'End of March 1961 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Explorations (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1961_albums',
+          href: 'http://dbpedia.org/resource/Category:1961_albums' },
+        { value: 'dbc:Bill_Evans_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_albums' },
+        { value: 'dbc:Albums_produced_by_Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Orrin_Keepnews' },
+        { value: 'dbc:Riverside_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Riverside_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Explorations is an album by jazz musician Bill Evans originally released on Riverside label in 1961. The album won the Billboard Jazz Critics Best Piano LP poll for 1961. (en)' } ],
+     'rdfs:label': [ { value: 'Explorations (Bill Evans album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Explorations (Bill Evans album)',
+          href: 'http://fr.dbpedia.org/resource/Explorations' },
+        { value: 'dbpedia-de:Explorations (Bill Evans album)',
+          href: 'http://de.dbpedia.org/resource/Explorations' },
+        { value: 'dbpedia-wikidata:Explorations (Bill Evans album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q162930' },
+        { value: 'freebase:Explorations (Bill Evans album)',
+          href: 'http://rdf.freebase.com/ns/m.01kbwgs' },
+        { value: 'wikidata:Explorations (Bill Evans album)',
+          href: 'http://www.wikidata.org/entity/Q162930' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Explorations_(Bill_Evans_album)?oldid=681186247',
+          href: 'http://en.wikipedia.org/wiki/Explorations_(Bill_Evans_album)?oldid=681186247' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Explorations_(Bill_Evans_album)',
+          href: 'http://en.wikipedia.org/wiki/Explorations_(Bill_Evans_album)' } ],
+     'foaf:name': [ { value: 'Explorations (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Sunday_at_the_Village_Vanguard',
+          href: 'http://dbpedia.org/resource/Sunday_at_the_Village_Vanguard' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Portrait_in_Jazz',
+          href: 'http://dbpedia.org/resource/Portrait_in_Jazz' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Explorations',
+          href: 'http://dbpedia.org/resource/Explorations' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Explorations_(Bill_Evans_album)',
+          href: 'http://en.wikipedia.org/wiki/Explorations_(Bill_Evans_album)' } ] } }

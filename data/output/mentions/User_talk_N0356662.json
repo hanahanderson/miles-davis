@@ -1,0 +1,13 @@
+{ name: 'User talk:N0356662',
+  href: 'http://en.wikipedia.org/wiki/User_talk:N0356662',
+  mentions: 
+   [ { sectionHeader: 'February 2012',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 19,
+       quote: [ 'Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted (undone) by an automated computer program called ClueBot NG.' ] },
+     { sectionHeader: 'February 2012',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 331,
+       quote: [ 'The following is the log entry regarding this warning: Miles Davis was changed by N0356662 (u) (t) ANN scored at 0.938438 on 2012-02-10T18:32:13+00:00 .' ] } ] }

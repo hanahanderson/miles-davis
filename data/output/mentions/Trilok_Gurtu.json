@@ -1,0 +1,8 @@
+{ name: 'Trilok Gurtu',
+  href: 'http://en.wikipedia.org/wiki/Trilok_Gurtu',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1941,
+       quote: [ 'The line-up with Hellborg performed at least one concert opening for Miles Davis in Berkeley, California in 1988.' ] } ] }

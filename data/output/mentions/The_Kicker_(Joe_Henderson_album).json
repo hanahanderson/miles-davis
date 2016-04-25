@@ -1,0 +1,8 @@
+{ name: 'The Kicker (Joe Henderson album)',
+  href: 'http://en.wikipedia.org/wiki/The_Kicker_(Joe_Henderson_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 933,
+       quote: [] } ] }

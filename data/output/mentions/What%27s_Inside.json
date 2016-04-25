@@ -1,0 +1,8 @@
+{ name: 'What\'s Inside',
+  href: 'http://en.wikipedia.org/wiki/What%27s_Inside',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1371,
+       quote: [ 'Other than those, Armatrading and her co-producer David Tickle worked with a new set of musicians for the album, including some very experienced artists guesting on several tracks, such as Darryl Jones, who had worked with Miles Davis and Eric Clapton, among others, and who went on to join the Rolling Stones; Greg Phillinganes, a keyboardist who had worked with Stevie Wonder, Eric Clapton, Donna Summer, Aretha Franklin and many others, and Benmont Tench of Tom Petty and the Heartbreakers.' ] } ] }

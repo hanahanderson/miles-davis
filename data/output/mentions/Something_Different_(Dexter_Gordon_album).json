@@ -1,0 +1,8 @@
+{ name: 'Something Different (Dexter Gordon album)',
+  href: 'http://en.wikipedia.org/wiki/Something_Different_(Dexter_Gordon_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 855,
+       quote: [ '"Freddie Freeloader" (Miles Davis) - 8:33' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Grassy Knoll (band)',
+  href: 'http://en.wikipedia.org/wiki/The_Grassy_Knoll_(band)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 406,
+       quote: [ 'Critical reception was warm: James Chrispell described the album as comprising "a trumpet call right out of Miles Davis, a stab at Hendrix, a bit of Duane Eddy guitar, and loads of eerie electronics which whisper into your ear only to explode your head seconds later,"' ] } ] }

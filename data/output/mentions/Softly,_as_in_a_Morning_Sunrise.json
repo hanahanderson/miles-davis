@@ -1,0 +1,8 @@
+{ name: 'Softly, as in a Morning Sunrise',
+  href: 'http://en.wikipedia.org/wiki/Softly,_as_in_a_Morning_Sunrise',
+  mentions: 
+   [ { sectionHeader: 'Cover versions',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 812,
+       quote: [ 'Miles Davis - In Person Friday and Saturday Nights at the Blackhawk (1961, released 2003)' ] } ] }

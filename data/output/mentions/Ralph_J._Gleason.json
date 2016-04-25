@@ -1,0 +1,13 @@
+{ name: 'Ralph J. Gleason',
+  href: 'http://en.wikipedia.org/wiki/Ralph_J._Gleason',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 615,
+       quote: [ 'Gleason was one of the first critics to perceive the importance of Lenny Bruce, Bob Dylan, and Miles Davis.' ] },
+     { sectionHeader: 'Bibliography',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 4694,
+       quote: [] } ] }

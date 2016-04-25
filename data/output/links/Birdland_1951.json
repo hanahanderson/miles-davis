@@ -1,0 +1,116 @@
+{ name: 'Birdland 1951',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Birdland_1951',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '65.58333333333333' } ],
+     'dbo:abstract': [ { value: 'Birdland 1951 is a live album by American jazz musician Miles Davis, released in January 27, 2004, by Savoy Records and recorded from February 17, 1951, through September 29, 1951, in Birdland, from radio broadcasts. Three different broadcasts were chosen: two comprising six cuts in total were from June and September and have been issued in various forms on bootlegs over the decades. Four cuts were taken from a broadcast on February 17, which have never been available in any form. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Bebop',
+          href: 'http://dbpedia.org/resource/Bebop' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Live_at_the_Fillmore_East,_March_7,_1970:_It\'s_About_that_Time',
+          href: 'http://dbpedia.org/resource/Live_at_the_Fillmore_East,_March_7,_1970:_It\'s_About_that_Time' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Michael_Cuscuna' } ],
+     'dbo:recordDate': [ { value: '1951-02-17 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Birdland_(New_York_jazz_club)',
+          href: 'http://dbpedia.org/resource/Birdland_(New_York_jazz_club)' } ],
+     'dbo:releaseDate': [ { value: '2004-01-27 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3935.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Amsterdam_Concert',
+          href: 'http://dbpedia.org/resource/Amsterdam_Concert' } ],
+     'dbo:wikiPageID': [ { value: '32057668 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '640851894 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:class': [ { value: 'album (en)' } ],
+     'dbp:cover': [ { value: 'Birdland 1951.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Bebop',
+          href: 'http://dbpedia.org/resource/Bebop' } ],
+     'dbp:id': [ { value: 'r676093 (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' },
+        { value: 'Birdland 1951 (en)' } ],
+     'dbp:lastAlbum': [ { value: '--03-07' } ],
+     'dbp:length': [ { value: '3935.0' } ],
+     'dbp:name': [ { value: 'Birdland 1951 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Amsterdam Concert (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Michael_Cuscuna' } ],
+     'dbp:recorded': [ { value: '--02-17' } ],
+     'dbp:released': [ { value: '2004-01-27 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:rev1score': [ { value: 'Allmusic  [{{Allmusic|class=album|id=r676093|pure_url=yes}} link] (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Birdland 1951 (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Michael_Cuscuna' },
+        { value: 'dbc:2004_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2004_live_albums' },
+        { value: 'dbc:Miles_Davis_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_live_albums' },
+        { value: 'dbc:Blue_Note_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Blue_Note_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Birdland 1951 is a live album by American jazz musician Miles Davis, released in January 27, 2004, by Savoy Records and recorded from February 17, 1951, through September 29, 1951, in Birdland, from radio broadcasts. Three different broadcasts were chosen: two comprising six cuts in total were from June and September and have been issued in various forms on bootlegs over the decades. Four cuts were taken from a broadcast on February 17, which have never been available in any form. (en)' } ],
+     'rdfs:label': [ { value: 'Birdland 1951 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Birdland 1951',
+          href: 'http://rdf.freebase.com/ns/m.0gx19yq' },
+        { value: 'dbpedia-pt:Birdland 1951',
+          href: 'http://pt.dbpedia.org/resource/Birdland_1951' },
+        { value: 'dbpedia-wikidata:Birdland 1951',
+          href: 'http://wikidata.dbpedia.org/resource/Q4916010' },
+        { value: 'wikidata:Birdland 1951',
+          href: 'http://www.wikidata.org/entity/Q4916010' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Birdland_1951?oldid=640851894',
+          href: 'http://en.wikipedia.org/wiki/Birdland_1951?oldid=640851894' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Birdland_1951',
+          href: 'http://en.wikipedia.org/wiki/Birdland_1951' } ],
+     'foaf:name': [ { value: 'Birdland 1951 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Amsterdam_Concert',
+          href: 'http://dbpedia.org/resource/Amsterdam_Concert' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Live_at_the_Fillmore_East,_March_7,_1970:_It\'s_About_that_Time',
+          href: 'http://dbpedia.org/resource/Live_at_the_Fillmore_East,_March_7,_1970:_It\'s_About_that_Time' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Birdland_1951',
+          href: 'http://en.wikipedia.org/wiki/Birdland_1951' } ] } }

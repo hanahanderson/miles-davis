@@ -1,0 +1,8 @@
+{ name: 'Sunrise (Robben Ford album)',
+  href: 'http://en.wikipedia.org/wiki/Sunrise_(Robben_Ford_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 891,
+       quote: [ '"Eighty One" (Miles Davis, Ron Carter) — 8:08' ] } ] }

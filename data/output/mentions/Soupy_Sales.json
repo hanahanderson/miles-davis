@@ -1,0 +1,8 @@
+{ name: 'Soupy Sales',
+  href: 'http://en.wikipedia.org/wiki/Soupy_Sales',
+  mentions: 
+   [ { sectionHeader: 'Lunch with Soupy Sales',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6283,
+       quote: [ 'Coleman Hawkins, Louis Armstrong, Duke Ellington, Billie Holiday, Charlie Parker, and Stan Getz were among the musicians who appeared on the show; Miles Davis made six appearances.' ] } ] }

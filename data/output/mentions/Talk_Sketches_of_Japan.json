@@ -1,0 +1,10 @@
+{ name: 'Talk:Sketches of Japan',
+  href: 'http://en.wikipedia.org/wiki/Talk:Sketches_of_Japan',
+  mentions: 
+   [ { sectionHeader: 'album cover - color scheme choice',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2155,
+       quote: 
+        [ 'User:Remurmur today added a line stating that in addition to the album\'s title, the cover color scheme of Sketches of Japan is an intentional reference to the "red/yellow theme" of Miles Davis\' Sketches of Spain album cover.',
+          'The same argument could be made for the implied title reference as well (citation is needed) - although in the case of the title, it seems much more likely to me (and to "the average reader"?) that the choice of "Sketches of..." for a jazz album title in this case is more than coincidence and was likely made with full knowledge of the (intentional) similarity to the Miles Davis\' album title.' ] } ] }

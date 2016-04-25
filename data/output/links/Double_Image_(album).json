@@ -1,0 +1,103 @@
+{ name: 'Double Image (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Double_Image_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '48.166666666666664' } ],
+     'dbo:abstract': [ { value: 'Double Image is an album of duets by saxophonist Frank Morgan and pianist George Cables recorded in 1986 and originally released on the Contemporary label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:George_Cables',
+          href: 'http://dbpedia.org/resource/George_Cables' },
+        { value: 'dbr:Frank_Morgan_(musician)',
+          href: 'http://dbpedia.org/resource/Frank_Morgan_(musician)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Easy_Living_(Frank_Morgan_album)',
+          href: 'http://dbpedia.org/resource/Easy_Living_(Frank_Morgan_album)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Contemporary_Records',
+          href: 'http://dbpedia.org/resource/Contemporary_Records' } ],
+     'dbo:runtime': [ { value: '2890.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Lament_(Frank_Morgan_album)',
+          href: 'http://dbpedia.org/resource/Lament_(Frank_Morgan_album)' } ],
+     'dbo:wikiPageID': [ { value: '46937818 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '666286471 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Frank Morgan and George Cables (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Frank_Morgan_(musician)',
+          href: 'http://dbpedia.org/resource/Frank_Morgan_(musician)' } ],
+     'dbp:cover': [ { value: 'Double Image .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Contemporary_Records',
+          href: 'http://dbpedia.org/resource/Contemporary_Records' },
+        { value: '14035.0' } ],
+     'dbp:lastAlbum': [ { value: 'Easy Living (en)' } ],
+     'dbp:length': [ { value: '2890.0' } ],
+     'dbp:name': [ { value: 'Double Image (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Lament (en)' } ],
+     'dbp:producer': [ { value: 'Richard Bock (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--05-21' },
+        { value: 'Monterey Sound Studio in Glendale, California (en)' } ],
+     'dbp:released': [ { value: '1987 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Double Image (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1987_albums',
+          href: 'http://dbpedia.org/resource/Category:1987_albums' },
+        { value: 'dbc:Frank_Morgan_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:Frank_Morgan_(musician)_albums' },
+        { value: 'dbc:Contemporary_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Contemporary_Records_albums' },
+        { value: 'dbc:George_Cables_albums',
+          href: 'http://dbpedia.org/resource/Category:George_Cables_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Double Image is an album of duets by saxophonist Frank Morgan and pianist George Cables recorded in 1986 and originally released on the Contemporary label. (en)' } ],
+     'rdfs:label': [ { value: 'Double Image (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Double Image (album)',
+          href: 'http://rdf.freebase.com/ns/m.012jzh8z' },
+        { value: 'dbpedia-wikidata:Double Image (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20686587' },
+        { value: 'wikidata:Double Image (album)',
+          href: 'http://www.wikidata.org/entity/Q20686587' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Double_Image_(album)?oldid=666286471',
+          href: 'http://en.wikipedia.org/wiki/Double_Image_(album)?oldid=666286471' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Double_Image_(album)',
+          href: 'http://en.wikipedia.org/wiki/Double_Image_(album)' } ],
+     'foaf:name': [ { value: 'Double Image (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:By_George_(album)',
+          href: 'http://dbpedia.org/resource/By_George_(album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Phantom_of_the_City',
+          href: 'http://dbpedia.org/resource/Phantom_of_the_City' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Double_image',
+          href: 'http://dbpedia.org/resource/Double_image' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Double_Image_(album)',
+          href: 'http://en.wikipedia.org/wiki/Double_Image_(album)' } ] } }

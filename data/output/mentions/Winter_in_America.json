@@ -1,0 +1,8 @@
+{ name: 'Winter in America',
+  href: 'http://en.wikipedia.org/wiki/Winter_in_America',
+  mentions: 
+   [ { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 17241,
+       quote: [ 'It features a dreamy, moody soundscape, produced by Jackson\'s Rhodes electric piano, which evokes the In a Silent Way-era jazz of Miles Davis. "Peace Go with You, Brother" has Scott-Heron criticizing the selfishness of certain members of his generation, as well as people for forgetting their common humanity.' ] } ] }

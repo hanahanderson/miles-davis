@@ -1,0 +1,12 @@
+{ name: 'Template:Infobox ethnic group/testcases',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:Infobox_ethnic_group/testcases',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '22602139 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679421319 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Infobox_ethnic_group/testcases?oldid=679421319',
+          href: 'http://en.wikipedia.org/wiki/Template:Infobox_ethnic_group/testcases?oldid=679421319' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbt:Infobox_Ethnic_group/testcases',
+          href: 'http://dbpedia.org/resource/Template:Infobox_Ethnic_group/testcases' } ] } }

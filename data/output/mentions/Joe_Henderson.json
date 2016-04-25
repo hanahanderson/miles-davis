@@ -1,0 +1,8 @@
+{ name: 'Joe Henderson',
+  href: 'http://en.wikipedia.org/wiki/Joe_Henderson',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 5135,
+       quote: [ 'In 1967, there was a brief association with Miles Davis\'s quintet featuring Hancock, Wayne Shorter, Ron Carter and Tony Williams, although the band was never recorded.' ] } ] }

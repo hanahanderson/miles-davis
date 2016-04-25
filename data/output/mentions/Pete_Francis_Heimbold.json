@@ -1,0 +1,8 @@
+{ name: 'Pete Francis Heimbold',
+  href: 'http://en.wikipedia.org/wiki/Pete_Francis_Heimbold',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1029,
+       quote: [ 'He was influenced musically by such artists as Van Morrison, Cat Stevens, Tom Waits, Joni Mitchell, and Miles Davis.' ] } ] }

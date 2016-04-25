@@ -1,0 +1,13 @@
+{ name: 'Miles Dewey Davis, Jr.',
+  href: 'http://en.wikipedia.org/wiki/Miles_Dewey_Davis,_Jr.',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Dewey Davis, Jr. (March 1, 1898—1962) was an affluent American dentist and father of jazz legend Miles Davis.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 851,
+       quote: [] } ] }

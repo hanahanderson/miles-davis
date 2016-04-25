@@ -1,0 +1,10 @@
+{ name: 'Takahito Eguchi',
+  href: 'http://en.wikipedia.org/wiki/Takahito_Eguchi',
+  mentions: 
+   [ { sectionHeader: 'Musical style and influences',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 5464,
+       quote: 
+        [ 'He cites Igor Stravinsky, Ryuichi Sakamoto, and Miles Davis as musical influences.',
+          'When asked about which musicians he would like to collaborate with, he replied, "A musician who has passed away, Miles Davis.' ] } ] }

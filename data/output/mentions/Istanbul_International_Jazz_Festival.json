@@ -1,0 +1,8 @@
+{ name: 'Istanbul International Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Istanbul_International_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1328,
+       quote: [ 'From its beginning, the festival hosted world-renowned artists and groups like Miles Davis, Dizzy Gillespie, the Modern Jazz Quartet, Stan Getz, Ornette Coleman, Eric Clapton, Massive Attack, Björk, Deep Forest, Dead Can Dance, Loreena McKennitt, Suzanne Vega, Patti Smith, Bobby McFerrin, Randy Crawford, The Manhattan Transfer, Jan Garbarek, Keith Jarrett, Wynton Marsalis, Goran Bregovic, Bryan Ferry, Lou Reed, Ute Lemper, Ryuichi Sakamoto, Roni Size, Paco de Lucia, Nick Cave, John Scofield, Simply Red, Jane Birkin, Brad Mehldau, Marcus Miller, Mercedes Sosa, Marianne Faithfull, Jan Garbarek, Roy Haynes, Billy Cobham, Dianne Reeves, Sting, Raul Midón, Lenny Kravitz, Pat Metheny, and Charlie Haden, among hundreds of other top names in the music industry.' ] } ] }

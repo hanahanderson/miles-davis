@@ -1,0 +1,8 @@
+{ name: 'Chris Badami',
+  href: 'http://en.wikipedia.org/wiki/Chris_Badami',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 875,
+       quote: [ 'Chris\' engineering and production credits span the globe on both a major and independent level, working with artists and labels such as: Days of the New, The Early November, I Can Make A Mess Like Nobody\'s Business, Luthea Salom, The Starting Line, The Dillinger Escape Plan, Hidden in Plain View, Stafford, Socratic, Midtown, Mike Patton, Burlap to Cashmere, Lenny White (Miles Davis, Stanley Clarke, Chick Corea), Mary Wilson of The Supremes, John Popper of Blues Traveler, Roark, Jodelle (entertainer), OneTwoThreeFour, Pete Nischt, Geffen Records, A&M Records, Interscope Records, Drve-Thru Records, Victory Records, Trustkill Records, Relapse Records, and Regular Music.' ] } ] }

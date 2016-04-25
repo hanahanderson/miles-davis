@@ -1,0 +1,103 @@
+{ name: 'Time Remembered: John McLaughlin Plays Bill Evans',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Time_Remembered:_John_McLaughlin_Plays_Bill_Evans',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '40.1' } ],
+     'dbo:abstract': [ { value: 'Time Remembered: John McLaughlin Plays Bill Evans is an album by the John McLaughlin Trio. It was released on the Verve label in 1993. The album reached number 10 in the Billboard Top Jazz Albums chart. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Que_Alegria',
+          href: 'http://dbpedia.org/resource/Que_Alegria' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:runtime': [ { value: '2406.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Tokyo_Live_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/Tokyo_Live_(John_McLaughlin_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '42521499 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680334357 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbp:cover': [ { value: 'Time_Remembered_JM.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Qué Alegría (en)' } ],
+     'dbp:name': [ { value: 'Time Remembered: John McLaughlin Plays Bill Evans (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Tokyo Live (en)' } ],
+     'dbp:producer': [ { value: 'John McLaughlin, Jean-Philippe Allard (en)' } ],
+     'dbp:released': [ { value: '1993 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'Time Remembered: John McLaughlin Plays Bill Evans (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1993_albums',
+          href: 'http://dbpedia.org/resource/Category:1993_albums' },
+        { value: 'dbc:Bill_Evans_tribute_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_tribute_albums' },
+        { value: 'dbc:John_McLaughlin_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:John_McLaughlin_(musician)_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Time Remembered: John McLaughlin Plays Bill Evans is an album by the John McLaughlin Trio. It was released on the Verve label in 1993. The album reached number 10 in the Billboard Top Jazz Albums chart. (en)' } ],
+     'rdfs:label': [ { value: 'Time Remembered: John McLaughlin Plays Bill Evans (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Time Remembered: John McLaughlin Plays Bill Evans',
+          href: 'http://rdf.freebase.com/ns/m.01l4k_j' },
+        { value: 'wikidata:Time Remembered: John McLaughlin Plays Bill Evans',
+          href: 'http://www.wikidata.org/entity/Q17034095' },
+        { value: 'dbpedia-wikidata:Time Remembered: John McLaughlin Plays Bill Evans',
+          href: 'http://wikidata.dbpedia.org/resource/Q17034095' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Time_Remembered:_John_McLaughlin_Plays_Bill_Evans?oldid=680334357',
+          href: 'http://en.wikipedia.org/wiki/Time_Remembered:_John_McLaughlin_Plays_Bill_Evans?oldid=680334357' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Time_Remembered:_John_McLaughlin_Plays_Bill_Evans',
+          href: 'http://en.wikipedia.org/wiki/Time_Remembered:_John_McLaughlin_Plays_Bill_Evans' } ],
+     'foaf:name': [ { value: 'Time Remembered: John McLaughlin Plays Bill Evans (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Tokyo_Live_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/Tokyo_Live_(John_McLaughlin_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Que_Alegria',
+          href: 'http://dbpedia.org/resource/Que_Alegria' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Time_Remembered:_John_McLaughlin_Plays_Bill_Evans',
+          href: 'http://en.wikipedia.org/wiki/Time_Remembered:_John_McLaughlin_Plays_Bill_Evans' } ] } }

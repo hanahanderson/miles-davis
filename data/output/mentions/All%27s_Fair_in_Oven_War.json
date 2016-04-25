@@ -1,0 +1,8 @@
+{ name: 'All\'s Fair in Oven War',
+  href: 'http://en.wikipedia.org/wiki/All%27s_Fair_in_Oven_War',
+  mentions: 
+   [ { sectionHeader: 'Cultural references',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 6218,
+       quote: [ 'Also, "Boplicity" by Miles Davis is being listened to by Bart and Milhouse. "Take Five" by The Dave Brubeck Quartet is played in the background at Bart\'s treehouse.' ] } ] }

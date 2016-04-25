@@ -1,0 +1,112 @@
+{ name: 'Brothers-4',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Brothers-4',
+  values: 
+   { 'dbo:abstract': [ { value: 'Brothers-4 is an album by organist Don Patterson with saxophonist Sonny Stitt recorded in 1969 and released on the Prestige label. The album features guitarist Grant Green, who was credited as Blue Grant for contractual reasons, being then signed to Blue Note Records. The 2001 CD release added 6 bonus tracks recorded at the same session but issued on other albums. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Don_Patterson_(organist)',
+          href: 'http://dbpedia.org/resource/Don_Patterson_(organist)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Oh_Happy_Day_(Don_Patterson_album)',
+          href: 'http://dbpedia.org/resource/Oh_Happy_Day_(Don_Patterson_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Porter_(record_producer)',
+          href: 'http://dbpedia.org/resource/Bob_Porter_(record_producer)' } ],
+     'dbo:recordDate': [ { value: '1969-09-15 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Donny_Brook',
+          href: 'http://dbpedia.org/resource/Donny_Brook' } ],
+     'dbo:wikiPageID': [ { value: '38988301 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '656372078 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Don Patterson with Sonny Stitt (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Don_Patterson_(organist)',
+          href: 'http://dbpedia.org/resource/Don_Patterson_(organist)' } ],
+     'dbp:cover': [ { value: 'Brothers-4.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: '(PR 7738) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Oh Happy Day (en)' } ],
+     'dbp:name': [ { value: 'Brothers-4 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Donny Brook (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Porter_(record_producer)',
+          href: 'http://dbpedia.org/resource/Bob_Porter_(record_producer)' } ],
+     'dbp:recorded': 
+      [ { value: '1969-09-15 (xsd:date)' },
+        { value: 'Van Gelder Studio, Englewood Cliffs, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1969 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Brothers-4 (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1969_albums',
+          href: 'http://dbpedia.org/resource/Category:1969_albums' },
+        { value: 'dbc:Sonny_Stitt_albums',
+          href: 'http://dbpedia.org/resource/Category:Sonny_Stitt_albums' },
+        { value: 'dbc:Albums_produced_by_Bob_Porter_(record_producer)',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Porter_(record_producer)' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Don_Patterson_(organist)_albums',
+          href: 'http://dbpedia.org/resource/Category:Don_Patterson_(organist)_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Brothers-4 is an album by organist Don Patterson with saxophonist Sonny Stitt recorded in 1969 and released on the Prestige label. The album features guitarist Grant Green, who was credited as Blue Grant for contractual reasons, being then signed to Blue Note Records. The 2001 CD release added 6 bonus tracks recorded at the same session but issued on other albums. (en)' } ],
+     'rdfs:label': [ { value: 'Brothers-4 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Brothers-4',
+          href: 'http://rdf.freebase.com/ns/m.0sgh8rn' },
+        { value: 'dbpedia-wikidata:Brothers-4',
+          href: 'http://wikidata.dbpedia.org/resource/Q16244987' },
+        { value: 'wikidata:Brothers-4',
+          href: 'http://www.wikidata.org/entity/Q16244987' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Brothers-4?oldid=656372078',
+          href: 'http://en.wikipedia.org/wiki/Brothers-4?oldid=656372078' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Brothers-4',
+          href: 'http://en.wikipedia.org/wiki/Brothers-4' } ],
+     'foaf:name': [ { value: 'Brothers-4 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Night_Letter_(album)',
+          href: 'http://dbpedia.org/resource/Night_Letter_(album)' },
+        { value: 'dbr:Donny_Brook',
+          href: 'http://dbpedia.org/resource/Donny_Brook' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Oh_Happy_Day_(Don_Patterson_album)',
+          href: 'http://dbpedia.org/resource/Oh_Happy_Day_(Don_Patterson_album)' },
+        { value: 'dbr:Come_Hither',
+          href: 'http://dbpedia.org/resource/Come_Hither' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Brothers-4',
+          href: 'http://en.wikipedia.org/wiki/Brothers-4' } ] } }

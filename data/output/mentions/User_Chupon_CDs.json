@@ -1,0 +1,13 @@
+{ name: 'User:Chupon/CDs',
+  href: 'http://en.wikipedia.org/wiki/User:Chupon/CDs',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 103,
+       quote: [ '1.29 Miles Davis' ] },
+     { sectionHeader: 'Collection',
+       sectionSubHeader: '',
+       sectionIndex: 62,
+       wordCountBeforeSection: 3715,
+       quote: [ 'Miles Davis' ] } ] }

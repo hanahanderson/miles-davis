@@ -1,0 +1,8 @@
+{ name: 'The Dish',
+  href: 'http://en.wikipedia.org/wiki/The_Dish',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 5494,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

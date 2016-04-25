@@ -1,0 +1,8 @@
+{ name: 'Dennis Cahill (musician)',
+  href: 'http://en.wikipedia.org/wiki/Dennis_Cahill_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 899,
+       quote: [ 'In 1999 a New York Times reviewer described Hayes and Cahill\'s approach as "stripping old reels and jigs to their essence, leaving space between the notes for harmonics and whispered blue notes," resulting in "a Celtic complement to Steve Reich\'s quartets or Miles Davis\'s Sketches of Spain. " Hayes and Cahill have toured extensively and released three recordings on the Green Linnet label: The Lonesome Touch (1997), Live in Seattle (1999), and Welcome Here Again (2008).' ] } ] }

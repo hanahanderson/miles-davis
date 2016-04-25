@@ -1,0 +1,8 @@
+{ name: 'Switchfoot',
+  href: 'http://en.wikipedia.org/wiki/Switchfoot',
+  mentions: 
+   [ { sectionHeader: 'Style and influences',
+       sectionSubHeader: 'Fading West album and film (2013–present)',
+       sectionIndex: 59,
+       wordCountBeforeSection: 17944,
+       quote: [ 'Guitarist Drw Shirley cites U2, Miles Davis, Stevie Ray Vaughan, Tommy Walker, Phil Keaggy, Michael Jackson, Dave Matthews Band, and the Brand New Heavies, while bassist Tim Foreman pays tribute to Stevie Wonder.' ] } ] }

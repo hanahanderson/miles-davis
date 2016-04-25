@@ -1,0 +1,8 @@
+{ name: 'Billie\'s Bounce',
+  href: 'http://en.wikipedia.org/wiki/Billie%27s_Bounce',
+  mentions: 
+   [ { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 752,
+       quote: [ 'Miles Davis – Bb trumpet' ] } ] }

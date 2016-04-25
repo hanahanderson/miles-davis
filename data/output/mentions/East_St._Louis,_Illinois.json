@@ -1,0 +1,8 @@
+{ name: 'East St. Louis, Illinois',
+  href: 'http://en.wikipedia.org/wiki/East_St._Louis,_Illinois',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 9186,
+       quote: [ 'Some left and achieved national recognition, such as Ike & Tina Turner and the jazz great Miles Davis, who was born in nearby Alton and grew up in East St.' ] } ] }

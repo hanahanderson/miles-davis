@@ -1,0 +1,8 @@
+{ name: 'Bassist',
+  href: 'http://en.wikipedia.org/wiki/Bassist',
+  mentions: 
+   [ { sectionHeader: 'Electric bass players',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3567,
+       quote: [ 'Darryl Jones (Miles Davis, Peter Gabriel, Madonna, The Rolling Stones, Eric Clapton)' ] } ] }

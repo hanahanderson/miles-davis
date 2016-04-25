@@ -1,0 +1,8 @@
+{ name: 'Roy Harper',
+  href: 'http://en.wikipedia.org/wiki/Roy_Harper',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 791,
+       quote: [ 'Harper\'s earliest musical influences were American blues musician Lead Belly and folk singer Woody Guthrie and, in his teens, jazz musician Miles Davis.' ] } ] }

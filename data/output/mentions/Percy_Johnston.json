@@ -1,0 +1,8 @@
+{ name: 'Percy Johnston',
+  href: 'http://en.wikipedia.org/wiki/Percy_Johnston',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 4916,
+       quote: [ 'The poets described themselves in this book as “A new breed of young poets who are to American poetry what Charlie Parker, Dizzy Gillespie, Thelonious Monk and Miles Davis are to American jazz.” Although the book was not a commercial success, it stands as testament to the Howard Poets’ innovative work and Johnston’s activities as a cultural broker.' ] } ] }

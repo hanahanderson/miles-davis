@@ -1,0 +1,99 @@
+{ name: 'I Remember You (John Hicks album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/I_Remember_You_(John_Hicks_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '55.68333333333333' } ],
+     'dbo:abstract': [ { value: 'I Remember You is a live solo album by pianist John Hicks which was recorded in 2006 shortly before Hick\'s death and released on the HighNote label. The album was released posthumously in 2009. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Hicks_(jazz_pianist)',
+          href: 'http://dbpedia.org/resource/John_Hicks_(jazz_pianist)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Fatha\'s_Day:_An_Earl_Hines_Songbook',
+          href: 'http://dbpedia.org/resource/Fatha\'s_Day:_An_Earl_Hines_Songbook' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:HighNote_Records',
+          href: 'http://dbpedia.org/resource/HighNote_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_Hope,_Pennsylvania',
+          href: 'http://dbpedia.org/resource/New_Hope,_Pennsylvania' } ],
+     'dbo:releaseDate': [ { value: '2009-07-28 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3341.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Twogether_(John_Hicks_and_Frank_Morgan_album)',
+          href: 'http://dbpedia.org/resource/Twogether_(John_Hicks_and_Frank_Morgan_album)' } ],
+     'dbo:wikiPageID': [ { value: '45502490 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '648760358 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Hicks_(jazz_pianist)',
+          href: 'http://dbpedia.org/resource/John_Hicks_(jazz_pianist)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:John_Hicks_(jazz_pianist)',
+          href: 'http://dbpedia.org/resource/John_Hicks_(jazz_pianist)' } ],
+     'dbp:cover': [ { value: 'I Remember You .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:HighNote_Records',
+          href: 'http://dbpedia.org/resource/HighNote_Records' },
+        { value: 'HCD 7191 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Fatha\'s Day: An Earl Hines Songbook (en)' } ],
+     'dbp:length': [ { value: '3341.0' } ],
+     'dbp:name': [ { value: 'I Remember You (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Twogether (en)' } ],
+     'dbp:producer': [ { value: 'Joe Fields and Jon Rosenberg (en)' } ],
+     'dbp:recorded': 
+      [ { value: '2006 (xsd:integer)' },
+        { value: 'New Hope, Pennsylvania (en)' } ],
+     'dbp:released': [ { value: '2009-07-28 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'I Remember You (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2009_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2009_live_albums' },
+        { value: 'dbc:HighNote_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:HighNote_Records_live_albums' },
+        { value: 'dbc:John_Hicks_(jazz_pianist)_live_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Hicks_(jazz_pianist)_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'I Remember You is a live solo album by pianist John Hicks which was recorded in 2006 shortly before Hick\'s death and released on the HighNote label. The album was released posthumously in 2009. (en)' } ],
+     'rdfs:label': [ { value: 'I Remember You (John Hicks album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:I Remember You (John Hicks album)',
+          href: 'http://rdf.freebase.com/ns/m.012wsc8f' },
+        { value: 'dbpedia-wikidata:I Remember You (John Hicks album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q19893244' },
+        { value: 'wikidata:I Remember You (John Hicks album)',
+          href: 'http://www.wikidata.org/entity/Q19893244' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:I_Remember_You_(John_Hicks_album)?oldid=648760358',
+          href: 'http://en.wikipedia.org/wiki/I_Remember_You_(John_Hicks_album)?oldid=648760358' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:I_Remember_You_(John_Hicks_album)',
+          href: 'http://en.wikipedia.org/wiki/I_Remember_You_(John_Hicks_album)' } ],
+     'foaf:name': [ { value: 'I Remember You (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Fatha\'s_Day:_An_Earl_Hines_Songbook',
+          href: 'http://dbpedia.org/resource/Fatha\'s_Day:_An_Earl_Hines_Songbook' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:I_Remember_You_(John_Hicks_album)',
+          href: 'http://en.wikipedia.org/wiki/I_Remember_You_(John_Hicks_album)' } ] } }

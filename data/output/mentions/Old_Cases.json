@@ -1,0 +1,8 @@
+{ name: 'Old Cases',
+  href: 'http://en.wikipedia.org/wiki/Old_Cases',
+  mentions: 
+   [ { sectionHeader: 'Production',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 8787,
+       quote: [ 'When Freamon and McNulty start talking in the bar, Miles Davis\' "All Blues", from the album Kind of Blue plays diegetically in the background.' ] } ] }

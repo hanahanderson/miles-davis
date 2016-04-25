@@ -1,0 +1,8 @@
+{ name: 'Brown Sugar (D\'Angelo album)',
+  href: 'http://en.wikipedia.org/wiki/Brown_Sugar_(D%27Angelo_album)',
+  mentions: 
+   [ { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 7727,
+       quote: [ 'Born to a Pentecostal-minister father, D\'Angelo was brought up to an early appreciation of gospel music, while his mother, a jazz enthusiast, introduced him to the musical complexities of trumpeter Miles Davis and the funk and soul music of the 1970s.' ] } ] }

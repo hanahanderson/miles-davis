@@ -1,0 +1,8 @@
+{ name: 'Moldejazz',
+  href: 'http://en.wikipedia.org/wiki/Moldejazz',
+  mentions: 
+   [ { sectionHeader: 'Recordings and compositions',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2726,
+       quote: [ '1984: Miles Davis Band Fra Idrettens Hus (DVD)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: '1963 in music',
+  href: 'http://en.wikipedia.org/wiki/1963_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 12759,
+       quote: [ 'Miles Davis' ] } ] }

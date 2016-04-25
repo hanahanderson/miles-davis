@@ -1,0 +1,8 @@
+{ name: 'List of University of California, Irvine people',
+  href: 'http://en.wikipedia.org/wiki/List_of_University_of_California,_Irvine_people',
+  mentions: 
+   [ { sectionHeader: 'Students and alumni',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 5149,
+       quote: [ 'Kei Akagi – toured as pianist for famous jazz musician and composer Miles Davis' ] } ] }

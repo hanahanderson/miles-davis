@@ -1,0 +1,8 @@
+{ name: '1991 in the United States',
+  href: 'http://en.wikipedia.org/wiki/1991_in_the_United_States',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'September 28 – Miles Davis, jazz trumpeter (born 1926)' ] } ] }

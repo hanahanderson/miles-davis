@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:ACF Regionals answers/14',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:ACF_Regionals_answers/14',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

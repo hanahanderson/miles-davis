@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Reference desk/Archives/Humanities/2006 December 5',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Humanities/2006_December_5',
+  mentions: 
+   [ { sectionHeader: 'Musical Modes',
+       sectionSubHeader: '',
+       sectionIndex: 91,
+       wordCountBeforeSection: 25751,
+       quote: [ 'Some jazz artists experimented with modes, notably Miles Davis.' ] } ] }

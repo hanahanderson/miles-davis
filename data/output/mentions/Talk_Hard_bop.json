@@ -1,0 +1,8 @@
+{ name: 'Talk:Hard bop',
+  href: 'http://en.wikipedia.org/wiki/Talk:Hard_bop',
+  mentions: 
+   [ { sectionHeader: 'Walkin\' marks the beginning of the hard bop movement?',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 2865,
+       quote: [ 'This statement is sprinkled through wp (it is/was also in the Miles Davis page).' ] } ] }

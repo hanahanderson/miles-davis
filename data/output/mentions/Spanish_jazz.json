@@ -1,0 +1,13 @@
+{ name: 'Spanish jazz',
+  href: 'http://en.wikipedia.org/wiki/Spanish_jazz',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1521,
+       quote: [ 'It would not be until the mid-1970s, however, that major international figures would attend the festival, including, over the years, Charles Mingus, Tete Montoliu, Ella Fitzgerald, Oscar Peterson, Dizzy Gillespie, Herbie Hancock, Lionel Hampton, John Lee Hooker, Sonny Rollins, B.B. King, Woody Herman, Freddie Hubbard, Weather Report, Gato Barbieri, Art Blakey, Mercer Ellington, McCoy Tyner, Chick Corea, Clark Terry, and Miles Davis.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 2236,
+       quote: [ 'Concierto de Aranjuez by Joaquín Rodrigo has been interpreted by Miles Davis.' ] } ] }

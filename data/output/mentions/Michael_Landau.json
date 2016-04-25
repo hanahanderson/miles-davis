@@ -1,0 +1,8 @@
+{ name: 'Michael Landau',
+  href: 'http://en.wikipedia.org/wiki/Michael_Landau',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 633,
+       quote: [ 'He is a prolific session musician and guitarist who has played on a large number of albums since the early 1980s with artists as varied as Minoru Niihara, Joni Mitchell, Seal, Michael Jackson, James Taylor, Helen Watson, Richard Marx, Steve Perry, Pink Floyd, Roger Daltrey, Glenn Frey, and Miles Davis.' ] } ] }

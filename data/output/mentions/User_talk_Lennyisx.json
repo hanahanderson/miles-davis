@@ -1,0 +1,18 @@
+{ name: 'User talk:Lennyisx',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Lennyisx',
+  mentions: 
+   [ { sectionHeader: 'August 2014',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 17,
+       quote: [ 'This is a message letting you know that one or more of your recent edits to Miles Davis has been undone by an automated computer program called ClueBot NG.' ] },
+     { sectionHeader: 'August 2014',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 205,
+       quote: [ 'The following is the log entry regarding this message: Miles Davis was changed by Lennyisx (u) (t) ANN scored at 0.957568 on 2014-08-07T04:43:33+00:00 .' ] },
+     { sectionHeader: 'August 2014',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1711,
+       quote: [ 'If you continue to vandalize Wikipedia, as you did at Miles Davis, you may be blocked from editing.' ] } ] }

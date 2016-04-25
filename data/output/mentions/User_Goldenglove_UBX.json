@@ -1,0 +1,8 @@
+{ name: 'User:Goldenglove/UBX',
+  href: 'http://en.wikipedia.org/wiki/User:Goldenglove/UBX',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Black Label Society\nThe Smashing Pumpkins\nLed Zeppelin\nBlack Sabbath\nThe Beatles\nRed Hot Chili Peppers\nZZ Top\nMarilyn Manson\nJohn 5\nSlipknot\nPungent Stench\nMiles Davis\nChick Corea\nCannibal Corpse\nMadonna\nMötley Crüe\nSex Pistols\nThe White Stripes\nApocalyptica\nHaggard\nHollenthon\nPink Floyd\nNine Inch Nails\nCock and Ball Torture\nDead Can Dance' ] } ] }

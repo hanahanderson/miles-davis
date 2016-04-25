@@ -1,0 +1,8 @@
+{ name: 'Steve Reich',
+  href: 'http://en.wikipedia.org/wiki/Steve_Reich',
+  mentions: 
+   [ { sectionHeader: 'Influence',
+       sectionSubHeader: '2010s',
+       sectionIndex: 55,
+       wordCountBeforeSection: 20944,
+       quote: [ 'Other important influences are Kenny Clarke and Miles Davis, and visual artist friends such as Sol LeWitt and Richard Serra.' ] } ] }

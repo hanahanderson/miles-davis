@@ -1,0 +1,13 @@
+{ name: 'AACTA Award for Best Original Music Score',
+  href: 'http://en.wikipedia.org/wiki/AACTA_Award_for_Best_Original_Music_Score',
+  mentions: 
+   [ { sectionHeader: 'Previous winners',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 147,
+       quote: [ '1991 – Michel Legrand, Miles Davis (Dingo)' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2627,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

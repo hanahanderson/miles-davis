@@ -1,0 +1,13 @@
+{ name: 'Band of Gypsys',
+  href: 'http://en.wikipedia.org/wiki/Band_of_Gypsys',
+  mentions: 
+   [ { sectionHeader: 'Musical style, writing, composition',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 14120,
+       quote: [ 'Cox and Miles provide strong instrumental backing, where the rhythm is "locked-in" or "deep in the pocket", a common feature of funk and R&B. (Nearly all of Hendrix\'s music, and contemporary rock in general, uses common or 4\n4 time; "Manic Depression" (3\n4 or 9\n8), "Dolly Dagger" (5\n4), "Stepping Stone" (8\n8), and the slow blues ""Red House" and "Belly Button Window" (both 12\n8) are among the exceptions.) Jazz innovator Miles Davis felt that Cox and Miles were the best rhythm section for Hendrix and freed him from the constraints of the Experience.' ] },
+     { sectionHeader: 'Notes',
+       sectionSubHeader: '',
+       sectionIndex: 71,
+       wordCountBeforeSection: 43232,
+       quote: [] } ] }

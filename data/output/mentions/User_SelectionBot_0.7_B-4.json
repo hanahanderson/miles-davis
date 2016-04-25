@@ -1,0 +1,13 @@
+{ name: 'User:SelectionBot/0.7/B-4',
+  href: 'http://en.wikipedia.org/wiki/User:SelectionBot/0.7/B-4',
+  mentions: 
+   [ { sectionHeader: 'Biography (musicians)',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 11939,
+       quote: [ 'Miles Davis : http://en.wikipedia.org/w/index.php?title=Miles_Davis&oldid=246067752' ] },
+     { sectionHeader: 'Biography (musicians)',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 11939,
+       quote: [ 'Miles Davis : http://en.wikipedia.org/w/index.php?title=Miles_Davis&oldid=246067752' ] } ] }

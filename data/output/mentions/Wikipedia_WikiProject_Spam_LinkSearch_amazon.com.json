@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:WikiProject Spam/LinkSearch/amazon.com',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spam/LinkSearch/amazon.com',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] } ] }

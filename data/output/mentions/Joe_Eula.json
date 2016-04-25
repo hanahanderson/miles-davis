@@ -1,0 +1,8 @@
+{ name: 'Joe Eula',
+  href: 'http://en.wikipedia.org/wiki/Joe_Eula',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2481,
+       quote: [ 'He also had close personal and professional relationships with leading figures of other artistic fields, designing a suit for jazz musician Miles Davis, in addition to the stick-like figures on the cover of his 1960 album Sketches of Spain, concert posters for The Supremes (Lincoln Center, New York, 1965) and Liza Minnelli\'s Liza with a "Z" (1972).' ] } ] }

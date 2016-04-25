@@ -1,0 +1,8 @@
+{ name: 'Mario Bauzá',
+  href: 'http://en.wikipedia.org/wiki/Mario_Bauz%C3%A1',
+  mentions: 
+   [ { sectionHeader: '"Tangá" and the creation of Latin jazz',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 6082,
+       quote: [ 'With "Tangá," Bauzá was the first to explore modal harmony (a concept explored much later by Miles Davis and Gil Evans) from a jazz arranging perspective.' ] } ] }

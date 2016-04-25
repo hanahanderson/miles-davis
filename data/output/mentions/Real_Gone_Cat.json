@@ -1,0 +1,8 @@
+{ name: 'Real Gone Cat',
+  href: 'http://en.wikipedia.org/wiki/Real_Gone_Cat',
+  mentions: 
+   [ { sectionHeader: 'Trivia',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1218,
+       quote: [ 'The version of \'Round Midnight (song) in the film was originally recorded by the films star and was on a Miles Davis tribute album.' ] } ] }

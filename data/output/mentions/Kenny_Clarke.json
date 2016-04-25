@@ -1,0 +1,13 @@
+{ name: 'Kenny Clarke',
+  href: 'http://en.wikipedia.org/wiki/Kenny_Clarke',
+  mentions: 
+   [ { sectionHeader: 'Modern Jazz Quartet and move to Paris',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4389,
+       quote: [ 'As soon as he moved to Paris, he regularly worked with visiting American musicians, including Miles Davis on the legendary score to Ascenseur pour l\'échafaud, a classic film noir directed by Louis Malle.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 8563,
+       quote: [ 'With Miles Davis' ] } ] }

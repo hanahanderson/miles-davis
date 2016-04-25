@@ -1,0 +1,8 @@
+{ name: 'Ellery Eskelin',
+  href: 'http://en.wikipedia.org/wiki/Ellery_Eskelin',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3111,
+       quote: [ 'Early performances as a leader took place at various jazz clubs such as "The Bandstand" and "The Closet" run by saxophonist and entrepreneur Henry Baker, who had a long history in the Baltimore music scene having known Lester Young, Cannonball Adderley, Miles Davis, Red Garland, John Coltrane, Clifford Brown and many others.' ] } ] }

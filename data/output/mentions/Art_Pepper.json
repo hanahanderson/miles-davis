@@ -1,0 +1,8 @@
+{ name: 'Art Pepper',
+  href: 'http://en.wikipedia.org/wiki/Art_Pepper',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1545,
+       quote: [ 'Along with Chet Baker, Gerry Mulligan and Shelly Manne, and perhaps due more to geography than playing style, Pepper is often associated with the musical movement known as West Coast jazz, as contrasted with the East Coast (or "hot") jazz of Charlie Parker, Dizzy Gillespie and Miles Davis.' ] } ] }

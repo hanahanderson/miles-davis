@@ -1,0 +1,18 @@
+{ name: 'It Never Entered My Mind',
+  href: 'http://en.wikipedia.org/wiki/It_Never_Entered_My_Mind',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 296,
+       quote: [ 'Miles Davis - Workin\' with the Miles Davis Quintet (1956)' ] },
+     { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 296,
+       quote: [ 'Workin\' with the Miles Davis Quintet' ] },
+     { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1919,
+       quote: [ 'The *Miles Davis recording was used in the movies *The Runaway Bride (1999) and the Lenny Bruce biopic *Lenny (1974).' ] } ] }

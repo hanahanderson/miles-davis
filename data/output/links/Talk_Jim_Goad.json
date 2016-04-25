@@ -1,0 +1,4 @@
+{ name: 'Talk:Jim Goad',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Talk:Jim_Goad',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

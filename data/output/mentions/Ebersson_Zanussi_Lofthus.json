@@ -1,0 +1,8 @@
+{ name: 'Ebersson/Zanussi/Lofthus',
+  href: 'http://en.wikipedia.org/wiki/Ebersson/Zanussi/Lofthus',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 608,
+       quote: [ 'Three well known Norwegian instrumentalists playing jazz freebag inspired by Jimi Hendrix and Miles Davis.' ] } ] }

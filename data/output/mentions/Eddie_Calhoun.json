@@ -1,0 +1,8 @@
+{ name: 'Eddie Calhoun',
+  href: 'http://en.wikipedia.org/wiki/Eddie_Calhoun',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 298,
+       quote: [ 'Subsequently he worked with Horace Henderson (1952–54), Johnny Griffin (1954), Roy Eldridge, Billie Holiday, and Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Sun City (song)',
+  href: 'http://en.wikipedia.org/wiki/Sun_City_(song)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2242,
+       quote: [ 'Van Zandt also had reservations about inviting legendary jazz musician Miles Davis, whom Schechter also contacted; with minimal persuasion, Davis also accepted.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Ford & Lopatin',
+  href: 'http://en.wikipedia.org/wiki/Ford_%26_Lopatin',
+  mentions: 
+   [ { sectionHeader: 'Artistry',
+       sectionSubHeader: '2010–2011: Ford and Lopatin and Channel Pressure',
+       sectionIndex: 17,
+       wordCountBeforeSection: 5625,
+       quote: [ 'If you just straight up slow everything down into oblivion it’s kinda hectic." As Games in August 2010, Ford and Lopatin cited the works of DJ Paul, DJ Screw, Aphex Twin, DJ Premier, The Weather Channel, Weather Report, Return to Forever, Boards of Canada and James Ferraro, as well as genres like Italo disco and albums like Moment of Truth by Gang Starr and On the Corner by Miles Davis, as influences.' ] } ] }

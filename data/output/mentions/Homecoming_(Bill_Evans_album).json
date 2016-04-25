@@ -1,0 +1,8 @@
+{ name: 'Homecoming (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Homecoming_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2080,
+       quote: [ 'Miles Davis' ] } ] }

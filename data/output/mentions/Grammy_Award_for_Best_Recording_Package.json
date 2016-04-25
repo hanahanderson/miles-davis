@@ -1,0 +1,8 @@
+{ name: 'Grammy Award for Best Recording Package',
+  href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Recording_Package',
+  mentions: 
+   [ { sectionHeader: 'Winners',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1043,
+       quote: [ 'Tutu (performed by Miles Davis)' ] } ] }

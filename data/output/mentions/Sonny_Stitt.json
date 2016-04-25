@@ -1,0 +1,13 @@
+{ name: 'Sonny Stitt',
+  href: 'http://en.wikipedia.org/wiki/Sonny_Stitt',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Billy Eckstine, Gene Ammons, Eddie Davis, Charlie Parker, Miles Davis' ] },
+     { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3644,
+       quote: [ 'Stitt joined Miles Davis briefly in 1960, and recordings with Davis\' quintet can be found only in live settings on the tour of 1960.' ] } ] }

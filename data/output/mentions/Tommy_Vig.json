@@ -1,0 +1,13 @@
+{ name: 'Tommy Vig',
+  href: 'http://en.wikipedia.org/wiki/Tommy_Vig',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Henry Mancini, Stan Kenton, Red Rodney, Don Ellis, Quincy Jones, Miles Davis-Gil Evans Big Band, Joe Pass, Tom Jones, Terry Gibbs, Art Pepper, Cat Anderson, Nelson Riddle, Shorty Rogers, Pete Rugolo, Milcho Leviev, Rod Stewart, Don Costa, and others' ] },
+     { sectionHeader: 'Life and Work',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1943,
+       quote: [ 'Vig worked with Red Rodney, Don Ellis, Cat Anderson, Terry Gibbs, Art Pepper, Milcho Leviev, Joe Pass, and the Miles Davis-Gil Evans Big Band amongst many others.' ] } ] }

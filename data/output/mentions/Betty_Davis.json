@@ -1,0 +1,15 @@
+{ name: 'Betty Davis',
+  href: 'http://en.wikipedia.org/wiki/Betty_Davis',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 423,
+       quote: [ '2 Marriage to Miles Davis' ] },
+     { sectionHeader: 'Marriage to Miles Davis',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2448,
+       quote: 
+        [ 'She met Miles Davis in 1967 and married him in September 1968.',
+          'The Miles Davis album Filles de Kilimanjaro (1968) includes a song named after her and her photo on the front cover.' ] } ] }

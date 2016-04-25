@@ -1,0 +1,8 @@
+{ name: 'User talk:Joe407',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Joe407',
+  mentions: 
+   [ { sectionHeader: 'Important figures',
+       sectionSubHeader: 'Eli Gerstner',
+       sectionIndex: 148,
+       wordCountBeforeSection: 29859,
+       quote: [ 'I\'m not sure about the where he fits with the "religious" parameter but he has composed a peice based around the "Song of Songs" and another of his classical pieces has some basis in JRM but as he is a contemporary composer using elements you could argue that he is just as connected to JRM as Miles Davis & Gil Evans\'s Sketches of Spain is Spanish music.' ] } ] }

@@ -1,0 +1,101 @@
+{ name: 'If You Could See Me Now (Oscar Peterson album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/If_You_Could_See_Me_Now_(Oscar_Peterson_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '40.93333333333333' } ],
+     'dbo:abstract': [ { value: 'If You Could See Me Now is a 1983 album by Oscar Peterson. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Oscar_Peterson',
+          href: 'http://dbpedia.org/resource/Oscar_Peterson' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:A_Tribute_to_My_Friends',
+          href: 'http://dbpedia.org/resource/A_Tribute_to_My_Friends' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Norman_Granz',
+          href: 'http://dbpedia.org/resource/Norman_Granz' } ],
+     'dbo:recordDate': [ { value: '1983-11-09 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Pablo_Records',
+          href: 'http://dbpedia.org/resource/Pablo_Records' } ],
+     'dbo:runtime': [ { value: '2456.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Hark_(album)',
+          href: 'http://dbpedia.org/resource/Hark_(album)' } ],
+     'dbo:wikiPageID': [ { value: '22026964 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '556289645 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Oscar_Peterson',
+          href: 'http://dbpedia.org/resource/Oscar_Peterson' } ],
+     'dbp:cover': [ { value: 'PetersonNow.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Pablo_Records',
+          href: 'http://dbpedia.org/resource/Pablo_Records' } ],
+     'dbp:lastAlbum': [ { value: 'A Tribute to My Friends (en)' } ],
+     'dbp:length': [ { value: '2456.0' } ],
+     'dbp:name': [ { value: 'If You Could See Me Now (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Hark (en)' } ],
+     'dbp:noprose': [ { value: 'yes (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Norman_Granz',
+          href: 'http://dbpedia.org/resource/Norman_Granz' } ],
+     'dbp:recorded': [ { value: '1983-11-09 (xsd:date)' } ],
+     'dbp:released': [ { value: '1983 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: '\'If You Could See Me Now (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Norman_Granz',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Norman_Granz' },
+        { value: 'dbc:1983_albums',
+          href: 'http://dbpedia.org/resource/Category:1983_albums' },
+        { value: 'dbc:Pablo_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Pablo_Records_albums' },
+        { value: 'dbc:Oscar_Peterson_albums',
+          href: 'http://dbpedia.org/resource/Category:Oscar_Peterson_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'If You Could See Me Now is a 1983 album by Oscar Peterson. (en)' } ],
+     'rdfs:label': [ { value: 'If You Could See Me Now (Oscar Peterson album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:If You Could See Me Now (Oscar Peterson album)',
+          href: 'http://rdf.freebase.com/ns/m.05p2qh2' },
+        { value: 'dbpedia-wikidata:If You Could See Me Now (Oscar Peterson album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5990879' },
+        { value: 'wikidata:If You Could See Me Now (Oscar Peterson album)',
+          href: 'http://www.wikidata.org/entity/Q5990879' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:If_You_Could_See_Me_Now_(Oscar_Peterson_album)?oldid=556289645',
+          href: 'http://en.wikipedia.org/wiki/If_You_Could_See_Me_Now_(Oscar_Peterson_album)?oldid=556289645' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:If_You_Could_See_Me_Now_(Oscar_Peterson_album)',
+          href: 'http://en.wikipedia.org/wiki/If_You_Could_See_Me_Now_(Oscar_Peterson_album)' } ],
+     'foaf:name': [ { value: 'If You Could See Me Now (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:A_Tribute_to_My_Friends',
+          href: 'http://dbpedia.org/resource/A_Tribute_to_My_Friends' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:If_You_Could_See_Me_Now',
+          href: 'http://dbpedia.org/resource/If_You_Could_See_Me_Now' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:If_You_Could_See_Me_Now_(Oscar_Peterson_album)',
+          href: 'http://en.wikipedia.org/wiki/If_You_Could_See_Me_Now_(Oscar_Peterson_album)' } ] } }

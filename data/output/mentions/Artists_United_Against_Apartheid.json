@@ -1,0 +1,8 @@
+{ name: 'Artists United Against Apartheid',
+  href: 'http://en.wikipedia.org/wiki/Artists_United_Against_Apartheid',
+  mentions: 
+   [ { sectionHeader: 'Writing and recording',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2386,
+       quote: [ 'Van Zandt was also shy about calling legendary jazz artist Miles Davis.' ] } ] }

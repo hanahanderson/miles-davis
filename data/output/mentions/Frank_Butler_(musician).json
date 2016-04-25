@@ -1,0 +1,18 @@
+{ name: 'Frank Butler (musician)',
+  href: 'http://en.wikipedia.org/wiki/Frank_Butler_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 199,
+       quote: [ 'Duke Ellington, John Coltrane, Elmo Hope, Miles Davis, Art Pepper, Curtis Counce, Harold Land' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 495,
+       quote: [ 'He never became well known but was highly regarded by fellow musicians and performed with jazz notables like Duke Ellington, Dave Brubeck, John Coltrane, Miles Davis and Art Pepper in the 1950s and 1960s.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1727,
+       quote: [ 'With Miles Davis' ] } ] }

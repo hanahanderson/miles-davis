@@ -1,0 +1,8 @@
+{ name: 'List of people in Playboy 1960–69',
+  href: 'http://en.wikipedia.org/wiki/List_of_people_in_Playboy_1960%E2%80%9369',
+  mentions: 
+   [ { sectionHeader: '1962',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2457,
+       quote: [ 'Miles Davis' ] } ] }

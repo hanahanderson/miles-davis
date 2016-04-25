@@ -1,0 +1,32 @@
+{ name: 'Miles (given name)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Miles_(given_name)',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '9767677 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663617895 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:English_masculine_given_names',
+          href: 'http://dbpedia.org/resource/Category:English_masculine_given_names' } ],
+     'rdfs:label': [ { value: 'Miles (given name) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Miles (given name)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6851298' },
+        { value: 'wikidata:Miles (given name)',
+          href: 'http://www.wikidata.org/entity/Q6851298' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Miles_(given_name)?oldid=663617895',
+          href: 'http://en.wikipedia.org/wiki/Miles_(given_name)?oldid=663617895' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Miles_(given_name)',
+          href: 'http://en.wikipedia.org/wiki/Miles_(given_name)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Miles_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Miles_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Miles_(name)',
+          href: 'http://dbpedia.org/resource/Miles_(name)' },
+        { value: 'dbr:Miles_(first_name)',
+          href: 'http://dbpedia.org/resource/Miles_(first_name)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Miles_(given_name)',
+          href: 'http://en.wikipedia.org/wiki/Miles_(given_name)' } ] } }

@@ -1,0 +1,44 @@
+{ name: 'List of funk musicians',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_funk_musicians',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of funk music artists. This includes artists who have either been very important to the genre or have had a considerable amount of exposure (such as in the case of one that has been on a major label, but not limited to such). Bands are listed by the first letter in their name (not including the words "a", "an", or "the"), and individuals are listed by last name. (en)' } ],
+     'dbo:wikiPageID': [ { value: '179244 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683703581 (xsd:integer)' } ],
+     'dbp:center': [ { value: 'yes (en)' } ],
+     'dbp:nobreak': [ { value: 'yes (en)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Funk_musicians',
+          href: 'http://dbpedia.org/resource/Category:Funk_musicians' },
+        { value: 'dbc:Lists_of_musicians_by_genre',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians_by_genre' } ],
+     'rdfs:comment': [ { value: 'This is a list of funk music artists. This includes artists who have either been very important to the genre or have had a considerable amount of exposure (such as in the case of one that has been on a major label, but not limited to such). Bands are listed by the first letter in their name (not including the words "a", "an", or "the"), and individuals are listed by last name. (en)' } ],
+     'rdfs:label': [ { value: 'List of funk musicians (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of funk musicians',
+          href: 'http://www.wikidata.org/entity/Q4434113' },
+        { value: 'dbpedia-wikidata:List of funk musicians',
+          href: 'http://wikidata.dbpedia.org/resource/Q4434113' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_funk_musicians?oldid=683703581',
+          href: 'http://en.wikipedia.org/wiki/List_of_funk_musicians?oldid=683703581' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_funk_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_funk_musicians' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_funk_musicians_and_bands',
+          href: 'http://dbpedia.org/resource/List_of_funk_musicians_and_bands' },
+        { value: 'dbr:Funk_musicians',
+          href: 'http://dbpedia.org/resource/Funk_musicians' } ],
+     'is dbp:otherTopics\n of': 
+      [ { value: 'dbr:Deep_funk',
+          href: 'http://dbpedia.org/resource/Deep_funk' },
+        { value: 'dbr:Go-go',
+          href: 'http://dbpedia.org/resource/Go-go' },
+        { value: 'dbr:Brit_funk',
+          href: 'http://dbpedia.org/resource/Brit_funk' },
+        { value: 'dbr:Funk', href: 'http://dbpedia.org/resource/Funk' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_funk_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_funk_musicians' } ] } }

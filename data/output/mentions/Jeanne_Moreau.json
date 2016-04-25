@@ -1,0 +1,8 @@
+{ name: 'Jeanne Moreau',
+  href: 'http://en.wikipedia.org/wiki/Jeanne_Moreau',
+  mentions: 
+   [ { sectionHeader: 'Personal life',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 5044,
+       quote: [ 'She has also had affairs with directors Louis Malle and François Truffaut, fashion designer Pierre Cardin, jazz trumpeter Miles Davis and Theodoros Roubanis, the Greek actor/playboy.' ] } ] }

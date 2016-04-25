@@ -1,0 +1,8 @@
+{ name: 'Tony Clements',
+  href: 'http://en.wikipedia.org/wiki/Tony_Clements',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 217,
+       quote: [ 'He was taught by Julius Rubin and Bill Barber, the latter of whom played with Gil Evans and Miles Davis, before moving to California aged fourteen.' ] } ] }

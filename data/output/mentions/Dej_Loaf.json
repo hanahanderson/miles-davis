@@ -1,0 +1,8 @@
+{ name: 'Dej Loaf',
+  href: 'http://en.wikipedia.org/wiki/Dej_Loaf',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1297,
+       quote: [ 'Growing up, she often listened to music with her parents and grandmother, ranging "from 2Pac to Rakim to Miles Davis." Her father was killed when she was four years old.' ] } ] }

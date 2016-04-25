@@ -1,0 +1,13 @@
+{ name: 'List of Rock and Roll Hall of Fame inductees',
+  href: 'http://en.wikipedia.org/wiki/List_of_Rock_and_Roll_Hall_of_Fame_inductees',
+  mentions: 
+   [ { sectionHeader: 'Inductees',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3433,
+       quote: [] },
+     { sectionHeader: 'Inductees',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3433,
+       quote: [ 'Miles Davis' ] } ] }

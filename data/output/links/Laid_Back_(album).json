@@ -1,0 +1,119 @@
+{ name: 'Laid Back (album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Laid_Back_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '35.45' } ],
+     'dbo:abstract': [ { value: 'Laid Back is the debut studio album by American singer-songwriter Gregg Allman, released in October 1973 by Capricorn Records. Allman, best-known as the vocalist/lyricist of the Allman Brothers Band, first began considering a solo career after internal disagreements with that group. He developed the album as a small creative outlet wherein he would assume full control, and he co-produced the album alongside Johnny Sandlin. Laid Back was largely recorded in March 1973 at Capricorn Sound Studios in Macon, Georgia, with additional recording taking place at the Record Plant in New York City.The album explores Allman\'s varying influences, including rhythm and blues and soul music. It consists of several cover songs, originals, and a traditional hymn, and contains performances from a host of musicians, most notably Scott Boyer and Tommy Talton on guitars, Bill Stewart on drums, and Charlie Hayward on bass guitar. The album was created while Allman also worked on Brothers and Sisters, the fourth Allman Brothers album. The album title was a studio term Allman coined for relaxing a song\'s tempo, while its cover was painted by Abdul Mati Klarwein.Upon its release, Laid Back received positive reviews from music critics, and it peaked at number 13 on Billboard‍‍ \'​‍s Top LPs & Tape chart. To support the album, Allman embarked on an ambitious tour, consisting of a full band and an entire string orchestra. Two singles were released to promote the record, with lead single "Midnight Rider" becoming a top 20 hit in the U.S. and Canada. It was certified gold by the Recording Industry Association of America (RIAA) in 1974 for shipping one million copies in the U.S., making it Allman\'s best-selling album. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Gregg_Allman',
+          href: 'http://dbpedia.org/resource/Gregg_Allman' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Capricorn_Records',
+          href: 'http://dbpedia.org/resource/Capricorn_Records' } ],
+     'dbo:runtime': [ { value: '2127.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Gregg_Allman_Tour',
+          href: 'http://dbpedia.org/resource/The_Gregg_Allman_Tour' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Gregg_Allman_1975.JPG?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Gregg_Allman_1975.JPG?width=300' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.greggallman.com/',
+          href: 'http://www.greggallman.com/' } ],
+     'dbo:wikiPageID': [ { value: '17020236 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680981688 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Gregg_Allman',
+          href: 'http://dbpedia.org/resource/Gregg_Allman' },
+        { value: 'Gregg Alman (en)' } ],
+     'dbp:autocat': [ { value: 'yes (en)' } ],
+     'dbp:award': [ { value: 'Gold (en)' } ],
+     'dbp:certyear': [ { value: '1974 (xsd:integer)' } ],
+     'dbp:cover': [ { value: 'Greggallman-laidback.jpg (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Capricorn_Records',
+          href: 'http://dbpedia.org/resource/Capricorn_Records' } ],
+     'dbp:length': [ { value: '2127.0' } ],
+     'dbp:name': [ { value: 'Laid Back (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Gregg Allman Tour (en)' } ],
+     'dbp:region': [ { value: 'United States (en)' } ],
+     'dbp:relyear': [ { value: '1973 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:Robert_Christgau',
+          href: 'http://dbpedia.org/resource/Robert_Christgau' },
+        { value: 'Rolling Stone (en)' } ],
+     'dbp:salesamount': [ { value: '1000000 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Laid Back (en)' } ],
+     'dbp:title': [ { value: 'Laid Back (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' },
+        { value: 'album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1973_debut_albums',
+          href: 'http://dbpedia.org/resource/Category:1973_debut_albums' },
+        { value: 'dbc:Gregg_Allman_albums',
+          href: 'http://dbpedia.org/resource/Category:Gregg_Allman_albums' },
+        { value: 'dbc:Capricorn_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Capricorn_Records_albums' },
+        { value: 'dbc:Albums_with_cover_art_by_Mati_Klarwein',
+          href: 'http://dbpedia.org/resource/Category:Albums_with_cover_art_by_Mati_Klarwein' },
+        { value: 'dbc:English-language_albums',
+          href: 'http://dbpedia.org/resource/Category:English-language_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Laid Back is the debut studio album by American singer-songwriter Gregg Allman, released in October 1973 by Capricorn Records. Allman, best-known as the vocalist/lyricist of the Allman Brothers Band, first began considering a solo career after internal disagreements with that group. He developed the album as a small creative outlet wherein he would assume full control, and he co-produced the album alongside Johnny Sandlin. (en)' } ],
+     'rdfs:label': [ { value: 'Laid Back (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Laid Back (album)',
+          href: 'http://rdf.freebase.com/ns/m.01mx2jn' },
+        { value: 'dbpedia-wikidata:Laid Back (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6473748' },
+        { value: 'wikidata:Laid Back (album)',
+          href: 'http://www.wikidata.org/entity/Q6473748' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Laid_Back_(album)?oldid=680981688',
+          href: 'http://en.wikipedia.org/wiki/Laid_Back_(album)?oldid=680981688' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Gregg_Allman_1975.JPG',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Gregg_Allman_1975.JPG' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.greggallman.com/',
+          href: 'http://www.greggallman.com/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Laid_Back_(album)',
+          href: 'http://en.wikipedia.org/wiki/Laid_Back_(album)' } ],
+     'foaf:name': [ { value: 'Laid Back (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Gregg_Allman_Tour',
+          href: 'http://dbpedia.org/resource/The_Gregg_Allman_Tour' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Laid_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Laid_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Laid_Back_(Gregg_Allman_album)',
+          href: 'http://dbpedia.org/resource/Laid_Back_(Gregg_Allman_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Laid_Back_(album)',
+          href: 'http://en.wikipedia.org/wiki/Laid_Back_(album)' } ] } }

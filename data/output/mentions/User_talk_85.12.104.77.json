@@ -1,0 +1,13 @@
+{ name: 'User talk:85.12.104.77',
+  href: 'http://en.wikipedia.org/wiki/User_talk:85.12.104.77',
+  mentions: 
+   [ { sectionHeader: 'November 2010',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 7317,
+       quote: [ 'Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted by ClueBot NG.' ] },
+     { sectionHeader: 'November 2010',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 7572,
+       quote: [ 'The following is the log entry regarding this warning: Miles Davis was changed by 85.12.104.77 (u) (t) ANN scored at 1 on 2010-11-05T14:08:03+00:00 .' ] } ] }

@@ -1,0 +1,115 @@
+{ name: 'Aja (song)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Aja_(song)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '7.933333333333334' } ],
+     'dbo:abstract': [ { value: '"Aja" is the title track of Steely Dan\'s 1977 album by that name. Like the other six songs on the album, it is in the jazz-rock genre, though it is regarded as tending strongly towards the former. It was composed by Walter Becker and Donald Fagen, the band\'s two members, who respectively play guitar and synthesizer on the track, with various studio musicians playing the other parts.Musically, it is a tonally sophisticated and structurally complex work that was praised on its release as the most ambitious song the duo had ever attempted. Its lyrics are the interior monologue of a man who "run[s] to" the title character to escape the stresses of his life "up on the hill." Supposedly it was inspired by a relative of someone Fagen knew, who had married a Korean woman named Aja. He has described the song as being about the "tranquility that can come of a quiet relationship with a beautiful woman."Despite its complexity, and unlike many of the other tracks on the album, it took a very short time to record, which Becker and Fagen credit to the musicians\' superior sight-reading skills. Denny Dias\'s guitar work, including a solo, marked the last appearance on a Steely Dan record by any other founding member of the group. Making their first appearance, on the other hand, were tenor saxophonist Wayne Shorter and drummer Steve Gadd. Both combined for solos during the song\'s instrumental break that have contributed greatly to its reputation and been considered among their finest work; Gadd continued his, the first drum solo in a Steely Dan song, in the song\'s tag, all recorded in just two takes. Jazz critic Ben Sidran later called the "Aja" session "a moment when ... pop music suddenly took a turn left."While it was never released as a single, it is notable as the longest song the band ever recorded, running approximately eight minutes. It has been a favorite of the band\'s fans, and they have performed it in concert since they reunited late in the 20th century and began touring again, releasing one live version. Many artists, including Woody Herman, have covered it as part of Steely Dan tribute albums. (en)' } ],
+     'dbo:album': 
+      [ { value: 'dbr:Aja_(album)',
+          href: 'http://dbpedia.org/resource/Aja_(album)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Steely_Dan',
+          href: 'http://dbpedia.org/resource/Steely_Dan' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Gary_Katz',
+          href: 'http://dbpedia.org/resource/Gary_Katz' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:ABC_Records',
+          href: 'http://dbpedia.org/resource/ABC_Records' },
+        { value: 'dbr:MCA_Records',
+          href: 'http://dbpedia.org/resource/MCA_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Los_Angeles',
+          href: 'http://dbpedia.org/resource/Los_Angeles' } ],
+     'dbo:releaseDate': [ { value: '1977-09-23 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '476.000000 (xsd:double)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.steelydan.com/lyraja.html#track2',
+          href: 'http://www.steelydan.com/lyraja.html#track2' } ],
+     'dbo:wikiPageID': [ { value: '45034701 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '668695843 (xsd:integer)' } ],
+     'dbo:writer': 
+      [ { value: 'dbr:Donald_Fagen',
+          href: 'http://dbpedia.org/resource/Donald_Fagen' },
+        { value: 'dbr:Walter_Becker',
+          href: 'http://dbpedia.org/resource/Walter_Becker' } ],
+     'dbp:album': 
+      [ { value: 'dbr:Aja_(album)',
+          href: 'http://dbpedia.org/resource/Aja_(album)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Steely_Dan',
+          href: 'http://dbpedia.org/resource/Steely_Dan' } ],
+     'dbp:class': [ { value: 'song (en)' } ],
+     'dbp:first': [ { value: 'Stewart (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:id': [ { value: 'mt0010891590 (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:ABC_Records',
+          href: 'http://dbpedia.org/resource/ABC_Records' },
+        { value: 'dbr:MCA_Records',
+          href: 'http://dbpedia.org/resource/MCA_Records' },
+        { value: '"Aja" overview (en)' } ],
+     'dbp:language': [ { value: 'English (en)' } ],
+     'dbp:last': [ { value: 'Mason (en)' } ],
+     'dbp:name': [ { value: 'Aja (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Gary_Katz',
+          href: 'http://dbpedia.org/resource/Gary_Katz' } ],
+     'dbp:recorded': [ { value: '1977 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1977-09-23 (xsd:date)' } ],
+     'dbp:tracks': [ { value: '# "Black Cow"\n# "Aja"\n# "Deacon Blues"\n# "Peg"\n# "I Got the News"\n# "Home at Last"\n# "Josie" (en)' } ],
+     'dbp:writer': [ { value: 'Donald Fagen and Walter Becker (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1977_songs',
+          href: 'http://dbpedia.org/resource/Category:1977_songs' },
+        { value: 'dbc:Steely_Dan_songs',
+          href: 'http://dbpedia.org/resource/Category:Steely_Dan_songs' },
+        { value: 'dbc:Songs_written_by_Donald_Fagen',
+          href: 'http://dbpedia.org/resource/Category:Songs_written_by_Donald_Fagen' },
+        { value: 'dbc:Songs_written_by_Walter_Becker',
+          href: 'http://dbpedia.org/resource/Category:Songs_written_by_Walter_Becker' },
+        { value: 'dbc:Jazz_compositions_in_B_major',
+          href: 'http://dbpedia.org/resource/Category:Jazz_compositions_in_B_major' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Song', href: 'http://dbpedia.org/ontology/Song' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicRecording',
+          href: 'http://schema.org/MusicRecording' } ],
+     'rdfs:comment': [ { value: '"Aja" is the title track of Steely Dan\'s 1977 album by that name. Like the other six songs on the album, it is in the jazz-rock genre, though it is regarded as tending strongly towards the former. (en)' } ],
+     'rdfs:label': [ { value: 'Aja (song) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Aja (song)',
+          href: 'http://rdf.freebase.com/ns/m.05n6krz' },
+        { value: 'dbpedia-wikidata:Aja (song)',
+          href: 'http://wikidata.dbpedia.org/resource/Q19871776' },
+        { value: 'wikidata:Aja (song)',
+          href: 'http://www.wikidata.org/entity/Q19871776' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Aja_(song)?oldid=668695843',
+          href: 'http://en.wikipedia.org/wiki/Aja_(song)?oldid=668695843' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Aja_(song)',
+          href: 'http://en.wikipedia.org/wiki/Aja_(song)' } ],
+     'foaf:name': [ { value: 'Aja (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': [ { value: 'dbr:Aja', href: 'http://dbpedia.org/resource/Aja' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Aja_(Steely_Dan_song)',
+          href: 'http://dbpedia.org/resource/Aja_(Steely_Dan_song)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Aja_(song)',
+          href: 'http://en.wikipedia.org/wiki/Aja_(song)' } ] } }

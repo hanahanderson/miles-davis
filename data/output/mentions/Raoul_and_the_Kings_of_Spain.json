@@ -1,0 +1,8 @@
+{ name: 'Raoul and the Kings of Spain',
+  href: 'http://en.wikipedia.org/wiki/Raoul_and_the_Kings_of_Spain',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2298,
+       quote: [ 'Mislabeled on CD back insert as "Sketches of Spain"; the actual title of the track is a play on the Miles Davis album by that name' ] } ] }

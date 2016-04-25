@@ -1,0 +1,8 @@
+{ name: 'User:Danaimband/Opinions/Music',
+  href: 'http://en.wikipedia.org/wiki/User:Danaimband/Opinions/Music',
+  mentions: 
+   [ { sectionHeader: 'Best Album Covers',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 214,
+       quote: [ 'Bitches Brew - Miles Davis - (1969)' ] } ] }

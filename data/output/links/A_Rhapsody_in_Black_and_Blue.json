@@ -1,0 +1,42 @@
+{ name: 'A Rhapsody in Black and Blue',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/A_Rhapsody_in_Black_and_Blue',
+  values: 
+   { 'dbo:abstract': [ { value: 'Rhapsody in Black and Blue is a short ten minute film that was created and released in 1932, starring Sidney Easton and Fannie Belle DeKinght.  It is an early example of a "music video", showcasing the tunes I’ll Be Glad When You Are Dead You Rascal You., and Shine, sung and played by well-known jazz artist Louis Armstrong. The screenplay was written by Phil Cohan. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wikipedia-en:Special:FilePath/Louis_Armstrong_restored.jpg?width=300',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Louis_Armstrong_restored.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '38754900 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '650315347 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_short_films',
+          href: 'http://dbpedia.org/resource/Category:American_short_films' },
+        { value: 'dbc:1932_films',
+          href: 'http://dbpedia.org/resource/Category:1932_films' },
+        { value: 'dbc:American_films',
+          href: 'http://dbpedia.org/resource/Category:American_films' },
+        { value: 'dbc:English-language_films',
+          href: 'http://dbpedia.org/resource/Category:English-language_films' },
+        { value: 'dbc:1930s_short_films',
+          href: 'http://dbpedia.org/resource/Category:1930s_short_films' } ],
+     'rdfs:comment': [ { value: 'Rhapsody in Black and Blue is a short ten minute film that was created and released in 1932, starring Sidney Easton and Fannie Belle DeKinght.  It is an early example of a "music video", showcasing the tunes I’ll Be Glad When You Are Dead You Rascal You., and Shine, sung and played by well-known jazz artist Louis Armstrong. The screenplay was written by Phil Cohan. (en)' } ],
+     'rdfs:label': [ { value: 'A Rhapsody in Black and Blue (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:A Rhapsody in Black and Blue',
+          href: 'http://rdf.freebase.com/ns/m.0_1hj0w' },
+        { value: 'dbpedia-wikidata:A Rhapsody in Black and Blue',
+          href: 'http://wikidata.dbpedia.org/resource/Q17131078' },
+        { value: 'wikidata:A Rhapsody in Black and Blue',
+          href: 'http://www.wikidata.org/entity/Q17131078' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:A_Rhapsody_in_Black_and_Blue?oldid=650315347',
+          href: 'http://en.wikipedia.org/wiki/A_Rhapsody_in_Black_and_Blue?oldid=650315347' } ],
+     'foaf:depiction': 
+      [ { value: 'wikipedia-en:Special:FilePath/Louis_Armstrong_restored.jpg',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Louis_Armstrong_restored.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:A_Rhapsody_in_Black_and_Blue',
+          href: 'http://en.wikipedia.org/wiki/A_Rhapsody_in_Black_and_Blue' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:A_Rhapsody_in_Black_and_Blue',
+          href: 'http://en.wikipedia.org/wiki/A_Rhapsody_in_Black_and_Blue' } ] } }

@@ -1,0 +1,13 @@
+{ name: 'User:Phaedriel/Soundtrack of Wikipedians',
+  href: 'http://en.wikipedia.org/wiki/User:Phaedriel/Soundtrack_of_Wikipedians',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'So What - Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis - Bye Bye Blackbird' ] } ] }

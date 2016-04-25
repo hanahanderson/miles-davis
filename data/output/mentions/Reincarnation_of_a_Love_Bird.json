@@ -1,0 +1,8 @@
+{ name: 'Reincarnation of a Love Bird',
+  href: 'http://en.wikipedia.org/wiki/Reincarnation_of_a_Love_Bird',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1058,
+       quote: [ '"Half-Nelson" (Miles Davis) - 3:53' ] } ] }

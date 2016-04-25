@@ -1,0 +1,18 @@
+{ name: 'Sorcerer (film)',
+  href: 'http://en.wikipedia.org/wiki/Sorcerer_(film)',
+  mentions: 
+   [ { sectionHeader: 'Title and themes',
+       sectionSubHeader: 'Epilogue',
+       sectionIndex: 29,
+       wordCountBeforeSection: 13391,
+       quote: [ 'Then after some time struggling to think on another moniker, a listen to the Miles Davis album Sorcerer served as an inspiration to name the other truck - though the word was painted in French, "Sorcier".' ] },
+     { sectionHeader: 'Title and themes',
+       sectionSubHeader: 'Epilogue',
+       sectionIndex: 29,
+       wordCountBeforeSection: 13391,
+       quote: [] },
+     { sectionHeader: 'Music',
+       sectionSubHeader: 'Sound',
+       sectionIndex: 85,
+       wordCountBeforeSection: 47841,
+       quote: [ 'Friedkin also featured one licensed song, "I\'ll Remember April", by jazz saxophonist Charlie Parker, and a cover version of "So What" by Miles Davis.' ] } ] }

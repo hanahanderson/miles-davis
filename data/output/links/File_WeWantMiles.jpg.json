@@ -1,0 +1,12 @@
+{ name: 'File:WeWantMiles.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:WeWantMiles.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '6146895 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '519922831 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:WeWantMiles.jpg?oldid=519922831',
+          href: 'http://en.wikipedia.org/wiki/File:WeWantMiles.jpg?oldid=519922831' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:WeWantMiles.jpg',
+          href: 'http://dbpedia.org/resource/File:WeWantMiles.jpg' } ] } }

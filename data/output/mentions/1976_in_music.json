@@ -1,0 +1,13 @@
+{ name: '1976 in music',
+  href: 'http://en.wikipedia.org/wiki/1976_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 53,
+       wordCountBeforeSection: 22997,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 57,
+       wordCountBeforeSection: 24556,
+       quote: [ 'Pangaea - Miles Davis - Live' ] } ] }

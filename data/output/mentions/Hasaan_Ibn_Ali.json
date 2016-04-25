@@ -1,0 +1,8 @@
+{ name: 'Hasaan Ibn Ali',
+  href: 'http://en.wikipedia.org/wiki/Hasaan_Ibn_Ali',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1018,
+       quote: [ 'In 1950 he played locally with Clifford Brown, Miles Davis, J.' ] } ] }

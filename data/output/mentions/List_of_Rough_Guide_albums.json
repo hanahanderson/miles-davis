@@ -1,0 +1,13 @@
+{ name: 'List of Rough Guide albums',
+  href: 'http://en.wikipedia.org/wiki/List_of_Rough_Guide_albums',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Jazz Legends: Miles Davis: Birth Of A Legend' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Individual artist compilation featuring Miles Davis; Disc Two is entitled "Jazz Giants"' ] } ] }

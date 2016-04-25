@@ -1,0 +1,8 @@
+{ name: 'List of Italian-American entertainers',
+  href: 'http://en.wikipedia.org/wiki/List_of_Italian-American_entertainers',
+  mentions: 
+   [ { sectionHeader: 'Musicians',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 5005,
+       quote: [ 'Chick Corea, jazz pianist virtuoso, played with Miles Davis' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'The Genius of Charlie Parker',
+  href: 'http://en.wikipedia.org/wiki/The_Genius_of_Charlie_Parker',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2032,
+       quote: [ 'The liner notes credit Miles Davis with trumpet for the session, but also credit Dizzy Gillespie with both trumpet and piano.' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4114,
+       quote: [ 'Miles Davis - trumpet (tracks A1-A7, B1-B3)' ] } ] }

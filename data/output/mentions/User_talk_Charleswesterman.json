@@ -1,0 +1,8 @@
+{ name: 'User talk:Charleswesterman',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Charleswesterman',
+  mentions: 
+   [ { sectionHeader: 'Elvin Jones artwork',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 915,
+       quote: [ 'If I uploaded a picture of a paperclip that I painted in tribute to Miles Davis, and then placed that image in the infobox for his article - would that not seem inappropriate to you?' ] } ] }

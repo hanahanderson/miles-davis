@@ -1,0 +1,8 @@
+{ name: 'Vater Percussion',
+  href: 'http://en.wikipedia.org/wiki/Vater_Percussion',
+  mentions: 
+   [ { sectionHeader: 'Notable users',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1896,
+       quote: [ 'Jimmy Cobb (Miles Davis)' ] } ] }

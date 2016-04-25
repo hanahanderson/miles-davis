@@ -1,0 +1,8 @@
+{ name: 'Face to Face (Oscar Peterson and Freddie Hubbard album)',
+  href: 'http://en.wikipedia.org/wiki/Face_to_Face_(Oscar_Peterson_and_Freddie_Hubbard_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 509,
+       quote: [ '"All Blues" (Miles Davis) – 13:55' ] } ] }

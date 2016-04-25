@@ -1,0 +1,41 @@
+{ name: '1974 NME Critics End of Year Poll',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1974_NME_Critics_End_of_Year_Poll',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is the list of the best albums voted by the NME critics at the end of 1974. This was the first year the list was published. A ranked singles list was not compiled this year. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.rocklistmusic.co.uk/1974.html',
+          href: 'http://www.rocklistmusic.co.uk/1974.html' } ],
+     'dbo:wikiPageID': [ { value: '18391421 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '613505999 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1974_in_British_music',
+          href: 'http://dbpedia.org/resource/Category:1974_in_British_music' },
+        { value: 'dbc:1974_in_music',
+          href: 'http://dbpedia.org/resource/Category:1974_in_music' },
+        { value: 'dbc:British_music-related_lists',
+          href: 'http://dbpedia.org/resource/Category:British_music-related_lists' },
+        { value: 'dbc:1974_in_the_United_Kingdom',
+          href: 'http://dbpedia.org/resource/Category:1974_in_the_United_Kingdom' },
+        { value: 'dbc:Lists_of_rated_songs',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_rated_songs' },
+        { value: 'dbc:New_Musical_Express',
+          href: 'http://dbpedia.org/resource/Category:New_Musical_Express' } ],
+     'rdfs:comment': [ { value: 'This is the list of the best albums voted by the NME critics at the end of 1974. This was the first year the list was published. A ranked singles list was not compiled this year. (en)' } ],
+     'rdfs:label': [ { value: '1974 NME Critics End of Year Poll (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1974 NME Critics End of Year Poll',
+          href: 'http://wikidata.dbpedia.org/resource/Q4576158' },
+        { value: 'freebase:1974 NME Critics End of Year Poll',
+          href: 'http://rdf.freebase.com/ns/m.04f4hx7' },
+        { value: 'wikidata:1974 NME Critics End of Year Poll',
+          href: 'http://www.wikidata.org/entity/Q4576158' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1974_NME_Critics_End_of_Year_Poll?oldid=613505999',
+          href: 'http://en.wikipedia.org/wiki/1974_NME_Critics_End_of_Year_Poll?oldid=613505999' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1974_NME_Critics_End_of_Year_Poll',
+          href: 'http://en.wikipedia.org/wiki/1974_NME_Critics_End_of_Year_Poll' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1974_NME_Critics_End_of_Year_Poll',
+          href: 'http://en.wikipedia.org/wiki/1974_NME_Critics_End_of_Year_Poll' } ] } }

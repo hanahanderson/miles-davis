@@ -1,0 +1,8 @@
+{ name: 'Ponga (band)',
+  href: 'http://en.wikipedia.org/wiki/Ponga_(band)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 460,
+       quote: [ 'Often described as "intuitive" with references to the electric bands led by Miles Davis in the late 1960s and \'70s, the group was also noted for styles that were all-encompassing.' ] } ] }

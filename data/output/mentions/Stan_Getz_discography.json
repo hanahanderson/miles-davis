@@ -1,0 +1,8 @@
+{ name: 'Stan Getz discography',
+  href: 'http://en.wikipedia.org/wiki/Stan_Getz_discography',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 63,
+       wordCountBeforeSection: 7248,
+       quote: [ 'Miles Davis a.o. - Conception (1949)' ] } ] }

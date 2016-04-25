@@ -1,0 +1,18 @@
+{ name: 'Wallace Roney',
+  href: 'http://en.wikipedia.org/wiki/Wallace_Roney',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 343,
+       quote: [ 'Roney took lessons from Clark Terry and Dizzy Gillespie and studied with Miles Davis from 1985 until the latter\'s death in 1991.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3308,
+       quote: [ 'In 1991, Roney played with Miles Davis at the Montreux Jazz Festival.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4052,
+       quote: [ 'Roney\'s story is unique among musicians of his generation, because he learned his craft directly from Miles Davis.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'West Coast Jazz (Stan Getz album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/West_Coast_Jazz_(Stan_Getz_album)',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

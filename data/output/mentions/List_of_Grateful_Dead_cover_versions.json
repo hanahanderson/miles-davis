@@ -1,0 +1,8 @@
+{ name: 'List of Grateful Dead cover versions',
+  href: 'http://en.wikipedia.org/wiki/List_of_Grateful_Dead_cover_versions',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 183,
+       quote: [ 'Miles Davis' ] } ] }

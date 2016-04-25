@@ -1,0 +1,8 @@
+{ name: 'Grammy Award for Best R&B Instrumental Performance',
+  href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_R%26B_Instrumental_Performance',
+  mentions: 
+   [ { sectionHeader: '1990s',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 687,
+       quote: [ 'Miles Davis for Doo-Bop' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'File:Birth of the Cool.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:Birth_of_the_Cool.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is the cover art for Birth of the Cool by the artist Miles Davis.' ] } ] }

@@ -1,0 +1,10 @@
+{ name: 'Wikipedia:Wikipedia Signpost/2006-10-23/Features and admins',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2006-10-23/Features_and_admins',
+  mentions: 
+   [ { sectionHeader: 'Features and admins',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1025,
+       quote: 
+        [ 'Four articles were de-featured last week: Miles Davis, History of the Netherlands, Ackermann function and Turquoise.',
+          'The Miles Davis article marks the 250th article to be de-featured.' ] } ] }

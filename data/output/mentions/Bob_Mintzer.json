@@ -1,0 +1,8 @@
+{ name: 'Bob Mintzer',
+  href: 'http://en.wikipedia.org/wiki/Bob_Mintzer',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 2466,
+       quote: [ 'Later that year I was taken to the Village Gate to hear the double bill of the Miles Davis quintet and the Thelonious Monk Quartet.' ] } ] }

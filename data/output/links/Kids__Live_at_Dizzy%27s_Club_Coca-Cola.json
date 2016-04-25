@@ -1,0 +1,111 @@
+{ name: 'Kids: Live at Dizzy\'s Club Coca-Cola',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Kids:_Live_at_Dizzy%27s_Club_Coca-Cola',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '69.53333333333333' } ],
+     'dbo:abstract': [ { value: 'Kids: Live at Dizzy\'s Club Coca-Cola is a live album by pianist Hank Jones and saxophonist Joe Lovano recorded at Lincoln Centre in 2006 for the Blue Note label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' },
+        { value: 'dbr:Joe_Lovano',
+          href: 'http://dbpedia.org/resource/Joe_Lovano' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Streams_of_Expression',
+          href: 'http://dbpedia.org/resource/Streams_of_Expression' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Michael_Cuscuna' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Jazz_at_Lincoln_Center',
+          href: 'http://dbpedia.org/resource/Jazz_at_Lincoln_Center' } ],
+     'dbo:releaseDate': [ { value: '2007-05-08 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '4172.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Symphonica_(Joe_Lovano_album)',
+          href: 'http://dbpedia.org/resource/Symphonica_(Joe_Lovano_album)' } ],
+     'dbo:wikiPageID': [ { value: '47453234 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674954569 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Joe Lovano and Hank Jones (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Joe_Lovano',
+          href: 'http://dbpedia.org/resource/Joe_Lovano' } ],
+     'dbp:cover': [ { value: 'Kids Live at Dizzys.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' },
+        { value: '(70281) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Streams of Expression (en)' } ],
+     'dbp:length': [ { value: '4172.0' } ],
+     'dbp:name': [ { value: 'Kids: Live at Dizzy\'s Club Coca-Cola (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Symphonica (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Michael_Cuscuna' } ],
+     'dbp:recorded': 
+      [ { value: '--04-27' },
+        { value: '(Dizzy\'s Club Coca-Cola at Jazz at Lincoln Center, NYC) (en)' } ],
+     'dbp:released': [ { value: '2007-05-08 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'Kids: Live at Dizzy\'s Club Coca-Cola (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Michael_Cuscuna' },
+        { value: 'dbc:2007_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2007_live_albums' },
+        { value: 'dbc:Blue_Note_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Blue_Note_Records_live_albums' },
+        { value: 'dbc:Hank_Jones_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Hank_Jones_live_albums' },
+        { value: 'dbc:Joe_Lovano_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Joe_Lovano_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Kids: Live at Dizzy\'s Club Coca-Cola is a live album by pianist Hank Jones and saxophonist Joe Lovano recorded at Lincoln Centre in 2006 for the Blue Note label. (en)' } ],
+     'rdfs:label': [ { value: 'Kids: Live at Dizzy\'s Club Coca-Cola (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Kids: Live at Dizzy\'s Club Coca-Cola',
+          href: 'http://wikidata.dbpedia.org/resource/Q20813578' },
+        { value: 'wikidata:Kids: Live at Dizzy\'s Club Coca-Cola',
+          href: 'http://www.wikidata.org/entity/Q20813578' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Kids:_Live_at_Dizzy\'s_Club_Coca-Cola?oldid=674954569',
+          href: 'http://en.wikipedia.org/wiki/Kids:_Live_at_Dizzy\'s_Club_Coca-Cola?oldid=674954569' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Kids:_Live_at_Dizzy\'s_Club_Coca-Cola',
+          href: 'http://en.wikipedia.org/wiki/Kids:_Live_at_Dizzy\'s_Club_Coca-Cola' } ],
+     'foaf:name': [ { value: 'Kids: Live at Dizzy\'s Club Coca-Cola (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Symphonica_(Joe_Lovano_album)',
+          href: 'http://dbpedia.org/resource/Symphonica_(Joe_Lovano_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Streams_of_Expression',
+          href: 'http://dbpedia.org/resource/Streams_of_Expression' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Kids:_Live_at_Dizzy\'s_Club_Coca-Cola',
+          href: 'http://en.wikipedia.org/wiki/Kids:_Live_at_Dizzy\'s_Club_Coca-Cola' } ] } }

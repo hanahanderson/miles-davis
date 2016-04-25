@@ -1,0 +1,8 @@
+{ name: 'Joma Music Group, Inc.',
+  href: 'http://en.wikipedia.org/wiki/Joma_Music_Group,_Inc.',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 604,
+       quote: [ 'The Joma Music Publishing division represents a large catalog of songs written by the lyricist Ned Washington, including the standards "My Foolish Heart", "Stella By Starlight", "Rawhide", "I\'m Getting Sentimental Over You" and dozens of other songs that have been performed by legendary artists such as Frank Sinatra, Ella Fitzgerald, David Bowie, Miles Davis, Billie Holiday, Barbra Streisand, Bing Crosby, Duke Ellington, Dizzie Gillespie, and k.d. lang.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'User talk:Thelots~enwiki',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Thelots~enwiki',
+  mentions: 
+   [ { sectionHeader: 'Characteristics',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3336,
+       quote: [ 'In the 1970s, jazz music drew upon funk to create a new subgenre of jazz-funk, which can be heard in 1970s recordings by Miles Davis and Herbie Hancock.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 10728,
+       quote: [ 'Additionally, in the late 1960s work of Miles Davis (with girlfriend/wife Betty Davis) and Tony Williams helped to create Jazz fusion and influenced funk.' ] } ] }

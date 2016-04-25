@@ -1,0 +1,8 @@
+{ name: 'Bass on Top',
+  href: 'http://en.wikipedia.org/wiki/Bass_on_Top',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 794,
+       quote: [] } ] }

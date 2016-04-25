@@ -1,0 +1,8 @@
+{ name: 'Todd Carey',
+  href: 'http://en.wikipedia.org/wiki/Todd_Carey',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1631,
+       quote: [ 'His father was also a music lover and collected music, introducing Carey to artists like Stevie Wonder and Miles Davis at a young age.' ] } ] }

@@ -1,0 +1,105 @@
+{ name: 'West Coast Live (album)',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/West_Coast_Live_(album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'West Coast Live is a live album by trumpeter Chet Baker and saxophonist Stan Getz which was recorded in California in 1953 but not released on the Pacific Jazz label until 1997. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Timeless_(Gerry_Mulligan_&_Chet_Baker_album)',
+          href: 'http://dbpedia.org/resource/Timeless_(Gerry_Mulligan_&_Chet_Baker_album)' } ],
+     'dbo:recordDate': 
+      [ { value: '1953-06-12 (xsd:date)' },
+        { value: '1954-08-17 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Pacific_Jazz_Records',
+          href: 'http://dbpedia.org/resource/Pacific_Jazz_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:The_Haig',
+          href: 'http://dbpedia.org/resource/The_Haig' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Chet_Baker_Quartet_featuring_Russ_Freeman',
+          href: 'http://dbpedia.org/resource/Chet_Baker_Quartet_featuring_Russ_Freeman' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '40184508 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '569152071 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' },
+        { value: 'dbr:Stan_Getz',
+          href: 'http://dbpedia.org/resource/Stan_Getz' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbp:cover': [ { value: 'West Coast Live .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Pacific_Jazz_Records',
+          href: 'http://dbpedia.org/resource/Pacific_Jazz_Records' },
+        { value: 'CDP 7243 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Timeless (en)' } ],
+     'dbp:name': [ { value: 'West Coast Live (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Chet Baker Quartet featuring Russ Freeman (en)' } ],
+     'dbp:producer': [ { value: 'Richard Bock (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--06-12' },
+        { value: 'The Haig, Hollywood and Tiffany Club, Los Angeles (en)' } ],
+     'dbp:released': [ { value: '1997 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'West Coast Live (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1997_albums',
+          href: 'http://dbpedia.org/resource/Category:1997_albums' },
+        { value: 'dbc:Pacific_Jazz_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Pacific_Jazz_Records_live_albums' },
+        { value: 'dbc:Chet_Baker_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Chet_Baker_live_albums' },
+        { value: 'dbc:Stan_Getz_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Stan_Getz_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'West Coast Live is a live album by trumpeter Chet Baker and saxophonist Stan Getz which was recorded in California in 1953 but not released on the Pacific Jazz label until 1997. (en)' } ],
+     'rdfs:label': [ { value: 'West Coast Live (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:West Coast Live (album)',
+          href: 'http://rdf.freebase.com/ns/m.01qq25x' },
+        { value: 'dbpedia-wikidata:West Coast Live (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17035673' },
+        { value: 'wikidata:West Coast Live (album)',
+          href: 'http://www.wikidata.org/entity/Q17035673' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:West_Coast_Live_(album)?oldid=569152071',
+          href: 'http://en.wikipedia.org/wiki/West_Coast_Live_(album)?oldid=569152071' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:West_Coast_Live_(album)',
+          href: 'http://en.wikipedia.org/wiki/West_Coast_Live_(album)' } ],
+     'foaf:name': [ { value: 'West Coast Live (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Chet_Baker_Quartet_featuring_Russ_Freeman',
+          href: 'http://dbpedia.org/resource/Chet_Baker_Quartet_featuring_Russ_Freeman' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:West_Coast_Live_(album)',
+          href: 'http://en.wikipedia.org/wiki/West_Coast_Live_(album)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'How High the Moon',
+  href: 'http://en.wikipedia.org/wiki/How_High_the_Moon',
+  mentions: 
+   [ { sectionHeader: 'Songs based on "How High the Moon"',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 12524,
+       quote: [ 'Lennie Tristano wrote the contrafact "Lennie-bird" over the chord changes, and Miles Davis/Chuck Wayne\'s "Solar" is also based on part of the chord structure.' ] } ] }

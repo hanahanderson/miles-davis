@@ -1,0 +1,8 @@
+{ name: 'Lord Flea',
+  href: 'http://en.wikipedia.org/wiki/Lord_Flea',
+  mentions: 
+   [ { sectionHeader: 'Subject matter',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 5994,
+       quote: [ 'Charlie Parker receives a mention, the song refers to Miles Davis as a \'smasher\', and Jazz legend Lionel Hampton is also recommended to the listener:' ] } ] }

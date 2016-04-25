@@ -1,0 +1,97 @@
+{ name: 'The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/The_Montreal_Tapes:_with_Gonzalo_Rubalcaba_and_Paul_Motian',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '63.95' } ],
+     'dbo:abstract': [ { value: 'The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian is a live album by the American jazz bassist Charlie Haden with pianist Gonzalo Rubalcaba and drummer Paul Motian recorded in 1989 and released on the Verve label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Charlie_Haden',
+          href: 'http://dbpedia.org/resource/Charlie_Haden' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Montreal_Tapes:_with_Don_Cherry_and_Ed_Blackwell',
+          href: 'http://dbpedia.org/resource/The_Montreal_Tapes:_with_Don_Cherry_and_Ed_Blackwell' } ],
+     'dbo:recordDate': [ { value: '1989-07-03 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:runtime': [ { value: '3837.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:In_Montreal',
+          href: 'http://dbpedia.org/resource/In_Montreal' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '33969981 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '586920812 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Charlie_Haden',
+          href: 'http://dbpedia.org/resource/Charlie_Haden' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Charlie_Haden',
+          href: 'http://dbpedia.org/resource/Charlie_Haden' } ],
+     'dbp:cover': [ { value: 'The Montreal Tapes with Gonzalo Rubalcaba and Paul Motian.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Montreal Tapes: with Don Cherry and Ed Blackwell (en)' } ],
+     'dbp:length': [ { value: '3837.0' } ],
+     'dbp:name': [ { value: 'The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian (en)' } ],
+     'dbp:nextAlbum': [ { value: 'In Montreal (en)' } ],
+     'dbp:producer': [ { value: 'Ruth Cameron (en)' } ],
+     'dbp:recorded': [ { value: '1989-07-03 (xsd:date)' } ],
+     'dbp:released': [ { value: '1997 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1997_albums',
+          href: 'http://dbpedia.org/resource/Category:1997_albums' },
+        { value: 'dbc:Charlie_Haden_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Charlie_Haden_live_albums' },
+        { value: 'dbc:Verve_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian is a live album by the American jazz bassist Charlie Haden with pianist Gonzalo Rubalcaba and drummer Paul Motian recorded in 1989 and released on the Verve label. (en)' } ],
+     'rdfs:label': [ { value: 'The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian',
+          href: 'http://rdf.freebase.com/ns/m.0hnc3s2' },
+        { value: 'wikidata:The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian',
+          href: 'http://www.wikidata.org/entity/Q7752128' },
+        { value: 'dbpedia-wikidata:The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian',
+          href: 'http://wikidata.dbpedia.org/resource/Q7752128' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Montreal_Tapes:_with_Gonzalo_Rubalcaba_and_Paul_Motian?oldid=586920812',
+          href: 'http://en.wikipedia.org/wiki/The_Montreal_Tapes:_with_Gonzalo_Rubalcaba_and_Paul_Motian?oldid=586920812' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Montreal_Tapes:_with_Gonzalo_Rubalcaba_and_Paul_Motian',
+          href: 'http://en.wikipedia.org/wiki/The_Montreal_Tapes:_with_Gonzalo_Rubalcaba_and_Paul_Motian' } ],
+     'foaf:name': [ { value: 'The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:In_Montreal',
+          href: 'http://dbpedia.org/resource/In_Montreal' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Montreal_Tapes:_with_Don_Cherry_and_Ed_Blackwell',
+          href: 'http://dbpedia.org/resource/The_Montreal_Tapes:_with_Don_Cherry_and_Ed_Blackwell' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Montreal_Tapes:_with_Gonzalo_Rubalcaba_and_Paul_Motian',
+          href: 'http://en.wikipedia.org/wiki/The_Montreal_Tapes:_with_Gonzalo_Rubalcaba_and_Paul_Motian' } ] } }

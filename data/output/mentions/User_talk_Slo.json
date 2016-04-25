@@ -1,0 +1,8 @@
+{ name: 'User talk:Slo',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Slo',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Nice copy-editing on Miles Davis.' ] } ] }

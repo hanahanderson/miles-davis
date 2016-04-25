@@ -1,0 +1,8 @@
+{ name: 'George Russell Sextet at the Five Spot',
+  href: 'http://en.wikipedia.org/wiki/George_Russell_Sextet_at_the_Five_Spot',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1020,
+       quote: [ '"Sippin\' at Bells" (Miles Davis) - 7:19' ] } ] }

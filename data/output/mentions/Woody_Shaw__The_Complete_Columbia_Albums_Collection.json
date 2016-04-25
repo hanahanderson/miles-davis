@@ -1,0 +1,8 @@
+{ name: 'Woody Shaw: The Complete Columbia Albums Collection',
+  href: 'http://en.wikipedia.org/wiki/Woody_Shaw:_The_Complete_Columbia_Albums_Collection',
+  mentions: 
+   [ { sectionHeader: 'CD and Track Listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1870,
+       quote: [ 'Miles Davis' ] } ] }

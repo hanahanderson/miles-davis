@@ -1,0 +1,44 @@
+{ name: '1956 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1956_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1956 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Musicians_performing_...eets_Pensacola,_Florida.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Musicians_performing_in_Tom\'s_Tavern_club_at_Gonzalez_and_Railroad_streets_Pensacola,_Florida.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25655436 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '614866204 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1957 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'Musicians performing in Tom\'s Tavern club at Gonzalez and Railroad streets: Pensacola, Florida, 1956 (en)' } ],
+     'dbp:prioryear': [ { value: '1955 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1956_in_music',
+          href: 'http://dbpedia.org/resource/Category:1956_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: '1956 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1956 in jazz (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_post-1950_jazz_standards',
+          href: 'http://dbpedia.org/resource/List_of_post-1950_jazz_standards' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1956 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4568861' },
+        { value: 'wikidata:1956 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4568861' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1956_in_jazz?oldid=614866204',
+          href: 'http://en.wikipedia.org/wiki/1956_in_jazz?oldid=614866204' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Musicians_performing_...ilroad_streets_Pensacola,_Florida.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Musicians_performing_in_Tom\'s_Tavern_club_at_Gonzalez_and_Railroad_streets_Pensacola,_Florida.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1956_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1956_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1956_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1956_in_jazz' } ] } }

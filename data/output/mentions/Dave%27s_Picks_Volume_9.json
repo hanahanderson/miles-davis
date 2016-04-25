@@ -1,0 +1,8 @@
+{ name: 'Dave\'s Picks Volume 9',
+  href: 'http://en.wikipedia.org/wiki/Dave%27s_Picks_Volume_9',
+  mentions: 
+   [ { sectionHeader: 'Critical reception',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 950,
+       quote: [ 'Jerry Garcia\'s wah-wah and Keith Godchaux\'s Fender Rhodes pull jams into Miles Davis free funk territory; vocalist Donna Godchaux adds signature off-notes; and the slow stuff shines brightest."' ] } ] }

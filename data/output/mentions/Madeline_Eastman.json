@@ -1,0 +1,8 @@
+{ name: 'Madeline Eastman',
+  href: 'http://en.wikipedia.org/wiki/Madeline_Eastman',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 347,
+       quote: [ 'She has listened deeply to Miles Davis, particularly his mid-\'60s quintet with Wayne Shorter, Herbie Hancock, Ron Carter and Tony Williams.' ] } ] }

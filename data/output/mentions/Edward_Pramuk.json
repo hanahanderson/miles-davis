@@ -1,0 +1,8 @@
+{ name: 'Edward Pramuk',
+  href: 'http://en.wikipedia.org/wiki/Edward_Pramuk',
+  mentions: 
+   [ { sectionHeader: 'Works',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 841,
+       quote: [ 'He also expresses his lifelong love of jazz through mixed media portraits of musicians like Billie Holiday, Miles Davis, Duke Ellington, and Wynton Marsalis.' ] } ] }

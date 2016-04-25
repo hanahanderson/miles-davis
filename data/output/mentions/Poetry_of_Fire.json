@@ -1,0 +1,8 @@
+{ name: 'Poetry of Fire',
+  href: 'http://en.wikipedia.org/wiki/Poetry_of_Fire',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 470,
+       quote: [ 'Miles Davis' ] } ] }

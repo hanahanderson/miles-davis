@@ -1,0 +1,8 @@
+{ name: 'The Bergevin Brothers',
+  href: 'http://en.wikipedia.org/wiki/The_Bergevin_Brothers',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1509,
+       quote: [ 'The Bergevin Brothers list their influences as Elton John, Peter Gabriel, Frank Sinatra, Miles Davis, Pat Metheny, Sting, Billy Joel, Queen, Johnny Cash, Roger Miller, Supertramp, Ray Charles, Frankie Goes To Hollywood, The Eagles, The Doobie Brothers, Madonna and Michael Jackson.' ] } ] }

@@ -1,0 +1,18 @@
+{ name: 'Jimmy Robinson (recording engineer)',
+  href: 'http://en.wikipedia.org/wiki/Jimmy_Robinson_(recording_engineer)',
+  mentions: 
+   [ { sectionHeader: 'Engineering and producing',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 4914,
+       quote: [ 'Robinson also worked with several prominent artists of the time including Roberta Flack, Led Zeppelin (on Houses of the Holy), Blood Sweat and Tears, and Miles Davis\' Live Evil.' ] },
+     { sectionHeader: 'Engineering and producing',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 4914,
+       quote: [] },
+     { sectionHeader: 'Artists and associated acts and credits',
+       sectionSubHeader: '2003 to present',
+       sectionIndex: 45,
+       wordCountBeforeSection: 11444,
+       quote: [ 'Miles Davis' ] } ] }

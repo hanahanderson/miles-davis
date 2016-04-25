@@ -1,0 +1,99 @@
+{ name: 'Herbie Hancock Trio (1977 album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Herbie_Hancock_Trio_(1977_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '46.21666666666667' } ],
+     'dbo:abstract': [ { value: 'Herbie Hancock Trio is an album  by Herbie Hancock released in September 21, 1977 in Japan. It features performances by Hancock with Ron Carter and Tony Williams. It is the first of two albums with the same title—this album was released in 1977, and a second Herbie Hancock Trio was released in 1982. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Herbie_Hancock',
+          href: 'http://dbpedia.org/resource/Herbie_Hancock' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:VSOP_(album)',
+          href: 'http://dbpedia.org/resource/VSOP_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:David_Rubinson',
+          href: 'http://dbpedia.org/resource/David_Rubinson' } ],
+     'dbo:recordDate': [ { value: '1977-07-13 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:releaseDate': [ { value: '1977-09-21 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '2773.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Quintet_(V.S.O.P._album)',
+          href: 'http://dbpedia.org/resource/The_Quintet_(V.S.O.P._album)' } ],
+     'dbo:wikiPageID': [ { value: '21202401 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '633842115 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Herbie_Hancock',
+          href: 'http://dbpedia.org/resource/Herbie_Hancock' } ],
+     'dbp:cover': [ { value: 'Herbie Hancock Trio .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:lastAlbum': [ { value: 'VSOP (en)' } ],
+     'dbp:length': [ { value: '2773.0' } ],
+     'dbp:name': [ { value: 'Herbie Hancock Trio (en)' } ],
+     'dbp:nextAlbum': [ { value: 'VSOP: The Quintet (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:David_Rubinson',
+          href: 'http://dbpedia.org/resource/David_Rubinson' } ],
+     'dbp:recorded': [ { value: '1977-07-13 (xsd:date)' } ],
+     'dbp:released': [ { value: '1977-09-21 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Herbie Hancock Trio (en)' } ],
+     'dbp:type': [ { value: 'Studio album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1977_albums',
+          href: 'http://dbpedia.org/resource/Category:1977_albums' },
+        { value: 'dbc:Herbie_Hancock_albums',
+          href: 'http://dbpedia.org/resource/Category:Herbie_Hancock_albums' },
+        { value: 'dbc:Columbia_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Columbia_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Herbie Hancock Trio is an album  by Herbie Hancock released in September 21, 1977 in Japan. It features performances by Hancock with Ron Carter and Tony Williams. It is the first of two albums with the same title—this album was released in 1977, and a second Herbie Hancock Trio was released in 1982. (en)' } ],
+     'rdfs:label': [ { value: 'Herbie Hancock Trio (1977 album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Herbie Hancock Trio (1977 album)',
+          href: 'http://rdf.freebase.com/ns/m.05c0wg1' },
+        { value: 'dbpedia-wikidata:Herbie Hancock Trio (1977 album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5736098' },
+        { value: 'wikidata:Herbie Hancock Trio (1977 album)',
+          href: 'http://www.wikidata.org/entity/Q5736098' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Herbie_Hancock_Trio_(1977_album)?oldid=633842115',
+          href: 'http://en.wikipedia.org/wiki/Herbie_Hancock_Trio_(1977_album)?oldid=633842115' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Herbie_Hancock_Trio_(1977_album)',
+          href: 'http://en.wikipedia.org/wiki/Herbie_Hancock_Trio_(1977_album)' } ],
+     'foaf:name': [ { value: 'Herbie Hancock Trio (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:VSOP_(album)',
+          href: 'http://dbpedia.org/resource/VSOP_(album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Herbie_Hancock_Trio',
+          href: 'http://dbpedia.org/resource/Herbie_Hancock_Trio' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Herbie_Hancock_Trio_(1977_album)',
+          href: 'http://en.wikipedia.org/wiki/Herbie_Hancock_Trio_(1977_album)' } ] } }

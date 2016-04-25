@@ -1,0 +1,8 @@
+{ name: 'Paul\'s Boutique',
+  href: 'http://en.wikipedia.org/wiki/Paul%27s_Boutique',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: 'Awards and accolades',
+       sectionIndex: 33,
+       wordCountBeforeSection: 12227,
+       quote: [ 'Miles Davis said that he never got tired of listening to Paul\'s Boutique.' ] } ] }

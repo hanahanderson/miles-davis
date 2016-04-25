@@ -1,0 +1,8 @@
+{ name: 'Taft Jordan',
+  href: 'http://en.wikipedia.org/wiki/Taft_Jordan',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 216,
+       quote: [ 'After this he played less often, though he toured with Benny Goodman in 1958, played on Miles Davis\'s Sketches of Spain, and worked with the New York Jazz Repertory Company.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Concorde Club',
+  href: 'http://en.wikipedia.org/wiki/The_Concorde_Club',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 325,
+       quote: [ 'The award, celebrating the 50th anniversary of the Miles Davis classic album Kind of Blue, is to honour the jazz establishment considered to have done most for the development of jazz in the United Kingdom.' ] } ] }

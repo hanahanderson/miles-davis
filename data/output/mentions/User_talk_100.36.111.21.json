@@ -1,0 +1,13 @@
+{ name: 'User talk:100.36.111.21',
+  href: 'http://en.wikipedia.org/wiki/User_talk:100.36.111.21',
+  mentions: 
+   [ { sectionHeader: 'August 2015',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 17,
+       quote: [ 'I wanted to let you know that I reverted one of your recent contributions —the one you made with this edit to Miles Davis— because it didn’t appear constructive to me.' ] },
+     { sectionHeader: 'August 2015',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 511,
+       quote: [ ' Please refrain from making nonconstructive edits to Wikipedia, as you did at Miles Davis with this edit.' ] } ] }

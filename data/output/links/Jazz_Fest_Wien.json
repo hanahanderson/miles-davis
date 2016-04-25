@@ -1,0 +1,47 @@
+{ name: 'Jazz Fest Wien',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Jazz_Fest_Wien',
+  values: 
+   { 'dbo:abstract': [ { value: 'Jazz Fest Wien or Vienna Jazz Festival is a jazz festival in Vienna, held annually at the end of June and beginning of July since 1991. An international festival, in 2007 it was attended by some 60,000 spectators. It is now considered one of the world\'s top jazz festivals. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Dorretta_Carter_MQ2007-a.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dorretta_Carter_MQ2007-a.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.viennajazz.org/en',
+          href: 'http://www.viennajazz.org/en' } ],
+     'dbo:wikiPageID': [ { value: '36003764 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '563023265 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_in_Vienna',
+          href: 'http://dbpedia.org/resource/Category:Music_in_Vienna' },
+        { value: 'dbc:Jazz_festivals_in_Austria',
+          href: 'http://dbpedia.org/resource/Category:Jazz_festivals_in_Austria' } ],
+     'rdfs:comment': [ { value: 'Jazz Fest Wien or Vienna Jazz Festival is a jazz festival in Vienna, held annually at the end of June and beginning of July since 1991. An international festival, in 2007 it was attended by some 60,000 spectators. It is now considered one of the world\'s top jazz festivals. (en)' } ],
+     'rdfs:label': [ { value: 'Jazz Fest Wien (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Jazz Fest Wien',
+          href: 'http://rdf.freebase.com/ns/m.0j_2_31' },
+        { value: 'dbpedia-de:Jazz Fest Wien',
+          href: 'http://de.dbpedia.org/resource/Jazz_Fest_Wien' },
+        { value: 'dbpedia-wikidata:Jazz Fest Wien',
+          href: 'http://wikidata.dbpedia.org/resource/Q1563798' },
+        { value: 'wikidata:Jazz Fest Wien',
+          href: 'http://www.wikidata.org/entity/Q1563798' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jazz_Fest_Wien?oldid=563023265',
+          href: 'http://en.wikipedia.org/wiki/Jazz_Fest_Wien?oldid=563023265' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Dorretta_Carter_MQ2007-a.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dorretta_Carter_MQ2007-a.jpg' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.viennajazz.org/en',
+          href: 'http://www.viennajazz.org/en' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jazz_Fest_Wien',
+          href: 'http://en.wikipedia.org/wiki/Jazz_Fest_Wien' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Vienna_Jazz_Festival',
+          href: 'http://dbpedia.org/resource/Vienna_Jazz_Festival' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jazz_Fest_Wien',
+          href: 'http://en.wikipedia.org/wiki/Jazz_Fest_Wien' } ] } }

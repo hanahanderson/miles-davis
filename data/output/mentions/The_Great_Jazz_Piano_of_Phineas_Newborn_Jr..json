@@ -1,0 +1,8 @@
+{ name: 'The Great Jazz Piano of Phineas Newborn Jr.',
+  href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1078,
+       quote: [ '"Four" (Miles Davis) - 3:56' ] } ] }

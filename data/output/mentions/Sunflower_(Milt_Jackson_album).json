@@ -1,0 +1,8 @@
+{ name: 'Sunflower (Milt Jackson album)',
+  href: 'http://en.wikipedia.org/wiki/Sunflower_(Milt_Jackson_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 256,
+       quote: [ 'Assisting Jackson are trumpeter Freddie Hubbard, a star-studded rhythm section composed chiefly of Miles Davis alumni, and, on the first track, string and woodwind accompaniment, courtesy of Don Sebesky.' ] } ] }

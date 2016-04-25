@@ -1,0 +1,13 @@
+{ name: 'Waltz for Debby (1962 album)',
+  href: 'http://en.wikipedia.org/wiki/Waltz_for_Debby_(1962_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2702,
+       quote: [ '"Milestones" (Miles Davis) – 6:30' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'CD track listing',
+       sectionIndex: 23,
+       wordCountBeforeSection: 4331,
+       quote: [ 'Miles Davis' ] } ] }

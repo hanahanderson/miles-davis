@@ -1,0 +1,8 @@
+{ name: 'David Gamson',
+  href: 'http://en.wikipedia.org/wiki/David_Gamson',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'He has worked with, among others, Ke$ha, Kelly Clarkson, Jessie J, Adam Lambert, Chaka Khan, Meshell Ndegeocello, Green Gartside, Sheila E., George Benson, Luther Vandross, Donny Osmond, Miles Davis, Al Jarreau, Tony LeMans and Roger Troutman.' ] } ] }

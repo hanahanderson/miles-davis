@@ -1,0 +1,8 @@
+{ name: 'Bobby Rosengarden',
+  href: 'http://en.wikipedia.org/wiki/Bobby_Rosengarden',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1034,
+       quote: [ 'Through the years, Rosengarden became a busy studio musician, recording with Duke Ellington, Billie Holiday, Skitch Henderson, Quincy Jones, Peter Nero, Gil Evans/Miles Davis, Gerry Mulligan, Benny Goodman, Dick Hyman, Arlo Guthrie, Carmen McRae, Ben E.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Scott Mathews',
+  href: 'http://en.wikipedia.org/wiki/Scott_Mathews',
+  mentions: 
+   [ { sectionHeader: '1980s',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 17374,
+       quote: [ 'The stellar unlikely lineup was Miles Davis, John Lee Hooker, Taj Mahal, Earl Palmer and Roy Rogers (instead of Nitzsche\'s first call, Ry Cooder who was not available).' ] } ] }

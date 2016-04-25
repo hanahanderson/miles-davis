@@ -1,0 +1,8 @@
+{ name: 'User:Blehfu/Sandbox/Musical improvisation',
+  href: 'http://en.wikipedia.org/wiki/User:Blehfu/Sandbox/Musical_improvisation',
+  mentions: 
+   [ { sectionHeader: 'Modern improvisation',
+       sectionSubHeader: '',
+       sectionIndex: 70,
+       wordCountBeforeSection: 28073,
+       quote: [ 'The modal era of jazz, mainly started by Miles Davis, moved the harmonic framework for a piece from the fast, dynamic chord progressions of bebop to more static, relaxed chords with longer durations.' ] } ] }

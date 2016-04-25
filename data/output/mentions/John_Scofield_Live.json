@@ -1,0 +1,8 @@
+{ name: 'John Scofield Live',
+  href: 'http://en.wikipedia.org/wiki/John_Scofield_Live',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 602,
+       quote: [ 'Miles Davis' ] } ] }

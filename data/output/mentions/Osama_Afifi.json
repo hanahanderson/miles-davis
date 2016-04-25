@@ -1,0 +1,8 @@
+{ name: 'Osama Afifi',
+  href: 'http://en.wikipedia.org/wiki/Osama_Afifi',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 395,
+       quote: [ 'He worked with Grammy-nominated jazz vocalists Kurt Elling and Nnenna Freelon, The 5th Dimension, The Cadillacs, jazz saxophonist Gary Herbig, singer Debbie Boone, former Miles Davis keyboardist Kei Akagi, Doors drummer John Densmore, Brazilian style guitar duo Hugo Jojo, and jazz trumpeter Tony Guerrero.' ] } ] }

@@ -1,0 +1,120 @@
+{ name: 'Exposition internationale du bicentenaire de Port-au-Prince',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Exposition_internationale_du_bicentenaire_de_Port-au-Prince',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Exposition internationale du bicentenaire de Port-au-Prince was a world\'s fair held in Port-au-Prince, Haiti in 1949 to mark 200 years since Port-au-Prince\'s foundation. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Dumarsais_estime_portrait.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dumarsais_estime_portrait.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://islandluminous.fiu.edu/part09-slide18.html',
+          href: 'http://islandluminous.fiu.edu/part09-slide18.html' },
+        { value: 'http://ufdc.ufl.edu/AA00010663/00001/4j',
+          href: 'http://ufdc.ufl.edu/AA00010663/00001/4j' } ],
+     'dbo:wikiPageID': [ { value: '36229785 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '648472492 (xsd:integer)' } ],
+     'dbp:award': [ { value: '1948-12-05 (xsd:date)' } ],
+     'dbp:cand': [ { value: '1948-10-12 (xsd:date)' } ],
+     'dbp:caption': [ { value: 'Dumarsais Estimé (en)' } ],
+     'dbp:category': [ { value: '2 (xsd:integer)' } ],
+     'dbp:city': 
+      [ { value: 'dbr:Port-au-Prince',
+          href: 'http://dbpedia.org/resource/Port-au-Prince' } ],
+     'dbp:class': [ { value: 'Universal (en)' } ],
+     'dbp:close': [ { value: '1950-06-08 (xsd:date)' } ],
+     'dbp:country': [ { value: 'Haiti (en)' } ],
+     'dbp:motto': [ { value: '6.31152E9' } ],
+     'dbp:name': [ { value: 'L\'Exposition Internationale de port au Prince 1949 (en)' } ],
+     'dbp:nextcity': 
+      [ { value: 'dbr:Brussels',
+          href: 'http://dbpedia.org/resource/Brussels' } ],
+     'dbp:nextexpo': 
+      [ { value: 'dbr:Expo_58',
+          href: 'http://dbpedia.org/resource/Expo_58' } ],
+     'dbp:nextsupcity': 
+      [ { value: 'dbr:Lille',
+          href: 'http://dbpedia.org/resource/Lille' } ],
+     'dbp:nextsuppl': 
+      [ { value: 'dbr:International_Exhibition_of_Textile',
+          href: 'http://dbpedia.org/resource/International_Exhibition_of_Textile' } ],
+     'dbp:open': [ { value: '1949-12-01 (xsd:date)' } ],
+     'dbp:organized': [ { value: 'Dumarsais Estimé (en)' } ],
+     'dbp:prevcity': 
+      [ { value: 'dbr:New_York',
+          href: 'http://dbpedia.org/resource/New_York' } ],
+     'dbp:prevexpo': [ { value: '1939 (xsd:integer)' } ],
+     'dbp:prevsupcity': 
+      [ { value: 'dbr:Paris',
+          href: 'http://dbpedia.org/resource/Paris' } ],
+     'dbp:prevsuppl': 
+      [ { value: 'dbr:Urbanisme_47',
+          href: 'http://dbpedia.org/resource/Urbanisme_47' } ],
+     'dbp:simspe': [ { value: 'Universal Sport Exhibition (1949) in Stockholm and Habitation Rurale in Lyon (en)' } ],
+     'dbp:suppl': [ { value: 'Specialized Expositions (en)' } ],
+     'dbp:venue': 
+      [ { value: 'dbr:Gulf_of_Gonâve',
+          href: 'http://dbpedia.org/resource/Gulf_of_Gonâve' } ],
+     'dbp:year': [ { value: '1949 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:World\'s_Fairs',
+          href: 'http://dbpedia.org/resource/Category:World\'s_Fairs' },
+        { value: 'dbc:Port-au-Prince',
+          href: 'http://dbpedia.org/resource/Category:Port-au-Prince' },
+        { value: 'dbc:1949_in_the_Caribbean',
+          href: 'http://dbpedia.org/resource/Category:1949_in_the_Caribbean' },
+        { value: 'dbc:20th_century_in_Port-au-Prince',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_Port-au-Prince' } ],
+     'rdfs:comment': [ { value: 'The Exposition internationale du bicentenaire de Port-au-Prince was a world\'s fair held in Port-au-Prince, Haiti in 1949 to mark 200 years since Port-au-Prince\'s foundation. (en)' } ],
+     'rdfs:label': [ { value: 'Exposition internationale du bicentenaire de Port-au-Prince (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://rdf.freebase.com/ns/m.0k2kjfk' },
+        { value: 'dbpedia-es:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://es.dbpedia.org/resource/Exposición_General_de_segunda_categoría_de_Puerto_Príncipe_(1949)' },
+        { value: 'dbpedia-fr:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://fr.dbpedia.org/resource/Exposition_internationale_du_bicentenaire_de_Port-au-Prince' },
+        { value: 'dbpedia-de:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://de.dbpedia.org/resource/Exposition_internationale_de_Port-au-Prince_(1949)' },
+        { value: 'dbpedia-ja:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://ja.dbpedia.org/resource/ポルトープランス万国博覧会' },
+        { value: 'dbpedia-nl:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://nl.dbpedia.org/resource/Wereldtentoonstelling_van_1949' },
+        { value: 'dbpedia-pt:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://pt.dbpedia.org/resource/Exposição_Universal_de_1949' },
+        { value: 'dbpedia-wikidata:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://wikidata.dbpedia.org/resource/Q5421623' },
+        { value: 'wikidata:Exposition internationale du bicentenaire de Port-au-Prince',
+          href: 'http://www.wikidata.org/entity/Q5421623' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Exposition_internationale_du_bicentenaire_de_Port-au-Prince?oldid=648472492',
+          href: 'http://en.wikipedia.org/wiki/Exposition_internationale_du_bicentenaire_de_Port-au-Prince?oldid=648472492' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Dumarsais_estime_portrait.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dumarsais_estime_portrait.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Exposition_internationale_du_bicentenaire_de_Port-au-Prince',
+          href: 'http://en.wikipedia.org/wiki/Exposition_internationale_du_bicentenaire_de_Port-au-Prince' } ],
+     'is dbp:nextexpo\n of': 
+      [ { value: 'dbr:1939_New_York_World\'s_Fair',
+          href: 'http://dbpedia.org/resource/1939_New_York_World\'s_Fair' } ],
+     'is dbp:nextsuppl\n of': 
+      [ { value: 'dbr:Exposition_internationale_de_l\'eau_(1939)',
+          href: 'http://dbpedia.org/resource/Exposition_internationale_de_l\'eau_(1939)' },
+        { value: 'dbr:Esposizione_universale_(1942)',
+          href: 'http://dbpedia.org/resource/Esposizione_universale_(1942)' } ],
+     'is dbp:prevexpo\n of': 
+      [ { value: 'dbr:Expo_58',
+          href: 'http://dbpedia.org/resource/Expo_58' } ],
+     'is dbp:prevsuppl\n of': 
+      [ { value: 'dbr:Conquest_of_the_Desert_(exhibition)',
+          href: 'http://dbpedia.org/resource/Conquest_of_the_Desert_(exhibition)' },
+        { value: 'dbr:Helsingborg_Exhibition_1955',
+          href: 'http://dbpedia.org/resource/Helsingborg_Exhibition_1955' },
+        { value: 'dbr:Interbau',
+          href: 'http://dbpedia.org/resource/Interbau' } ],
+     'is dbp:simuni\n of': 
+      [ { value: 'dbr:Universal_Sport_Exhibition_(1949)',
+          href: 'http://dbpedia.org/resource/Universal_Sport_Exhibition_(1949)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Exposition_internationale_du_bicentenaire_de_Port-au-Prince',
+          href: 'http://en.wikipedia.org/wiki/Exposition_internationale_du_bicentenaire_de_Port-au-Prince' } ] } }

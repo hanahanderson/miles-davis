@@ -1,0 +1,13 @@
+{ name: 'Chuck Findley',
+  href: 'http://en.wikipedia.org/wiki/Chuck_Findley',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 831,
+       quote: [ 'King and Steely Dan, he has also played and/or recorded with Nancy Sinatra, Miles Davis, Stanley Turrentine, Toto, Pat Boone, Christopher Cross, Jaco Pastorius, James Last, Lee Ritenour, Jackson Browne, George Benson, George Harrison, Elton John, Carole King, Rickie Lee Jones, Joni Mitchell, The Rolling Stones, Dionne Warwick, Diane Schuur, Tom Waits, Randy Newman, Tina Turner, Al Jarreau, Sarah Vaughan, Narada Michael Walden, Buddy Rich and many others.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1454,
+       quote: [ 'With Miles Davis' ] } ] }

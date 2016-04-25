@@ -1,0 +1,8 @@
+{ name: 'Mackenzie High School (Michigan)',
+  href: 'http://en.wikipedia.org/wiki/Mackenzie_High_School_(Michigan)',
+  mentions: 
+   [ { sectionHeader: 'Distinguished alumni',
+       sectionSubHeader: 'Always the Mighty Stags',
+       sectionIndex: 71,
+       wordCountBeforeSection: 26435,
+       quote: [ 'Kenny Garrett (1978) Grammy Award winning jazz saxophonist and flautist; formerly of the Duke Ellington Orchestra, and Miles Davis\' band' ] } ] }

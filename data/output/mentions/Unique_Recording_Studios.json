@@ -1,0 +1,8 @@
+{ name: 'Unique Recording Studios',
+  href: 'http://en.wikipedia.org/wiki/Unique_Recording_Studios',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 499,
+       quote: [ 'Mariah Carey, Tina Turner, Anita Baker, Steve Winwood, Joe Cocker, Billy Ocean, ], Michael McDonald, James Ingram, Donna Summer, Jeff Beck, Eric Clapton, Danny Gatton, Stevie Ray Vaughan, Chaka Khan, David Sanborn, Billy Idol, The Rolling Stones, Aerosmith, Aztec Camera, Marilyn Manson, Nine Inch Nails, Pet Shop Boys, Cheap Trick, James Brown, George Clinton, Bee Gees, Arthur Baker, Stevie Nicks, Miles Davis, McCoy Tyner, Herbie Hancock, Quincy Jones, Al B.' ] } ] }

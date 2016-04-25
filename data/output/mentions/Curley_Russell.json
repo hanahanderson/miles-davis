@@ -1,0 +1,8 @@
+{ name: 'Curley Russell',
+  href: 'http://en.wikipedia.org/wiki/Curley_Russell',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 944,
+       quote: [ 'Miles Davis: The Real Birth of the Cool (Bandstand, 1948)' ] } ] }

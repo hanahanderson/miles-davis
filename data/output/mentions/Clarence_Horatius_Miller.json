@@ -1,0 +1,8 @@
+{ name: 'Clarence Horatius Miller',
+  href: 'http://en.wikipedia.org/wiki/Clarence_Horatius_Miller',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 602,
+       quote: [ 'Throughout his career he had performed with jazz legends such as Count Basie, Duke Ellington, Oscar Peterson, Dizzy Gillespie, and Miles Davis, just to name a few.' ] } ] }

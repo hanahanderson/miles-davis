@@ -1,0 +1,8 @@
+{ name: 'Spin (magazine)',
+  href: 'http://en.wikipedia.org/wiki/Spin_(magazine)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 959,
+       quote: [ 'Spin prominently placed newer artists such as R.E.M., Prince, Run-D.M.C., Eurythmics, Beastie Boys, and Talking Heads on its covers and did lengthy features on established figures such as Bob Dylan, Keith Richards, Miles Davis, Aerosmith, Lou Reed, Tom Waits, and John Lee Hooker—Bart Bull\'s article on Hooker won the magazine its first major award.' ] } ] }

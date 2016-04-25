@@ -1,0 +1,8 @@
+{ name: 'Jimmy Powell (musician)',
+  href: 'http://en.wikipedia.org/wiki/Jimmy_Powell_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1023,
+       quote: [ 'At the beginning of 1947, Powell was with Illinois Jacquet and his Orchestra, which featured Miles Davis, Marion Hazel, Fats Navarro and Joe Newman on trumpets, Gus Chapwell, Ted Kelly, Eli Robinson and Dickie Wells on trombones, Ray Perry and Powell on alto saxes, Jacquet and Big Nick Nicholas on tenor saxes, Leo Parker on baritone sax, Bill Doggett and Leonard Feather on piano, Al Lucas on bass and Shadow Wilson on drums, together with Tadd Dameron and Jimmy Mundi as arrangers.' ] } ] }

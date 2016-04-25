@@ -1,0 +1,4 @@
+{ name: 'Spiritual Dimensions',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Spiritual_Dimensions',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

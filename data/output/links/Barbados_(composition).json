@@ -1,0 +1,53 @@
+{ name: 'Barbados (composition)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Barbados_(composition)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Barbados" is a jazz tune composed by Charlie Parker. It is a twelve-bar blues set to a mambo rhythm. Parker first recorded it on 29 August, 1948, with Miles Davis (trumpet), John Lewis (piano), Curly Russell (bass) and Max Roach (drums). (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageID': [ { value: '13931367 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '496769120 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1948_compositions',
+          href: 'http://dbpedia.org/resource/Category:1948_compositions' },
+        { value: 'dbc:Jazz_compositions',
+          href: 'http://dbpedia.org/resource/Category:Jazz_compositions' },
+        { value: 'dbc:Compositions_by_Charlie_Parker',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_Charlie_Parker' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: '"Barbados" is a jazz tune composed by Charlie Parker. It is a twelve-bar blues set to a mambo rhythm. Parker first recorded it on 29 August, 1948, with Miles Davis (trumpet), John Lewis (piano), Curly Russell (bass) and Max Roach (drums). (en)' } ],
+     'rdfs:label': [ { value: 'Barbados (composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Barbados (composition)',
+          href: 'http://rdf.freebase.com/ns/m.03cnkzy' },
+        { value: 'dbpedia-wikidata:Barbados (composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q4858586' },
+        { value: 'wikidata:Barbados (composition)',
+          href: 'http://www.wikidata.org/entity/Q4858586' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Barbados_(composition)?oldid=496769120',
+          href: 'http://en.wikipedia.org/wiki/Barbados_(composition)?oldid=496769120' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Barbados_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Barbados_(composition)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Barbados_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Barbados_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Barbados_(Charlie_Parker_composition)',
+          href: 'http://dbpedia.org/resource/Barbados_(Charlie_Parker_composition)' },
+        { value: 'dbr:Barbados_(jazz)',
+          href: 'http://dbpedia.org/resource/Barbados_(jazz)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Barbados_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Barbados_(composition)' } ] } }

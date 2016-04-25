@@ -1,0 +1,38 @@
+{ name: 'Miles! The Definitive Miles Davis at Montreux DVD Collection',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Miles!_The_Definitive_Miles_Davis_at_Montreux_DVD_Collection',
+  values: 
+   { 'dbo:abstract': [ { value: 'Miles! The Definitive Miles Davis at Montreux DVD Collection 1973–1991 is a 10-DVD box set by Miles Davis, comprising 10 separate concerts and interviews, recorded in Montreux, Switzerland, between 1973 and 1991. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.allaboutjazz.com/php/article.php?id=40699&recommended=1&page=1',
+          href: 'http://www.allaboutjazz.com/php/article.php?id=40699&recommended=1&page=1' },
+        { value: 'http://www.cduniverse.com/productinfo.asp?pid=8596728',
+          href: 'http://www.cduniverse.com/productinfo.asp?pid=8596728' } ],
+     'dbo:wikiPageID': [ { value: '34212963 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '618121914 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Miles_Davis_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_albums' } ],
+     'rdfs:comment': [ { value: 'Miles! The Definitive Miles Davis at Montreux DVD Collection 1973–1991 is a 10-DVD box set by Miles Davis, comprising 10 separate concerts and interviews, recorded in Montreux, Switzerland, between 1973 and 1991. (en)' } ],
+     'rdfs:label': [ { value: 'Miles! The Definitive Miles Davis at Montreux DVD Collection (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Miles! The Definitive Miles Davis at Montreux DVD Collection',
+          href: 'http://rdf.freebase.com/ns/m.0hzr22v' },
+        { value: 'dbpedia-wikidata:Miles! The Definitive Miles Davis at Montreux DVD Collection',
+          href: 'http://wikidata.dbpedia.org/resource/Q6851285' },
+        { value: 'wikidata:Miles! The Definitive Miles Davis at Montreux DVD Collection',
+          href: 'http://www.wikidata.org/entity/Q6851285' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Miles!_The_Definitive_Miles_Davis_at_Montreux_DVD_Collection?oldid=618121914',
+          href: 'http://en.wikipedia.org/wiki/Miles!_The_Definitive_Miles_Davis_at_Montreux_DVD_Collection?oldid=618121914' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Miles!_The_Definitive_Miles_Davis_at_Montreux_DVD_Collection',
+          href: 'http://en.wikipedia.org/wiki/Miles!_The_Definitive_Miles_Davis_at_Montreux_DVD_Collection' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Miles!_The_Definitive_Miles_Davis_At_Montreux_DVD_Collection',
+          href: 'http://dbpedia.org/resource/Miles!_The_Definitive_Miles_Davis_At_Montreux_DVD_Collection' },
+        { value: 'dbr:Miles!_The_Definitive_Miles_Davis_At_Montreux_Dvd_Collection',
+          href: 'http://dbpedia.org/resource/Miles!_The_Definitive_Miles_Davis_At_Montreux_Dvd_Collection' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Miles!_The_Definitive_Miles_Davis_at_Montreux_DVD_Collection',
+          href: 'http://en.wikipedia.org/wiki/Miles!_The_Definitive_Miles_Davis_at_Montreux_DVD_Collection' } ] } }

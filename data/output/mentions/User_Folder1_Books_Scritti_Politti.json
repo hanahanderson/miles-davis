@@ -1,0 +1,8 @@
+{ name: 'User:Folder1/Books/Scritti Politti',
+  href: 'http://en.wikipedia.org/wiki/User:Folder1/Books/Scritti_Politti',
+  mentions: 
+   [ { sectionHeader: 'Scritti Politti',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 599,
+       quote: [ 'Miles Davis' ] } ] }

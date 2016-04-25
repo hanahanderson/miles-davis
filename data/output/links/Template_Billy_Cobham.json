@@ -1,0 +1,14 @@
+{ name: 'Template:Billy Cobham',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:Billy_Cobham',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '40947365 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '593511496 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q20314712',
+          href: 'http://wikidata.dbpedia.org/resource/Q20314712' },
+        { value: 'wikidata:Q20314712',
+          href: 'http://www.wikidata.org/entity/Q20314712' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Billy_Cobham?oldid=593511496',
+          href: 'http://en.wikipedia.org/wiki/Template:Billy_Cobham?oldid=593511496' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'List of people in Playboy 1970–79',
+  href: 'http://en.wikipedia.org/wiki/List_of_people_in_Playboy_1970%E2%80%9379',
+  mentions: 
+   [ { sectionHeader: '1978',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 8618,
+       quote: [ 'Excerpts from Alex Haley interviews with Miles Davis, Malcolm X, Cassius Clay, Martin Luther King, Jr. & George Lincoln Rockwell' ] } ] }

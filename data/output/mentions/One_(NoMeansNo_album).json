@@ -1,0 +1,8 @@
+{ name: 'One (NoMeansNo album)',
+  href: 'http://en.wikipedia.org/wiki/One_(NoMeansNo_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 362,
+       quote: [ 'One is the ninth full-length album released by Nomeansno. "Beat on the Brat" is a Ramones cover while "Bitch\'s Brew" is a Miles Davis cover with additional vocals written by the band.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Burnt Sugar',
+  href: 'http://en.wikipedia.org/wiki/Burnt_Sugar',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 541,
+       quote: [ 'Among the band\'s influences are Bitches Brew-era Miles Davis, Funkadelic, Bad Brains, Band of Gypsys, Sun Ra, Herbie Hancock\'s Mwandishi, and Material.' ] } ] }

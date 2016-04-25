@@ -1,0 +1,4 @@
+{ name: 'User:Emijrp/Encarta/Composers and performers',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Emijrp/Encarta/Composers_and_performers',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

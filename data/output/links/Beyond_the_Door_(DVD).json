@@ -1,0 +1,7 @@
+{ name: 'Beyond the Door (DVD)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Beyond_the_Door_(DVD)',
+  values: 
+   { 'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Beyond_the_Door',
+          href: 'http://dbpedia.org/resource/Beyond_the_Door' } ] } }

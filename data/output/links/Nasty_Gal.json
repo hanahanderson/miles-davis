@@ -1,0 +1,105 @@
+{ name: 'Nasty Gal',
+  entityType: 'agent',
+  href: 'http://dbpedia.org/page/Nasty_Gal',
+  values: 
+   { 'dbo:abstract': [ { value: 'Nasty Gal is an American-based and owned retailer that specializes in fashion clothing, shoes, and accessories for young women. The company has more than 550,000 customers in over 60 countries. Founded by Sophia Amoruso in 2006, Nasty Gal was named “Fastest Growing Retailer” in 2012 by INC Magazine. Nasty Gal is based in Los Angeles. (en)' } ],
+     'dbo:foundingYear': [ { value: '2006-01-01 (xsd:date)' } ],
+     'dbo:industry': 
+      [ { value: 'dbr:Clothing',
+          href: 'http://dbpedia.org/resource/Clothing' } ],
+     'dbo:keyPerson': 
+      [ { value: 'dbr:Sophia_Amoruso',
+          href: 'http://dbpedia.org/resource/Sophia_Amoruso' } ],
+     'dbo:location': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' } ],
+     'dbo:numberOfEmployees': [ { value: '200 (xsd:integer)' } ],
+     'dbo:product': 
+      [ { value: 'dbr:Clothing',
+          href: 'http://dbpedia.org/resource/Clothing' },
+        { value: 'dbr:Fashion_accessory',
+          href: 'http://dbpedia.org/resource/Fashion_accessory' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.nastygal.com',
+          href: 'http://www.nastygal.com' },
+        { value: 'http://hypebeast.com/2012/05/others-by-hypebeast-nasty-gal',
+          href: 'http://hypebeast.com/2012/05/others-by-hypebeast-nasty-gal' } ],
+     'dbo:wikiPageID': [ { value: '37040945 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '672654669 (xsd:integer)' } ],
+     'dbp:date': [ { value: 'May 2015 (en)' } ],
+     'dbp:foundation': [ { value: '2006 (xsd:integer)' } ],
+     'dbp:homepage': 
+      [ { value: 'http://www.nastygal.com',
+          href: 'http://www.nastygal.com' } ],
+     'dbp:industry': 
+      [ { value: 'dbr:Clothing',
+          href: 'http://dbpedia.org/resource/Clothing' } ],
+     'dbp:keyPeople': 
+      [ { value: 'Robert Ross, CFO (en)' },
+        { value: 'Sheree Waterson, CEO (en)' },
+        { value: 'Sophia Amoruso, founder and Executive Chairman (en)' } ],
+     'dbp:location': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' } ],
+     'dbp:logo': [ { value: '200 (xsd:integer)' } ],
+     'dbp:name': [ { value: 'Nasty Gal Inc. (en)' } ],
+     'dbp:netRevenue': [ { value: 'US $24 million (en)' } ],
+     'dbp:numEmployees': [ { value: '200 (xsd:integer)' } ],
+     'dbp:products': 
+      [ { value: 'dbr:Clothing',
+          href: 'http://dbpedia.org/resource/Clothing' },
+        { value: 'dbr:Fashion_accessory',
+          href: 'http://dbpedia.org/resource/Fashion_accessory' } ],
+     'dbp:reason': [ { value: 'too wordy (en)' } ],
+     'dbp:type': [ { value: 'Private Company (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Online_clothing_retailers',
+          href: 'http://dbpedia.org/resource/Category:Online_clothing_retailers' },
+        { value: 'dbc:Companies_established_in_2006',
+          href: 'http://dbpedia.org/resource/Category:Companies_established_in_2006' },
+        { value: 'dbc:Companies_based_in_Los_Angeles,_California',
+          href: 'http://dbpedia.org/resource/Category:Companies_based_in_Los_Angeles,_California' },
+        { value: 'dbc:Online_retail_companies_of_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Online_retail_companies_of_the_United_States' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Company',
+          href: 'http://dbpedia.org/ontology/Company' },
+        { value: 'dul:Agent',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent' },
+        { value: 'dul:SocialPerson',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson' },
+        { value: 'wikidata:Q43229',
+          href: 'http://www.wikidata.org/entity/Q43229' },
+        { value: 'dbo:Agent',
+          href: 'http://dbpedia.org/ontology/Agent' },
+        { value: 'dbo:Organisation',
+          href: 'http://dbpedia.org/ontology/Organisation' },
+        { value: 'schema:Organization',
+          href: 'http://schema.org/Organization' } ],
+     'rdfs:comment': [ { value: 'Nasty Gal is an American-based and owned retailer that specializes in fashion clothing, shoes, and accessories for young women. The company has more than 550,000 customers in over 60 countries. Founded by Sophia Amoruso in 2006, Nasty Gal was named “Fastest Growing Retailer” in 2012 by INC Magazine. Nasty Gal is based in Los Angeles. (en)' } ],
+     'rdfs:label': [ { value: 'Nasty Gal (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Nasty Gal',
+          href: 'http://rdf.freebase.com/ns/m.0n472lx' },
+        { value: 'dbpedia-wikidata:Nasty Gal',
+          href: 'http://wikidata.dbpedia.org/resource/Q6967746' },
+        { value: 'wikidata:Nasty Gal',
+          href: 'http://www.wikidata.org/entity/Q6967746' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Nasty_Gal?oldid=672654669',
+          href: 'http://en.wikipedia.org/wiki/Nasty_Gal?oldid=672654669' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.nastygal.com',
+          href: 'http://www.nastygal.com' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Nasty_Gal',
+          href: 'http://en.wikipedia.org/wiki/Nasty_Gal' } ],
+     'foaf:name': [ { value: 'Nasty Gal Inc. (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Nasty_gal',
+          href: 'http://dbpedia.org/resource/Nasty_gal' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Nasty_Gal',
+          href: 'http://en.wikipedia.org/wiki/Nasty_Gal' } ] } }

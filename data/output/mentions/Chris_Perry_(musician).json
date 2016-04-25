@@ -1,0 +1,8 @@
+{ name: 'Chris Perry (musician)',
+  href: 'http://en.wikipedia.org/wiki/Chris_Perry_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Konkani music',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2067,
+       quote: [ 'His music standard is compared to that of famous musicians like Miles Davis, Charlie Parker and Chick Corea.' ] } ] }

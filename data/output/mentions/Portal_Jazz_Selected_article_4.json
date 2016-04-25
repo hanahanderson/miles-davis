@@ -1,0 +1,18 @@
+{ name: 'Portal:Jazz/Selected article/4',
+  href: 'http://en.wikipedia.org/wiki/Portal:Jazz/Selected_article/4',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Kind of Blue is a studio album by American jazz musician Miles Davis, released on August 17, 1959, by Columbia Records.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'John Garcia Gensel',
+  href: 'http://en.wikipedia.org/wiki/John_Garcia_Gensel',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2505,
+       quote: [ 'Jazz musicians including Duke Ellington, Thelonious Monk, John Coltrane, Dizzy Gillespie, Miles Davis, Charles Mingus, Billy Strayhorn attended and played regularly at Jazz vespers.' ] } ] }

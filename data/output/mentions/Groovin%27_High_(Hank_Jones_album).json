@@ -1,0 +1,8 @@
+{ name: 'Groovin\' High (Hank Jones album)',
+  href: 'http://en.wikipedia.org/wiki/Groovin%27_High_(Hank_Jones_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 729,
+       quote: [ '"Sippin\' at Bells" (Miles Davis) - 4:44' ] } ] }

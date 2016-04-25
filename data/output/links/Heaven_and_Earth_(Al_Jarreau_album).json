@@ -1,0 +1,108 @@
+{ name: 'Heaven and Earth (Al Jarreau album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Heaven_and_Earth_(Al_Jarreau_album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Heaven and Earth (Warner Bros. Records) 1992 is the 13th studio album release by Al Jarreau, it was produced by Narada Michael Walden and Louis Biancaniello. The album won Al Jarreau the Grammy Award for Best R&B Vocal Performance, Male in 1993. It\'s essentially an R&B collection of songs produced with the artists Jazz and Pop sensibilities in mind. It contains two reworkings of the Miles Davis tune "Blue in Green" from Davis\' Kind of Blue both showing Al Jarreau considerable prowess as a vocal interpreter and scat singer. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Al_Jarreau',
+          href: 'http://dbpedia.org/resource/Al_Jarreau' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Soul_music',
+          href: 'http://dbpedia.org/resource/Soul_music' },
+        { value: 'dbr:Dance-pop',
+          href: 'http://dbpedia.org/resource/Dance-pop' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Contemporary_R&B',
+          href: 'http://dbpedia.org/resource/Contemporary_R&B' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Narada_Michael_Walden',
+          href: 'http://dbpedia.org/resource/Narada_Michael_Walden' },
+        { value: 'dbr:Louis_Biancaniello',
+          href: 'http://dbpedia.org/resource/Louis_Biancaniello' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Warner_Bros._Records',
+          href: 'http://dbpedia.org/resource/Warner_Bros._Records' } ],
+     'dbo:releaseDate': [ { value: '1992-06-22 (xsd:date)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '14528922 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '656957892 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Al_Jarreau',
+          href: 'http://dbpedia.org/resource/Al_Jarreau' } ],
+     'dbp:cover': [ { value: 'Al Jarreau Heaven and Earth cover.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Soul_music',
+          href: 'http://dbpedia.org/resource/Soul_music' },
+        { value: 'dbr:Dance-pop',
+          href: 'http://dbpedia.org/resource/Dance-pop' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Contemporary_R&B',
+          href: 'http://dbpedia.org/resource/Contemporary_R&B' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Warner_Bros._Records',
+          href: 'http://dbpedia.org/resource/Warner_Bros._Records' } ],
+     'dbp:name': [ { value: 'Heaven and Earth (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Narada_Michael_Walden',
+          href: 'http://dbpedia.org/resource/Narada_Michael_Walden' },
+        { value: 'dbr:Louis_Biancaniello',
+          href: 'http://dbpedia.org/resource/Louis_Biancaniello' } ],
+     'dbp:recorded': [ { value: '1991 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1992-06-22 (xsd:date)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Al_Jarreau_albums',
+          href: 'http://dbpedia.org/resource/Category:Al_Jarreau_albums' },
+        { value: 'dbc:1992_albums',
+          href: 'http://dbpedia.org/resource/Category:1992_albums' },
+        { value: 'dbc:Warner_Bros._Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Warner_Bros._Records_albums' },
+        { value: 'dbc:Albums_produced_by_Narada_Michael_Walden',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Narada_Michael_Walden' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Heaven and Earth (Warner Bros. Records) 1992 is the 13th studio album release by Al Jarreau, it was produced by Narada Michael Walden and Louis Biancaniello. The album won Al Jarreau the Grammy Award for Best R&B Vocal Performance, Male in 1993. It\'s essentially an R&B collection of songs produced with the artists Jazz and Pop sensibilities in mind. (en)' } ],
+     'rdfs:label': [ { value: 'Heaven and Earth (Al Jarreau album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Heaven and Earth (Al Jarreau album)',
+          href: 'http://rdf.freebase.com/ns/m.03d6hjs' },
+        { value: 'dbpedia-wikidata:Heaven and Earth (Al Jarreau album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5694761' },
+        { value: 'wikidata:Heaven and Earth (Al Jarreau album)',
+          href: 'http://www.wikidata.org/entity/Q5694761' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Heaven_and_Earth_(Al_Jarreau_album)?oldid=656957892',
+          href: 'http://en.wikipedia.org/wiki/Heaven_and_Earth_(Al_Jarreau_album)?oldid=656957892' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Heaven_and_Earth_(Al_Jarreau_album)',
+          href: 'http://en.wikipedia.org/wiki/Heaven_and_Earth_(Al_Jarreau_album)' } ],
+     'foaf:name': [ { value: 'Heaven and Earth (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Heaven_and_Earth',
+          href: 'http://dbpedia.org/resource/Heaven_and_Earth' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Heaven_and_Earth_(1992_album)',
+          href: 'http://dbpedia.org/resource/Heaven_and_Earth_(1992_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Heaven_and_Earth_(Al_Jarreau_album)',
+          href: 'http://en.wikipedia.org/wiki/Heaven_and_Earth_(Al_Jarreau_album)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'David Gahr',
+  href: 'http://en.wikipedia.org/wiki/David_Gahr',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 420,
+       quote: [ 'His photographic output includes more than five decades of musicians like Phil Spector, Bob Dylan, Miles Davis, Bruce Springsteen, Van Morrison, Janis Joplin, Sonny Terry, John Lennon and Pete Seeger, among others.' ] } ] }

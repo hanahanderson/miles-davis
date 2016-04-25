@@ -1,0 +1,4 @@
+{ name: 'User:100B Class/sandbox',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:100B_Class/sandbox',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

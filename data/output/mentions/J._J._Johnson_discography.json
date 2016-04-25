@@ -1,0 +1,13 @@
+{ name: 'J. J. Johnson discography',
+  href: 'http://en.wikipedia.org/wiki/J._J._Johnson_discography',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 3367,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 3383,
+       quote: [] } ] }

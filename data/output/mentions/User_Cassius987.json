@@ -1,0 +1,8 @@
+{ name: 'User:Cassius987',
+  href: 'http://en.wikipedia.org/wiki/User:Cassius987',
+  mentions: 
+   [ { sectionHeader: 'Other Favorites',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2058,
+       quote: [ 'Miles Davis' ] } ] }

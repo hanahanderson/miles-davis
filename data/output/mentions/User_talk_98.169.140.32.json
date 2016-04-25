@@ -1,0 +1,17 @@
+{ name: 'User talk:98.169.140.32',
+  href: 'http://en.wikipedia.org/wiki/User_talk:98.169.140.32',
+  mentions: 
+   [ { sectionHeader: 'February 2009',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 19,
+       quote: 
+        [ 'Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted by ClueBot.',
+          'The following is the log entry regarding this warning: Miles Davis was changed by 98.169.140.32 (u) (t) blanking the page on 2009-02-19T00:05:17+00:00 .' ] },
+     { sectionHeader: 'February 2009',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 19,
+       quote: 
+        [ 'Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted by ClueBot.',
+          'The following is the log entry regarding this warning: Miles Davis was changed by 98.169.140.32 (u) (t) blanking the page on 2009-02-19T00:05:17+00:00 .' ] } ] }

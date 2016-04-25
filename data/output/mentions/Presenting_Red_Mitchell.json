@@ -1,0 +1,8 @@
+{ name: 'Presenting Red Mitchell',
+  href: 'http://en.wikipedia.org/wiki/Presenting_Red_Mitchell',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 986,
+       quote: [ '"Out of the Blue" (Miles Davis) - 6:15' ] } ] }

@@ -1,0 +1,58 @@
+{ name: 'Music of Chicago',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Music_of_Chicago',
+  values: 
+   { 'dbo:abstract': [ { value: 'Chicago, Illinois is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed.The "Great Migration" of poor black workers from the South into the industrial cities brought traditional jazz and blues music to Chicago, resulting in Chicago blues and "Chicago-style" Dixieland jazz. Notable blues artists included Muddy Waters, Junior Wells, Howlin\' Wolf and both Sonny Boy Williamsons; jazz greats included Nat King Cole, Gene Ammons, Benny Goodman and Bud Freeman. Chicago is also well known for its soul music.In the early 1930s, Gospel music began to gain popularity in Chicago due to Thomas A. Dorsey\'s contributions at Pilgrim Baptist Church.In the 1980s and 1990s, heavy rock, punk and Hip Hop also became popular in Chicago. Orchestras in Chicago include the Chicago Symphony Orchestra, the  Lyric Opera of Chicago and the Chicago Sinfonietta. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Muddy_Waters.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Muddy_Waters.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.lib.uchicago.edu/e/su/cja/',
+          href: 'http://www.lib.uchicago.edu/e/su/cja/' },
+        { value: 'http://www.cityofchicago.org/city/webportal/home.do?Failed_Reason=Session+not+found&com.broadvision.session.new=Yes&Failed_Page=%2fwebportal%2fhome.do',
+          href: 'http://www.cityofchicago.org/city/webportal/home.do?Failed_Reason=Session+not+found&com.broadvision.session.new=Yes&Failed_Page=%2fwebportal%2fhome.do' } ],
+     'dbo:wikiPageID': [ { value: '16460098 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683703272 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Chicago_blues',
+          href: 'http://dbpedia.org/resource/Category:Chicago_blues' },
+        { value: 'dbc:Blues_music_genres',
+          href: 'http://dbpedia.org/resource/Category:Blues_music_genres' },
+        { value: 'dbc:American_music_history',
+          href: 'http://dbpedia.org/resource/Category:American_music_history' },
+        { value: 'dbc:Jazz_culture',
+          href: 'http://dbpedia.org/resource/Category:Jazz_culture' },
+        { value: 'dbc:Music_of_Chicago,_Illinois',
+          href: 'http://dbpedia.org/resource/Category:Music_of_Chicago,_Illinois' } ],
+     'rdfs:comment': [ { value: 'Chicago, Illinois is a major center for music in the midwestern United States where distinctive forms of blues (greatly responsible for the future creation of rock and roll), and house music, a genre of electronic dance music, were developed.The "Great Migration" of poor black workers from the South into the industrial cities brought traditional jazz and blues music to Chicago, resulting in Chicago blues and "Chicago-style" Dixieland jazz. (en)' } ],
+     'rdfs:label': [ { value: 'Music of Chicago (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Music of Chicago',
+          href: 'http://rdf.freebase.com/ns/m.011bcgvx' },
+        { value: 'wikidata:Music of Chicago',
+          href: 'http://www.wikidata.org/entity/Q6942047' },
+        { value: 'dbpedia-wikidata:Music of Chicago',
+          href: 'http://wikidata.dbpedia.org/resource/Q6942047' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Music_of_Chicago?oldid=683703272',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Chicago?oldid=683703272' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Muddy_Waters.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Muddy_Waters.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Music_of_Chicago',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Chicago' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Chicago_Jazz_Music',
+          href: 'http://dbpedia.org/resource/Chicago_Jazz_Music' },
+        { value: 'dbr:Chicago_Music',
+          href: 'http://dbpedia.org/resource/Chicago_Music' },
+        { value: 'dbr:Chicago_Style_(music)',
+          href: 'http://dbpedia.org/resource/Chicago_Style_(music)' },
+        { value: 'dbr:Chicago_scene',
+          href: 'http://dbpedia.org/resource/Chicago_scene' },
+        { value: 'dbr:Music_in_Chicago',
+          href: 'http://dbpedia.org/resource/Music_in_Chicago' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Music_of_Chicago',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Chicago' } ] } }

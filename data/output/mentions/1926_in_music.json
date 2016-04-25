@@ -1,0 +1,8 @@
+{ name: '1926 in music',
+  href: 'http://en.wikipedia.org/wiki/1926_in_music',
+  mentions: 
+   [ { sectionHeader: 'Births',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 15790,
+       quote: [ 'May 25 - Miles Davis, jazz trumpeter and bandleader (d. 1991)' ] } ] }

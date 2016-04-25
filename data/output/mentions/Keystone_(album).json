@@ -1,0 +1,8 @@
+{ name: 'Keystone (album)',
+  href: 'http://en.wikipedia.org/wiki/Keystone_(album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 913,
+       quote: [ 'On All About Jazz Michael McCaw said "Keystone is an incredibly mature-sounding album from Dave Douglas—not because his work up till now has not been complete, but because he has fully integrated the technology and mode of the music first espoused by Miles Davis.' ] } ] }

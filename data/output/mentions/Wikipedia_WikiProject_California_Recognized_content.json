@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:WikiProject California/Recognized content',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_California/Recognized_content',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 2632,
+       quote: [ ' Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 69595,
+       quote: [ 'Miles Davis (2005-09-28)' ] } ] }

@@ -1,0 +1,18 @@
+{ name: 'Sonny Sharrock',
+  href: 'http://en.wikipedia.org/wiki/Sonny_Sharrock',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Pharoah Sanders, Miles Davis, Herbie Mann, Peter Brotzmann, Linda Sharrock, Last Exit, Machine Gun, Bill Laswell' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1058,
+       quote: [ 'He made several appearances with flautist Herbie Mann and also made an uncredited guest appearance on Miles Davis\'s A Tribute to Jack Johnson, perhaps his most famous cameo.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 5792,
+       quote: [ 'With Miles Davis' ] } ] }

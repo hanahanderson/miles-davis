@@ -1,0 +1,8 @@
+{ name: 'Boris Christoff',
+  href: 'http://en.wikipedia.org/wiki/Boris_Christoff',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 6441,
+       quote: [ 'Miles Davis (1984)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Édouard Gaumont',
+  href: 'http://en.wikipedia.org/wiki/%C3%89douard_Gaumont',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 360,
+       quote: [ 'He was the father of jazz guitarist Dominique Gaumont, who played with Miles Davis.' ] } ] }

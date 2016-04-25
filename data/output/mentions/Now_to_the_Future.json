@@ -1,0 +1,8 @@
+{ name: 'Now to the Future',
+  href: 'http://en.wikipedia.org/wiki/Now_to_the_Future',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 540,
+       quote: [ 'Miles Davis' ] } ] }

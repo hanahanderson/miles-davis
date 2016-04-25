@@ -1,0 +1,8 @@
+{ name: 'Paul Schütze',
+  href: 'http://en.wikipedia.org/wiki/Paul_Sch%C3%BCtze',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Compilation albums',
+       sectionIndex: 32,
+       wordCountBeforeSection: 6303,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

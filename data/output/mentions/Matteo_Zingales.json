@@ -1,0 +1,8 @@
+{ name: 'Matteo Zingales',
+  href: 'http://en.wikipedia.org/wiki/Matteo_Zingales',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 4054,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

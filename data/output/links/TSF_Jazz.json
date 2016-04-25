@@ -1,0 +1,142 @@
+{ name: 'TSF Jazz',
+  entityType: 'agent',
+  href: 'http://dbpedia.org/page/TSF_Jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'TSF Jazz, previously known as TSF 89.9, is a radio station based at Paris (France) created in 1999 and owned by Nova Press. TSF is dedicated to mainly jazz music, and is most notably broadcasting in the Île-de-France: in Paris on 89.9 FM where it can almost be heard in the whole region, and also in the Côte d\'Azur: with frequencies in Nice and Cannes. TSF, the acronym of the station, stands for Télégraphie Sans Fil and literally means Wireless Telegraphy, which is phrase that during part of the twentieth century in France, meant what now is simply called radio. (en)' } ],
+     'dbo:broadcastArea': 
+      [ { value: 'dbr:France',
+          href: 'http://dbpedia.org/resource/France' } ],
+     'dbo:city': 
+      [ { value: 'dbr:Paris',
+          href: 'http://dbpedia.org/resource/Paris' } ],
+     'dbo:firstAirDate': [ { value: '1999-08-01 (xsd:date)' } ],
+     'dbo:formerCallsign': 
+      [ { value: 'TSF (1991-1999)' },
+        { value: 'TSF 89,9 (1999-2008)' },
+        { value: 'TSF Jazz (1999)' },
+        { value: 'TSF-93 (1981-1990)' } ],
+     'dbo:language': 
+      [ { value: 'dbr:French_language',
+          href: 'http://dbpedia.org/resource/French_language' } ],
+     'dbo:licensee': [ { value: 'TowerCast' } ],
+     'dbo:owner': 
+      [ { value: 'dbr:Nova_Press',
+          href: 'http://dbpedia.org/resource/Nova_Press' } ],
+     'dbo:programmeFormat': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:sisterStation': 
+      [ { value: 'dbr:Radio_Nova_(France)',
+          href: 'http://dbpedia.org/resource/Radio_Nova_(France)' } ],
+     'dbo:slogan': [ { value: '24h/24, la seule radio 100% Jazz (24/7, the only radio 100% Jazz) (en)' } ],
+     'dbo:webcast': 
+      [ { value: 'http://www.tsfjazz.com/player.html',
+          href: 'http://www.tsfjazz.com/player.html' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.tsfjazz.com/player.html',
+          href: 'http://www.tsfjazz.com/player.html' },
+        { value: 'http://www.tsfjazz.com',
+          href: 'http://www.tsfjazz.com' },
+        { value: 'http://www.frequence-radio.com/frequence-TSF%20JAZZ.html',
+          href: 'http://www.frequence-radio.com/frequence-TSF%20JAZZ.html' } ],
+     'dbo:wikiPageID': [ { value: '38566911 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '650920213 (xsd:integer)' } ],
+     'dbp:airdate': [ { value: '1999-08-01 (xsd:date)' } ],
+     'dbp:area': 
+      [ { value: 'dbr:France',
+          href: 'http://dbpedia.org/resource/France' } ],
+     'dbp:city': 
+      [ { value: 'dbr:Paris',
+          href: 'http://dbpedia.org/resource/Paris' } ],
+     'dbp:format': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:formerCallsigns': 
+      [ { value: 'TSF (en)' },
+        { value: 'TSF Jazz (en)' },
+        { value: 'TSF 89,9 (en)' },
+        { value: 'TSF-93 (en)' } ],
+     'dbp:frequency': 
+      [ { value: '11 (xsd:integer)' },
+        { value: '899 (xsd:integer)' },
+        { value: '981 (xsd:integer)' } ],
+     'dbp:language': 
+      [ { value: 'dbr:French_language',
+          href: 'http://dbpedia.org/resource/French_language' } ],
+     'dbp:licensee': 
+      [ { value: 'dbr:TowerCast',
+          href: 'http://dbpedia.org/resource/TowerCast' } ],
+     'dbp:name': [ { value: 'TSF Jazz (en)' } ],
+     'dbp:owner': 
+      [ { value: 'dbr:Nova_Press',
+          href: 'http://dbpedia.org/resource/Nova_Press' } ],
+     'dbp:sisterStations': 
+      [ { value: 'dbr:Radio_Nova_(France)',
+          href: 'http://dbpedia.org/resource/Radio_Nova_(France)' } ],
+     'dbp:slogan': [ { value: '24 (xsd:integer)' } ],
+     'dbp:webcast': 
+      [ { value: 'http://www.tsfjazz.com/player.html',
+          href: 'http://www.tsfjazz.com/player.html' } ],
+     'dbp:website': 
+      [ { value: 'http://www.tsfjazz.com',
+          href: 'http://www.tsfjazz.com' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Radio_in_Paris',
+          href: 'http://dbpedia.org/resource/Category:Radio_in_Paris' },
+        { value: 'dbc:Radio_stations_established_in_1981',
+          href: 'http://dbpedia.org/resource/Category:Radio_stations_established_in_1981' },
+        { value: 'dbc:Jazz_radio_stations',
+          href: 'http://dbpedia.org/resource/Category:Jazz_radio_stations' },
+        { value: 'dbc:Radio_stations_in_France',
+          href: 'http://dbpedia.org/resource/Category:Radio_stations_in_France' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dul:Agent',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent' },
+        { value: 'dul:SocialPerson',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson' },
+        { value: 'wikidata:Q15265344',
+          href: 'http://www.wikidata.org/entity/Q15265344' },
+        { value: 'wikidata:Q43229',
+          href: 'http://www.wikidata.org/entity/Q43229' },
+        { value: 'dbo:Agent',
+          href: 'http://dbpedia.org/ontology/Agent' },
+        { value: 'dbo:Broadcaster',
+          href: 'http://dbpedia.org/ontology/Broadcaster' },
+        { value: 'dbo:Organisation',
+          href: 'http://dbpedia.org/ontology/Organisation' },
+        { value: 'dbo:RadioStation',
+          href: 'http://dbpedia.org/ontology/RadioStation' },
+        { value: 'schema:Organization',
+          href: 'http://schema.org/Organization' },
+        { value: 'schema:RadioStation',
+          href: 'http://schema.org/RadioStation' } ],
+     'rdfs:comment': [ { value: 'TSF Jazz, previously known as TSF 89.9, is a radio station based at Paris (France) created in 1999 and owned by Nova Press. TSF is dedicated to mainly jazz music, and is most notably broadcasting in the Île-de-France: in Paris on 89.9 FM where it can almost be heard in the whole region, and also in the Côte d\'Azur: with frequencies in Nice and Cannes. (en)' } ],
+     'rdfs:label': [ { value: 'TSF Jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:TSF Jazz',
+          href: 'http://rdf.freebase.com/ns/m.0r4r9n7' },
+        { value: 'dbpedia-fr:TSF Jazz',
+          href: 'http://fr.dbpedia.org/resource/TSF_Jazz' },
+        { value: 'dbpedia-it:TSF Jazz',
+          href: 'http://it.dbpedia.org/resource/TSF_Jazz' },
+        { value: 'dbpedia-wikidata:TSF Jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q3512362' },
+        { value: 'wikidata:TSF Jazz',
+          href: 'http://www.wikidata.org/entity/Q3512362' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:TSF_Jazz?oldid=650920213',
+          href: 'http://en.wikipedia.org/wiki/TSF_Jazz?oldid=650920213' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.tsfjazz.com',
+          href: 'http://www.tsfjazz.com' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:TSF_Jazz',
+          href: 'http://en.wikipedia.org/wiki/TSF_Jazz' } ],
+     'foaf:name': [ { value: 'TSF Jazz (en)' } ],
+     'is dbo:sisterStation\n of': 
+      [ { value: 'dbr:Radio_Nova_(France)',
+          href: 'http://dbpedia.org/resource/Radio_Nova_(France)' } ],
+     'is dbp:sisterStations\n of': 
+      [ { value: 'dbr:Radio_Nova_(France)',
+          href: 'http://dbpedia.org/resource/Radio_Nova_(France)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:TSF_Jazz',
+          href: 'http://en.wikipedia.org/wiki/TSF_Jazz' } ] } }

@@ -1,0 +1,101 @@
+{ name: 'MMTC: Monk, Miles, Trane & Cannon',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/MMTC:_Monk,_Miles,_Trane_%26_Cannon',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '54.983333333333334' } ],
+     'dbo:abstract': [ { value: 'MMTC: Monk, Miles, Trane & Cannon is an album by trumpeter Freddie Hubbard recorded in August 1994 and January 1995 and released on the Music Master label. It features performances by Hubbard, Javon Jackson, Vincent Herring, Gary Smulyan, Stephen Scott (jazz pianist), Peter Washington and Carl Allen. The album combines Hubbard\'s tributes to jazz legends with compositions by John Coltrane, Charles Lloyd, Thelonious Monk and Miles Davis as well as Cannonball Adderley. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Freddie_Hubbard',
+          href: 'http://dbpedia.org/resource/Freddie_Hubbard' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Blues_for_Miles',
+          href: 'http://dbpedia.org/resource/Blues_for_Miles' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Music_Master_Records',
+          href: 'http://dbpedia.org/resource/Music_Master_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_York',
+          href: 'http://dbpedia.org/resource/New_York' },
+        { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '3299.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:New_Colors',
+          href: 'http://dbpedia.org/resource/New_Colors' } ],
+     'dbo:wikiPageID': [ { value: '23358690 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '604861310 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Freddie_Hubbard',
+          href: 'http://dbpedia.org/resource/Freddie_Hubbard' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Freddie_Hubbard',
+          href: 'http://dbpedia.org/resource/Freddie_Hubbard' } ],
+     'dbp:cover': [ { value: 'Monk, Miles, Trane & Cannon.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Music_Master_Records',
+          href: 'http://dbpedia.org/resource/Music_Master_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Blues for Miles (en)' } ],
+     'dbp:length': [ { value: '3299.0' } ],
+     'dbp:name': [ { value: 'MMTC: Monk, Miles, Trane & Cannon (en)' } ],
+     'dbp:nextAlbum': [ { value: 'New Colors (en)' } ],
+     'dbp:recorded': [ { value: '--08-19' } ],
+     'dbp:released': [ { value: '1995 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'MMTC: Monk, Miles, Trane & Cannon (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Freddie_Hubbard_albums',
+          href: 'http://dbpedia.org/resource/Category:Freddie_Hubbard_albums' },
+        { value: 'dbc:Tributes_to_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Category:Tributes_to_John_Coltrane' },
+        { value: 'dbc:1995_albums',
+          href: 'http://dbpedia.org/resource/Category:1995_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'MMTC: Monk, Miles, Trane & Cannon is an album by trumpeter Freddie Hubbard recorded in August 1994 and January 1995 and released on the Music Master label. It features performances by Hubbard, Javon Jackson, Vincent Herring, Gary Smulyan, Stephen Scott (jazz pianist), Peter Washington and Carl Allen. The album combines Hubbard\'s tributes to jazz legends with compositions by John Coltrane, Charles Lloyd, Thelonious Monk and Miles Davis as well as Cannonball Adderley. (en)' } ],
+     'rdfs:label': [ { value: 'MMTC: Monk, Miles, Trane & Cannon (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:MMTC: Monk, Miles, Trane & Cannon',
+          href: 'http://rdf.freebase.com/ns/m.06w8z4l' },
+        { value: 'dbpedia-wikidata:MMTC: Monk, Miles, Trane & Cannon',
+          href: 'http://wikidata.dbpedia.org/resource/Q6716856' },
+        { value: 'wikidata:MMTC: Monk, Miles, Trane & Cannon',
+          href: 'http://www.wikidata.org/entity/Q6716856' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:MMTC:_Monk,_Miles,_Trane_&_Cannon?oldid=604861310',
+          href: 'http://en.wikipedia.org/wiki/MMTC:_Monk,_Miles,_Trane_&_Cannon?oldid=604861310' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:MMTC:_Monk,_Miles,_Trane_&_Cannon',
+          href: 'http://en.wikipedia.org/wiki/MMTC:_Monk,_Miles,_Trane_&_Cannon' } ],
+     'foaf:name': [ { value: 'MMTC: Monk, Miles, Trane & Cannon (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:New_Colors',
+          href: 'http://dbpedia.org/resource/New_Colors' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Blues_for_Miles',
+          href: 'http://dbpedia.org/resource/Blues_for_Miles' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:MMTC:_Monk,_Miles,_Trane_&_Cannon',
+          href: 'http://en.wikipedia.org/wiki/MMTC:_Monk,_Miles,_Trane_&_Cannon' } ] } }

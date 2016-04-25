@@ -1,0 +1,8 @@
+{ name: 'Jimmy "Jammin\'" Smith',
+  href: 'http://en.wikipedia.org/wiki/Jimmy_%22Jammin%27%22_Smith',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 110,
+       quote: [ 'After a bebop debut with Miles Davis in a small group setting Smith continued to record for Blue Note and played a number of gigs in Chicago.' ] } ] }

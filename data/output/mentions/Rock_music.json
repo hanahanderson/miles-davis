@@ -1,0 +1,8 @@
+{ name: 'Rock music',
+  href: 'http://en.wikipedia.org/wiki/Rock_music',
+  mentions: 
+   [ { sectionHeader: 'Progression',
+       sectionSubHeader: '',
+       sectionIndex: 108,
+       wordCountBeforeSection: 49040,
+       quote: [ 'Perhaps the most critically acclaimed fusion came from the jazz side of the equation, with Miles Davis, particularly influenced by the work of Hendrix, incorporating rock instrumentation into his sound for the album Bitches Brew (1970).' ] } ] }

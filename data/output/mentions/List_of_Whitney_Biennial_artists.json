@@ -1,0 +1,8 @@
+{ name: 'List of Whitney Biennial artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_Whitney_Biennial_artists',
+  mentions: 
+   [ { sectionHeader: '2006',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6164,
+       quote: [ 'Miles Davis' ] } ] }

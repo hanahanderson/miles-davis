@@ -1,0 +1,8 @@
+{ name: 'Freddie Hubbard',
+  href: 'http://en.wikipedia.org/wiki/Freddie_Hubbard',
+  mentions: 
+   [ { sectionHeader: '1970s',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4946,
+       quote: [ 'In 1977 Hubbard joined with Herbie Hancock, Tony Williams, Ron Carter and Wayne Shorter, members of the mid-sixties Miles Davis Quintet, for a series of performances.' ] } ] }

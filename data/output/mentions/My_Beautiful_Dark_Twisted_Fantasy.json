@@ -1,0 +1,8 @@
+{ name: 'My Beautiful Dark Twisted Fantasy',
+  href: 'http://en.wikipedia.org/wiki/My_Beautiful_Dark_Twisted_Fantasy',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: 'Cover art',
+       sectionIndex: 43,
+       wordCountBeforeSection: 27730,
+       quote: [ 'Dan Vidal of URB highlighted West\'s ability to bring out the best out of his collaborators, finding it comparable to the work of Miles Davis.' ] } ] }

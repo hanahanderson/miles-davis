@@ -1,0 +1,8 @@
+{ name: 'Sinan Alimanović',
+  href: 'http://en.wikipedia.org/wiki/Sinan_Alimanovi%C4%87',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 709,
+       quote: [ 'However, his main interest is jazz and in his music the audience can feel a great influence of cult musicians and band’s such as Weather Report, Miles Davis, Herbie Hancock, Wynton Kelly, etc.' ] } ] }

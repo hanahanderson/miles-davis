@@ -1,0 +1,8 @@
+{ name: 'Turtel Onli',
+  href: 'http://en.wikipedia.org/wiki/Turtel_Onli',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2138,
+       quote: [ 'His work is in the collections of Miles Davis, Alice Coltrane, the Chicago Children\'s Museum (The Rhythmistic Bench), and Johnson Publishing Company.' ] } ] }

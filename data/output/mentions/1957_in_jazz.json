@@ -1,0 +1,8 @@
+{ name: '1957 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1957_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 928,
+       quote: [ 'Miles Davis: Miles Ahead' ] } ] }

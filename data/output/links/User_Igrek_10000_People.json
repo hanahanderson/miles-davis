@@ -1,0 +1,4 @@
+{ name: 'User:Igrek/10000/People',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Igrek/10000/People',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

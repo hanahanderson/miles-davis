@@ -1,0 +1,8 @@
+{ name: 'August 17',
+  href: 'http://en.wikipedia.org/wiki/August_17',
+  mentions: 
+   [ { sectionHeader: 'Events',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 600,
+       quote: [ '1959 – Kind of Blue by Miles Davis, the much acclaimed and highly influential best selling jazz recording of all time, is released.' ] } ] }

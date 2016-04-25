@@ -1,0 +1,8 @@
+{ name: 'Combo Audio',
+  href: 'http://en.wikipedia.org/wiki/Combo_Audio',
+  mentions: 
+   [ { sectionHeader: 'Post-Combo Audio years',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4637,
+       quote: [ 'Angus Thomas has toured with Miles Davis,John Mayall.' ] } ] }

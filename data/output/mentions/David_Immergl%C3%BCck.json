@@ -1,0 +1,8 @@
+{ name: 'David Immerglück',
+  href: 'http://en.wikipedia.org/wiki/David_Immergl%C3%BCck',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: 'Other musical work',
+       sectionIndex: 26,
+       wordCountBeforeSection: 5706,
+       quote: [ 'They include: Jimi Hendrix, Bob Dylan, The Band, Van Morrison, The Doors, Bruce Springsteen, Jerry Garcia, Guided By Voices, Peter Green, Led Zeppelin, and Miles Davis.' ] } ] }

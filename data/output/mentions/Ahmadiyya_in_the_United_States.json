@@ -1,0 +1,8 @@
+{ name: 'Ahmadiyya in the United States',
+  href: 'http://en.wikipedia.org/wiki/Ahmadiyya_in_the_United_States',
+  mentions: 
+   [ { sectionHeader: 'Influence',
+       sectionSubHeader: '',
+       sectionIndex: 57,
+       wordCountBeforeSection: 33313,
+       quote: [ 'Although Dizzy Gillespie, Miles Davis, and John Coltrane did not become Ahmadi Muslims, they were influenced by the spirit of Islam bought by the Ahmadis.' ] } ] }

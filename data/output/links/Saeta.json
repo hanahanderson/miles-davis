@@ -1,0 +1,45 @@
+{ name: 'Saeta',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Saeta',
+  values: 
+   { 'dbo:wikiPageDisambiguates': 
+      [ { value: 'dbr:Blond_Arrow',
+          href: 'http://dbpedia.org/resource/Blond_Arrow' },
+        { value: 'dbr:SAETA',
+          href: 'http://dbpedia.org/resource/SAETA' },
+        { value: 'dbr:SAETA_Flight_232',
+          href: 'http://dbpedia.org/resource/SAETA_Flight_232' },
+        { value: 'dbr:Saeta_(band)',
+          href: 'http://dbpedia.org/resource/Saeta_(band)' },
+        { value: 'dbr:Saeta_(brand)',
+          href: 'http://dbpedia.org/resource/Saeta_(brand)' },
+        { value: 'dbr:Saeta_(flamenco)',
+          href: 'http://dbpedia.org/resource/Saeta_(flamenco)' },
+        { value: 'dbr:Saetia',
+          href: 'http://dbpedia.org/resource/Saetia' },
+        { value: 'dbr:Saeta_TV_Channel_10',
+          href: 'http://dbpedia.org/resource/Saeta_TV_Channel_10' } ],
+     'dbo:wikiPageID': [ { value: '3450323 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '608722551 (xsd:integer)' } ],
+     'rdfs:label': [ { value: 'Saeta (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:Saeta',
+          href: 'http://www.wikidata.org/entity/Q7398317' },
+        { value: 'dbpedia-fr:Saeta',
+          href: 'http://fr.dbpedia.org/resource/Saeta_(homonymie)' },
+        { value: 'dbpedia-es:Saeta',
+          href: 'http://es.dbpedia.org/resource/Saeta' },
+        { value: 'dbpedia-wikidata:Saeta',
+          href: 'http://wikidata.dbpedia.org/resource/Q7398317' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Saeta?oldid=608722551',
+          href: 'http://en.wikipedia.org/wiki/Saeta?oldid=608722551' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Saeta',
+          href: 'http://en.wikipedia.org/wiki/Saeta' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Saeta_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Saeta_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Saeta',
+          href: 'http://en.wikipedia.org/wiki/Saeta' } ] } }

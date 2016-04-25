@@ -1,0 +1,8 @@
+{ name: 'A Night at the Village Vanguard',
+  href: 'http://en.wikipedia.org/wiki/A_Night_at_the_Village_Vanguard',
+  mentions: 
+   [ { sectionHeader: '1999 reissue track listing',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2872,
+       quote: [ 'Miles Davis' ] } ] }

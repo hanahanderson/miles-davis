@@ -1,0 +1,13 @@
+{ name: 'List of years in jazz',
+  href: 'http://en.wikipedia.org/wiki/List_of_years_in_jazz',
+  mentions: 
+   [ { sectionHeader: '1990s',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2552,
+       quote: [ '1991 in jazz, deaths of Bjarne Nerem, Buck Clayton, Bud Freeman, Charlie Barnet, King Kolax, Laurdine "Pat" Patrick, Miles Davis, and Slim Gaillard; birth of Bendik Baksaas.' ] },
+     { sectionHeader: '1920s',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 30583,
+       quote: [ '1926 in jazz, births of John Coltrane, and Miles Davis.' ] } ] }

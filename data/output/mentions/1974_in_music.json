@@ -1,0 +1,18 @@
+{ name: '1974 in music',
+  href: 'http://en.wikipedia.org/wiki/1974_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 12062,
+       quote: [] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 12062,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 41,
+       wordCountBeforeSection: 20433,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Daniel Barenboim',
+  href: 'http://en.wikipedia.org/wiki/Daniel_Barenboim',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Performing in the West Bank and Gaza Strip',
+       sectionIndex: 103,
+       wordCountBeforeSection: 49736,
+       quote: [ 'Miles Davis (1984)' ] } ] }

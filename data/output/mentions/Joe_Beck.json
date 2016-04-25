@@ -1,0 +1,13 @@
+{ name: 'Joe Beck',
+  href: 'http://en.wikipedia.org/wiki/Joe_Beck',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2725,
+       quote: [ 'Over the years Beck worked as a sideman or session guitarist with a wide variety of well known jazz, rock, and fusion musicians, including Louis Armstrong; Duke Ellington; Buddy Rich; Woody Herman; Miles Davis; Maynard Ferguson; Howard Roberts; Tommy Tadesco; Larry Coryell; John Abercrombie; Tom Scott; and Jeremy Steig among many others.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 6364,
+       quote: [ 'With Miles Davis' ] } ] }

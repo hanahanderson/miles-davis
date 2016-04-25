@@ -1,0 +1,13 @@
+{ name: 'Dogfish Head Brewery',
+  href: 'http://en.wikipedia.org/wiki/Dogfish_Head_Brewery',
+  mentions: 
+   [ { sectionHeader: 'List of beers brewed',
+       sectionSubHeader: 'Sah\'tea',
+       sectionIndex: 34,
+       wordCountBeforeSection: 10851,
+       quote: [ 'Inspired by the Miles Davis album of the same name, Bitches Brew is a fusion of three threads of an American Imperial Stout and one thread of Ethiopian Tej (a honey beer with gesho root)' ] },
+     { sectionHeader: 'Brew Masters',
+       sectionSubHeader: 'Sah\'tea',
+       sectionIndex: 38,
+       wordCountBeforeSection: 18316,
+       quote: [ 'The series premiered on Sunday, November 21, 2010 with an episode focusing on the creation of the Bitches Brew beer to commemorate the Miles Davis album of the same name.' ] } ] }

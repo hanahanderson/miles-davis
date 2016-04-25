@@ -1,0 +1,13 @@
+{ name: 'The Doors',
+  href: 'http://en.wikipedia.org/wiki/The_Doors',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 70,
+       wordCountBeforeSection: 26256,
+       quote: [ 'They performed alongside Jimi Hendrix, the Who, Joni Mitchell, Leonard Cohen, Miles Davis, Emerson, Lake & Palmer and Sly and the Family Stone.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 102,
+       wordCountBeforeSection: 34053,
+       quote: [ 'I listened to it and I said, ‘Holy shit, that\'s strong,’" Manzarek says. "Basically, it\'s a variation on ‘Milestones’, by Miles Davis, and if I do say so myself, sounds f**king great, hot as hell." The track, called "Breakn\' a Sweat", was included on Skrillex\'s EP Bangarang.' ] } ] }

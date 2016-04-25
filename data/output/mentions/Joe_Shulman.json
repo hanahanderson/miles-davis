@@ -1,0 +1,8 @@
+{ name: 'Joe Shulman',
+  href: 'http://en.wikipedia.org/wiki/Joe_Shulman',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 282,
+       quote: [ 'Upon his return he played with Buddy Rich and Claude Thornhill; later he played with Miles Davis on the Birth of the Cool sessions.' ] } ] }

@@ -1,0 +1,46 @@
+{ name: 'List of child music prodigies',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_child_music_prodigies',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of music prodigies, young children (at or under age 12) who displayed a talent in music deemed to make them competitive with skilled adult musicians. The list is sorted by genre and instrument. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Wolfgang-amadeus-mozart_2.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang-amadeus-mozart_2.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.raphael-severe.com',
+          href: 'http://www.raphael-severe.com' } ],
+     'dbo:wikiPageID': [ { value: '3131789 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683241530 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians' },
+        { value: 'dbc:Child_classical_musicians',
+          href: 'http://dbpedia.org/resource/Category:Child_classical_musicians' },
+        { value: 'dbc:Giftedness',
+          href: 'http://dbpedia.org/resource/Category:Giftedness' } ],
+     'rdfs:comment': [ { value: 'This is a list of music prodigies, young children (at or under age 12) who displayed a talent in music deemed to make them competitive with skilled adult musicians. The list is sorted by genre and instrument. (en)' } ],
+     'rdfs:label': [ { value: 'List of child music prodigies (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of child music prodigies',
+          href: 'http://wikidata.dbpedia.org/resource/Q6630005' },
+        { value: 'wikidata:List of child music prodigies',
+          href: 'http://www.wikidata.org/entity/Q6630005' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_child_music_prodigies?oldid=683241530',
+          href: 'http://en.wikipedia.org/wiki/List_of_child_music_prodigies?oldid=683241530' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Wolfgang-amadeus-mozart_2.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang-amadeus-mozart_2.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_child_music_prodigies',
+          href: 'http://en.wikipedia.org/wiki/List_of_child_music_prodigies' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_music_prodigies',
+          href: 'http://dbpedia.org/resource/List_of_music_prodigies' },
+        { value: 'dbr:Musical_Child_Prodigies',
+          href: 'http://dbpedia.org/resource/Musical_Child_Prodigies' },
+        { value: 'dbr:Musical_prodigy',
+          href: 'http://dbpedia.org/resource/Musical_prodigy' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_child_music_prodigies',
+          href: 'http://en.wikipedia.org/wiki/List_of_child_music_prodigies' } ] } }

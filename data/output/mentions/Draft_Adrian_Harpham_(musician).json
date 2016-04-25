@@ -1,0 +1,8 @@
+{ name: 'Draft:Adrian Harpham (musician)',
+  href: 'http://en.wikipedia.org/wiki/Draft:Adrian_Harpham_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1391,
+       quote: [ 'However, during the summer following 9th grade, he attended an outdoor concert by Miles Davis on Penn\'s Landing in Philadelphia and (the same month) a friend played him Jeff Beck\'s Blow by Blow album - completely turning his music concept upside down.' ] } ] }

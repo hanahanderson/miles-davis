@@ -1,0 +1,8 @@
+{ name: 'Brothers-4',
+  href: 'http://en.wikipedia.org/wiki/Brothers-4',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1157,
+       quote: [ '"Tune Up" (Miles Davis) - 5:24 Bonus track on CD reissue' ] } ] }

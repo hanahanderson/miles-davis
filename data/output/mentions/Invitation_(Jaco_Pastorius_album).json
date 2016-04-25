@@ -1,0 +1,8 @@
+{ name: 'Invitation (Jaco Pastorius album)',
+  href: 'http://en.wikipedia.org/wiki/Invitation_(Jaco_Pastorius_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1215,
+       quote: [ '"Eleven" (Miles Davis, Gil Evans) – 0:49' ] } ] }

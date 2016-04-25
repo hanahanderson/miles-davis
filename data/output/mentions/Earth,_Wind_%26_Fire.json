@@ -1,0 +1,8 @@
+{ name: 'Earth, Wind & Fire',
+  href: 'http://en.wikipedia.org/wiki/Earth,_Wind_%26_Fire',
+  mentions: 
+   [ { sectionHeader: 'Influence',
+       sectionSubHeader: 'Neo classic period (1993–present)',
+       sectionIndex: 87,
+       wordCountBeforeSection: 41649,
+       quote: [ 'Miles Davis described EWF as his "all time favorite band" saying, "they have everything (horns, electric guitar, singers and more) in one band".' ] } ] }

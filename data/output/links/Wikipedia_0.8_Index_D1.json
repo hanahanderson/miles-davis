@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:0.8/Index/D1',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:0.8/Index/D1',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

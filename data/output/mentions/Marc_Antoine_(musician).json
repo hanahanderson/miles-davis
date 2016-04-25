@@ -1,0 +1,8 @@
+{ name: 'Marc Antoine (musician)',
+  href: 'http://en.wikipedia.org/wiki/Marc_Antoine_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Recording career',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 5544,
+       quote: [ 'Taking a cue from his jazz idol Miles Davis, Marc set out to find new directions for contemporary jazz.' ] } ] }

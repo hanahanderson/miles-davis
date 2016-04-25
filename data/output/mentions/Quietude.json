@@ -1,0 +1,8 @@
+{ name: 'Quietude',
+  href: 'http://en.wikipedia.org/wiki/Quietude',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 571,
+       quote: [ '"All Blues" (Miles Davis) – 7:36' ] } ] }

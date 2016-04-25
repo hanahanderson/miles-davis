@@ -1,0 +1,8 @@
+{ name: 'Julien\'s Auctions',
+  href: 'http://en.wikipedia.org/wiki/Julien%27s_Auctions',
+  mentions: 
+   [ { sectionHeader: 'Auctions',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3327,
+       quote: [ 'Possessions of Kurt Cobain, Jim Morrison, Miles Davis, Jimi Hendrix, Bob Dylan and Johnny Cash.' ] } ] }

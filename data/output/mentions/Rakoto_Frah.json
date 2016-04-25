@@ -1,0 +1,8 @@
+{ name: 'Rakoto Frah',
+  href: 'http://en.wikipedia.org/wiki/Rakoto_Frah',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: 'Renewed popularity',
+       sectionIndex: 23,
+       wordCountBeforeSection: 13315,
+       quote: [ 'His mastery of the sodina is on a level that you could only compare to great, western instrumental masters like John Coltrane, Ornette Coleman, Billy Pigg or Miles Davis.' ] } ] }

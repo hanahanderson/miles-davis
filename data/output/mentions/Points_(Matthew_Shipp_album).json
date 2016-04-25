@@ -1,0 +1,8 @@
+{ name: 'Points (Matthew Shipp album)',
+  href: 'http://en.wikipedia.org/wiki/Points_(Matthew_Shipp_album)',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 498,
+       quote: [ 'Other influences are the most adventurous of Herbie Hancock\'s electronic endeavors, though Shipp himself does not use electronics in any way, the Coltrane\'s concept of Cosmic Music, and Nefertiti by the Miles Davis Second Quintet.' ] } ] }

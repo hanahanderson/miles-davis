@@ -1,0 +1,8 @@
+{ name: 'Leigh Wiener',
+  href: 'http://en.wikipedia.org/wiki/Leigh_Wiener',
+  mentions: 
+   [ { sectionHeader: 'Notable subjects',
+       sectionSubHeader: '',
+       sectionIndex: 42,
+       wordCountBeforeSection: 13818,
+       quote: [ 'Miles Davis' ] } ] }

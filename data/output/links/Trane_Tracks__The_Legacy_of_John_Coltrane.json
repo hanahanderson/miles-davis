@@ -1,0 +1,73 @@
+{ name: 'Trane Tracks: The Legacy of John Coltrane',
+  entityType: 'Q11424',
+  href: 'http://dbpedia.org/page/Trane_Tracks:_The_Legacy_of_John_Coltrane',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '80.0' } ],
+     'dbo:abstract': [ { value: 'Trane Tracks: The Legacy of John Coltrane is a documentary film about saxophonist John Coltrane. (en)' } ],
+     'dbo:distributor': 
+      [ { value: 'dbr:EFOR_Films',
+          href: 'http://dbpedia.org/resource/EFOR_Films' } ],
+     'dbo:language': 
+      [ { value: 'dbr:English_language',
+          href: 'http://dbpedia.org/resource/English_language' } ],
+     'dbo:runtime': [ { value: '4800.000000 (xsd:double)' } ],
+     'dbo:starring': 
+      [ { value: 'dbr:Benny_Bailey',
+          href: 'http://dbpedia.org/resource/Benny_Bailey' },
+        { value: 'dbr:Eddie_Marshall',
+          href: 'http://dbpedia.org/resource/Eddie_Marshall' },
+        { value: 'dbr:Ron_Carter',
+          href: 'http://dbpedia.org/resource/Ron_Carter' },
+        { value: 'dbr:McCoy_Tyner',
+          href: 'http://dbpedia.org/resource/McCoy_Tyner' },
+        { value: 'dbr:Elvin_Jones',
+          href: 'http://dbpedia.org/resource/Elvin_Jones' } ],
+     'dbo:wikiPageID': [ { value: '35623050 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '648553405 (xsd:integer)' } ],
+     'dbp:distributor': 
+      [ { value: 'dbr:EFOR_Films',
+          href: 'http://dbpedia.org/resource/EFOR_Films' } ],
+     'dbp:language': 
+      [ { value: 'dbr:English_language',
+          href: 'http://dbpedia.org/resource/English_language' } ],
+     'dbp:name': [ { value: 'Trane Tracks: The Legacy of John Coltrane (en)' } ],
+     'dbp:runtime': [ { value: '4800.0' } ],
+     'dbp:starring': [ { value: 'McCoy Tyner, Elvin Jones, Ron Carter, Benny Bailey, Eddie Marshall, Bishop Franzo Wayne King from the African Orthodox Church Saint John Coltrane (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Documentary_films_about_jazz_music_and_musicians',
+          href: 'http://dbpedia.org/resource/Category:Documentary_films_about_jazz_music_and_musicians' },
+        { value: 'dbc:Tributes_to_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Category:Tributes_to_John_Coltrane' },
+        { value: 'dbc:2005_films',
+          href: 'http://dbpedia.org/resource/Category:2005_films' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:Film', href: 'http://dbpedia.org/ontology/Film' },
+        { value: 'dbo:Wikidata:Q11424',
+          href: 'http://dbpedia.org/ontology/Wikidata:Q11424' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:Movie', href: 'http://schema.org/Movie' } ],
+     'rdfs:comment': [ { value: 'Trane Tracks: The Legacy of John Coltrane is a documentary film about saxophonist John Coltrane. (en)' } ],
+     'rdfs:label': [ { value: 'Trane Tracks: The Legacy of John Coltrane (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Trane Tracks: The Legacy of John Coltrane',
+          href: 'http://rdf.freebase.com/ns/m.0crrrww' },
+        { value: 'dbpedia-wikidata:Trane Tracks: The Legacy of John Coltrane',
+          href: 'http://wikidata.dbpedia.org/resource/Q7833401' },
+        { value: 'wikidata:Trane Tracks: The Legacy of John Coltrane',
+          href: 'http://www.wikidata.org/entity/Q7833401' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Trane_Tracks:_The_Legacy_of_John_Coltrane?oldid=648553405',
+          href: 'http://en.wikipedia.org/wiki/Trane_Tracks:_The_Legacy_of_John_Coltrane?oldid=648553405' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Trane_Tracks:_The_Legacy_of_John_Coltrane',
+          href: 'http://en.wikipedia.org/wiki/Trane_Tracks:_The_Legacy_of_John_Coltrane' } ],
+     'foaf:name': [ { value: 'Trane Tracks: The Legacy of John Coltrane (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Trane_Tracks:_The_Legacy_of_John_Coltrane',
+          href: 'http://en.wikipedia.org/wiki/Trane_Tracks:_The_Legacy_of_John_Coltrane' } ] } }

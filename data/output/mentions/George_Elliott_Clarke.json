@@ -1,0 +1,8 @@
+{ name: 'George Elliott Clarke',
+  href: 'http://en.wikipedia.org/wiki/George_Elliott_Clarke',
+  mentions: 
+   [ { sectionHeader: 'Writing career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2239,
+       quote: [ 'He views “Africadian” literature as “literal and liberal—I canonize songs and sonnets, histories and homilies.”  Clarke has stated that he found further writing inspiration in the 1970s and his “individualist poetic scored with implicit social commentary” came from the "Gang of Seven" intellectuals, “poet-politicos: jazz trumpeter Miles Davis, troubadour-bard Bob Dylan, libertine lyricist Irving Layton, guerrilla leader and poet Mao Zedong, reactionary modernist Ezra Pound, Black Power orator Malcolm X and the Right Honourable Pierre Elliott Trudeau.” Clarke found “as a whole, the group’s blunt talk, suave styles, acerbic independence, raunchy macho, feisty lyricism, singing heroic and a scarf-and-beret chivalry quite, well, liberating.”' ] } ] }

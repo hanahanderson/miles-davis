@@ -1,0 +1,8 @@
+{ name: 'Pierre Michelot',
+  href: 'http://en.wikipedia.org/wiki/Pierre_Michelot',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 282,
+       quote: [ 'Through his career he played with Rex Stewart (1948), Coleman Hawkins, Django Reinhardt, Stéphane Grappelli, Don Byas, Thelonious Monk, Lester Young, Dexter Gordon, Stan Getz, Bud Powell (in a trio with Kenny Clarke), Zoot Sims, Dizzy Gillespie, Miles Davis, Chet Baker, and many others.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Gil Askey',
+  href: 'http://en.wikipedia.org/wiki/Gil_Askey',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 832,
+       quote: [ 'He performed with many famous musicians, some of the biggest jazz legends, including Dizzy Gillespie, Miles Davis, Duke Ellington, and Count Basie, and even did a duet with Billie Holiday.' ] } ] }

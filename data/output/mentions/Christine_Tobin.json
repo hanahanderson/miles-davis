@@ -1,0 +1,8 @@
+{ name: 'Christine Tobin',
+  href: 'http://en.wikipedia.org/wiki/Christine_Tobin',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 223,
+       quote: [ 'She has been influenced by a diverse range of singers and writers including Betty Carter, Bessie Smith, Leonard Cohen, Olivier Messiaen, Miles Davis and poets WB Yeats, Paul Muldoon and Eva Salzman.' ] } ] }

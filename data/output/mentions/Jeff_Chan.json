@@ -1,0 +1,8 @@
+{ name: 'Jeff Chan',
+  href: 'http://en.wikipedia.org/wiki/Jeff_Chan',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 884,
+       quote: [ 'Chan states his influences include Charlie Parker, Sonny Rollins, Miles Davis, John Coltrane, and Ornette Coleman.' ] } ] }

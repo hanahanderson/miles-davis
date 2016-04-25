@@ -1,0 +1,8 @@
+{ name: 'Popsie Randolph',
+  href: 'http://en.wikipedia.org/wiki/Popsie_Randolph',
+  mentions: 
+   [ { sectionHeader: 'Well known photographs',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2529,
+       quote: [ 'Miles Davis, Jazz Trumpeter' ] } ] }

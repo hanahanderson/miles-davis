@@ -1,0 +1,8 @@
+{ name: 'Danny Polo',
+  href: 'http://en.wikipedia.org/wiki/Danny_Polo',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 843,
+       quote: [ 'It is also known that Polo played in several experimental sessions with Miles Davis around 1947-48' ] } ] }

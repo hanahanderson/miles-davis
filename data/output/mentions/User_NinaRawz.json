@@ -1,0 +1,8 @@
+{ name: 'User:NinaRawz',
+  href: 'http://en.wikipedia.org/wiki/User:NinaRawz',
+  mentions: 
+   [ { sectionHeader: '"Coming from where Im from"',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 221,
+       quote: [ 'Her father was a was a DJ, he always played magnitudes of music from several different genres he\'d play rock music and then he\'d go into some Miles Davis and then he\'d play Madonna, variations of house, Latin etc.' ] } ] }

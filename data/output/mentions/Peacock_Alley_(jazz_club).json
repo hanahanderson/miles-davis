@@ -1,0 +1,15 @@
+{ name: 'Peacock Alley (jazz club)',
+  href: 'http://en.wikipedia.org/wiki/Peacock_Alley_(jazz_club)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: 
+        [ 'It attracted performances from Miles Davis, John Coltrane, the Chet Baker Quartet, J.J. Johnson, Max Roach, Kai Winding, Art Blakey and many others.',
+          'Davis\' album Miles Davis Quintet at Peacock Alley was recorded there over two weekends in July 1957 (http://www.kind-of-blue.de/seiten/disco/peacock_alley.htm) The album was taken from a radio show and is a bootleg.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis Quintet at Peacock Alley' ] } ] }

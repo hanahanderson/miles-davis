@@ -1,0 +1,8 @@
+{ name: 'Psychedelic art',
+  href: 'http://en.wikipedia.org/wiki/Psychedelic_art',
+  mentions: 
+   [ { sectionHeader: 'In 1960s counterculture',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 7091,
+       quote: [ 'Mati Klarwein created psychedelic masterpieces for Miles Davis\' Jazz-Rock fusion albums, and also for Carlos Santana Latin Rock.' ] } ] }

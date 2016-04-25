@@ -1,0 +1,8 @@
+{ name: 'Wrath of the Math',
+  href: 'http://en.wikipedia.org/wiki/Wrath_of_the_Math',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 3966,
+       quote: [ '"Will O\' the Wisp" by Miles Davis' ] } ] }

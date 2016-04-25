@@ -1,0 +1,109 @@
+{ name: 'After the Rain (John McLaughlin album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/After_the_Rain_(John_McLaughlin_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '57.1' } ],
+     'dbo:abstract': [ { value: 'After the Rain is a jazz album released in 1994 by John McLaughlin on Verve Records. The album reached number 9 in the Billboard Top Jazz Albums chart 1995. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Tokyo_Live_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/Tokyo_Live_(John_McLaughlin_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:runtime': [ { value: '3426.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Promise_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/The_Promise_(John_McLaughlin_album)' } ],
+     'dbo:wikiPageID': [ { value: '39522733 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '629683214 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbp:cover': [ { value: 'John_McLaughlin_After_The_Rain.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Tokyo Live (en)' } ],
+     'dbp:length': [ { value: '3426.0' } ],
+     'dbp:name': [ { value: 'After the Rain (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Promise (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbp:recorded': [ { value: '1994 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1994 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'After the Rain (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Verve_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_albums' },
+        { value: 'dbc:1994_albums',
+          href: 'http://dbpedia.org/resource/Category:1994_albums' },
+        { value: 'dbc:John_McLaughlin_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:John_McLaughlin_(musician)_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'After the Rain is a jazz album released in 1994 by John McLaughlin on Verve Records. The album reached number 9 in the Billboard Top Jazz Albums chart 1995. (en)' } ],
+     'rdfs:label': [ { value: 'After the Rain (John McLaughlin album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:After the Rain (John McLaughlin album)',
+          href: 'http://rdf.freebase.com/ns/m.01pp6j3' },
+        { value: 'dbpedia-wikidata:After the Rain (John McLaughlin album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q16241818' },
+        { value: 'wikidata:After the Rain (John McLaughlin album)',
+          href: 'http://www.wikidata.org/entity/Q16241818' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:After_the_Rain_(John_McLaughlin_album)?oldid=629683214',
+          href: 'http://en.wikipedia.org/wiki/After_the_Rain_(John_McLaughlin_album)?oldid=629683214' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:After_the_Rain_(John_McLaughlin_album)',
+          href: 'http://en.wikipedia.org/wiki/After_the_Rain_(John_McLaughlin_album)' } ],
+     'foaf:name': [ { value: 'After the Rain (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Promise_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/The_Promise_(John_McLaughlin_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Tokyo_Live_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/Tokyo_Live_(John_McLaughlin_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:After_the_Rain',
+          href: 'http://dbpedia.org/resource/After_the_Rain' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:After_The_Rain_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/After_The_Rain_(John_McLaughlin_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:After_the_Rain_(John_McLaughlin_album)',
+          href: 'http://en.wikipedia.org/wiki/After_the_Rain_(John_McLaughlin_album)' } ] } }

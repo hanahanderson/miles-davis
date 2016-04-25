@@ -1,0 +1,8 @@
+{ name: 'Jerry Maguire',
+  href: 'http://en.wikipedia.org/wiki/Jerry_Maguire',
+  mentions: 
+   [ { sectionHeader: 'Soundtrack',
+       sectionSubHeader: '',
+       sectionIndex: 51,
+       wordCountBeforeSection: 16145,
+       quote: [ 'a clip of John Coltrane, Miles Davis, and Charles Mingus performing (Mingus\' piece is "Haitian Fight Song")' ] } ] }

@@ -1,0 +1,15 @@
+{ name: 'James Baldwin',
+  href: 'http://en.wikipedia.org/wiki/James_Baldwin',
+  mentions: 
+   [ { sectionHeader: 'Saint-Paul-de-Vence',
+       sectionSubHeader: 'Greenwich Village',
+       sectionIndex: 28,
+       wordCountBeforeSection: 8301,
+       quote: 
+        [ 'Many of Baldwin\'s musician friends dropped in during the Nice and Juan-les-Pins Jazz Festivals: Nina Simone, Josephine Baker (whose sister lived in Nice), Miles Davis, and Ray Charles, for whom he wrote several songs.',
+          'In his autobiography, Miles Davis wrote:' ] },
+     { sectionHeader: 'Inspiration and relationships',
+       sectionSubHeader: 'Greenwich Village',
+       sectionIndex: 55,
+       wordCountBeforeSection: 24947,
+       quote: [ 'Newton, Nikki Giovanni, Jean-Paul Sartre, Jean Genet (with whom he campaigned on behalf of the Black Panther Party), Lee Strasberg, Elia Kazan, Rip Torn, Alex Haley, Miles Davis, Amiri Baraka, Martin Luther King, Jr., Dorothea Tanning , Leonor Fini, Margaret Mead, Josephine Baker, Allen Ginsberg, Chinua Achebe and Maya Angelou.' ] } ] }

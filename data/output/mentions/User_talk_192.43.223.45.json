@@ -1,0 +1,8 @@
+{ name: 'User talk:192.43.223.45',
+  href: 'http://en.wikipedia.org/wiki/User_talk:192.43.223.45',
+  mentions: 
+   [ { sectionHeader: 'January 2016',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3362,
+       quote: [ 'I wanted to let you know that one or more of your recent contributions to Miles Davis have been undone because it did not appear constructive.' ] } ] }

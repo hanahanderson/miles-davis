@@ -1,0 +1,8 @@
+{ name: 'Template:FMP100',
+  href: 'http://en.wikipedia.org/wiki/Template:FMP100',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '5 Miles Davis' ] } ] }

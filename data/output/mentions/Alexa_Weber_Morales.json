@@ -1,0 +1,8 @@
+{ name: 'Alexa Weber Morales',
+  href: 'http://en.wikipedia.org/wiki/Alexa_Weber_Morales',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4481,
+       quote: [ '"All Blues" originally by Miles Davis' ] } ] }

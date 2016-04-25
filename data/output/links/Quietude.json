@@ -1,0 +1,89 @@
+{ name: 'Quietude',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Quietude',
+  values: 
+   { 'dbo:abstract': [ { value: 'Quietude is a live album by Canadian guitarist Lenny Breau, released posthumously in 1985.Originally released on LP in 1985, it was remastered and reissued in 1995 on the Guitarchives label as Live at Bourbon St. with additional tracks. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Lenny_Breau',
+          href: 'http://dbpedia.org/resource/Lenny_Breau' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:When_Lightn\'_Strikes',
+          href: 'http://dbpedia.org/resource/When_Lightn\'_Strikes' } ],
+     'dbo:recordDate': [ { value: '1983-06-14 (xsd:date)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Living_Room_Tapes,_Vol._1',
+          href: 'http://dbpedia.org/resource/The_Living_Room_Tapes,_Vol._1' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.lennybreau.com/lbl.html',
+          href: 'http://www.lennybreau.com/lbl.html' } ],
+     'dbo:wikiPageID': [ { value: '24061247 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '502834477 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Lenny_Breau',
+          href: 'http://dbpedia.org/resource/Lenny_Breau' } ],
+     'dbp:cover': [ { value: 'Quietude Lenny Breau.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Electric Muse Records (en)' } ],
+     'dbp:lastAlbum': [ { value: 'When Lightn\' Strikes (en)' } ],
+     'dbp:name': [ { value: 'Quietude (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Living Room Tapes, Vol. 1 (en)' } ],
+     'dbp:recorded': [ { value: '1983-06-14 (xsd:date)' } ],
+     'dbp:released': [ { value: '1985 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Quietude (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1985_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1985_live_albums' },
+        { value: 'dbc:Lenny_Breau_albums',
+          href: 'http://dbpedia.org/resource/Category:Lenny_Breau_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Quietude is a live album by Canadian guitarist Lenny Breau, released posthumously in 1985.Originally released on LP in 1985, it was remastered and reissued in 1995 on the Guitarchives label as Live at Bourbon St. with additional tracks. (en)' } ],
+     'rdfs:label': [ { value: 'Quietude (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'http://dbtune.org/musicbrainz/resource/record/00308896-83aa-4314-84de-592b47171138',
+          href: 'http://dbtune.org/musicbrainz/resource/record/00308896-83aa-4314-84de-592b47171138' },
+        { value: 'freebase:Quietude',
+          href: 'http://rdf.freebase.com/ns/m.07k6l2b' },
+        { value: 'dbpedia-wikidata:Quietude',
+          href: 'http://wikidata.dbpedia.org/resource/Q7271927' },
+        { value: 'wikidata:Quietude',
+          href: 'http://www.wikidata.org/entity/Q7271927' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Quietude?oldid=502834477',
+          href: 'http://en.wikipedia.org/wiki/Quietude?oldid=502834477' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Quietude',
+          href: 'http://en.wikipedia.org/wiki/Quietude' } ],
+     'foaf:name': [ { value: 'Quietude (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Living_Room_Tapes,_Vol._1',
+          href: 'http://dbpedia.org/resource/The_Living_Room_Tapes,_Vol._1' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:When_Lightn\'_Strikes',
+          href: 'http://dbpedia.org/resource/When_Lightn\'_Strikes' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Quietude',
+          href: 'http://en.wikipedia.org/wiki/Quietude' } ] } }

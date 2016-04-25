@@ -1,0 +1,4 @@
+{ name: 'Wikipedia talk:Version 1.0 Editorial Team/Biographies',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia_talk:Version_1.0_Editorial_Team/Biographies',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

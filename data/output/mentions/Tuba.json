@@ -1,0 +1,8 @@
+{ name: 'Tuba',
+  href: 'http://en.wikipedia.org/wiki/Tuba',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: 'Materials and finish',
+       sectionIndex: 51,
+       wordCountBeforeSection: 21475,
+       quote: [ 'Bill Barber played tuba on several Miles Davis albums, including Birth of the Cool and Miles Ahead.' ] } ] }

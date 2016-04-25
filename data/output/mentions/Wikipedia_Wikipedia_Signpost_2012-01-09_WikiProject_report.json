@@ -1,0 +1,18 @@
+{ name: 'Wikipedia:Wikipedia Signpost/2012-01-09/WikiProject report',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2012-01-09/WikiProject_report',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '\n\n\nColeman Hawkins and Miles Davis in 1947\n' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '\n\nColeman Hawkins and Miles Davis in 1947' ] } ] }

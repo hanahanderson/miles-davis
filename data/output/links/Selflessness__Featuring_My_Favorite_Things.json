@@ -1,0 +1,102 @@
+{ name: 'Selflessness: Featuring My Favorite Things',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Selflessness:_Featuring_My_Favorite_Things',
+  values: 
+   { 'dbo:abstract': [ { value: 'Selflessness Featuring My Favorite Things is a posthumous album by jazz musician John Coltrane, released in 1969. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Post-bop',
+          href: 'http://dbpedia.org/resource/Post-bop' },
+        { value: 'dbr:Free_jazz',
+          href: 'http://dbpedia.org/resource/Free_jazz' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:longtype': [ { value: '/studio album' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Thiele',
+          href: 'http://dbpedia.org/resource/Bob_Thiele' } ],
+     'dbo:recordDate': 
+      [ { value: '1963-07-07 (xsd:date)' },
+        { value: '1965-10-14 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Impulse!_Records',
+          href: 'http://dbpedia.org/resource/Impulse!_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Newport_Jazz_Festival',
+          href: 'http://dbpedia.org/resource/Newport_Jazz_Festival' } ],
+     'dbo:wikiPageID': [ { value: '11683952 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662550678 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:cover': [ { value: 'Selflessness Featuring My Favorite Things.jpeg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Post-bop',
+          href: 'http://dbpedia.org/resource/Post-bop' },
+        { value: 'dbr:Free_jazz',
+          href: 'http://dbpedia.org/resource/Free_jazz' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Impulse! (AS-9161) (en)' } ],
+     'dbp:longtype': [ { value: '/ studio album (en)' } ],
+     'dbp:name': [ { value: 'Selflessness Featuring My Favorite Things (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Thiele',
+          href: 'http://dbpedia.org/resource/Bob_Thiele' } ],
+     'dbp:recorded': 
+      [ { value: '1963-07-07 (xsd:date)' },
+        { value: '1965-10-14 (xsd:date)' },
+        { value: '(Newport Jazz Festival) (en)' },
+        { value: '(studio, Los Angeles) (en)' } ],
+     'dbp:rev': [ { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Selflessness Featuring My Favorite Things (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1965_albums',
+          href: 'http://dbpedia.org/resource/Category:1965_albums' },
+        { value: 'dbc:John_Coltrane_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Coltrane_albums' },
+        { value: 'dbc:Impulse!_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Impulse!_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Selflessness Featuring My Favorite Things is a posthumous album by jazz musician John Coltrane, released in 1969. (en)' } ],
+     'rdfs:label': [ { value: 'Selflessness: Featuring My Favorite Things (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-it:Selflessness: Featuring My Favorite Things',
+          href: 'http://it.dbpedia.org/resource/Selflessness:_Featuring_My_Favorite_Things' },
+        { value: 'dbpedia-wikidata:Selflessness: Featuring My Favorite Things',
+          href: 'http://wikidata.dbpedia.org/resource/Q3954878' },
+        { value: 'freebase:Selflessness: Featuring My Favorite Things',
+          href: 'http://rdf.freebase.com/ns/m.02rnwrp' },
+        { value: 'wikidata:Selflessness: Featuring My Favorite Things',
+          href: 'http://www.wikidata.org/entity/Q3954878' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Selflessness:_Featuring_My_Favorite_Things?oldid=662550678',
+          href: 'http://en.wikipedia.org/wiki/Selflessness:_Featuring_My_Favorite_Things?oldid=662550678' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Selflessness:_Featuring_My_Favorite_Things',
+          href: 'http://en.wikipedia.org/wiki/Selflessness:_Featuring_My_Favorite_Things' } ],
+     'foaf:name': [ { value: 'Selflessness Featuring My Favorite Things (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Selflessness',
+          href: 'http://dbpedia.org/resource/Selflessness' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Selflessness:_Featuring_My_Favorite_Things',
+          href: 'http://en.wikipedia.org/wiki/Selflessness:_Featuring_My_Favorite_Things' } ] } }

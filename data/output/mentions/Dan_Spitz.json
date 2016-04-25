@@ -1,0 +1,8 @@
+{ name: 'Dan Spitz',
+  href: 'http://en.wikipedia.org/wiki/Dan_Spitz',
+  mentions: 
+   [ { sectionHeader: 'Notes',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 9578,
+       quote: [ 'Miles Davis' ] } ] }

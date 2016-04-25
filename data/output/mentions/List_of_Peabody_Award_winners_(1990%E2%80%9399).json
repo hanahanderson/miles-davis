@@ -1,0 +1,8 @@
+{ name: 'List of Peabody Award winners (1990–99)',
+  href: 'http://en.wikipedia.org/wiki/List_of_Peabody_Award_winners_(1990%E2%80%9399)',
+  mentions: 
+   [ { sectionHeader: '1991',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2982,
+       quote: [ 'The Miles Davis Radio Report' ] } ] }

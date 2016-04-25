@@ -1,0 +1,8 @@
+{ name: '2013 in poetry',
+  href: 'http://en.wikipedia.org/wiki/2013_in_poetry',
+  mentions: 
+   [ { sectionHeader: 'Works published in English',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 10031,
+       quote: [ 'Mezz Mezzerow, Miles Davis, Henry Miller, Babs Gonzales, Art Pepper, Neil Cassady, Delmore Schwartz, Terry Southern, Annie Ross, Lord Buckley, Diane di Prima, Jack Kerouac, Frank O’Hara, LeRoi Jones, Lenny Bruce, Mort Sahl, Bob Dylan, William S Burroughs, Ishmael Reed, Andy Warhol, Nick Tosches, Hunter S Thompson, Iris Owens, Lester Bangs, Gary Indiana, Richard Prince, Emily XYZ, Eric Bogosian, George Carlin' ] } ] }

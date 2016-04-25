@@ -1,0 +1,17 @@
+{ name: 'Portal:Michael Jackson',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:Michael_Jackson',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'wikidata:Q13217614',
+          href: 'http://www.wikidata.org/entity/Q13217614' },
+        { value: 'dbpedia-fr:Portail:Michael_Jackson',
+          href: 'http://fr.dbpedia.org/resource/Portail:Michael_Jackson' },
+        { value: 'dbpedia-es:Portal:Michael_Jackson',
+          href: 'http://es.dbpedia.org/resource/Portal:Michael_Jackson' },
+        { value: 'dbpedia-it:Portale:Michael_Jackson',
+          href: 'http://it.dbpedia.org/resource/Portale:Michael_Jackson' },
+        { value: 'dbpedia-pt:Portal:Michael_Jackson',
+          href: 'http://pt.dbpedia.org/resource/Portal:Michael_Jackson' },
+        { value: 'dbpedia-wikidata:Q13217614',
+          href: 'http://wikidata.dbpedia.org/resource/Q13217614' } ] } }

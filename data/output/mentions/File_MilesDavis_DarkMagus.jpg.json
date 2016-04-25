@@ -1,0 +1,8 @@
+{ name: 'File:MilesDavis DarkMagus.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:MilesDavis_DarkMagus.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is a cover of the album, Dark Magus Worldwide edition by Miles Davis.' ] } ] }

@@ -1,0 +1,45 @@
+{ name: 'Dominique Gaumont',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Dominique_Gaumont',
+  values: 
+   { 'dbo:abstract': [ { value: 'Dominique Gaumont (8 January 1953 – 10 November 1983) was a French jazz guitarist who played with Miles Davis, the Art Ensemble of Chicago and Michel Portal. (en)' } ],
+     'dbo:wikiPageID': [ { value: '40975008 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678969794 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:French_guitarists',
+          href: 'http://dbpedia.org/resource/Category:French_guitarists' },
+        { value: 'dbc:1953_births',
+          href: 'http://dbpedia.org/resource/Category:1953_births' },
+        { value: 'dbc:1983_deaths',
+          href: 'http://dbpedia.org/resource/Category:1983_deaths' },
+        { value: 'dbc:20th-century_French_musicians',
+          href: 'http://dbpedia.org/resource/Category:20th-century_French_musicians' },
+        { value: 'dbc:Jazz-rock_guitarists',
+          href: 'http://dbpedia.org/resource/Category:Jazz-rock_guitarists' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'Dominique Gaumont (8 January 1953 – 10 November 1983) was a French jazz guitarist who played with Miles Davis, the Art Ensemble of Chicago and Michel Portal. (en)' } ],
+     'rdfs:label': [ { value: 'Dominique Gaumont (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Dominique Gaumont',
+          href: 'http://rdf.freebase.com/ns/m.03j3kcv' },
+        { value: 'dbpedia-fr:Dominique Gaumont',
+          href: 'http://fr.dbpedia.org/resource/Dominique_Gaumont' },
+        { value: 'dbpedia-cs:Dominique Gaumont',
+          href: 'http://cs.dbpedia.org/resource/Dominique_Gaumont' },
+        { value: 'dbpedia-it:Dominique Gaumont',
+          href: 'http://it.dbpedia.org/resource/Dominique_Gaumont' },
+        { value: 'dbpedia-wikidata:Dominique Gaumont',
+          href: 'http://wikidata.dbpedia.org/resource/Q3035188' },
+        { value: 'wikidata:Dominique Gaumont',
+          href: 'http://www.wikidata.org/entity/Q3035188' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Dominique_Gaumont?oldid=678969794',
+          href: 'http://en.wikipedia.org/wiki/Dominique_Gaumont?oldid=678969794' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Dominique_Gaumont',
+          href: 'http://en.wikipedia.org/wiki/Dominique_Gaumont' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Dominique_Gaumont',
+          href: 'http://en.wikipedia.org/wiki/Dominique_Gaumont' } ] } }

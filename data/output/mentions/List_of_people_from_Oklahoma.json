@@ -1,0 +1,8 @@
+{ name: 'List of people from Oklahoma',
+  href: 'http://en.wikipedia.org/wiki/List_of_people_from_Oklahoma',
+  mentions: 
+   [ { sectionHeader: 'Musicians',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 23117,
+       quote: [ 'Sam Rivers (born 1923), jazz tenor saxophonist with Miles Davis, Dizzy Gillespie, Herbie Hancock, and Quincy Jones' ] } ] }

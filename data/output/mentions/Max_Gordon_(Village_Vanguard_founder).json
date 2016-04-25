@@ -1,0 +1,8 @@
+{ name: 'Max Gordon (Village Vanguard founder)',
+  href: 'http://en.wikipedia.org/wiki/Max_Gordon_(Village_Vanguard_founder)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 495,
+       quote: [ 'The Vanguard initially offered comedy and poetry, segueing into folk music and jazz in the 1950s before going all-jazz in 1957, hosting a who\'s who of jazz greats from the 1940s to the 1980s including John Coltrane, Thelonius Monk (an unknown his wife Lorraine discovered, whose debut at the Vanguard drew no customers), Sidney Bechet, Dinah Washington, Albert Ayler, Miles Davis, Wynton Marsalis, and Henry Threadgill.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Terry Pollard',
+  href: 'http://en.wikipedia.org/wiki/Terry_Pollard',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 765,
+       quote: [ 'Pollard also performed with John Coltrane, Charlie Parker, Miles Davis, Chet Baker, Nat King Cole, Dinah Washington, Duke Ellington and Ella Fitzgerald.' ] } ] }

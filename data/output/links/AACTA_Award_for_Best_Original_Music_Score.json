@@ -1,0 +1,55 @@
+{ name: 'AACTA Award for Best Original Music Score',
+  entityType: 'AACTAAwards',
+  href: 'http://dbpedia.org/page/AACTA_Award_for_Best_Original_Music_Score',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Australian Film Institute Award for Best Original Music Score is an award in the annual Australian Film Institute Awards. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.afi.org.au/awards/pastwinners.asp',
+          href: 'http://www.afi.org.au/awards/pastwinners.asp' } ],
+     'dbo:wikiPageID': [ { value: '16924030 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '672540138 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Film_music_awards',
+          href: 'http://dbpedia.org/resource/Category:Film_music_awards' },
+        { value: 'dbc:AACTA_Awards',
+          href: 'http://dbpedia.org/resource/Category:AACTA_Awards' } ],
+     'rdf:type': 
+      [ { value: 'yago:AACTAAwards',
+          href: 'http://dbpedia.org/class/yago/AACTAAwards' },
+        { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Award106696483',
+          href: 'http://dbpedia.org/class/yago/Award106696483' },
+        { value: 'yago:Communication100033020',
+          href: 'http://dbpedia.org/class/yago/Communication100033020' },
+        { value: 'yago:Signal106791372',
+          href: 'http://dbpedia.org/class/yago/Signal106791372' },
+        { value: 'yago:Symbol106806469',
+          href: 'http://dbpedia.org/class/yago/Symbol106806469' },
+        { value: 'yago:FilmMusicAwards',
+          href: 'http://dbpedia.org/class/yago/FilmMusicAwards' } ],
+     'rdfs:comment': [ { value: 'The Australian Film Institute Award for Best Original Music Score is an award in the annual Australian Film Institute Awards. (en)' } ],
+     'rdfs:label': [ { value: 'AACTA Award for Best Original Music Score (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:AACTA Award for Best Original Music Score',
+          href: 'http://rdf.freebase.com/ns/m.04128tw' },
+        { value: 'dbpedia-wikidata:AACTA Award for Best Original Music Score',
+          href: 'http://wikidata.dbpedia.org/resource/Q4649817' },
+        { value: 'wikidata:AACTA Award for Best Original Music Score',
+          href: 'http://www.wikidata.org/entity/Q4649817' },
+        { value: 'yago-res:AACTA Award for Best Original Music Score',
+          href: 'http://yago-knowledge.org/resource/AACTA_Award_for_Best_Original_Music_Score' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:AACTA_Award_for_Best_Original_Music_Score?oldid=672540138',
+          href: 'http://en.wikipedia.org/wiki/AACTA_Award_for_Best_Original_Music_Score?oldid=672540138' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:AACTA_Award_for_Best_Original_Music_Score',
+          href: 'http://en.wikipedia.org/wiki/AACTA_Award_for_Best_Original_Music_Score' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Australian_Film_Institute_Award_for_Best_Original_Music_Score',
+          href: 'http://dbpedia.org/resource/Australian_Film_Institute_Award_for_Best_Original_Music_Score' },
+        { value: 'dbr:Australian_film_institute_award_for_best_original_music_score',
+          href: 'http://dbpedia.org/resource/Australian_film_institute_award_for_best_original_music_score' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:AACTA_Award_for_Best_Original_Music_Score',
+          href: 'http://en.wikipedia.org/wiki/AACTA_Award_for_Best_Original_Music_Score' } ] } }

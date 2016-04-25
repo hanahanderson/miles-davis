@@ -1,0 +1,62 @@
+{ name: 'Solar (composition)',
+  entityType: 'SystemOfMeasurement113577171',
+  href: 'http://dbpedia.org/page/Solar_(composition)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Solar" (/ˈsoʊlər/ or /soʊˈlɑr/) is a musical composition attributed to Miles Davis on the studio album Walkin\' (1954), considered a modern jazz standard. The tune has been played and recorded by many musicians including his former bandmates/collaborators Lee Konitz, Bill Evans, Dave Holland, Keith Jarrett or Jack DeJohnette. A controversy exists over authorship of this composition and one current consensus holds that Davis\' "Solar" is essentially an earlier song, "Sonny", written by Chuck Wayne.The first two measures of this song adorn Miles Davis\' tombstone in Woodlawn Cemetery. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Sir_Miles_Davis_Gravesite.JPG?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sir_Miles_Davis_Gravesite.JPG?width=300' } ],
+     'dbo:wikiPageID': [ { value: '7562358 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '655676907 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_compositions',
+          href: 'http://dbpedia.org/resource/Category:Jazz_compositions' },
+        { value: 'dbc:1950s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1950s_jazz_standards' },
+        { value: 'dbc:Compositions_by_Miles_Davis',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_Miles_Davis' } ],
+     'rdf:type': 
+      [ { value: 'yago:1950sJazzStandards',
+          href: 'http://dbpedia.org/class/yago/1950sJazzStandards' },
+        { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Standard107260623',
+          href: 'http://dbpedia.org/class/yago/Standard107260623' },
+        { value: 'yago:SystemOfMeasurement113577171',
+          href: 'http://dbpedia.org/class/yago/SystemOfMeasurement113577171' },
+        { value: 'yago:Measure100033615',
+          href: 'http://dbpedia.org/class/yago/Measure100033615' } ],
+     'rdfs:comment': [ { value: '"Solar" (/ˈsoʊlər/ or /soʊˈlɑr/) is a musical composition attributed to Miles Davis on the studio album Walkin\' (1954), considered a modern jazz standard. The tune has been played and recorded by many musicians including his former bandmates/collaborators Lee Konitz, Bill Evans, Dave Holland, Keith Jarrett or Jack DeJohnette. (en)' } ],
+     'rdfs:label': [ { value: 'Solar (composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Solar (composition)',
+          href: 'http://rdf.freebase.com/ns/m.0bb611w' },
+        { value: 'wikidata:Solar (composition)',
+          href: 'http://www.wikidata.org/entity/Q7555843' },
+        { value: 'dbpedia-wikidata:Solar (composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7555843' },
+        { value: 'yago-res:Solar (composition)',
+          href: 'http://yago-knowledge.org/resource/Solar_(composition)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Solar_(composition)?oldid=655676907',
+          href: 'http://en.wikipedia.org/wiki/Solar_(composition)?oldid=655676907' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Sir_Miles_Davis_Gravesite.JPG',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Sir_Miles_Davis_Gravesite.JPG' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Solar_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Solar_(composition)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Solar',
+          href: 'http://dbpedia.org/resource/Solar' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Solar_(song)',
+          href: 'http://dbpedia.org/resource/Solar_(song)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Question_and_Answer_(album)',
+          href: 'http://dbpedia.org/resource/Question_and_Answer_(album)' },
+        { value: 'dbr:Walkin\'',
+          href: 'http://dbpedia.org/resource/Walkin\'' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Solar_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Solar_(composition)' } ] } }

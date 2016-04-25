@@ -1,0 +1,20 @@
+{ name: '1958 (disambiguation)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1958_(disambiguation)',
+  values: 
+   { 'dbo:wikiPageDisambiguates': 
+      [ { value: 'dbr:1958_(album)',
+          href: 'http://dbpedia.org/resource/1958_(album)' },
+        { value: 'dbr:1958', href: 'http://dbpedia.org/resource/1958' } ],
+     'dbo:wikiPageID': [ { value: '47793461 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680669359 (xsd:integer)' } ],
+     'rdfs:label': [ { value: '1958 (disambiguation) (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1958_(disambiguation)?oldid=680669359',
+          href: 'http://en.wikipedia.org/wiki/1958_(disambiguation)?oldid=680669359' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1958_(disambiguation)',
+          href: 'http://en.wikipedia.org/wiki/1958_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1958_(disambiguation)',
+          href: 'http://en.wikipedia.org/wiki/1958_(disambiguation)' } ] } }

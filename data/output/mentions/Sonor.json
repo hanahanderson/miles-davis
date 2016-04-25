@@ -1,0 +1,8 @@
+{ name: 'Sonor',
+  href: 'http://en.wikipedia.org/wiki/Sonor',
+  mentions: 
+   [ { sectionHeader: 'Endorsers',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3491,
+       quote: [ 'Jack DeJohnette - Miles Davis, Keith Jarrett, Dave Holland' ] } ] }

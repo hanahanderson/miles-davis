@@ -1,0 +1,8 @@
+{ name: 'Kids: Live at Dizzy\'s Club Coca-Cola',
+  href: 'http://en.wikipedia.org/wiki/Kids:_Live_at_Dizzy%27s_Club_Coca-Cola',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1530,
+       quote: [ '"Budo" (Miles Davis) - 4:05' ] } ] }

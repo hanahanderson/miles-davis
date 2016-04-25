@@ -1,0 +1,8 @@
+{ name: 'Bye Bye Blackbird (Keith Jarrett album)',
+  href: 'http://en.wikipedia.org/wiki/Bye_Bye_Blackbird_(Keith_Jarrett_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 437,
+       quote: [ 'It was recorded in 1991 in tribute to Miles Davis, who had died two weeks earlier.' ] } ] }

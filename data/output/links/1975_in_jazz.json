@@ -1,0 +1,38 @@
+{ name: '1975 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1975_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1975 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Joe_Pass_(jazz).jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joe_Pass_(jazz).jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25654871 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '620439114 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1976 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'Joe Pass 1975 (en)' } ],
+     'dbp:prioryear': [ { value: '1974 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1975_in_music',
+          href: 'http://dbpedia.org/resource/Category:1975_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdfs:comment': [ { value: '1975 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1975 in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1975 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q16243384' },
+        { value: 'wikidata:1975 in jazz',
+          href: 'http://www.wikidata.org/entity/Q16243384' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1975_in_jazz?oldid=620439114',
+          href: 'http://en.wikipedia.org/wiki/1975_in_jazz?oldid=620439114' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Joe_Pass_(jazz).jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joe_Pass_(jazz).jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1975_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1975_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1975_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1975_in_jazz' } ] } }

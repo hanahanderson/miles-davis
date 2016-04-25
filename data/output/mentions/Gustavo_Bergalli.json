@@ -1,0 +1,8 @@
+{ name: 'Gustavo Bergalli',
+  href: 'http://en.wikipedia.org/wiki/Gustavo_Bergalli',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 366,
+       quote: [ 'Bergalli in his individual tender and pleasingly expressed performances it’s easy to recognize a melodious resonance of, Chet Baker or Miles Davis.' ] } ] }

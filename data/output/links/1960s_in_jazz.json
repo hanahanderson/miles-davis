@@ -1,0 +1,35 @@
+{ name: '1960s in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1960s_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'In the late 1960s, Latin jazz, combining rhythms from African and Latin American countries, often played on instruments such as conga, timbale, güiro, and claves, with jazz and classical harmonies played on typical jazz instruments (piano, double bass, etc.) broke through. There are two main varieties: Afro-Cuban jazz was played in the US right after the bebop period, while Brazilian jazz became more popular in the 1960s. Afro-Cuban jazz began as a movement in the mid-1950s as bebop musicians such as Dizzy Gillespie and Billy Taylor started Afro-Cuban bands influenced by such Cuban and Puerto Rican musicians as Xavier Cugat, Tito Puente, and Arturo Sandoval. Brazilian jazz such as bossa nova is derived from samba, with influences from jazz and other 20th-century classical and popular music styles. Bossa is generally moderately paced, with melodies sung in Portuguese or English. The style was pioneered by Brazilians João Gilberto and Antônio Carlos Jobim. The related term jazz-samba describes an adaptation of bossa nova compositions to the jazz idiom by American performers such as Stan Getz and Charlie Byrd.Bossa nova was made popular by Elizete Cardoso\'s recording of Chega de Saudade on the Canção do Amor Demais LP, composed by Vinícius de Moraes (lyrics) and Antonio Carlos Jobim (music). The initial releases by Gilberto and the 1959 film Black Orpheus brought significant popularity in Brazil and elsewhere in Latin America, which spread to North America via visiting American jazz musicians. The resulting recordings by Charlie Byrd and Stan Getz cemented its popularity and led to a worldwide boom with 1963\'s Getz/Gilberto, numerous recordings by famous jazz performers such as Ella Fitzgerald (Ella Abraça Jobim) and Frank Sinatra (Francis Albert Sinatra & Antônio Carlos Jobim), and the entrenchment of the bossa nova style as a lasting influence in world music for several decades and even up to the present. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wikipedia-en:Special:FilePath/Herbie_Hancock_2005.JPG?width=300',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Herbie_Hancock_2005.JPG?width=300' } ],
+     'dbo:wikiPageID': [ { value: '29788407 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674988586 (xsd:integer)' } ],
+     'dbp:colwidth': [ { value: '30 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1960s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1960s_in_music' },
+        { value: 'dbc:20th_century_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_jazz' } ],
+     'rdfs:comment': [ { value: 'In the late 1960s, Latin jazz, combining rhythms from African and Latin American countries, often played on instruments such as conga, timbale, güiro, and claves, with jazz and classical harmonies played on typical jazz instruments (piano, double bass, etc.) broke through. There are two main varieties: Afro-Cuban jazz was played in the US right after the bebop period, while Brazilian jazz became more popular in the 1960s. (en)' } ],
+     'rdfs:label': [ { value: '1960s in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1960s in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4570173' },
+        { value: 'wikidata:1960s in jazz',
+          href: 'http://www.wikidata.org/entity/Q4570173' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1960s_in_jazz?oldid=674988586',
+          href: 'http://en.wikipedia.org/wiki/1960s_in_jazz?oldid=674988586' } ],
+     'foaf:depiction': 
+      [ { value: 'wikipedia-en:Special:FilePath/Herbie_Hancock_2005.JPG',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Herbie_Hancock_2005.JPG' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1960s_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1960s_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1960s_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1960s_in_jazz' } ] } }

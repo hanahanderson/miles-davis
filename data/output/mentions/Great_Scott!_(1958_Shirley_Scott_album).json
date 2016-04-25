@@ -1,0 +1,8 @@
+{ name: 'Great Scott! (1958 Shirley Scott album)',
+  href: 'http://en.wikipedia.org/wiki/Great_Scott!_(1958_Shirley_Scott_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1084,
+       quote: [ '"Four" (Miles Davis) - 3:53' ] } ] }

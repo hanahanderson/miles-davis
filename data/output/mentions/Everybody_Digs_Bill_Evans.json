@@ -1,0 +1,8 @@
+{ name: 'Everybody Digs Bill Evans',
+  href: 'http://en.wikipedia.org/wiki/Everybody_Digs_Bill_Evans',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 2984,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Chummy MacGregor',
+  href: 'http://en.wikipedia.org/wiki/Chummy_MacGregor',
+  mentions: 
+   [ { sectionHeader: 'Compositions by Chummy MacGregor',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1703,
+       quote: [ 'A noted songwriter and arranger, he wrote the songs "It Must Be Jelly (\'Cause Jam Don\'t Shake Like That)" with the Glenn Miller Orchestra in 1942, which was covered by Woody Herman in 1944 on Brunswick and as V-Disc 320B, and was also recorded by Harry James, Frankie Ford, and Johnny Long; "Slumber Song" with Saul Tepper; "Doin\' the Jive" written with Glenn Miller in 1937; "Moon Drams" with lyrics by Johnny Mercer, which was arranged by Gil Evans and recorded by Miles Davis on his 1957 Birth of the Cool album; "Sold American" with Glenn Miller; "Sometime" with Glenn Miller in 1939; "Solid As a Stonewall Jackson" with Jerry Gray; "Mister-Lucky-Me" in 1943; "Simply Grand"; "If Not For You"; "The Technical Training Command" with Glenn Miller and Sol Meyer in 1943; and, "I Sustain the Wings", composed with Glenn Miller, Norman Leyden, and Bill Meyers for the NBC radio series, which ran from 1943 to 1944.' ] } ] }

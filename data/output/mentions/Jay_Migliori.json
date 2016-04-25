@@ -1,0 +1,8 @@
+{ name: 'Jay Migliori',
+  href: 'http://en.wikipedia.org/wiki/Jay_Migliori',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 744,
+       quote: [ 'He also played live with thousands of musicians including Charlie Parker and Miles Davis.' ] } ] }

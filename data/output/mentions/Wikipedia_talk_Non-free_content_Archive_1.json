@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:Non-free content/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Non-free_content/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'Album covers: Strike two lines from policy?',
+       sectionSubHeader: 'National treatment',
+       sectionIndex: 300,
+       wordCountBeforeSection: 109016,
+       quote: [ 'FWIW.) I had already started to wonder about this when Miles Davis was the article of the day a few weeks ago, and the image was the Kind of Blue cover. -- Gyrofrog (talk) 00:09, 26 October 2005 (UTC)' ] } ] }

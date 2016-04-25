@@ -1,0 +1,8 @@
+{ name: 'Roger Dawson',
+  href: 'http://en.wikipedia.org/wiki/Roger_Dawson',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1182,
+       quote: [ 'Roger recalls going to Gene Norman\'s concerts at the Pasadena Civic Auditorium to see Erroll Garner, Miles Davis with John Coltrane and the "West Coast jazz" sounds of Howard Rumsey\'s Lighthouse All Stars, Shorty Rogers and the Giants and the Gerry Mulligan, Chet Baker Quartet.' ] } ] }

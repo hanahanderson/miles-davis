@@ -1,0 +1,13 @@
+{ name: 'Prince (musician)',
+  href: 'http://en.wikipedia.org/wiki/Prince_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 6369,
+       quote: [ 'Grand Central later changed its name to Champagne and started playing original music influenced by Sly and the Family Stone, James Brown, Earth, Wind & Fire, Miles Davis, George Clinton and Parliament-Funkadelic, Carlos Santana, Jimi Hendrix, and Todd Rundgren.' ] },
+     { sectionHeader: 'Artistry',
+       sectionSubHeader: '',
+       sectionIndex: 99,
+       wordCountBeforeSection: 53960,
+       quote: [ 'Critic Simon Reynolds called him a "pop polymath, flitting between funkadelia, acid rock, deep soul, schmaltz—often within the same song," writing that "Prince doesn\'t so much build bridges between categories as create music that exceeds each category simultaneously." Prince has been compared with jazz great Miles Davis in regard to the artistic changes throughout his career.' ] } ] }

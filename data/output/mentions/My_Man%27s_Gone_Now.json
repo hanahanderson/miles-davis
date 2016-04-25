@@ -1,0 +1,13 @@
+{ name: 'My Man\'s Gone Now',
+  href: 'http://en.wikipedia.org/wiki/My_Man%27s_Gone_Now',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3519,
+       quote: [ 'Porgy and Bess (Miles Davis album)' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 7150,
+       quote: [ 'Miles Davis' ] } ] }

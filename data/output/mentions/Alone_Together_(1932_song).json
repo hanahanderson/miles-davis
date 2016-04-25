@@ -1,0 +1,8 @@
+{ name: 'Alone Together (1932 song)',
+  href: 'http://en.wikipedia.org/wiki/Alone_Together_(1932_song)',
+  mentions: 
+   [ { sectionHeader: 'Selective list of recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 483,
+       quote: [ 'Miles Davis – Blue Moods (1955)' ] } ] }

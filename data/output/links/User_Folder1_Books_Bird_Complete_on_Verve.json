@@ -1,0 +1,4 @@
+{ name: 'User:Folder1/Books/Bird Complete on Verve',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Folder1/Books/Bird_Complete_on_Verve',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

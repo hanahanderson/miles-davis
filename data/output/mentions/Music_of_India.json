@@ -1,0 +1,8 @@
+{ name: 'Music of India',
+  href: 'http://en.wikipedia.org/wiki/Music_of_India',
+  mentions: 
+   [ { sectionHeader: 'Popular music',
+       sectionSubHeader: '',
+       sectionIndex: 62,
+       wordCountBeforeSection: 14962,
+       quote: [ 'Jazz innovator Miles Davis recorded and performed with musicians like Khalil Balakrishna, Bihari Sharma, and Badal Roy in his post-1968 electric ensembles.' ] } ] }

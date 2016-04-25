@@ -1,0 +1,8 @@
+{ name: '1947 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1947_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Events',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 919,
+       quote: [ 'The Miles Davis All-Stars (with Charlie Parker, Max Roach, John Lewis and Nelson Boyd) debuted at the Savoy.' ] } ] }

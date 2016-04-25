@@ -1,0 +1,8 @@
+{ name: 'James Isaacs',
+  href: 'http://en.wikipedia.org/wiki/James_Isaacs',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1171,
+       quote: [ 'He has written liner notes for numerous records, among them, Miles Davis\' Circle in the Round (Columbia Records).' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Tommy LiPuma',
+  href: 'http://en.wikipedia.org/wiki/Tommy_LiPuma',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 1187,
+       quote: [ 'He has worked with many musicians, including Barbra Streisand, Miles Davis, George Benson, Al Jarreau, Anita Baker, Natalie Cole, Claudine Longet, Dave Mason, the Yellowjackets, Michael Franks, Diana Krall, Sir Paul McCartney, The Story, The Crusaders, Joe Sample, Randy Crawford and Dr John.' ] } ] }

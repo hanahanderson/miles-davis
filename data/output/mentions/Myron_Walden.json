@@ -1,0 +1,13 @@
+{ name: 'Myron Walden',
+  href: 'http://en.wikipedia.org/wiki/Myron_Walden',
+  mentions: 
+   [ { sectionHeader: 'Playing style and critical reception',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2387,
+       quote: [ 'All About Jazz cites him as "one of the true bright stars of his generation" who "has a very distinctive sharp tone with a rounded nasaly-inflection" and "has shown the ability to develop solos with both an incisive logic and an organic level of invention." Describing his performance on tenor sax, writer John Kelman said that Walden was "as thoughtful yet fiery a player on the bigger horn as he is on alto" and called his 2009 release Momentum "a document of one of the modern mainstream\'s most provocative saxophonists, composers, and bandleaders," favorably comparing Walden\'s composition "Like a Flower Seeking the Sun" to Wayne Shorter\'s title track from Miles Davis\'s album Nefertiti.' ] },
+     { sectionHeader: 'Playing style and critical reception',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2387,
+       quote: [] } ] }

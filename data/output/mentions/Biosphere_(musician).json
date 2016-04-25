@@ -1,0 +1,8 @@
+{ name: 'Biosphere (musician)',
+  href: 'http://en.wikipedia.org/wiki/Biosphere_(musician)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 6557,
+       quote: [ 'In 2006, Jenssen released Drpsonde, a half beatless, half rhythmic album composed of jazz rhythms evocative of Miles Davis\' 1970s jazz fusion works.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Userboxes/Music/Artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Userboxes/Music/Artists',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,4 @@
+{ name: 'User:Silence/Articles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Silence/Articles',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

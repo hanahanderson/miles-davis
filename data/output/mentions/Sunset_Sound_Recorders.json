@@ -1,0 +1,8 @@
+{ name: 'Sunset Sound Recorders',
+  href: 'http://en.wikipedia.org/wiki/Sunset_Sound_Recorders',
+  mentions: 
+   [ { sectionHeader: 'Notable clients',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1232,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,107 @@
+{ name: 'Tune Up! (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Tune_Up!_(album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Tune Up! is an album by organist Don Patterson featuring tracks recorded in 1964 and 1969 which was released on the Prestige label in 1971. The album features unreleased recordings from the sessions that also produced Hip Cake Walk, Patterson\'s People, Oh Happy Day, Brothers-4 and Donny Brook. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Don_Patterson_(organist)',
+          href: 'http://dbpedia.org/resource/Don_Patterson_(organist)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Donny_Brook',
+          href: 'http://dbpedia.org/resource/Donny_Brook' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Porter_(record_producer)',
+          href: 'http://dbpedia.org/resource/Bob_Porter_(record_producer)' },
+        { value: 'dbr:Ozzie_Cadena',
+          href: 'http://dbpedia.org/resource/Ozzie_Cadena' } ],
+     'dbo:recordDate': 
+      [ { value: '1964-08-25 (xsd:date)' },
+        { value: '1969-09-15 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Return_of_Don_Patterson',
+          href: 'http://dbpedia.org/resource/The_Return_of_Don_Patterson' } ],
+     'dbo:wikiPageID': [ { value: '38988969 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '631545120 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Don Patterson with Sonny Stitt (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Don_Patterson_(organist)',
+          href: 'http://dbpedia.org/resource/Don_Patterson_(organist)' } ],
+     'dbp:cover': [ { value: 'Tune Up! .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: '(PR 7852) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Donny Brook (en)' } ],
+     'dbp:name': [ { value: 'Tune Up! (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Return of Don Patterson (en)' } ],
+     'dbp:producer': [ { value: 'Ozzie Cadena and Bob Porter (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--07-10' },
+        { value: 'Van Gelder Studio, Englewood Cliffs, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1971 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Tune Up! (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1971_albums',
+          href: 'http://dbpedia.org/resource/Category:1971_albums' },
+        { value: 'dbc:Albums_produced_by_Bob_Porter_(record_producer)',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Porter_(record_producer)' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Don_Patterson_(organist)_albums',
+          href: 'http://dbpedia.org/resource/Category:Don_Patterson_(organist)_albums' },
+        { value: 'dbc:Albums_produced_by_Ozzie_Cadena',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Ozzie_Cadena' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Tune Up! is an album by organist Don Patterson featuring tracks recorded in 1964 and 1969 which was released on the Prestige label in 1971. The album features unreleased recordings from the sessions that also produced Hip Cake Walk, Patterson\'s People, Oh Happy Day, Brothers-4 and Donny Brook. (en)' } ],
+     'rdfs:label': [ { value: 'Tune Up! (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Tune Up! (album)',
+          href: 'http://rdf.freebase.com/ns/m.0sgf0yn' },
+        { value: 'dbpedia-wikidata:Tune Up! (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17063127' },
+        { value: 'wikidata:Tune Up! (album)',
+          href: 'http://www.wikidata.org/entity/Q17063127' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Tune_Up!_(album)?oldid=631545120',
+          href: 'http://en.wikipedia.org/wiki/Tune_Up!_(album)?oldid=631545120' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Tune_Up!_(album)',
+          href: 'http://en.wikipedia.org/wiki/Tune_Up!_(album)' } ],
+     'foaf:name': [ { value: 'Tune Up! (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Return_of_Don_Patterson',
+          href: 'http://dbpedia.org/resource/The_Return_of_Don_Patterson' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Donny_Brook',
+          href: 'http://dbpedia.org/resource/Donny_Brook' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Tune_Up!_(album)',
+          href: 'http://en.wikipedia.org/wiki/Tune_Up!_(album)' } ] } }

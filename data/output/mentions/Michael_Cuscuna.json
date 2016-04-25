@@ -1,0 +1,13 @@
+{ name: 'Michael Cuscuna',
+  href: 'http://en.wikipedia.org/wiki/Michael_Cuscuna',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 997,
+       quote: [ 'Artists surveyed include highly visible masters like Thelonious Monk, Miles Davis, and Nat "King" Cole, and lesser known artists such as Tina Brooks and Ike Quebec.' ] },
+     { sectionHeader: 'Grammy Awards',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1481,
+       quote: [ '1998: Best Album Notes for Miles Davis, Miles Davis Quintet, 1965–68: The Complete Columbia Studio Recordings (with Bob Belden and Todd Coolman)' ] } ] }

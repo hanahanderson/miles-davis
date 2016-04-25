@@ -1,0 +1,8 @@
+{ name: 'Don Sleet',
+  href: 'http://en.wikipedia.org/wiki/Don_Sleet',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: 'Later years and death',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3304,
+       quote: [ 'An "expressive, swinging player", Sleet was influenced by Chet Baker, Miles Davis and Kenny Dorham amongst others.' ] } ] }

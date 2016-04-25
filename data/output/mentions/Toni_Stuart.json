@@ -1,0 +1,8 @@
+{ name: 'Toni Stuart',
+  href: 'http://en.wikipedia.org/wiki/Toni_Stuart',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1475,
+       quote: [ 'She gains musical encouragement from musicians by the likes of John Mayer, Miles Davis, Kyle Shepherd, Arvo Pärt, Jenni Thompson, Gregory Porter, Damien Rice, Rachmaninov.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Russell Gunn',
+  href: 'http://en.wikipedia.org/wiki/Russell_Gunn',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 634,
+       quote: [ '2007 - Russell Gunn Plays Miles (High Note) - tribute to Miles Davis' ] } ] }

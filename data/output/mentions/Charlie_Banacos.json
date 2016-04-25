@@ -1,0 +1,8 @@
+{ name: 'Charlie Banacos',
+  href: 'http://en.wikipedia.org/wiki/Charlie_Banacos',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 2236,
+       quote: [ 'His students have performed or recorded with Duke Ellington, Miles Davis, Maynard Ferguson, Chick Corea, Wynton Marsalis, David Liebman, Wayne Shorter, Michael Brecker and Joe Henderson, among others.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Surrey with the Fringe on Top',
+  href: 'http://en.wikipedia.org/wiki/The_Surrey_with_the_Fringe_on_Top',
+  mentions: 
+   [ { sectionHeader: 'As jazz standard',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1036,
+       quote: [ 'Versions of the song were recorded by Bing Crosby with Helen O\'Connell, Nat King Cole, Mel Tormé, Ahmad Jamal, Ellis Marsalis, Tori Amos, Marlene Dietrich, Joshua Redman, Miles Davis, Julian "Cannonball" Adderley, Janis Siegel, Nancy LaMott, Sonny Rollins, Betty Carter, Blossom Dearie and McCoy Tyner, Wes Montgomery, Wynton Kelly, Johnny Smith, Peggy Lee, Julie Hamelin, Beverly Kenney, Mary Stallings, Stacey Kent, Vikki Carr, Ray Brown, Barney Kessel, Joe Brown, The Hi-Lo\'s and the J.' ] } ] }

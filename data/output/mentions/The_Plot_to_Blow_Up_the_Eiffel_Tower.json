@@ -1,0 +1,8 @@
+{ name: 'The Plot to Blow Up the Eiffel Tower',
+  href: 'http://en.wikipedia.org/wiki/The_Plot_to_Blow_Up_the_Eiffel_Tower',
+  mentions: 
+   [ { sectionHeader: 'Style and influences',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4730,
+       quote: [ 'The band took influences from John Zorn, Swing Kids (band), Miles Davis, Drve Like Jehu, Bad Brains and Fugazi.' ] } ] }

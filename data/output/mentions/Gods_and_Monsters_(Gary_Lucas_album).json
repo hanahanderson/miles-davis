@@ -1,0 +1,8 @@
+{ name: 'Gods and Monsters (Gary Lucas album)',
+  href: 'http://en.wikipedia.org/wiki/Gods_and_Monsters_(Gary_Lucas_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 508,
+       quote: [ 'Miles Davis/Suicide' ] } ] }

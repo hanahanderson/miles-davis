@@ -1,0 +1,8 @@
+{ name: 'The Alternative Wes Montgomery',
+  href: 'http://en.wikipedia.org/wiki/The_Alternative_Wes_Montgomery',
+  mentions: 
+   [ { sectionHeader: 'Track list',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1040,
+       quote: [ '"Tune Up" (Miles Davis) (Take 9)' ] } ] }

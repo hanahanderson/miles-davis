@@ -1,0 +1,8 @@
+{ name: 'This Is an EP Release',
+  href: 'http://en.wikipedia.org/wiki/This_Is_an_EP_Release',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1916,
+       quote: [ '"Fat Time" by Miles Davis' ] } ] }

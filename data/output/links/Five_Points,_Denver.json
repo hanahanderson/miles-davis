@@ -1,0 +1,59 @@
+{ name: 'Five Points, Denver',
+  entityType: 'SpatialThing',
+  href: 'http://dbpedia.org/page/Five_Points,_Denver',
+  values: 
+   { 'dbo:abstract': [ { value: 'Five Points is one of Denver, Colorado\'s oldest historic neighborhoods. It is located on the northeast side of the downtown central business district with a small portion wrapping around Coors Field and reaching into the Prospect neighborhood. It is in the part of Northeast Denver where the downtown street grid meets the neighborhood street grid of the first Denver suburbs. The five points in the district name are the vertexes formed where four streets meet: 26th Avenue, 27th Street, Washington Street, and Welton Street. Five Points was the shortened name for the street car stop located at this intersection. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/27thWelton.JPG?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/27thWelton.JPG?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.denverinfill.com/neighborhood_pages/prospect.htm',
+          href: 'http://www.denverinfill.com/neighborhood_pages/prospect.htm' },
+        { value: 'http://denvermetrodata.org/neighborhood/five-points',
+          href: 'http://denvermetrodata.org/neighborhood/five-points' },
+        { value: 'http://www.fivepointsbiz.org/',
+          href: 'http://www.fivepointsbiz.org/' } ],
+     'dbo:wikiPageID': [ { value: '4625980 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '651969637 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Five_Points,_Denver',
+          href: 'http://dbpedia.org/resource/Category:Five_Points,_Denver' } ],
+     'georss:point': [ { value: '39.754779 -104.978051' } ],
+     'rdf:type': 
+      [ { value: 'geo:SpatialThing',
+          href: 'http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing' } ],
+     'rdfs:comment': [ { value: 'Five Points is one of Denver, Colorado\'s oldest historic neighborhoods. It is located on the northeast side of the downtown central business district with a small portion wrapping around Coors Field and reaching into the Prospect neighborhood. It is in the part of Northeast Denver where the downtown street grid meets the neighborhood street grid of the first Denver suburbs. (en)' } ],
+     'rdfs:label': [ { value: 'Five Points, Denver (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Five Points, Denver',
+          href: 'http://rdf.freebase.com/ns/m.0cd9bv' },
+        { value: 'dbpedia-wikidata:Five Points, Denver',
+          href: 'http://wikidata.dbpedia.org/resource/Q5456069' },
+        { value: 'wikidata:Five Points, Denver',
+          href: 'http://www.wikidata.org/entity/Q5456069' } ],
+     'geo:geometry': [ { value: 'POINT(-104.97805023193 39.754779815674)' } ],
+     'geo:lat': [ { value: '39.754780 (xsd:float)' } ],
+     'geo:long': [ { value: '-104.978050 (xsd:float)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Five_Points,_Denver?oldid=651969637',
+          href: 'http://en.wikipedia.org/wiki/Five_Points,_Denver?oldid=651969637' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/27thWelton.JPG',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/27thWelton.JPG' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Five_Points,_Denver',
+          href: 'http://en.wikipedia.org/wiki/Five_Points,_Denver' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Five_Points',
+          href: 'http://dbpedia.org/resource/Five_Points' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Five_Points,_Denver,_Colorado',
+          href: 'http://dbpedia.org/resource/Five_Points,_Denver,_Colorado' },
+        { value: 'dbr:Five_Points_(Denver)',
+          href: 'http://dbpedia.org/resource/Five_Points_(Denver)' } ],
+     'is dbp:city\n of': 
+      [ { value: 'dbr:National_Register_of_Historic_Places_listings_in_downtown_Denver,_Colorado',
+          href: 'http://dbpedia.org/resource/National_Register_of_Historic_Places_listings_in_downtown_Denver,_Colorado' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Five_Points,_Denver',
+          href: 'http://en.wikipedia.org/wiki/Five_Points,_Denver' } ] } }

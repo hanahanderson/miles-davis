@@ -1,0 +1,8 @@
+{ name: 'David Binney',
+  href: 'http://en.wikipedia.org/wiki/David_Binney',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 524,
+       quote: [ 'His parents were jazz fans, and introduced Binney to jazz musicians such as John Coltrane, Miles Davis, Bobby Hutcherson and Wayne Shorter.' ] } ] }

@@ -1,0 +1,38 @@
+{ name: 'Meanings of minor planet names: 5501–6000',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Meanings_of_minor_planet_names:_5501%E2%80%936000',
+  values: 
+   { 'dbo:abstract': [ { value: 'As minor planet discoveries are confirmed, they are given a permanent number by the IAU\'s Minor Planet Center, and the discoverers can then submit names for them, following the IAU\'s naming conventions. The list below concerns those minor planets in the specified span of numbers that have received names, and explains the meanings of those names. Besides the Minor Planet Circulars (in which the citations are published), a key source is Lutz D. Schmadel\'s Dictionary of Minor Planet Names. Meanings that do not quote a reference (the "†" links) are tentative. (en)' } ],
+     'dbo:wikiPageID': [ { value: '1276876 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679193282 (xsd:integer)' } ],
+     'dbp:prefix': [ { value: '55 (xsd:integer)' } ],
+     'dbp:preprefix': [ { value: '50 (xsd:integer)' } ],
+     'dbp:suffix': [ { value: '60 (xsd:integer)' } ],
+     'dbp:sufsuffix': [ { value: '65 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_meanings_of_minor_planet_names',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_meanings_of_minor_planet_names' } ],
+     'rdfs:comment': [ { value: 'As minor planet discoveries are confirmed, they are given a permanent number by the IAU\'s Minor Planet Center, and the discoverers can then submit names for them, following the IAU\'s naming conventions. The list below concerns those minor planets in the specified span of numbers that have received names, and explains the meanings of those names. Besides the Minor Planet Circulars (in which the citations are published), a key source is Lutz D. Schmadel\'s Dictionary of Minor Planet Names. (en)' } ],
+     'rdfs:label': [ { value: 'Meanings of minor planet names: 5501–6000 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Meanings of minor planet names: 5501–6000',
+          href: 'http://wikidata.dbpedia.org/resource/Q6803976' },
+        { value: 'wikidata:Meanings of minor planet names: 5501–6000',
+          href: 'http://www.wikidata.org/entity/Q6803976' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Meanings_of_minor_planet_names:_5501–6000?oldid=679193282',
+          href: 'http://en.wikipedia.org/wiki/Meanings_of_minor_planet_names:_5501–6000?oldid=679193282' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Meanings_of_minor_planet_names:_5501–6000',
+          href: 'http://en.wikipedia.org/wiki/Meanings_of_minor_planet_names:_5501–6000' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Meanings_of_asteroid_names_(5501-6000)',
+          href: 'http://dbpedia.org/resource/Meanings_of_asteroid_names_(5501-6000)' },
+        { value: 'dbr:Meanings_of_minor_planet_names:_5501-6000',
+          href: 'http://dbpedia.org/resource/Meanings_of_minor_planet_names:_5501-6000' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Meanings of minor planet names: 5501–6000',
+          href: 'http://dbpedia.org/resource/Meanings_of_minor_planet_names:_5501%E2%80%936000' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Meanings_of_minor_planet_names:_5501–6000',
+          href: 'http://en.wikipedia.org/wiki/Meanings_of_minor_planet_names:_5501–6000' } ] } }

@@ -1,0 +1,109 @@
+{ name: 'EnRoute: John Scofield Trio LIVE',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/EnRoute:_John_Scofield_Trio_LIVE',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '73.8' } ],
+     'dbo:abstract': [ { value: 'EnRoute: John Scofield Trio LIVE is an album by John Scofield Trio recorded at the New York\'s Blue Note club in December 2003. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Scofield',
+          href: 'http://dbpedia.org/resource/John_Scofield' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Post-bop',
+          href: 'http://dbpedia.org/resource/Post-bop' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_Scofield',
+          href: 'http://dbpedia.org/resource/John_Scofield' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' },
+        { value: 'dbr:Blue_Note_Jazz_Club',
+          href: 'http://dbpedia.org/resource/Blue_Note_Jazz_Club' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:releaseDate': [ { value: '2004-05-11 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '4428.000000 (xsd:double)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.discogs.com/John-Scofield-Trio-EnRoute-Live/release/1099866',
+          href: 'http://www.discogs.com/John-Scofield-Trio-EnRoute-Live/release/1099866' } ],
+     'dbo:wikiPageID': [ { value: '9158982 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '595573882 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Scofield',
+          href: 'http://dbpedia.org/resource/John_Scofield' } ],
+     'dbp:cover': [ { value: 'Enroute scofield live.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Post-bop',
+          href: 'http://dbpedia.org/resource/Post-bop' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:length': [ { value: '4428.0' } ],
+     'dbp:name': [ { value: 'EnRoute: John Scofield Trio LIVE (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:John_Scofield',
+          href: 'http://dbpedia.org/resource/John_Scofield' } ],
+     'dbp:recorded': [ { value: 'Live at The Blue Note, December 2003, New York City, New York, USA (en)' } ],
+     'dbp:released': [ { value: '--05-11' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2004_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2004_live_albums' },
+        { value: 'dbc:John_Scofield_live_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Scofield_live_albums' },
+        { value: 'dbc:Live_post-bop_albums',
+          href: 'http://dbpedia.org/resource/Category:Live_post-bop_albums' },
+        { value: 'dbc:Verve_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'EnRoute: John Scofield Trio LIVE is an album by John Scofield Trio recorded at the New York\'s Blue Note club in December 2003. (en)' } ],
+     'rdfs:label': [ { value: 'EnRoute: John Scofield Trio LIVE (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:EnRoute: John Scofield Trio LIVE',
+          href: 'http://rdf.freebase.com/ns/m.027zqby' },
+        { value: 'dbpedia-wikidata:EnRoute: John Scofield Trio LIVE',
+          href: 'http://wikidata.dbpedia.org/resource/Q5374940' },
+        { value: 'wikidata:EnRoute: John Scofield Trio LIVE',
+          href: 'http://www.wikidata.org/entity/Q5374940' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:EnRoute:_John_Scofield_Trio_LIVE?oldid=595573882',
+          href: 'http://en.wikipedia.org/wiki/EnRoute:_John_Scofield_Trio_LIVE?oldid=595573882' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:EnRoute:_John_Scofield_Trio_LIVE',
+          href: 'http://en.wikipedia.org/wiki/EnRoute:_John_Scofield_Trio_LIVE' } ],
+     'foaf:name': [ { value: 'EnRoute: John Scofield Trio LIVE (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:That\'s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles',
+          href: 'http://dbpedia.org/resource/That\'s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Up_All_Night_(John_Scofield_album)',
+          href: 'http://dbpedia.org/resource/Up_All_Night_(John_Scofield_album)' },
+        { value: 'dbr:Scorched_(album)',
+          href: 'http://dbpedia.org/resource/Scorched_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:EnRoute:_John_Scofield_Trio_LIVE',
+          href: 'http://en.wikipedia.org/wiki/EnRoute:_John_Scofield_Trio_LIVE' } ] } }

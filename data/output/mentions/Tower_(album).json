@@ -1,0 +1,8 @@
+{ name: 'Tower (album)',
+  href: 'http://en.wikipedia.org/wiki/Tower_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 534,
+       quote: [ 'Here Rintala repays the favour on a collection of six keyboard-led instrumentals, occasionally reminiscent of Bitches Brew era Miles Davis.' ] } ] }

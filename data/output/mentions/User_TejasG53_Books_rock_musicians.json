@@ -1,0 +1,8 @@
+{ name: 'User:TejasG53/Books/rock musicians',
+  href: 'http://en.wikipedia.org/wiki/User:TejasG53/Books/rock_musicians',
+  mentions: 
+   [ { sectionHeader: 'Rock Musicians',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 575,
+       quote: [ 'Miles Davis' ] } ] }

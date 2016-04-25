@@ -1,0 +1,50 @@
+{ name: 'Musical quotation',
+  entityType: 'Message106598915',
+  href: 'http://dbpedia.org/page/Musical_quotation',
+  values: 
+   { 'dbo:abstract': [ { value: 'Musical quotation is the practice of directly quoting another work in a new composition. The quotation may be from the same composer\'s work (self-referential), or from a different composer\'s work (appropriation). Sometimes the quotation is done for the purposes of characterization, as in Puccini\'s use of The Star-Spangled Banner in reference to the American character Lieutenant Pinkerton in his opera Madama Butterfly, or in Tchaikovsky\'s use of the Russian and French national anthems in the 1812 Overture, which depicted a battle between the Russian and French armies. Sometimes, there is no explicit characterization involved, as in Luciano Berio using brief quotes from Gustav Mahler, Claude Debussy, Maurice Ravel and others in his Sinfonia. (en)' } ],
+     'dbo:wikiPageID': [ { value: '21185034 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '552383647 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Classical_music_lists',
+          href: 'http://dbpedia.org/resource/Category:Classical_music_lists' },
+        { value: 'dbc:Musical_terminology',
+          href: 'http://dbpedia.org/resource/Category:Musical_terminology' },
+        { value: 'dbc:Musical_tributes_and_homages',
+          href: 'http://dbpedia.org/resource/Category:Musical_tributes_and_homages' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Approval106686736',
+          href: 'http://dbpedia.org/class/yago/Approval106686736' },
+        { value: 'yago:Communication100033020',
+          href: 'http://dbpedia.org/class/yago/Communication100033020' },
+        { value: 'yago:Message106598915',
+          href: 'http://dbpedia.org/class/yago/Message106598915' },
+        { value: 'yago:MusicalTributesAndHomages',
+          href: 'http://dbpedia.org/class/yago/MusicalTributesAndHomages' },
+        { value: 'yago:Tribute106697195',
+          href: 'http://dbpedia.org/class/yago/Tribute106697195' } ],
+     'rdfs:comment': [ { value: 'Musical quotation is the practice of directly quoting another work in a new composition. The quotation may be from the same composer\'s work (self-referential), or from a different composer\'s work (appropriation). (en)' } ],
+     'rdfs:label': [ { value: 'Musical quotation (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Musical quotation',
+          href: 'http://rdf.freebase.com/ns/m.05c319k' },
+        { value: 'dbpedia-wikidata:Musical quotation',
+          href: 'http://wikidata.dbpedia.org/resource/Q6942559' },
+        { value: 'wikidata:Musical quotation',
+          href: 'http://www.wikidata.org/entity/Q6942559' },
+        { value: 'yago-res:Musical quotation',
+          href: 'http://yago-knowledge.org/resource/Musical_quotation' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Musical_quotation?oldid=552383647',
+          href: 'http://en.wikipedia.org/wiki/Musical_quotation?oldid=552383647' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Musical_quotation',
+          href: 'http://en.wikipedia.org/wiki/Musical_quotation' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Musical_quotations',
+          href: 'http://dbpedia.org/resource/Musical_quotations' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Musical_quotation',
+          href: 'http://en.wikipedia.org/wiki/Musical_quotation' } ] } }

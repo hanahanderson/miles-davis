@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Version 0.5/Full list',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Version_0.5/Full_list',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] } ] }

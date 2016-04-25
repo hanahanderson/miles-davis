@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Today\'s featured article/September 28, 2005',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/September_28,_2005',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,66 @@
+{ name: 'National Recording Registry',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/National_Recording_Registry',
+  values: 
+   { 'dbo:abstract': [ { value: 'The National Recording Registry is a list of sound recordings that "are culturally, historically, or aesthetically important, and/or inform or reflect life in the United States." The registry was established by the National Recording Preservation Act of 2000, which created the National Recording Preservation Board, whose members are appointed by the Librarian of Congress. The recordings preserved in the United States National Recording Registry form a registry of recordings selected yearly by the National Recording Preservation Board for preservation in the Library of Congress.The legislative intent of the National Recording Preservation Act of 2000 was to develop a national program to guard America\'s sound recording heritage. The Act resulted in the formations of the National Recording Registry, The National Recording Preservation Board and a fund-raising foundation to aid their efforts. The act established the Registry specifically for the purpose of maintaining and preserving sound recordings and collections of sound recordings that are culturally, historically, or aesthetically significant. Beginning in 2002, the National Recording Preservation Board began selecting nominated recordings each year to be preserved.The first four yearly lists included 50 selections. However, since 2006, 25 recordings have been selected annually. Thus, a total of 425 recordings have been preserved in the Registry as of 2014. Each calendar year, public nominations are accepted for inclusion in that year\'s list of selections to be announced the following spring. Nominations are made in the following categories:Each yearly list has often included a few recordings that have also been selected for inclusion in the holdings of the National Archives\' audiovisual collection. Those recordings on the Library of Congress\' National Recording Registry that are of a political nature will tend to overlap with the audiovisual collection of the National Archives. The list shows overlapping items and whether the National Archives has an original or a copy of the recording. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Martin_Luther_King_-_March_on_Washington.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Martin_Luther_King_-_March_on_Washington.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.npr.org/templates/story/story.php?storyId=6392808',
+          href: 'http://www.npr.org/templates/story/story.php?storyId=6392808' },
+        { value: 'http://cylinders.library.ucsb.edu/homewax.php',
+          href: 'http://cylinders.library.ucsb.edu/homewax.php' },
+        { value: 'http://www.loc.gov/rr/record/nrpb/nrpb-home.html',
+          href: 'http://www.loc.gov/rr/record/nrpb/nrpb-home.html' },
+        { value: 'http://www.loc.gov/rr/record/nrpb/registry/nrpb-masterlist.html',
+          href: 'http://www.loc.gov/rr/record/nrpb/registry/nrpb-masterlist.html' } ],
+     'dbo:wikiPageID': [ { value: '5118050 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '669185593 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2000_establishments_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:2000_establishments_in_the_United_States' },
+        { value: 'dbc:Library_of_Congress',
+          href: 'http://dbpedia.org/resource/Category:Library_of_Congress' },
+        { value: 'dbc:United_States_history-related_lists',
+          href: 'http://dbpedia.org/resource/Category:United_States_history-related_lists' },
+        { value: 'dbc:Music-related_lists',
+          href: 'http://dbpedia.org/resource/Category:Music-related_lists' },
+        { value: 'dbc:Reference_material_lists',
+          href: 'http://dbpedia.org/resource/Category:Reference_material_lists' },
+        { value: 'dbc:United_States_National_Recording_Registry_recordings',
+          href: 'http://dbpedia.org/resource/Category:United_States_National_Recording_Registry_recordings' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'The National Recording Registry is a list of sound recordings that "are culturally, historically, or aesthetically important, and/or inform or reflect life in the United States." The registry was established by the National Recording Preservation Act of 2000, which created the National Recording Preservation Board, whose members are appointed by the Librarian of Congress. (en)' } ],
+     'rdfs:label': [ { value: 'National Recording Registry (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:National Recording Registry',
+          href: 'http://rdf.freebase.com/ns/m.0ch0jb' },
+        { value: 'dbpedia-fr:National Recording Registry',
+          href: 'http://fr.dbpedia.org/resource/Registre_national_des_enregistrements' },
+        { value: 'dbpedia-nl:National Recording Registry',
+          href: 'http://nl.dbpedia.org/resource/National_Recording_Registry' },
+        { value: 'dbpedia-wikidata:National Recording Registry',
+          href: 'http://wikidata.dbpedia.org/resource/Q253299' },
+        { value: 'wikidata:National Recording Registry',
+          href: 'http://www.wikidata.org/entity/Q253299' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:National_Recording_Registry?oldid=669185593',
+          href: 'http://en.wikipedia.org/wiki/National_Recording_Registry?oldid=669185593' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Martin_Luther_King_-_March_on_Washington.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Martin_Luther_King_-_March_on_Washington.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:National_Recording_Registry',
+          href: 'http://en.wikipedia.org/wiki/National_Recording_Registry' } ],
+     'is dbo:wikiPageDisambiguates\n of': [ { value: 'dbr:NRR', href: 'http://dbpedia.org/resource/NRR' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_recordings_preserved_in_the_United_States_National_Recording_Registry',
+          href: 'http://dbpedia.org/resource/List_of_recordings_preserved_in_the_United_States_National_Recording_Registry' },
+        { value: 'dbr:United_States_National_Recording_Registry',
+          href: 'http://dbpedia.org/resource/United_States_National_Recording_Registry' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:National_Recording_Registry',
+          href: 'http://en.wikipedia.org/wiki/National_Recording_Registry' } ] } }

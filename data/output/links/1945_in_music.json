@@ -1,0 +1,56 @@
+{ name: '1945 in music',
+  entityType: 'populated place',
+  href: 'http://dbpedia.org/page/1945_in_music',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of notable events in music that took place in the year 1945. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://tsort.info/music/yr1945.htm',
+          href: 'http://tsort.info/music/yr1945.htm' } ],
+     'dbo:wikiPageID': [ { value: '161111 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682995988 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:20th_century_in_music',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_music' },
+        { value: 'dbc:1945_in_music',
+          href: 'http://dbpedia.org/resource/Category:1945_in_music' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Place',
+          href: 'http://dbpedia.org/ontology/Place' },
+        { value: 'dbo:Location',
+          href: 'http://dbpedia.org/ontology/Location' },
+        { value: 'wikidata:Q486972',
+          href: 'http://www.wikidata.org/entity/Q486972' },
+        { value: 'dbo:PopulatedPlace',
+          href: 'http://dbpedia.org/ontology/PopulatedPlace' },
+        { value: 'schema:Place', href: 'http://schema.org/Place' } ],
+     'rdfs:comment': [ { value: 'This is a list of notable events in music that took place in the year 1945. (en)' } ],
+     'rdfs:label': [ { value: '1945 in music (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:1945 in music',
+          href: 'http://fr.dbpedia.org/resource/1945_en_musique' },
+        { value: 'dbpedia-cs:1945 in music',
+          href: 'http://cs.dbpedia.org/resource/1945_v_hudbě' },
+        { value: 'dbpedia-pl:1945 in music',
+          href: 'http://pl.dbpedia.org/resource/1945_w_muzyce' },
+        { value: 'dbpedia-pt:1945 in music',
+          href: 'http://pt.dbpedia.org/resource/1945_na_música' },
+        { value: 'dbpedia-wikidata:1945 in music',
+          href: 'http://wikidata.dbpedia.org/resource/Q385587' },
+        { value: 'wikidata:1945 in music',
+          href: 'http://www.wikidata.org/entity/Q385587' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1945_in_music?oldid=682995988',
+          href: 'http://en.wikipedia.org/wiki/1945_in_music?oldid=682995988' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1945_in_music',
+          href: 'http://en.wikipedia.org/wiki/1945_in_music' } ],
+     'is dbo:recordedIn\n of': 
+      [ { value: 'dbr:Selections_from_Going_My_Way',
+          href: 'http://dbpedia.org/resource/Selections_from_Going_My_Way' },
+        { value: 'dbr:Merry_Christmas_(Bing_Crosby_album)',
+          href: 'http://dbpedia.org/resource/Merry_Christmas_(Bing_Crosby_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1945_in_music',
+          href: 'http://en.wikipedia.org/wiki/1945_in_music' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Edda Magnason',
+  href: 'http://en.wikipedia.org/wiki/Edda_Magnason',
+  mentions: 
+   [ { sectionHeader: 'Film career',
+       sectionSubHeader: 'Collaboration',
+       sectionIndex: 25,
+       wordCountBeforeSection: 4331,
+       quote: [ 'The film follows Monica Zetterlund\'s early career, moving from small-town Sweden to the jazz clubs of New York and Stockholm, rubbing shoulders with such celebrities as Ella Fitzgerald and Miles Davis.' ] } ] }

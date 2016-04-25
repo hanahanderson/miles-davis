@@ -1,0 +1,8 @@
+{ name: 'List of Capitol Records artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_Capitol_Records_artists',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2802,
+       quote: [ 'Miles Davis* (Capitol Jazz)' ] } ] }

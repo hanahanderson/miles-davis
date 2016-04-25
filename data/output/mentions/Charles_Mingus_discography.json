@@ -1,0 +1,13 @@
+{ name: 'Charles Mingus discography',
+  href: 'http://en.wikipedia.org/wiki/Charles_Mingus_discography',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2992,
+       quote: [ 'Miles Davis at Birdland 1951 (with Miles Davis) (1951, Beppo)' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2992,
+       quote: [ 'Blue Moods (with Miles Davis) (1955, Prestige)' ] } ] }

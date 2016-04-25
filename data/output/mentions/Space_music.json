@@ -1,0 +1,13 @@
+{ name: 'Space music',
+  href: 'http://en.wikipedia.org/wiki/Space_music',
+  mentions: 
+   [ { sectionHeader: 'Historical usage of the term',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 11236,
+       quote: [ 'In 1969, Miles Davis was introduced to the music of Stockhausen by young arranger and cellist, and later Grammy award winner, Paul Buckmaster, leading to a period of new creative exploration for Davis.' ] },
+     { sectionHeader: 'Examples of artists who have been associated with space music',
+       sectionSubHeader: '',
+       sectionIndex: 43,
+       wordCountBeforeSection: 16582,
+       quote: [ 'Miles Davis - In a Silent Way' ] } ] }

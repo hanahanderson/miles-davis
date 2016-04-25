@@ -1,0 +1,8 @@
+{ name: 'A Conspiracy of Hope',
+  href: 'http://en.wikipedia.org/wiki/A_Conspiracy_of_Hope',
+  mentions: 
+   [ { sectionHeader: 'Performances',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3344,
+       quote: [ 'The following additional artists performed at this concert (in order): John Eddie (with guests Max Weinberg and 14 Karat Soul), Third World, The Hooters, Peter Paul & Mary, Little Steven (with guests Darlene Love and John Waite), Bob Geldof (also with guests Darlene Love, Paul Schaeffer, and John Waite), Stanley Jordan, Joan Armatrading, Jackson Browne, Rubén Blades (with Fela and Carlos Santana), Nona Hendryx, Yoko Ono, Howard Jones, and Miles Davis.' ] } ] }

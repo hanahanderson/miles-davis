@@ -1,0 +1,101 @@
+{ name: 'The Teddy Charles Tentet',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Teddy_Charles_Tentet',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '67.4' } ],
+     'dbo:abstract': [ { value: 'The Teddy Charles Tentet is a 1956 jazz album featuring a tentet led by multi-instrumentalist Teddy Charles. Critically well received, the album is listed as one of the "Core Collection" albums in The Penguin Guide to Jazz and an essential recording in 2000\'s The Essential Jazz Records: Modernism to Postmodernism. Released originally in high fidelity vinyl by Atlantic, the album has been reissued on CD and LP multiple times since 2001. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Teddy_Charles',
+          href: 'http://dbpedia.org/resource/Teddy_Charles' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Evolution_(Teddy_Charles_album)',
+          href: 'http://dbpedia.org/resource/Evolution_(Teddy_Charles_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Nesuhi_Ertegun' } ],
+     'dbo:recordDate': [ { value: '1956-01-06 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbo:runtime': [ { value: '4044.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Word_from_Bird',
+          href: 'http://dbpedia.org/resource/Word_from_Bird' } ],
+     'dbo:wikiPageID': [ { value: '37151400 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680180374 (xsd:integer)' } ],
+     'dbp:alt': [ { value: 'Dark photograph of Teddy Charles in a white short-sleeved dress shirt on a black background. Wearing sunglasses, he has his head averted. His body is striped, as by the shadows of a window blind. (en)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Teddy_Charles',
+          href: 'http://dbpedia.org/resource/Teddy_Charles' } ],
+     'dbp:cover': [ { value: 'Teddy Charles Tentet.jpg (en)' } ],
+     'dbp:genre': [ { value: 'Jazz (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Evolution (en)' } ],
+     'dbp:name': [ { value: 'The Teddy Charles Tentet (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Word from Bird (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Nesuhi_Ertegun' } ],
+     'dbp:recorded': [ { value: '1956-01-06 (xsd:date)' } ],
+     'dbp:released': [ { value: '1956 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:Billboard_(magazine)',
+          href: 'http://dbpedia.org/resource/Billboard_(magazine)' } ],
+     'dbp:rev2score': [ { value: 'Positive (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Teddy Charles Tentet (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1956_albums',
+          href: 'http://dbpedia.org/resource/Category:1956_albums' },
+        { value: 'dbc:Teddy_Charles_albums',
+          href: 'http://dbpedia.org/resource/Category:Teddy_Charles_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Teddy Charles Tentet is a 1956 jazz album featuring a tentet led by multi-instrumentalist Teddy Charles. Critically well received, the album is listed as one of the "Core Collection" albums in The Penguin Guide to Jazz and an essential recording in 2000\'s The Essential Jazz Records: Modernism to Postmodernism. Released originally in high fidelity vinyl by Atlantic, the album has been reissued on CD and LP multiple times since 2001. (en)' } ],
+     'rdfs:label': [ { value: 'The Teddy Charles Tentet (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Teddy Charles Tentet',
+          href: 'http://rdf.freebase.com/ns/m.049tmzg' },
+        { value: 'dbpedia-wikidata:The Teddy Charles Tentet',
+          href: 'http://wikidata.dbpedia.org/resource/Q7768249' },
+        { value: 'wikidata:The Teddy Charles Tentet',
+          href: 'http://www.wikidata.org/entity/Q7768249' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Teddy_Charles_Tentet?oldid=680180374',
+          href: 'http://en.wikipedia.org/wiki/The_Teddy_Charles_Tentet?oldid=680180374' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Teddy_Charles_Tentet',
+          href: 'http://en.wikipedia.org/wiki/The_Teddy_Charles_Tentet' } ],
+     'foaf:name': [ { value: 'The Teddy Charles Tentet (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Word_from_Bird',
+          href: 'http://dbpedia.org/resource/Word_from_Bird' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Evolution_(Teddy_Charles_album)',
+          href: 'http://dbpedia.org/resource/Evolution_(Teddy_Charles_album)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Teddy_Charles_Tentet',
+          href: 'http://dbpedia.org/resource/Teddy_Charles_Tentet' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Teddy_Charles_Tentet',
+          href: 'http://en.wikipedia.org/wiki/The_Teddy_Charles_Tentet' } ] } }

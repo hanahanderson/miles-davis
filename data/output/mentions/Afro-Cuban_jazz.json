@@ -1,0 +1,22 @@
+{ name: 'Afro-Cuban jazz',
+  href: 'http://en.wikipedia.org/wiki/Afro-Cuban_jazz',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 9441,
+       quote: [ '3 - The first band to explore modal harmony (a concept explored much later by Miles Davis and Gil Evans) from a jazz arranging perspective through their recording of "Tanga." Of note is the sheet of sound effect in the arrangement through the use of multiple layering.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 20903,
+       quote: 
+        [ 'doing that thing Miles Davis was doing—playing themes and just improvising on the themes of songs, and we never stopped playing through the whole set." While in Palmieri\'s band the Gonzalez brothers started showing up in the Down Beat Reader\'s Poll.',
+          'Libre recorded Charlie Parker\'s "Donna Lee" as a danzón, Miles Davis\'s "Tune Up" as a conga de comparsa, and Freddie Hubbard\'s "Little Sunflower" as a mambo.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 20903,
+       quote: 
+        [ 'doing that thing Miles Davis was doing—playing themes and just improvising on the themes of songs, and we never stopped playing through the whole set." While in Palmieri\'s band the Gonzalez brothers started showing up in the Down Beat Reader\'s Poll.',
+          'Libre recorded Charlie Parker\'s "Donna Lee" as a danzón, Miles Davis\'s "Tune Up" as a conga de comparsa, and Freddie Hubbard\'s "Little Sunflower" as a mambo.' ] } ] }

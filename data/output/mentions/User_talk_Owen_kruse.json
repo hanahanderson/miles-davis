@@ -1,0 +1,27 @@
+{ name: 'User talk:Owen kruse',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Owen_kruse',
+  mentions: 
+   [ { sectionHeader: 'January 2015',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 18,
+       quote: [ 'I wanted to let you know that I undid one of your recent contributions —the one you made with this edit to Miles Davis— because it didn’t appear constructive to me.' ] },
+     { sectionHeader: 'January 2015',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 377,
+       quote: [ ' Please refrain from making nonconstructive edits to Wikipedia, as you did at Miles Davis with this edit.' ] },
+     { sectionHeader: 'January 2015',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 787,
+       quote: 
+        [ 'If you continue to vandalize Wikipedia, as you did at Miles Davis, you may be blocked from editing.',
+          'The following is the log entry regarding this vandalism: Miles Davis was changed by Owen kruse (u) (t) ANN scored at 0.96506 on 2015-01-29T20:13:27+00:00 .' ] },
+     { sectionHeader: 'January 2015',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 787,
+       quote: 
+        [ 'If you continue to vandalize Wikipedia, as you did at Miles Davis, you may be blocked from editing.',
+          'The following is the log entry regarding this vandalism: Miles Davis was changed by Owen kruse (u) (t) ANN scored at 0.96506 on 2015-01-29T20:13:27+00:00 .' ] } ] }

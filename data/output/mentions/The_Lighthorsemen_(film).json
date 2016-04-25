@@ -1,0 +1,8 @@
+{ name: 'The Lighthorsemen (film)',
+  href: 'http://en.wikipedia.org/wiki/The_Lighthorsemen_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 37,
+       wordCountBeforeSection: 10375,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

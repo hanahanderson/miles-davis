@@ -1,0 +1,50 @@
+{ name: 'Drug user',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Drug_user',
+  values: 
+   { 'dbo:abstract': [ { value: 'The term “drug user” can describe an individual who uses a substance that can change how their body and mind works. Types of drug users include recreational drug user and prescription drug user. The use of illegal drugs are known to cause hallucinations, depression, and many other medical problems and side effects. Prescription drugs are commonly known as Off- label use and may also cause medical issues and even death. The term drug user refers to the taking of a drug, either by swallowing, smoking, injecting or any other way of getting the drug into the blood stream. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Joint(detail).jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joint(detail).jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.youtube.com/watch?v=y3MJxpEfSXI',
+          href: 'http://www.youtube.com/watch?v=y3MJxpEfSXI' } ],
+     'dbo:wikiPageID': [ { value: '25475760 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680831242 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Drug_culture',
+          href: 'http://dbpedia.org/resource/Category:Drug_culture' },
+        { value: 'dbc:Illegal_drug_trade',
+          href: 'http://dbpedia.org/resource/Category:Illegal_drug_trade' } ],
+     'rdfs:comment': [ { value: 'The term “drug user” can describe an individual who uses a substance that can change how their body and mind works. Types of drug users include recreational drug user and prescription drug user. The use of illegal drugs are known to cause hallucinations, depression, and many other medical problems and side effects. Prescription drugs are commonly known as Off- label use and may also cause medical issues and even death. (en)' } ],
+     'rdfs:label': [ { value: 'Drug user (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-es:Drug user',
+          href: 'http://es.dbpedia.org/resource/Consumidor_(drogas)' },
+        { value: 'dbpedia-wikidata:Drug user',
+          href: 'http://wikidata.dbpedia.org/resource/Q5308931' },
+        { value: 'freebase:Drug user',
+          href: 'http://rdf.freebase.com/ns/m.09rw8vv' },
+        { value: 'wikidata:Drug user',
+          href: 'http://www.wikidata.org/entity/Q5308931' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Drug_user?oldid=680831242',
+          href: 'http://en.wikipedia.org/wiki/Drug_user?oldid=680831242' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Joint(detail).jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joint(detail).jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Drug_user',
+          href: 'http://en.wikipedia.org/wiki/Drug_user' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Drug_use',
+          href: 'http://dbpedia.org/resource/Drug_use' },
+        { value: 'dbr:User', href: 'http://dbpedia.org/resource/User' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Methhead',
+          href: 'http://dbpedia.org/resource/Methhead' },
+        { value: 'dbr:User_(drug)',
+          href: 'http://dbpedia.org/resource/User_(drug)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Drug_user',
+          href: 'http://en.wikipedia.org/wiki/Drug_user' } ] } }

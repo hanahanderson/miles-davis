@@ -1,0 +1,13 @@
+{ name: 'Ornette Coleman',
+  href: 'http://en.wikipedia.org/wiki/Ornette_Coleman',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 4751,
+       quote: [ 'Trumpeter Miles Davis famously declared Coleman was "all screwed up inside", although Davis later recanted this comment and became a proponent of Coleman\'s musical innovations.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 42,
+       wordCountBeforeSection: 14413,
+       quote: [ 'On July 9, 2009, Coleman received the Miles Davis Award, a recognition given by the Festival International de Jazz de Montréal to musicians who have contributed to continuing the tradition of jazz.' ] } ] }

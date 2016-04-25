@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Today\'s featured article/September 29, 2005',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Today%27s_featured_article/September_29,_2005',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

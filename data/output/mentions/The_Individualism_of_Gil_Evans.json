@@ -1,0 +1,13 @@
+{ name: 'The Individualism of Gil Evans',
+  href: 'http://en.wikipedia.org/wiki/The_Individualism_of_Gil_Evans',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 328,
+       quote: [ 'It features Evans\' big band arrangements of five original compositions (two cowritten with Miles Davis) and compositions by Kurt Weill, Bob Dorough, John Lewis and Willie Dixon.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1059,
+       quote: [ '"Time of the Barracudas" (Miles Davis, Gil Evans) – 7:26' ] } ] }

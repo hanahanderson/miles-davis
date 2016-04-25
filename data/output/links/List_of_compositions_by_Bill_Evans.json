@@ -1,0 +1,26 @@
+{ name: 'List of compositions by Bill Evans',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_compositions_by_Bill_Evans',
+  values: 
+   { 'dbo:abstract': [ { value: 'This list contains the known compositions of Bill Evans. It is likely that some of his works have not survived or remain unpublished, for example, a piece titled "Very Little Suite", an assignment composed during his college years. (en)' } ],
+     'dbo:wikiPageID': [ { value: '36540642 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '650280047 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_compositions_by_composer',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_compositions_by_composer' } ],
+     'rdfs:comment': [ { value: 'This list contains the known compositions of Bill Evans. It is likely that some of his works have not survived or remain unpublished, for example, a piece titled "Very Little Suite", an assignment composed during his college years. (en)' } ],
+     'rdfs:label': [ { value: 'List of compositions by Bill Evans (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of compositions by Bill Evans',
+          href: 'http://wikidata.dbpedia.org/resource/Q6612649' },
+        { value: 'wikidata:List of compositions by Bill Evans',
+          href: 'http://www.wikidata.org/entity/Q6612649' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_compositions_by_Bill_Evans?oldid=650280047',
+          href: 'http://en.wikipedia.org/wiki/List_of_compositions_by_Bill_Evans?oldid=650280047' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_compositions_by_Bill_Evans',
+          href: 'http://en.wikipedia.org/wiki/List_of_compositions_by_Bill_Evans' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_compositions_by_Bill_Evans',
+          href: 'http://en.wikipedia.org/wiki/List_of_compositions_by_Bill_Evans' } ] } }

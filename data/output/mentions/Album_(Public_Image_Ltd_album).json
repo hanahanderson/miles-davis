@@ -1,0 +1,8 @@
+{ name: 'Album (Public Image Ltd album)',
+  href: 'http://en.wikipedia.org/wiki/Album_(Public_Image_Ltd_album)',
+  mentions: 
+   [ { sectionHeader: 'Recording sessions',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 5495,
+       quote: [ 'He said that Miles Davis came into the studio while the album was being recorded and commented that Lydon sang like Davis played the trumpet.' ] } ] }

@@ -1,0 +1,44 @@
+{ name: 'Timeline of music in the United States (1950–69)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Timeline_of_music_in_the_United_States_(1950%E2%80%9369)',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a timeline of music in the United States from 1950 to 1969. (en)' } ],
+     'dbo:wikiPageID': [ { value: '15758169 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679101626 (xsd:integer)' } ],
+     'dbp:bot': [ { value: 'H3llBot (en)' } ],
+     'dbp:date': [ { value: 'October 2010 (en)' } ],
+     'dbp:endyear': [ { value: '1969 (xsd:integer)' } ],
+     'dbp:startyear': [ { value: '1950 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Timelines_of_American_music',
+          href: 'http://dbpedia.org/resource/Category:Timelines_of_American_music' },
+        { value: 'dbc:20th_century_in_music',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_music' } ],
+     'rdfs:comment': [ { value: 'This is a timeline of music in the United States from 1950 to 1969. (en)' } ],
+     'rdfs:label': [ { value: 'Timeline of music in the United States (1950–69) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Timeline of music in the United States (1950–69)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7806121' },
+        { value: 'wikidata:Timeline of music in the United States (1950–69)',
+          href: 'http://www.wikidata.org/entity/Q7806121' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1950–69)?oldid=679101626',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1950–69)?oldid=679101626' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1950–69)',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1950–69)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Timeline_of_music_in_the_United_States_(1950-1969)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1950-1969)' },
+        { value: 'dbr:Timeline_of_music_in_the_United_States_(1950_–_1969)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1950_–_1969)' },
+        { value: 'dbr:Timeline_of_music_in_the_United_States_(1950_-_1969)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1950_-_1969)' },
+        { value: 'dbr:Timeline_of_music_in_the_United_States_(1950–1969)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1950–1969)' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Timeline of music in the United States (1950–69)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1950%E2%80%9369)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1950–69)',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1950–69)' } ] } }

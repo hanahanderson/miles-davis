@@ -1,0 +1,13 @@
+{ name: 'Whispering (song)',
+  href: 'http://en.wikipedia.org/wiki/Whispering_(song)',
+  mentions: 
+   [ { sectionHeader: 'Selected discography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3437,
+       quote: [ 'The Miles Davis Sextet, Prestige 742 (1951); OCLC 31875098 (original release)' ] },
+     { sectionHeader: 'Selected discography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3437,
+       quote: [ 'Miles Davis (trumpet), Bennie Green (trombone), Sonny Rollins (tenor sax), John Lewis (piano), Percy Heath (bass), Roy Haynes (drums)' ] } ] }

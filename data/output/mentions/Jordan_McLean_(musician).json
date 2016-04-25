@@ -1,0 +1,8 @@
+{ name: 'Jordan McLean (musician)',
+  href: 'http://en.wikipedia.org/wiki/Jordan_McLean_(musician)',
+  mentions: 
+   [ { sectionHeader: 'System Dialing Records',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 5731,
+       quote: [ 'Together they formed the electro-acoustic group DROID which features such esteemed musicians as the world renowned Brazilian percussionist Cyro Baptista and former Miles Davis music director Adam Holzman.' ] } ] }

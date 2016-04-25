@@ -1,0 +1,8 @@
+{ name: 'Stephanie Winters',
+  href: 'http://en.wikipedia.org/wiki/Stephanie_Winters',
+  mentions: 
+   [ { sectionHeader: 'Recordings',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3026,
+       quote: [ 'Other tracks include pieces by Béla Bartók, Miles Davis, Ornette Coleman, Carlos Paredes, Thomas A.' ] } ] }

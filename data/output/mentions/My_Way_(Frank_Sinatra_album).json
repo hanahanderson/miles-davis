@@ -1,0 +1,8 @@
+{ name: 'My Way (Frank Sinatra album)',
+  href: 'http://en.wikipedia.org/wiki/My_Way_(Frank_Sinatra_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1719,
+       quote: [ 'The article discussed Bono\'s personal relationship with Sinatra, and Sinatra\'s thoughts on Miles Davis.' ] } ] }

@@ -1,0 +1,104 @@
+{ name: 'Seven Steps to Heaven (composition)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Seven_Steps_to_Heaven_(composition)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '6.433333333333334' } ],
+     'dbo:abstract': [ { value: '"Seven Steps to Heaven" is a 1963 jazz composition by the English jazz pianist Victor Feldman and the jazz trumpeter Miles Davis. Different lyrics to it were written much later by singer Cassandra Wilson and jazz lyricist and singer Jon Hendricks. This iconic jazz standard was introduced in 1963 by the Miles Davis Quintet. Although Feldman played and recorded with Davis in Los Angeles on Seven Steps to Heaven, and he appears on half of the tracks of the album, the West Coast-based pianist did not want to follow Davis to New York, where the album version of the composition was finally recorded with Herbie Hancock on piano. (en)' } ],
+     'dbo:album': 
+      [ { value: 'dbr:Seven_Steps_to_Heaven',
+          href: 'http://dbpedia.org/resource/Seven_Steps_to_Heaven' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:composer': 
+      [ { value: 'dbr:Victor_Feldman',
+          href: 'http://dbpedia.org/resource/Victor_Feldman' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Teo_Macero',
+          href: 'http://dbpedia.org/resource/Teo_Macero' } ],
+     'dbo:recordDate': [ { value: '1963-05-14 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:runtime': [ { value: '386.000000 (xsd:double)' } ],
+     'dbo:trackNumber': [ { value: '2 (xsd:integer)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.learnjazzstandards.com/learning-jazz/seven-steps-to-heaven-guest-post-by-brent-jensen-part-2/',
+          href: 'http://www.learnjazzstandards.com/learning-jazz/seven-steps-to-heaven-guest-post-by-brent-jensen-part-2/' } ],
+     'dbo:wikiPageID': [ { value: '35950780 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '588476260 (xsd:integer)' } ],
+     'dbp:album': 
+      [ { value: 'dbr:Seven_Steps_to_Heaven',
+          href: 'http://dbpedia.org/resource/Seven_Steps_to_Heaven' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:composer': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' },
+        { value: 'dbr:Victor_Feldman',
+          href: 'http://dbpedia.org/resource/Victor_Feldman' } ],
+     'dbp:cover': [ { value: 'Seven Steps to Heaven cover.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:name': [ { value: 'Seven Steps to Heaven (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Teo_Macero',
+          href: 'http://dbpedia.org/resource/Teo_Macero' } ],
+     'dbp:recorded': [ { value: '1963-05-14 (xsd:date)' } ],
+     'dbp:released': [ { value: '1963 (xsd:integer)' } ],
+     'dbp:trackNo': [ { value: '2 (xsd:integer)' } ],
+     'dbp:tracks': [ { value: '#"Basin Street Blues"\n#"Seven Steps to Heaven"\n#"I Fall in Love Too Easily"\n#"So Near, So Far"\n#"Baby Won\'t You Please Come Home"\n#"Joshua" (en)' } ],
+     'dbp:type': [ { value: 'Composition (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1963_songs',
+          href: 'http://dbpedia.org/resource/Category:1963_songs' },
+        { value: 'dbc:Songs_with_lyrics_by_Jon_Hendricks',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_lyrics_by_Jon_Hendricks' },
+        { value: 'dbc:1960s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1960s_jazz_standards' },
+        { value: 'dbc:Compositions_by_Miles_Davis',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_Miles_Davis' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Song', href: 'http://dbpedia.org/ontology/Song' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicRecording',
+          href: 'http://schema.org/MusicRecording' } ],
+     'rdfs:comment': [ { value: '"Seven Steps to Heaven" is a 1963 jazz composition by the English jazz pianist Victor Feldman and the jazz trumpeter Miles Davis. Different lyrics to it were written much later by singer Cassandra Wilson and jazz lyricist and singer Jon Hendricks. This iconic jazz standard was introduced in 1963 by the Miles Davis Quintet. (en)' } ],
+     'rdfs:label': [ { value: 'Seven Steps to Heaven (composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Seven Steps to Heaven (composition)',
+          href: 'http://rdf.freebase.com/ns/m.0jwrcg6' },
+        { value: 'dbpedia-wikidata:Seven Steps to Heaven (composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7457476' },
+        { value: 'wikidata:Seven Steps to Heaven (composition)',
+          href: 'http://www.wikidata.org/entity/Q7457476' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Seven_Steps_to_Heaven_(composition)?oldid=588476260',
+          href: 'http://en.wikipedia.org/wiki/Seven_Steps_to_Heaven_(composition)?oldid=588476260' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Seven_Steps_to_Heaven_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Seven_Steps_to_Heaven_(composition)' } ],
+     'foaf:name': [ { value: 'Seven Steps to Heaven (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Seven_Steps_To_Heaven_(composition)',
+          href: 'http://dbpedia.org/resource/Seven_Steps_To_Heaven_(composition)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Seven_Steps_to_Heaven',
+          href: 'http://dbpedia.org/resource/Seven_Steps_to_Heaven' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Seven_Steps_to_Heaven_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Seven_Steps_to_Heaven_(composition)' } ] } }

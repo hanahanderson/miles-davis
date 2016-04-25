@@ -1,0 +1,8 @@
+{ name: 'Lonesome, On\'ry and Mean',
+  href: 'http://en.wikipedia.org/wiki/Lonesome,_On%27ry_and_Mean',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1716,
+       quote: [ 'It was Albright who arranged a meeting with Neil Reshen, a business manager at the rock magazine Creem who handled the careers of jazz legend Miles Davis and rock iconoclast Frank Zappa.' ] } ] }

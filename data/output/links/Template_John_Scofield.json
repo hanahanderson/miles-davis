@@ -1,0 +1,14 @@
+{ name: 'Template:John Scofield',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:John_Scofield',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '9902629 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '650333834 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q20359909',
+          href: 'http://wikidata.dbpedia.org/resource/Q20359909' },
+        { value: 'wikidata:Q20359909',
+          href: 'http://www.wikidata.org/entity/Q20359909' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:John_Scofield?oldid=650333834',
+          href: 'http://en.wikipedia.org/wiki/Template:John_Scofield?oldid=650333834' } ] } }

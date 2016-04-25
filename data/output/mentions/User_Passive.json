@@ -1,0 +1,8 @@
+{ name: 'User:Passive',
+  href: 'http://en.wikipedia.org/wiki/User:Passive',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 48,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

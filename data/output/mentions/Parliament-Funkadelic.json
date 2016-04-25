@@ -1,0 +1,8 @@
+{ name: 'Parliament-Funkadelic',
+  href: 'http://en.wikipedia.org/wiki/Parliament-Funkadelic',
+  mentions: 
+   [ { sectionHeader: 'Key members',
+       sectionSubHeader: 'Modern day Parliament-Funkadelic',
+       sectionIndex: 48,
+       wordCountBeforeSection: 17472,
+       quote: [ 'After also working briefly for Miles Davis, Fulwood died of cancer in 1979.' ] } ] }

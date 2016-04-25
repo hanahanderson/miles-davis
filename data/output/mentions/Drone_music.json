@@ -1,0 +1,8 @@
+{ name: 'Drone music',
+  href: 'http://en.wikipedia.org/wiki/Drone_music',
+  mentions: 
+   [ { sectionHeader: 'Examples',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 11278,
+       quote: [ 'On Miles Davis\' Agharta (1975): the last 6 minutes of the last track, especially the last 2 minutes.' ] } ] }

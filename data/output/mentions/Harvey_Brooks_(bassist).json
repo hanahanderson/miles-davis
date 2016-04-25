@@ -1,0 +1,18 @@
+{ name: 'Harvey Brooks (bassist)',
+  href: 'http://en.wikipedia.org/wiki/Harvey_Brooks_(bassist)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 241,
+       quote: [ 'Bob Dylan, Clarence Clemons and the Red Bank Rockers, Miles Davis, The Doors, Electric Flag, Richie Havens, Seals & Crofts, Fontella Bass, Cass Elliott, Al Kooper, Fabulous Rhinestones, Donald Fagen\'s the New York Rock and Soul Revue' ] },
+     { sectionHeader: 'Blues-rock and jazz fusion era',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3633,
+       quote: [ 'After buying a loft in what was to become Soho, Brooks got a call from Vice president of Columbia records Jack Gold offering him a job as staff producer at Columbia Records and connected him there with fellow producer Teo Macero who led him to Miles Davis.' ] },
+     { sectionHeader: 'Blues-rock and jazz fusion era',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4902,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Asha Puthli',
+  href: 'http://en.wikipedia.org/wiki/Asha_Puthli',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 573,
+       quote: [ 'Her recordings, which span styles like blues, pop, rock, soul, funk, disco, and techno, have been produced by the likes of Del Newman (who has produced Elton John and Cat Stevens), and Teo Macero (who has produced Miles Davis and Vernon Reid).' ] } ] }

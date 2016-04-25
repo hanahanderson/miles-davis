@@ -1,0 +1,49 @@
+{ name: 'Alone Together (1932 song)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Alone_Together_(1932_song)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Alone Together" is a song composed by Arthur Schwartz with lyrics by Howard Dietz. It was introduced in the Broadway musical Flying Colors in 1932 by Jean Sargent.The song soon became a hit, with Leo Reisman and His Orchestra\'s 1932 recording being the first to reach the charts. It is the most popular of Schwartz and Dietz\'s collaborations and has become a jazz standard. The first jazz artist to record the song was Artie Shaw in 1939. (en)' } ],
+     'dbo:wikiPageID': [ { value: '22669299 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683794439 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Judy_Garland_songs',
+          href: 'http://dbpedia.org/resource/Category:Judy_Garland_songs' },
+        { value: 'dbc:Ella_Fitzgerald_songs',
+          href: 'http://dbpedia.org/resource/Category:Ella_Fitzgerald_songs' },
+        { value: 'dbc:Songs_with_lyrics_by_Howard_Dietz',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_lyrics_by_Howard_Dietz' },
+        { value: 'dbc:Songs_with_music_by_Arthur_Schwartz',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_music_by_Arthur_Schwartz' },
+        { value: 'dbc:1930s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1930s_jazz_standards' },
+        { value: 'dbc:1932_songs',
+          href: 'http://dbpedia.org/resource/Category:1932_songs' } ],
+     'rdfs:comment': [ { value: '"Alone Together" is a song composed by Arthur Schwartz with lyrics by Howard Dietz. It was introduced in the Broadway musical Flying Colors in 1932 by Jean Sargent.The song soon became a hit, with Leo Reisman and His Orchestra\'s 1932 recording being the first to reach the charts. It is the most popular of Schwartz and Dietz\'s collaborations and has become a jazz standard. The first jazz artist to record the song was Artie Shaw in 1939. (en)' } ],
+     'rdfs:label': [ { value: 'Alone Together (1932 song) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Alone Together (1932 song)',
+          href: 'http://rdf.freebase.com/ns/m.05zlv1g' },
+        { value: 'dbpedia-wikidata:Alone Together (1932 song)',
+          href: 'http://wikidata.dbpedia.org/resource/Q4734404' },
+        { value: 'wikidata:Alone Together (1932 song)',
+          href: 'http://www.wikidata.org/entity/Q4734404' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Alone_Together_(1932_song)?oldid=683794439',
+          href: 'http://en.wikipedia.org/wiki/Alone_Together_(1932_song)?oldid=683794439' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Alone_Together_(1932_song)',
+          href: 'http://en.wikipedia.org/wiki/Alone_Together_(1932_song)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Alone_Together',
+          href: 'http://dbpedia.org/resource/Alone_Together' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Alone_Together_(song)',
+          href: 'http://dbpedia.org/resource/Alone_Together_(song)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Judy_at_Carnegie_Hall',
+          href: 'http://dbpedia.org/resource/Judy_at_Carnegie_Hall' },
+        { value: 'dbr:Dinah_Jams',
+          href: 'http://dbpedia.org/resource/Dinah_Jams' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Alone_Together_(1932_song)',
+          href: 'http://en.wikipedia.org/wiki/Alone_Together_(1932_song)' } ] } }

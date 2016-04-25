@@ -1,0 +1,8 @@
+{ name: 'Talk:Cynthia Robinson',
+  href: 'http://en.wikipedia.org/wiki/Talk:Cynthia_Robinson',
+  mentions: 
+   [ { sectionHeader: 'Untitled',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1830,
+       quote: [ 'I reworded "the first black trumpeter in a major American band"; Miles Davis or Louis Armstrong, for example, had major American bands.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Five Deez',
+  href: 'http://en.wikipedia.org/wiki/Five_Deez',
+  mentions: 
+   [ { sectionHeader: 'Style/Influence',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2912,
+       quote: [ 'They have described their inspiration and influences as coming from such artists as: Prince, Steely Dan, Miles Davis, the Neptunes, Kraftwerk and others.' ] } ] }

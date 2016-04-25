@@ -1,0 +1,8 @@
+{ name: 'User:Kenwood Dennard',
+  href: 'http://en.wikipedia.org/wiki/User:Kenwood_Dennard',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 403,
+       quote: [ 'Since then, Kenwood has recorded and performed with numerous artists such as Phish, Sting, Maceo Parker, Jaco Pastorius, Pat Martino, Brand X, Stanley Jordan, Miles Davis, Dizzy Gillespie and Wayne Shorter.' ] } ] }

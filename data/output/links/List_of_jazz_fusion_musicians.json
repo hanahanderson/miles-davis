@@ -1,0 +1,43 @@
+{ name: 'List of jazz fusion musicians',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_jazz_fusion_musicians',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following are notable jazz fusion performers or bands.For performers of smooth jazz, a more radio-friendly, pop-infused variant of fusion, see List of smooth jazz performers. (en)' } ],
+     'dbo:wikiPageID': [ { value: '4624999 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683244169 (xsd:integer)' } ],
+     'dbp:custom': 
+      [ { value: 'Bassists (en)' },
+        { value: 'Guitarists (en)' },
+        { value: 'Keyboardists (en)' },
+        { value: 'Saxophonists (en)' },
+        { value: 'Bands (en)' },
+        { value: 'Drummers and Percussionists (en)' },
+        { value: 'Other Instruments (en)' },
+        { value: 'Trumpeters and Flugelhornists (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_fusion_musicians',
+          href: 'http://dbpedia.org/resource/Category:Jazz_fusion_musicians' },
+        { value: 'dbc:Lists_of_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_jazz_musicians' },
+        { value: 'dbc:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Category:Jazz_fusion' } ],
+     'rdfs:comment': [ { value: 'The following are notable jazz fusion performers or bands.For performers of smooth jazz, a more radio-friendly, pop-infused variant of fusion, see List of smooth jazz performers. (en)' } ],
+     'rdfs:label': [ { value: 'List of jazz fusion musicians (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of jazz fusion musicians',
+          href: 'http://wikidata.dbpedia.org/resource/Q6624540' },
+        { value: 'wikidata:List of jazz fusion musicians',
+          href: 'http://www.wikidata.org/entity/Q6624540' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_jazz_fusion_musicians?oldid=683244169',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_fusion_musicians?oldid=683244169' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_jazz_fusion_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_fusion_musicians' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_jazz_fusion_artists',
+          href: 'http://dbpedia.org/resource/List_of_jazz_fusion_artists' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_jazz_fusion_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_fusion_musicians' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Music of Chicago',
+  href: 'http://en.wikipedia.org/wiki/Music_of_Chicago',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 6140,
+       quote: [ 'Famous festival performers include Miles Davis, Sonny Rollins, Ornette Coleman, Benny Carter, Ella Fitzgerald, Anthony Braxton, Betty Carter, Lionel Hampton, Chico O\'Farrill\'s big band, Jimmy Dawkins, Von Freeman, Johnny Frigo, Slide Hampton, and Roy Haynes.' ] } ] }

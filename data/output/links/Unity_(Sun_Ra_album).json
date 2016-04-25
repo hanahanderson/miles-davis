@@ -1,0 +1,70 @@
+{ name: 'Unity (Sun Ra album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Unity_(Sun_Ra_album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Unity is a live double album by jazz composer, bandleader and keyboardist Sun Ra and his Arkestra recorded in 1977 and originally released on the Italian Horo label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Sun_Ra',
+          href: 'http://dbpedia.org/resource/Sun_Ra' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Free_jazz',
+          href: 'http://dbpedia.org/resource/Free_jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Taking_a_Chance_on_Chances',
+          href: 'http://dbpedia.org/resource/Taking_a_Chance_on_Chances' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Horo_Records',
+          href: 'http://dbpedia.org/resource/Horo_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Piano_Recital_-_Teatro_La_Fenice,_Venezia',
+          href: 'http://dbpedia.org/resource/Piano_Recital_-_Teatro_La_Fenice,_Venezia' } ],
+     'dbo:wikiPageID': [ { value: '43213144 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '651742228 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1978_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1978_live_albums' },
+        { value: 'dbc:Sun_Ra_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Sun_Ra_live_albums' },
+        { value: 'dbc:Horo_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Horo_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Unity is a live double album by jazz composer, bandleader and keyboardist Sun Ra and his Arkestra recorded in 1977 and originally released on the Italian Horo label. (en)' } ],
+     'rdfs:label': [ { value: 'Unity (Sun Ra album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Unity (Sun Ra album)',
+          href: 'http://rdf.freebase.com/ns/m.04ckyp2' },
+        { value: 'dbpedia-wikidata:Unity (Sun Ra album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17509500' },
+        { value: 'wikidata:Unity (Sun Ra album)',
+          href: 'http://www.wikidata.org/entity/Q17509500' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Unity_(Sun_Ra_album)?oldid=651742228',
+          href: 'http://en.wikipedia.org/wiki/Unity_(Sun_Ra_album)?oldid=651742228' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Unity_(Sun_Ra_album)',
+          href: 'http://en.wikipedia.org/wiki/Unity_(Sun_Ra_album)' } ],
+     'foaf:name': [ { value: 'Unity (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Unity',
+          href: 'http://dbpedia.org/resource/Unity' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Unity_(Sun_Ra_album)',
+          href: 'http://en.wikipedia.org/wiki/Unity_(Sun_Ra_album)' } ] } }

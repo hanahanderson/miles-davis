@@ -1,0 +1,13 @@
+{ name: 'I Remember Miles',
+  href: 'http://en.wikipedia.org/wiki/I_Remember_Miles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 311,
+       quote: [ 'I Remember Miles is a 1998 studio album by Shirley Horn, recorded in tribute to Miles Davis.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1301,
+       quote: [ '"Blue in Green" (Miles Davis, Bill Evans, Al Jarreau) – 5:59' ] } ] }

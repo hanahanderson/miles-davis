@@ -1,0 +1,8 @@
+{ name: 'User:William Clements',
+  href: 'http://en.wikipedia.org/wiki/User:William_Clements',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Interests:\nphenomenology/existentialism: Martin Heidegger via Hubert Dryfus\nmultiple moral philosophies/rationality: Alasdair MacIntyre\nAmerican political conservatism: The New Criterion, National Review\n20th century music: Edgard Varèse, Phillip Glass\nthe avant-garde in popular music: Miles Davis, Frank Zappa, Bob Dylan' ] } ] }

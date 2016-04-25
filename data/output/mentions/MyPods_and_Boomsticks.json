@@ -1,0 +1,8 @@
+{ name: 'MyPods and Boomsticks',
+  href: 'http://en.wikipedia.org/wiki/MyPods_and_Boomsticks',
+  mentions: 
+   [ { sectionHeader: 'Cultural references',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 5504,
+       quote: [ 'The episode features Minnie Riperton\'s song "Lovin\' You" and Miles Davis\' "Moon Drams", while the episode\'s Itchy & Scratchy cartoon features Ludwig van Beethoven\'s "Symphony No. 5" and the Alicia Bridges song "I Love the Nightlife".' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Rob Hyman',
+  href: 'http://en.wikipedia.org/wiki/Rob_Hyman',
+  mentions: 
+   [ { sectionHeader: 'Other musical projects',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 3477,
+       quote: [ 'The song went on to be covered by over 100 artists including Miles Davis, Willie Nelson, Matchbox 20, Everything But The Girl and Cassandra Wilson.' ] } ] }

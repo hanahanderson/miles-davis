@@ -1,0 +1,13 @@
+{ name: 'Bent Jædig',
+  href: 'http://en.wikipedia.org/wiki/Bent_J%C3%A6dig',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1403,
+       quote: [ 'In the 80ern he was also member of the Erling Kroner Tentet; he played th Danish radio big band (conducted by Palle Mikkelborg), recording the Miles Davis album Aura.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1403,
+       quote: [] } ] }

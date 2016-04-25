@@ -1,0 +1,13 @@
+{ name: 'Talk:Coltrane changes',
+  href: 'http://en.wikipedia.org/wiki/Talk:Coltrane_changes',
+  mentions: 
+   [ { sectionHeader: 'First appearance of coltrane changes',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2115,
+       quote: [ 'Coltrane appears to have been using the changes with Miles Davis and Thelonious Monk, at least two years prior to Giant Steps. --Viriditas | Talk 13:07, 1 Jan 2005 (UTC)' ] },
+     { sectionHeader: 'First appearance of coltrane changes',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2400,
+       quote: [ 'According to music critic Ira Gitler , musician McCoy Tyner, and John Coltrane himself , Coltrane began playing the sheets of sound/matrix/changes in the late \'50\'s (1957-1958) with Miles Davis and Thelonious Monk.' ] } ] }

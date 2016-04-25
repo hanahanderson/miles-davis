@@ -1,0 +1,8 @@
+{ name: 'Draft:Blue Rose Code',
+  href: 'http://en.wikipedia.org/wiki/Draft:Blue_Rose_Code',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2675,
+       quote: [ 'His escape was music, particularly his heroes John Martyn, Van Morrison, Miles Davis, John Coltrane and Tom Waits.' ] } ] }

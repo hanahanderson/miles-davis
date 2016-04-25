@@ -1,0 +1,8 @@
+{ name: 'Jack Sels',
+  href: 'http://en.wikipedia.org/wiki/Jack_Sels',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1007,
+       quote: [ 'To earn a living, he worked in an ice cream parlour in the Antwerp Hoogstraat (High Street) and spent much time listening to his jazz idols, among them the tenor saxophonist Lester Young, trumpeters Miles Davis and Dizzy Gillespie and alto saxophonist Charlie Parker.' ] } ] }

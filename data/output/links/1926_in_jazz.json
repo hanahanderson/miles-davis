@@ -1,0 +1,39 @@
+{ name: '1926 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1926_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'In 1926 in jazz standards published included "Big Butter and Egg Man", "Bye Bye Blackbird" and "\'Deed I Do".Musicians born that year included Miles Davis and John Coltrane. (en)' } ],
+     'dbo:wikiPageID': [ { value: '25675452 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '612060976 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1927 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'A jazz ensemble playing in Berlin in the summer of 1926 (en)' } ],
+     'dbp:decade': [ { value: '1920.0' } ],
+     'dbp:prioryear': [ { value: '1925 (xsd:integer)' } ],
+     'dbp:standards': [ { value: '1920.0' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1926_in_music',
+          href: 'http://dbpedia.org/resource/Category:1926_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'In 1926 in jazz standards published included "Big Butter and Egg Man", "Bye Bye Blackbird" and "\'Deed I Do".Musicians born that year included Miles Davis and John Coltrane. (en)' } ],
+     'rdfs:label': [ { value: '1926 in jazz (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_1920s_jazz_standards',
+          href: 'http://dbpedia.org/resource/List_of_1920s_jazz_standards' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1926 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4561967' },
+        { value: 'wikidata:1926 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4561967' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1926_in_jazz?oldid=612060976',
+          href: 'http://en.wikipedia.org/wiki/1926_in_jazz?oldid=612060976' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1926_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1926_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1926_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1926_in_jazz' } ] } }

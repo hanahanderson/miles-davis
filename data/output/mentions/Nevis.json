@@ -1,0 +1,8 @@
+{ name: 'Nevis',
+  href: 'http://en.wikipedia.org/wiki/Nevis',
+  mentions: 
+   [ { sectionHeader: 'Notable natives and residents',
+       sectionSubHeader: 'Architecture',
+       sectionIndex: 133,
+       wordCountBeforeSection: 49497,
+       quote: [ 'Cicely Tyson, born on 18 or 19 December 1924, Oscar-nominated in 1972, former wife of Miles Davis and winner of multiple Emmy Awards, is of Nevisian descent.' ] } ] }

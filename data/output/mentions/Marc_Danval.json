@@ -1,0 +1,8 @@
+{ name: 'Marc Danval',
+  href: 'http://en.wikipedia.org/wiki/Marc_Danval',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1905,
+       quote: [ 'During his career, Danval’s reputation in the jazz world allowed him to meet renowned musicians including Louis Armstrong, Miles Davis, John Coltrane and Chet Baker.' ] } ] }

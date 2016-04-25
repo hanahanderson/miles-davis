@@ -1,0 +1,18 @@
+{ name: 'User:VeblenBot/Version 0.7/Start-Class Version 0.7 articles',
+  href: 'http://en.wikipedia.org/wiki/User:VeblenBot/Version_0.7/Start-Class_Version_0.7_articles',
+  mentions: 
+   [ { sectionHeader: 'Unassessed importance',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 649,
+       quote: [ 'Miles Davis (talk)' ] },
+     { sectionHeader: 'Unassessed importance',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 649,
+       quote: [ 'Miles Davis (talk)' ] },
+     { sectionHeader: 'Unassessed importance',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 649,
+       quote: [] } ] }

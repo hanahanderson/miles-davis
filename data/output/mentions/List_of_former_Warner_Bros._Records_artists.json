@@ -1,0 +1,8 @@
+{ name: 'List of former Warner Bros. Records artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_former_Warner_Bros._Records_artists',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3410,
+       quote: [ 'Miles Davis' ] } ] }

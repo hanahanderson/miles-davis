@@ -1,0 +1,8 @@
+{ name: 'Craig Armstrong (composer)',
+  href: 'http://en.wikipedia.org/wiki/Craig_Armstrong_(composer)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'List',
+       sectionIndex: 31,
+       wordCountBeforeSection: 9262,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

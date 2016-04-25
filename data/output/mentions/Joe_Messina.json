@@ -1,0 +1,8 @@
+{ name: 'Joe Messina',
+  href: 'http://en.wikipedia.org/wiki/Joe_Messina',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 575,
+       quote: [ 'Also while at ABC, he played on the nationally televised Soupy Sales Show alongside notable guests such as Miles Davis and Charlie Parker.' ] } ] }

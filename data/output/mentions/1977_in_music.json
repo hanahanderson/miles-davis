@@ -1,0 +1,8 @@
+{ name: '1977 in music',
+  href: 'http://en.wikipedia.org/wiki/1977_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 21703,
+       quote: [ 'Dark Magus – Miles Davis – Live 1974' ] } ] }

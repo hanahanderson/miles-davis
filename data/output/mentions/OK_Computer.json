@@ -1,0 +1,18 @@
+{ name: 'OK Computer',
+  href: 'http://en.wikipedia.org/wiki/OK_Computer',
+  mentions: 
+   [ { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 11891,
+       quote: [] },
+     { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 11891,
+       quote: [ 'The jazz fusion of Miles Davis (left, in 1986) and political writings of Noam Chomsky (right, in 2005) influenced OK Computer.' ] },
+     { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 12028,
+       quote: [ 'Yorke said that the starting point for the record was the "incredibly dense and terrifying sound" of Bitches Brew, the 1970 avant-garde jazz fusion album by Miles Davis.' ] } ] }

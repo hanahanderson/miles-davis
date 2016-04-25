@@ -1,0 +1,8 @@
+{ name: 'User talk:Imustinsistoneditingthisarticle',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Imustinsistoneditingthisarticle',
+  mentions: 
+   [ { sectionHeader: 'November 2012',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 20,
+       quote: [ 'I wanted to let you know that I undid one or more of your recent contributions to Miles Davis because it didn\'t appear constructive.' ] } ] }

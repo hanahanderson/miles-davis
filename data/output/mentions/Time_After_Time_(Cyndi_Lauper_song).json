@@ -1,0 +1,13 @@
+{ name: 'Time After Time (Cyndi Lauper song)',
+  href: 'http://en.wikipedia.org/wiki/Time_After_Time_(Cyndi_Lauper_song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 2296,
+       quote: [ 'The song is also known for its numerous covers by a wide range of artists, including Miles Davis, who recorded an instrumental version for his 1985 album, You\'re Under Arrest, and Eva Cassidy, whose cover of the song appears on her posthumous album of the same name.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 2296,
+       quote: [] } ] }

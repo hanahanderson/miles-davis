@@ -1,0 +1,8 @@
+{ name: 'Space Harp',
+  href: 'http://en.wikipedia.org/wiki/Space_Harp',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 299,
+       quote: [ 'This album consists of recordings of The Artistic Heritage Ensemble, which included a number of well known musicians including Don Myrick (horn player with Earth, Wind and Fire), Pete Cosey (guitarist with Miles Davis) and "Master" Henry Gibson (studio percussionist for Motown).' ] } ] }

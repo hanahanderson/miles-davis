@@ -1,0 +1,97 @@
+{ name: 'The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Time_of_My_Life:_Roseanna_Vitro_Sings_the_Songs_of_Steve_Allen',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '46.166666666666664' } ],
+     'dbo:abstract': [ { value: 'The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen is the 7th album released by jazz singer Roseanna Vitro.  Recorded in 1986 under the auspices of Allen himself, it would not find a distributor until 1999, when it was released on the Sea Breeze label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Roseanna_Vitro',
+          href: 'http://dbpedia.org/resource/Roseanna_Vitro' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Vocal_jazz',
+          href: 'http://dbpedia.org/resource/Vocal_jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Catchin’_Some_Rays:_The_Music_of_Ray_Charles',
+          href: 'http://dbpedia.org/resource/Catchin’_Some_Rays:_The_Music_of_Ray_Charles' } ],
+     'dbo:runtime': [ { value: '2770.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Conviction:_Thoughts_of_Bill_Evans',
+          href: 'http://dbpedia.org/resource/Conviction:_Thoughts_of_Bill_Evans' } ],
+     'dbo:wikiPageID': [ { value: '46702917 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663249395 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Roseanna_Vitro',
+          href: 'http://dbpedia.org/resource/Roseanna_Vitro' } ],
+     'dbp:chronology': [ { value: 'Roseanna Vitro (en)' } ],
+     'dbp:cover': [ { value: 'The Time of My Life- Roseanna Vitro Sings the Music of Steve Allen.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Vocal_jazz',
+          href: 'http://dbpedia.org/resource/Vocal_jazz' } ],
+     'dbp:label': 
+      [ { value: 'SB-3037 (en)' },
+        { value: 'Sea Breeze Records (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Catchin’  Some Rays: The Music of Ray Charles (en)' } ],
+     'dbp:length': [ { value: '2770.0' } ],
+     'dbp:name': [ { value: 'The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Conviction: Thoughts of Bill Evans (en)' } ],
+     'dbp:producer': [ { value: 'Paul Wickliffe (en)' } ],
+     'dbp:recorded': 
+      [ { value: 'July 1986 (en)' },
+        { value: 'Classic Sound, New York, N.Y (en)' },
+        { value: 'Horizon Sound, N.J.. (en)' } ],
+     'dbp:released': [ { value: 'September 1999 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1999_albums',
+          href: 'http://dbpedia.org/resource/Category:1999_albums' },
+        { value: 'dbc:Tribute_albums',
+          href: 'http://dbpedia.org/resource/Category:Tribute_albums' },
+        { value: 'dbc:Roseanna_Vitro_albums',
+          href: 'http://dbpedia.org/resource/Category:Roseanna_Vitro_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen is the 7th album released by jazz singer Roseanna Vitro.  Recorded in 1986 under the auspices of Allen himself, it would not find a distributor until 1999, when it was released on the Sea Breeze label. (en)' } ],
+     'rdfs:label': [ { value: 'The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen',
+          href: 'http://rdf.freebase.com/ns/m.0138gxrv' },
+        { value: 'wikidata:The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen',
+          href: 'http://www.wikidata.org/entity/Q20814250' },
+        { value: 'dbpedia-wikidata:The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen',
+          href: 'http://wikidata.dbpedia.org/resource/Q20814250' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Time_of_My_Life:_Roseanna_Vitro_Si..._Songs_of_Steve_Allen?oldid=663249395',
+          href: 'http://en.wikipedia.org/wiki/The_Time_of_My_Life:_Roseanna_Vitro_Sings_the_Songs_of_Steve_Allen?oldid=663249395' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Time_of_My_Life:_Roseanna_Vitro_Sings_the_Songs_of_Steve_Allen',
+          href: 'http://en.wikipedia.org/wiki/The_Time_of_My_Life:_Roseanna_Vitro_Sings_the_Songs_of_Steve_Allen' } ],
+     'foaf:name': [ { value: 'The Time of My Life: Roseanna Vitro Sings the Songs of Steve Allen (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Conviction:_Thoughts_of_Bill_Evans',
+          href: 'http://dbpedia.org/resource/Conviction:_Thoughts_of_Bill_Evans' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Catchin’_Some_Rays:_The_Music_of_Ray_Charles',
+          href: 'http://dbpedia.org/resource/Catchin’_Some_Rays:_The_Music_of_Ray_Charles' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Time_of_My_Life:_Roseanna_Vitro_Sings_the_Songs_of_Steve_Allen',
+          href: 'http://en.wikipedia.org/wiki/The_Time_of_My_Life:_Roseanna_Vitro_Sings_the_Songs_of_Steve_Allen' } ] } }

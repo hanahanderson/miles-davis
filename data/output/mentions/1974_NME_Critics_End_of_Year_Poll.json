@@ -1,0 +1,13 @@
+{ name: '1974 NME Critics End of Year Poll',
+  href: 'http://en.wikipedia.org/wiki/1974_NME_Critics_End_of_Year_Poll',
+  mentions: 
+   [ { sectionHeader: 'List of best albums',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 203,
+       quote: [] },
+     { sectionHeader: 'List of best albums',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 203,
+       quote: [ 'Big Fun – Miles Davis' ] } ] }

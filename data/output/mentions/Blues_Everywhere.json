@@ -1,0 +1,8 @@
+{ name: 'Blues Everywhere',
+  href: 'http://en.wikipedia.org/wiki/Blues_Everywhere',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 817,
+       quote: [ '"The Theme" (Miles Davis) - 6:06' ] } ] }

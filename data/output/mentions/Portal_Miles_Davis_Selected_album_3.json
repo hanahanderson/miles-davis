@@ -1,0 +1,13 @@
+{ name: 'Portal:Miles Davis/Selected album/3',
+  href: 'http://en.wikipedia.org/wiki/Portal:Miles_Davis/Selected_album/3',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Sketches of Spain is an album by Miles Davis, recorded between November 1959 and March 1960 at the Columbia 30th Street Studio in New York City.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] } ] }

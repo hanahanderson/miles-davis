@@ -1,0 +1,18 @@
+{ name: 'Thelonious Monk discography',
+  href: 'http://en.wikipedia.org/wiki/Thelonious_Monk_discography',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 2829,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 2845,
+       quote: [ 'Miles Davis and the Modern Jazz Giants' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'Compilations',
+       sectionIndex: 37,
+       wordCountBeforeSection: 4593,
+       quote: [ 'Miles Davis and the Modern Jazz Giants' ] } ] }

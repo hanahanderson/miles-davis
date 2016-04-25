@@ -1,0 +1,8 @@
+{ name: 'U. Srinivas',
+  href: 'http://en.wikipedia.org/wiki/U._Srinivas',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4513,
+       quote: [ 'Initially booked to play a half-hour concert after Miles Davis, Srinivas so enthralled the audience in Berlin that he won a standing ovation, and had to play for another hour. "He\'s got it in him.' ] } ] }

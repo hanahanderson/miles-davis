@@ -1,0 +1,13 @@
+{ name: 'Once Upon a Summertime',
+  href: 'http://en.wikipedia.org/wiki/Once_Upon_a_Summertime',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 248,
+       quote: [ 'Miles Davis - Quiet Nights (1963)' ] },
+     { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 248,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Mark Salling',
+  href: 'http://en.wikipedia.org/wiki/Mark_Salling',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1372,
+       quote: [ 'On October 25, 2010, Salling released a rock/jazz album entitled Pipe Drams, which was inspired by Alice in Chains, Nine Inch Nails, Miles Davis, and Herbie Hancock.' ] } ] }

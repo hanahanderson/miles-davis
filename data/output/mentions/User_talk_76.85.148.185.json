@@ -1,0 +1,13 @@
+{ name: 'User talk:76.85.148.185',
+  href: 'http://en.wikipedia.org/wiki/User_talk:76.85.148.185',
+  mentions: 
+   [ { sectionHeader: 'August 2009',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 17,
+       quote: [ 'It might not have been your intention, but your recent edit removed content from Miles Davis.' ] },
+     { sectionHeader: 'August 2009',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 17,
+       quote: [] } ] }

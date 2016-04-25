@@ -1,0 +1,8 @@
+{ name: 'Chicago Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Chicago_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Ongoing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1719,
+       quote: [ 'Famous performers through the years have included Miles Davis, Ella Fitzgerald, Anthony Braxton, Betty Carter, Lionel Hampton, Chico O\'Farrill\'s big band, Jimmy Dawkins, Johnny Frigo, Slide Hampton, Roy Haynes, Sarah Vaughan, Carmen McRae, BB King, Count Basie, Sun Ra, Stan Getz, Jimmy Smith, Dexter Gordon, Dizzy Gillespie, Kenny Burrell, Ornette Coleman, and many, many others.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Martin Armiger',
+  href: 'http://en.wikipedia.org/wiki/Martin_Armiger',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Record producer',
+       sectionIndex: 56,
+       wordCountBeforeSection: 27962,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

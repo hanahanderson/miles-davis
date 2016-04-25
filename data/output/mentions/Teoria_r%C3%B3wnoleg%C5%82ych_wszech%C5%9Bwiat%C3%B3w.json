@@ -1,0 +1,8 @@
+{ name: 'Teoria równoległych wszechświatów',
+  href: 'http://en.wikipedia.org/wiki/Teoria_r%C3%B3wnoleg%C5%82ych_wszech%C5%9Bwiat%C3%B3w',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1116,
+       quote: [ 'Miles Davis - "Bitches Brew"' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'User:JennKR/sign',
+  href: 'http://en.wikipedia.org/wiki/User:JennKR/sign',
+  mentions: 
+   [ { sectionHeader: 'Recording',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1283,
+       quote: [ 'The Dram Factory\'s centrepiece—"Power Fantastic"—followed, a jazz excursion that drew inspiration from Miles Davis\' 1959 album Kind of Blue and incorporated a composition by Lisa called "Carousel".' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'Accolades',
+       sectionIndex: 29,
+       wordCountBeforeSection: 13406,
+       quote: [ 'Miles Davis was one of several jazz musicians that had a significant influence on Prince during this period.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Hunter (2011 Australian film)',
+  href: 'http://en.wikipedia.org/wiki/The_Hunter_(2011_Australian_film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Awards and nominations',
+       sectionIndex: 26,
+       wordCountBeforeSection: 7646,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

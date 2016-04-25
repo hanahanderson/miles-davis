@@ -1,0 +1,8 @@
+{ name: 'Denzil Best',
+  href: 'http://en.wikipedia.org/wiki/Denzil_Best',
+  mentions: 
+   [ { sectionHeader: 'Compositions',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1646,
+       quote: [ 'Best composed several well-known bebop tunes, including "Move" (which featured, arranged by John Lewis, on the seminal 1957 Miles Davis album, Birth of the Cool), "Wee", "Nothing but D.' ] } ] }

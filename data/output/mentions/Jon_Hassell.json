@@ -1,0 +1,13 @@
+{ name: 'Jon Hassell',
+  href: 'http://en.wikipedia.org/wiki/Jon_Hassell',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2964,
+       quote: [ 'Critics of Hassell\'s style have noted its incorporation of New Age and world music styles, but have also detected the influence of Miles Davis, particularly Davis\'s use of electronics, modal harmony and understated lyricism.' ] },
+     { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2964,
+       quote: [ 'Critics of Hassell\'s style have noted its incorporation of New Age and world music styles, but have also detected the influence of Miles Davis, particularly Davis\'s use of electronics, modal harmony and understated lyricism.' ] } ] }

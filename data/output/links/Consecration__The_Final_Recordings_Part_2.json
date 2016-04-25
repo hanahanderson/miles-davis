@@ -1,0 +1,103 @@
+{ name: 'Consecration: The Final Recordings Part 2',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Consecration:_The_Final_Recordings_Part_2',
+  values: 
+   { 'dbo:abstract': [ { value: 'Consecration: The Final Recordings Part 2 is an 8-CD box set live album by jazz pianist Bill Evans with Marc Johnson and Joe LaBarbera recorded during a nine night residency at Keystone Korner in San Francisco in 1980 and released on the Milestone label in 2002. Additional recordings from this concert series were released as The Last Waltz: The Final Recordings in 2000. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Tenderly:_An_Informal_Session',
+          href: 'http://dbpedia.org/resource/Tenderly:_An_Informal_Session' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Milestone_Records',
+          href: 'http://dbpedia.org/resource/Milestone_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Getting_Sentimental',
+          href: 'http://dbpedia.org/resource/Getting_Sentimental' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '27339874 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '646757080 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Consecration The Final Recordings Part 2.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Milestone_Records',
+          href: 'http://dbpedia.org/resource/Milestone_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Tenderly: An Informal Session (en)' } ],
+     'dbp:name': [ { value: 'Consecration: The Final Recordings Part 2 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Getting Sentimental (en)' } ],
+     'dbp:recorded': [ { value: '--08-31' } ],
+     'dbp:released': [ { value: '2002 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Consecration: The Final Recordings Part 2 (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2002_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2002_live_albums' },
+        { value: 'dbc:Bill_Evans_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_live_albums' },
+        { value: 'dbc:Albums_recorded_at_Keystone_Korner',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Keystone_Korner' },
+        { value: 'dbc:2002_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:2002_compilation_albums' },
+        { value: 'dbc:Milestone_Records_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Milestone_Records_compilation_albums' },
+        { value: 'dbc:Milestone_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Milestone_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Consecration: The Final Recordings Part 2 is an 8-CD box set live album by jazz pianist Bill Evans with Marc Johnson and Joe LaBarbera recorded during a nine night residency at Keystone Korner in San Francisco in 1980 and released on the Milestone label in 2002. Additional recordings from this concert series were released as The Last Waltz: The Final Recordings in 2000. (en)' } ],
+     'rdfs:label': [ { value: 'Consecration: The Final Recordings Part 2 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Consecration: The Final Recordings Part 2',
+          href: 'http://rdf.freebase.com/ns/m.0by09h7' },
+        { value: 'dbpedia-wikidata:Consecration: The Final Recordings Part 2',
+          href: 'http://wikidata.dbpedia.org/resource/Q5162779' },
+        { value: 'wikidata:Consecration: The Final Recordings Part 2',
+          href: 'http://www.wikidata.org/entity/Q5162779' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Consecration:_The_Final_Recordings_Part_2?oldid=646757080',
+          href: 'http://en.wikipedia.org/wiki/Consecration:_The_Final_Recordings_Part_2?oldid=646757080' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Consecration:_The_Final_Recordings_Part_2',
+          href: 'http://en.wikipedia.org/wiki/Consecration:_The_Final_Recordings_Part_2' } ],
+     'foaf:name': [ { value: 'Consecration: The Final Recordings Part 2 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Getting_Sentimental',
+          href: 'http://dbpedia.org/resource/Getting_Sentimental' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Tenderly:_An_Informal_Session',
+          href: 'http://dbpedia.org/resource/Tenderly:_An_Informal_Session' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Consecration_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Consecration_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Consecration:_The_Final_Recordings_Part_2',
+          href: 'http://en.wikipedia.org/wiki/Consecration:_The_Final_Recordings_Part_2' } ] } }

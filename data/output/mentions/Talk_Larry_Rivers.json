@@ -1,0 +1,8 @@
+{ name: 'Talk:Larry Rivers',
+  href: 'http://en.wikipedia.org/wiki/Talk:Larry_Rivers',
+  mentions: 
+   [ { sectionHeader: 'Untitled',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 3341,
+       quote: [ '\nTry Miles Davis.' ] } ] }

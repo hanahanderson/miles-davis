@@ -1,0 +1,13 @@
+{ name: 'Open-handed drumming',
+  href: 'http://en.wikipedia.org/wiki/Open-handed_drumming',
+  mentions: 
+   [ { sectionHeader: 'Open-handed drummers',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2828,
+       quote: [ 'Billy Cobham (Mahavishnu Orchestra, Miles Davis)' ] },
+     { sectionHeader: 'Open-handed drummers',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2828,
+       quote: [ 'Lenny White (Return to Forever, Miles Davis)' ] } ] }

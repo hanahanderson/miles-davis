@@ -1,0 +1,8 @@
+{ name: 'Lorne Lofsky',
+  href: 'http://en.wikipedia.org/wiki/Lorne_Lofsky',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 426,
+       quote: [ 'Lofsky started off playing rock music but took an interest in jazz upon hearing the Miles Davis album "Kind of Blue".' ] } ] }

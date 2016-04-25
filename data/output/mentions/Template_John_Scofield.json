@@ -1,0 +1,8 @@
+{ name: 'Template:John Scofield',
+  href: 'http://en.wikipedia.org/wiki/Template:John_Scofield',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

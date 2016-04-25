@@ -1,0 +1,8 @@
+{ name: '1950 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1950_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 870,
+       quote: [ 'Miles Davis: Birth of the Cool' ] } ] }

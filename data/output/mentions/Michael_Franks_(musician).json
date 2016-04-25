@@ -1,0 +1,8 @@
+{ name: 'Michael Franks (musician)',
+  href: 'http://en.wikipedia.org/wiki/Michael_Franks_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1298,
+       quote: [ 'Studying English at UCLA Michael discovered Dave Brubeck, Patti Page, Stan Getz, João Gilberto, Antonio Carlos Jobim and Miles Davis.' ] } ] }

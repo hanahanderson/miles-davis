@@ -1,0 +1,8 @@
+{ name: 'The Language of Life',
+  href: 'http://en.wikipedia.org/wiki/The_Language_of_Life',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 603,
+       quote: [ 'Tommy LiPuma had previously worked with artists like Miles Davis, Horace Silver, Randy Newman, and George Benson and had contributed production to Aztec Camera\'s Love album, 1987.' ] } ] }

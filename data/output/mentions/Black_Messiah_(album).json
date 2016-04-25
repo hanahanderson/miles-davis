@@ -1,0 +1,8 @@
+{ name: 'Black Messiah (album)',
+  href: 'http://en.wikipedia.org/wiki/Black_Messiah_(album)',
+  mentions: 
+   [ { sectionHeader: 'Recording',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 6998,
+       quote: [ 'In an interview published December 1, 2011, Questlove told Pitchfork, that the album was 97% done and D\'Angelo was "finishing his lyrics now." Questlove continued, comparing the album to a "black version of Smile – at best, it will go down in the Smile/There\'s a Riot Goin\' On/Miles Davis\' On the Corner category.' ] } ] }

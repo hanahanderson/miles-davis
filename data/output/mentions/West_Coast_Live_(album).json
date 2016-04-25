@@ -1,0 +1,8 @@
+{ name: 'West Coast Live (album)',
+  href: 'http://en.wikipedia.org/wiki/West_Coast_Live_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1084,
+       quote: [ '"Half Nelson" (Miles Davis) - 5:42' ] } ] }

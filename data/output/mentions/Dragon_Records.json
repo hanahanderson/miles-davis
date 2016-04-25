@@ -1,0 +1,13 @@
+{ name: 'Dragon Records',
+  href: 'http://en.wikipedia.org/wiki/Dragon_Records',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 312,
+       quote: [ 'In particular, Drgon has issued a series of eight CDs by Lars Gullin, featuring a substantial portion of his known recordings from the 1950s, and a four CD set of visits by Miles Davis with John Coltrane or Sonny Stitt in 1960 and 1961.' ] },
+     { sectionHeader: 'Trivia',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 743,
+       quote: [ 'In the movie Jerry Maguire, the concert referred to with Miles Davis and John Coltrane is the Drgon release.' ] } ] }

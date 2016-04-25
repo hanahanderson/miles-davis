@@ -1,0 +1,8 @@
+{ name: 'Tete!',
+  href: 'http://en.wikipedia.org/wiki/Tete!',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 659,
+       quote: [ '"Solar" (Miles Davis) - 7:00' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Shinola (John Scofield album)',
+  href: 'http://en.wikipedia.org/wiki/Shinola_(John_Scofield_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 995,
+       quote: [ 'Miles Davis' ] } ] }

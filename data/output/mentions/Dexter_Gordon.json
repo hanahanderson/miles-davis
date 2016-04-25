@@ -1,0 +1,8 @@
+{ name: 'Dexter Gordon',
+  href: 'http://en.wikipedia.org/wiki/Dexter_Gordon',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 8430,
+       quote: [ 'The pairing of Gordon with Drw turned out to be one of the classic matchups between a horn player and a pianist, much like Miles Davis with Red Garland or John Coltrane with McCoy Tyner.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Art D\'Lugoff',
+  href: 'http://en.wikipedia.org/wiki/Art_D%27Lugoff',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'D\'Lugoff sought out the hottest talent, hosting prominent jazz artists, including Billie Holiday, Duke Ellington, Dizzy Gillespie, Aretha Franklin, and Miles Davis, as well as the best in comedy, including Bill Cosby, Mort Sahl, Woody Allen, and John Belushi.' ] } ] }

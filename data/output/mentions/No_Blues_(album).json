@@ -1,0 +1,8 @@
+{ name: 'No Blues (album)',
+  href: 'http://en.wikipedia.org/wiki/No_Blues_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 648,
+       quote: [ '"No Blues" (Miles Davis) - 6:13' ] } ] }

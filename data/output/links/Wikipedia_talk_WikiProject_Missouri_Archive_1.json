@@ -1,0 +1,4 @@
+{ name: 'Wikipedia talk:WikiProject Missouri/Archive 1',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia_talk:WikiProject_Missouri/Archive_1',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,107 @@
+{ name: 'Unreleased Tracks from Between Nothingness & Eternity',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Unreleased_Tracks_from_Between_Nothingness_%26_Eternity',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '64.01666666666667' } ],
+     'dbo:abstract': [ { value: 'Unreleased Tracks from Between Nothingness & Eternity is a live album by the Mahavishnu Orchestra, first released in 2011 as part of The Complete Columbia Albums Collection boxset, along with the other albums by the first line-up of the band, including The Lost Trident Sessions. As the title explains, the album contains other selections from the two Central Park shows from August 1973 from which the live album Between Nothingness and Eternity was culled. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Mahavishnu_Orchestra',
+          href: 'http://dbpedia.org/resource/Mahavishnu_Orchestra' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Lost_Trident_Sessions',
+          href: 'http://dbpedia.org/resource/The_Lost_Trident_Sessions' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:runtime': [ { value: '3841.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '44383581 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '636177121 (xsd:integer)' } ],
+     'dbp:allMusic': [ { value: 'John McLaughlin, except where noted (en)' } ],
+     'dbp:artist': [ { value: 'the Mahavishnu Orchestra (en)' } ],
+     'dbp:cover': [ { value: 'The Mahavishnu Orchestra - 2011 - Unreleased Tracks from Between Nothingness & Eternity.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Lost Trident Sessions (en)' } ],
+     'dbp:length': 
+      [ { value: '108.0' },
+        { value: '121.0' },
+        { value: '376.0' },
+        { value: '432.0' },
+        { value: '844.0' },
+        { value: '1111.0' },
+        { value: '849.0' } ],
+     'dbp:name': [ { value: 'Unreleased Tracks from Between Nothingness & Eternity (en)' } ],
+     'dbp:note': [ { value: 'music: Rick Laird (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbp:recorded': [ { value: '--08-17' } ],
+     'dbp:thisAlbum': [ { value: 'Unreleased Tracks from Between Nothingness & Eternity (en)' } ],
+     'dbp:title': 
+      [ { value: 'Hope (en)' },
+        { value: 'Awakening (en)' },
+        { value: 'One Word (en)' },
+        { value: 'The Dance of Maya (en)' },
+        { value: 'Vital Transformation (en)' },
+        { value: 'You Know, You Know (en)' },
+        { value: 'Stepping Tones (en)' } ],
+     'dbp:totalLength': [ { value: '3841.0' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Mahavishnu_Orchestra_albums',
+          href: 'http://dbpedia.org/resource/Category:Mahavishnu_Orchestra_albums' },
+        { value: 'dbc:2011_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2011_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Unreleased Tracks from Between Nothingness & Eternity is a live album by the Mahavishnu Orchestra, first released in 2011 as part of The Complete Columbia Albums Collection boxset, along with the other albums by the first line-up of the band, including The Lost Trident Sessions. As the title explains, the album contains other selections from the two Central Park shows from August 1973 from which the live album Between Nothingness and Eternity was culled. (en)' } ],
+     'rdfs:label': [ { value: 'Unreleased Tracks from Between Nothingness & Eternity (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Unreleased Tracks from Between Nothingness & Eternity',
+          href: 'http://rdf.freebase.com/ns/m.0129g7gd' },
+        { value: 'dbpedia-wikidata:Unreleased Tracks from Between Nothingness & Eternity',
+          href: 'http://wikidata.dbpedia.org/resource/Q18713872' },
+        { value: 'wikidata:Unreleased Tracks from Between Nothingness & Eternity',
+          href: 'http://www.wikidata.org/entity/Q18713872' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Unreleased_Tracks_from_Between_Nothingness_&_Eternity?oldid=636177121',
+          href: 'http://en.wikipedia.org/wiki/Unreleased_Tracks_from_Between_Nothingness_&_Eternity?oldid=636177121' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Unreleased_Tracks_from_Between_Nothingness_&_Eternity',
+          href: 'http://en.wikipedia.org/wiki/Unreleased_Tracks_from_Between_Nothingness_&_Eternity' } ],
+     'foaf:name': [ { value: 'Unreleased Tracks from Between Nothingness & Eternity (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Lost_Trident_Sessions',
+          href: 'http://dbpedia.org/resource/The_Lost_Trident_Sessions' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Unreleased_Tracks_from_Between_Nothingness_and_Eternity',
+          href: 'http://dbpedia.org/resource/Unreleased_Tracks_from_Between_Nothingness_and_Eternity' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Unreleased_Tracks_from_Between_Nothingness_&_Eternity',
+          href: 'http://en.wikipedia.org/wiki/Unreleased_Tracks_from_Between_Nothingness_&_Eternity' } ] } }

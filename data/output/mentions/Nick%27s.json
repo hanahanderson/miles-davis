@@ -1,0 +1,8 @@
+{ name: 'Nick\'s',
+  href: 'http://en.wikipedia.org/wiki/Nick%27s',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 251,
+       quote: [ 'Artists like Miles Davis and John Coltrane used to visit the pub to relax after their gigs.' ] } ] }

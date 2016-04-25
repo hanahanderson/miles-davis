@@ -1,0 +1,8 @@
+{ name: 'Don DeLillo',
+  href: 'http://en.wikipedia.org/wiki/Don_DeLillo',
+  mentions: 
+   [ { sectionHeader: 'Early life and Influences',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2771,
+       quote: [ 'As well as the influence of modernist fiction, DeLillo has also cited the influence of jazz music – " guys like Ornette Coleman and Mingus and Coltrane and Miles Davis" -and postwar cinema: " Antonioni and Godard and Truffaut, and then in the \'70s came the Americans, many of whom were influenced by the Europeans: Kubrick, Altman, Coppola, Scorsese and so on.' ] } ] }

@@ -1,0 +1,12 @@
+{ name: 'File:Bitches brew.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Bitches_brew.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '20707629 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517753246 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Bitches_brew.jpg?oldid=517753246',
+          href: 'http://en.wikipedia.org/wiki/File:Bitches_brew.jpg?oldid=517753246' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Bitches_brew.jpg',
+          href: 'http://dbpedia.org/resource/File:Bitches_brew.jpg' } ] } }

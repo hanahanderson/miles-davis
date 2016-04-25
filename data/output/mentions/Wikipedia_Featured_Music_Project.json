@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Featured Music Project',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Featured_Music_Project',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1497,
+       quote: [ '5 Miles Davis' ] } ] }

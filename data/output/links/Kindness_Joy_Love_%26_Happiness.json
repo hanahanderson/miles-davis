@@ -1,0 +1,88 @@
+{ name: 'Kindness Joy Love & Happiness',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Kindness_Joy_Love_%26_Happiness',
+  values: 
+   { 'dbo:abstract': [ { value: 'Kindness Joy Love & Happiness is an album by the Great Jazz Trio; pianist Hank Jones, bassist Buster Williams and drummer Tony Williams, recorded in 1977 for the Japanese East Wind label. (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Have_You_Met_This_Jones?',
+          href: 'http://dbpedia.org/resource/Have_You_Met_This_Jones%3F' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:East_Wind_Records',
+          href: 'http://dbpedia.org/resource/East_Wind_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Direct_from_L.A.',
+          href: 'http://dbpedia.org/resource/Direct_from_L.A.' } ],
+     'dbo:wikiPageID': [ { value: '47426461 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674928848 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'The Great Jazz Trio (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' } ],
+     'dbp:cover': [ { value: 'Kindness Joy Love & Happiness.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:East_Wind_Records',
+          href: 'http://dbpedia.org/resource/East_Wind_Records' },
+        { value: '(EW-8056) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Have You Met This Jones? (en)' } ],
+     'dbp:name': [ { value: 'Kindness Joy Love & Happiness (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Direct from L.A. (en)' } ],
+     'dbp:producer': [ { value: 'Kiyoshi Itoh and Yasohachi Itoh (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--10-03' },
+        { value: '(Warner Brothers Recording Studios, Los Angeles, CA) (en)' } ],
+     'dbp:released': [ { value: '1977 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Kindness Joy Love & Happiness (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:East_Wind_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:East_Wind_Records_albums' },
+        { value: 'dbc:1977_albums',
+          href: 'http://dbpedia.org/resource/Category:1977_albums' },
+        { value: 'dbc:Great_Jazz_Trio_albums',
+          href: 'http://dbpedia.org/resource/Category:Great_Jazz_Trio_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Kindness Joy Love & Happiness is an album by the Great Jazz Trio; pianist Hank Jones, bassist Buster Williams and drummer Tony Williams, recorded in 1977 for the Japanese East Wind label. (en)' } ],
+     'rdfs:label': [ { value: 'Kindness Joy Love & Happiness (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Kindness Joy Love & Happiness',
+          href: 'http://wikidata.dbpedia.org/resource/Q20813584' },
+        { value: 'wikidata:Kindness Joy Love & Happiness',
+          href: 'http://www.wikidata.org/entity/Q20813584' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Kindness_Joy_Love_&_Happiness?oldid=674928848',
+          href: 'http://en.wikipedia.org/wiki/Kindness_Joy_Love_&_Happiness?oldid=674928848' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Kindness_Joy_Love_&_Happiness',
+          href: 'http://en.wikipedia.org/wiki/Kindness_Joy_Love_&_Happiness' } ],
+     'foaf:name': [ { value: 'Kindness Joy Love & Happiness (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Direct_from_L.A.',
+          href: 'http://dbpedia.org/resource/Direct_from_L.A.' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Have_You_Met_This_Jones?',
+          href: 'http://dbpedia.org/resource/Have_You_Met_This_Jones%3F' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Kindness_Joy_Love_&_Happiness',
+          href: 'http://en.wikipedia.org/wiki/Kindness_Joy_Love_&_Happiness' } ] } }

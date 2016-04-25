@@ -1,0 +1,133 @@
+{ name: 'Monster Cable',
+  entityType: 'Privately held company',
+  href: 'http://dbpedia.org/page/Monster_Cable',
+  values: 
+   { 'dbo:abstract': [ { value: 'Monster Inc. is an American company that manufactures and markets 6,000 different products, but is best known for audio and video cables. It also produces speakers, headphones, power strips, mobile accessories and audio devices for automobiles. The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables. It grew by doing demonstrations to convince the industry that audio cables made a difference in audio quality and by establishing relationships with retailers that were attracted to the cable\'s profit margins.Over the years it created new divisions like Monster Music, Monster Game, Monster Mobile, Monster Photo and Monster Power. In the 2000s, Monster had legal trademark disputes regarding other companies or products that have "Monster" in their name, such as Monster.com and the film Monsters, Inc. Monster said it needed to defend its premium brand, while critics said it was pursuing litigation against companies that do not have confusingly similar products. It began manufacturing headphones in a partnership with Dr. Dre in 2008, which ended in 2012, and it created other celebrity branded or Monster-branded headphone products.Several tests done by audiophile publications, news reporters and academics have conflicting viewpoints on whether more expensive audio or video cables like those from Monster make a difference in audio or video quality when compared to generic cables. Instead of advertising, Monster offers incentives to retailers and their salespeople to sell the cables. Retailers bundle high profit-margin cables with larger purchases that have smaller margins in order to improve profitability. (en)' } ],
+     'dbo:foundingYear': [ { value: '1978-01-01 (xsd:date)' } ],
+     'dbo:industry': 
+      [ { value: 'dbr:Consumer_electronics',
+          href: 'http://dbpedia.org/resource/Consumer_electronics' } ],
+     'dbo:keyPerson': 
+      [ { value: 'dbr:Noel_Lee_(executive)',
+          href: 'http://dbpedia.org/resource/Noel_Lee_(executive)' } ],
+     'dbo:location': 
+      [ { value: 'dbr:Brisbane,_California',
+          href: 'http://dbpedia.org/resource/Brisbane,_California' } ],
+     'dbo:numberOfEmployees': [ { value: '600 (xsd:integer)' } ],
+     'dbo:product': 
+      [ { value: 'dbr:Audio_equipment',
+          href: 'http://dbpedia.org/resource/Audio_equipment' },
+        { value: 'dbr:Headphones',
+          href: 'http://dbpedia.org/resource/Headphones' },
+        { value: 'dbr:Cable',
+          href: 'http://dbpedia.org/resource/Cable' },
+        { value: 'dbr:HDMI', href: 'http://dbpedia.org/resource/HDMI' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Monster_Cable_headquarters.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Monster_Cable_headquarters.jpg?width=300' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Privately_held_company',
+          href: 'http://dbpedia.org/resource/Privately_held_company' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.monstercable.com/',
+          href: 'http://www.monstercable.com/' },
+        { value: 'http://www.monsterproducts.com/',
+          href: 'http://www.monsterproducts.com/' } ],
+     'dbo:wikiPageID': [ { value: '3688564 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675994833 (xsd:integer)' } ],
+     'dbp:companySlogan': [ { value: 'Get all the Performance You Paid For (en)' } ],
+     'dbp:foundation': [ { value: '1978 (xsd:integer)' } ],
+     'dbp:homepage': 
+      [ { value: 'http://www.monstercable.com/',
+          href: 'http://www.monstercable.com/' } ],
+     'dbp:imageCaption': [ { value: 'Monster Cable headquarters in Brisbane (en)' } ],
+     'dbp:industry': 
+      [ { value: 'dbr:Consumer_electronics',
+          href: 'http://dbpedia.org/resource/Consumer_electronics' } ],
+     'dbp:keyPeople': 
+      [ { value: 'dbr:Noel_Lee_(executive)',
+          href: 'http://dbpedia.org/resource/Noel_Lee_(executive)' } ],
+     'dbp:location': 
+      [ { value: 'dbr:Brisbane,_California',
+          href: 'http://dbpedia.org/resource/Brisbane,_California' } ],
+     'dbp:logo': [ { value: '220 (xsd:integer)' } ],
+     'dbp:name': [ { value: 'Monster Cable Products Inc. (en)' } ],
+     'dbp:numEmployees': [ { value: '600 (xsd:integer)' } ],
+     'dbp:products': [ { value: 'Cables, HDMI cable, headphones, audio equipment (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Privately_held_company',
+          href: 'http://dbpedia.org/resource/Privately_held_company' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Companies_based_in_San_Mateo_County,_California',
+          href: 'http://dbpedia.org/resource/Category:Companies_based_in_San_Mateo_County,_California' },
+        { value: 'dbc:Audio_equipment_manufacturers',
+          href: 'http://dbpedia.org/resource/Category:Audio_equipment_manufacturers' },
+        { value: 'dbc:Electronics_companies_of_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Electronics_companies_of_the_United_States' },
+        { value: 'dbc:Headphones_manufacturers',
+          href: 'http://dbpedia.org/resource/Category:Headphones_manufacturers' },
+        { value: 'dbc:Privately_held_companies_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Privately_held_companies_in_the_United_States' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Company',
+          href: 'http://dbpedia.org/ontology/Company' },
+        { value: 'dul:Agent',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent' },
+        { value: 'dul:SocialPerson',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson' },
+        { value: 'wikidata:Q43229',
+          href: 'http://www.wikidata.org/entity/Q43229' },
+        { value: 'dbo:Agent',
+          href: 'http://dbpedia.org/ontology/Agent' },
+        { value: 'dbo:Organisation',
+          href: 'http://dbpedia.org/ontology/Organisation' },
+        { value: 'schema:Organization',
+          href: 'http://schema.org/Organization' } ],
+     'rdfs:comment': [ { value: 'Monster Inc. is an American company that manufactures and markets 6,000 different products, but is best known for audio and video cables. It also produces speakers, headphones, power strips, mobile accessories and audio devices for automobiles. The company was founded by an audiophile and engineer, Noel Lee, in 1979 by experimenting with different ways to build audio cables. (en)' } ],
+     'rdfs:label': [ { value: 'Monster Cable (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Monster Cable',
+          href: 'http://rdf.freebase.com/ns/m.09vjw6' },
+        { value: 'dbpedia-fr:Monster Cable',
+          href: 'http://fr.dbpedia.org/resource/Monster_Cable_Products' },
+        { value: 'dbpedia-de:Monster Cable',
+          href: 'http://de.dbpedia.org/resource/Monster_Cable_Products' },
+        { value: 'dbpedia-ja:Monster Cable',
+          href: 'http://ja.dbpedia.org/resource/モンスターケーブル' },
+        { value: 'dbpedia-wikidata:Monster Cable',
+          href: 'http://wikidata.dbpedia.org/resource/Q889363' },
+        { value: 'wikidata:Monster Cable',
+          href: 'http://www.wikidata.org/entity/Q889363' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Monster_Cable?oldid=675994833',
+          href: 'http://en.wikipedia.org/wiki/Monster_Cable?oldid=675994833' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Monster_Cable_headquarters.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Monster_Cable_headquarters.jpg' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.monstercable.com/',
+          href: 'http://www.monstercable.com/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Monster_Cable',
+          href: 'http://en.wikipedia.org/wiki/Monster_Cable' } ],
+     'foaf:name': [ { value: 'Monster Cable Products Inc. (en)' } ],
+     'is dbo:occupation\n of': 
+      [ { value: 'dbr:Noel_Lee_(executive)',
+          href: 'http://dbpedia.org/resource/Noel_Lee_(executive)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Monster_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Monster_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Monster_Cable_Products',
+          href: 'http://dbpedia.org/resource/Monster_Cable_Products' } ],
+     'is dbp:aux\n of': 
+      [ { value: 'dbr:Inside_West_Coast_Customs',
+          href: 'http://dbpedia.org/resource/Inside_West_Coast_Customs' } ],
+     'is dbp:currentSupplier\n of': 
+      [ { value: 'dbr:Monster_Go-DJ',
+          href: 'http://dbpedia.org/resource/Monster_Go-DJ' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Monster_Cable',
+          href: 'http://en.wikipedia.org/wiki/Monster_Cable' } ] } }

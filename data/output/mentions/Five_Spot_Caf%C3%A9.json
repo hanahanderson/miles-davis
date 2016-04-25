@@ -1,0 +1,8 @@
+{ name: 'Five Spot Café',
+  href: 'http://en.wikipedia.org/wiki/Five_Spot_Caf%C3%A9',
+  mentions: 
+   [ { sectionHeader: 'Ornette Coleman Quartet New York debut',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3045,
+       quote: [ 'Musicians such as Leonard Bernstein, Miles Davis, and John Coltrane were among the attendees on the opening night.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:Lexein/LSHWOF',
+  href: 'http://en.wikipedia.org/wiki/User:Lexein/LSHWOF',
+  mentions: 
+   [ { sectionHeader: 'A',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 380,
+       quote: [ 'Miles Davis' ] } ] }

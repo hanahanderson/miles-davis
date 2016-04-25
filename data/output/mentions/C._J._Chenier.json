@@ -1,0 +1,8 @@
+{ name: 'C. J. Chenier',
+  href: 'http://en.wikipedia.org/wiki/C._J._Chenier',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1407,
+       quote: [ 'Instead, Chenier developed tastes in the 1970s soul, funk and jazz music of James Brown, Funkadelic, John Coltrane and Miles Davis.' ] } ] }

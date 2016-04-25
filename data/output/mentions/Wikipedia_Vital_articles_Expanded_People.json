@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Vital articles/Expanded/People',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Vital_articles/Expanded/People',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '  Miles Davis' ] } ] }

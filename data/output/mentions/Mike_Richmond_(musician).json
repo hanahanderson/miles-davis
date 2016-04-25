@@ -1,0 +1,8 @@
+{ name: 'Mike Richmond (musician)',
+  href: 'http://en.wikipedia.org/wiki/Mike_Richmond_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 1953,
+       quote: [ 'With Miles Davis and Quincy Jones' ] } ] }

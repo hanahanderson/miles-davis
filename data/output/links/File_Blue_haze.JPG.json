@@ -1,0 +1,12 @@
+{ name: 'File:Blue haze.JPG',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Blue_haze.JPG',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '2663833 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517767566 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Blue_haze.JPG?oldid=517767566',
+          href: 'http://en.wikipedia.org/wiki/File:Blue_haze.JPG?oldid=517767566' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Blue_haze.JPG',
+          href: 'http://dbpedia.org/resource/File:Blue_haze.JPG' } ] } }

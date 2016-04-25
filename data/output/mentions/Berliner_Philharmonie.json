@@ -1,0 +1,8 @@
+{ name: 'Berliner Philharmonie',
+  href: 'http://en.wikipedia.org/wiki/Berliner_Philharmonie',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2846,
+       quote: [ 'Miles Davis\'s 1969 live performance at the hall has also been released on DVD.' ] } ] }

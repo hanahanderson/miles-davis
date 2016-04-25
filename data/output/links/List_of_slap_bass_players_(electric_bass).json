@@ -1,0 +1,29 @@
+{ name: 'List of slap bass players (electric bass)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_slap_bass_players_(electric_bass)',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of bassists known for their slap bass technique. (en)' } ],
+     'dbo:wikiPageID': [ { value: '17790055 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '676698021 (xsd:integer)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bass_guitarists',
+          href: 'http://dbpedia.org/resource/Category:Bass_guitarists' } ],
+     'rdfs:comment': [ { value: 'This is a list of bassists known for their slap bass technique. (en)' } ],
+     'rdfs:label': [ { value: 'List of slap bass players (electric bass) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of slap bass players (electric bass)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6639570' },
+        { value: 'wikidata:List of slap bass players (electric bass)',
+          href: 'http://www.wikidata.org/entity/Q6639570' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_slap_bass_players_(electric_bass)?oldid=676698021',
+          href: 'http://en.wikipedia.org/wiki/List_of_slap_bass_players_(electric_bass)?oldid=676698021' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_slap_bass_players_(electric_bass)',
+          href: 'http://en.wikipedia.org/wiki/List_of_slap_bass_players_(electric_bass)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_slap_bass_players_(electric_bass)',
+          href: 'http://en.wikipedia.org/wiki/List_of_slap_bass_players_(electric_bass)' } ] } }

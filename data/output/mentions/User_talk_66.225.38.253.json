@@ -1,0 +1,8 @@
+{ name: 'User talk:66.225.38.253',
+  href: 'http://en.wikipedia.org/wiki/User_talk:66.225.38.253',
+  mentions: 
+   [ { sectionHeader: 'May 2008',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 369,
+       quote: [ 'Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been reverted or removed.' ] } ] }

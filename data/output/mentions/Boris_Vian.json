@@ -1,0 +1,8 @@
+{ name: 'Boris Vian',
+  href: 'http://en.wikipedia.org/wiki/Boris_Vian',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1087,
+       quote: [ 'He served as liaison for Hoagy Carmichael, Duke Ellington and Miles Davis in Paris, wrote for several French jazz-reviews (Le Jazz Hot, Paris Jazz) and published numerous articles dealing with jazz both in the United States and in France.' ] } ] }

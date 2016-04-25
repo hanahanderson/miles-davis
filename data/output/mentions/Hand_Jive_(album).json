@@ -1,0 +1,8 @@
+{ name: 'Hand Jive (album)',
+  href: 'http://en.wikipedia.org/wiki/Hand_Jive_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1061,
+       quote: [ 'Miles Davis' ] } ] }

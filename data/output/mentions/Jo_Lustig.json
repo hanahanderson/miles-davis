@@ -1,0 +1,8 @@
+{ name: 'Jo Lustig',
+  href: 'http://en.wikipedia.org/wiki/Jo_Lustig',
+  mentions: 
+   [ { sectionHeader: 'Early career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 359,
+       quote: [ 'Having gone solo, he handled publicity for Miles Davis, Dave Brubeck and others.' ] } ] }

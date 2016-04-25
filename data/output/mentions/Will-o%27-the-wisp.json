@@ -1,0 +1,8 @@
+{ name: 'Will-o\'-the-wisp',
+  href: 'http://en.wikipedia.org/wiki/Will-o%27-the-wisp',
+  mentions: 
+   [ { sectionHeader: 'In music',
+       sectionSubHeader: 'Modern explanations',
+       sectionIndex: 68,
+       wordCountBeforeSection: 24975,
+       quote: [ 'The phenomenon also appears in "Canción del fuego fatuo" (\'Song of the will-o\'-the-wisp\') in Manuel de Falla\'s ballet El amor brujo, later covered by Miles Davis as "Will-O\'-The-Wisp" on Sketches Of Spain.' ] } ] }

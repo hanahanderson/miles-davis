@@ -1,0 +1,13 @@
+{ name: 'Roy Haynes',
+  href: 'http://en.wikipedia.org/wiki/Roy_Haynes',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 6453,
+       quote: [ 'Miles Davis and Horns' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 6453,
+       quote: [ '1951: Miles Davis and Horns (Miles Davis)' ] } ] }

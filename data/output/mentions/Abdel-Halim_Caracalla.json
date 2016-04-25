@@ -1,0 +1,8 @@
+{ name: 'Abdel-Halim Caracalla',
+  href: 'http://en.wikipedia.org/wiki/Abdel-Halim_Caracalla',
+  mentions: 
+   [ { sectionHeader: 'Youth',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 194,
+       quote: [ 'Growing up in Baalbeck, he watched Margot Fonteyn and Rudolf Nureyev dance, listened to the music of Miles Davis and Ella Fitzgerald, and finally went to London in the 1960s to study dance with choreographer Martha Graham.' ] } ] }

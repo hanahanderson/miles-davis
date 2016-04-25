@@ -1,0 +1,8 @@
+{ name: 'Mogens Wöldike',
+  href: 'http://en.wikipedia.org/wiki/Mogens_W%C3%B6ldike',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1521,
+       quote: [ 'Miles Davis (1984)' ] } ] }

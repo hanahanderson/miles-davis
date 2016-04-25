@@ -1,0 +1,4 @@
+{ name: 'User:DamaclesBeDamned',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:DamaclesBeDamned',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

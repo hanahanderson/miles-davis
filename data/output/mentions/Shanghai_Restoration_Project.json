@@ -1,0 +1,8 @@
+{ name: 'Shanghai Restoration Project',
+  href: 'http://en.wikipedia.org/wiki/Shanghai_Restoration_Project',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 725,
+       quote: [ 'He started learning classical piano at an early age but transitioned towards jazz after hearing Miles Davis\' "So What" in high school.' ] } ] }

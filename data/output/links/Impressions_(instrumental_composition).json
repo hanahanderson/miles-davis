@@ -1,0 +1,62 @@
+{ name: 'Impressions (instrumental composition)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Impressions_(instrumental_composition)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Impressions" is a jazz standard composed by John Coltrane. While Coltrane only recorded the composition once in the studio (on June 20, 1962), he recorded it many times live, beginning with his 1961 engagement at the Village Vanguard. These performances produced the third track on the 1963 album of the same name, as well as two further renditions available on The Complete 1961 Village Vanguard Recordings.  At least a dozen further live performances exist on various live albums up to 1965. Its chord sequence is identical to that of Miles Davis\' "So What" (16 bars of Dm7, 8 bars of E♭m7, and 8 bars of Dm7).  Both songs originate in Ahmad Jamal\'s 1955 cover of Morton Gould\'s "Pavanne" (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageID': [ { value: '4742465 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '627244113 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1961_compositions',
+          href: 'http://dbpedia.org/resource/Category:1961_compositions' },
+        { value: 'dbc:1960s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1960s_jazz_standards' },
+        { value: 'dbc:Modal_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Modal_jazz_standards' },
+        { value: 'dbc:Compositions_by_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_John_Coltrane' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: '"Impressions" is a jazz standard composed by John Coltrane. While Coltrane only recorded the composition once in the studio (on June 20, 1962), he recorded it many times live, beginning with his 1961 engagement at the Village Vanguard. These performances produced the third track on the 1963 album of the same name, as well as two further renditions available on The Complete 1961 Village Vanguard Recordings.  At least a dozen further live performances exist on various live albums up to 1965. (en)' } ],
+     'rdfs:label': [ { value: 'Impressions (instrumental composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Impressions (instrumental composition)',
+          href: 'http://rdf.freebase.com/ns/m.0ckz2t' },
+        { value: 'wikidata:Impressions (instrumental composition)',
+          href: 'http://www.wikidata.org/entity/Q11864796' },
+        { value: 'dbpedia-wikidata:Impressions (instrumental composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q11864796' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Impressions_(instrumental_composition)?oldid=627244113',
+          href: 'http://en.wikipedia.org/wiki/Impressions_(instrumental_composition)?oldid=627244113' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Impressions_(instrumental_composition)',
+          href: 'http://en.wikipedia.org/wiki/Impressions_(instrumental_composition)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Impression',
+          href: 'http://dbpedia.org/resource/Impression' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Impressions_(Coltrane)',
+          href: 'http://dbpedia.org/resource/Impressions_(Coltrane)' },
+        { value: 'dbr:Impressions_(composition)',
+          href: 'http://dbpedia.org/resource/Impressions_(composition)' },
+        { value: 'dbr:Impressions_(instrumental)',
+          href: 'http://dbpedia.org/resource/Impressions_(instrumental)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:The_Complete_1961_Village_Vanguard_Recordings',
+          href: 'http://dbpedia.org/resource/The_Complete_1961_Village_Vanguard_Recordings' },
+        { value: 'dbr:9_Standards_(Quartet)_1993',
+          href: 'http://dbpedia.org/resource/9_Standards_(Quartet)_1993' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Impressions_(instrumental_composition)',
+          href: 'http://en.wikipedia.org/wiki/Impressions_(instrumental_composition)' } ] } }

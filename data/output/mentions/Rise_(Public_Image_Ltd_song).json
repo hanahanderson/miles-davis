@@ -1,0 +1,8 @@
+{ name: 'Rise (Public Image Ltd song)',
+  href: 'http://en.wikipedia.org/wiki/Rise_(Public_Image_Ltd_song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1468,
+       quote: [ 'Steve Vai contributes his guitar work to the track while former Miles Davis drummer Tony Williams contributes drums, Jonas Hellborg plays fretless bass and Shankar plays violin.' ] } ] }

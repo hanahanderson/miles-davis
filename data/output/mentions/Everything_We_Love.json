@@ -1,0 +1,8 @@
+{ name: 'Everything We Love',
+  href: 'http://en.wikipedia.org/wiki/Everything_We_Love',
+  mentions: 
+   [ { sectionHeader: 'Review',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 639,
+       quote: [ 'This time the repertoire also was a bit more conservative with the older standard songs and bop tunes like «Everything I Love» (Porter), «Half Nelson» (Miles Davis), «Love Letters» (Young), «Get out of town» (Porter) Just Friends (Klenner/Lewis), «We\'ll be together again» (Fisher/Lane) and «So do it» (Montgomery).' ] } ] }

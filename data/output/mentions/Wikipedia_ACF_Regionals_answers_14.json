@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:ACF Regionals answers/14',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:ACF_Regionals_answers/14',
+  mentions: 
+   [ { sectionHeader: 'kp',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 172340,
+       quote: [ 'Miles Davis --> This jazz musician, whose other works include Quiet Nights and Sketches of Spain, created Birth of the Cool. ' ] },
+     { sectionHeader: 'kp',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 172340,
+       quote: [ 'Bitches Brew --> Miles Davis released this two-record set in 1970.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Mahavishnu Orchestra',
+  href: 'http://en.wikipedia.org/wiki/Mahavishnu_Orchestra',
+  mentions: 
+   [ { sectionHeader: 'First Mahavishnu Orchestra',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1213,
+       quote: [ 'McLaughlin and Cobham met while performing and recording with Miles Davis during the Bitches Brew sessions.' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'Live albums',
+       sectionIndex: 40,
+       wordCountBeforeSection: 14446,
+       quote: [ 'Miles Davis' ] } ] }

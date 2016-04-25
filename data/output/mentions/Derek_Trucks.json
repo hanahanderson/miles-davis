@@ -1,0 +1,8 @@
+{ name: 'Derek Trucks',
+  href: 'http://en.wikipedia.org/wiki/Derek_Trucks',
+  mentions: 
+   [ { sectionHeader: 'Musical style',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3798,
+       quote: [ 'Trucks credits guitarist Duane Allman and blues man Elmore James as the two slide guitarists who influenced his early style, but has since been inspired by John Lee Hooker, Howlin\' Wolf, Albert King, Miles Davis, Sun Ra, John Coltrane, Charlie Parker, Django Reinhardt, Charlie Christian, Wayne Shorter, Toy Caldwell, Freddie King and B.B. King.' ] } ] }

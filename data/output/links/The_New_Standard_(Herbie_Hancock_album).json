@@ -1,0 +1,108 @@
+{ name: 'The New Standard (Herbie Hancock album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_New_Standard_(Herbie_Hancock_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '77.25' } ],
+     'dbo:abstract': [ { value: 'The New Standard is the fortieth album by jazz pianist Herbie Hancock, released in 1996 on Verve. It consists of jazz renditions of classic and contemporaneous rock and R&B songs. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Herbie_Hancock',
+          href: 'http://dbpedia.org/resource/Herbie_Hancock' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Dis_Is_da_Drum',
+          href: 'http://dbpedia.org/resource/Dis_Is_da_Drum' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Herbie_Hancock',
+          href: 'http://dbpedia.org/resource/Herbie_Hancock' },
+        { value: 'dbr:Guy_Eckstine',
+          href: 'http://dbpedia.org/resource/Guy_Eckstine' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Manhattan_Center',
+          href: 'http://dbpedia.org/resource/Manhattan_Center' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:releaseDate': [ { value: '1996-03-05 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '4635.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:1_+_1_(album)',
+          href: 'http://dbpedia.org/resource/1_+_1_(album)' } ],
+     'dbo:wikiPageID': [ { value: '6264555 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675074416 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Herbie_Hancock',
+          href: 'http://dbpedia.org/resource/Herbie_Hancock' } ],
+     'dbp:cover': [ { value: 'The New Standard .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Dis Is da Drum (en)' } ],
+     'dbp:length': [ { value: '4635.0' } ],
+     'dbp:name': [ { value: 'The New Standard (en)' } ],
+     'dbp:nextAlbum': [ { value: '1 (xsd:integer)' } ],
+     'dbp:producer': [ { value: 'Guy Eckstine, Herbie Hancock (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1995 (xsd:integer)' },
+        { value: 'Manhattan Center Studios, New York (en)' } ],
+     'dbp:released': [ { value: '1996-03-05 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'The New Standard (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Herbie_Hancock_albums',
+          href: 'http://dbpedia.org/resource/Category:Herbie_Hancock_albums' },
+        { value: 'dbc:Verve_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_albums' },
+        { value: 'dbc:1996_albums',
+          href: 'http://dbpedia.org/resource/Category:1996_albums' },
+        { value: 'dbc:John_Scofield_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Scofield_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The New Standard is the fortieth album by jazz pianist Herbie Hancock, released in 1996 on Verve. It consists of jazz renditions of classic and contemporaneous rock and R&B songs. (en)' } ],
+     'rdfs:label': [ { value: 'The New Standard (Herbie Hancock album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:The New Standard (Herbie Hancock album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20813781' },
+        { value: 'wikidata:The New Standard (Herbie Hancock album)',
+          href: 'http://www.wikidata.org/entity/Q20813781' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_New_Standard_(Herbie_Hancock_album)?oldid=675074416',
+          href: 'http://en.wikipedia.org/wiki/The_New_Standard_(Herbie_Hancock_album)?oldid=675074416' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_New_Standard_(Herbie_Hancock_album)',
+          href: 'http://en.wikipedia.org/wiki/The_New_Standard_(Herbie_Hancock_album)' } ],
+     'foaf:name': [ { value: 'The New Standard (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:1_+_1_(album)',
+          href: 'http://dbpedia.org/resource/1_+_1_(album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Dis_Is_da_Drum',
+          href: 'http://dbpedia.org/resource/Dis_Is_da_Drum' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:New_standard',
+          href: 'http://dbpedia.org/resource/New_standard' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_New_Standard_(Herbie_Hancock_album)',
+          href: 'http://en.wikipedia.org/wiki/The_New_Standard_(Herbie_Hancock_album)' } ] } }

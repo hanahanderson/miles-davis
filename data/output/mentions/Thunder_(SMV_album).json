@@ -1,0 +1,8 @@
+{ name: 'Thunder (SMV album)',
+  href: 'http://en.wikipedia.org/wiki/Thunder_(SMV_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Other',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2404,
+       quote: [ 'Miles Davis' ] } ] }

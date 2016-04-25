@@ -1,0 +1,8 @@
+{ name: 'Roots (Slide Hampton album)',
+  href: 'http://en.wikipedia.org/wiki/Roots_(Slide_Hampton_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 936,
+       quote: [ '"Solar" (Miles Davis) - 11:30' ] } ] }

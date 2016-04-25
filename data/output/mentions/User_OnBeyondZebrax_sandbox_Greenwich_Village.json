@@ -1,0 +1,8 @@
+{ name: 'User:OnBeyondZebrax/sandbox/Greenwich Village',
+  href: 'http://en.wikipedia.org/wiki/User:OnBeyondZebrax/sandbox/Greenwich_Village',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 12369,
+       quote: [ 'Notable performers there included among others: Pearl Bailey, Count Basie, Nat King Cole, John Coltrane, Miles Davis, Ella Fitzgerald, Coleman Hawkins, Billie Holiday, Lena Horne, Burl Ives, Lead Belly, Anita O\'Day, Charlie Parker, Les Paul and Mary Ford, Paul Robeson, Kay Starr, Art Tatum, Sarah Vaughan, Dinah Washington, Josh White, Teddy Wilson, Lester Young, and The Weavers, who also in Christmas 1949, played at the Village Vanguard.' ] } ] }

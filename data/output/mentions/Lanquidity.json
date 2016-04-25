@@ -1,0 +1,8 @@
+{ name: 'Lanquidity',
+  href: 'http://en.wikipedia.org/wiki/Lanquidity',
+  mentions: 
+   [ { sectionHeader: 'Critical reception',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1344,
+       quote: [ 'Spin magazine called Lanquidity "a beautiful place to enter Ra\'s psych-jazz omniverse", while Alternative Press wrote that it is "impossibly funky": "Often compared to Miles Davis\' heaviest jazz-rock-funk fusion, Lanquidity is dense, rhythmic and curiously hypnotic".' ] } ] }

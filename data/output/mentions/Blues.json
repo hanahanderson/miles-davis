@@ -1,0 +1,8 @@
+{ name: 'Blues',
+  href: 'http://en.wikipedia.org/wiki/Blues',
+  mentions: 
+   [ { sectionHeader: 'Musical impact',
+       sectionSubHeader: '1980s to the present',
+       sectionIndex: 110,
+       wordCountBeforeSection: 51362,
+       quote: [ 'Prominent jazz, folk or rock performers, such as Louis Armstrong, Duke Ellington, Miles Davis, and Bob Dylan have performed significant blues recordings.' ] } ] }

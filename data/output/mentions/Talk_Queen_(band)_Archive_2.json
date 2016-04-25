@@ -1,0 +1,13 @@
+{ name: 'Talk:Queen (band)/Archive 2',
+  href: 'http://en.wikipedia.org/wiki/Talk:Queen_(band)/Archive_2',
+  mentions: 
+   [ { sectionHeader: 'Breaking up "History" section',
+       sectionSubHeader: '',
+       sectionIndex: 78,
+       wordCountBeforeSection: 32893,
+       quote: [ 'Look at Bob Dylan and Miles Davis- this is how we should do this.' ] },
+     { sectionHeader: 'Breaking up "History" section',
+       sectionSubHeader: '',
+       sectionIndex: 79,
+       wordCountBeforeSection: 33413,
+       quote: [ 'Frankly, I am not convinced that the articles on Bob Dylan and Miles Davis (without bolden years/album titles etc.!) are really good examples.' ] } ] }

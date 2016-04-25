@@ -1,0 +1,8 @@
+{ name: 'David Hirschfelder',
+  href: 'http://en.wikipedia.org/wiki/David_Hirschfelder',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 9780,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

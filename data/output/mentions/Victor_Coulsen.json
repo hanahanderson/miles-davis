@@ -1,0 +1,8 @@
+{ name: 'Victor Coulsen',
+  href: 'http://en.wikipedia.org/wiki/Victor_Coulsen',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 443,
+       quote: [ 'Coulsen has often been remembered has having had a seminal influence on the phrasing of early bebop by the likes of Thelonious Monk, Miles Davis, Dizzy Gillespie and several others - Charlie Parker among them.' ] } ] }

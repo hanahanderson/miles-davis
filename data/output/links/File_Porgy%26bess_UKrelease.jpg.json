@@ -1,0 +1,12 @@
+{ name: 'File:Porgy&bess UKrelease.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Porgy%26bess_UKrelease.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '17369933 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '519250518 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Porgy&bess_UKrelease.jpg?oldid=519250518',
+          href: 'http://en.wikipedia.org/wiki/File:Porgy&bess_UKrelease.jpg?oldid=519250518' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Porgy&bess_UKrelease.jpg',
+          href: 'http://dbpedia.org/resource/File:Porgy&bess_UKrelease.jpg' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'D Train (music group)',
+  href: 'http://en.wikipedia.org/wiki/D_Train_(music_group)',
+  mentions: 
+   [ { sectionHeader: 'Overview',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2647,
+       quote: [ 'In 1984, D Train had its only Billboard Hot 100 entry with "Something\'s on Your Mind," which climbed to #79 and was later covered by Miles Davis on his album You\'re Under Arrest.' ] } ] }

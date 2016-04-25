@@ -1,0 +1,107 @@
+{ name: 'Amanda (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Amanda_(album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Amanda is the debut studio album by Brazilian jazz artist Eliane Elias. The record was released in 1985 via the Passport Jazz label. It is a collaboration album recorded with her then husband Randy Brecker. The album is dedicated to their daughter, Amanda Elias Brecker. Shortly thereafter her solo career began, resulting in over twenty albums to date. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Randy_Brecker',
+          href: 'http://dbpedia.org/resource/Randy_Brecker' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Randy_Brecker',
+          href: 'http://dbpedia.org/resource/Randy_Brecker' } ],
+     'dbo:releaseDate': [ { value: '1998-03-17 (xsd:date)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Illusions_(Eliane_Elias_album)',
+          href: 'http://dbpedia.org/resource/Illusions_(Eliane_Elias_album)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://elianeelias.com/recordings',
+          href: 'http://elianeelias.com/recordings' } ],
+     'dbo:wikiPageID': [ { value: '47783138 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680640260 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Eliane_Elias',
+          href: 'http://dbpedia.org/resource/Eliane_Elias' },
+        { value: 'dbr:Randy_Brecker',
+          href: 'http://dbpedia.org/resource/Randy_Brecker' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Eliane_Elias',
+          href: 'http://dbpedia.org/resource/Eliane_Elias' } ],
+     'dbp:cover': [ { value: 'Amanda by Eliane Elias.jpg (en)' } ],
+     'dbp:genre': [ { value: 'Jazz, Latin (en)' } ],
+     'dbp:label': [ { value: 'Passport Jazz (PJ 88013) (en)' } ],
+     'dbp:lastAlbum': [ { value: '— (en)' } ],
+     'dbp:length': 
+      [ { value: '531.0' },
+        { value: '285.0' },
+        { value: '321.0' },
+        { value: '384.0' },
+        { value: '429.0' },
+        { value: '496.0' } ],
+     'dbp:name': [ { value: 'Amanda (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Illusions (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Eliane_Elias',
+          href: 'http://dbpedia.org/resource/Eliane_Elias' },
+        { value: 'dbr:Randy_Brecker',
+          href: 'http://dbpedia.org/resource/Randy_Brecker' } ],
+     'dbp:recorded': [ { value: 'Recorded and mixed at Secret Sound Studios, February 1985 and at Sound Ideas Studios, May 1985. (en)' } ],
+     'dbp:released': [ { value: '1998-03-17 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Little Songs (en)' } ],
+     'dbp:title': 
+      [ { value: 'Splash (en)' },
+        { value: 'Guaruja (en)' },
+        { value: 'Amandamada (en)' },
+        { value: 'Pandamandium (en)' },
+        { value: 'Para Nada (en)' },
+        { value: 'Samba De Bamba (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dbp:writer': 
+      [ { value: 'dbr:Simon_Jeffes',
+          href: 'http://dbpedia.org/resource/Simon_Jeffes' },
+        { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:writingCredits': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1985_debut_albums',
+          href: 'http://dbpedia.org/resource/Category:1985_debut_albums' },
+        { value: 'dbc:Eliane_Elias_albums',
+          href: 'http://dbpedia.org/resource/Category:Eliane_Elias_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Amanda is the debut studio album by Brazilian jazz artist Eliane Elias. The record was released in 1985 via the Passport Jazz label. It is a collaboration album recorded with her then husband Randy Brecker. The album is dedicated to their daughter, Amanda Elias Brecker. Shortly thereafter her solo career began, resulting in over twenty albums to date. (en)' } ],
+     'rdfs:label': [ { value: 'Amanda (album) (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Amanda_(album)?oldid=680640260',
+          href: 'http://en.wikipedia.org/wiki/Amanda_(album)?oldid=680640260' } ],
+     'foaf:homepage': 
+      [ { value: 'http://elianeelias.com/recordings',
+          href: 'http://elianeelias.com/recordings' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Amanda_(album)',
+          href: 'http://en.wikipedia.org/wiki/Amanda_(album)' } ],
+     'foaf:name': [ { value: 'Amanda (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Illusions_(Eliane_Elias_album)',
+          href: 'http://dbpedia.org/resource/Illusions_(Eliane_Elias_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Amanda_(album)',
+          href: 'http://en.wikipedia.org/wiki/Amanda_(album)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'The Proposition',
+  href: 'http://en.wikipedia.org/wiki/The_Proposition',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Awards',
+       sectionIndex: 53,
+       wordCountBeforeSection: 16936,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

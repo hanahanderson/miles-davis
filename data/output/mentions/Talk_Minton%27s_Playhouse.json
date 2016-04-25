@@ -1,0 +1,13 @@
+{ name: 'Talk:Minton\'s Playhouse',
+  href: 'http://en.wikipedia.org/wiki/Talk:Minton%27s_Playhouse',
+  mentions: 
+   [ { sectionHeader: 'Kerouac',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 3082,
+       quote: [ 'Trumpet player Miles Davis said in his autobiography' ] },
+     { sectionHeader: 'Kerouac',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3134,
+       quote: [ 'Book of Miles Davis Autobiography.' ] } ] }

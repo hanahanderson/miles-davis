@@ -1,0 +1,9 @@
+{ name: 'File:Go Ahead John.ogg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Go_Ahead_John.ogg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '31378585 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '621147618 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Go_Ahead_John.ogg?oldid=621147618',
+          href: 'http://en.wikipedia.org/wiki/File:Go_Ahead_John.ogg?oldid=621147618' } ] } }

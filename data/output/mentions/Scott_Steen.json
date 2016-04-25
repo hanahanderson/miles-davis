@@ -1,0 +1,8 @@
+{ name: 'Scott Steen',
+  href: 'http://en.wikipedia.org/wiki/Scott_Steen',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1084,
+       quote: [ 'With his solo project “Remembering Miles“, Steen pays tribute to Miles Davis with his muted weaving, patient melodic development, and fiery aggression.' ] } ] }

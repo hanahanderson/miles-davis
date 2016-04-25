@@ -1,0 +1,8 @@
+{ name: 'Rocky Mountain Jam',
+  href: 'http://en.wikipedia.org/wiki/Rocky_Mountain_Jam',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 333,
+       quote: [ 'It is currently the band\'s most recent live release and features long improvisational jams on most of the songs including a nod to both Miles Davis\' "So What" and the Grateful Dead\'s "Dark Star" at the beginning of "Dixie Chicken."' ] } ] }

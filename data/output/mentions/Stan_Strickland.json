@@ -1,0 +1,8 @@
+{ name: 'Stan Strickland',
+  href: 'http://en.wikipedia.org/wiki/Stan_Strickland',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 158,
+       quote: [ 'Strickland has performed internationally; been featured on recordings of Bob Moses, Marty Erlich, Webster Lewis and Brute Force; performed with notable jazz musicians Yusef Lateef, Pharoah Sanders, Herbie Mann, Danilo Perez, Shirley Scott and Marlena Shaw; and has opened for Miles Davis and Sonny Rollins.' ] } ] }

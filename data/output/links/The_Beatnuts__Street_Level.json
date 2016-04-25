@@ -1,0 +1,134 @@
+{ name: 'The Beatnuts: Street Level',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/The_Beatnuts:_Street_Level',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Beatnuts (sometimes called Street Level) is the full-length debut album by hip hop trio The Beatnuts. It was released on June 21, 1994 by Relativity Records just a year after their debut EP, Intoxicated Demons. "Psycho Dwarf" is the only song found on both the EP and the album. The album is produced by The Beatnuts themselves, as well as V.I.C. and Lucien. It features guest appearances by Grand Puba, Miss Jones and DJ Sinister amongst others.  The Beatnuts boasts two singles, "Props Over Here" and "Hit Me with That," . The album is known for its diverse production and hedonistic lyrics. Its cover art is inspired by the cover of Hank Mobley\'s The Turnaround.The album\'s title is sometimes mistakenly referred to as Street Level, because those words appear on the album cover, however the words "Street Level" do not appear anywhere else on the CD (in the liner notes or on the CD spine label).The Beatnuts is the last Beatnuts album before emcee Fashion left the group to pursue a solo career under the alias Al\' Tariq. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:The_Beatnuts',
+          href: 'http://dbpedia.org/resource/The_Beatnuts' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Hip_hop_music',
+          href: 'http://dbpedia.org/resource/Hip_hop_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Intoxicated_Demons:_The_EP',
+          href: 'http://dbpedia.org/resource/Intoxicated_Demons:_The_EP' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:The_Beatnuts',
+          href: 'http://dbpedia.org/resource/The_Beatnuts' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Violator_(company)',
+          href: 'http://dbpedia.org/resource/Violator_(company)' },
+        { value: 'dbr:Relativity_Records',
+          href: 'http://dbpedia.org/resource/Relativity_Records' } ],
+     'dbo:releaseDate': [ { value: '1994-06-21 (xsd:date)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Stone_Crazy',
+          href: 'http://dbpedia.org/resource/Stone_Crazy' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.rapreviews.com/archive/BTTL_thebeatnuts.html',
+          href: 'http://www.rapreviews.com/archive/BTTL_thebeatnuts.html' } ],
+     'dbo:wikiPageID': [ { value: '10611365 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683484201 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:The_Beatnuts',
+          href: 'http://dbpedia.org/resource/The_Beatnuts' } ],
+     'dbp:cover': [ { value: 'The Beatnuts - Street Level album cover.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Hip_hop_music',
+          href: 'http://dbpedia.org/resource/Hip_hop_music' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Violator_(company)',
+          href: 'http://dbpedia.org/resource/Violator_(company)' },
+        { value: 'dbr:Relativity_Records',
+          href: 'http://dbpedia.org/resource/Relativity_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Intoxicated Demons: The EP (en)' } ],
+     'dbp:name': [ { value: 'The Beatnuts (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Stone Crazy (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:The_Beatnuts',
+          href: 'http://dbpedia.org/resource/The_Beatnuts' },
+        { value: 'V.I.C. (en)' },
+        { value: 'Lucien (en)' } ],
+     'dbp:recorded': [ { value: 'May 1993-March 1994 (en)' } ],
+     'dbp:released': [ { value: '1994-06-21 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:The_Source_(magazine)',
+          href: 'http://dbpedia.org/resource/The_Source_(magazine)' },
+        { value: 'dbr:BrainOfHipHop',
+          href: 'http://dbpedia.org/resource/BrainOfHipHop' },
+        { value: 'RapReviews (en)' } ],
+     'dbp:rev1score': [ { value: '[{{Allmusic|class=album|id=r203173|pure_url=yes}} link] (en)' } ],
+     'dbp:rev2score': [ { value: 'link (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Beatnuts (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:The_Beatnuts_albums',
+          href: 'http://dbpedia.org/resource/Category:The_Beatnuts_albums' },
+        { value: 'dbc:Albums_produced_by_The_Beatnuts',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_The_Beatnuts' },
+        { value: 'dbc:1994_albums',
+          href: 'http://dbpedia.org/resource/Category:1994_albums' },
+        { value: 'dbc:Relativity_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Relativity_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Beatnuts (sometimes called Street Level) is the full-length debut album by hip hop trio The Beatnuts. It was released on June 21, 1994 by Relativity Records just a year after their debut EP, Intoxicated Demons. "Psycho Dwarf" is the only song found on both the EP and the album. The album is produced by The Beatnuts themselves, as well as V.I.C. and Lucien. It features guest appearances by Grand Puba, Miss Jones and DJ Sinister amongst others. (en)' } ],
+     'rdfs:label': [ { value: 'The Beatnuts: Street Level (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Beatnuts: Street Level',
+          href: 'http://rdf.freebase.com/ns/m.01ldrr4' },
+        { value: 'wikidata:The Beatnuts: Street Level',
+          href: 'http://www.wikidata.org/entity/Q7716147' },
+        { value: 'dbpedia-fr:The Beatnuts: Street Level',
+          href: 'http://fr.dbpedia.org/resource/The_Beatnuts:_Street_Level' },
+        { value: 'dbpedia-wikidata:The Beatnuts: Street Level',
+          href: 'http://wikidata.dbpedia.org/resource/Q7716147' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Beatnuts:_Street_Level?oldid=683484201',
+          href: 'http://en.wikipedia.org/wiki/The_Beatnuts:_Street_Level?oldid=683484201' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Beatnuts:_Street_Level',
+          href: 'http://en.wikipedia.org/wiki/The_Beatnuts:_Street_Level' } ],
+     'foaf:name': [ { value: 'The Beatnuts (en)' } ],
+     'is dbo:album\n of': 
+      [ { value: 'dbr:Hit_Me_with_That',
+          href: 'http://dbpedia.org/resource/Hit_Me_with_That' },
+        { value: 'dbr:Props_Over_Here',
+          href: 'http://dbpedia.org/resource/Props_Over_Here' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Stone_Crazy',
+          href: 'http://dbpedia.org/resource/Stone_Crazy' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Intoxicated_Demons:_The_EP',
+          href: 'http://dbpedia.org/resource/Intoxicated_Demons:_The_EP' } ],
+     'is dbp:fromAlbum\n of': 
+      [ { value: 'dbr:Hit_Me_with_That',
+          href: 'http://dbpedia.org/resource/Hit_Me_with_That' },
+        { value: 'dbr:Props_Over_Here',
+          href: 'http://dbpedia.org/resource/Props_Over_Here' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Beatnuts:_Street_Level',
+          href: 'http://en.wikipedia.org/wiki/The_Beatnuts:_Street_Level' } ] } }

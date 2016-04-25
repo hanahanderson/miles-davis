@@ -1,0 +1,8 @@
+{ name: 'Alexandra Starlight',
+  href: 'http://en.wikipedia.org/wiki/Alexandra_Starlight',
+  mentions: 
+   [ { sectionHeader: 'Current musical projects',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 5120,
+       quote: [ 'In 2012, she performed at SXSW for a showcase curated by the Miles Davis family, and in 2013 she was an official SXSW showcasing artist, performing at the "50 years of the Beatles" showcase hosted by the GRAMMYs.' ] } ] }

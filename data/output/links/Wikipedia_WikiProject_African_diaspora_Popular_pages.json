@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject African diaspora/Popular pages',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_African_diaspora/Popular_pages',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

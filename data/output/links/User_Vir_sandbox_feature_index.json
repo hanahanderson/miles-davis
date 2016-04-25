@@ -1,0 +1,4 @@
+{ name: 'User:Vir/sandbox/feature index',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Vir/sandbox/feature_index',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

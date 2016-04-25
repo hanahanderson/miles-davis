@@ -1,0 +1,8 @@
+{ name: 'Have Some Fun: Live at Ungano\'s',
+  href: 'http://en.wikipedia.org/wiki/Have_Some_Fun:_Live_at_Ungano%27s',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 866,
+       quote: [ 'According to eye-witnesses, the club was packed that night and included the attendance of jazz musician Miles Davis and blues guitarist Johnny Winter.' ] } ] }

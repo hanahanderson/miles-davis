@@ -1,0 +1,8 @@
+{ name: 'Local on the 8s',
+  href: 'http://en.wikipedia.org/wiki/Local_on_the_8s',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: 'Lower Display Line (LDL) and sidebar',
+       sectionIndex: 32,
+       wordCountBeforeSection: 15521,
+       quote: [ 'Other songs that can be heard during this segment include production music from the Network Music stock music service, and music from artists such as Trammell Starks (who composed 40 tracks specifically for The Weather Channel), The Rippingtons, Moby, EKO, Pat Metheny Group, Shadowfax, Chris Camozzi, Scott Ward, Miles Davis, Robert A.' ] } ] }

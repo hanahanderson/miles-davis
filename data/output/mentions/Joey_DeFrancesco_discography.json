@@ -1,0 +1,8 @@
+{ name: 'Joey DeFrancesco discography',
+  href: 'http://en.wikipedia.org/wiki/Joey_DeFrancesco_discography',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2295,
+       quote: [ 'Miles Davis' ] } ] }

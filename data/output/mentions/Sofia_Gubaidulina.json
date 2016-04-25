@@ -1,0 +1,8 @@
+{ name: 'Sofia Gubaidulina',
+  href: 'http://en.wikipedia.org/wiki/Sofia_Gubaidulina',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Film scores',
+       sectionIndex: 62,
+       wordCountBeforeSection: 26742,
+       quote: [ 'Miles Davis (1984)' ] } ] }

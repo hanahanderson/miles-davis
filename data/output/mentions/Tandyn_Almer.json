@@ -1,0 +1,8 @@
+{ name: 'Tandyn Almer',
+  href: 'http://en.wikipedia.org/wiki/Tandyn_Almer',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 946,
+       quote: [ 'Almer attended a music conservatory in Minnesota, and became fascinated with the jazz of John Coltrane, Miles Davis and Ahmad Jamal.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject Spam/LinkSearch/amazon.com',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_Spam/LinkSearch/amazon.com',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

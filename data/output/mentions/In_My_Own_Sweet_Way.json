@@ -1,0 +1,8 @@
+{ name: 'In My Own Sweet Way',
+  href: 'http://en.wikipedia.org/wiki/In_My_Own_Sweet_Way',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 862,
+       quote: [ '"Sippin\' at Bells" (Miles Davis) - 7:21' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'All of You (Cole Porter song)',
+  href: 'http://en.wikipedia.org/wiki/All_of_You_(Cole_Porter_song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'It has also been performed by Miles Davis (such as on \'Round About Midnight and his 1964 live recording Four and More), Tony Bennett (for instance on his MTV Unplugged album) McCoy Tyner and Keith Jarrett.' ] } ] }

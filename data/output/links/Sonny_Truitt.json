@@ -1,0 +1,30 @@
+{ name: 'Sonny Truitt',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Sonny_Truitt',
+  values: 
+   { 'dbo:abstract': [ { value: 'Sonny Truitt was an American jazz trombonist, pianist, and composer. He was best known for his work with Miles Davis. (en)' } ],
+     'dbo:wikiPageID': [ { value: '37985766 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '654734854 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_jazz_trombonists',
+          href: 'http://dbpedia.org/resource/Category:American_jazz_trombonists' },
+        { value: 'dbc:American_jazz_pianists',
+          href: 'http://dbpedia.org/resource/Category:American_jazz_pianists' } ],
+     'rdfs:comment': [ { value: 'Sonny Truitt was an American jazz trombonist, pianist, and composer. He was best known for his work with Miles Davis. (en)' } ],
+     'rdfs:label': [ { value: 'Sonny Truitt (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Sonny Truitt',
+          href: 'http://rdf.freebase.com/ns/m.0pb56sv' },
+        { value: 'wikidata:Sonny Truitt',
+          href: 'http://www.wikidata.org/entity/Q7562122' },
+        { value: 'dbpedia-wikidata:Sonny Truitt',
+          href: 'http://wikidata.dbpedia.org/resource/Q7562122' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Sonny_Truitt?oldid=654734854',
+          href: 'http://en.wikipedia.org/wiki/Sonny_Truitt?oldid=654734854' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Sonny_Truitt',
+          href: 'http://en.wikipedia.org/wiki/Sonny_Truitt' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Sonny_Truitt',
+          href: 'http://en.wikipedia.org/wiki/Sonny_Truitt' } ] } }

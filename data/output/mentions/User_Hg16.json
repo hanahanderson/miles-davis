@@ -1,0 +1,8 @@
+{ name: 'User:Hg16',
+  href: 'http://en.wikipedia.org/wiki/User:Hg16',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 886,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

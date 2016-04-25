@@ -1,0 +1,8 @@
+{ name: 'Yumi Matsutoya',
+  href: 'http://en.wikipedia.org/wiki/Yumi_Matsutoya',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: 'Studio albums',
+       sectionIndex: 56,
+       wordCountBeforeSection: 21357,
+       quote: [ 'The other songs in the top five were (in order) Love Love Love from Drams Come True (2,488,630 copies), Happy Happy Greeting from the Kinki Kids (608,790 copies), and My Funny Valentine by Miles Davis.' ] } ] }

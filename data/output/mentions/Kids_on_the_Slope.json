@@ -1,0 +1,8 @@
+{ name: 'Kids on the Slope',
+  href: 'http://en.wikipedia.org/wiki/Kids_on_the_Slope',
+  mentions: 
+   [ { sectionHeader: 'Media',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 7706,
+       quote: [ 'The two duke it out to "Four" by Miles Davis.' ] } ] }

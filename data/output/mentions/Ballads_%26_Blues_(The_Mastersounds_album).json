@@ -1,0 +1,8 @@
+{ name: 'Ballads & Blues (The Mastersounds album)',
+  href: 'http://en.wikipedia.org/wiki/Ballads_%26_Blues_(The_Mastersounds_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 833,
+       quote: [ '"Solar" (Miles Davis) - 4:05' ] } ] }

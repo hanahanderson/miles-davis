@@ -1,0 +1,8 @@
+{ name: 'Thomas Adès',
+  href: 'http://en.wikipedia.org/wiki/Thomas_Ad%C3%A8s',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Chamber music',
+       sectionIndex: 45,
+       wordCountBeforeSection: 20269,
+       quote: [ 'Miles Davis (1984)' ] } ] }

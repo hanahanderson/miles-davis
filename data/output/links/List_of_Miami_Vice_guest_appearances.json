@@ -1,0 +1,30 @@
+{ name: 'List of Miami Vice guest appearances',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Miami_Vice_guest_appearances',
+  values: 
+   { 'dbo:abstract': [ { value: 'The list of Miami Vice guest appearances is a list of actors/actresses to have appeared on the popular 1980s American television series, Miami Vice. The show included actors and actresses as well as musicians, celebrities, and athletes. Throughout the show\'s run most guest actors/actresses appeared once, while others appeared multiple times. At that time these actors and actresses were mostly unknown when they first guest appeared on the show, now they are some of the most widely known actors, actresses, and celebrities. (en)' } ],
+     'dbo:wikiPageID': [ { value: '15069165 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681396066 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_guest_appearances_in_television',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_guest_appearances_in_television' },
+        { value: 'dbc:Miami_Vice',
+          href: 'http://dbpedia.org/resource/Category:Miami_Vice' } ],
+     'rdfs:comment': [ { value: 'The list of Miami Vice guest appearances is a list of actors/actresses to have appeared on the popular 1980s American television series, Miami Vice. The show included actors and actresses as well as musicians, celebrities, and athletes. Throughout the show\'s run most guest actors/actresses appeared once, while others appeared multiple times. (en)' } ],
+     'rdfs:label': [ { value: 'List of Miami Vice guest appearances (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of Miami Vice guest appearances',
+          href: 'http://www.wikidata.org/entity/Q6590156' },
+        { value: 'dbpedia-pl:List of Miami Vice guest appearances',
+          href: 'http://pl.dbpedia.org/resource/Lista_postaci_epizodycznych_w_serialu_Miami_Vice' },
+        { value: 'dbpedia-wikidata:List of Miami Vice guest appearances',
+          href: 'http://wikidata.dbpedia.org/resource/Q6590156' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Miami_Vice_guest_appearances?oldid=681396066',
+          href: 'http://en.wikipedia.org/wiki/List_of_Miami_Vice_guest_appearances?oldid=681396066' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Miami_Vice_guest_appearances',
+          href: 'http://en.wikipedia.org/wiki/List_of_Miami_Vice_guest_appearances' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Miami_Vice_guest_appearances',
+          href: 'http://en.wikipedia.org/wiki/List_of_Miami_Vice_guest_appearances' } ] } }

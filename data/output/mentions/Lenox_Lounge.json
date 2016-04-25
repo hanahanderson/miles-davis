@@ -1,0 +1,8 @@
+{ name: 'Lenox Lounge',
+  href: 'http://en.wikipedia.org/wiki/Lenox_Lounge',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 22,
+       quote: [ 'The bar was founded in 1939 by Dominic Greco and served as venue for performances by many great jazz artists, including Billie Holiday, Miles Davis, and John Coltrane.' ] } ] }

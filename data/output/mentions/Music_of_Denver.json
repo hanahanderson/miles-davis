@@ -1,0 +1,8 @@
+{ name: 'Music of Denver',
+  href: 'http://en.wikipedia.org/wiki/Music_of_Denver',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1002,
+       quote: [ 'From the 1920s-50s, Welton Street in Five Points was home to over fifty bars and clubs, where some of the greatest jazz musicians such as Billie Holiday, Duke Ellington, Miles Davis, Nat King Cole, Count Basie, Dizzy Gillespie, and others performed.' ] } ] }

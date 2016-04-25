@@ -1,0 +1,8 @@
+{ name: 'Praxis (band)',
+  href: 'http://en.wikipedia.org/wiki/Praxis_(band)',
+  mentions: 
+   [ { sectionHeader: 'Musical styles',
+       sectionSubHeader: '2011: End of the band',
+       sectionIndex: 31,
+       wordCountBeforeSection: 5876,
+       quote: [ 'Between the influence of Laswell and Buckethead, Praxis\' musical experimentation in both studio, street and live settings have combined elements of mid-70’s Funkadelic & Miles Davis, hip-hop’s more avant-garde leanings, and Last Exit\'s ferocious yet organic jazz/metal aesthetic.' ] } ] }

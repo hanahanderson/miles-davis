@@ -1,0 +1,110 @@
+{ name: 'Lonesome, On\'ry and Mean',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Lonesome,_On%27ry_and_Mean',
+  values: 
+   { 'dbo:abstract': [ { value: 'Lonesome, On\'ry and Mean is an album by Waylon Jennings, released on RCA Victor in 1973. It was, after Good Hearted Woman and Ladies Love Outlaws, the third in a series of albums which were to establish Jennings as one of the most prominent representatives of the outlaw country movement. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Waylon_Jennings',
+          href: 'http://dbpedia.org/resource/Waylon_Jennings' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Outlaw_country',
+          href: 'http://dbpedia.org/resource/Outlaw_country' },
+        { value: 'dbr:Country_music',
+          href: 'http://dbpedia.org/resource/Country_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Ladies_Love_Outlaws_(Waylon_Jennings_album)',
+          href: 'http://dbpedia.org/resource/Ladies_Love_Outlaws_(Waylon_Jennings_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Waylon_Jennings',
+          href: 'http://dbpedia.org/resource/Waylon_Jennings' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:RCA_Records',
+          href: 'http://dbpedia.org/resource/RCA_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Honky_Tonk_Heroes',
+          href: 'http://dbpedia.org/resource/Honky_Tonk_Heroes' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '6980964 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680757602 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Waylon_Jennings',
+          href: 'http://dbpedia.org/resource/Waylon_Jennings' } ],
+     'dbp:cover': [ { value: 'WaylonJenningsLonesomeOnryAndMean.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Outlaw_country',
+          href: 'http://dbpedia.org/resource/Outlaw_country' },
+        { value: 'dbr:Country_music',
+          href: 'http://dbpedia.org/resource/Country_music' } ],
+     'dbp:label': 
+      [ { value: 'dbr:RCA_Records',
+          href: 'http://dbpedia.org/resource/RCA_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Ladies Love Outlaws (en)' } ],
+     'dbp:name': [ { value: 'Lonesome, On\'ry and Mean (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Honky Tonk Heroes (en)' } ],
+     'dbp:producer': [ { value: 'Ronny Light, Waylon Jennings (en)' } ],
+     'dbp:recorded': [ { value: '1972 (xsd:integer)' } ],
+     'dbp:released': [ { value: 'March 1973 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:rev1score': [ { value: '[{{Allmusic|class=album|id=r651444|pure_url=yes}} link] (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Lonesome, On\'ry and Mean (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1973_albums',
+          href: 'http://dbpedia.org/resource/Category:1973_albums' },
+        { value: 'dbc:RCA_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:RCA_Records_albums' },
+        { value: 'dbc:Waylon_Jennings_albums',
+          href: 'http://dbpedia.org/resource/Category:Waylon_Jennings_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Lonesome, On\'ry and Mean is an album by Waylon Jennings, released on RCA Victor in 1973. It was, after Good Hearted Woman and Ladies Love Outlaws, the third in a series of albums which were to establish Jennings as one of the most prominent representatives of the outlaw country movement. (en)' } ],
+     'rdfs:label': [ { value: 'Lonesome, On\'ry and Mean (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Lonesome, On\'ry and Mean',
+          href: 'http://rdf.freebase.com/ns/m.01j_84p' },
+        { value: 'dbpedia-fr:Lonesome, On\'ry and Mean',
+          href: 'http://fr.dbpedia.org/resource/Lonesome,_On\'ry_and_Mean' },
+        { value: 'dbpedia-it:Lonesome, On\'ry and Mean',
+          href: 'http://it.dbpedia.org/resource/Lonesome,_On\'ry_and_Mean' },
+        { value: 'dbpedia-wikidata:Lonesome, On\'ry and Mean',
+          href: 'http://wikidata.dbpedia.org/resource/Q14928231' },
+        { value: 'wikidata:Lonesome, On\'ry and Mean',
+          href: 'http://www.wikidata.org/entity/Q14928231' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Lonesome,_On\'ry_and_Mean?oldid=680757602',
+          href: 'http://en.wikipedia.org/wiki/Lonesome,_On\'ry_and_Mean?oldid=680757602' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Lonesome,_On\'ry_and_Mean',
+          href: 'http://en.wikipedia.org/wiki/Lonesome,_On\'ry_and_Mean' } ],
+     'foaf:name': [ { value: 'Lonesome, On\'ry and Mean (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Honky_Tonk_Heroes',
+          href: 'http://dbpedia.org/resource/Honky_Tonk_Heroes' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Ladies_Love_Outlaws_(Waylon_Jennings_album)',
+          href: 'http://dbpedia.org/resource/Ladies_Love_Outlaws_(Waylon_Jennings_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Lonesome,_On\'ry_and_Mean',
+          href: 'http://en.wikipedia.org/wiki/Lonesome,_On\'ry_and_Mean' } ] } }

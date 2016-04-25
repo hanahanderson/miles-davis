@@ -1,0 +1,8 @@
+{ name: 'User:Silence/Unwatchlist',
+  href: 'http://en.wikipedia.org/wiki/User:Silence/Unwatchlist',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

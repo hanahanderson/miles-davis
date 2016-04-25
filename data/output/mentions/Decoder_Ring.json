@@ -1,0 +1,8 @@
+{ name: 'Decoder Ring',
+  href: 'http://en.wikipedia.org/wiki/Decoder_Ring',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 4839,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

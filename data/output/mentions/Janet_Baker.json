@@ -1,0 +1,8 @@
+{ name: 'Janet Baker',
+  href: 'http://en.wikipedia.org/wiki/Janet_Baker',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Retirement',
+       sectionIndex: 35,
+       wordCountBeforeSection: 11703,
+       quote: [ 'Miles Davis (1984)' ] } ] }

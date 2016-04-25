@@ -1,0 +1,13 @@
+{ name: 'User talk:198.88.120.176',
+  href: 'http://en.wikipedia.org/wiki/User_talk:198.88.120.176',
+  mentions: 
+   [ { sectionHeader: 'February 2012',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 925,
+       quote: [ 'Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted (undone) by an automated computer program called ClueBot NG.' ] },
+     { sectionHeader: 'February 2012',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1237,
+       quote: [ 'The following is the log entry regarding this warning: Miles Davis was changed by 198.88.120.176 (u) (t) ANN scored at 0.966217 on 2012-02-29T14:43:46+00:00 .' ] } ] }

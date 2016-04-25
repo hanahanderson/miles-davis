@@ -1,0 +1,40 @@
+{ name: 'Timeline of music in the United States (1970–present)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Timeline_of_music_in_the_United_States_(1970%E2%80%93present)',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a timeline of music in the United States from 1970 to the present. (en)' } ],
+     'dbo:wikiPageID': [ { value: '15758205 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675317855 (xsd:integer)' } ],
+     'dbp:bot': [ { value: 'H3llBot (en)' } ],
+     'dbp:date': [ { value: 'October 2010 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Timelines_of_American_music',
+          href: 'http://dbpedia.org/resource/Category:Timelines_of_American_music' },
+        { value: 'dbc:20th_century_in_music',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_music' },
+        { value: 'dbc:21st_century_in_music',
+          href: 'http://dbpedia.org/resource/Category:21st_century_in_music' } ],
+     'rdfs:comment': [ { value: 'This is a timeline of music in the United States from 1970 to the present. (en)' } ],
+     'rdfs:label': [ { value: 'Timeline of music in the United States (1970–present) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Timeline of music in the United States (1970–present)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7806125' },
+        { value: 'wikidata:Timeline of music in the United States (1970–present)',
+          href: 'http://www.wikidata.org/entity/Q7806125' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1970–present)?oldid=675317855',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1970–present)?oldid=675317855' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1970–present)',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1970–present)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Timeline_of_music_in_the_United_States_(1970-present)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1970-present)' },
+        { value: 'dbr:Timeline_of_music_in_the_United_States_(1970_to_the_present)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1970_to_the_present)' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Timeline of music in the United States (1970–present)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1970%E2%80%93present)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1970–present)',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1970–present)' } ] } }

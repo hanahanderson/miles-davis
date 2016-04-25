@@ -1,0 +1,8 @@
+{ name: 'Hampton Hawes at the Piano',
+  href: 'http://en.wikipedia.org/wiki/Hampton_Hawes_at_the_Piano',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 872,
+       quote: [ '"Blue in Green" (Miles Davis) - 5:25' ] } ] }

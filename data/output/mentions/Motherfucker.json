@@ -1,0 +1,8 @@
+{ name: 'Motherfucker',
+  href: 'http://en.wikipedia.org/wiki/Motherfucker',
+  mentions: 
+   [ { sectionHeader: 'Variants',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 684,
+       quote: [ 'Use of the term as a compliment is frequent in the jazz community, for example when Miles Davis addressed his future percussionist Mino Cinelu: "Miles...grabbed his arm and said, \'You\'re a motherfucker.\' Cinelu thanked Miles for the compliment."' ] } ] }

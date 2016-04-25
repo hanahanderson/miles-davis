@@ -1,0 +1,8 @@
+{ name: 'User talk:John FitzGerald',
+  href: 'http://en.wikipedia.org/wiki/User_talk:John_FitzGerald',
+  mentions: 
+   [ { sectionHeader: 'Jimmy Heath',
+       sectionSubHeader: '',
+       sectionIndex: 199,
+       wordCountBeforeSection: 45067,
+       quote: [ 'Subject seems notable enough for work with Miles Davis et al.' ] } ] }

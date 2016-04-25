@@ -1,0 +1,13 @@
+{ name: 'Fats Navarro',
+  href: 'http://en.wikipedia.org/wiki/Fats_Navarro',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Billy Eckstine, Charlie Parker, Miles Davis, Bud Powell, Coleman Hawkins, Dizzy Gillespie, Lionel Hampton, Benny Goodman, Gil Evans, Andy Kirk, Charles Mingus, Eddie "Lockjaw" Davis, Kenny Clarke' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 5554,
+       quote: [ 'Miles Davis/Dizzy Gillespie/Fats Navarro - Trumpet Giants (New Jazz NJLP 8296)' ] } ] }

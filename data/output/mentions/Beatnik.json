@@ -1,0 +1,8 @@
+{ name: 'Beatnik',
+  href: 'http://en.wikipedia.org/wiki/Beatnik',
+  mentions: 
+   [ { sectionHeader: 'Beat culture',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 9456,
+       quote: [ 'Charlie Parker, Dizzy Gillespie, and Miles Davis rapidly became what Ginsberg dubbed "Secret Heroes" to this group of aesthetes.' ] } ] }

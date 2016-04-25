@@ -1,0 +1,8 @@
+{ name: 'Jon Ballantyne',
+  href: 'http://en.wikipedia.org/wiki/Jon_Ballantyne',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 689,
+       quote: [ 'His father Fred is also a pianist and both parents jazz enthusiasts, therefore Jon was hearing the recordings of greats such as Miles Davis, Thelonious Monk, Bill Evans and Duke Ellington from the beginning of his life.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Fabrik (Hamburg)',
+  href: 'http://en.wikipedia.org/wiki/Fabrik_(Hamburg)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 824,
+       quote: [ 'Many prominent musicians have played there, including B.B. King, Miles Davis, Meat Loaf and Nirvana.' ] } ] }

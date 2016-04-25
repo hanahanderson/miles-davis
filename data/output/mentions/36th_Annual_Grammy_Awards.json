@@ -1,0 +1,8 @@
+{ name: '36th Annual Grammy Awards',
+  href: 'http://en.wikipedia.org/wiki/36th_Annual_Grammy_Awards',
+  mentions: 
+   [ { sectionHeader: 'Award winners',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 6350,
+       quote: [ 'Miles Davis & Quincy Jones for Miles & Quincy Live at Montreux' ] } ] }

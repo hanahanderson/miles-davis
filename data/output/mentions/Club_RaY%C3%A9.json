@@ -1,0 +1,8 @@
+{ name: 'Club RaYé',
+  href: 'http://en.wikipedia.org/wiki/Club_RaY%C3%A9',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1329,
+       quote: [ 'During the evening (from 5pm until 11pm) there are often live jazz musicians playing or singing classic jazz numbers, from musicians such as Nina Simone, Cole Porter, Miles Davis, Frank Sinatra, Peggy Lee, Edith Piaf and many others.' ] } ] }

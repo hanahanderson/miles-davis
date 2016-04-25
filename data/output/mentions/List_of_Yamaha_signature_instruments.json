@@ -1,0 +1,8 @@
+{ name: 'List of Yamaha signature instruments',
+  href: 'http://en.wikipedia.org/wiki/List_of_Yamaha_signature_instruments',
+  mentions: 
+   [ { sectionHeader: 'Guitars',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2865,
+       quote: [ 'The Yamaha PA1511MS is the current signature guitar of American jazz guitarist Mike Stern, known for his work with Miles Davis.' ] } ] }

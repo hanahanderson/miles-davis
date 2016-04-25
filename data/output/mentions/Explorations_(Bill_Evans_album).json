@@ -1,0 +1,13 @@
+{ name: 'Explorations (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Explorations_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2642,
+       quote: [ '"Nardis" (Miles Davis) – 5:49' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'Additional personnel',
+       sectionIndex: 27,
+       wordCountBeforeSection: 4318,
+       quote: [ 'Miles Davis' ] } ] }

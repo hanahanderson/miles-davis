@@ -1,0 +1,8 @@
+{ name: 'Free (Marcus Miller album)',
+  href: 'http://en.wikipedia.org/wiki/Free_(Marcus_Miller_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1154,
+       quote: [ 'Miles Davis' ] } ] }

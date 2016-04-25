@@ -1,0 +1,8 @@
+{ name: 'This Meets That',
+  href: 'http://en.wikipedia.org/wiki/This_Meets_That',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1352,
+       quote: [ 'Miles Davis' ] } ] }

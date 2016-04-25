@@ -1,0 +1,35 @@
+{ name: 'List of people with surname Davis',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_with_surname_Davis',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '18292374 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675224659 (xsd:integer)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Surnames',
+          href: 'http://dbpedia.org/resource/Category:Surnames' },
+        { value: 'dbc:Lists_of_people_sharing_a_surname',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_sharing_a_surname' } ],
+     'rdfs:label': [ { value: 'List of people with surname Davis (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of people with surname Davis',
+          href: 'http://wikidata.dbpedia.org/resource/Q6633254' },
+        { value: 'wikidata:List of people with surname Davis',
+          href: 'http://www.wikidata.org/entity/Q6633254' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_with_surname_Davis?oldid=675224659',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_with_surname_Davis?oldid=675224659' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_with_surname_Davis',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_with_surname_Davis' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Davis',
+          href: 'http://dbpedia.org/resource/Davis' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_people_with_the_surname_Davis',
+          href: 'http://dbpedia.org/resource/List_of_people_with_the_surname_Davis' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_with_surname_Davis',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_with_surname_Davis' } ] } }

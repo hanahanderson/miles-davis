@@ -1,0 +1,13 @@
+{ name: 'User:Cymbop/sandbox2',
+  href: 'http://en.wikipedia.org/wiki/User:Cymbop/sandbox2',
+  mentions: 
+   [ { sectionHeader: 'Musical Influences',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2427,
+       quote: [ 'Mahanthappa further claims The Brecker Brothers, The Yellowjackets, David Sanborn, Grover Washington, Jr., and Miles Davis\' electric bands as influences in creating Samdhi.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 5222,
+       quote: [ 'A Celebration of the Music of Miles Davis' ] } ] }

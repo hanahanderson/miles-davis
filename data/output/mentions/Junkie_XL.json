@@ -1,0 +1,8 @@
+{ name: 'Junkie XL',
+  href: 'http://en.wikipedia.org/wiki/Junkie_XL',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Soundtracks',
+       sectionIndex: 51,
+       wordCountBeforeSection: 20480,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

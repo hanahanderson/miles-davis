@@ -1,0 +1,8 @@
+{ name: '1940s',
+  href: 'http://en.wikipedia.org/wiki/1940s',
+  mentions: 
+   [ { sectionHeader: 'People',
+       sectionSubHeader: '',
+       sectionIndex: 70,
+       wordCountBeforeSection: 22429,
+       quote: [ 'Miles Davis' ] } ] }

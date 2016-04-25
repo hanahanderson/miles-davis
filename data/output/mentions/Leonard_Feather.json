@@ -1,0 +1,8 @@
+{ name: 'Leonard Feather',
+  href: 'http://en.wikipedia.org/wiki/Leonard_Feather',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3646,
+       quote: [ 'Miles Davis (1989) Autobiography' ] } ] }

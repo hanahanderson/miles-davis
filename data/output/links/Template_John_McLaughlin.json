@@ -1,0 +1,14 @@
+{ name: 'Template:John McLaughlin',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:John_McLaughlin',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '38094218 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '648890190 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q20359837',
+          href: 'http://wikidata.dbpedia.org/resource/Q20359837' },
+        { value: 'wikidata:Q20359837',
+          href: 'http://www.wikidata.org/entity/Q20359837' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:John_McLaughlin?oldid=648890190',
+          href: 'http://en.wikipedia.org/wiki/Template:John_McLaughlin?oldid=648890190' } ] } }

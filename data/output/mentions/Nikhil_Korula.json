@@ -1,0 +1,8 @@
+{ name: 'Nikhil Korula',
+  href: 'http://en.wikipedia.org/wiki/Nikhil_Korula',
+  mentions: 
+   [ { sectionHeader: 'Early life and education',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2479,
+       quote: [ 'According to Korula, it was meeting Miles Davis backstage at the Grammys that sparked his long-term interest in jazz.' ] } ] }

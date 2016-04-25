@@ -1,0 +1,8 @@
+{ name: 'Aga Zaryan',
+  href: 'http://en.wikipedia.org/wiki/Aga_Zaryan',
+  mentions: 
+   [ { sectionHeader: 'Musical Beginning',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2785,
+       quote: [ 'After hearing the music of Ella Fitzgerald and Miles Davis, Zaryan decided to become a jazz vocalist.' ] } ] }

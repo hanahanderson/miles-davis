@@ -1,0 +1,112 @@
+{ name: 'Generation (Dexter Gordon album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Generation_(Dexter_Gordon_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '41.583333333333336' } ],
+     'dbo:abstract': [ { value: 'Generation is an album by saxophonist Dexter Gordon which was recorded in 1972 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Dexter_Gordon',
+          href: 'http://dbpedia.org/resource/Dexter_Gordon' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Tangerine_(Dexter_Gordon_album)',
+          href: 'http://dbpedia.org/resource/Tangerine_(Dexter_Gordon_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Ozzie_Cadena',
+          href: 'http://dbpedia.org/resource/Ozzie_Cadena' } ],
+     'dbo:recordDate': [ { value: '1972-07-22 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:runtime': [ { value: '2495.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Apartment_(album)',
+          href: 'http://dbpedia.org/resource/The_Apartment_(album)' } ],
+     'dbo:wikiPageID': [ { value: '40000561 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663261687 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Dexter_Gordon',
+          href: 'http://dbpedia.org/resource/Dexter_Gordon' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Dexter_Gordon',
+          href: 'http://dbpedia.org/resource/Dexter_Gordon' } ],
+     'dbp:cover': [ { value: 'Generation .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 10069 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Tangerine (en)' } ],
+     'dbp:length': [ { value: '2495.0' } ],
+     'dbp:name': [ { value: 'Generation (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Apartment (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Ozzie_Cadena',
+          href: 'http://dbpedia.org/resource/Ozzie_Cadena' } ],
+     'dbp:recorded': 
+      [ { value: '1972-07-22 (xsd:date)' },
+        { value: 'Van Gelder Studio, Englewood Cliffs, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1973 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Generation (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1973_albums',
+          href: 'http://dbpedia.org/resource/Category:1973_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Dexter_Gordon_albums',
+          href: 'http://dbpedia.org/resource/Category:Dexter_Gordon_albums' },
+        { value: 'dbc:Albums_produced_by_Ozzie_Cadena',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Ozzie_Cadena' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Generation is an album by saxophonist Dexter Gordon which was recorded in 1972 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'Generation (Dexter Gordon album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Generation (Dexter Gordon album)',
+          href: 'http://rdf.freebase.com/ns/m.01k67v6' },
+        { value: 'wikidata:Generation (Dexter Gordon album)',
+          href: 'http://www.wikidata.org/entity/Q17020467' },
+        { value: 'dbpedia-wikidata:Generation (Dexter Gordon album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17020467' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Generation_(Dexter_Gordon_album)?oldid=663261687',
+          href: 'http://en.wikipedia.org/wiki/Generation_(Dexter_Gordon_album)?oldid=663261687' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Generation_(Dexter_Gordon_album)',
+          href: 'http://en.wikipedia.org/wiki/Generation_(Dexter_Gordon_album)' } ],
+     'foaf:name': [ { value: 'Generation (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Tangerine_(Dexter_Gordon_album)',
+          href: 'http://dbpedia.org/resource/Tangerine_(Dexter_Gordon_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Generation_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Generation_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Generation_(Dexter_Gordon_album)',
+          href: 'http://en.wikipedia.org/wiki/Generation_(Dexter_Gordon_album)' } ] } }

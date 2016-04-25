@@ -1,0 +1,10 @@
+{ name: 'Sonny Greenwich',
+  href: 'http://en.wikipedia.org/wiki/Sonny_Greenwich',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1976,
+       quote: 
+        [ 'In December 1969 Greenwich performed with Miles Davis, Wayne Shorter, Chick Corea, Dave Holland and Tony Williams at the Colonial Tavern in Toronto.',
+          'The following year, Greenwich\'s own group opened for the Miles Davis band at Massey Hall.' ] } ] }

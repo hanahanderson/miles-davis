@@ -1,0 +1,8 @@
+{ name: 'Richard Wright (musician)',
+  href: 'http://en.wikipedia.org/wiki/Richard_Wright_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Musical style',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 16617,
+       quote: [ 'Wright\'s main influence was jazz, particularly Miles Davis and John Coltrane.' ] } ] }

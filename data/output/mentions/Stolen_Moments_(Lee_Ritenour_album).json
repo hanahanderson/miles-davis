@@ -1,0 +1,8 @@
+{ name: 'Stolen Moments (Lee Ritenour album)',
+  href: 'http://en.wikipedia.org/wiki/Stolen_Moments_(Lee_Ritenour_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 502,
+       quote: [ 'Blue In Green (Miles Davis) - 8:00' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Julian Barry',
+  href: 'http://en.wikipedia.org/wiki/Julian_Barry',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1592,
+       quote: [ 'He played saxophone for his high school band, and traveled to jazz clubs in New York City to hear jazz performed by Charlie Parker, Dizzy Gillespie, Miles Davis, Thelonious Monk and John Coltrane.' ] } ] }

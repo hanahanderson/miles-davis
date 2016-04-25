@@ -1,0 +1,44 @@
+{ name: 'Herbie Hancock other appearances',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Herbie_Hancock_other_appearances',
+  values: 
+   { 'dbo:abstract': [ { value: 'This page lists several appearances of the American jazz artist Herbie Hancock in various artists compilations records where he appeared as a sideman (that includes also the year of recordings if the albums were released at least two years later). (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.herbiehancock.com/',
+          href: 'http://www.herbiehancock.com/' },
+        { value: 'http://www.allmusic.com/artist/herbie-hancock-mn0000957296',
+          href: 'http://www.allmusic.com/artist/herbie-hancock-mn0000957296' },
+        { value: 'http://www.discogs.com/artist/Herbie+Hancock',
+          href: 'http://www.discogs.com/artist/Herbie+Hancock' },
+        { value: 'http://rateyourmusic.com/artist/herbie_hancock',
+          href: 'http://rateyourmusic.com/artist/herbie_hancock' } ],
+     'dbo:wikiPageID': [ { value: '37482091 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683644950 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' },
+        { value: 'dbc:Herbie_Hancock_albums',
+          href: 'http://dbpedia.org/resource/Category:Herbie_Hancock_albums' } ],
+     'rdfs:comment': [ { value: 'This page lists several appearances of the American jazz artist Herbie Hancock in various artists compilations records where he appeared as a sideman (that includes also the year of recordings if the albums were released at least two years later). (en)' } ],
+     'rdfs:label': [ { value: 'Herbie Hancock other appearances (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Herbie Hancock other appearances',
+          href: 'http://rdf.freebase.com/ns/m.0nb8tpc' },
+        { value: 'dbpedia-wikidata:Herbie Hancock other appearances',
+          href: 'http://wikidata.dbpedia.org/resource/Q5736105' },
+        { value: 'wikidata:Herbie Hancock other appearances',
+          href: 'http://www.wikidata.org/entity/Q5736105' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Herbie_Hancock_other_appearances?oldid=683644950',
+          href: 'http://en.wikipedia.org/wiki/Herbie_Hancock_other_appearances?oldid=683644950' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.herbiehancock.com/',
+          href: 'http://www.herbiehancock.com/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Herbie_Hancock_other_appearances',
+          href: 'http://en.wikipedia.org/wiki/Herbie_Hancock_other_appearances' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Herbie_Hancock_other_appearances',
+          href: 'http://en.wikipedia.org/wiki/Herbie_Hancock_other_appearances' } ] } }

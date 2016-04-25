@@ -1,0 +1,8 @@
+{ name: 'Grinnell College',
+  href: 'http://en.wikipedia.org/wiki/Grinnell_College',
+  mentions: 
+   [ { sectionHeader: 'Notable alumni',
+       sectionSubHeader: 'Admission',
+       sectionIndex: 86,
+       wordCountBeforeSection: 26678,
+       quote: [ 'Herbie Hancock, 1960, Jazz musician and composer who has won an Academy Award and multiple Grammy Awards, member of Miles Davis\'s "second great quintet".' ] } ] }

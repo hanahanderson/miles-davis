@@ -1,0 +1,8 @@
+{ name: 'Electro (music)',
+  href: 'http://en.wikipedia.org/wiki/Electro_(music)',
+  mentions: 
+   [ { sectionHeader: 'Definition and characteristics',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 6842,
+       quote: [ 'Major artists like Miles Davis, Sly Stone, Herbie Hancock, Stevie Wonder, legendary producer Norman Whitfield and, of course, George Clinton and his P Funk brigade, would all play their part in shaping this new sound via their innovative use of electronic instruments during the 70’s (and as early as the late 60’s in Miles Davis’s case).' ] } ] }

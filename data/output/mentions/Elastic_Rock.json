@@ -1,0 +1,13 @@
+{ name: 'Elastic Rock',
+  href: 'http://en.wikipedia.org/wiki/Elastic_Rock',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 384,
+       quote: [ 'Bandleader Ian Carr (later a jazz journalist and published expert on Miles Davis) was probably inspired by Davis\' "going electric" in 1969, but the seminal Bitches Brew had not yet been released at the time Elastic Rock was recorded, and according to Carr, they hadn\'t even heard Davis\' less rock-influenced 1969 electric release, In a Silent Way.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 384,
+       quote: [ 'Bandleader Ian Carr (later a jazz journalist and published expert on Miles Davis) was probably inspired by Davis\' "going electric" in 1969, but the seminal Bitches Brew had not yet been released at the time Elastic Rock was recorded, and according to Carr, they hadn\'t even heard Davis\' less rock-influenced 1969 electric release, In a Silent Way.' ] } ] }

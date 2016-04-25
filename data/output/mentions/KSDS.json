@@ -1,0 +1,8 @@
+{ name: 'KSDS',
+  href: 'http://en.wikipedia.org/wiki/KSDS',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1780,
+       quote: [ 'They play music from artists like John Coltrane, Miles Davis, Dizzy Gillespie, Duke Ellington, Ella Fitzgerald, and Jelly Roll Morton to Rob McConnell, Bobby Watson, Herbie Hancock, and Wynton Marsalis.' ] } ] }

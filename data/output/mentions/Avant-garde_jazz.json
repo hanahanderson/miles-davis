@@ -1,0 +1,8 @@
+{ name: 'Avant-garde jazz',
+  href: 'http://en.wikipedia.org/wiki/Avant-garde_jazz',
+  mentions: 
+   [ { sectionHeader: 'Notable avant-jazz musicians',
+       sectionSubHeader: '1960s',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2091,
+       quote: [ 'Miles Davis' ] } ] }

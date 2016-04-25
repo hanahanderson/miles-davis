@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Featured article candidates/Elliott Smith',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Featured_article_candidates/Elliott_Smith',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3181,
+       quote: [ 'I thought so too, also consider what Miles Davis\' featured article looks like. - Phorque 08:57, 3 August 2006 (UTC)' ] } ] }

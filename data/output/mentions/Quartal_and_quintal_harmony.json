@@ -1,0 +1,13 @@
+{ name: 'Quartal and quintal harmony',
+  href: 'http://en.wikipedia.org/wiki/Quartal_and_quintal_harmony',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 60,
+       wordCountBeforeSection: 17151,
+       quote: [ 'On his watershed record Kind of Blue, Miles Davis with pianist Bill Evans used a chord consisting of three perfect fourth intervals and a major third on the composition "So What".' ] },
+     { sectionHeader: 'Examples of quartal pieces',
+       sectionSubHeader: '',
+       sectionIndex: 130,
+       wordCountBeforeSection: 24301,
+       quote: [ 'Miles Davis' ] } ] }

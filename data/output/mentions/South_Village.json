@@ -1,0 +1,8 @@
+{ name: 'South Village',
+  href: 'http://en.wikipedia.org/wiki/South_Village',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2036,
+       quote: [ 'These South Village establishments were frequented by some of the most significant players in these cultural movements, including Bob Dylan, Jack Kerouac, James Agee, Miles Davis, John Coltrane, Sam Shepard and Jackson Pollock.' ] } ] }

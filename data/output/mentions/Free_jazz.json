@@ -1,0 +1,18 @@
+{ name: 'Free jazz',
+  href: 'http://en.wikipedia.org/wiki/Free_jazz',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 25682,
+       quote: [ 'Tanner, Gerow and Megill name Miles Davis, Cecil Taylor, John Klemmer, Keith Jarrett, Chick Corea, Pharoah Sanders, McCoy Tyner, Alice Coltrane, Wayne Shorter, Anthony Braxton, Don Cherry, and Sun Ra as musicians who have employed this approach.' ] },
+     { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 25931,
+       quote: [ '\n\n\nMiles Davis\n' ] },
+     { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 25931,
+       quote: [] } ] }

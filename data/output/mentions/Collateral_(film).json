@@ -1,0 +1,8 @@
+{ name: 'Collateral (film)',
+  href: 'http://en.wikipedia.org/wiki/Collateral_(film)',
+  mentions: 
+   [ { sectionHeader: 'Production',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 10057,
+       quote: [ 'Miles Davis' ] } ] }

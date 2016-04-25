@@ -1,0 +1,8 @@
+{ name: 'Philip Bailey',
+  href: 'http://en.wikipedia.org/wiki/Philip_Bailey',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2131,
+       quote: [ 'He was also in a local R&B band called Friends & Love Some of Bailey\'s early influences included jazz musicians such as Miles Davis, John Coltrane and Max Roach, the Motown sound, in particular the music of Stevie Wonder and he was also largely influenced by female singers such as Sarah Vaughan and Dionne Warwick.' ] } ] }

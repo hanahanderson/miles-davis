@@ -1,0 +1,8 @@
+{ name: 'Alfred Brendel',
+  href: 'http://en.wikipedia.org/wiki/Alfred_Brendel',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 12239,
+       quote: [ 'Miles Davis (1984)' ] } ] }

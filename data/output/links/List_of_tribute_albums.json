@@ -1,0 +1,26 @@
+{ name: 'List of tribute albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_tribute_albums',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of tribute albums, organized according to the original artists. (en)' } ],
+     'dbo:wikiPageID': [ { value: '24554445 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679940027 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_tribute_albums',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_tribute_albums' } ],
+     'rdfs:comment': [ { value: 'This is a list of tribute albums, organized according to the original artists. (en)' } ],
+     'rdfs:label': [ { value: 'List of tribute albums (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of tribute albums',
+          href: 'http://wikidata.dbpedia.org/resource/Q6643998' },
+        { value: 'wikidata:List of tribute albums',
+          href: 'http://www.wikidata.org/entity/Q6643998' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_tribute_albums?oldid=679940027',
+          href: 'http://en.wikipedia.org/wiki/List_of_tribute_albums?oldid=679940027' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_tribute_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_tribute_albums' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_tribute_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_tribute_albums' } ] } }

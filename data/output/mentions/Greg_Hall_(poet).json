@@ -1,0 +1,8 @@
+{ name: 'Greg Hall (poet)',
+  href: 'http://en.wikipedia.org/wiki/Greg_Hall_(poet)',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1258,
+       quote: [ 'Hall\'s writing was strongly intertwined with that of his friends such as F.A. Nettelbeck, Walter Martin, Stephen Kessler, and by the writers and musicians he loved including Jean Genet, Marcel Proust, Stéphane Mallarmé, Miles Davis, and Hank Williams.' ] } ] }

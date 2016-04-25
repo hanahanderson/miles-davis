@@ -1,0 +1,57 @@
+{ name: 'Combo Audio',
+  entityType: 'Group100031264',
+  href: 'http://dbpedia.org/page/Combo_Audio',
+  values: 
+   { 'dbo:abstract': [ { value: 'Combo Audio was a new wave group from Champaign-Urbana, Illinois best known for their song "Romanticide." (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.comboaudio.com/Legacy/legacy.html',
+          href: 'http://www.comboaudio.com/Legacy/legacy.html' } ],
+     'dbo:wikiPageID': [ { value: '21075404 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '667878605 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_New_Wave_musical_groups',
+          href: 'http://dbpedia.org/resource/Category:American_New_Wave_musical_groups' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:AmericanNewWaveMusicalGroups',
+          href: 'http://dbpedia.org/class/yago/AmericanNewWaveMusicalGroups' },
+        { value: 'yago:Group100031264',
+          href: 'http://dbpedia.org/class/yago/Group100031264' },
+        { value: 'yago:MusicalOrganization108246613',
+          href: 'http://dbpedia.org/class/yago/MusicalOrganization108246613' },
+        { value: 'yago:Organization108008335',
+          href: 'http://dbpedia.org/class/yago/Organization108008335' },
+        { value: 'yago:SocialGroup107950920',
+          href: 'http://dbpedia.org/class/yago/SocialGroup107950920' },
+        { value: 'yago:YagoLegalActorGeo',
+          href: 'http://dbpedia.org/class/yago/YagoLegalActorGeo' },
+        { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'yago:YagoPermanentlyLocatedEntity',
+          href: 'http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity' },
+        { value: 'yago:YagoLegalActor',
+          href: 'http://dbpedia.org/class/yago/YagoLegalActor' } ],
+     'rdfs:comment': [ { value: 'Combo Audio was a new wave group from Champaign-Urbana, Illinois best known for their song "Romanticide." (en)' } ],
+     'rdfs:label': [ { value: 'Combo Audio (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Combo Audio',
+          href: 'http://rdf.freebase.com/ns/m.05c05tm' },
+        { value: 'dbpedia-wikidata:Combo Audio',
+          href: 'http://wikidata.dbpedia.org/resource/Q5150926' },
+        { value: 'wikidata:Combo Audio',
+          href: 'http://www.wikidata.org/entity/Q5150926' },
+        { value: 'yago-res:Combo Audio',
+          href: 'http://yago-knowledge.org/resource/Combo_Audio' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Combo_Audio?oldid=667878605',
+          href: 'http://en.wikipedia.org/wiki/Combo_Audio?oldid=667878605' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.comboaudio.com/Legacy/legacy.html',
+          href: 'http://www.comboaudio.com/Legacy/legacy.html' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Combo_Audio',
+          href: 'http://en.wikipedia.org/wiki/Combo_Audio' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Combo_Audio',
+          href: 'http://en.wikipedia.org/wiki/Combo_Audio' } ] } }

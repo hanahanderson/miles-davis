@@ -1,0 +1,8 @@
+{ name: 'User:Tiburon/Babel',
+  href: 'http://en.wikipedia.org/wiki/User:Tiburon/Babel',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

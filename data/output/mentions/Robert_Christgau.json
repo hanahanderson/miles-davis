@@ -1,0 +1,8 @@
+{ name: 'Robert Christgau',
+  href: 'http://en.wikipedia.org/wiki/Robert_Christgau',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1572,
+       quote: [ 'Christgau has said that Miles Davis\' 1960 album Sketches of Spain initiated in him "one phase of the disillusionment with jazz that resulted in my return to rock and roll".' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'There\'s a Riot Goin\' On',
+  href: 'http://en.wikipedia.org/wiki/There%27s_a_Riot_Goin%27_On',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 15091,
+       quote: [] },
+     { sectionHeader: 'Influence',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 17832,
+       quote: [ 'The album\'s sound also influenced Miles Davis and Herbie Hancock to crossover to jazz-funk.' ] } ] }

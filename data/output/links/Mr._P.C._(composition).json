@@ -1,0 +1,99 @@
+{ name: 'Mr. P.C. (composition)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Mr._P.C._(composition)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '6.95' } ],
+     'dbo:abstract': [ { value: '"Mr PC" is a 12 bar minor blues composed by John Coltrane in 1959. The song is named in tribute to the bass player Paul Chambers who had accompanied Coltrane for years. It first appeared on the album Giant Steps where it was played with a fast swing feel. (en)' } ],
+     'dbo:album': 
+      [ { value: 'dbr:Giant_Steps',
+          href: 'http://dbpedia.org/resource/Giant_Steps' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:composer': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Nesuhi_Ertegun' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbo:runtime': [ { value: '417.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '35389897 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '648625266 (xsd:integer)' } ],
+     'dbp:album': 
+      [ { value: 'dbr:Giant_Steps',
+          href: 'http://dbpedia.org/resource/Giant_Steps' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:composer': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbp:name': [ { value: 'Mr. P.C. (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Nesuhi_Ertegun' } ],
+     'dbp:recorded': [ { value: 'May 1959 (en)' } ],
+     'dbp:released': [ { value: '1960 (xsd:integer)' } ],
+     'dbp:tracks': [ { value: '#"Giant Steps"\n#"Cousin Mary"\n#"Countdown"\n#"Spiral"\n#"Syeeda\'s Song Flute"\n#"Naima"\n#"Mr. P.C." (en)' } ],
+     'dbp:type': [ { value: 'Composition (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1959_compositions',
+          href: 'http://dbpedia.org/resource/Category:1959_compositions' },
+        { value: 'dbc:1950s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1950s_jazz_standards' },
+        { value: 'dbc:Compositions_by_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_John_Coltrane' },
+        { value: 'dbc:Minor_Blues',
+          href: 'http://dbpedia.org/resource/Category:Minor_Blues' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Song', href: 'http://dbpedia.org/ontology/Song' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicRecording',
+          href: 'http://schema.org/MusicRecording' } ],
+     'rdfs:comment': [ { value: '"Mr PC" is a 12 bar minor blues composed by John Coltrane in 1959. The song is named in tribute to the bass player Paul Chambers who had accompanied Coltrane for years. It first appeared on the album Giant Steps where it was played with a fast swing feel. (en)' } ],
+     'rdfs:label': [ { value: 'Mr. P.C. (composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Mr. P.C. (composition)',
+          href: 'http://rdf.freebase.com/ns/m.056n8dz' },
+        { value: 'dbpedia-fr:Mr. P.C. (composition)',
+          href: 'http://fr.dbpedia.org/resource/Mr._P.C.' },
+        { value: 'dbpedia-wikidata:Mr. P.C. (composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q3327170' },
+        { value: 'wikidata:Mr. P.C. (composition)',
+          href: 'http://www.wikidata.org/entity/Q3327170' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Mr._P.C._(composition)?oldid=648625266',
+          href: 'http://en.wikipedia.org/wiki/Mr._P.C._(composition)?oldid=648625266' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Mr._P.C._(composition)',
+          href: 'http://en.wikipedia.org/wiki/Mr._P.C._(composition)' } ],
+     'foaf:name': [ { value: 'Mr. P.C. (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Mr._P.C._(jazz_standard)',
+          href: 'http://dbpedia.org/resource/Mr._P.C._(jazz_standard)' },
+        { value: 'dbr:Mr._P.C._(standard)',
+          href: 'http://dbpedia.org/resource/Mr._P.C._(standard)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Giant_Steps',
+          href: 'http://dbpedia.org/resource/Giant_Steps' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Mr._P.C._(composition)',
+          href: 'http://en.wikipedia.org/wiki/Mr._P.C._(composition)' } ] } }

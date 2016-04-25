@@ -1,0 +1,8 @@
+{ name: 'Booker Little 4 and Max Roach',
+  href: 'http://en.wikipedia.org/wiki/Booker_Little_4_and_Max_Roach',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 815,
+       quote: [ '"Milestones" (Miles Davis) - 5:33' ] } ] }

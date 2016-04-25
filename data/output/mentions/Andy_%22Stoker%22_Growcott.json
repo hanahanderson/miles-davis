@@ -1,0 +1,8 @@
+{ name: 'Andy "Stoker" Growcott',
+  href: 'http://en.wikipedia.org/wiki/Andy_%22Stoker%22_Growcott',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 609,
+       quote: [ 'He released a 1997 CD album under his stage name, Stoker, called "Syncopate" (on Knitting Factory\'s Knit Classics label) that contains modern covers of jazz compositions by Duke Ellington, Thelonious Monk, Lee Morgan, Sonny Rollins, Miles Davis, Yusef Lateef, Duke Pearson, Reuben Wilson, et al.' ] } ] }

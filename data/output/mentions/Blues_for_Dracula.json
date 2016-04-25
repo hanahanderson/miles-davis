@@ -1,0 +1,8 @@
+{ name: 'Blues for Dracula',
+  href: 'http://en.wikipedia.org/wiki/Blues_for_Dracula',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 724,
+       quote: [ '"Tune-Up" (Miles Davis) - 8:00' ] } ] }

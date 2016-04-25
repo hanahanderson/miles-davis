@@ -1,0 +1,8 @@
+{ name: 'Banyan (band)',
+  href: 'http://en.wikipedia.org/wiki/Banyan_(band)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2490,
+       quote: [ 'In liner notes and personal conversations, members of the band cite Igor Stravinsky and Miles Davis as influences.' ] } ] }

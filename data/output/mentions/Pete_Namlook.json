@@ -1,0 +1,8 @@
+{ name: 'Pete Namlook',
+  href: 'http://en.wikipedia.org/wiki/Pete_Namlook',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 246,
+       quote: [ 'Inspired by the music of Eberhard Weber, Miles Davis, Antonio Carlos Jobim, Chopin, Wendy Carlos, Tangerine Dram and Pink Floyd, he also composed his own albums.' ] } ] }

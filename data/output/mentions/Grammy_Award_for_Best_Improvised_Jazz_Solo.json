@@ -1,0 +1,18 @@
+{ name: 'Grammy Award for Best Improvised Jazz Solo',
+  href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Improvised_Jazz_Solo',
+  mentions: 
+   [ { sectionHeader: '1990s',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 1622,
+       quote: [ 'Miles Davis for Aura' ] },
+     { sectionHeader: '1980s',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2249,
+       quote: [ 'Miles Davis for Tutu' ] },
+     { sectionHeader: '1980s',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2249,
+       quote: [ 'Miles Davis for We Want Miles' ] } ] }

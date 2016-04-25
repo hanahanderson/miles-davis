@@ -1,0 +1,8 @@
+{ name: 'The Soft Parade',
+  href: 'http://en.wikipedia.org/wiki/The_Soft_Parade',
+  mentions: 
+   [ { sectionHeader: 'Recording',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 5604,
+       quote: [ 'I loved Cannonball Adderly and Miles Davis and John Coltrane...But what Al Kooper did with Blood, Sweat and Tears illustrated how those same ideas could successfully be applied to rock and roll.' ] } ] }

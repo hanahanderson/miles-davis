@@ -1,0 +1,13 @@
+{ name: 'Danny Bank',
+  href: 'http://en.wikipedia.org/wiki/Danny_Bank',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 701,
+       quote: [ 'Bank is best known for his association with Miles Davis in Gil Evans\'s orchestra; Bank played bass clarinet on the albums Miles Ahead, Sketches of Spain and Porgy and Bess.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1205,
+       quote: [ 'With Miles Davis' ] } ] }

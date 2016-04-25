@@ -1,0 +1,8 @@
+{ name: 'That\'s What I Say: John Scofield Plays the Music of Ray Charles',
+  href: 'http://en.wikipedia.org/wiki/That%27s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2081,
+       quote: [ 'Miles Davis' ] } ] }

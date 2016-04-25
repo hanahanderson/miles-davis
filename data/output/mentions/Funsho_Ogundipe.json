@@ -1,0 +1,8 @@
+{ name: 'Funsho Ogundipe',
+  href: 'http://en.wikipedia.org/wiki/Funsho_Ogundipe',
+  mentions: 
+   [ { sectionHeader: 'Musical Style',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 755,
+       quote: [ 'His main Influences are Miles Davis, Duke Ellington and Fela Kuti.' ] } ] }

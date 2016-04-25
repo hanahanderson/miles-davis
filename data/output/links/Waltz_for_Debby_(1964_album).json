@@ -1,0 +1,124 @@
+{ name: 'Waltz for Debby (1964 album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Waltz_for_Debby_(1964_album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Waltz for Debby is a 1964 album by the American jazz pianist Bill Evans and the Swedish singer Monica Zetterlund.It was reissued by Verve Records in 2006. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Monica_Zetterlund',
+          href: 'http://dbpedia.org/resource/Monica_Zetterlund' },
+        { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Vocal_jazz',
+          href: 'http://dbpedia.org/resource/Vocal_jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Trio_Live',
+          href: 'http://dbpedia.org/resource/Trio_Live' } ],
+     'dbo:recordDate': [ { value: '1964-08-29 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Stockholm',
+          href: 'http://dbpedia.org/resource/Stockholm' },
+        { value: 'dbr:Sweden',
+          href: 'http://dbpedia.org/resource/Sweden' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Trio_\'65',
+          href: 'http://dbpedia.org/resource/Trio_\'65' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.billevans.net/bill2.html',
+          href: 'http://www.billevans.net/bill2.html' },
+        { value: 'http://www.jazzdisco.org/bill-evans/catalog/',
+          href: 'http://www.jazzdisco.org/bill-evans/catalog/' } ],
+     'dbo:wikiPageID': [ { value: '21273931 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677981722 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Monica_Zetterlund',
+          href: 'http://dbpedia.org/resource/Monica_Zetterlund' },
+        { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Waltzfordebbyzetterlund2.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Vocal_jazz',
+          href: 'http://dbpedia.org/resource/Vocal_jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Trio Live (en)' } ],
+     'dbp:name': [ { value: 'Waltz for Debby (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Trio \'65 (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1964-08-29 (xsd:date)' },
+        { value: 'dbr:Stockholm',
+          href: 'http://dbpedia.org/resource/Stockholm' },
+        { value: 'dbr:Sweden',
+          href: 'http://dbpedia.org/resource/Sweden' } ],
+     'dbp:released': [ { value: 'December 1964 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Waltz for Debby (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1964_albums',
+          href: 'http://dbpedia.org/resource/Category:1964_albums' },
+        { value: 'dbc:Bill_Evans_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_albums' },
+        { value: 'dbc:Verve_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_albums' },
+        { value: 'dbc:Monica_Zetterlund_albums',
+          href: 'http://dbpedia.org/resource/Category:Monica_Zetterlund_albums' },
+        { value: 'dbc:English-language_albums',
+          href: 'http://dbpedia.org/resource/Category:English-language_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Waltz for Debby is a 1964 album by the American jazz pianist Bill Evans and the Swedish singer Monica Zetterlund.It was reissued by Verve Records in 2006. (en)' } ],
+     'rdfs:label': [ { value: 'Waltz for Debby (1964 album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Waltz for Debby (1964 album)',
+          href: 'http://rdf.freebase.com/ns/m.0dnbh_r' },
+        { value: 'dbpedia-fr:Waltz for Debby (1964 album)',
+          href: 'http://fr.dbpedia.org/resource/Waltz_for_Debby_(album,_1964)' },
+        { value: 'dbpedia-wikidata:Waltz for Debby (1964 album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q3565958' },
+        { value: 'wikidata:Waltz for Debby (1964 album)',
+          href: 'http://www.wikidata.org/entity/Q3565958' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Waltz_for_Debby_(1964_album)?oldid=677981722',
+          href: 'http://en.wikipedia.org/wiki/Waltz_for_Debby_(1964_album)?oldid=677981722' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Waltz_for_Debby_(1964_album)',
+          href: 'http://en.wikipedia.org/wiki/Waltz_for_Debby_(1964_album)' } ],
+     'foaf:name': [ { value: 'Waltz for Debby (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Trio_\'65',
+          href: 'http://dbpedia.org/resource/Trio_\'65' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Trio_Live',
+          href: 'http://dbpedia.org/resource/Trio_Live' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Waltz_for_Debby',
+          href: 'http://dbpedia.org/resource/Waltz_for_Debby' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Waltz_for_Debby_(1964_album)',
+          href: 'http://en.wikipedia.org/wiki/Waltz_for_Debby_(1964_album)' } ] } }

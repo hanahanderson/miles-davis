@@ -1,0 +1,8 @@
+{ name: 'Niki de Saint Phalle',
+  href: 'http://en.wikipedia.org/wiki/Niki_de_Saint_Phalle',
+  mentions: 
+   [ { sectionHeader: 'Public works',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 8330,
+       quote: [ 'Miles Davis statue outside of Hotel Negresco in Nice, France.' ] } ] }

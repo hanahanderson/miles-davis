@@ -1,0 +1,8 @@
+{ name: 'Brian Morton (Scottish writer)',
+  href: 'http://en.wikipedia.org/wiki/Brian_Morton_(Scottish_writer)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1878,
+       quote: [ 'Miles Davis' ] } ] }

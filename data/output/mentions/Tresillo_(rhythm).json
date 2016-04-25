@@ -1,0 +1,8 @@
+{ name: 'Tresillo (rhythm)',
+  href: 'http://en.wikipedia.org/wiki/Tresillo_(rhythm)',
+  mentions: 
+   [ { sectionHeader: 'In African American music',
+       sectionSubHeader: '',
+       sectionIndex: 66,
+       wordCountBeforeSection: 14400,
+       quote: [ 'On the version recorded on Miles Smiles by Miles Davis, the bass switches to tresillo at 2:20.' ] } ] }

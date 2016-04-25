@@ -1,0 +1,13 @@
+{ name: 'Proof Positive (album)',
+  href: 'http://en.wikipedia.org/wiki/Proof_Positive_(album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 487,
+       quote: [ 'In fact, his melancholy minor-toned explorations often recall Miles Davis, whose group he had played with the year before".' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 846,
+       quote: [ '"Neo" (Miles Davis) – 10:19' ] } ] }

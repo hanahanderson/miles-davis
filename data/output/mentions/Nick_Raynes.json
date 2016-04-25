@@ -1,0 +1,8 @@
+{ name: 'Nick Raynes',
+  href: 'http://en.wikipedia.org/wiki/Nick_Raynes',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 180,
+       quote: [ 'Raynes is producing a feature film about jazz legend Miles Davis that is being directed by George Tillman, Jr..' ] } ] }

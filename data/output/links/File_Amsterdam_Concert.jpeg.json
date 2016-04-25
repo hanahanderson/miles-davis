@@ -1,0 +1,12 @@
+{ name: 'File:Amsterdam Concert.jpeg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Amsterdam_Concert.jpeg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '34386956 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517266478 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Amsterdam_Concert.jpeg?oldid=517266478',
+          href: 'http://en.wikipedia.org/wiki/File:Amsterdam_Concert.jpeg?oldid=517266478' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Amsterdam_Concert.jpeg',
+          href: 'http://dbpedia.org/resource/File:Amsterdam_Concert.jpeg' } ] } }

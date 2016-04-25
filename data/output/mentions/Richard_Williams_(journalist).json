@@ -1,0 +1,8 @@
+{ name: 'Richard Williams (journalist)',
+  href: 'http://en.wikipedia.org/wiki/Richard_Williams_(journalist)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2273,
+       quote: [ 'His music journalism has been gathered in the volume Long Distance Call: Writings on Music and biographies of Bob Dylan (A Man Called Alias), Miles Davis (The Man in the Green Shirt), and Phil Spector (Out of His Head) are among his list of other publications.' ] } ] }

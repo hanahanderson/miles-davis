@@ -1,0 +1,28 @@
+{ name: 'List of Juilliard School people',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Juilliard_School_people',
+  values: 
+   { 'dbo:abstract': [ { value: 'This list of Juilliard School people contains links to Wikipedia articles about notable alumni and teachers of the Juilliard School in New York City. (en)' } ],
+     'dbo:wikiPageID': [ { value: '9911085 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682119933 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_people_by_university_or_college_in_New_York',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_by_university_or_college_in_New_York' },
+        { value: 'dbc:Juilliard_School_people',
+          href: 'http://dbpedia.org/resource/Category:Juilliard_School_people' } ],
+     'rdfs:comment': [ { value: 'This list of Juilliard School people contains links to Wikipedia articles about notable alumni and teachers of the Juilliard School in New York City. (en)' } ],
+     'rdfs:label': [ { value: 'List of Juilliard School people (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of Juilliard School people',
+          href: 'http://www.wikidata.org/entity/Q6575474' },
+        { value: 'dbpedia-wikidata:List of Juilliard School people',
+          href: 'http://wikidata.dbpedia.org/resource/Q6575474' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Juilliard_School_people?oldid=682119933',
+          href: 'http://en.wikipedia.org/wiki/List_of_Juilliard_School_people?oldid=682119933' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Juilliard_School_people',
+          href: 'http://en.wikipedia.org/wiki/List_of_Juilliard_School_people' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Juilliard_School_people',
+          href: 'http://en.wikipedia.org/wiki/List_of_Juilliard_School_people' } ] } }

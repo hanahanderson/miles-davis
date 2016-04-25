@@ -1,0 +1,8 @@
+{ name: 'Ambient music',
+  href: 'http://en.wikipedia.org/wiki/Ambient_music',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 8151,
+       quote: [ 'Eno also acknowledged influences of the drone music of La Monte Young (of whom he said, "La Monte Young is the daddy of us all") and of the mood music of Miles Davis and Teo Macero, especially their 1974 epic piece, "He Loved Him Madly" (from Get Up with It), about which Eno wrote, "that piece seemed to have the \'spacious\' quality that I was after...it became a touchstone to which I returned frequently."' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Freddie Roulette',
+  href: 'http://en.wikipedia.org/wiki/Freddie_Roulette',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2829,
+       quote: [ 'He also contributed to Kaiser\'s album Yo Miles, a tribute to Miles Davis.' ] } ] }

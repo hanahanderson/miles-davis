@@ -1,0 +1,8 @@
+{ name: 'The Cry of Love Tour',
+  href: 'http://en.wikipedia.org/wiki/The_Cry_of_Love_Tour',
+  mentions: 
+   [ { sectionHeader: 'Tour dates',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2957,
+       quote: [ 'Miles Davis, Ralph McTell, Heaven, Free, Donovan, Pentangle, The Moody Blues, Jethro Tull, Joan Baez, Leonard Cohen, Richie Havens, Kris Kristofferson' ] } ] }

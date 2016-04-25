@@ -1,0 +1,97 @@
+{ name: 'High Risk (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/High_Risk_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '40.95' } ],
+     'dbo:abstract': [ { value: 'High Risk is an album by trumpeter Dave Douglas which was released in June 2015 on Douglas\' Greenleaf Music label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Dave_Douglas_(trumpeter)',
+          href: 'http://dbpedia.org/resource/Dave_Douglas_(trumpeter)' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Sound_Prints',
+          href: 'http://dbpedia.org/resource/Sound_Prints' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Dave_Douglas_(trumpeter)',
+          href: 'http://dbpedia.org/resource/Dave_Douglas_(trumpeter)' } ],
+     'dbo:recordDate': [ { value: '2014-10-10 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Greenleaf_Music',
+          href: 'http://dbpedia.org/resource/Greenleaf_Music' } ],
+     'dbo:releaseDate': [ { value: '2015-06-23 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '2457.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '47350948 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '673265101 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Dave_Douglas_(trumpeter)',
+          href: 'http://dbpedia.org/resource/Dave_Douglas_(trumpeter)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Dave_Douglas_(trumpeter)',
+          href: 'http://dbpedia.org/resource/Dave_Douglas_(trumpeter)' } ],
+     'dbp:cover': [ { value: 'High Risk .jpg (en)' } ],
+     'dbp:genre': [ { value: 'Jazz (en)' } ],
+     'dbp:label': [ { value: 'Greenleaf GRE-1042 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Sound Prints (en)' } ],
+     'dbp:name': [ { value: 'High Risk (en)' } ],
+     'dbp:producer': [ { value: 'Dave Douglas (en)' } ],
+     'dbp:recorded': 
+      [ { value: '2014-10-10 (xsd:date)' },
+        { value: 'The Bunker, Brooklyn (en)' } ],
+     'dbp:released': [ { value: '2015-06-23 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:PopMatters',
+          href: 'http://dbpedia.org/resource/PopMatters' },
+        { value: 'dbr:Pitchfork_Media',
+          href: 'http://dbpedia.org/resource/Pitchfork_Media' } ],
+     'dbp:rev2score': [ { value: '7.600000 (xsd:double)' } ],
+     'dbp:thisAlbum': [ { value: 'High Risk (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2015_albums',
+          href: 'http://dbpedia.org/resource/Category:2015_albums' },
+        { value: 'dbc:Greenleaf_Music_albums',
+          href: 'http://dbpedia.org/resource/Category:Greenleaf_Music_albums' },
+        { value: 'dbc:Dave_Douglas_(trumpeter)_albums',
+          href: 'http://dbpedia.org/resource/Category:Dave_Douglas_(trumpeter)_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'High Risk is an album by trumpeter Dave Douglas which was released in June 2015 on Douglas\' Greenleaf Music label. (en)' } ],
+     'rdfs:label': [ { value: 'High Risk (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:High Risk (album)',
+          href: 'http://www.wikidata.org/entity/Q20735572' },
+        { value: 'dbpedia-wikidata:High Risk (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20735572' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:High_Risk_(album)?oldid=673265101',
+          href: 'http://en.wikipedia.org/wiki/High_Risk_(album)?oldid=673265101' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:High_Risk_(album)',
+          href: 'http://en.wikipedia.org/wiki/High_Risk_(album)' } ],
+     'foaf:name': [ { value: 'High Risk (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Sound_Prints',
+          href: 'http://dbpedia.org/resource/Sound_Prints' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:High_Risk',
+          href: 'http://dbpedia.org/resource/High_Risk' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:High_Risk_(album)',
+          href: 'http://en.wikipedia.org/wiki/High_Risk_(album)' } ] } }

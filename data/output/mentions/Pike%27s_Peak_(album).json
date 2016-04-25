@@ -1,0 +1,8 @@
+{ name: 'Pike\'s Peak (album)',
+  href: 'http://en.wikipedia.org/wiki/Pike%27s_Peak_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 677,
+       quote: [ '"Vierd Blues" (Miles Davis) - 6:02' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Time of Our Singing',
+  href: 'http://en.wikipedia.org/wiki/The_Time_of_Our_Singing',
+  mentions: 
+   [ { sectionHeader: 'Music referenced in the book',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1691,
+       quote: [ '"Sketches of Spain" by Miles Davis' ] } ] }

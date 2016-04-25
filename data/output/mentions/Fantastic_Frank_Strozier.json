@@ -1,0 +1,8 @@
+{ name: 'Fantastic Frank Strozier',
+  href: 'http://en.wikipedia.org/wiki/Fantastic_Frank_Strozier',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 312,
+       quote: [ 'The personnel includes the rhythm section from part of Miles Davis\'s Kind of Blue, recorded earlier in 1959.' ] } ] }

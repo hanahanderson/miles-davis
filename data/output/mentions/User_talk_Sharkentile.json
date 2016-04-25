@@ -1,0 +1,8 @@
+{ name: 'User talk:Sharkentile',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Sharkentile',
+  mentions: 
+   [ { sectionHeader: 'Linda Ronstadt',
+       sectionSubHeader: 'Images and authority',
+       sectionIndex: 182,
+       wordCountBeforeSection: 51239,
+       quote: [ 'Just look at almost any WP article on a major recording artist -- Bruce Springsteen, Johnny Cash, Miles Davis, Whitney Houston, just to pull a few names out of the hat -- and you won\'t see a single nonfree cover image, no less an entire litter of them.' ] } ] }

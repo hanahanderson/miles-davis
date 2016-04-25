@@ -1,0 +1,8 @@
+{ name: 'Pieces of Eight: Live at UCLA',
+  href: 'http://en.wikipedia.org/wiki/Pieces_of_Eight:_Live_at_UCLA',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1801,
+       quote: [ '"Milestones" (Miles Davis) - 9:56' ] } ] }

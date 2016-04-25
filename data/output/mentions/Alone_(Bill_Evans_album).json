@@ -1,0 +1,8 @@
+{ name: 'Alone (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Alone_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1836,
+       quote: [ 'Miles Davis' ] } ] }

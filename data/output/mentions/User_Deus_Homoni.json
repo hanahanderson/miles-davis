@@ -1,0 +1,8 @@
+{ name: 'User:Deus Homoni',
+  href: 'http://en.wikipedia.org/wiki/User:Deus_Homoni',
+  mentions: 
+   [ { sectionHeader: 'Bonjour, Hola, Shalom, Et Cetera',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 3698,
+       quote: [ '\nJazz: Benny Goodman, Cab Calloway, Louis Armstrong, Nat King Cole, Django Reinhardt Brian Setzer Orchestra Billie Holiday Big Bad Voodoo Daddy, Miles Davis' ] } ] }

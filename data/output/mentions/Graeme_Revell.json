@@ -1,0 +1,8 @@
+{ name: 'Graeme Revell',
+  href: 'http://en.wikipedia.org/wiki/Graeme_Revell',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Video games',
+       sectionIndex: 35,
+       wordCountBeforeSection: 6166,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

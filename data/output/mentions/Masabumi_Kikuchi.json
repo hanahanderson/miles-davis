@@ -1,0 +1,8 @@
+{ name: 'Masabumi Kikuchi',
+  href: 'http://en.wikipedia.org/wiki/Masabumi_Kikuchi',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 336,
+       quote: [ 'He worked with a large number of diverse musicians, including Lionel Hampton, Sonny Rollins, Woody Herman, Mal Waldron, Joe Henderson, McCoy Tyner, Elvin Jones, Miles Davis, Paul Motian, Billy Harper and Hannibal Peterson.' ] } ] }

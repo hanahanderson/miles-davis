@@ -1,0 +1,8 @@
+{ name: 'History of music in Paris',
+  href: 'http://en.wikipedia.org/wiki/History_of_music_in_Paris',
+  mentions: 
+   [ { sectionHeader: 'Post-war Paris (1946–2000)',
+       sectionSubHeader: '',
+       sectionIndex: 264,
+       wordCountBeforeSection: 123576,
+       quote: [ 'Beginning in 1958, the leading figures in American jazz, including Miles Davis, Duke Ellington, Thelonious Monk and John Coltrane came to Paris to perform in a series called Paris Jazz Concert, at the Olympia music hall.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Home Song Stories',
+  href: 'http://en.wikipedia.org/wiki/The_Home_Song_Stories',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 52,
+       wordCountBeforeSection: 8387,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

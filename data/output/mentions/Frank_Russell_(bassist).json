@@ -1,0 +1,8 @@
+{ name: 'Frank Russell (bassist)',
+  href: 'http://en.wikipedia.org/wiki/Frank_Russell_(bassist)',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 763,
+       quote: [ 'The 16-track Circle Without End album project features Miles Davis ensemble alumnus Irving III, Darryl Jones of The Rolling Stones, Wallace Roney, Richard Patterson and Brazilian percussionist Dedé Sampaio.' ] } ] }

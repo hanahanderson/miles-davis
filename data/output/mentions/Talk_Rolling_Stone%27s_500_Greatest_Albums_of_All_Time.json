@@ -1,0 +1,8 @@
+{ name: 'Talk:Rolling Stone\'s 500 Greatest Albums of All Time',
+  href: 'http://en.wikipedia.org/wiki/Talk:Rolling_Stone%27s_500_Greatest_Albums_of_All_Time',
+  mentions: 
+   [ { sectionHeader: 'Add to list- artists with 4 albums on list',
+       sectionSubHeader: 'no short lsit of the 10 best?',
+       sectionIndex: 182,
+       wordCountBeforeSection: 52032,
+       quote: [ 'Madonna Miles Davis The Clash Janis Joplin Cream the Kinks (i\'m sure they do, will check that out)' ] } ] }

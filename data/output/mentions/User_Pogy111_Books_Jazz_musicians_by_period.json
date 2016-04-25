@@ -1,0 +1,8 @@
+{ name: 'User:Pogy111/Books/Jazz musicians by period',
+  href: 'http://en.wikipedia.org/wiki/User:Pogy111/Books/Jazz_musicians_by_period',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

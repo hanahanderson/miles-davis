@@ -1,0 +1,8 @@
+{ name: '1964 in music',
+  href: 'http://en.wikipedia.org/wiki/1964_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 14839,
+       quote: [ 'In Europe - Miles Davis' ] } ] }

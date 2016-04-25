@@ -1,0 +1,8 @@
+{ name: 'Oblivion Records',
+  href: 'http://en.wikipedia.org/wiki/Oblivion_Records',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1901,
+       quote: [ 'Seibert heard kinship with Miles Davis’, Tony Williams\', and John McLaughlin\'s electronic experiments, and with the addition of guitarist John Abercrombie recorded one of the earliest “electronic jazz” records, soon to be known as jazz fusion.' ] } ] }

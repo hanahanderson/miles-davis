@@ -1,0 +1,18 @@
+{ name: 'Lady Bird (composition)',
+  href: 'http://en.wikipedia.org/wiki/Lady_Bird_(composition)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 939,
+       quote: [ 'It has been recorded by Art Blakey, Don Byas, Miles Davis, Stan Getz, Dexter Gordon, Charles Mingus, Lee Morgan, Gerry Mulligan, Bud Powell, Mary Lou Williams, Tete Montoliu, Andy LaVerne, and Barry Harris.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1187,
+       quote: [ 'Miles Davis\'s "Half Nelson" uses, except for measures seven and eight, the same chord progression as "Lady Bird". "Lazy Susan" is also a contrafact of the Dameron piece.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1187,
+       quote: [ 'Miles Davis\'s "Half Nelson" uses, except for measures seven and eight, the same chord progression as "Lady Bird". "Lazy Susan" is also a contrafact of the Dameron piece.' ] } ] }

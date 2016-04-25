@@ -1,0 +1,8 @@
+{ name: 'Bernard Wright',
+  href: 'http://en.wikipedia.org/wiki/Bernard_Wright',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1943,
+       quote: [ 'Fresh, Cameo, Bobby Brown, Pieces of a Dram, Charles Earland, Marcus Miller, and Miles Davis.' ] } ] }

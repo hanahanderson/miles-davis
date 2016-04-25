@@ -1,0 +1,8 @@
+{ name: 'User:BDP',
+  href: 'http://en.wikipedia.org/wiki/User:BDP',
+  mentions: 
+   [ { sectionHeader: 'Bands/Artists I\'m Interested In',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 548,
+       quote: [ 'Miles Davis' ] } ] }

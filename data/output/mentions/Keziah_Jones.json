@@ -1,0 +1,8 @@
+{ name: 'Keziah Jones',
+  href: 'http://en.wikipedia.org/wiki/Keziah_Jones',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3797,
+       quote: [ 'Keziah often cites Fela Kuti, Miles Davis and Jimi Hendrix as important influences.' ] } ] }

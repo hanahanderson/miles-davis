@@ -1,0 +1,8 @@
+{ name: 'Exposition internationale du bicentenaire de Port-au-Prince',
+  href: 'http://en.wikipedia.org/wiki/Exposition_internationale_du_bicentenaire_de_Port-au-Prince',
+  mentions: 
+   [ { sectionHeader: 'Art and music',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2222,
+       quote: [ 'Marian Anderson, Alberto Beltran, Frantz Casseus, Celia Cruz, Miles Davis, Issa El Saeih, Dizzy Gillespie, Ernst Lamy, Ti Ro Ro, La Scala singers, members of the Grand National Opera New York, Daniel Santos, Don Shirley and Bebo Valdes all performed during the exposition.' ] } ] }

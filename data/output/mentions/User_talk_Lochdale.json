@@ -1,0 +1,8 @@
+{ name: 'User talk:Lochdale',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Lochdale',
+  mentions: 
+   [ { sectionHeader: 'Elvis Presley article',
+       sectionSubHeader: 'And yet more on Presley (though not edit warring)',
+       sectionIndex: 56,
+       wordCountBeforeSection: 13030,
+       quote: [ 'According to Miles Davis, ground-breaking jazz musician, composer, and band leader, the creation of music happens like this: “He influenced me and I influenced him , and that’s the way great music is always made.' ] } ] }

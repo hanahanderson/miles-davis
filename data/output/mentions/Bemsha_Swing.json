@@ -1,0 +1,18 @@
+{ name: 'Bemsha Swing',
+  href: 'http://en.wikipedia.org/wiki/Bemsha_Swing',
+  mentions: 
+   [ { sectionHeader: 'Recording history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 857,
+       quote: [ 'Soon after, in 1954, it was later recorded with Monk as a sideman on the Miles Davis album Miles Davis and the Modern Jazz Giants, which was released in 1959.' ] },
+     { sectionHeader: 'Recording history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 857,
+       quote: [ 'Miles Davis and the Modern Jazz Giants' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3168,
+       quote: [ 'Miles Davis and the Modern Jazz Giants' ] } ] }

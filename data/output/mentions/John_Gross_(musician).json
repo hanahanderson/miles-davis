@@ -1,0 +1,8 @@
+{ name: 'John Gross (musician)',
+  href: 'http://en.wikipedia.org/wiki/John_Gross_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Later career',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2398,
+       quote: [ 'Gross spent five years (1967–1972) as house band member at Shelly Manne\'s Hollywood club, “Shelly’s Manne-Hole,” playing opposite such jazz greats as Miles Davis, John Coltrane, Sonny Rollins, Bill Evans, Thelonious Monk, Art Blakey, Abby Lincoln, Muddy Waters, Gary Barone, Mike Wofford, and Dave Parlato.' ] } ] }

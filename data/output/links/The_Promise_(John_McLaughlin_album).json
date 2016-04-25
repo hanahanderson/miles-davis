@@ -1,0 +1,109 @@
+{ name: 'The Promise (John McLaughlin album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/The_Promise_(John_McLaughlin_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '73.65' } ],
+     'dbo:abstract': [ { value: 'The Promise is a jazz album released in 1995 by John McLaughlin on Verve Records. The album peaked number 4 in the Billboard Top Jazz Albums chart 1996. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:After_the_Rain_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/After_the_Rain_(John_McLaughlin_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Eddie_Kramer',
+          href: 'http://dbpedia.org/resource/Eddie_Kramer' },
+        { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:releaseDate': [ { value: '1995-12-21 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '4419.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Guitar_Trio',
+          href: 'http://dbpedia.org/resource/The_Guitar_Trio' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '39531663 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '629683270 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbp:cover': [ { value: 'John_McLaughlin_The_Promise.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'After the Rain (en)' } ],
+     'dbp:length': [ { value: '4419.0' } ],
+     'dbp:name': [ { value: 'The Promise (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Guitar Trio (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Eddie_Kramer',
+          href: 'http://dbpedia.org/resource/Eddie_Kramer' },
+        { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbp:recorded': [ { value: '1995 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1995-12-21 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'The Promise (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1995_albums',
+          href: 'http://dbpedia.org/resource/Category:1995_albums' },
+        { value: 'dbc:Verve_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_albums' },
+        { value: 'dbc:John_McLaughlin_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:John_McLaughlin_(musician)_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Promise is a jazz album released in 1995 by John McLaughlin on Verve Records. The album peaked number 4 in the Billboard Top Jazz Albums chart 1996. (en)' } ],
+     'rdfs:label': [ { value: 'The Promise (John McLaughlin album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Promise (John McLaughlin album)',
+          href: 'http://rdf.freebase.com/ns/m.01l4l79' },
+        { value: 'dbpedia-wikidata:The Promise (John McLaughlin album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17020064' },
+        { value: 'wikidata:The Promise (John McLaughlin album)',
+          href: 'http://www.wikidata.org/entity/Q17020064' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Promise_(John_McLaughlin_album)?oldid=629683270',
+          href: 'http://en.wikipedia.org/wiki/The_Promise_(John_McLaughlin_album)?oldid=629683270' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Promise_(John_McLaughlin_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Promise_(John_McLaughlin_album)' } ],
+     'foaf:name': [ { value: 'The Promise (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:After_the_Rain_(John_McLaughlin_album)',
+          href: 'http://dbpedia.org/resource/After_the_Rain_(John_McLaughlin_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:The_Promise',
+          href: 'http://dbpedia.org/resource/The_Promise' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Promise_(John_McLaughlin_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Promise_(John_McLaughlin_album)' } ] } }

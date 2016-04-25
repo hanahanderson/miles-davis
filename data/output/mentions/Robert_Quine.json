@@ -1,0 +1,8 @@
+{ name: 'Robert Quine',
+  href: 'http://en.wikipedia.org/wiki/Robert_Quine',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1317,
+       quote: [ 'As a guitarist, Quine was influenced by the angular breakthroughs of early Lou Reed and James Williamson and worked through them to a new, individual vocabulary, driven into odd places by obsessive attention to On the Corner-era Miles Davis.' ] } ] }

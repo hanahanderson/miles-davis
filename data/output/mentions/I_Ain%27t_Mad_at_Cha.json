@@ -1,0 +1,8 @@
+{ name: 'I Ain\'t Mad at Cha',
+  href: 'http://en.wikipedia.org/wiki/I_Ain%27t_Mad_at_Cha',
+  mentions: 
+   [ { sectionHeader: 'Music video',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6628,
+       quote: [ '\nLook-alikes of many deceased entertainers are revealed to be playing the beat in the party, featuring (among others), Redd Foxx, Jimi Hendrix, Bob Marley, Nat King Cole, Miles Davis, Sachmo, Marvin Gaye, Billie Holiday, Florence Ballard, Sammy Davis Jr., and Louis Armstrong.' ] } ] }

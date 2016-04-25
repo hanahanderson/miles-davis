@@ -1,0 +1,8 @@
+{ name: 'Flat Out (John Scofield album)',
+  href: 'http://en.wikipedia.org/wiki/Flat_Out_(John_Scofield_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3013,
+       quote: [ 'Miles Davis' ] } ] }

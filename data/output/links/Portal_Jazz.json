@@ -1,0 +1,19 @@
+{ name: 'Portal:Jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:Jazz',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Portail:Jazz',
+          href: 'http://fr.dbpedia.org/resource/Portail:Jazz' },
+        { value: 'dbpedia-de:Portal:Jazz',
+          href: 'http://de.dbpedia.org/resource/Portal:Jazz' },
+        { value: 'dbpedia-it:Portale:Jazz',
+          href: 'http://it.dbpedia.org/resource/Portale:Jazz' },
+        { value: 'dbpedia-nl:Portaal:Jazz',
+          href: 'http://nl.dbpedia.org/resource/Portaal:Jazz' },
+        { value: 'dbpedia-pt:Portal:Jazz',
+          href: 'http://pt.dbpedia.org/resource/Portal:Jazz' },
+        { value: 'dbpedia-wikidata:Q11032929',
+          href: 'http://wikidata.dbpedia.org/resource/Q11032929' },
+        { value: 'wikidata:Q11032929',
+          href: 'http://www.wikidata.org/entity/Q11032929' } ] } }

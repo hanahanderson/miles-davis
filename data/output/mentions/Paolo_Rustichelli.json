@@ -1,0 +1,8 @@
+{ name: 'Paolo Rustichelli',
+  href: 'http://en.wikipedia.org/wiki/Paolo_Rustichelli',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 739,
+       quote: [ 'His 1996 Mystic Man rock-jazz album featured Miles Davis, Carlos Santana, Herbie Hancock, Wayne Shorter, Andy Summers, and Jill Jones, the song "Paisa" reaching the Top Ten on the Radio & Records Smooth Jazz/NAC charts.' ] } ] }

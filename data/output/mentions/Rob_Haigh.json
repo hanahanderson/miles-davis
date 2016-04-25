@@ -1,0 +1,8 @@
+{ name: 'Rob Haigh',
+  href: 'http://en.wikipedia.org/wiki/Rob_Haigh',
+  mentions: 
+   [ { sectionHeader: 'Early work',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1100,
+       quote: [ 'as well as Miles Davis and King Tubby.' ] } ] }

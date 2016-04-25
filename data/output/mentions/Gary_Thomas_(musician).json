@@ -1,0 +1,8 @@
+{ name: 'Gary Thomas (musician)',
+  href: 'http://en.wikipedia.org/wiki/Gary_Thomas_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 624,
+       quote: [ 'He is a member of Jack DeJohnette\'s Special Edition band and has worked with John McLaughlin, Herbie Hancock, Pat Metheny, John Scofield, Jim Hall, Dave Holland, Greg Osby, Wayne Shorter, Ravi Coltrane, Cassandra Wilson, Wallace Roney, Miles Davis, Steve Coleman, as well as numerous other premier jazz musicians.' ] } ] }

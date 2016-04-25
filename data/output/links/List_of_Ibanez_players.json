@@ -1,0 +1,31 @@
+{ name: 'List of Ibanez players',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Ibanez_players',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is an alphabetized list by surname of musicians who have made notable use of Ibanez guitars. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.reverbnation.com/agressorcolombia,',
+          href: 'http://www.reverbnation.com/agressorcolombia,' },
+        { value: 'http://www.reverbnation.com/musician/to%C3%B1oguerrero,',
+          href: 'http://www.reverbnation.com/musician/to%C3%B1oguerrero,' } ],
+     'dbo:wikiPageID': [ { value: '11662379 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682615978 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_guitarists',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_guitarists' } ],
+     'rdfs:comment': [ { value: 'This is an alphabetized list by surname of musicians who have made notable use of Ibanez guitars. (en)' } ],
+     'rdfs:label': [ { value: 'List of Ibanez players (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Ibanez players',
+          href: 'http://wikidata.dbpedia.org/resource/Q6573827' },
+        { value: 'wikidata:List of Ibanez players',
+          href: 'http://www.wikidata.org/entity/Q6573827' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Ibanez_players?oldid=682615978',
+          href: 'http://en.wikipedia.org/wiki/List_of_Ibanez_players?oldid=682615978' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Ibanez_players',
+          href: 'http://en.wikipedia.org/wiki/List_of_Ibanez_players' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Ibanez_players',
+          href: 'http://en.wikipedia.org/wiki/List_of_Ibanez_players' } ] } }

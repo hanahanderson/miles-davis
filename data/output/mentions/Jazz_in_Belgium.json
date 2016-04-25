@@ -1,0 +1,13 @@
+{ name: 'Jazz in Belgium',
+  href: 'http://en.wikipedia.org/wiki/Jazz_in_Belgium',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 42,
+       wordCountBeforeSection: 18175,
+       quote: [ 'In his short career (he died at the age of 37) he played with such greats as Chet Baker, Kenny Burrell, Miles Davis, John Coltrane and Donald Byrd.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 46,
+       wordCountBeforeSection: 20355,
+       quote: [ 'In New York he played, among others, with J.J. Johnson and Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Love Me or Leave Me (Donaldson and Kahn song)',
+  href: 'http://en.wikipedia.org/wiki/Love_Me_or_Leave_Me_(Donaldson_and_Kahn_song)',
+  mentions: 
+   [ { sectionHeader: 'Recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3880,
+       quote: [ 'Miles Davis (released on his album Walkin\')' ] } ] }

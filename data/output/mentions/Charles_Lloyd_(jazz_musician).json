@@ -1,0 +1,8 @@
+{ name: 'Charles Lloyd (jazz musician)',
+  href: 'http://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 4156,
+       quote: [ 'Miles Davis and other jazz figures were highly influenced by Lloyd\'s explorations and soon plugged in to play for the young fans that Lloyd had reached through his acoustic outings.' ] } ] }

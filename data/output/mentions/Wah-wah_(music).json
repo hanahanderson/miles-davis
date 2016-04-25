@@ -1,0 +1,8 @@
+{ name: 'Wah-wah (music)',
+  href: 'http://en.wikipedia.org/wiki/Wah-wah_(music)',
+  mentions: 
+   [ { sectionHeader: 'Wah-wah in trumpet and trombone playing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1518,
+       quote: [ 'Although the most common method of producing wah-wah on brass instruments is with a mute, some players have used electronic filtering, notably Miles Davis on trumpet (Kernfeld 2002).' ] } ] }

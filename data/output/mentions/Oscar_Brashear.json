@@ -1,0 +1,8 @@
+{ name: 'Oscar Brashear',
+  href: 'http://en.wikipedia.org/wiki/Oscar_Brashear',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 1747,
+       quote: [ 'With Miles Davis' ] } ] }

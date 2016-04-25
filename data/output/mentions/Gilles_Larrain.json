@@ -1,0 +1,13 @@
+{ name: 'Gilles Larrain',
+  href: 'http://en.wikipedia.org/wiki/Gilles_Larrain',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 209,
+       quote: [ 'Larrain has photographed notable personalities in a wide range of creative disciplines, including the dancers of the American Ballet Theatre, Mikhail Baryshnikov, Salvador Dali, Miles Davis, Sting, Billy Joel, Roberto Rossellini, Norman Mailer, and more.' ] },
+     { sectionHeader: 'Work',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 5271,
+       quote: [ 'Throughout the 1980s and later, Larrain’s portraiture style was constantly sought after by luminaries, including Miles Davis, Sting, Billy Joel, John Lennon, Yoko Ono, Jerry Rubin, Glenn Close, Norman Mailer, Mikhail Baryshnikov, publisher Maurice Girodias, Joe Cocker, wife of the late Shah of Iran, former Queen of Iran Farah Diba Pahlavi, Salvador Dali, and more.' ] } ] }

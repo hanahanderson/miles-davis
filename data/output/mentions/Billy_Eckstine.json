@@ -1,0 +1,8 @@
+{ name: 'Billy Eckstine',
+  href: 'http://en.wikipedia.org/wiki/Billy_Eckstine',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2730,
+       quote: [ 'Included in this group were Dizzy Gillespie, Dexter Gordon, Miles Davis, Art Blakey, Charlie Parker, and Fats Navarro, as well as vocalist Sarah Vaughan.' ] } ] }

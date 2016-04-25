@@ -1,0 +1,8 @@
+{ name: 'Lenny White',
+  href: 'http://en.wikipedia.org/wiki/Lenny_White',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 2227,
+       quote: [ '1970 – Miles Davis: Bitches Brew (Columbia)' ] } ] }

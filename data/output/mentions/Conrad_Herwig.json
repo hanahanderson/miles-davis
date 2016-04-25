@@ -1,0 +1,8 @@
+{ name: 'Conrad Herwig',
+  href: 'http://en.wikipedia.org/wiki/Conrad_Herwig',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3707,
+       quote: [ 'Another Kind of Blue: The Latin Side of Miles Davis' ] } ] }

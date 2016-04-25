@@ -1,0 +1,113 @@
+{ name: 'To the Point',
+  entityType: 'radio program',
+  href: 'http://dbpedia.org/page/To_the_Point',
+  values: 
+   { 'dbo:abstract': [ { value: 'To the Point is an hour-long public affairs radio program  co-produced by KCRW in Santa Monica, California and Public Radio International. The program originates at KCRW at 1 pm Pacific Time each weekday. Award-winning journalist Warren Olney hosts the show; it is syndicated nationwide by PRI and currently airs in 15 states and Washington, D.C. by Public Radio International. KCRW also podcasts the program. (en)' } ],
+     'dbo:country': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' } ],
+     'dbo:creator': 
+      [ { value: 'dbr:KCRW', href: 'http://dbpedia.org/resource/KCRW' },
+        { value: 'dbr:Public_Radio_International',
+          href: 'http://dbpedia.org/resource/Public_Radio_International' } ],
+     'dbo:format': 
+      [ { value: 'dbr:Public_affairs_(broadcasting)',
+          href: 'http://dbpedia.org/resource/Public_affairs_(broadcasting)' } ],
+     'dbo:language': 
+      [ { value: 'dbr:English_language',
+          href: 'http://dbpedia.org/resource/English_language' } ],
+     'dbo:presenter': 
+      [ { value: 'dbr:Warren_Olney_IV',
+          href: 'http://dbpedia.org/resource/Warren_Olney_IV' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.kcrw.com/news/programs/tp',
+          href: 'http://www.kcrw.com/news/programs/tp' },
+        { value: 'http://www.kcrw.com/podcasts/podcasts',
+          href: 'http://www.kcrw.com/podcasts/podcasts' },
+        { value: 'http://www.kcrw.com/schedule',
+          href: 'http://www.kcrw.com/schedule' },
+        { value: 'http://www.kcrw.com/tothepoint',
+          href: 'http://www.kcrw.com/tothepoint' } ],
+     'dbo:wikiPageID': [ { value: '11903050 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680150594 (xsd:integer)' } ],
+     'dbp:audioFormat': 
+      [ { value: 'dbr:Stereophonic_sound',
+          href: 'http://dbpedia.org/resource/Stereophonic_sound' } ],
+     'dbp:creator': [ { value: 'KCRW-FM and PRI (en)' } ],
+     'dbp:executiveProducer': [ { value: 'Warren Olney (en)' } ],
+     'dbp:format': 
+      [ { value: 'dbr:Public_affairs_(broadcasting)',
+          href: 'http://dbpedia.org/resource/Public_affairs_(broadcasting)' } ],
+     'dbp:homeStation': [ { value: 'dbr:KCRW', href: 'http://dbpedia.org/resource/KCRW' } ],
+     'dbp:language': 
+      [ { value: 'dbr:English_language',
+          href: 'http://dbpedia.org/resource/English_language' } ],
+     'dbp:lastAired': [ { value: 'present (en)' } ],
+     'dbp:presenter': 
+      [ { value: 'dbr:Warren_Olney_IV',
+          href: 'http://dbpedia.org/resource/Warren_Olney_IV' } ],
+     'dbp:producer': [ { value: 'Katie Cooper, Christine Detz, Evan George, Benjamin Gottlieb, Jenny Hamel, Sasa Woodruff (en)' } ],
+     'dbp:recordLocation': [ { value: 'KCRW in Santa Monica, CA (en)' } ],
+     'dbp:runtime': [ { value: '3240.0' } ],
+     'dbp:showName': [ { value: 'To the Point (en)' } ],
+     'dbp:syndicates': 
+      [ { value: 'dbr:Public_Radio_International',
+          href: 'http://dbpedia.org/resource/Public_Radio_International' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Public_Radio_International_programs',
+          href: 'http://dbpedia.org/resource/Category:Public_Radio_International_programs' },
+        { value: 'dbc:KCRW',
+          href: 'http://dbpedia.org/resource/Category:KCRW' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Cognition100023271',
+          href: 'http://dbpedia.org/class/yago/Cognition100023271' },
+        { value: 'yago:Content105809192',
+          href: 'http://dbpedia.org/class/yago/Content105809192' },
+        { value: 'yago:Idea105833840',
+          href: 'http://dbpedia.org/class/yago/Idea105833840' },
+        { value: 'yago:Plan105898568',
+          href: 'http://dbpedia.org/class/yago/Plan105898568' },
+        { value: 'yago:PublicRadioInternationalPrograms',
+          href: 'http://dbpedia.org/class/yago/PublicRadioInternationalPrograms' },
+        { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q1555508',
+          href: 'http://www.wikidata.org/entity/Q1555508' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:RadioProgram',
+          href: 'http://dbpedia.org/ontology/RadioProgram' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'yago:PsychologicalFeature100023100',
+          href: 'http://dbpedia.org/class/yago/PsychologicalFeature100023100' } ],
+     'rdfs:comment': [ { value: 'To the Point is an hour-long public affairs radio program  co-produced by KCRW in Santa Monica, California and Public Radio International. The program originates at KCRW at 1 pm Pacific Time each weekday. Award-winning journalist Warren Olney hosts the show; it is syndicated nationwide by PRI and currently airs in 15 states and Washington, D.C. by Public Radio International. KCRW also podcasts the program. (en)' } ],
+     'rdfs:label': [ { value: 'To the Point (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:To the Point',
+          href: 'http://rdf.freebase.com/ns/m.02rxdlq' },
+        { value: 'dbpedia-wikidata:To the Point',
+          href: 'http://wikidata.dbpedia.org/resource/Q7811301' },
+        { value: 'wikidata:To the Point',
+          href: 'http://www.wikidata.org/entity/Q7811301' },
+        { value: 'yago-res:To the Point',
+          href: 'http://yago-knowledge.org/resource/To_the_Point' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:To_the_Point?oldid=680150594',
+          href: 'http://en.wikipedia.org/wiki/To_the_Point?oldid=680150594' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.kcrw.com/tothepoint',
+          href: 'http://www.kcrw.com/tothepoint' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:To_the_Point',
+          href: 'http://en.wikipedia.org/wiki/To_the_Point' } ],
+     'foaf:name': [ { value: 'To the Point (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:To_the_point',
+          href: 'http://dbpedia.org/resource/To_the_point' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:To_the_Point',
+          href: 'http://en.wikipedia.org/wiki/To_the_Point' } ] } }

@@ -1,0 +1,49 @@
+{ name: '1950s in music',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1950s_in_music',
+  values: 
+   { 'dbo:abstract': [ { value: 'For music from a year in the 1950s, go to 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59This article includes an overview of the major events and trends in popular music in the 1950s.In the First World, rock and roll, Doo Wop, pop, swing, rhythm and blues, blues, country and rockabilly dominated and defined the decade\'s music. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Frankie_Laine_Patti_Page_1950s.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Frankie_Laine_Patti_Page_1950s.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '24281645 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680330428 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1950s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1950s_in_music' },
+        { value: 'dbc:20th_century_in_music',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_music' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'For music from a year in the 1950s, go to 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59This article includes an overview of the major events and trends in popular music in the 1950s.In the First World, rock and roll, Doo Wop, pop, swing, rhythm and blues, blues, country and rockabilly dominated and defined the decade\'s music. (en)' } ],
+     'rdfs:label': [ { value: '1950s in music (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:Music_of_the_United_Kingdom_(1950s)',
+          href: 'http://dbpedia.org/resource/Music_of_the_United_Kingdom_(1950s)' },
+        { value: 'dbr:50s)', href: 'http://dbpedia.org/resource/50s)' },
+        { value: 'dbr:Music_history_of_the_United_States_(1940s',
+          href: 'http://dbpedia.org/resource/Music_history_of_the_United_States_(1940s' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1950s in music',
+          href: 'http://wikidata.dbpedia.org/resource/Q4567016' },
+        { value: 'freebase:1950s in music',
+          href: 'http://rdf.freebase.com/ns/m.0116v0gc' },
+        { value: 'wikidata:1950s in music',
+          href: 'http://www.wikidata.org/entity/Q4567016' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1950s_in_music?oldid=680330428',
+          href: 'http://en.wikipedia.org/wiki/1950s_in_music?oldid=680330428' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Frankie_Laine_Patti_Page_1950s.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Frankie_Laine_Patti_Page_1950s.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1950s_in_music',
+          href: 'http://en.wikipedia.org/wiki/1950s_in_music' } ],
+     'is dbo:programmeFormat\n of': [ { value: 'dbr:WJJL', href: 'http://dbpedia.org/resource/WJJL' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:1950s_music',
+          href: 'http://dbpedia.org/resource/1950s_music' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1950s_in_music',
+          href: 'http://en.wikipedia.org/wiki/1950s_in_music' } ] } }

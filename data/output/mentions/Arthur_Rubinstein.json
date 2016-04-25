@@ -1,0 +1,8 @@
+{ name: 'Arthur Rubinstein',
+  href: 'http://en.wikipedia.org/wiki/Arthur_Rubinstein',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Pupils',
+       sectionIndex: 79,
+       wordCountBeforeSection: 22574,
+       quote: [ 'Miles Davis (1984)' ] } ] }

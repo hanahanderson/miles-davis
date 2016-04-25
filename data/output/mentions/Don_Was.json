@@ -1,0 +1,8 @@
+{ name: 'Don Was',
+  href: 'http://en.wikipedia.org/wiki/Don_Was',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 931,
+       quote: [ 'A journeyman musician, he grew up listening to the Detroit blues sound and the jazz music of John Coltrane and Miles Davis.' ] } ] }

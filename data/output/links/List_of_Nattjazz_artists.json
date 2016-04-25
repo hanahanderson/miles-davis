@@ -1,0 +1,24 @@
+{ name: 'List of Nattjazz artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Nattjazz_artists',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of artist performers who have visited the international festival Nattjazz in Bergen through the years. (en)' } ],
+     'dbo:wikiPageID': [ { value: '46508330 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664850419 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_in_Bergen',
+          href: 'http://dbpedia.org/resource/Category:Music_in_Bergen' },
+        { value: 'dbc:Culture_in_Hordaland',
+          href: 'http://dbpedia.org/resource/Category:Culture_in_Hordaland' } ],
+     'rdfs:comment': [ { value: 'This is a list of artist performers who have visited the international festival Nattjazz in Bergen through the years. (en)' } ],
+     'rdfs:label': [ { value: 'List of Nattjazz artists (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Nattjazz_artists?oldid=664850419',
+          href: 'http://en.wikipedia.org/wiki/List_of_Nattjazz_artists?oldid=664850419' } ],
+     'foaf:homepage': [ { value: 'http://nattjazz.no', href: 'http://nattjazz.no' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Nattjazz_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Nattjazz_artists' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Nattjazz_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Nattjazz_artists' } ] } }

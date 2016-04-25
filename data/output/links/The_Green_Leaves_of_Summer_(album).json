@@ -1,0 +1,102 @@
+{ name: 'The Green Leaves of Summer (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Green_Leaves_of_Summer_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '39.31666666666667' } ],
+     'dbo:abstract': [ { value: 'The Green Leaves of Summer is an album by American jazz pianist Hampton Hawes recorded in 1964 and released on the Contemporary label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Hampton_Hawes',
+          href: 'http://dbpedia.org/resource/Hampton_Hawes' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Sermon',
+          href: 'http://dbpedia.org/resource/The_Sermon' } ],
+     'dbo:recordDate': [ { value: '1964-02-17 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Contemporary_Records',
+          href: 'http://dbpedia.org/resource/Contemporary_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Los_Angeles',
+          href: 'http://dbpedia.org/resource/Los_Angeles' } ],
+     'dbo:runtime': [ { value: '2359.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Here_and_Now_(Hampton_Hawes_album)',
+          href: 'http://dbpedia.org/resource/Here_and_Now_(Hampton_Hawes_album)' } ],
+     'dbo:wikiPageID': [ { value: '47073333 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680205609 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Hampton_Hawes',
+          href: 'http://dbpedia.org/resource/Hampton_Hawes' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Hampton_Hawes',
+          href: 'http://dbpedia.org/resource/Hampton_Hawes' } ],
+     'dbp:cover': [ { value: 'The Green Leaves of Summer.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Contemporary_Records',
+          href: 'http://dbpedia.org/resource/Contemporary_Records' },
+        { value: '(M 3614/S 7614) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'The Sermon (en)' } ],
+     'dbp:length': [ { value: '2359.0' } ],
+     'dbp:name': [ { value: 'The Green Leaves of Summer (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Here and Now (en)' } ],
+     'dbp:producer': [ { value: 'Lester Koenig (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1964-02-17 (xsd:date)' },
+        { value: 'dbr:Los_Angeles',
+          href: 'http://dbpedia.org/resource/Los_Angeles' },
+        { value: 'Contemporary Records Studio (en)' } ],
+     'dbp:released': [ { value: 'Early April 1964 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Green Leaves of Summer (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1964_albums',
+          href: 'http://dbpedia.org/resource/Category:1964_albums' },
+        { value: 'dbc:Contemporary_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Contemporary_Records_albums' },
+        { value: 'dbc:Hampton_Hawes_albums',
+          href: 'http://dbpedia.org/resource/Category:Hampton_Hawes_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Green Leaves of Summer is an album by American jazz pianist Hampton Hawes recorded in 1964 and released on the Contemporary label. (en)' } ],
+     'rdfs:label': [ { value: 'The Green Leaves of Summer (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:The Green Leaves of Summer (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20687124' },
+        { value: 'wikidata:The Green Leaves of Summer (album)',
+          href: 'http://www.wikidata.org/entity/Q20687124' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Green_Leaves_of_Summer_(album)?oldid=680205609',
+          href: 'http://en.wikipedia.org/wiki/The_Green_Leaves_of_Summer_(album)?oldid=680205609' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Green_Leaves_of_Summer_(album)',
+          href: 'http://en.wikipedia.org/wiki/The_Green_Leaves_of_Summer_(album)' } ],
+     'foaf:name': [ { value: 'The Green Leaves of Summer (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Here_and_Now_(Hampton_Hawes_album)',
+          href: 'http://dbpedia.org/resource/Here_and_Now_(Hampton_Hawes_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Sermon',
+          href: 'http://dbpedia.org/resource/The_Sermon' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Green_Leaves_of_Summer_(album)',
+          href: 'http://en.wikipedia.org/wiki/The_Green_Leaves_of_Summer_(album)' } ] } }

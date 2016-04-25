@@ -1,0 +1,8 @@
+{ name: 'Green Gartside',
+  href: 'http://en.wikipedia.org/wiki/Green_Gartside',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 840,
+       quote: [ 'Gartside has also worked with Miles Davis, Chaka Khan, Eurythmics, Elvis Costello, Shabba Ranks, Mos Def, Kylie Minogue, Robyn Hitchcock, Manic Street Preachers and Tracey Thorn among others.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Festival for Peace',
+  href: 'http://en.wikipedia.org/wiki/Festival_for_Peace',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 771,
+       quote: [ 'Very little media has survived and no film of this concert has surfaced publicly despite the fact that it featured such historic performers as Janis Joplin, Paul Simon, Creedence Clearwater Revival, Steppenwolf, The James Gang, Miles Davis, Johnny Winter, Herbie Hancock, Dionne Warwick, John Sebastian, The Rascals, the cast of "Hair," Pacific Gas & Electric, Ten Wheel Drve and a dozen other important acts of the period.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Bohuslän Big Band',
+  href: 'http://en.wikipedia.org/wiki/Bohusl%C3%A4n_Big_Band',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'The DVD contains the original scores Gil Evans wrote for Miles Davis 1958.' ] } ] }

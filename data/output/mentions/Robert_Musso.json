@@ -1,0 +1,8 @@
+{ name: 'Robert Musso',
+  href: 'http://en.wikipedia.org/wiki/Robert_Musso',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 549,
+       quote: [ 'During this period, he worked with a wide variety of artists, including Stevie Wonder, Bob Dylan, Mick Jagger, His Holiness the Dali Llama, Miles Davis, Al Green, Bob Marley, Herbie Hancock, Sting, Carlos Santana, Miles Davis, Jimi Hendrix, David Bowie, George Clinton, Dave Matthews, Ornette Coleman, John Zorn, Peter Gabriel, The Ramones, Iggy Pop, Blondie, Whitney Houston, Sly & Robbie, Fine Young Cannibals, Pharaoh Sanders, William Burroughs, Julian Schnabel, Bootsy Collins, The Last Poets, Ozzy Osbourne and Steve Vai.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:Tvccs',
+  href: 'http://en.wikipedia.org/wiki/User:Tvccs',
+  mentions: 
+   [ { sectionHeader: 'Article Contributions & Original Creation** (Partial List)',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 11451,
+       quote: [ 'Miles Davis (image, video links)' ] } ] }

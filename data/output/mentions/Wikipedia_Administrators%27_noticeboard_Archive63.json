@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Administrators\' noticeboard/Archive63',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Administrators%27_noticeboard/Archive63',
+  mentions: 
+   [ { sectionHeader: 'Marking our sources',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 22168,
+       quote: [ 'This user has already implemented his idea on several pages (Compass_rose, Wolfenstein_3D and Miles Davis).' ] } ] }

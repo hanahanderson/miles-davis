@@ -1,0 +1,8 @@
+{ name: 'William Kopecky',
+  href: 'http://en.wikipedia.org/wiki/William_Kopecky',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1573,
+       quote: [ 'Miles Davis' ] } ] }

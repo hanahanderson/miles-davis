@@ -1,0 +1,8 @@
+{ name: 'Marlon Jordan',
+  href: 'http://en.wikipedia.org/wiki/Marlon_Jordan',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1270,
+       quote: [ 'Marlon took his quintet on the road, joined by Wynton Marsalis, Miles Davis and George Benson as a headlining act in a series of JVC Jazz Festival dates.' ] } ] }

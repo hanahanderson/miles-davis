@@ -1,0 +1,8 @@
+{ name: 'File:Full Nelson.ogg',
+  href: 'http://en.wikipedia.org/wiki/File:Full_Nelson.ogg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '30-second sample of the track "Full Nelson" from the 1986 album Tutu by Miles Davis.' ] } ] }

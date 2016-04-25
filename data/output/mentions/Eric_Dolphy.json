@@ -1,0 +1,20 @@
+{ name: 'Eric Dolphy',
+  href: 'http://en.wikipedia.org/wiki/Eric_Dolphy',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 5188,
+       quote: 
+        [ 'Dolphy and John Coltrane knew each other long before they formally played together, having met when Coltrane was in Los Angeles with Miles Davis.',
+          'Coltrane had gained an audience and critical notice with Miles Davis\'s quintet, but alienated some jazz critics when he began to move away from hard bop.' ] },
+     { sectionHeader: 'Influence',
+       sectionSubHeader: 'Final months',
+       sectionIndex: 41,
+       wordCountBeforeSection: 15670,
+       quote: [ 'Carter, Hancock and Williams would go on to become one of the quintessential rhythm sections of the decade, both together on their own albums and as the backbone of Miles Davis\'s second great quintet.' ] },
+     { sectionHeader: 'Influence',
+       sectionSubHeader: 'Final months',
+       sectionIndex: 41,
+       wordCountBeforeSection: 15670,
+       quote: [ 'Carter, Hancock and Williams would go on to become one of the quintessential rhythm sections of the decade, both together on their own albums and as the backbone of Miles Davis\'s second great quintet.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Absolute Beginners (film)',
+  href: 'http://en.wikipedia.org/wiki/Absolute_Beginners_(film)',
+  mentions: 
+   [ { sectionHeader: 'Soundtrack',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 5443,
+       quote: [ '"So What? (Lyric Version)", Smiley Culture (Culture, Miles Davis)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Nojazz',
+  href: 'http://en.wikipedia.org/wiki/Nojazz',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 495,
+       quote: [ 'The album was produced by Teo Macero, Miles Davis\'s producer.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Sarah Vaughan',
+  href: 'http://en.wikipedia.org/wiki/Sarah_Vaughan',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 5646,
+       quote: [ 'Parker came along too, and the Eckstine band over the next few years would host a startling cast of jazz talent: Miles Davis, Kenny Dorham, Art Blakey, Lucky Thompson, Gene Ammons, and Dexter Gordon, among others.' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 12220,
+       quote: [ 'A set of small group sides recorded in 1950 with Miles Davis and Bennie Green are among the best of her career, but they were atypical of her Columbia output.' ] } ] }

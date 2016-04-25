@@ -1,0 +1,107 @@
+{ name: 'Live at Donte\'s (Joe Pass album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Live_at_Donte%27s_(Joe_Pass_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '67.68333333333334' } ],
+     'dbo:abstract': [ { value: 'Live at Donte\'s (or The Joe Pass Trio Live at Donte\'s) is a live album by American jazz guitarist Joe Pass, released in 1974 (see 1974 in music). It was originally released as a double-LP and reissued on CD by Pablo in 1995 and again in 2002.After spending over ten years playing in relative obscurity, Pass released the critically acclaimed  solo-guitar Virtuoso and also played on two Ella Fitzgerald releases. Then came Live at Donte\'s where the trio format proved very effective and opened even more avenues for Pass\' talents in the year\'s to come.Somewhat unusual in the jazz trio setting at this time is bassist Jim Hughart playing an electric bass instead of the usual double bass. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Joe_Pass',
+          href: 'http://dbpedia.org/resource/Joe_Pass' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Bebop',
+          href: 'http://dbpedia.org/resource/Bebop' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Giants_(album)',
+          href: 'http://dbpedia.org/resource/The_Giants_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Norman_Granz',
+          href: 'http://dbpedia.org/resource/Norman_Granz' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Pablo_Records',
+          href: 'http://dbpedia.org/resource/Pablo_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Los_Angeles',
+          href: 'http://dbpedia.org/resource/Los_Angeles' } ],
+     'dbo:runtime': [ { value: '4061.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Oscar_Peterson_et_Joe_Pass_à_Salle_Pleyel',
+          href: 'http://dbpedia.org/resource/Oscar_Peterson_et_Joe_Pass_à_Salle_Pleyel' } ],
+     'dbo:wikiPageID': [ { value: '22027782 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683452661 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Joe_Pass',
+          href: 'http://dbpedia.org/resource/Joe_Pass' } ],
+     'dbp:cover': [ { value: 'Joe Pass Live at Dontes.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Bebop',
+          href: 'http://dbpedia.org/resource/Bebop' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Pablo_Records',
+          href: 'http://dbpedia.org/resource/Pablo_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Giants (en)' } ],
+     'dbp:length': [ { value: '4061.0' } ],
+     'dbp:name': [ { value: 'Live at Donte\'s (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Oscar Peterson et Joe Pass à Salle Pleyel (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Norman_Granz',
+          href: 'http://dbpedia.org/resource/Norman_Granz' } ],
+     'dbp:recorded': [ { value: '--12-08' } ],
+     'dbp:released': [ { value: '1974 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'Live at Donte\'s (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Norman_Granz',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Norman_Granz' },
+        { value: 'dbc:1974_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1974_live_albums' },
+        { value: 'dbc:Pablo_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Pablo_Records_live_albums' },
+        { value: 'dbc:Joe_Pass_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Joe_Pass_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Live at Donte\'s (or The Joe Pass Trio Live at Donte\'s) is a live album by American jazz guitarist Joe Pass, released in 1974 (see 1974 in music). It was originally released as a double-LP and reissued on CD by Pablo in 1995 and again in 2002.After spending over ten years playing in relative obscurity, Pass released the critically acclaimed  solo-guitar Virtuoso and also played on two Ella Fitzgerald releases. (en)' } ],
+     'rdfs:label': [ { value: 'Live at Donte\'s (Joe Pass album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Live at Donte\'s (Joe Pass album)',
+          href: 'http://rdf.freebase.com/ns/m.05p3tf6' },
+        { value: 'dbpedia-wikidata:Live at Donte\'s (Joe Pass album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6656082' },
+        { value: 'wikidata:Live at Donte\'s (Joe Pass album)',
+          href: 'http://www.wikidata.org/entity/Q6656082' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Live_at_Donte\'s_(Joe_Pass_album)?oldid=683452661',
+          href: 'http://en.wikipedia.org/wiki/Live_at_Donte\'s_(Joe_Pass_album)?oldid=683452661' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Live_at_Donte\'s_(Joe_Pass_album)',
+          href: 'http://en.wikipedia.org/wiki/Live_at_Donte\'s_(Joe_Pass_album)' } ],
+     'foaf:name': [ { value: 'Live at Donte\'s (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Live_at_Donte\'s',
+          href: 'http://dbpedia.org/resource/Live_at_Donte\'s' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Live_at_Donte\'s_(Joe_Pass_album)',
+          href: 'http://en.wikipedia.org/wiki/Live_at_Donte\'s_(Joe_Pass_album)' } ] } }

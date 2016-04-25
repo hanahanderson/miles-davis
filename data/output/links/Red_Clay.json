@@ -1,0 +1,132 @@
+{ name: 'Red Clay',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Red_Clay',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '49.2' } ],
+     'dbo:abstract': [ { value: 'Red Clay is a soul/funk-influenced hard bop album recorded in 1970 by jazz trumpeter Freddie Hubbard.  It was his first album released on Creed Taylor\'s CTI label and marked a shift away from Hubbard\'s long time recording affair with Blue Note Records and another shift toward the soul-jazz fusion sounds that would dominate his recordings in the later part of the decade. It was the album that established Taylor\'s vision for the music that was to appear on his labels in the coming decade. This is also Freddie Hubbard\'s seventeenth overall album. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Freddie_Hubbard',
+          href: 'http://dbpedia.org/resource/Freddie_Hubbard' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Soul_jazz',
+          href: 'http://dbpedia.org/resource/Soul_jazz' },
+        { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' },
+        { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Hub_of_Hubbard',
+          href: 'http://dbpedia.org/resource/The_Hub_of_Hubbard' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Creed_Taylor' } ],
+     'dbo:recordDate': [ { value: '0028-01-27 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:CTI_Records',
+          href: 'http://dbpedia.org/resource/CTI_Records' } ],
+     'dbo:runtime': [ { value: '2952.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Straight_Life_(Freddie_Hubbard_album)',
+          href: 'http://dbpedia.org/resource/Straight_Life_(Freddie_Hubbard_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '10816095 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677969960 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Freddie_Hubbard',
+          href: 'http://dbpedia.org/resource/Freddie_Hubbard' } ],
+     'dbp:cover': [ { value: 'FreddieHubbard RedClay.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Soul_jazz',
+          href: 'http://dbpedia.org/resource/Soul_jazz' },
+        { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' },
+        { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:CTI_Records',
+          href: 'http://dbpedia.org/resource/CTI_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Hub of Hubbard (en)' } ],
+     'dbp:length': [ { value: '2952.0' } ],
+     'dbp:name': [ { value: 'Red Clay (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Straight Life (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Creed_Taylor' } ],
+     'dbp:recorded': [ { value: '--01-27' } ],
+     'dbp:released': [ { value: 'May 1970 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Red Clay (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Freddie_Hubbard_albums',
+          href: 'http://dbpedia.org/resource/Category:Freddie_Hubbard_albums' },
+        { value: 'dbc:CTI_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:CTI_Records_albums' },
+        { value: 'dbc:Albums_produced_by_Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Creed_Taylor' },
+        { value: 'dbc:1970_albums',
+          href: 'http://dbpedia.org/resource/Category:1970_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Hard_bop_albums',
+          href: 'http://dbpedia.org/resource/Category:Hard_bop_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Red Clay is a soul/funk-influenced hard bop album recorded in 1970 by jazz trumpeter Freddie Hubbard.  It was his first album released on Creed Taylor\'s CTI label and marked a shift away from Hubbard\'s long time recording affair with Blue Note Records and another shift toward the soul-jazz fusion sounds that would dominate his recordings in the later part of the decade. It was the album that established Taylor\'s vision for the music that was to appear on his labels in the coming decade. (en)' } ],
+     'rdfs:label': [ { value: 'Red Clay (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Red Clay',
+          href: 'http://fr.dbpedia.org/resource/Red_Clay' },
+        { value: 'dbpedia-wikidata:Red Clay',
+          href: 'http://wikidata.dbpedia.org/resource/Q3422681' },
+        { value: 'freebase:Red Clay',
+          href: 'http://rdf.freebase.com/ns/m.01lcx6p' },
+        { value: 'wikidata:Red Clay',
+          href: 'http://www.wikidata.org/entity/Q3422681' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Red_Clay?oldid=677969960',
+          href: 'http://en.wikipedia.org/wiki/Red_Clay?oldid=677969960' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Red_Clay',
+          href: 'http://en.wikipedia.org/wiki/Red_Clay' } ],
+     'foaf:name': [ { value: 'Red Clay (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Straight_Life_(Freddie_Hubbard_album)',
+          href: 'http://dbpedia.org/resource/Straight_Life_(Freddie_Hubbard_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Hub_of_Hubbard',
+          href: 'http://dbpedia.org/resource/The_Hub_of_Hubbard' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Red_Clay_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Red_Clay_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Red_Clay_(Freddie_Hubbard_album)',
+          href: 'http://dbpedia.org/resource/Red_Clay_(Freddie_Hubbard_album)' } ],
+     'is dbp:surface\n of': 
+      [ { value: 'dbr:2006_ARAG_World_Team_Cup',
+          href: 'http://dbpedia.org/resource/2006_ARAG_World_Team_Cup' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Red_Clay',
+          href: 'http://en.wikipedia.org/wiki/Red_Clay' } ] } }

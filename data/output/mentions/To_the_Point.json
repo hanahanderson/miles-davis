@@ -1,0 +1,8 @@
+{ name: 'To the Point',
+  href: 'http://en.wikipedia.org/wiki/To_the_Point',
+  mentions: 
+   [ { sectionHeader: 'Format',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1567,
+       quote: [ 'The segment is split in half by Miles Davis\'s "Blue in Green."' ] } ] }

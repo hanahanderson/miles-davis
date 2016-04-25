@@ -1,0 +1,87 @@
+{ name: 'Hampton Hawes at the Piano',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Hampton_Hawes_at_the_Piano',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '38.833333333333336' } ],
+     'dbo:abstract': [ { value: 'Hampton Hawes at the Piano is an album by American jazz pianist Hampton Hawes, recorded in 1976 and released on the Contemporary label in 1978. The album was Hawes\' final recording before his death in 1977 and was the first to be released posthumously. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Hampton_Hawes',
+          href: 'http://dbpedia.org/resource/Hampton_Hawes' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Something_Special_(Hampton_Hawes_album)',
+          href: 'http://dbpedia.org/resource/Something_Special_(Hampton_Hawes_album)' } ],
+     'dbo:recordDate': [ { value: '1976-08-14 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Contemporary_Records',
+          href: 'http://dbpedia.org/resource/Contemporary_Records' } ],
+     'dbo:runtime': [ { value: '2330.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '47081279 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '669314593 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Hampton_Hawes',
+          href: 'http://dbpedia.org/resource/Hampton_Hawes' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Hampton_Hawes',
+          href: 'http://dbpedia.org/resource/Hampton_Hawes' } ],
+     'dbp:cover': [ { value: 'Hampton Hawes at the Piano.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Contemporary( S7637) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Something Special (en)' } ],
+     'dbp:length': [ { value: '2330.0' } ],
+     'dbp:name': [ { value: 'Hampton Hawes at the Piano (en)' } ],
+     'dbp:producer': [ { value: 'Lester Koenig (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1976-08-14 (xsd:date)' },
+        { value: 'Contemporary Records Studio, Los Angeles, CA (en)' } ],
+     'dbp:released': [ { value: '1978 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Hampton Hawes at the Piano (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1978_albums',
+          href: 'http://dbpedia.org/resource/Category:1978_albums' },
+        { value: 'dbc:Contemporary_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Contemporary_Records_albums' },
+        { value: 'dbc:Hampton_Hawes_albums',
+          href: 'http://dbpedia.org/resource/Category:Hampton_Hawes_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Hampton Hawes at the Piano is an album by American jazz pianist Hampton Hawes, recorded in 1976 and released on the Contemporary label in 1978. The album was Hawes\' final recording before his death in 1977 and was the first to be released posthumously. (en)' } ],
+     'rdfs:label': [ { value: 'Hampton Hawes at the Piano (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:Hampton Hawes at the Piano',
+          href: 'http://www.wikidata.org/entity/Q20687155' },
+        { value: 'dbpedia-wikidata:Hampton Hawes at the Piano',
+          href: 'http://wikidata.dbpedia.org/resource/Q20687155' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Hampton_Hawes_at_the_Piano?oldid=669314593',
+          href: 'http://en.wikipedia.org/wiki/Hampton_Hawes_at_the_Piano?oldid=669314593' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Hampton_Hawes_at_the_Piano',
+          href: 'http://en.wikipedia.org/wiki/Hampton_Hawes_at_the_Piano' } ],
+     'foaf:name': [ { value: 'Hampton Hawes at the Piano (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Something_Special_(Hampton_Hawes_album)',
+          href: 'http://dbpedia.org/resource/Something_Special_(Hampton_Hawes_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Hampton_Hawes_at_the_Piano',
+          href: 'http://en.wikipedia.org/wiki/Hampton_Hawes_at_the_Piano' } ] } }

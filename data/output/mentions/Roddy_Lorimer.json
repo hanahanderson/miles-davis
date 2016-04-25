@@ -1,0 +1,8 @@
+{ name: 'Roddy Lorimer',
+  href: 'http://en.wikipedia.org/wiki/Roddy_Lorimer',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1400,
+       quote: [ 'Amongst his influences in popular music, Lorimer cites Miles Davis and Chuck Mangione. .' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Moment of Truth (Gerald Wilson album)',
+  href: 'http://en.wikipedia.org/wiki/Moment_of_Truth_(Gerald_Wilson_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 870,
+       quote: [ '"Milestones" (Miles Davis) - 5:30' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jeffrey Gibson',
+  href: 'http://en.wikipedia.org/wiki/Jeffrey_Gibson',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: 'Totems',
+       sectionIndex: 31,
+       wordCountBeforeSection: 6028,
+       quote: [ 'Artist and poet Jimmie Durham declared that Gibson "might be our Miles Davis", our referring to Native America.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Blues...?',
+  href: 'http://en.wikipedia.org/wiki/Blues...%3F',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 764,
+       quote: [ '"Freddie Freeloader" (Miles Davis) - 5:22' ] } ] }

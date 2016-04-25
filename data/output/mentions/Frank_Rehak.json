@@ -1,0 +1,8 @@
+{ name: 'Frank Rehak',
+  href: 'http://en.wikipedia.org/wiki/Frank_Rehak',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 116,
+       quote: [ 'During this time he was the lead trombonist on many of Miles Davis’ recordings with the Gil Evans Orchestra and also appeared on The Sounds of Miles Davis, a television program that showcased the music from Kind of Blue (1959), as well as original compositions and arrangements by Gil Evans.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Rabbit-Proof Fence (film)',
+  href: 'http://en.wikipedia.org/wiki/Rabbit-Proof_Fence_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Nominations',
+       sectionIndex: 65,
+       wordCountBeforeSection: 17320,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

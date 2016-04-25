@@ -1,0 +1,8 @@
+{ name: 'Cool (aesthetic)',
+  href: 'http://en.wikipedia.org/wiki/Cool_(aesthetic)',
+  mentions: 
+   [ { sectionHeader: 'Regions',
+       sectionSubHeader: '',
+       sectionIndex: 47,
+       wordCountBeforeSection: 13712,
+       quote: [ 'George Elliott Clarke writes that Malcolm X, like Miles Davis, embodies essential elements of cool.' ] } ] }

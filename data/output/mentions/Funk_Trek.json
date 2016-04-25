@@ -1,0 +1,8 @@
+{ name: 'Funk Trek',
+  href: 'http://en.wikipedia.org/wiki/Funk_Trek',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Soulive, Lettuce, Frank Zappa, The Meters, Galactic, Miles Davis, Fela Kuti, Budos Band, After the Burial' ] } ] }

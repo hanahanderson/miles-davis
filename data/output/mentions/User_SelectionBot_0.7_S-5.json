@@ -1,0 +1,8 @@
+{ name: 'User:SelectionBot/0.7/S-5',
+  href: 'http://en.wikipedia.org/wiki/User:SelectionBot/0.7/S-5',
+  mentions: 
+   [ { sectionHeader: 'St. Louis',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 3877,
+       quote: [ 'Miles Davis :' ] } ] }

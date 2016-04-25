@@ -1,0 +1,8 @@
+{ name: 'Jazz royalty',
+  href: 'http://en.wikipedia.org/wiki/Jazz_royalty',
+  mentions: 
+   [ { sectionHeader: 'Titles',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 6173,
+       quote: [ 'The Prince of Darkness: Miles Davis' ] } ] }

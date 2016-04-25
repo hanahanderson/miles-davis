@@ -1,0 +1,44 @@
+{ name: 'List of Telecaster players',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Telecaster_players',
+  values: 
+   { 'dbo:abstract': [ { value: 'Fender is a manufacturer of stringed instruments and amplifiers which was founded by Leo Fender. Among the best-known products made by Fender were the Telecaster, the Broadcaster and the Esquire. Because of the great popularity of these models, musicians are listed here only if their use of this instrument was especially significant—that is, they are players with long careers who have a history of faithful Telecaster use, or the particular guitar they used was unique or of historical importance, or their use of the Telecaster contributed significantly to the popularization of the instrument.Esquire players are here listed alongside players of the more famous Telecaster, since Fender regards it as part of the "family of Telecaster guitars". While the one-pickup Esquire has been marketed as a separate model from the two-pickup Telecaster (which was originally named the Broadcaster) since its reintroduction in 1951, the Esquire and Telecaster are so intimately linked in their development and history, and so similar in design and tonal characteristics, that they are considered variations of the same model. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Telecaster50th.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Telecaster50th.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.gibson.com/Products/GibsonElectric/ValleyArts/Brent%20Mason%20Signature/',
+          href: 'http://www.gibson.com/Products/GibsonElectric/ValleyArts/Brent%20Mason%20Signature/' },
+        { value: 'http://www.fender.com/products/search.php?partno=0108800821',
+          href: 'http://www.fender.com/products/search.php?partno=0108800821' } ],
+     'dbo:wikiPageID': [ { value: '2071290 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681827293 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Fender_electric_guitars',
+          href: 'http://dbpedia.org/resource/Category:Fender_electric_guitars' },
+        { value: 'dbc:Lists_of_guitarists',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_guitarists' } ],
+     'rdfs:comment': [ { value: 'Fender is a manufacturer of stringed instruments and amplifiers which was founded by Leo Fender. Among the best-known products made by Fender were the Telecaster, the Broadcaster and the Esquire. (en)' } ],
+     'rdfs:label': [ { value: 'List of Telecaster players (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of Telecaster players',
+          href: 'http://www.wikidata.org/entity/Q6599173' },
+        { value: 'dbpedia-wikidata:List of Telecaster players',
+          href: 'http://wikidata.dbpedia.org/resource/Q6599173' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Telecaster_players?oldid=681827293',
+          href: 'http://en.wikipedia.org/wiki/List_of_Telecaster_players?oldid=681827293' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Telecaster50th.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Telecaster50th.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Telecaster_players',
+          href: 'http://en.wikipedia.org/wiki/List_of_Telecaster_players' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Telecaster_players',
+          href: 'http://dbpedia.org/resource/Telecaster_players' },
+        { value: 'dbr:List_of_Fender_Telecaster_players',
+          href: 'http://dbpedia.org/resource/List_of_Fender_Telecaster_players' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Telecaster_players',
+          href: 'http://en.wikipedia.org/wiki/List_of_Telecaster_players' } ] } }

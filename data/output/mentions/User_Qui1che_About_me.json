@@ -1,0 +1,8 @@
+{ name: 'User:Qui1che/About me',
+  href: 'http://en.wikipedia.org/wiki/User:Qui1che/About_me',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Pizza Tapes',
+  href: 'http://en.wikipedia.org/wiki/The_Pizza_Tapes',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2975,
+       quote: [ '"So What" (Miles Davis) – 6:29' ] } ] }

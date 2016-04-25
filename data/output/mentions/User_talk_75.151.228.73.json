@@ -1,0 +1,13 @@
+{ name: 'User talk:75.151.228.73',
+  href: 'http://en.wikipedia.org/wiki/User_talk:75.151.228.73',
+  mentions: 
+   [ { sectionHeader: 'December 2008',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 923,
+       quote: [] },
+     { sectionHeader: 'December 2008',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 923,
+       quote: [ 'You will be blocked from editing the next time you vandalize a page, as you did with this edit to Miles Davis.' ] } ] }

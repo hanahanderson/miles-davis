@@ -1,0 +1,8 @@
+{ name: 'User:Davidals',
+  href: 'http://en.wikipedia.org/wiki/User:Davidals',
+  mentions: 
+   [ { sectionHeader: 'Favorite Things',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 6436,
+       quote: [ 'Television\'s Marquee Moon\nTalking Heads\' More Songs About Buildings and Food\nMiles Davis\' In A Silent Way\nPere Ubu\'s The Modern Dance\nPylon\'s Hits\nEric Dolphy\'s Stockholm Sessions\nMahavishnu Orchestra\'s Birds of Fire\nAl Green\'s Greatest Hits\nThe Velvet Underground\'s V.U.\nThe Clash\'s London Calling' ] } ] }

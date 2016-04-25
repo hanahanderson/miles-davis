@@ -1,0 +1,92 @@
+{ name: 'Intents and Purposes',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Intents_and_Purposes',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '31.666666666666668' } ],
+     'dbo:abstract': [ { value: 'Intents and Purposes is an album by American jazz trumpeter Bill Dixon, which was released in 1967 on RCA Victor. Despite critical acclaim at the time, it was soon out of print except for appearances in 1972 on japanese RCA and later in 1976 on French RCA. The album was reissued on CD by International Phonograph in 2011. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Dixon',
+          href: 'http://dbpedia.org/resource/Bill_Dixon' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Bill_Dixon_7-tette/Archie_Shepp_and_the_New_York_Contemporary_5',
+          href: 'http://dbpedia.org/resource/Bill_Dixon_7-tette/Archie_Shepp_and_the_New_York_Contemporary_5' } ],
+     'dbo:recordDate': [ { value: '1966-10-10 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:RCA_Records',
+          href: 'http://dbpedia.org/resource/RCA_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '1900.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '43962304 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664766697 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Dixon',
+          href: 'http://dbpedia.org/resource/Bill_Dixon' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Dixon',
+          href: 'http://dbpedia.org/resource/Bill_Dixon' } ],
+     'dbp:cover': [ { value: 'Intents_and_Purposes_Cover.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:RCA_Records',
+          href: 'http://dbpedia.org/resource/RCA_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Bill Dixon 7-tette/Archie Shepp and the New York Contemporary 5 (en)' } ],
+     'dbp:length': [ { value: '1900.0' } ],
+     'dbp:name': [ { value: 'Intents and Purposes (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Considerations 1 (en)' } ],
+     'dbp:producer': [ { value: 'Brad McCuen (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--10-10' },
+        { value: '(RCA Victor\'s Studio B, New York City) (en)' } ],
+     'dbp:released': [ { value: '1967 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Intents and Purposes (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bill_Dixon_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Dixon_albums' },
+        { value: 'dbc:RCA_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:RCA_Records_albums' },
+        { value: 'dbc:1967_albums',
+          href: 'http://dbpedia.org/resource/Category:1967_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Intents and Purposes is an album by American jazz trumpeter Bill Dixon, which was released in 1967 on RCA Victor. Despite critical acclaim at the time, it was soon out of print except for appearances in 1972 on japanese RCA and later in 1976 on French RCA. The album was reissued on CD by International Phonograph in 2011. (en)' } ],
+     'rdfs:label': [ { value: 'Intents and Purposes (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Intents and Purposes',
+          href: 'http://rdf.freebase.com/ns/m.01210bj_' },
+        { value: 'dbpedia-wikidata:Intents and Purposes',
+          href: 'http://wikidata.dbpedia.org/resource/Q18153604' },
+        { value: 'wikidata:Intents and Purposes',
+          href: 'http://www.wikidata.org/entity/Q18153604' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Intents_and_Purposes?oldid=664766697',
+          href: 'http://en.wikipedia.org/wiki/Intents_and_Purposes?oldid=664766697' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Intents_and_Purposes',
+          href: 'http://en.wikipedia.org/wiki/Intents_and_Purposes' } ],
+     'foaf:name': [ { value: 'Intents and Purposes (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Intents_and_Purposes',
+          href: 'http://en.wikipedia.org/wiki/Intents_and_Purposes' } ] } }

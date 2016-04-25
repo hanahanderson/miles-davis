@@ -1,0 +1,8 @@
+{ name: 'Blue Matter',
+  href: 'http://en.wikipedia.org/wiki/Blue_Matter',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1318,
+       quote: [ 'Miles Davis' ] } ] }

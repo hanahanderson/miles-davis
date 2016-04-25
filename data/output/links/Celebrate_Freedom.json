@@ -1,0 +1,75 @@
+{ name: 'Celebrate Freedom',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Celebrate_Freedom',
+  values: 
+   { 'dbo:abstract': [ { value: 'Celebrate Freedom is a 1984 album by virtuoso trumpeter and singer Phil Driscoll. It is an inspirational album of patriotic songs. The album won the 1985 GMA Dove Award for Instrumental Album of the Year. The 1984 release was on LP, and the album was released on cassette and CD in the 1990s.Cross Rhythms‍ \'​ review of the album stated that "On Celebrate Freedom Phil puts down some vocals as well as his already well established \'Miles Davis eat your heart out\' trumpet style." The UK publication also noted Driscoll\'s "Joe Cocker-ish approach to blue-eyed soul singing". (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Phil_Driscoll',
+          href: 'http://dbpedia.org/resource/Phil_Driscoll' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Sparrow_Records',
+          href: 'http://dbpedia.org/resource/Sparrow_Records' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.allmusic.com/album/celebrate-freedom-mw0000070338',
+          href: 'http://www.allmusic.com/album/celebrate-freedom-mw0000070338' },
+        { value: 'https://itunes.apple.com/us/album/celebrate-freedom/id446879702',
+          href: 'https://itunes.apple.com/us/album/celebrate-freedom/id446879702' } ],
+     'dbo:wikiPageID': [ { value: '6415688 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '600689340 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Phil_Driscoll',
+          href: 'http://dbpedia.org/resource/Phil_Driscoll' } ],
+     'dbp:cover': [ { value: 'Celebrate Freedom .jpg (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Sparrow_Records',
+          href: 'http://dbpedia.org/resource/Sparrow_Records' } ],
+     'dbp:name': [ { value: 'Celebrate Freedom (en)' } ],
+     'dbp:released': [ { value: '1984 (xsd:integer)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1984_albums',
+          href: 'http://dbpedia.org/resource/Category:1984_albums' },
+        { value: 'dbc:Sparrow_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Sparrow_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Celebrate Freedom is a 1984 album by virtuoso trumpeter and singer Phil Driscoll. It is an inspirational album of patriotic songs. The album won the 1985 GMA Dove Award for Instrumental Album of the Year. (en)' } ],
+     'rdfs:label': [ { value: 'Celebrate Freedom (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Celebrate Freedom',
+          href: 'http://rdf.freebase.com/ns/m.0100pdb1' },
+        { value: 'dbpedia-wikidata:Celebrate Freedom',
+          href: 'http://wikidata.dbpedia.org/resource/Q16960792' },
+        { value: 'wikidata:Celebrate Freedom',
+          href: 'http://www.wikidata.org/entity/Q16960792' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Celebrate_Freedom?oldid=600689340',
+          href: 'http://en.wikipedia.org/wiki/Celebrate_Freedom?oldid=600689340' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Celebrate_Freedom',
+          href: 'http://en.wikipedia.org/wiki/Celebrate_Freedom' } ],
+     'foaf:name': [ { value: 'Celebrate Freedom (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Celebrate_Freedom',
+          href: 'http://en.wikipedia.org/wiki/Celebrate_Freedom' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Oris (company)',
+  href: 'http://en.wikipedia.org/wiki/Oris_(company)',
+  mentions: 
+   [ { sectionHeader: 'Celebrity Endorsements',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 3904,
+       quote: [ 'Oris also hosted a Jazz Festival in which popular musicians performed including: Louis Armstrong, Miles Davis, Duke Ellington, Charlie Parker, Lionel Hampton and McCoy Tyner.' ] } ] }

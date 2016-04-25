@@ -1,0 +1,8 @@
+{ name: 'Jimmy Owens (musician)',
+  href: 'http://en.wikipedia.org/wiki/Jimmy_Owens_(musician)',
+  mentions: 
+   [ { sectionHeader: '1950s and 1960s',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1796,
+       quote: [ 'At the age of fifteen, Owens had the opportunity of sitting in with Miles Davis’ band; however, he did not record with them.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Guča Trumpet Festival',
+  href: 'http://en.wikipedia.org/wiki/Gu%C4%8Da_Trumpet_Festival',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1422,
+       quote: [ 'Said Miles Davis, a Guča Festival visitor:' ] } ] }

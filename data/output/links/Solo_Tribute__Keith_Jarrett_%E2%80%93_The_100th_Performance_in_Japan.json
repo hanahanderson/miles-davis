@@ -1,0 +1,80 @@
+{ name: 'Solo Tribute: Keith Jarrett – The 100th Performance in Japan',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Solo_Tribute:_Keith_Jarrett_%E2%80%93_The_100th_Performance_in_Japan',
+  values: 
+   { 'dbo:abstract': [ { value: 'Solo Tribute: Keith Jarrett – The 100th Performance in Japan is a Keith Jarrett solo concert video, recorded live at the Suntory Hall in Tokyo, Japan on April 14, 1987.As the film title suggests, this concert was Jarrett\'s hundredth live performance in Japan. The tunes played are all jazz standards, except one completely improvised piece called "Sound".Solo Tribute was originally produced on VHS by Image Entertainment in 1987.  A Laserdisc version was also produced, while a DVD edition was issued in 2002, also by Image Entertainment (in Region 1 format only).Unlike a number of other Jarrett films, Solo Tribute has yet to be reissued by ECM Records. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Keith_Jarrett',
+          href: 'http://dbpedia.org/resource/Keith_Jarrett' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Masafumi_Yamamoto',
+          href: 'http://dbpedia.org/resource/Masafumi_Yamamoto' } ],
+     'dbo:recordDate': [ { value: '1987-04-14 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Image_Entertainment',
+          href: 'http://dbpedia.org/resource/Image_Entertainment' } ],
+     'dbo:wikiPageID': [ { value: '37663770 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '629728744 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Keith_Jarrett',
+          href: 'http://dbpedia.org/resource/Keith_Jarrett' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Image_Entertainment',
+          href: 'http://dbpedia.org/resource/Image_Entertainment' } ],
+     'dbp:name': [ { value: 'Solo Tribute: Keith Jarrett - The 100th Performance in Japan (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Masafumi_Yamamoto',
+          href: 'http://dbpedia.org/resource/Masafumi_Yamamoto' } ],
+     'dbp:recorded': [ { value: '1987-04-14 (xsd:date)' } ],
+     'dbp:released': [ { value: '1987 (xsd:integer)' } ],
+     'dbp:type': [ { value: 'DVD (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Keith_Jarrett_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Keith_Jarrett_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Solo Tribute: Keith Jarrett – The 100th Performance in Japan is a Keith Jarrett solo concert video, recorded live at the Suntory Hall in Tokyo, Japan on April 14, 1987.As the film title suggests, this concert was Jarrett\'s hundredth live performance in Japan. The tunes played are all jazz standards, except one completely improvised piece called "Sound".Solo Tribute was originally produced on VHS by Image Entertainment in 1987. (en)' } ],
+     'rdfs:label': [ { value: 'Solo Tribute: Keith Jarrett – The 100th Performance in Japan (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Solo Tribute: Keith Jarrett – The 100th Performance in Japan',
+          href: 'http://rdf.freebase.com/ns/m.0q5s9bp' },
+        { value: 'dbpedia-wikidata:Solo Tribute: Keith Jarrett – The 100th Performance in Japan',
+          href: 'http://wikidata.dbpedia.org/resource/Q7558486' },
+        { value: 'wikidata:Solo Tribute: Keith Jarrett – The 100th Performance in Japan',
+          href: 'http://www.wikidata.org/entity/Q7558486' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Solo_Tribute:_Keith_Jarrett_–_The_100th_Performance_in_Japan?oldid=629728744',
+          href: 'http://en.wikipedia.org/wiki/Solo_Tribute:_Keith_Jarrett_–_The_100th_Performance_in_Japan?oldid=629728744' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Solo_Tribute:_Keith_Jarrett_–_The_100th_Performance_in_Japan',
+          href: 'http://en.wikipedia.org/wiki/Solo_Tribute:_Keith_Jarrett_–_The_100th_Performance_in_Japan' } ],
+     'foaf:name': [ { value: 'Solo Tribute: Keith Jarrett - The 100th Performance in Japan (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Solo_Tribute:_Keith_Jarrett_-_The_100th_Performance_in_Japan',
+          href: 'http://dbpedia.org/resource/Solo_Tribute:_Keith_Jarrett_-_The_100th_Performance_in_Japan' },
+        { value: 'dbr:Solo_Tribute_-_Keith_Jarrett:_The_100th_Performance_in_Japan',
+          href: 'http://dbpedia.org/resource/Solo_Tribute_-_Keith_Jarrett:_The_100th_Performance_in_Japan' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Solo Tribute: Keith Jarrett – The 100th Performance in Japan',
+          href: 'http://dbpedia.org/resource/Solo_Tribute:_Keith_Jarrett_%E2%80%93_The_100th_Performance_in_Japan' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Solo_Tribute:_Keith_Jarrett_–_The_100th_Performance_in_Japan',
+          href: 'http://en.wikipedia.org/wiki/Solo_Tribute:_Keith_Jarrett_–_The_100th_Performance_in_Japan' } ] } }

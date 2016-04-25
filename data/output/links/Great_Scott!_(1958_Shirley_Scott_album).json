@@ -1,0 +1,108 @@
+{ name: 'Great Scott! (1958 Shirley Scott album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Great_Scott!_(1958_Shirley_Scott_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '51.6' } ],
+     'dbo:abstract': [ { value: 'Great Scott! is the debut album by organist Shirley Scott recorded in 1958 for the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Shirley_Scott',
+          href: 'http://dbpedia.org/resource/Shirley_Scott' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': [ { value: '1958-05-23 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' },
+        { value: 'dbr:Hackensack,_New_Jersey',
+          href: 'http://dbpedia.org/resource/Hackensack,_New_Jersey' } ],
+     'dbo:runtime': [ { value: '3096.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Eddie_"Lockjaw"_Davis_Cookbook',
+          href: 'http://dbpedia.org/resource/The_Eddie_%22Lockjaw%22_Davis_Cookbook' } ],
+     'dbo:wikiPageID': [ { value: '36268398 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '616870204 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Shirley_Scott',
+          href: 'http://dbpedia.org/resource/Shirley_Scott' } ],
+     'dbp:cover': [ { value: 'Great Scott! .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 7143 (en)' } ],
+     'dbp:length': [ { value: '3096.0' } ],
+     'dbp:name': [ { value: 'Great Scott! (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Eddie "Lockjaw" Davis Cookbook (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '1958-05-23 (xsd:date)' },
+        { value: 'Van Gelder Studio, Hackensack (en)' } ],
+     'dbp:released': [ { value: '1959 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Great Scott! (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1959_albums',
+          href: 'http://dbpedia.org/resource/Category:1959_albums' },
+        { value: 'dbc:Shirley_Scott_albums',
+          href: 'http://dbpedia.org/resource/Category:Shirley_Scott_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Great Scott! is the debut album by organist Shirley Scott recorded in 1958 for the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'Great Scott! (1958 Shirley Scott album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Great Scott! (1958 Shirley Scott album)',
+          href: 'http://rdf.freebase.com/ns/m.0k2kckf' },
+        { value: 'dbpedia-wikidata:Great Scott! (1958 Shirley Scott album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5599934' },
+        { value: 'wikidata:Great Scott! (1958 Shirley Scott album)',
+          href: 'http://www.wikidata.org/entity/Q5599934' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Great_Scott!_(1958_Shirley_Scott_album)?oldid=616870204',
+          href: 'http://en.wikipedia.org/wiki/Great_Scott!_(1958_Shirley_Scott_album)?oldid=616870204' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Great_Scott!_(1958_Shirley_Scott_album)',
+          href: 'http://en.wikipedia.org/wiki/Great_Scott!_(1958_Shirley_Scott_album)' } ],
+     'foaf:name': [ { value: 'Great Scott! (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Great_Scott_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Great_Scott_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Great_Scott!_(1958_album)',
+          href: 'http://dbpedia.org/resource/Great_Scott!_(1958_album)' },
+        { value: 'dbr:Great_Scott!_(album)',
+          href: 'http://dbpedia.org/resource/Great_Scott!_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Great_Scott!_(1958_Shirley_Scott_album)',
+          href: 'http://en.wikipedia.org/wiki/Great_Scott!_(1958_Shirley_Scott_album)' } ] } }

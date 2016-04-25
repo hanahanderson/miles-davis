@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject New York City/Popular pages',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_New_York_City/Popular_pages',
+  mentions: 
+   [ { sectionHeader: 'List',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 536,
+       quote: [ 'Miles Davis' ] } ] }

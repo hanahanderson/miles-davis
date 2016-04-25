@@ -1,0 +1,8 @@
+{ name: 'Herman Lubinsky',
+  href: 'http://en.wikipedia.org/wiki/Herman_Lubinsky',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1701,
+       quote: [ 'By 1944, the label had begun to release records by leading jazz musicians such as Ben Webster and Lester Young,  and over the next few years its roster of musicians expanded to include Charlie Parker, Dexter Gordon, Erroll Garner, Miles Davis, Paul Williams, and Brownie McGhee, among many others.' ] } ] }

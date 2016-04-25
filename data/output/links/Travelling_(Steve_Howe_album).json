@@ -1,0 +1,83 @@
+{ name: 'Travelling (Steve Howe album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Travelling_(Steve_Howe_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '71.41666666666667' } ],
+     'dbo:abstract': [ { value: 'Travelling is the title of Yes guitarist Steve Howe\'s eighteenth solo album. It was the second album and his first live album with his Steve Howe Trio. Recorded live from shows in 2008 in the UK and Canada, it was released in 2010. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Steve_Howe_(musician)',
+          href: 'http://dbpedia.org/resource/Steve_Howe_(musician)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Haunted_Melody',
+          href: 'http://dbpedia.org/resource/The_Haunted_Melody' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Steve_Howe_(musician)',
+          href: 'http://dbpedia.org/resource/Steve_Howe_(musician)' } ],
+     'dbo:runtime': [ { value: '4285.000000 (xsd:double)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.allmusic.com/album/travelling-mw0001993841',
+          href: 'http://www.allmusic.com/album/travelling-mw0001993841' } ],
+     'dbo:wikiPageID': [ { value: '45317635 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '645831398 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Steve_Howe_(musician)',
+          href: 'http://dbpedia.org/resource/Steve_Howe_(musician)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'HoweSound (en)' } ],
+     'dbp:lastAlbum': [ { value: 'The Haunted Melody (en)' } ],
+     'dbp:length': [ { value: '4285.0' } ],
+     'dbp:name': [ { value: 'Travelling (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Homebrew 4 (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Steve_Howe_(musician)',
+          href: 'http://dbpedia.org/resource/Steve_Howe_(musician)' } ],
+     'dbp:recorded': [ { value: '2008 (xsd:integer)' } ],
+     'dbp:released': [ { value: '2010 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Travelling (en)' } ],
+     'dbp:type': [ { value: 'Studio album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2010_albums',
+          href: 'http://dbpedia.org/resource/Category:2010_albums' },
+        { value: 'dbc:Steve_Howe_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:Steve_Howe_(musician)_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Travelling is the title of Yes guitarist Steve Howe\'s eighteenth solo album. It was the second album and his first live album with his Steve Howe Trio. Recorded live from shows in 2008 in the UK and Canada, it was released in 2010. (en)' } ],
+     'rdfs:label': [ { value: 'Travelling (Steve Howe album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Travelling (Steve Howe album)',
+          href: 'http://rdf.freebase.com/ns/m.012sq0qs' },
+        { value: 'dbpedia-wikidata:Travelling (Steve Howe album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q19898062' },
+        { value: 'wikidata:Travelling (Steve Howe album)',
+          href: 'http://www.wikidata.org/entity/Q19898062' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Travelling_(Steve_Howe_album)?oldid=645831398',
+          href: 'http://en.wikipedia.org/wiki/Travelling_(Steve_Howe_album)?oldid=645831398' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Travelling_(Steve_Howe_album)',
+          href: 'http://en.wikipedia.org/wiki/Travelling_(Steve_Howe_album)' } ],
+     'foaf:name': [ { value: 'Travelling (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Haunted_Melody',
+          href: 'http://dbpedia.org/resource/The_Haunted_Melody' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Travelling_(Steve_Howe_album)',
+          href: 'http://en.wikipedia.org/wiki/Travelling_(Steve_Howe_album)' } ] } }

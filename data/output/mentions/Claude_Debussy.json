@@ -1,0 +1,8 @@
+{ name: 'Claude Debussy',
+  href: 'http://en.wikipedia.org/wiki/Claude_Debussy',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 79,
+       wordCountBeforeSection: 33525,
+       quote: [ 'He also influenced many important figures in jazz, most notably Miles Davis, Duke Ellington, Bix Beiderbecke, George Shearing, Thelonious Monk, Bill Evans, Jimmy Giuffre, Antônio Carlos Jobim, Django Reinhardt, and Herbie Hancock.' ] } ] }

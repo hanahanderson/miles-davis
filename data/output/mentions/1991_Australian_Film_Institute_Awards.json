@@ -1,0 +1,8 @@
+{ name: '1991 Australian Film Institute Awards',
+  href: 'http://en.wikipedia.org/wiki/1991_Australian_Film_Institute_Awards',
+  mentions: 
+   [ { sectionHeader: 'Winners and nominees',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 956,
+       quote: [ 'Michel Legrand, Miles Davis – Dingo' ] } ] }

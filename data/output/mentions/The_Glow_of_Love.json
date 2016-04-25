@@ -1,0 +1,8 @@
+{ name: 'The Glow of Love',
+  href: 'http://en.wikipedia.org/wiki/The_Glow_of_Love',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1597,
+       quote: [ 'Nile Rodgers and Bernard Edwards\' Chic sound is noted as a heavy influence but Henderson argues that "knowledgeable disco and R&B enthusiasts knew better; Change wasn\'t a carbon copy of Chic any more than jazz great Chet Baker was a clone of Miles Davis." "A Lover\'s Holiday" is marked as a playful opener, while "It\'s a Girl\'s Affair" and "Angel in my Pocket" are highlighted as "sassy and passionate," respectively.' ] } ] }

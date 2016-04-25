@@ -1,0 +1,8 @@
+{ name: 'Oscar Brown',
+  href: 'http://en.wikipedia.org/wiki/Oscar_Brown',
+  mentions: 
+   [ { sectionHeader: 'Published works',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 9226,
+       quote: [ '"All Blues" (lyrics to Miles Davis\' music)' ] } ] }

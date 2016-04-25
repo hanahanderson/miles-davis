@@ -1,0 +1,93 @@
+{ name: 'Bluesette (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Bluesette_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '35.96666666666667' } ],
+     'dbo:abstract': [ { value: 'Bluesette is an album by pianist Hank Jones recorded in London in 1979 for the Black & Blue label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Trio_1979_Discoveries',
+          href: 'http://dbpedia.org/resource/Trio_1979_Discoveries' } ],
+     'dbo:recordDate': [ { value: '1979-07-22 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Black_&_Blue_Records',
+          href: 'http://dbpedia.org/resource/Black_&_Blue_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:RAK_Studios',
+          href: 'http://dbpedia.org/resource/RAK_Studios' } ],
+     'dbo:runtime': [ { value: '2158.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Chapter_II_(Great_Jazz_Trio_album)',
+          href: 'http://dbpedia.org/resource/Chapter_II_(Great_Jazz_Trio_album)' } ],
+     'dbo:wikiPageID': [ { value: '47444368 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674806873 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' } ],
+     'dbp:cover': [ { value: 'Bluesette .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Black_&_Blue_Records',
+          href: 'http://dbpedia.org/resource/Black_&_Blue_Records' },
+        { value: '( 33.168) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Trio 1979 Discoveries (en)' } ],
+     'dbp:length': [ { value: '2158.0' } ],
+     'dbp:name': [ { value: 'Bluesette (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Chapter II (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1979-07-22 (xsd:date)' },
+        { value: '(RAK Studios, London England) (en)' } ],
+     'dbp:released': [ { value: '1979 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Bluesette (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1979_albums',
+          href: 'http://dbpedia.org/resource/Category:1979_albums' },
+        { value: 'dbc:Black_&_Blue_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Black_&_Blue_Records_albums' },
+        { value: 'dbc:Hank_Jones_albums',
+          href: 'http://dbpedia.org/resource/Category:Hank_Jones_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Bluesette is an album by pianist Hank Jones recorded in London in 1979 for the Black & Blue label. (en)' } ],
+     'rdfs:label': [ { value: 'Bluesette (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Bluesette (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20813284' },
+        { value: 'wikidata:Bluesette (album)',
+          href: 'http://www.wikidata.org/entity/Q20813284' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Bluesette_(album)?oldid=674806873',
+          href: 'http://en.wikipedia.org/wiki/Bluesette_(album)?oldid=674806873' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Bluesette_(album)',
+          href: 'http://en.wikipedia.org/wiki/Bluesette_(album)' } ],
+     'foaf:name': [ { value: 'Bluesette (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Bluesette_(album)',
+          href: 'http://en.wikipedia.org/wiki/Bluesette_(album)' } ] } }

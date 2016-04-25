@@ -1,0 +1,18 @@
+{ name: 'Message to Love',
+  href: 'http://en.wikipedia.org/wiki/Message_to_Love',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 2337,
+       quote: [ 'In recent years, Lerner\'s copious 16mm concert footage has been repurposed to create a wealth of complete-performance DVD releases by Hendrix (Blue Wild Angel), Miles Davis (Miles Electric - A Different Kind of Blue), The Who (Live at the Isle of Wight Festival 1970), Jethro Tull (Nothing Is Easy: Live at the Isle of Wight 1970), Emerson, Lake & Palmer (The Birth Of A Band: Isle of Wight 1970), The Moody Blues (Threshold of a Dram: Live at the Isle of Wight Festival 1970), Leonard Cohen (Leonard Cohen Live at The Isle of Wight 1970), and Free (Free Forever DVD).' ] },
+     { sectionHeader: 'Performances',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3123,
+       quote: [ 'Miles Davis ("Call It Anything")' ] },
+     { sectionHeader: 'CD track listing',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 4832,
+       quote: [ 'Miles Davis - "Call It Anything" - 14:56' ] } ] }

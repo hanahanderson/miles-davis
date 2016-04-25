@@ -1,0 +1,8 @@
+{ name: 'Janusz Iwański',
+  href: 'http://en.wikipedia.org/wiki/Janusz_Iwa%C5%84ski',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1217,
+       quote: [ 'He has cited Miles Davis as an influence.' ] } ] }

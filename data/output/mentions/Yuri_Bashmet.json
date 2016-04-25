@@ -1,0 +1,8 @@
+{ name: 'Yuri Bashmet',
+  href: 'http://en.wikipedia.org/wiki/Yuri_Bashmet',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'As educator',
+       sectionIndex: 41,
+       wordCountBeforeSection: 14178,
+       quote: [ 'Miles Davis (1984)' ] } ] }

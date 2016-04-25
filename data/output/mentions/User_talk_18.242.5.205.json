@@ -1,0 +1,17 @@
+{ name: 'User talk:18.242.5.205',
+  href: 'http://en.wikipedia.org/wiki/User_talk:18.242.5.205',
+  mentions: 
+   [ { sectionHeader: 'April 2009',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 16,
+       quote: 
+        [ 'Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted by ClueBot.',
+          'The following is the log entry regarding this warning: Miles Davis was changed by 18.242.5.205 (u) (t) making a minor change adding "!!!" on 2009-04-30T02:46:58+00:00 .' ] },
+     { sectionHeader: 'April 2009',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 16,
+       quote: 
+        [ 'Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted by ClueBot.',
+          'The following is the log entry regarding this warning: Miles Davis was changed by 18.242.5.205 (u) (t) making a minor change adding "!!!" on 2009-04-30T02:46:58+00:00 .' ] } ] }

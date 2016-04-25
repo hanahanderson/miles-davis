@@ -1,0 +1,24 @@
+{ name: 'Autumn Leaves (1945 song)',
+  href: 'http://en.wikipedia.org/wiki/Autumn_Leaves_(1945_song)',
+  mentions: 
+   [ { sectionHeader: 'Recordings and covers',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1560,
+       quote: [ 'Cannonball Adderley recorded the song in 1958 for his Blue Note album Somethin\' Else featuring Miles Davis.' ] },
+     { sectionHeader: 'Recordings and covers',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3504,
+       quote: 
+        [ 'Miles Davis played the song as part of his live repertoire from 1960 until 1966.',
+          'The earliest concert recordings of the song played by the Miles Davis Quintet are from 1960 capturing his ensemble in a transitional phase with Sonny Stitt on tenor saxophone.',
+          'The following recordings featured tenorist Hank Mobley (In Person Friday and Saturday Nights at the Blackhawk, 1961), then George Coleman (Live in Antibes, Live at the 1963 Monterey Jazz Festival), and since the Berlin concert in September 1964 with Wayne Shorter, finally establishing the so-called "second great Miles Davis Quintet" (that soon would abandon completetly the standard repertoire).' ] },
+     { sectionHeader: 'Recordings and covers',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3504,
+       quote: 
+        [ 'Miles Davis played the song as part of his live repertoire from 1960 until 1966.',
+          'The earliest concert recordings of the song played by the Miles Davis Quintet are from 1960 capturing his ensemble in a transitional phase with Sonny Stitt on tenor saxophone.',
+          'The following recordings featured tenorist Hank Mobley (In Person Friday and Saturday Nights at the Blackhawk, 1961), then George Coleman (Live in Antibes, Live at the 1963 Monterey Jazz Festival), and since the Berlin concert in September 1964 with Wayne Shorter, finally establishing the so-called "second great Miles Davis Quintet" (that soon would abandon completetly the standard repertoire).' ] } ] }

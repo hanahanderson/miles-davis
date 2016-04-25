@@ -1,0 +1,13 @@
+{ name: 'Wikipedia talk:WikiProject Music/Archive 16',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Music/Archive_16',
+  mentions: 
+   [ { sectionHeader: 'Genre guidelines proposal progress',
+       sectionSubHeader: '',
+       sectionIndex: 47,
+       wordCountBeforeSection: 41425,
+       quote: [ 'Do you belive "Jazz, Funk and Fusion" would be enough for Miles Davis, Stanley Clarke or Marcus Miller?' ] },
+     { sectionHeader: 'Genre guidelines proposal progress',
+       sectionSubHeader: '',
+       sectionIndex: 56,
+       wordCountBeforeSection: 52151,
+       quote: [ '(1) 4 genres won\'t be enough for artists like Miles Davis, Stanley Clarke or Marcus Miller.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'User talk:Lm22052',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Lm22052',
+  mentions: 
+   [ { sectionHeader: 'February 2016',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 689,
+       quote: [ 'Please refrain from making unconstructive edits to Wikipedia, as you did at Miles Davis.' ] },
+     { sectionHeader: 'February 2016',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 869,
+       quote: [ 'The following is the log entry regarding this warning: Miles Davis was changed by Lm22052 (u) (t) ANN scored at 0.902664 on 2016-02-03T00:48:20+00:00 .' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Boppin\' & Burnin\'',
+  href: 'http://en.wikipedia.org/wiki/Boppin%27_%26_Burnin%27',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 735,
+       quote: [ '"Donna Lee" (Miles Davis) - 6:15' ] } ] }

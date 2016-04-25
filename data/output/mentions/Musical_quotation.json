@@ -1,0 +1,13 @@
+{ name: 'Musical quotation',
+  href: 'http://en.wikipedia.org/wiki/Musical_quotation',
+  mentions: 
+   [ { sectionHeader: 'Examples',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 6816,
+       quote: [ 'Often the use of musical quotation has an ironic edge, whether the musician is aiming for an amusing juxtaposition or is making a more pointed commentary (as when a youthful Rollins, playing alongside Charlie Parker on Miles Davis\'s Collector\'s Items, throws in a snippet of "Anything You Can Do I Can Do Better," or when the avant-garde saxophonist Ornette Coleman rebuffs a skeptical heckler at the Croydon Hall concert with a snippet of the jazz standard "Cherokee").' ] },
+     { sectionHeader: 'Sources',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 7817,
+       quote: [ 'MILES DAVIS Collector\'s Items (Original Jazz Classics) Review by Ron Saranich, October 2000' ] } ] }

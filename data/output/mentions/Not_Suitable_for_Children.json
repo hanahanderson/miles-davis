@@ -1,0 +1,8 @@
+{ name: 'Not Suitable for Children',
+  href: 'http://en.wikipedia.org/wiki/Not_Suitable_for_Children',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 8399,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

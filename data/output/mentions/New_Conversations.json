@@ -1,0 +1,8 @@
+{ name: 'New Conversations',
+  href: 'http://en.wikipedia.org/wiki/New_Conversations',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 1965,
+       quote: [ 'Miles Davis' ] } ] }

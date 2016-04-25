@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Version 0.5/biglist',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Version_0.5/biglist',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Martin Luther Martinique Marvin Gaye Marxism Mass media Mass Rapid Transit (Singapore) Mathematics Matrix (mathematics) Matter Matthew Brettingham Mauna Loa Mauritania Mauritius Mauthausen-Gusen concentration camp Max Planck Max Weber Maya mythology Mayotte Measurement Medal of Honor Médecins Sans Frontières Medicine Mediterranean Sea Meitnerium Mekong Melbourne Mendelevium Meningitis Menstrual cycle Mercantilism Mercury (element) Mercury (planet) Metal Meteorology Mexico City Mexico Miami, Florida Michael Faraday Michael Jordan Michael Woodruff Michelangelo Michigan State University Mickey Mantle Microsoft Windows Microsoft Middle Ages Midway Atoll Miguel de Cervantes Mikhail Gorbachev Milan Miles Davis Milgram experiment Military history of Canada Military history of France Military history of Puerto Rico Military history of the Soviet Union Milk Milky Way Mind Mineral Mini Minneapolis, Minnesota Missssippi River Missuri River Mixed-breed dog Modern history Modernist poetry in English Moldova Moloch Molybdenum Mona Lisa Monaco Monarchies in the European Union Money Mongolia Monopoly (game) Montenegro Montevideo Montreal Montserrat Moon Moorgate Mormon Morocco Moscow Mosque Mother Teresa Motion (physics) Mount Pinatubo Mount Rushmore Mount St.' ] } ] }

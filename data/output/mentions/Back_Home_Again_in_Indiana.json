@@ -1,0 +1,8 @@
+{ name: 'Back Home Again in Indiana',
+  href: 'http://en.wikipedia.org/wiki/Back_Home_Again_in_Indiana',
+  mentions: 
+   [ { sectionHeader: 'A jazz standard',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1777,
+       quote: [ 'Its chord changes undergird the Miles Davis Bebop composition "Donna Lee", one of jazz\'s best known contrafacts (a composition that overlays a new melody over an existing harmonic structure).' ] } ] }

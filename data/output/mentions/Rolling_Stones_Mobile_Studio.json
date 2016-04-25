@@ -1,0 +1,8 @@
+{ name: 'Rolling Stones Mobile Studio',
+  href: 'http://en.wikipedia.org/wiki/Rolling_Stones_Mobile_Studio',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3458,
+       quote: [ 'This feature made it possible to provide the entire sound for several TV series incorporating such artists as Miles Davis, Willie Nelson, Paul Young, and The Chieftains.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Rod Levitt',
+  href: 'http://en.wikipedia.org/wiki/Rod_Levitt',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 160,
+       quote: [ 'He was in the orchestra at Radio City Music Hall from 1957 to 1963, and played with Dizzy Gillespie (1956–57), Ernie Wilkins (1957), Kai Winding (1958), and Sy Oliver (1959-60), and also worked with Gil Evans in 1959 when his orchestra accompanied Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Fabulous Chi-Ali',
+  href: 'http://en.wikipedia.org/wiki/The_Fabulous_Chi-Ali',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 2164,
+       quote: [ '"Bitches Brew" by Miles Davis' ] } ] }

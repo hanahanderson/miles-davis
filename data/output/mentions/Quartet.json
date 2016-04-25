@@ -1,0 +1,8 @@
+{ name: 'Quartet',
+  href: 'http://en.wikipedia.org/wiki/Quartet',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: 'Baroque quartet',
+       sectionIndex: 26,
+       wordCountBeforeSection: 4129,
+       quote: [ 'This configuration is sometimes modified by using a second horn replacing the chordal instrument, such as a trumpet and saxophone with string bass and drum kit, popularized by Miles Davis, or by using two chordal instruments (e.g., piano and electric guitar).' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'English, August (film)',
+  href: 'http://en.wikipedia.org/wiki/English,_August_(film)',
+  mentions: 
+   [ { sectionHeader: 'Plot summary',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1566,
+       quote: [ 'A lover of poetry, he listens to Bob Dylan, Miles Davis, rock and jazz and reads Marcus Aurelius.' ] } ] }

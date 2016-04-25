@@ -1,0 +1,8 @@
+{ name: 'Lover Man (album)',
+  href: 'http://en.wikipedia.org/wiki/Lover_Man_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 690,
+       quote: [ '"Dig" (Miles Davis) - 4:22' ] } ] }

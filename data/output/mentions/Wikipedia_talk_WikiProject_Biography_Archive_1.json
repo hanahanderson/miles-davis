@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:WikiProject Biography/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Biography/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'Articles for the Wikipedia 1.0 Project',
+       sectionSubHeader: '',
+       sectionIndex: 55,
+       wordCountBeforeSection: 8347,
+       quote: [ 'Lovecraft, George Moore, Chuck Palahniuk, John Millington Synge, William Butler Yeats, Carl Friedrich Gauss, Blaise Pascal, Humphrey Bogart, Henry Fonda, Jim Henson, Ian McKellen, Julia Stiles, KaDee Strickland, Sharon Tate, Louis Armstrong, The Beatles, Johnny Cash, Rebecca Clarke, Miles Davis, Duran Duran, Bob Dylan, Iron Maiden (band), Charles Ives, The Jackson 5, Kylie Minogue, Witold Lutosławski, Nirvana (band), Roy Orbison, Sex Pistols, Simon and Garfunkel, Dmitri Shostakovich, Sly & the Family Stone, Igor Stravinsky, The Supremes, The Temptations, Vanilla Ninja, Michel Foucault, Ludwig Wittgenstein, Bernard Williams, Albert Einstein, Richard Feynman, Galileo Galilei, Isaac Newton, Robert Oppenheimer, Carl Sagan, Mark Antony, Tony Blair, Tom Brinkman, George Brown, Baron George-Brown, Charles Graner, George F.' ] } ] }

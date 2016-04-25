@@ -1,0 +1,8 @@
+{ name: 'George Kennedy',
+  href: 'http://en.wikipedia.org/wiki/George_Kennedy',
+  mentions: 
+   [ { sectionHeader: 'Filmography',
+       sectionSubHeader: '',
+       sectionIndex: 36,
+       wordCountBeforeSection: 14637,
+       quote: [ 'Episode: "George Kennedy/Miles Davis"' ] } ] }

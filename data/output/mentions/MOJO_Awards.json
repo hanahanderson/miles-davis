@@ -1,0 +1,8 @@
+{ name: 'MOJO Awards',
+  href: 'http://en.wikipedia.org/wiki/MOJO_Awards',
+  mentions: 
+   [ { sectionHeader: '2009 Honorees',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1410,
+       quote: [ 'Catalogue Release of the Year – Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Satellites LV',
+  href: 'http://en.wikipedia.org/wiki/Satellites_LV',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3354,
+       quote: [ 'The name of the album, "Kind of Glue" is a reference to the Miles Davis legendary recording Kind of Blue.' ] } ] }

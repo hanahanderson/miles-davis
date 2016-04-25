@@ -1,0 +1,8 @@
+{ name: 'Joe Chambers',
+  href: 'http://en.wikipedia.org/wiki/Joe_Chambers',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2035,
+       quote: [ 'With Miles Davis' ] } ] }

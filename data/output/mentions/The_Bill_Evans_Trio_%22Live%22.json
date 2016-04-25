@@ -1,0 +1,13 @@
+{ name: 'The Bill Evans Trio "Live"',
+  href: 'http://en.wikipedia.org/wiki/The_Bill_Evans_Trio_%22Live%22',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 610,
+       quote: [ '"Nardis" (Miles Davis) - 6:00' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 1287,
+       quote: [ 'Miles Davis' ] } ] }

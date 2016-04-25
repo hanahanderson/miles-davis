@@ -1,0 +1,8 @@
+{ name: 'Freddy Votel',
+  href: 'http://en.wikipedia.org/wiki/Freddy_Votel',
+  mentions: 
+   [ { sectionHeader: 'Musical style',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1352,
+       quote: [ 'Favorite musical artists include: Steroid Maximus, Captain Beefheart, Miles Davis, Sparks, Skeleton Key, AC/DC, Snakefinger, Wire, Ornette Coleman, Can, Kraftwerk, Swans and Sielun Veljet.' ] } ] }

@@ -1,0 +1,12 @@
+{ name: 'File:Amandla (album).jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Amandla_(album).jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '10505881 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517686624 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Amandla_(album).jpg?oldid=517686624',
+          href: 'http://en.wikipedia.org/wiki/File:Amandla_(album).jpg?oldid=517686624' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Amandla_(album).jpg',
+          href: 'http://dbpedia.org/resource/File:Amandla_(album).jpg' } ] } }

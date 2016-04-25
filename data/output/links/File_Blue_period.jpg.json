@@ -1,0 +1,12 @@
+{ name: 'File:Blue period.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Blue_period.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '19370507 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517768224 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Blue_period.jpg?oldid=517768224',
+          href: 'http://en.wikipedia.org/wiki/File:Blue_period.jpg?oldid=517768224' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Blue_period.jpg',
+          href: 'http://dbpedia.org/resource/File:Blue_period.jpg' } ] } }

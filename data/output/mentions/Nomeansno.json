@@ -1,0 +1,8 @@
+{ name: 'Nomeansno',
+  href: 'http://en.wikipedia.org/wiki/Nomeansno',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4024,
+       quote: [ 'The album One, released in 2000, featured "two stunning covers that only make sense coming from Nomeansno": a slow stoner rock-styled version of The Ramones\' "Beat on the Brat", and rather authentic fifteen-minute version of Miles Davis\' "Bitches Brew" (complete with electric piano and congas), featuring lyrics by Rob.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Sting discography',
+  href: 'http://en.wikipedia.org/wiki/Sting_discography',
+  mentions: 
+   [ { sectionHeader: 'Other appearances',
+       sectionSubHeader: 'As featured artist',
+       sectionIndex: 27,
+       wordCountBeforeSection: 10649,
+       quote: [ 'Miles Davis\' You\'re Under Arrest' ] },
+     { sectionHeader: 'Other appearances',
+       sectionSubHeader: 'As featured artist',
+       sectionIndex: 27,
+       wordCountBeforeSection: 10649,
+       quote: [] } ] }

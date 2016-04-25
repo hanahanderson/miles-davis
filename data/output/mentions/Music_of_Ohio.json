@@ -1,0 +1,8 @@
+{ name: 'Music of Ohio',
+  href: 'http://en.wikipedia.org/wiki/Music_of_Ohio',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3397,
+       quote: [ 'Artists from Cleveland include Freddie Webster, a trumpeter cited by Miles Davis as an early influence, and Tadd Dameron, a prominent pianist, composer, and arranger of the bop era.' ] } ] }

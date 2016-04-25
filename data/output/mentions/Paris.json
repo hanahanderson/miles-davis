@@ -1,0 +1,8 @@
+{ name: 'Paris',
+  href: 'http://en.wikipedia.org/wiki/Paris',
+  mentions: 
+   [ { sectionHeader: 'Culture',
+       sectionSubHeader: '',
+       sectionIndex: 200,
+       wordCountBeforeSection: 76881,
+       quote: [ 'The Olympia Paris has presented Edith Piaf, Marlene Dietrich, Miles Davis, Judy Garland, and the Grateful Dead.' ] } ] }

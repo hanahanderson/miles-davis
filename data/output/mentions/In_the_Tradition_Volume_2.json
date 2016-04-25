@@ -1,0 +1,8 @@
+{ name: 'In the Tradition Volume 2',
+  href: 'http://en.wikipedia.org/wiki/In_the_Tradition_Volume_2',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1301,
+       quote: [ '"Half Nelson" (Miles Davis) - 4:15' ] } ] }

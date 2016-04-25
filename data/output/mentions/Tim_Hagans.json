@@ -1,0 +1,8 @@
+{ name: 'Tim Hagans',
+  href: 'http://en.wikipedia.org/wiki/Tim_Hagans',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 392,
+       quote: [ 'His early inspirations included Miles Davis, Freddie Hubbard, and Thad Jones, to whom he dedicated For the Music Suite, a 40-minute piece for jazz orchestra composed on a grant from the National Endowment for the Arts.' ] } ] }

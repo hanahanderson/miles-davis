@@ -1,0 +1,13 @@
+{ name: 'Carles Benavent',
+  href: 'http://en.wikipedia.org/wiki/Carles_Benavent',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 291,
+       quote: [ 'Paco de Lucía Sextet, Paco de Lucía, Chick Corea, Miles Davis, Camarón de la Isla' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1819,
+       quote: [ 'He is one of the privileged virtuosos that is sought out by a long list of artists such as Chick Corea, Miles Davis and Paco de Lucía (to name a few), and with the latter he recorded "Paco de Lucía interpreta a Manuel de Falla".' ] } ] }

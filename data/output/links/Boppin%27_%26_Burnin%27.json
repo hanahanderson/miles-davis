@@ -1,0 +1,109 @@
+{ name: 'Boppin\' & Burnin\'',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Boppin%27_%26_Burnin%27',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '39.63333333333333' } ],
+     'dbo:abstract': [ { value: 'Boppin\' & Burnin\' is an album by organist Don Patterson recorded in 1968 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Don_Patterson_(organist)',
+          href: 'http://dbpedia.org/resource/Don_Patterson_(organist)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Four_Dimensions_(Don_Patterson_album)',
+          href: 'http://dbpedia.org/resource/Four_Dimensions_(Don_Patterson_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Don_Schlitten' } ],
+     'dbo:recordDate': [ { value: '1968-02-22 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:runtime': [ { value: '2378.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Opus_De_Don',
+          href: 'http://dbpedia.org/resource/Opus_De_Don' } ],
+     'dbo:wikiPageID': [ { value: '38987000 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '610363126 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Don_Patterson_(organist)',
+          href: 'http://dbpedia.org/resource/Don_Patterson_(organist)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Don_Patterson_(organist)',
+          href: 'http://dbpedia.org/resource/Don_Patterson_(organist)' } ],
+     'dbp:cover': [ { value: 'Boppin\' & Burnin\'.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: '(PR 7563) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Four Dimensions (en)' } ],
+     'dbp:length': [ { value: '2378.0' } ],
+     'dbp:name': [ { value: 'Boppin\' & Burnin\' (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Opus De Don (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Don_Schlitten' } ],
+     'dbp:recorded': 
+      [ { value: '1968-02-22 (xsd:date)' },
+        { value: 'New York City (en)' } ],
+     'dbp:released': [ { value: '1968 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Boppin\' & Burnin\' (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1968_albums',
+          href: 'http://dbpedia.org/resource/Category:1968_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Don_Patterson_(organist)_albums',
+          href: 'http://dbpedia.org/resource/Category:Don_Patterson_(organist)_albums' },
+        { value: 'dbc:Albums_produced_by_Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Don_Schlitten' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Boppin\' & Burnin\' is an album by organist Don Patterson recorded in 1968 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'Boppin\' & Burnin\' (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Boppin\' & Burnin\'',
+          href: 'http://rdf.freebase.com/ns/m.0sgfvpx' },
+        { value: 'dbpedia-wikidata:Boppin\' & Burnin\'',
+          href: 'http://wikidata.dbpedia.org/resource/Q16244615' },
+        { value: 'wikidata:Boppin\' & Burnin\'',
+          href: 'http://www.wikidata.org/entity/Q16244615' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Boppin\'_&_Burnin\'?oldid=610363126',
+          href: 'http://en.wikipedia.org/wiki/Boppin\'_&_Burnin\'?oldid=610363126' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Boppin\'_&_Burnin\'',
+          href: 'http://en.wikipedia.org/wiki/Boppin\'_&_Burnin\'' } ],
+     'foaf:name': [ { value: 'Boppin\' & Burnin\' (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Opus_De_Don',
+          href: 'http://dbpedia.org/resource/Opus_De_Don' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Four_Dimensions_(Don_Patterson_album)',
+          href: 'http://dbpedia.org/resource/Four_Dimensions_(Don_Patterson_album)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Boppin_&_Burnin',
+          href: 'http://dbpedia.org/resource/Boppin_&_Burnin' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Boppin\'_&_Burnin\'',
+          href: 'http://en.wikipedia.org/wiki/Boppin\'_&_Burnin\'' } ] } }

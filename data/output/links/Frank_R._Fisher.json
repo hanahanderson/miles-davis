@@ -1,0 +1,4 @@
+{ name: 'Frank R. Fisher',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Frank_R._Fisher',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

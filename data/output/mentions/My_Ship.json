@@ -1,0 +1,8 @@
+{ name: 'My Ship',
+  href: 'http://en.wikipedia.org/wiki/My_Ship',
+  mentions: 
+   [ { sectionHeader: 'Cover versions',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1570,
+       quote: [ 'Miles Davis with Gil Evans - Miles Ahead (Columbia, 1957)' ] } ] }

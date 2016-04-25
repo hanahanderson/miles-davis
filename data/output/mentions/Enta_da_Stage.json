@@ -1,0 +1,8 @@
+{ name: 'Enta da Stage',
+  href: 'http://en.wikipedia.org/wiki/Enta_da_Stage',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: 'Production',
+       sectionIndex: 32,
+       wordCountBeforeSection: 13978,
+       quote: [ '"Bitches Brew" by Miles Davis' ] } ] }

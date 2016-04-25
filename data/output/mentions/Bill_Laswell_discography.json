@@ -1,0 +1,13 @@
+{ name: 'Bill Laswell discography',
+  href: 'http://en.wikipedia.org/wiki/Bill_Laswell_discography',
+  mentions: 
+   [ { sectionHeader: 'As a Solo artist',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4515,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'As a Solo artist',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4515,
+       quote: [ 'Panthalassa: The Music of Miles Davis 1969–1974' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Village Vanguard',
+  href: 'http://en.wikipedia.org/wiki/Village_Vanguard',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3894,
+       quote: [ 'Thus the Vanguard booked Miles Davis, Horace Silver, Thelonious Monk, Gerry Mulligan, the Modern Jazz Quartet, Jimmy Giuffre, Anita O’Day, Charlie Mingus, Bill Evans (a regular), Stan Getz, Carmen McRae.” The booking of Thelonious Monk was a particularly interesting story that demonstrated the Vanguard’s ability to take a relatively unknown musician and help launch his career.' ] } ] }

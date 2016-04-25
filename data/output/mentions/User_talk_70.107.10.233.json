@@ -1,0 +1,8 @@
+{ name: 'User talk:70.107.10.233',
+  href: 'http://en.wikipedia.org/wiki/User_talk:70.107.10.233',
+  mentions: 
+   [ { sectionHeader: 'September 2009',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 20,
+       quote: [ 'Although everyone is welcome to make constructive contributions to Wikipedia, at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been reverted.' ] } ] }

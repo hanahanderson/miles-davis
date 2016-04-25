@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject California/Los Angeles task force/Popular pages',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_California/Los_Angeles_task_force/Popular_pages',
+  mentions: 
+   [ { sectionHeader: 'List',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 534,
+       quote: [ 'Miles Davis' ] } ] }

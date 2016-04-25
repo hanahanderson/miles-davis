@@ -1,0 +1,8 @@
+{ name: 'John Kelly (Irish broadcaster)',
+  href: 'http://en.wikipedia.org/wiki/John_Kelly_(Irish_broadcaster)',
+  mentions: 
+   [ { sectionHeader: 'Radio',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1870,
+       quote: [ 'Although RTE Lyric FM has traditionally been a classical music station The JK Ensemble covers everything from J.S. Bach to Brian Eno and from Miles Davis to Sigur Rós.' ] } ] }

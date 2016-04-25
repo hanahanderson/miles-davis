@@ -1,0 +1,4 @@
+{ name: 'User:BDP',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:BDP',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

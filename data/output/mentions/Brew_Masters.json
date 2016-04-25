@@ -1,0 +1,8 @@
+{ name: 'Brew Masters',
+  href: 'http://en.wikipedia.org/wiki/Brew_Masters',
+  mentions: 
+   [ { sectionHeader: 'Episodes',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3106,
+       quote: [ 'In the series premiere, Sam heads to Sony Records in New York City to create a special beer commemorating the 40th anniversary release of Miles Davis\'s Bitches Brew album.' ] } ] }

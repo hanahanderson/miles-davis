@@ -1,0 +1,51 @@
+{ name: 'Music of Missouri',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Music_of_Missouri',
+  values: 
+   { 'dbo:abstract': [ { value: 'St. Louis was an important center of blues and jazz, as well as country and bluegrass. Kansas City was also an important place for blues and jazz, with performers such as Charlie Parker, Count Basie, Lester Young, and its own jazz style. Ragtime got its influential hold at the city of Sedalia thanks to Scott Joplin and his publisher John Stark, and through another Missouri native, James Scott. Rock and roll pioneers Big Joe Turner and Chuck Berry were born in Kansas City and St. Louis, respectively.  In the Ozarks, hillbilly music developed, and from 1955–1961, Springfield was home to some of the first national country music programs on American television. Porter Wagoner and Speck Rhodes were from West Plains. Since the 1980s, Branson has become a country music tourist mecca.  In the 1990s, St. Louis area band Uncle Tupelo blended punk, rock, country-influenced music styles with raucous performances and became pioneers of Alt-country. In hip-hop, Tech N9ne from Kansas City and Nelly from St. Louis rose to prominence in the late 1990s-2000s. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.dosgibbys.com/rockets15thconcert.html',
+          href: 'http://www.dosgibbys.com/rockets15thconcert.html' },
+        { value: 'http://www.nodepression.net/blogs/peter/2007/12/',
+          href: 'http://www.nodepression.net/blogs/peter/2007/12/' },
+        { value: 'http://www.pbs.org/riverofsong/artists/e2-bottle.html',
+          href: 'http://www.pbs.org/riverofsong/artists/e2-bottle.html' },
+        { value: 'http://query.nytimes.com/gst/fullpage.html?res=980DE1DA143EF937A25750C0A9629C8B63&sec=&spon=&pagewanted=all',
+          href: 'http://query.nytimes.com/gst/fullpage.html?res=980DE1DA143EF937A25750C0A9629C8B63&sec=&spon=&pagewanted=all' } ],
+     'dbo:wikiPageID': [ { value: '307697 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680602837 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_of_Missouri',
+          href: 'http://dbpedia.org/resource/Category:Music_of_Missouri' },
+        { value: 'dbc:Missouri_culture',
+          href: 'http://dbpedia.org/resource/Category:Missouri_culture' },
+        { value: 'dbc:Music_of_United_States_subdivisions',
+          href: 'http://dbpedia.org/resource/Category:Music_of_United_States_subdivisions' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'St. Louis was an important center of blues and jazz, as well as country and bluegrass. Kansas City was also an important place for blues and jazz, with performers such as Charlie Parker, Count Basie, Lester Young, and its own jazz style. Ragtime got its influential hold at the city of Sedalia thanks to Scott Joplin and his publisher John Stark, and through another Missouri native, James Scott. Rock and roll pioneers Big Joe Turner and Chuck Berry were born in Kansas City and St. (en)' } ],
+     'rdfs:label': [ { value: 'Music of Missouri (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:Kansas_City_jazz',
+          href: 'http://dbpedia.org/resource/Kansas_City_jazz' },
+        { value: 'dbr:Midwest_hip_hop',
+          href: 'http://dbpedia.org/resource/Midwest_hip_hop' },
+        { value: 'dbr:Alternative_country',
+          href: 'http://dbpedia.org/resource/Alternative_country' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Music of Missouri',
+          href: 'http://rdf.freebase.com/ns/m.0117vss9' },
+        { value: 'dbpedia-wikidata:Music of Missouri',
+          href: 'http://wikidata.dbpedia.org/resource/Q6942188' },
+        { value: 'wikidata:Music of Missouri',
+          href: 'http://www.wikidata.org/entity/Q6942188' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Music_of_Missouri?oldid=680602837',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Missouri?oldid=680602837' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Music_of_Missouri',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Missouri' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Music_of_Missouri',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Missouri' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Dear Old Stockholm',
+  href: 'http://en.wikipedia.org/wiki/Dear_Old_Stockholm',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ '"Dear Old Stockholm" is a Swedish folk song, best known in the English-speaking world for versions by jazz artists such as Stan Getz, Miles Davis, Paul Chambers and John Coltrane (it can be found on Coltrane\'s Impressions album).' ] } ] }

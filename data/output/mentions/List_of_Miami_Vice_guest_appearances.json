@@ -1,0 +1,8 @@
+{ name: 'List of Miami Vice guest appearances',
+  href: 'http://en.wikipedia.org/wiki/List_of_Miami_Vice_guest_appearances',
+  mentions: 
+   [ { sectionHeader: 'Season 2',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 4487,
+       quote: [ 'Miles Davis' ] } ] }

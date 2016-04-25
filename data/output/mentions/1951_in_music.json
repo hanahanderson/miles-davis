@@ -1,0 +1,13 @@
+{ name: '1951 in music',
+  href: 'http://en.wikipedia.org/wiki/1951_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 6610,
+       quote: [ 'Blue Period – Miles Davis' ] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 6610,
+       quote: [ 'Dig – Miles Davis' ] } ] }

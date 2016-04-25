@@ -1,0 +1,38 @@
+{ name: '1955 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1955_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1955 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/JATP_1955.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/JATP_1955.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25655417 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '641211512 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1956 (xsd:integer)' } ],
+     'dbp:caption': [ { value: '--09-08' } ],
+     'dbp:prioryear': [ { value: '1954 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1955_in_music',
+          href: 'http://dbpedia.org/resource/Category:1955_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdfs:comment': [ { value: '1955 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1955 in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1955 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4568547' },
+        { value: 'wikidata:1955 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4568547' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1955_in_jazz?oldid=641211512',
+          href: 'http://en.wikipedia.org/wiki/1955_in_jazz?oldid=641211512' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/JATP_1955.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/JATP_1955.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1955_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1955_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1955_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1955_in_jazz' } ] } }

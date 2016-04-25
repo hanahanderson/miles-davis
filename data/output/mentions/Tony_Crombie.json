@@ -1,0 +1,8 @@
+{ name: 'Tony Crombie',
+  href: 'http://en.wikipedia.org/wiki/Tony_Crombie',
+  mentions: 
+   [ { sectionHeader: 'Compositions',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4047,
+       quote: [ 'In 1963, Miles Davis recorded his composition "So Near, So Far" for his Seven Steps to Heaven album, and Joe Henderson would make it the title track for his 1992 tribute album to Davis.' ] } ] }

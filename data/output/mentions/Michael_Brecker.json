@@ -1,0 +1,13 @@
+{ name: 'Michael Brecker',
+  href: 'http://en.wikipedia.org/wiki/Michael_Brecker',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Steps Ahead, Miles Davis, Charles Mingus, Pat Metheny, Jaco Pastorius, Steely Dan, Todd Rundgren, Horace Silver, Chick Corea, James Taylor, John Abercrombie, Billy Cobham, Herbie Hancock, George Benson, Quincy Jones, Eddie Gómez, Elvin Jones, Joni Mitchell, Parliament-Funkadelic, Mike Stern' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1521,
+       quote: [ 'Drams was short-lived, lasting only a year, but Miles Davis was seen at some gigs prior to his recording Jack Johnson.' ] } ] }

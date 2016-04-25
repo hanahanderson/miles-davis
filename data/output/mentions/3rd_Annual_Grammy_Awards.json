@@ -1,0 +1,8 @@
+{ name: '3rd Annual Grammy Awards',
+  href: 'http://en.wikipedia.org/wiki/3rd_Annual_Grammy_Awards',
+  mentions: 
+   [ { sectionHeader: 'Award winners',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 3200,
+       quote: [ 'Gil Evans & Miles Davis for Sketches of Spain' ] } ] }

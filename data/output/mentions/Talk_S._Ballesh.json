@@ -1,0 +1,8 @@
+{ name: 'Talk:S. Ballesh',
+  href: 'http://en.wikipedia.org/wiki/Talk:S._Ballesh',
+  mentions: 
+   [ { sectionHeader: 'This is getting ridiculous',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 3233,
+       quote: [ 'How would it be if we started trying to do the same for Jasraj, or Bhimsen Joshi, or Miles Davis, or Gangubai Hangal, or Lata Mangeshkar, people with literally thousands of well-documented concerts and recordings?' ] } ] }

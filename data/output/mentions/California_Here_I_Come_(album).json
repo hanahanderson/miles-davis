@@ -1,0 +1,8 @@
+{ name: 'California Here I Come (album)',
+  href: 'http://en.wikipedia.org/wiki/California_Here_I_Come_(album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2419,
+       quote: [ 'Miles Davis' ] } ] }

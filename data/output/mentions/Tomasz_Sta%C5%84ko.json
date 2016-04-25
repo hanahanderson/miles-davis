@@ -1,0 +1,8 @@
+{ name: 'Tomasz Stańko',
+  href: 'http://en.wikipedia.org/wiki/Tomasz_Sta%C5%84ko',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2104,
+       quote: [ 'Along with the pianist Adam Makowicz; the group took inspiration from the music of musicians such as Ornette Coleman, George Russell and Miles Davis and is considered by many critics to be the first group in Europe to perform in the free jazz medium.' ] } ] }

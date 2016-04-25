@@ -1,0 +1,96 @@
+{ name: 'Everything We Love',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Everything_We_Love',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '41.28333333333333' } ],
+     'dbo:abstract': [ { value: 'Everything We Love (released 1984 in Oslo, Norway by Hot Club Records - HCR 19) is a live album (LP) by the Norwegian guitarist Thorgeir Stubø and the American guitarist Doug Raney. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Thorgeir_Stubø',
+          href: 'http://dbpedia.org/resource/Thorgeir_Stubø' },
+        { value: 'dbr:Doug_Raney',
+          href: 'http://dbpedia.org/resource/Doug_Raney' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Live_at_Jazz_Alive',
+          href: 'http://dbpedia.org/resource/Live_at_Jazz_Alive' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Jon_Larsen',
+          href: 'http://dbpedia.org/resource/Jon_Larsen' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Hot_Club_Records',
+          href: 'http://dbpedia.org/resource/Hot_Club_Records' } ],
+     'dbo:runtime': [ { value: '2477.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Flight_(Thorgeir_Stubø_album)',
+          href: 'http://dbpedia.org/resource/Flight_(Thorgeir_Stubø_album)' } ],
+     'dbo:wikiPageID': [ { value: '37949109 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '666501312 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Thorgeir_Stubø',
+          href: 'http://dbpedia.org/resource/Thorgeir_Stubø' },
+        { value: 'dbr:Doug_Raney',
+          href: 'http://dbpedia.org/resource/Doug_Raney' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Thorgeir_Stubø',
+          href: 'http://dbpedia.org/resource/Thorgeir_Stubø' } ],
+     'dbp:genre': [ { value: 'Jazz (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Hot_Club_Records',
+          href: 'http://dbpedia.org/resource/Hot_Club_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Live at Jazz Alive (en)' } ],
+     'dbp:name': [ { value: 'Everything We Love (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Flight (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Jon_Larsen',
+          href: 'http://dbpedia.org/resource/Jon_Larsen' } ],
+     'dbp:recorded': [ { value: '1983 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Everything We Love (en)' } ],
+     'dbp:type': [ { value: 'Live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1984_albums',
+          href: 'http://dbpedia.org/resource/Category:1984_albums' },
+        { value: 'dbc:Jazz_albums_by_Norwegian_artists',
+          href: 'http://dbpedia.org/resource/Category:Jazz_albums_by_Norwegian_artists' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Everything We Love (released 1984 in Oslo, Norway by Hot Club Records - HCR 19) is a live album (LP) by the Norwegian guitarist Thorgeir Stubø and the American guitarist Doug Raney. (en)' } ],
+     'rdfs:label': [ { value: 'Everything We Love (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Everything We Love',
+          href: 'http://rdf.freebase.com/ns/m.0p8sqh9' },
+        { value: 'dbpedia-wikidata:Everything We Love',
+          href: 'http://wikidata.dbpedia.org/resource/Q5418101' },
+        { value: 'wikidata:Everything We Love',
+          href: 'http://www.wikidata.org/entity/Q5418101' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Everything_We_Love?oldid=666501312',
+          href: 'http://en.wikipedia.org/wiki/Everything_We_Love?oldid=666501312' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Everything_We_Love',
+          href: 'http://en.wikipedia.org/wiki/Everything_We_Love' } ],
+     'foaf:name': [ { value: 'Everything We Love (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Flight_(Thorgeir_Stubø_album)',
+          href: 'http://dbpedia.org/resource/Flight_(Thorgeir_Stubø_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Live_at_Jazz_Alive',
+          href: 'http://dbpedia.org/resource/Live_at_Jazz_Alive' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Everything_We_Love',
+          href: 'http://en.wikipedia.org/wiki/Everything_We_Love' } ] } }

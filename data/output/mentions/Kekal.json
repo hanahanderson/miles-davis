@@ -1,0 +1,8 @@
+{ name: 'Kekal',
+  href: 'http://en.wikipedia.org/wiki/Kekal',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 19023,
+       quote: [ 'Currently, Kekal has cited an influence from many styles of music and now lists a large host of artists as an inspiration, including A-ha, Amebix, Autechre, Björk, Black Sabbath, Bohren & der Club of Gore, Camel, Celtic Frost, Cocteau Twins, Chick Corea, The Cure, Miles Davis, Depeche Mode, Discharge, Duran Duran, Gazebo, Godflesh, Iron Maiden, Joy Division, Killing Joke, King Crimson, Led Zeppelin, Mantronix, Massive Attack, Curtis Mayfield, Merzbow, Pat Metheny, Wes Montgomery, Gary Moore, Napalm Death, Outkast, Pan Sonic, Paradise Lost, Parliament, Pet Shop Boys, Pink Floyd, The Police, Portishead, Radiohead, Red Snapper, Return to Forever, Rush, Sonic Youth, Squarepusher, Talk Talk, Tangerine Dram, Amon Tobin, Trouble, and Voivod.' ] } ] }

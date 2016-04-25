@@ -1,0 +1,8 @@
+{ name: 'Larry Rosen (producer)',
+  href: 'http://en.wikipedia.org/wiki/Larry_Rosen_(producer)',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2859,
+       quote: [ 'In addition to its online music store, Music Boulevard, N2K produced a number of genre-based community sites (Rocktropolis, Jazz Central Station, Classical Insites) and artist sites for Leonard Bernstein, Miles Davis, David Bowie, and The Rolling Stones.' ] } ] }

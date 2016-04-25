@@ -1,0 +1,11 @@
+{ name: 'Portal:Jazz/Did you know/Archive',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:Jazz/Did_you_know/Archive',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'dbpedia-de:Portal:Jazz/Schon_gewusst',
+          href: 'http://de.dbpedia.org/resource/Portal:Jazz/Schon_gewusst' },
+        { value: 'dbpedia-wikidata:Q14615972',
+          href: 'http://wikidata.dbpedia.org/resource/Q14615972' },
+        { value: 'wikidata:Q14615972',
+          href: 'http://www.wikidata.org/entity/Q14615972' } ] } }

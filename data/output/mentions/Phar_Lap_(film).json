@@ -1,0 +1,8 @@
+{ name: 'Phar Lap (film)',
+  href: 'http://en.wikipedia.org/wiki/Phar_Lap_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 7867,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

@@ -1,0 +1,85 @@
+{ name: 'Wah-wah pedal',
+  entityType: 'DefiniteQuantity113576101',
+  href: 'http://dbpedia.org/page/Wah-wah_pedal',
+  values: 
+   { 'dbo:abstract': [ { value: 'A wah-wah pedal (or just wah pedal) is a type of guitar effects pedal that alters the tone of the signal to create a distinctive effect, mimicking the human voice. The pedal sweeps the peak response of a filter up and down in frequency to create the sound (spectral glide), also known as "the wah effect." The wah-wah effect originated in the 1920s,  with  trumpet or trombone players finding they could produce an expressive crying tone by moving a mute in the instrument\'s bell.  This was later simulated with electronics for the electric guitar,  controlled by movement of the player\'s foot on a rocking pedal connected to a potentiometer.  Wah-wah effects are used when a guitarist is soloing, or creating a "wacka-wacka" funk styled rhythm. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Thomas_Organ_Crybaby.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Organ_Crybaby.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PALL&s1=3530224.PN.&OS=PN/3530224&RS=PN/3530224',
+          href: 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PALL&s1=3530224.PN.&OS=PN/3530224&RS=PN/3530224' } ],
+     'dbo:wikiPageID': [ { value: '313454 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683494541 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Audio_engineering',
+          href: 'http://dbpedia.org/resource/Category:Audio_engineering' },
+        { value: 'dbc:Effects_units',
+          href: 'http://dbpedia.org/resource/Category:Effects_units' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:DefiniteQuantity113576101',
+          href: 'http://dbpedia.org/class/yago/DefiniteQuantity113576101' },
+        { value: 'yago:UnitOfMeasurement113583724',
+          href: 'http://dbpedia.org/class/yago/UnitOfMeasurement113583724' },
+        { value: 'yago:EffectsUnits',
+          href: 'http://dbpedia.org/class/yago/EffectsUnits' },
+        { value: 'yago:Measure100033615',
+          href: 'http://dbpedia.org/class/yago/Measure100033615' } ],
+     'rdfs:comment': [ { value: 'A wah-wah pedal (or just wah pedal) is a type of guitar effects pedal that alters the tone of the signal to create a distinctive effect, mimicking the human voice. The pedal sweeps the peak response of a filter up and down in frequency to create the sound (spectral glide), also known as "the wah effect." The wah-wah effect originated in the 1920s,  with  trumpet or trombone players finding they could produce an expressive crying tone by moving a mute in the instrument\'s bell. (en)' } ],
+     'rdfs:label': [ { value: 'Wah-wah pedal (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-cs:Wah-wah pedal',
+          href: 'http://cs.dbpedia.org/resource/Kvákadlo' },
+        { value: 'dbpedia-de:Wah-wah pedal',
+          href: 'http://de.dbpedia.org/resource/Wah-Wah' },
+        { value: 'dbpedia-ja:Wah-wah pedal',
+          href: 'http://ja.dbpedia.org/resource/ワウペダル' },
+        { value: 'dbpedia-wikidata:Wah-wah pedal',
+          href: 'http://wikidata.dbpedia.org/resource/Q264300' },
+        { value: 'freebase:Wah-wah pedal',
+          href: 'http://rdf.freebase.com/ns/m.01thyb' },
+        { value: 'wikidata:Wah-wah pedal',
+          href: 'http://www.wikidata.org/entity/Q264300' },
+        { value: 'yago-res:Wah-wah pedal',
+          href: 'http://yago-knowledge.org/resource/Wah-wah_pedal' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Wah-wah_pedal?oldid=683494541',
+          href: 'http://en.wikipedia.org/wiki/Wah-wah_pedal?oldid=683494541' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Thomas_Organ_Crybaby.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Organ_Crybaby.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Wah-wah_pedal',
+          href: 'http://en.wikipedia.org/wiki/Wah-wah_pedal' } ],
+     'is dbo:instrument\n of': 
+      [ { value: 'dbr:Ira_Cruz',
+          href: 'http://dbpedia.org/resource/Ira_Cruz' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Wah_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Wah_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Wa-wa_pedal',
+          href: 'http://dbpedia.org/resource/Wa-wa_pedal' },
+        { value: 'dbr:Wa_pedal',
+          href: 'http://dbpedia.org/resource/Wa_pedal' },
+        { value: 'dbr:Wah_Wah_Pedal',
+          href: 'http://dbpedia.org/resource/Wah_Wah_Pedal' },
+        { value: 'dbr:Wah_wah_guitar',
+          href: 'http://dbpedia.org/resource/Wah_wah_guitar' },
+        { value: 'dbr:Wah_wah_pedal',
+          href: 'http://dbpedia.org/resource/Wah_wah_pedal' },
+        { value: 'dbr:Wawa_pedal',
+          href: 'http://dbpedia.org/resource/Wawa_pedal' },
+        { value: 'dbr:Wah_pedal',
+          href: 'http://dbpedia.org/resource/Wah_pedal' } ],
+     'is dbp:notableInstruments\n of': 
+      [ { value: 'dbr:Ira_Cruz',
+          href: 'http://dbpedia.org/resource/Ira_Cruz' } ],
+     'is dbp:related\n of': 
+      [ { value: 'dbr:Fuzz-wah',
+          href: 'http://dbpedia.org/resource/Fuzz-wah' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Wah-wah_pedal',
+          href: 'http://en.wikipedia.org/wiki/Wah-wah_pedal' } ] } }

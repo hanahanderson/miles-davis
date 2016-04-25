@@ -1,0 +1,8 @@
+{ name: 'Staffan William-Olsson',
+  href: 'http://en.wikipedia.org/wiki/Staffan_William-Olsson',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1995,
+       quote: [ 'William-Olsson starte the mini big band "Sharp 9" in 2005, inspired by the likes of Art Pepper and Miles Davis.' ] } ] }

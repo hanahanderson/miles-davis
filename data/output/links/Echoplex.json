@@ -1,0 +1,62 @@
+{ name: 'Echoplex',
+  entityType: 'DefiniteQuantity113576101',
+  href: 'http://dbpedia.org/page/Echoplex',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Echoplex is a tape delay effect, first made in 1959. Designed by Mike Battle, the Echoplex set a standard for the effect in the 1960s—it is still regarded as "the standard by which everything else is measured." It was used by some of the most notable guitar players of the era; original Echoplexes are highly sought after. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Maestro_Echoplex_EP-2.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Maestro_Echoplex_EP-2.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '5538132 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '659849705 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Effects_units',
+          href: 'http://dbpedia.org/resource/Category:Effects_units' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:DefiniteQuantity113576101',
+          href: 'http://dbpedia.org/class/yago/DefiniteQuantity113576101' },
+        { value: 'yago:UnitOfMeasurement113583724',
+          href: 'http://dbpedia.org/class/yago/UnitOfMeasurement113583724' },
+        { value: 'yago:EffectsUnits',
+          href: 'http://dbpedia.org/class/yago/EffectsUnits' },
+        { value: 'yago:Measure100033615',
+          href: 'http://dbpedia.org/class/yago/Measure100033615' } ],
+     'rdfs:comment': [ { value: 'The Echoplex is a tape delay effect, first made in 1959. Designed by Mike Battle, the Echoplex set a standard for the effect in the 1960s—it is still regarded as "the standard by which everything else is measured." It was used by some of the most notable guitar players of the era; original Echoplexes are highly sought after. (en)' } ],
+     'rdfs:label': [ { value: 'Echoplex (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Echoplex',
+          href: 'http://rdf.freebase.com/ns/m.08082t6' },
+        { value: 'dbpedia-wikidata:Echoplex',
+          href: 'http://wikidata.dbpedia.org/resource/Q5332830' },
+        { value: 'wikidata:Echoplex',
+          href: 'http://www.wikidata.org/entity/Q5332830' },
+        { value: 'yago-res:Echoplex',
+          href: 'http://yago-knowledge.org/resource/Echoplex' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Echoplex?oldid=659849705',
+          href: 'http://en.wikipedia.org/wiki/Echoplex?oldid=659849705' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Maestro_Echoplex_EP-2.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Maestro_Echoplex_EP-2.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Echoplex',
+          href: 'http://en.wikipedia.org/wiki/Echoplex' } ],
+     'is dbo:instrument\n of': 
+      [ { value: 'dbr:Adam_Lasus',
+          href: 'http://dbpedia.org/resource/Adam_Lasus' },
+        { value: 'dbr:Nicholas_Thorburn',
+          href: 'http://dbpedia.org/resource/Nicholas_Thorburn' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Maestro_echoplex',
+          href: 'http://dbpedia.org/resource/Maestro_echoplex' },
+        { value: 'dbr:Mastro_echoplex',
+          href: 'http://dbpedia.org/resource/Mastro_echoplex' } ],
+     'is dbp:instrument\n of': 
+      [ { value: 'dbr:Adam_Lasus',
+          href: 'http://dbpedia.org/resource/Adam_Lasus' },
+        { value: 'dbr:Nicholas_Thorburn',
+          href: 'http://dbpedia.org/resource/Nicholas_Thorburn' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Echoplex',
+          href: 'http://en.wikipedia.org/wiki/Echoplex' } ] } }

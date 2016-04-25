@@ -1,0 +1,8 @@
+{ name: 'Eddie Kramer',
+  href: 'http://en.wikipedia.org/wiki/Eddie_Kramer',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 14337,
+       quote: [ 'He was such a complete human being with such far-reaching intellect." Kramer places Hendrix among Charlie Parker, Miles Davis, John Coltrane, and Louis Armstrong. "He really is in that league, because his individuality was so strong and his message was so strong and his mastery of his instrument was so complete.' ] } ] }

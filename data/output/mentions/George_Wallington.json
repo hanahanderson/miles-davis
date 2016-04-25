@@ -1,0 +1,8 @@
+{ name: 'George Wallington',
+  href: 'http://en.wikipedia.org/wiki/George_Wallington',
+  mentions: 
+   [ { sectionHeader: 'Compositions',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2140,
+       quote: [ 'His best-known compositions are "Lemon Drp" (which gained attention when played by Woody Herman in the late 1940s), and "Godchild" (one of the pieces played for The Birth of the Cool recordings led by Miles Davis).' ] } ] }

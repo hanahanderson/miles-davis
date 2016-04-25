@@ -1,0 +1,64 @@
+{ name: 'Australian jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Australian_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'Jazz music has a long history in Australia. Over the years jazz has held a high profile at local clubs, festivals and other music venues and a vast number of recordings have been produced by Australian jazz musicians, many of whom have gone on to gain a high profile in the international jazz arena.Jazz is an American musical genre originated by African Americans but the style was rapidly and enthusiastically taken up by musicians all over the world, including Australia. Jazz and jazz-influenced syncopated dance music was being performed in Australia within a year of the emergence of jazz as a definable musical genre in the United States.Until the 1950s the primary form of accompaniment at Australian public dances was jazz-based dance music, modeled on the leading white British and American jazz bands, and this style enjoyed wide popularity.It was not until after World War II that Australian jazz scene began to diversify as local musicians were finally able to get access to recordings by leading African-American jazz musicians like Charlie Parker, Dizzy Gillespie, Miles Davis and Thelonious Monk, and bebop, cool jazz and free jazz exerting a strong influence on Australian musicians in the late 1950s and beyond.Although jazz in Australia suffered a significant drop in popularity during the Sixties, as it did in most other countries, there was a marked resurgence of interest in the Seventies, Eighties and Nineties as a new generation of musicians came to the fore.As in the popular field, it is also important to acknowledge the role of New Zealand musicians on the Australian jazz scene - in the view of jazz historian Andrew Bisset, it is impossible to properly discuss the subject of Australian jazz without reference to New Zealand. Many of the leading "Australian" jazz playing musicians of the last 80 years have come from New Zealand, beginning with figures like reeds player Abe Romaine in the 1920s and later including renowned pianist-composers Mike Nock and Dave MacRae, and vocalist Ricky May. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Dance_band_at_the_Jac...m_The_Powerhouse_Museum.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dance_band_at_the_Jack_Keating_Dance_Studio_from_The_Powerhouse_Museum.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.ajm.org.au/',
+          href: 'http://www.ajm.org.au/' },
+        { value: 'http://www.jazz.org.au/',
+          href: 'http://www.jazz.org.au/' },
+        { value: 'http://www.jazzgroove.com/Home/170/n/1/0/0/',
+          href: 'http://www.jazzgroove.com/Home/170/n/1/0/0/' },
+        { value: 'http://www.nfsa.afc.gov.au/screensound/screenso.nsf/Web+Pages/EEEACF905C92D62DCA256B5F00176058?OpenDocument',
+          href: 'http://www.nfsa.afc.gov.au/screensound/screenso.nsf/Web+Pages/EEEACF905C92D62DCA256B5F00176058?OpenDocument' },
+        { value: 'http://www.sydneyjazzclub.com/',
+          href: 'http://www.sydneyjazzclub.com/' },
+        { value: 'http://www.2013jazzconvention.org.au',
+          href: 'http://www.2013jazzconvention.org.au' },
+        { value: 'http://www.australianjazzconvention.org.au',
+          href: 'http://www.australianjazzconvention.org.au' },
+        { value: 'http://www.jazzandbeyond.com.au',
+          href: 'http://www.jazzandbeyond.com.au' },
+        { value: 'http://www.myspace.com/australianjazz',
+          href: 'http://www.myspace.com/australianjazz' },
+        { value: 'http://www.myspace.com/peterboothman',
+          href: 'http://www.myspace.com/peterboothman' } ],
+     'dbo:wikiPageID': [ { value: '948694 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '672050557 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Australian_jazz',
+          href: 'http://dbpedia.org/resource/Category:Australian_jazz' },
+        { value: 'dbc:Jazz_by_nationality',
+          href: 'http://dbpedia.org/resource/Category:Jazz_by_nationality' } ],
+     'rdfs:comment': [ { value: 'Jazz music has a long history in Australia. Over the years jazz has held a high profile at local clubs, festivals and other music venues and a vast number of recordings have been produced by Australian jazz musicians, many of whom have gone on to gain a high profile in the international jazz arena.Jazz is an American musical genre originated by African Americans but the style was rapidly and enthusiastically taken up by musicians all over the world, including Australia. (en)' } ],
+     'rdfs:label': [ { value: 'Australian jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Australian jazz',
+          href: 'http://rdf.freebase.com/ns/m.03sj_x' },
+        { value: 'dbpedia-wikidata:Australian jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4825034' },
+        { value: 'wikidata:Australian jazz',
+          href: 'http://www.wikidata.org/entity/Q4825034' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Australian_jazz?oldid=672050557',
+          href: 'http://en.wikipedia.org/wiki/Australian_jazz?oldid=672050557' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Dance_band_at_the_Jac...Studio_from_The_Powerhouse_Museum.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dance_band_at_the_Jack_Keating_Dance_Studio_from_The_Powerhouse_Museum.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Australian_jazz',
+          href: 'http://en.wikipedia.org/wiki/Australian_jazz' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Aussie_jazz',
+          href: 'http://dbpedia.org/resource/Aussie_jazz' },
+        { value: 'dbr:AJQ', href: 'http://dbpedia.org/resource/AJQ' } ],
+     'is dbp:genre\n of': 
+      [ { value: 'dbr:Dingo_Creek_Jazz_and_Blues_Festival',
+          href: 'http://dbpedia.org/resource/Dingo_Creek_Jazz_and_Blues_Festival' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Australian_jazz',
+          href: 'http://en.wikipedia.org/wiki/Australian_jazz' } ] } }

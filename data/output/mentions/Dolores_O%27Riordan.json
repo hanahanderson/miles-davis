@@ -1,0 +1,8 @@
+{ name: 'Dolores O\'Riordan',
+  href: 'http://en.wikipedia.org/wiki/Dolores_O%27Riordan',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3486,
+       quote: [ 'The album also featured other artists such as Sting, Sheryl Crow, Luciano Pavarotti, Miles Davis, John Lee Hooker, Macy Gray and Eric Clapton.' ] } ] }

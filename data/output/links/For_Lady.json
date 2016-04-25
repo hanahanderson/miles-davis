@@ -1,0 +1,105 @@
+{ name: 'For Lady',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/For_Lady',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '42.15' } ],
+     'dbo:abstract': [ { value: 'For Lady (subtitled songs Billie Holiday made famous... an instrumental tribute to her great talents) is an album by American jazz cornetist Webster Young featuring tracks recorded in 1957 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Webster_Young',
+          href: 'http://dbpedia.org/resource/Webster_Young' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Interplay_for_2_Trumpets_and_2_Tenors',
+          href: 'http://dbpedia.org/resource/Interplay_for_2_Trumpets_and_2_Tenors' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': [ { value: '1957-06-14 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:runtime': [ { value: '2529.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Webster_Young_Plays_the_Miles_Davis_Songbook',
+          href: 'http://dbpedia.org/resource/Webster_Young_Plays_the_Miles_Davis_Songbook' } ],
+     'dbo:wikiPageID': [ { value: '39506981 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '557129046 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Webster_Young',
+          href: 'http://dbpedia.org/resource/Webster_Young' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Webster_Young',
+          href: 'http://dbpedia.org/resource/Webster_Young' } ],
+     'dbp:cover': [ { value: 'For Lady.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 7106 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Interplay for 2 Trumpets and 2 Tenors (en)' } ],
+     'dbp:length': [ { value: '2529.0' } ],
+     'dbp:name': [ { value: 'For Lady (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Webster Young Plays the Miles Davis Songbook (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '1957-06-14 (xsd:date)' },
+        { value: 'Van Gelder Studio, Hackensack, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1957 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'For Lady (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1957_albums',
+          href: 'http://dbpedia.org/resource/Category:1957_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' },
+        { value: 'dbc:Webster_Young_albums',
+          href: 'http://dbpedia.org/resource/Category:Webster_Young_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'For Lady (subtitled songs Billie Holiday made famous... an instrumental tribute to her great talents) is an album by American jazz cornetist Webster Young featuring tracks recorded in 1957 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'For Lady (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:For Lady',
+          href: 'http://rdf.freebase.com/ns/m.03gb7ny' },
+        { value: 'dbpedia-wikidata:For Lady',
+          href: 'http://wikidata.dbpedia.org/resource/Q17090107' },
+        { value: 'wikidata:For Lady',
+          href: 'http://www.wikidata.org/entity/Q17090107' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:For_Lady?oldid=557129046',
+          href: 'http://en.wikipedia.org/wiki/For_Lady?oldid=557129046' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:For_Lady',
+          href: 'http://en.wikipedia.org/wiki/For_Lady' } ],
+     'foaf:name': [ { value: 'For Lady (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:For_Lady',
+          href: 'http://en.wikipedia.org/wiki/For_Lady' } ] } }

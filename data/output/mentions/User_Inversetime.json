@@ -1,0 +1,8 @@
+{ name: 'User:Inversetime',
+  href: 'http://en.wikipedia.org/wiki/User:Inversetime',
+  mentions: 
+   [ { sectionHeader: 'Specific Interests',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 1467,
+       quote: [ 'Miles Davis' ] } ] }

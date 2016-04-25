@@ -1,0 +1,104 @@
+{ name: 'Again and Again (album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Again_and_Again_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '45.016666666666666' } ],
+     'dbo:abstract': [ { value: 'Again and Again is an album recorded by Chick Corea in 1982 in the middle of a South African tour and released in 1983. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Trio_Music',
+          href: 'http://dbpedia.org/resource/Trio_Music' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbo:recordDate': [ { value: '1982-03-23 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Elektra/Musician',
+          href: 'http://dbpedia.org/resource/Elektra/Musician' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:South_Africa',
+          href: 'http://dbpedia.org/resource/South_Africa' } ],
+     'dbo:runtime': [ { value: '2701.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:On_Two_Pianos',
+          href: 'http://dbpedia.org/resource/On_Two_Pianos' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '18633735 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662458068 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbp:cover': [ { value: 'Chick_Corea_Again_And_Again.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Elektra/Musician',
+          href: 'http://dbpedia.org/resource/Elektra/Musician' } ],
+     'dbp:lastAlbum': [ { value: 'Trio Music (en)' } ],
+     'dbp:length': [ { value: '2701.0' } ],
+     'dbp:name': [ { value: 'Again and Again (en)' } ],
+     'dbp:nextAlbum': [ { value: 'On Two Pianos (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbp:recorded': [ { value: '--03-23' } ],
+     'dbp:released': [ { value: '1983 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Again and Again (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1983_albums',
+          href: 'http://dbpedia.org/resource/Category:1983_albums' },
+        { value: 'dbc:Elektra/Musician_albums',
+          href: 'http://dbpedia.org/resource/Category:Elektra/Musician_albums' },
+        { value: 'dbc:Chick_Corea_albums',
+          href: 'http://dbpedia.org/resource/Category:Chick_Corea_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Again and Again is an album recorded by Chick Corea in 1982 in the middle of a South African tour and released in 1983. (en)' } ],
+     'rdfs:label': [ { value: 'Again and Again (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Again and Again (album)',
+          href: 'http://rdf.freebase.com/ns/m.04gvnpm' },
+        { value: 'dbpedia-wikidata:Again and Again (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q4691004' },
+        { value: 'wikidata:Again and Again (album)',
+          href: 'http://www.wikidata.org/entity/Q4691004' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Again_and_Again_(album)?oldid=662458068',
+          href: 'http://en.wikipedia.org/wiki/Again_and_Again_(album)?oldid=662458068' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Again_and_Again_(album)',
+          href: 'http://en.wikipedia.org/wiki/Again_and_Again_(album)' } ],
+     'foaf:name': [ { value: 'Again and Again (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Again_and_Again',
+          href: 'http://dbpedia.org/resource/Again_and_Again' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Again_and_Again_(album)',
+          href: 'http://en.wikipedia.org/wiki/Again_and_Again_(album)' } ] } }

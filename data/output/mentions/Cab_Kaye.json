@@ -1,0 +1,8 @@
+{ name: 'Cab Kaye',
+  href: 'http://en.wikipedia.org/wiki/Cab_Kaye',
+  mentions: 
+   [ { sectionHeader: 'After the war',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 6810,
+       quote: [ 'In Paris at the end of the 1940s early 1950s, Kaye met Tadd Dameron, who was then playing with Miles Davis.' ] } ] }

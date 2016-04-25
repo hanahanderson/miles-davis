@@ -1,0 +1,13 @@
+{ name: 'Portal:Jazz/Feature',
+  href: 'http://en.wikipedia.org/wiki/Portal:Jazz/Feature',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Johnson · Jazz · Jelly Roll Morton · John Coltrane · Kenny G · Lester Young · Louis Armstrong · Louis Jordan · Louis Prima · Miles Davis · "Ogunde" (song) · Porgy and Bess (Miles Davis album) · Quincy Jones · Ray Charles · "Rivers of My Fathers" · Roy Ayers · Sarah Vaughan · Sonny Rollins · Sun Ra · Teo Macero · Thelonious Monk · Wayne Shorter · Wynton Marsalis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Johnson · Jazz · Jelly Roll Morton · John Coltrane · Kenny G · Lester Young · Louis Armstrong · Louis Jordan · Louis Prima · Miles Davis · "Ogunde" (song) · Porgy and Bess (Miles Davis album) · Quincy Jones · Ray Charles · "Rivers of My Fathers" · Roy Ayers · Sarah Vaughan · Sonny Rollins · Sun Ra · Teo Macero · Thelonious Monk · Wayne Shorter · Wynton Marsalis' ] } ] }

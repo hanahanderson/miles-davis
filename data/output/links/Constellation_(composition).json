@@ -1,0 +1,52 @@
+{ name: 'Constellation (composition)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Constellation_(composition)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Constellation" is a bebop composition written in 1948 by American jazz saxophonist Charlie Parker. It is a contrafact of "I Got Rhythm". "Constellation" was originally recorded by Charlie Parker All-Stars on September 18, 1948 in NYC for Savoy RecordsThe composition has been covered by numerous artists, including notable recordings by Miles Davis and Sonny Stitt (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageID': [ { value: '36138801 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '514507145 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1948_songs',
+          href: 'http://dbpedia.org/resource/Category:1948_songs' },
+        { value: 'dbc:Jazz_compositions',
+          href: 'http://dbpedia.org/resource/Category:Jazz_compositions' },
+        { value: 'dbc:Compositions_by_Charlie_Parker',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_Charlie_Parker' },
+        { value: 'dbc:1940s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1940s_jazz_standards' },
+        { value: 'dbc:Bebop_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Bebop_jazz_standards' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: '"Constellation" is a bebop composition written in 1948 by American jazz saxophonist Charlie Parker. It is a contrafact of "I Got Rhythm". "Constellation" was originally recorded by Charlie Parker All-Stars on September 18, 1948 in NYC for Savoy RecordsThe composition has been covered by numerous artists, including notable recordings by Miles Davis and Sonny Stitt (en)' } ],
+     'rdfs:label': [ { value: 'Constellation (composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Constellation (composition)',
+          href: 'http://rdf.freebase.com/ns/m.0k0n_f7' },
+        { value: 'dbpedia-wikidata:Constellation (composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5163915' },
+        { value: 'wikidata:Constellation (composition)',
+          href: 'http://www.wikidata.org/entity/Q5163915' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Constellation_(composition)?oldid=514507145',
+          href: 'http://en.wikipedia.org/wiki/Constellation_(composition)?oldid=514507145' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Constellation_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Constellation_(composition)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Constellation_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Constellation_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Constellation_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Constellation_(composition)' } ] } }

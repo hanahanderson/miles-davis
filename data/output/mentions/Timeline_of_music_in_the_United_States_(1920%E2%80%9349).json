@@ -1,0 +1,8 @@
+{ name: 'Timeline of music in the United States (1920–49)',
+  href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1920%E2%80%9349)',
+  mentions: 
+   [ { sectionHeader: '1949',
+       sectionSubHeader: '',
+       sectionIndex: 72,
+       wordCountBeforeSection: 110843,
+       quote: [ 'Miles Davis\' Birth of the Cool launches his solo career, creating a new style with a number of like-minded musicians, characterized by an emphasis on "coloristic timbral effects achieved through unusual pairings of instruments..., no vibrato, and a seamless integration of written and improvised music".' ] } ] }

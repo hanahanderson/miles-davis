@@ -1,0 +1,8 @@
+{ name: 'List of Ibanez players',
+  href: 'http://en.wikipedia.org/wiki/List_of_Ibanez_players',
+  mentions: 
+   [ { sectionHeader: 'Q-Z',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 11370,
+       quote: [ 'John Scofield (b 1951) is an American jazz guitarist and composer, who has played and collaborated with Miles Davis, Joe Henderson, Charles Mingus, Joey Defrancesco, Herbie Hancock, Pat Metheny, Bill Frisell, Pat Martino, Mavis Staples, Phil Lesh, Billy Cobham, Medeski Martin & Wood, George Duke, Jaco Pastorius, John Mayer, and many other important artists.' ] } ] }

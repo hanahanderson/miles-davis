@@ -1,0 +1,13 @@
+{ name: 'Tadd Dameron turnaround',
+  href: 'http://en.wikipedia.org/wiki/Tadd_Dameron_turnaround',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1515,
+       quote: [ 'Further examples of pieces including this turnaround are Miles Davis\' "Half-Nelson" and John Carisi\'s "Israel".' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1515,
+       quote: [ 'Further examples of pieces including this turnaround are Miles Davis\' "Half-Nelson" and John Carisi\'s "Israel".' ] } ] }

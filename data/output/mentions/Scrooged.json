@@ -1,0 +1,13 @@
+{ name: 'Scrooged',
+  href: 'http://en.wikipedia.org/wiki/Scrooged',
+  mentions: 
+   [ { sectionHeader: 'Cast',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 5998,
+       quote: [ 'Miles Davis, Larry Carlton, David Sanborn, and Paul Shaffer as street musicians' ] },
+     { sectionHeader: 'Soundtrack and score',
+       sectionSubHeader: '',
+       sectionIndex: 41,
+       wordCountBeforeSection: 8688,
+       quote: [ 'Miles Davis, Larry Carlton, David Sanborn & Paul Shaffer' ] } ] }

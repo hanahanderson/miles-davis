@@ -1,0 +1,8 @@
+{ name: 'User:Joshua miles',
+  href: 'http://en.wikipedia.org/wiki/User:Joshua_miles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis is my favorite artist.' ] } ] }

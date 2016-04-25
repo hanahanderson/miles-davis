@@ -1,0 +1,8 @@
+{ name: 'You Don\'t Know What Love Is',
+  href: 'http://en.wikipedia.org/wiki/You_Don%27t_Know_What_Love_Is',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 796,
+       quote: [ 'Miles Davis All Stars' ] } ] }

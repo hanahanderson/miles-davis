@@ -1,0 +1,99 @@
+{ name: 'Groovin\' High (Hank Jones album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Groovin%27_High_(Hank_Jones_album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Groovin\' High is an album by pianist Hank Jones recorded in 1978 for the Muse label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Tiptoe_Tapdance',
+          href: 'http://dbpedia.org/resource/Tiptoe_Tapdance' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Fred_Seibert',
+          href: 'http://dbpedia.org/resource/Fred_Seibert' } ],
+     'dbo:recordDate': [ { value: '1978-01-25 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Our_Delights',
+          href: 'http://dbpedia.org/resource/Our_Delights' } ],
+     'dbo:wikiPageID': [ { value: '47435854 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674786921 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' } ],
+     'dbp:cover': [ { value: 'Groovin\' High .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' },
+        { value: '(MR 5169) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Tiptoe Tapdance (en)' } ],
+     'dbp:name': [ { value: 'Groovin\' High (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Our Delights (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Fred_Seibert',
+          href: 'http://dbpedia.org/resource/Fred_Seibert' } ],
+     'dbp:recorded': 
+      [ { value: '1978-01-25 (xsd:date)' },
+        { value: '(Van Gelder Studio Englewood Cliffs, NJ) (en)' } ],
+     'dbp:released': [ { value: '1978 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Groovin\' High (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1978_albums',
+          href: 'http://dbpedia.org/resource/Category:1978_albums' },
+        { value: 'dbc:Muse_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Muse_Records_albums' },
+        { value: 'dbc:Hank_Jones_albums',
+          href: 'http://dbpedia.org/resource/Category:Hank_Jones_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Groovin\' High is an album by pianist Hank Jones recorded in 1978 for the Muse label. (en)' } ],
+     'rdfs:label': [ { value: 'Groovin\' High (Hank Jones album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Groovin\' High (Hank Jones album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20813422' },
+        { value: 'wikidata:Groovin\' High (Hank Jones album)',
+          href: 'http://www.wikidata.org/entity/Q20813422' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Groovin\'_High_(Hank_Jones_album)?oldid=674786921',
+          href: 'http://en.wikipedia.org/wiki/Groovin\'_High_(Hank_Jones_album)?oldid=674786921' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Groovin\'_High_(Hank_Jones_album)',
+          href: 'http://en.wikipedia.org/wiki/Groovin\'_High_(Hank_Jones_album)' } ],
+     'foaf:name': [ { value: 'Groovin\' High (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Tiptoe_Tapdance',
+          href: 'http://dbpedia.org/resource/Tiptoe_Tapdance' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Groovin\'_High_(Hank_Jones_album)',
+          href: 'http://en.wikipedia.org/wiki/Groovin\'_High_(Hank_Jones_album)' } ] } }

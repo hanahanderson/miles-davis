@@ -1,0 +1,8 @@
+{ name: 'Philadelphia High School for the Creative and Performing Arts',
+  href: 'http://en.wikipedia.org/wiki/Philadelphia_High_School_for_the_Creative_and_Performing_Arts',
+  mentions: 
+   [ { sectionHeader: 'Notable alumni',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2501,
+       quote: [ 'Joey DeFrancesco, an organist who has played with Miles Davis in 1988, Joey DeFrancesco has recorded several albums, a couple of which are: "Live at the Hot Spot" and "Incredible." He is known as one of the major contributors to the rise of jazz in the 1980s.' ] } ] }

@@ -1,0 +1,18 @@
+{ name: 'Talk:List of deaths in rock and roll',
+  href: 'http://en.wikipedia.org/wiki/Talk:List_of_deaths_in_rock_and_roll',
+  mentions: 
+   [ { sectionHeader: 'Genre',
+       sectionSubHeader: '',
+       sectionIndex: 54,
+       wordCountBeforeSection: 19998,
+       quote: [ 'For example - would you include Miles Davis?' ] },
+     { sectionHeader: 'Genre',
+       sectionSubHeader: '',
+       sectionIndex: 54,
+       wordCountBeforeSection: 19998,
+       quote: [ 'Again - would you include Miles Davis, or Marvin Gaye, or Bob Marley?' ] },
+     { sectionHeader: 'Criteria for inclusion',
+       sectionSubHeader: '',
+       sectionIndex: 64,
+       wordCountBeforeSection: 36817,
+       quote: [ 'What about Bob Marley, or Marvin Gaye, or Patsy Cline, or Miles Davis?' ] } ] }

@@ -1,0 +1,27 @@
+{ name: 'Portal:Miles Davis/Projects',
+  href: 'http://en.wikipedia.org/wiki/Portal:Miles_Davis/Projects',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'The Miles Davis WikiProject' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: 
+        [ 'The Miles Davis WikiProject is a collaboration that helps to assemble writers and editors interested in Miles Davis.',
+          'The aim of this project is to standardize and improve articles related to Miles Davis, and to create any missing articles.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: 
+        [ 'The Miles Davis WikiProject is a collaboration that helps to assemble writers and editors interested in Miles Davis.',
+          'The aim of this project is to standardize and improve articles related to Miles Davis, and to create any missing articles.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] } ] }

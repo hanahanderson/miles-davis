@@ -1,0 +1,13 @@
+{ name: 'Yesterdays (1933 song)',
+  href: 'http://en.wikipedia.org/wiki/Yesterdays_(1933_song)',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 864,
+       quote: [ 'Miles Davis - Miles Davis Volume 1 (1955); Highlights from the Plugged Nickel (1965)' ] },
+     { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 864,
+       quote: [ 'Miles Davis Volume 1' ] } ] }

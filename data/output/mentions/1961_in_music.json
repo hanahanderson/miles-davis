@@ -1,0 +1,13 @@
+{ name: '1961 in music',
+  href: 'http://en.wikipedia.org/wiki/1961_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3911,
+       quote: [] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3911,
+       quote: [ 'Someday My Prince Will Come – Miles Davis' ] } ] }

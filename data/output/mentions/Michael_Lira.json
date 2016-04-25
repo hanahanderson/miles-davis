@@ -1,0 +1,8 @@
+{ name: 'Michael Lira',
+  href: 'http://en.wikipedia.org/wiki/Michael_Lira',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 4499,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

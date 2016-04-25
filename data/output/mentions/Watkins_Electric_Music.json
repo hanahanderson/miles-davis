@@ -1,0 +1,8 @@
+{ name: 'Watkins Electric Music',
+  href: 'http://en.wikipedia.org/wiki/Watkins_Electric_Music',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 580,
+       quote: [ 'WEM amplification can also be seen in footage of the Miles Davis Electric Band playing at the Isle of Wight festival in 1970, in Led Zeppelin\'s 1969 supershow in London, and in The Stones in the Park, one of the Hyde Park Free Concerts.' ] } ] }

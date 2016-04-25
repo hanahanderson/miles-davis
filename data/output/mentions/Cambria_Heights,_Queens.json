@@ -1,0 +1,8 @@
+{ name: 'Cambria Heights, Queens',
+  href: 'http://en.wikipedia.org/wiki/Cambria_Heights,_Queens',
+  mentions: 
+   [ { sectionHeader: 'Notable residents',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2475,
+       quote: [ 'Chick Corea, a Miles Davis band veteran, played electric piano for Stan Getz.' ] } ] }

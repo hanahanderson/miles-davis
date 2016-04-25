@@ -1,0 +1,8 @@
+{ name: 'Dario Chiazzolino',
+  href: 'http://en.wikipedia.org/wiki/Dario_Chiazzolino',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1421,
+       quote: [ 'As a teen, his musical horizons expanded with the influence of jazz: great jazz icons such as Charlie Parker, Clifford Brown, Miles Davis and Bill Evans radically influenced his music.' ] } ] }

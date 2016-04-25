@@ -1,0 +1,8 @@
+{ name: 'Harold Mabern',
+  href: 'http://en.wikipedia.org/wiki/Harold_Mabern',
+  mentions: 
+   [ { sectionHeader: '1959–1967',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2705,
+       quote: [ 'After completing a 1963 tour with Haynes, he had a six-week engagement at the Black Hawk in San Francisco with Miles Davis.' ] } ] }

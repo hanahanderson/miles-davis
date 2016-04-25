@@ -1,0 +1,31 @@
+{ name: '1968 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1968_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1968 in jazz: (en)' } ],
+     'dbo:wikiPageID': [ { value: '25654739 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678504335 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1969 (xsd:integer)' } ],
+     'dbp:prioryear': [ { value: '1967 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1968_in_music',
+          href: 'http://dbpedia.org/resource/Category:1968_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdfs:comment': [ { value: '1968 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1968 in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1968 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q16243220' },
+        { value: 'wikidata:1968 in jazz',
+          href: 'http://www.wikidata.org/entity/Q16243220' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1968_in_jazz?oldid=678504335',
+          href: 'http://en.wikipedia.org/wiki/1968_in_jazz?oldid=678504335' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1968_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1968_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1968_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1968_in_jazz' } ] } }

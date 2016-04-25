@@ -1,0 +1,8 @@
+{ name: 'Giants Stadium',
+  href: 'http://en.wikipedia.org/wiki/Giants_Stadium',
+  mentions: 
+   [ { sectionHeader: 'Concerts',
+       sectionSubHeader: '2009 CONCACAF Gold Cup Final',
+       sectionIndex: 72,
+       wordCountBeforeSection: 14128,
+       quote: [ 'Additional artists that performed include John Eddie, with Max Weinberg, Third World, The Hooters, Peter, Paul and Mary, Steven van Zandt, with Bob Geldof, Stanley Jordan, Joan Armatrading, Jackson Browne, Rubén Blades, with Fela Kuti and Carlos Santana, Yoko Ono, Howard Jones, Miles Davis and Joni Mitchell.' ] } ] }

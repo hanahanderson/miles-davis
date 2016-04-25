@@ -1,0 +1,8 @@
+{ name: 'Plaza Hotel',
+  href: 'http://en.wikipedia.org/wiki/Plaza_Hotel',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 4658,
+       quote: [ 'The nationally known singers Josephine Baker, Eartha Kitt, Liza Minnelli, Marlene Dietrich, Lena Horne, Kay Thompson, Sandler and Young, Ethel Merman, Shirley Bassey, Andy Williams, The Mills Brothers and Peggy Lee played the Persian Room; Miles Davis recorded a live album in the hotel\'s Persian Room in 1958; unaccompanied ladies were not permitted in the Oak Room bar; and women favored the Palm Court for luncheons and teas.' ] } ] }

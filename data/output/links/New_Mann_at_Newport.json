@@ -1,0 +1,81 @@
+{ name: 'New Mann at Newport',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/New_Mann_at_Newport',
+  values: 
+   { 'dbo:abstract': [ { value: 'New Mann at Newport is a 1967 album by jazz flutist Herbie Mann.  The full title on the cover is New Mann at Newport: Herbie Mann Returns to the Newport Jazz Festival & Plays She\'s a Carioca/All Blues/Project S/Scratch/Summertime. All but one track were recorded at the Newport Jazz Festival. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Herbie_Mann',
+          href: 'http://dbpedia.org/resource/Herbie_Mann' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Impressions_of_the_Middle_East',
+          href: 'http://dbpedia.org/resource/Impressions_of_the_Middle_East' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://allmusic.com/album/new-mann-at-newport-r143160',
+          href: 'http://allmusic.com/album/new-mann-at-newport-r143160' } ],
+     'dbo:wikiPageID': [ { value: '35930818 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678695979 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Herbie_Mann',
+          href: 'http://dbpedia.org/resource/Herbie_Mann' } ],
+     'dbp:genre': [ { value: 'Jazz (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbp:lastAlbum': [ { value: 'A Mann & A Woman (en)' } ],
+     'dbp:name': [ { value: 'New Mann at Newport (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Impressions of the Middle East (en)' } ],
+     'dbp:released': [ { value: '1967 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'New Mann at Newport (en)' } ],
+     'dbp:type': [ { value: 'Live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1967_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1967_live_albums' },
+        { value: 'dbc:Albums_recorded_at_the_Newport_Jazz_Festival',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_the_Newport_Jazz_Festival' },
+        { value: 'dbc:Live_jazz_albums',
+          href: 'http://dbpedia.org/resource/Category:Live_jazz_albums' },
+        { value: 'dbc:Herbie_Mann_albums',
+          href: 'http://dbpedia.org/resource/Category:Herbie_Mann_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'New Mann at Newport is a 1967 album by jazz flutist Herbie Mann.  The full title on the cover is New Mann at Newport: Herbie Mann Returns to the Newport Jazz Festival & Plays She\'s a Carioca/All Blues/Project S/Scratch/Summertime. All but one track were recorded at the Newport Jazz Festival. (en)' } ],
+     'rdfs:label': [ { value: 'New Mann at Newport (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:New Mann at Newport',
+          href: 'http://rdf.freebase.com/ns/m.0jwx8fh' },
+        { value: 'dbpedia-wikidata:New Mann at Newport',
+          href: 'http://wikidata.dbpedia.org/resource/Q7009991' },
+        { value: 'wikidata:New Mann at Newport',
+          href: 'http://www.wikidata.org/entity/Q7009991' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:New_Mann_at_Newport?oldid=678695979',
+          href: 'http://en.wikipedia.org/wiki/New_Mann_at_Newport?oldid=678695979' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:New_Mann_at_Newport',
+          href: 'http://en.wikipedia.org/wiki/New_Mann_at_Newport' } ],
+     'foaf:name': [ { value: 'New Mann at Newport (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Impressions_of_the_Middle_East',
+          href: 'http://dbpedia.org/resource/Impressions_of_the_Middle_East' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:New_Mann_at_Newport',
+          href: 'http://en.wikipedia.org/wiki/New_Mann_at_Newport' } ] } }

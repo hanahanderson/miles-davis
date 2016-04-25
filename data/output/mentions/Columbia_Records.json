@@ -1,0 +1,13 @@
+{ name: 'Columbia Records',
+  href: 'http://en.wikipedia.org/wiki/Columbia_Records',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 24167,
+       quote: [ 'In 1956, Columbia jazz producer George Avakian signed Miles Davis to the label.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 24167,
+       quote: [] } ] }

@@ -1,0 +1,13 @@
+{ name: 'May 26',
+  href: 'http://en.wikipedia.org/wiki/May_26',
+  mentions: 
+   [ { sectionHeader: 'Births',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 8115,
+       quote: [ '1926 – Miles Davis, American trumpet player, composer, and bandleader (Miles Davis Quintet) (d. 1991)' ] },
+     { sectionHeader: 'Births',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 8115,
+       quote: [ '1926 – Miles Davis, American trumpet player, composer, and bandleader (Miles Davis Quintet) (d. 1991)' ] } ] }

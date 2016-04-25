@@ -1,0 +1,59 @@
+{ name: 'List of Hammond organ players',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Hammond_organ_players',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Hammond organ is an electric organ invented by Laurens Hammond and John M. Hanert. The instrument was first manufactured in 1935 and contains two manuals along with a set of bass pedals. A variety of models have been produced; the most popular is the B-3, produced between 1954 and 1974.The instrument was originally designed to replace the pipe organ in churches, and early adopters included Henry Ford and George Gershwin, but was not a popular replacement for classical music. However, it was used in African American churches, and its use spread to gospel music and then to jazz in the 1950s. After losing popularity in the jazz world in the 1970s, it subsequently regained its use in the genre and has become the second most used keyboard instrument in jazz after the piano. Jimmy Smith popularised the Hammond organ, and its technique of using drawbars and pedals.Having found success in jazz, the Hammond organ became popular in rhythm and blues, including Booker T & The MGs and other Stax Records artists. From there, it became used in rock music, with users including Ian McLagan, Matthew Fisher, Steve Winwood, Mike Finnigan, Gregg Allman and Jon Lord. It became a significant instrument in progressive rock during the early 1970s, and became a featured instrument in ska and reggae. Although the original Hammond Organ Company collapsed, it was purchased by the Suzuki Musical Instrument Corporation who continued to manufacture the instrument using several former staff for research and development. Jazz organists including Joey DeFrancesco and Barbara Dennerlein have continued to feature the Hammond organ in 21st century jazz. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Hammond_c3_Emilio_Muñoz.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Hammond_c3_Emilio_Muñoz.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.afana.org/jazzorgan.htm',
+          href: 'http://www.afana.org/jazzorgan.htm' },
+        { value: 'http://books.google.co.uk/books?id=-9lt4HL-AlwC&pg=PA153&dq=hammond+organ&hl=en&sa=X&ei=SZD2Uc2DMKbG0AXDx4GoBA&ved=0CE4QuwUwBDgK#v=onepage&q=hammond%20organ&f=false',
+          href: 'http://books.google.co.uk/books?id=-9lt4HL-AlwC&pg=PA153&dq=hammond+organ&hl=en&sa=X&ei=SZD2Uc2DMKbG0AXDx4GoBA&ved=0CE4QuwUwBDgK#v=onepage&q=hammond%20organ&f=false' },
+        { value: 'http://books.google.co.uk/books?id=dIyO-dQwkDwC&pg=PA384&dq=%22jimmy+smith%22+hammond+influence&hl=en&sa=X&ei=Vp32UZ_fJ6OJ0AWahoDoCg&ved=0CDMQuwUwAA#v=onepage',
+          href: 'http://books.google.co.uk/books?id=dIyO-dQwkDwC&pg=PA384&dq=%22jimmy+smith%22+hammond+influence&hl=en&sa=X&ei=Vp32UZ_fJ6OJ0AWahoDoCg&ved=0CDMQuwUwAA#v=onepage' },
+        { value: 'http://books.google.co.uk/books?id=Jxrtek_vttEC&dq=hammond+organ+progressive&source=gbs_navlinks_s',
+          href: 'http://books.google.co.uk/books?id=Jxrtek_vttEC&dq=hammond+organ+progressive&source=gbs_navlinks_s' },
+        { value: 'http://books.google.co.uk/books?id=Rq_7iIvMvYgC',
+          href: 'http://books.google.co.uk/books?id=Rq_7iIvMvYgC' },
+        { value: 'http://books.google.co.uk/books?id=cgDJaeFFUPoC',
+          href: 'http://books.google.co.uk/books?id=cgDJaeFFUPoC' } ],
+     'dbo:wikiPageID': [ { value: '3170013 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680652831 (xsd:integer)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_organists',
+          href: 'http://dbpedia.org/resource/Category:Jazz_organists' },
+        { value: 'dbc:Lists_of_musicians_by_instrument',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians_by_instrument' },
+        { value: 'dbc:Theatre_organists',
+          href: 'http://dbpedia.org/resource/Category:Theatre_organists' } ],
+     'rdfs:comment': [ { value: 'The Hammond organ is an electric organ invented by Laurens Hammond and John M. Hanert. The instrument was first manufactured in 1935 and contains two manuals along with a set of bass pedals. A variety of models have been produced; the most popular is the B-3, produced between 1954 and 1974.The instrument was originally designed to replace the pipe organ in churches, and early adopters included Henry Ford and George Gershwin, but was not a popular replacement for classical music. (en)' } ],
+     'rdfs:label': [ { value: 'List of Hammond organ players (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Hammond organ players',
+          href: 'http://wikidata.dbpedia.org/resource/Q6572814' },
+        { value: 'wikidata:List of Hammond organ players',
+          href: 'http://www.wikidata.org/entity/Q6572814' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Hammond_organ_players?oldid=680652831',
+          href: 'http://en.wikipedia.org/wiki/List_of_Hammond_organ_players?oldid=680652831' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Hammond_c3_Emilio_Muñoz.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Hammond_c3_Emilio_Muñoz.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Hammond_organ_players',
+          href: 'http://en.wikipedia.org/wiki/List_of_Hammond_organ_players' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_notable_hammond_organ_players',
+          href: 'http://dbpedia.org/resource/List_of_notable_hammond_organ_players' },
+        { value: 'dbr:List_of_Hammond_Organ_players',
+          href: 'http://dbpedia.org/resource/List_of_Hammond_Organ_players' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Hammond_organ',
+          href: 'http://dbpedia.org/resource/Hammond_organ' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Hammond_organ_players',
+          href: 'http://en.wikipedia.org/wiki/List_of_Hammond_organ_players' } ] } }

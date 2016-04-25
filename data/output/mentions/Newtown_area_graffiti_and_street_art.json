@@ -1,0 +1,15 @@
+{ name: 'Newtown area graffiti and street art',
+  href: 'http://en.wikipedia.org/wiki/Newtown_area_graffiti_and_street_art',
+  mentions: 
+   [ { sectionHeader: 'Artists and attribution',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3579,
+       quote: [ 'The now-erased Miles Davis/John Coltrane mural on Erskineville Rd ("On The Wings of a Song"), painted by Aiken and Peet.' ] },
+     { sectionHeader: 'Works no longer extant',
+       sectionSubHeader: '',
+       sectionIndex: 91,
+       wordCountBeforeSection: 28676,
+       quote: 
+        [ 'The Miles Davis mural "On the Wings of a Song" by Andrew Aiken and Matthew Peet.',
+          'It depicted jazz musicians Miles Davis and John Coltrane with a rainbow and music notes flowing out from the bells of their instruments.' ] } ] }

@@ -1,0 +1,49 @@
+{ name: 'Moon Dreams',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Moon_Dreams',
+  values: 
+   { 'dbo:abstract': [ { value: '"Moon Dreams" is a 1942 jazz and pop song composed by Chummy MacGregor and Johnny Mercer. The song was first recorded by Martha Tilton on Capitol Records.Glenn Miller recorded the song for V-Disc release in 1944 with the Army Air Force Band. Miles Davis made the song a staple of his repertoire and released it on the 1957 Capitol Records Birth of the Cool collection, the 1996 Blue Note Records album Ballads and Blues, and the 1998 The Complete Birth of the Cool album. The Miles Davis recording appeared in the Ken Burns jazz documentary for PBS entitled Jazz in 2002."Moon Dreams" was recorded by Glenn Miller and the Army Air Force Band on January 21, 1944 and was released as a V-Disc, No. 201A, in October, 1944, featuring Sgt. Johnny Desmond and The Crew Chiefs on vocals. Glenn Miller also recorded the song on February 26, 1944 for the I Sustain the Wings radio program and on May 5, 1944 for the Office of War Information (OWI). Martha Tilton recorded "Moon Dreams" in 1942 for Capitol Records, which was co-founded by Johnny Mercer, the co-writer of the song."Moon Dreams" also appeared in the 1988 motion picture 36 fillette."Moon Dreams" was also featured on the soundtrack collection Ken Burns Jazz: The Story of America\'s Music (2000), in a performance by Miles Davis, arranged by Gil Evans. Miles Davis first performed the song in 1948 in concert in New York, a performance which appears on The Complete Birth of the Cool sessions collection.In 2008, "Moon Dreams" was featured in the Fox series The Simpsons in the episode "Mypods and Boomsticks" in a performance by Miles Davis. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wikipedia-en:Special:FilePath/Moon_Dreams_Glenn_Miller_V_Disc_1944.jpg?width=300',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Moon_Dreams_Glenn_Miller_V_Disc_1944.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.imdb.com/name/nm0532310/',
+          href: 'http://www.imdb.com/name/nm0532310/' },
+        { value: 'http://98.130.146.204/glenn_miller/miller_aaf/part_one.html',
+          href: 'http://98.130.146.204/glenn_miller/miller_aaf/part_one.html' },
+        { value: 'https://archive.org/details/GlennMiller_765',
+          href: 'https://archive.org/details/GlennMiller_765' } ],
+     'dbo:wikiPageID': [ { value: '38095611 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '651409600 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Glenn_Miller_songs',
+          href: 'http://dbpedia.org/resource/Category:Glenn_Miller_songs' },
+        { value: 'dbc:1942_songs',
+          href: 'http://dbpedia.org/resource/Category:1942_songs' },
+        { value: 'dbc:Jazz_songs',
+          href: 'http://dbpedia.org/resource/Category:Jazz_songs' },
+        { value: 'dbc:1940s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1940s_jazz_standards' },
+        { value: 'dbc:Songs_with_lyrics_by_Johnny_Mercer',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_lyrics_by_Johnny_Mercer' } ],
+     'rdfs:comment': [ { value: '"Moon Dreams" is a 1942 jazz and pop song composed by Chummy MacGregor and Johnny Mercer. The song was first recorded by Martha Tilton on Capitol Records.Glenn Miller recorded the song for V-Disc release in 1944 with the Army Air Force Band. Miles Davis made the song a staple of his repertoire and released it on the 1957 Capitol Records Birth of the Cool collection, the 1996 Blue Note Records album Ballads and Blues, and the 1998 The Complete Birth of the Cool album. (en)' } ],
+     'rdfs:label': [ { value: 'Moon Dreams (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Moon Dreams',
+          href: 'http://rdf.freebase.com/ns/m.0pdcj28' },
+        { value: 'dbpedia-wikidata:Moon Dreams',
+          href: 'http://wikidata.dbpedia.org/resource/Q6907466' },
+        { value: 'wikidata:Moon Dreams',
+          href: 'http://www.wikidata.org/entity/Q6907466' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Moon_Dreams?oldid=651409600',
+          href: 'http://en.wikipedia.org/wiki/Moon_Dreams?oldid=651409600' } ],
+     'foaf:depiction': 
+      [ { value: 'wikipedia-en:Special:FilePath/Moon_Dreams_Glenn_Miller_V_Disc_1944.jpg',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Moon_Dreams_Glenn_Miller_V_Disc_1944.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Moon_Dreams',
+          href: 'http://en.wikipedia.org/wiki/Moon_Dreams' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Moon_Dreams',
+          href: 'http://en.wikipedia.org/wiki/Moon_Dreams' } ] } }

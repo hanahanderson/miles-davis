@@ -1,0 +1,8 @@
+{ name: 'Pierre Menard, Author of the Quixote',
+  href: 'http://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote',
+  mentions: 
+   [ { sectionHeader: 'Influence',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 6378,
+       quote: [ 'The story is referenced in the CD notes of Mostly Other People Do the Killing\'s 2014 album Blue, which is an exacting replica of Miles Davis\' famous 1959 album Kind of Blue.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Emily Remler',
+  href: 'http://en.wikipedia.org/wiki/Emily_Remler',
+  mentions: 
+   [ { sectionHeader: 'Early life and influences',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 951,
+       quote: [ 'She began to listen to such legendary jazz greats as Herb Ellis, Wes Montgomery, Joe Pass, Pat Martino, Charlie Christian, Miles Davis and John Coltrane and took up jazz with a ferocious intensity, practicing almost constantly and never looking back.' ] } ] }

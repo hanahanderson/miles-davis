@@ -1,0 +1,8 @@
+{ name: 'List of deaths in rock and roll',
+  href: 'http://en.wikipedia.org/wiki/List_of_deaths_in_rock_and_roll',
+  mentions: 
+   [ { sectionHeader: '1990s',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 23236,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Martha Tilton',
+  href: 'http://en.wikipedia.org/wiki/Martha_Tilton',
+  mentions: 
+   [ { sectionHeader: 'Recordings',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1789,
+       quote: [ 'Her first recording for Capitol was "Moon Drams", Capitol 138, with Orchestra and The Mellowaires, composed by Johnny Mercer and Glenn Miller pianist Chummy MacGregor in 1942. "Moon Drams" would be recorded by Glenn Miller in 1944 and by Miles Davis in 1950.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Raoul Björkenheim',
+  href: 'http://en.wikipedia.org/wiki/Raoul_Bj%C3%B6rkenheim',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1262,
+       quote: [ 'Subsequent projects have included the international group Phantom City, led by Paul Schütze; a collaborative recording with New York guitarist Nicky Skopelitis; and arranging and playing the music of Miles Davis\'s electric period with Finland\'s UMO Jazz Orchestra.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Talk:Darius Milhaud',
+  href: 'http://en.wikipedia.org/wiki/Talk:Darius_Milhaud',
+  mentions: 
+   [ { sectionHeader: '"... whom Milhaud famously told never to apologize for writing a pretty melody."',
+       sectionSubHeader: 'Pronounciation',
+       sectionIndex: 37,
+       wordCountBeforeSection: 10083,
+       quote: [ 'There are many other wonderful stories about Milhaud\'s teaching that I heard years ago from my own composition teacher, Robert Beadell, not long after Bob had spent a summer studying with Milhaud and, in the process, began work on his own First Symphony—strongly influenced by the trumpet style of Miles Davis.' ] } ] }

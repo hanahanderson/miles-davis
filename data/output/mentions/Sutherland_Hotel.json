@@ -1,0 +1,8 @@
+{ name: 'Sutherland Hotel',
+  href: 'http://en.wikipedia.org/wiki/Sutherland_Hotel',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 3219,
+       quote: [ 'Performers included Thelonious Monk, John Coltrane, Louis Armstrong, and Miles Davis.' ] } ] }

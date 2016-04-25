@@ -1,0 +1,94 @@
+{ name: 'Solar: Live at Sweet Basil',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Solar:_Live_at_Sweet_Basil',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '52.5' } ],
+     'dbo:abstract': [ { value: 'Solar: Live at Sweet Basil is a 1991 live album by McCoy Tyner released on the Sweet Basil label. It was recorded in June 1991 at Sweet Basil in New York City and features a live performance by Tyner with Avery Sharpe and Aaron Scott. Another album of this evening\'s concert was released as Key of Soul (1991). The Allmusic review by Ken Dryden states "This solid concert is easily recommended to fans of McCoy Tyner". (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:McCoy_Tyner',
+          href: 'http://dbpedia.org/resource/McCoy_Tyner' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Key_of_Soul',
+          href: 'http://dbpedia.org/resource/Key_of_Soul' } ],
+     'dbo:recordDate': [ { value: '1991-06-14 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Sweet_Basil_Records',
+          href: 'http://dbpedia.org/resource/Sweet_Basil_Records' } ],
+     'dbo:runtime': [ { value: '3150.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:In_New_York_(album)',
+          href: 'http://dbpedia.org/resource/In_New_York_(album)' } ],
+     'dbo:wikiPageID': [ { value: '21800903 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '672665039 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:McCoy_Tyner',
+          href: 'http://dbpedia.org/resource/McCoy_Tyner' } ],
+     'dbp:cover': [ { value: 'Solar - Live at Sweet Basil.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Sweet_Basil_Records',
+          href: 'http://dbpedia.org/resource/Sweet_Basil_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Key of Soul (en)' } ],
+     'dbp:length': [ { value: '3150.0' } ],
+     'dbp:name': [ { value: 'Solar: Live at Sweet Basil (en)' } ],
+     'dbp:nextAlbum': [ { value: 'In New York (en)' } ],
+     'dbp:producer': [ { value: 'Shigeyuki Kawashima (en)' } ],
+     'dbp:recorded': [ { value: '1991-06-14 (xsd:date)' } ],
+     'dbp:released': [ { value: '1991 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Solar: Live at Sweet Basil (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1991_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1991_live_albums' },
+        { value: 'dbc:McCoy_Tyner_live_albums',
+          href: 'http://dbpedia.org/resource/Category:McCoy_Tyner_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Solar: Live at Sweet Basil is a 1991 live album by McCoy Tyner released on the Sweet Basil label. It was recorded in June 1991 at Sweet Basil in New York City and features a live performance by Tyner with Avery Sharpe and Aaron Scott. Another album of this evening\'s concert was released as Key of Soul (1991). The Allmusic review by Ken Dryden states "This solid concert is easily recommended to fans of McCoy Tyner". (en)' } ],
+     'rdfs:label': [ { value: 'Solar: Live at Sweet Basil (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Solar: Live at Sweet Basil',
+          href: 'http://rdf.freebase.com/ns/m.04ckz7f' },
+        { value: 'dbpedia-wikidata:Solar: Live at Sweet Basil',
+          href: 'http://wikidata.dbpedia.org/resource/Q17036227' },
+        { value: 'wikidata:Solar: Live at Sweet Basil',
+          href: 'http://www.wikidata.org/entity/Q17036227' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Solar:_Live_at_Sweet_Basil?oldid=672665039',
+          href: 'http://en.wikipedia.org/wiki/Solar:_Live_at_Sweet_Basil?oldid=672665039' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Solar:_Live_at_Sweet_Basil',
+          href: 'http://en.wikipedia.org/wiki/Solar:_Live_at_Sweet_Basil' } ],
+     'foaf:name': [ { value: 'Solar: Live at Sweet Basil (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:In_New_York_(album)',
+          href: 'http://dbpedia.org/resource/In_New_York_(album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Key_of_Soul',
+          href: 'http://dbpedia.org/resource/Key_of_Soul' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Live_at_Sweet_Basil_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Live_at_Sweet_Basil_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Solar:_Live_at_Sweet_Basil',
+          href: 'http://en.wikipedia.org/wiki/Solar:_Live_at_Sweet_Basil' } ] } }

@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Unreviewed featured articles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Unreviewed_featured_articles',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

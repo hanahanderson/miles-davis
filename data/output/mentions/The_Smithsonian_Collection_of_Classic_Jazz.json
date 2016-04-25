@@ -1,0 +1,13 @@
+{ name: 'The Smithsonian Collection of Classic Jazz',
+  href: 'http://en.wikipedia.org/wiki/The_Smithsonian_Collection_of_Classic_Jazz',
+  mentions: 
+   [ { sectionHeader: 'Track list',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6483,
+       quote: [ 'Miles Davis and His Orchestra – "Boplicity" (Gil Evans and Cleo Henry) – 3:02' ] },
+     { sectionHeader: 'Track list',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6483,
+       quote: [ 'Miles Davis and His Orchestra – "Boplicity" (Gil Evans and Cleo Henry) – 3:02' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Book:Blakfacts Volume 12:',
+  href: 'http://en.wikipedia.org/wiki/Book:Blakfacts_Volume_12:',
+  mentions: 
+   [ { sectionHeader: 'Blakfacts Volume 12:',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 472,
+       quote: [ 'Miles Davis' ] } ] }

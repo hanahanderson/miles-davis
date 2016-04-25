@@ -1,0 +1,8 @@
+{ name: 'Laborintus II (2012 recording)',
+  href: 'http://en.wikipedia.org/wiki/Laborintus_II_(2012_recording)',
+  mentions: 
+   [ { sectionHeader: 'Release and reception',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 8884,
+       quote: [ 'He noted the work\'s free jazz elements, comparing it to the 1970 Miles Davis album Bitches Brew.' ] } ] }

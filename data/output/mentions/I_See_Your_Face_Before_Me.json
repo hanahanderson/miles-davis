@@ -1,0 +1,8 @@
+{ name: 'I See Your Face Before Me',
+  href: 'http://en.wikipedia.org/wiki/I_See_Your_Face_Before_Me',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 862,
+       quote: [ 'Miles Davis - The Musings of Miles (1955)' ] } ] }

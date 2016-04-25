@@ -1,0 +1,9 @@
+{ name: 'File:17 Generique.ogg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:17_Generique.ogg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '26184555 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '529740196 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:17_Generique.ogg?oldid=529740196',
+          href: 'http://en.wikipedia.org/wiki/File:17_Generique.ogg?oldid=529740196' } ] } }

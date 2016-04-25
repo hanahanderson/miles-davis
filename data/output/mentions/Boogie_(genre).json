@@ -1,0 +1,8 @@
+{ name: 'Boogie (genre)',
+  href: 'http://en.wikipedia.org/wiki/Boogie_(genre)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 5406,
+       quote: [ 'Major artists like Miles Davis, Sly Stone, Herbie Hancock, Stevie Wonder, legendary producer Norman Whitfield and, of course, George Clinton and his P Funk brigade, would all play their part in shaping this new sound via their innovative use of electronic instruments during the 70’s (and as early as the late 60’s in Miles Davis’s case).' ] } ] }

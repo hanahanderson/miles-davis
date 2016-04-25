@@ -1,0 +1,8 @@
+{ name: '1991 in music',
+  href: 'http://en.wikipedia.org/wiki/1991_in_music',
+  mentions: 
+   [ { sectionHeader: 'Deaths',
+       sectionSubHeader: 'October – December',
+       sectionIndex: 58,
+       wordCountBeforeSection: 43515,
+       quote: [ 'Miles Davis, jazz trumpeter and composer, 65 (stroke)' ] } ] }

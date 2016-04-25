@@ -1,0 +1,8 @@
+{ name: 'Spanish Blue (album)',
+  href: 'http://en.wikipedia.org/wiki/Spanish_Blue_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 769,
+       quote: [ '"So What" (Miles Davis) - 11:24' ] } ] }

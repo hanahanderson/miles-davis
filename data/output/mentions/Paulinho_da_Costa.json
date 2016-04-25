@@ -1,0 +1,8 @@
+{ name: 'Paulinho da Costa',
+  href: 'http://en.wikipedia.org/wiki/Paulinho_da_Costa',
+  mentions: 
+   [ { sectionHeader: 'Collaborations',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 4640,
+       quote: [ 'Miles Davis' ] } ] }

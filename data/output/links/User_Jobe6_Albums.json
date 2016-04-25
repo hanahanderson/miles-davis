@@ -1,0 +1,4 @@
+{ name: 'User:Jobe6/Albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Jobe6/Albums',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

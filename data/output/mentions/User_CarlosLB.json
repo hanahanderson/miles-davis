@@ -1,0 +1,8 @@
+{ name: 'User:CarlosLB',
+  href: 'http://en.wikipedia.org/wiki/User:CarlosLB',
+  mentions: 
+   [ { sectionHeader: 'My Wikipedia favourites',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 29,
+       quote: [ 'Miles Davis' ] } ] }

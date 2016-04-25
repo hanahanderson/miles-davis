@@ -1,0 +1,8 @@
+{ name: 'Dreams Come True (band)',
+  href: 'http://en.wikipedia.org/wiki/Dreams_Come_True_(band)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 7111,
+       quote: [ 'The other songs in the top five were Valentine\'s Radio from Yumi Matsutoya (1,606,780 copies), Happy Happy Greeting from Kinki Kids (608,790 copies), and My Funny Valentine by Miles Davis.' ] } ] }

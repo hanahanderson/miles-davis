@@ -1,0 +1,8 @@
+{ name: 'Freddie Freeloader (album)',
+  href: 'http://en.wikipedia.org/wiki/Freddie_Freeloader_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 392,
+       quote: [ '"Freddie Freeloader" (Miles Davis, Hendricks) – 9:09' ] } ] }

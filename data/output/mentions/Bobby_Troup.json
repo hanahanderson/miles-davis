@@ -1,0 +1,13 @@
+{ name: 'Bobby Troup',
+  href: 'http://en.wikipedia.org/wiki/Bobby_Troup',
+  mentions: 
+   [ { sectionHeader: 'Life and music',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4653,
+       quote: [ 'An instrumental rendition of his song "The Meaning of the Blues" appeared on the Miles Davis album, Miles Ahead.' ] },
+     { sectionHeader: 'Selected compositions',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 8936,
+       quote: [ '"The Meaning of the Blues" – Julie London, Miles Davis (1957), Shirley Horn, Irene Kral, Buddy Rich, Michael Brecker' ] } ] }

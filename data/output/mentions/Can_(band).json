@@ -1,0 +1,8 @@
+{ name: 'Can (band)',
+  href: 'http://en.wikipedia.org/wiki/Can_(band)',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: 'Archive releases',
+       sectionIndex: 34,
+       wordCountBeforeSection: 14550,
+       quote: [ 'Czukay\'s extensive editing has occasionally been compared to the late-\'60s music of trumpeter Miles Davis (such as In a Silent Way and Bitches Brew): Can and Davis both would record long groove-intensive improvisations, then edit the best bits together for their albums.' ] } ] }

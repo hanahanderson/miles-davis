@@ -1,0 +1,8 @@
+{ name: 'User:Felipeh/Things/Past',
+  href: 'http://en.wikipedia.org/wiki/User:Felipeh/Things/Past',
+  mentions: 
+   [ { sectionHeader: '1946-1989',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 48449,
+       quote: [ 'Tolkien | Jack Kerouac | Jacques Lacan | Jean Baudrillard | Jean Piaget | Jean-Paul Sartre | Jimi Hendrix | John Coltrane | John Ford | John Lennon | Jorge Luis Borges | Louis Althusser | Martin Scorsese | Michel Foucault | Miles Davis | Milton Friedman | Orson Welles | Philip K.' ] } ] }

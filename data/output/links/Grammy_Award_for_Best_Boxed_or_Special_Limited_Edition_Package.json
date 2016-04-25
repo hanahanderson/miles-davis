@@ -1,0 +1,49 @@
+{ name: 'Grammy Award for Best Boxed or Special Limited Edition Package',
+  entityType: 'Group100031264',
+  href: 'http://dbpedia.org/page/Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Grammy Award for Best Boxed or Special Limited Edition Package has been presented since 1995.  The award has had several minor name changes: From 1995 to 1997 the award was known as Best Recording Package - BoxedFrom 1998 to 2002 it was awarded as Best Boxed Recording PackageSince 2001 it has been awarded as Best Boxed or Special Limited Edition PackageYears reflect the year in which the Grammy Awards were presented, for works released in the previous year. The award is presented to art directors, not to artists or performers, except if the artist is also the art director. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://thesmithtapes.com/cds/the-limited-edition-box-set',
+          href: 'http://thesmithtapes.com/cds/the-limited-edition-box-set' } ],
+     'dbo:wikiPageID': [ { value: '921071 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '646240550 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Grammy_Award_categories',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Award_categories' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Class107997703',
+          href: 'http://dbpedia.org/class/yago/Class107997703' },
+        { value: 'yago:Collection107951464',
+          href: 'http://dbpedia.org/class/yago/Collection107951464' },
+        { value: 'yago:Group100031264',
+          href: 'http://dbpedia.org/class/yago/Group100031264' },
+        { value: 'yago:GrammyAwardCategories',
+          href: 'http://dbpedia.org/class/yago/GrammyAwardCategories' } ],
+     'rdfs:comment': [ { value: 'The Grammy Award for Best Boxed or Special Limited Edition Package has been presented since 1995.  The award has had several minor name changes: From 1995 to 1997 the award was known as Best Recording Package - BoxedFrom 1998 to 2002 it was awarded as Best Boxed Recording PackageSince 2001 it has been awarded as Best Boxed or Special Limited Edition PackageYears reflect the year in which the Grammy Awards were presented, for works released in the previous year. (en)' } ],
+     'rdfs:label': [ { value: 'Grammy Award for Best Boxed or Special Limited Edition Package (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Grammy Award for Best Boxed or Special Limited Edition Package',
+          href: 'http://rdf.freebase.com/ns/m.03q27t' },
+        { value: 'dbpedia-es:Grammy Award for Best Boxed or Special Limited Edition Package',
+          href: 'http://es.dbpedia.org/resource/Anexo:Premio_Grammy_a_la_mejor_presentación_en_caja_o_edición_especial_limitada' },
+        { value: 'dbpedia-wikidata:Grammy Award for Best Boxed or Special Limited Edition Package',
+          href: 'http://wikidata.dbpedia.org/resource/Q5593754' },
+        { value: 'wikidata:Grammy Award for Best Boxed or Special Limited Edition Package',
+          href: 'http://www.wikidata.org/entity/Q5593754' },
+        { value: 'yago-res:Grammy Award for Best Boxed or Special Limited Edition Package',
+          href: 'http://yago-knowledge.org/resource/Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package?oldid=646240550',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package?oldid=646240550' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Best_boxed_or_special_limited_edition_package',
+          href: 'http://dbpedia.org/resource/Best_boxed_or_special_limited_edition_package' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Boxed_or_Special_Limited_Edition_Package' } ] } }

@@ -1,0 +1,13 @@
+{ name: 'Joe Albany',
+  href: 'http://en.wikipedia.org/wiki/Joe_Albany',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 591,
+       quote: [ 'In 1946 he at least once played with Parker and then 20-year-old Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Atlantis Quartet',
+  href: 'http://en.wikipedia.org/wiki/Atlantis_Quartet',
+  mentions: 
+   [ { sectionHeader: 'Style and reception',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1876,
+       quote: [ 'On Atlantis Quartet\'s debut album, Again, Too Soon, All About Jazz reported that they "create an aura of musical textures that sound as fresh and relevant as they did in Miles Davis\' heyday" and while "they\'re all talented songwriters, attacking their compositions with utmost earnestness...they sound as if they\'re just having fun." In a review of their second album, Animal Progress, JazzTimes critic Bill Milkowski called the Atlantis Quartet "modern jazz renegades" who "shift nimbly from a punk-jazz aesthetic to ECM-ish sensitivity." Regarding the same album, City Pages writer Rick Mason described "a signature Atlantis sound that taps historic elements like swing, bop, and free jazz while referencing contemporary bits of funk, rock, and world music, then rolls it all into a cohesive bundle of kinetic energy with the visceral allure of intense fireworks and the intellectual challenge of multilayered complexity." Of their fourth album, Expansion, MPR\'s David Cazares wrote that they "deliver rapid-fire licks in complex rhythms and changing tempos, much like the best jazz-rock ensembles of the 1970s."' ] } ] }

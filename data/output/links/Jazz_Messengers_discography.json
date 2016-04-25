@@ -1,0 +1,64 @@
+{ name: 'Jazz Messengers discography',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Jazz_Messengers_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Jazz Messengers were a jazz combo that existed with varying personnel for 35 years. Their major (excluding bootlegs, etc.) discography consists of 47 studio albums, 21 live albums, 2 soundtracks, 6 compilations and one boxed set.Drummer Art Blakey was the leader or co-leader of the group throughout its existence. He is the drummer on all Jazz Messengers recordings, and is therefore elided from the various personnel listings. They recorded as either a quintet or sextet throughout, save for one 11-piece "big band" appearance, and their expansion to a septet at the very end.The earliest recordings of the original Messengers were on Blue Note Records; all of the original Messengers (except bassist Doug Watkins) had already released albums under their own name on the label. Indeed, Blue Note 1518 was a reissue of two previously released 10" LPs credited to "The Horace Silver Quintet".A few recordings on Columbia Records followed, with a couple different formations. As the "Second Messengers" lineup stabilized they spent a stint on RCA sub-label Vik, interspersed with one-off recordings release on Cadet Records, Jubilee Records and Atlantic.Starting in 1959, a new lineup featuring Lee Morgan, Benny Golson, Bobby Timmons, Jymie Merritt and later Wayne Shorter, Freddie Hubbard and Curtis Fuller would see the group return to Blue Note Records for several years. This group also traveled to Europe where a couple albums on the French Fontana Records appeared.In 1961, there was a single album on Impulse! Records and in 1963 the first of three releases on Riverside Records, while new releases on Blue Note continued to be issued.After Shorter departed for Miles Davis\' Second Great Quintet, the band signed with Quincy Jones\' Mercury sub-label Limelight Records for three more releases starting in 1965.Except for a 1970 release on the obscure Catalyst Records, and various bootlegs, the band did not release a recording between 1966 and 1972, when they re-appeared on Prestige Records for three more albums. 1975 saw the release of an album with guest artist Sonny Stitt on the Swedish Sonet Records, then came two albums on Roulette Records in 1976 and 1978.Starting in 1978, the band began to regularly release albums on the Dutch Timeless Records, and the Concord Jazz subsidiary of Concord Records. These groups featured an evolving lineup of up-and-coming young jazz musicians, many of which went on to gain notoriety in their own right, such as: Wynton and Branford Marsalis, Terence Blanchard and Donald Harrison, Wallace Roney, Mulgrew Miller, and Lonnie Plaxico.Near the end, there were two albums on the Italian Soul Note label, and the final album on A&M Records. The Jazz Messengers came to an end with the death of Blakey in 1990. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:The_Jazz_Messengers',
+          href: 'http://dbpedia.org/resource/The_Jazz_Messengers' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.jazzdisco.org',
+          href: 'http://www.jazzdisco.org' },
+        { value: 'http://www.jazzdiscography.com',
+          href: 'http://www.jazzdiscography.com' } ],
+     'dbo:wikiPageID': [ { value: '43777039 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '636711059 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'The Jazz Messengers (en)' } ],
+     'dbp:compilation': [ { value: '6 (xsd:integer)' } ],
+     'dbp:imageSize': [ { value: '225 (xsd:integer)' } ],
+     'dbp:live': [ { value: '21 (xsd:integer)' } ],
+     'dbp:soundtrack': [ { value: '2 (xsd:integer)' } ],
+     'dbp:studio': [ { value: '47 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' },
+        { value: 'dbc:Jazz_Messengers',
+          href: 'http://dbpedia.org/resource/Category:Jazz_Messengers' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:ArtistDiscography',
+          href: 'http://dbpedia.org/ontology/ArtistDiscography' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: 'The Jazz Messengers were a jazz combo that existed with varying personnel for 35 years. Their major (excluding bootlegs, etc.) discography consists of 47 studio albums, 21 live albums, 2 soundtracks, 6 compilations and one boxed set.Drummer Art Blakey was the leader or co-leader of the group throughout its existence. He is the drummer on all Jazz Messengers recordings, and is therefore elided from the various personnel listings. (en)' } ],
+     'rdfs:label': [ { value: 'Jazz Messengers discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Jazz Messengers discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q18359177' },
+        { value: 'wikidata:Jazz Messengers discography',
+          href: 'http://www.wikidata.org/entity/Q18359177' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jazz_Messengers_discography?oldid=636711059',
+          href: 'http://en.wikipedia.org/wiki/Jazz_Messengers_discography?oldid=636711059' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.jazzdisco.org',
+          href: 'http://www.jazzdisco.org' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jazz_Messengers_discography',
+          href: 'http://en.wikipedia.org/wiki/Jazz_Messengers_discography' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Jazz_Messengers_Discography',
+          href: 'http://dbpedia.org/resource/Jazz_Messengers_Discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jazz_Messengers_discography',
+          href: 'http://en.wikipedia.org/wiki/Jazz_Messengers_discography' } ] } }

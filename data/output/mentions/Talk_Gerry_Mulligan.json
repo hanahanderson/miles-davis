@@ -1,0 +1,8 @@
+{ name: 'Talk:Gerry Mulligan',
+  href: 'http://en.wikipedia.org/wiki/Talk:Gerry_Mulligan',
+  mentions: 
+   [ { sectionHeader: 'Weird syntax',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 8013,
+       quote: [ ', later trumpeter Miles Davis was amazed by the band joining them, and because he was already a Jazz star the band was known as the Miles Davis Nonet although he only cooperated with 2 tunes "Budo(Miles Davis, Bud Powell, arranged by Lewis" and "Deception(arranged by Mulligan)"' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jon Stevens',
+  href: 'http://en.wikipedia.org/wiki/Jon_Stevens',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 4965,
+       quote: [ 'The Dead Daisies Uproar line-up featured Jon Stevens, Americans Richard Fortus (Guns N\' Roses/Thin Lizzy) on guitar, Charley Dryton (X-Pensive Wino\'s/Cold Chisel/The Cult) on drums, Darryl Jones (Miles Davis/The Rolling Stones) on bass and Dizzy Reed (Guns N\' Roses) on keyboards.' ] } ] }

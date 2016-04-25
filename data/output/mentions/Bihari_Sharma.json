@@ -1,0 +1,13 @@
+{ name: 'Bihari Sharma',
+  href: 'http://en.wikipedia.org/wiki/Bihari_Sharma',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Bihari Sharma is a tabla player who recorded on two Miles Davis albums in 1969 and 1970.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 345,
+       quote: [] } ] }

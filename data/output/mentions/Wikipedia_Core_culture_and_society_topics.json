@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Core culture and society topics',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Core_culture_and_society_topics',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Carlos Redman',
+  href: 'http://en.wikipedia.org/wiki/Carlos_Redman',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1559,
+       quote: [ 'He has cited Dizzy Gillespie, Louis Armstrong, Duke Ellington, Donald Byrd and Miles Davis as his influences.' ] } ] }

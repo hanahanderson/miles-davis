@@ -1,0 +1,8 @@
+{ name: 'Jazz in the Garden',
+  href: 'http://en.wikipedia.org/wiki/Jazz_in_the_Garden',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 762,
+       quote: [ '"Solar" (Miles Davis) (5:12)' ] } ] }

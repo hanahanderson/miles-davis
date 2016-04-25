@@ -1,0 +1,31 @@
+{ name: 'List of Grateful Dead cover versions',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Grateful_Dead_cover_versions',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Grateful Dead were an American rock band known for their extensive touring and constantly varying set lists, including many cover songs from various musical genres. (en)' } ],
+     'dbo:wikiPageID': [ { value: '20349417 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '670704968 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_songs',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_songs' },
+        { value: 'dbc:Grateful_Dead_songs',
+          href: 'http://dbpedia.org/resource/Category:Grateful_Dead_songs' } ],
+     'rdfs:comment': [ { value: 'The Grateful Dead were an American rock band known for their extensive touring and constantly varying set lists, including many cover songs from various musical genres. (en)' } ],
+     'rdfs:label': [ { value: 'List of Grateful Dead cover versions (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Grateful Dead cover versions',
+          href: 'http://wikidata.dbpedia.org/resource/Q6572382' },
+        { value: 'wikidata:List of Grateful Dead cover versions',
+          href: 'http://www.wikidata.org/entity/Q6572382' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Grateful_Dead_cover_versions?oldid=670704968',
+          href: 'http://en.wikipedia.org/wiki/List_of_Grateful_Dead_cover_versions?oldid=670704968' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Grateful_Dead_cover_versions',
+          href: 'http://en.wikipedia.org/wiki/List_of_Grateful_Dead_cover_versions' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Grateful_Dead_covers',
+          href: 'http://dbpedia.org/resource/List_of_Grateful_Dead_covers' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Grateful_Dead_cover_versions',
+          href: 'http://en.wikipedia.org/wiki/List_of_Grateful_Dead_cover_versions' } ] } }

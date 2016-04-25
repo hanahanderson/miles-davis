@@ -1,0 +1,8 @@
+{ name: 'Butch Warren',
+  href: 'http://en.wikipedia.org/wiki/Butch_Warren',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 934,
+       quote: [ 'As sideman, he also recorded with Miles Davis, Hank Mobley, Donald Byrd, Sonny Clark, Dexter Gordon, Herbie Hancock, Joe Henderson, Jackie McLean, and Stanley Turrentine.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Whitney Russell',
+  href: 'http://en.wikipedia.org/wiki/Whitney_Russell',
+  mentions: 
+   [ { sectionHeader: 'Storylines',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 7644,
+       quote: [ 'Whitney and Chad name their baby Miles Davis Harris after jazz musician Miles Davis.' ] } ] }

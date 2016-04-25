@@ -1,0 +1,8 @@
+{ name: 'Polyrhythm',
+  href: 'http://en.wikipedia.org/wiki/Polyrhythm',
+  mentions: 
+   [ { sectionHeader: 'In popular music',
+       sectionSubHeader: '2:3 cross-rhythm',
+       sectionIndex: 59,
+       wordCountBeforeSection: 12733,
+       quote: [ 'Common polyrhythms found in jazz are 3:2, which manifests as the quarter-note triplet; 2:3, usually in the form of dotted-quarter notes against quarter notes; 4:3, played as dotted-eighth notes against quarter notes (this one demands some technical proficiency to perform accurately, and was not at all common in jazz before Tony Williams used it when playing with Miles Davis); and finally 3/4 time against 4/4, which along with 2:3 was used famously by Elvin Jones and McCoy Tyner playing with John Coltrane.' ] } ] }

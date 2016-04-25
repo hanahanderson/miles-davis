@@ -1,0 +1,13 @@
+{ name: 'Talk:List of people with synesthesia/Archive1',
+  href: 'http://en.wikipedia.org/wiki/Talk:List_of_people_with_synesthesia/Archive1',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 182,
+       quote: [ '15 Miles Davis?' ] },
+     { sectionHeader: 'Miles Davis?',
+       sectionSubHeader: '',
+       sectionIndex: 77,
+       wordCountBeforeSection: 27550,
+       quote: [ 'I watched a TV programme and read books that said Miles Davis had synesthesia.' ] } ] }

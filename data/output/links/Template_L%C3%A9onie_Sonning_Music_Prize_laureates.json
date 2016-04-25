@@ -1,0 +1,21 @@
+{ name: 'Template:Léonie Sonning Music Prize laureates',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:L%C3%A9onie_Sonning_Music_Prize_laureates',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '12981657 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680585304 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-cs:Šablona:Nositelé_Hudební_ceny_Léonie_Sonning',
+          href: 'http://cs.dbpedia.org/resource/Šablona:Nositelé_Hudební_ceny_Léonie_Sonning' },
+        { value: 'dbpedia-it:Template:Premio_musicale_Léonie_Sonning',
+          href: 'http://it.dbpedia.org/resource/Template:Premio_musicale_Léonie_Sonning' },
+        { value: 'dbpedia-wikidata:Q14406407',
+          href: 'http://wikidata.dbpedia.org/resource/Q14406407' },
+        { value: 'wikidata:Q14406407',
+          href: 'http://www.wikidata.org/entity/Q14406407' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Léonie_Sonning_Music_Prize_laureates?oldid=680585304',
+          href: 'http://en.wikipedia.org/wiki/Template:Léonie_Sonning_Music_Prize_laureates?oldid=680585304' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbt:Léonie_Sonning_Music_Prize_laureates',
+          href: 'http://dbpedia.org/resource/Template:L%C3%A9onie_Sonning_Music_Prize_laureates' } ] } }

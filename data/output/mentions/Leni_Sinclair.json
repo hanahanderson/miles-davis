@@ -1,0 +1,8 @@
+{ name: 'Leni Sinclair',
+  href: 'http://en.wikipedia.org/wiki/Leni_Sinclair',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 989,
+       quote: [ 'Arndt began photographing jazz musicians performing in Detroit, including John Coltrane, Miles Davis, Thelonious Monk and Yusuf Lateef.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'MMTC: Monk, Miles, Trane & Cannon',
+  href: 'http://en.wikipedia.org/wiki/MMTC:_Monk,_Miles,_Trane_%26_Cannon',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 451,
+       quote: [ 'The album combines Hubbard\'s tributes to jazz legends with compositions by John Coltrane, Charles Lloyd, Thelonious Monk and Miles Davis as well as Cannonball Adderley.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 999,
+       quote: [ '"All Blues" (Miles Davis) – 7:38' ] } ] }

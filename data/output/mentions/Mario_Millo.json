@@ -1,0 +1,8 @@
+{ name: 'Mario Millo',
+  href: 'http://en.wikipedia.org/wiki/Mario_Millo',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Soundtrack albums',
+       sectionIndex: 33,
+       wordCountBeforeSection: 11194,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

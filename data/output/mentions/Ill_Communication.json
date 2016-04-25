@@ -1,0 +1,8 @@
+{ name: 'Ill Communication',
+  href: 'http://en.wikipedia.org/wiki/Ill_Communication',
+  mentions: 
+   [ { sectionHeader: 'Artistry',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1768,
+       quote: [ 'The Beastie Boys were influenced by Miles Davis\' jazz rock albums Agharta and On the Corner while recording Ill Communication.' ] } ] }

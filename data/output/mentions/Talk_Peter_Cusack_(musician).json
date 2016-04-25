@@ -1,0 +1,8 @@
+{ name: 'Talk:Peter Cusack (musician)',
+  href: 'http://en.wikipedia.org/wiki/Talk:Peter_Cusack_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Untitled',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1228,
+       quote: [ 'Any of these articles would be good to use as examples of how to structure a good article on a musical artist - be sure to check that they are still FA; Miles Davis, for example, is listed but is now a Former featured article - there is a link on the talk page to why FA status was removed, so that is What Not To Do.' ] } ] }

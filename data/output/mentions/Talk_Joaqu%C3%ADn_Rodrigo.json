@@ -1,0 +1,8 @@
+{ name: 'Talk:Joaquín Rodrigo',
+  href: 'http://en.wikipedia.org/wiki/Talk:Joaqu%C3%ADn_Rodrigo',
+  mentions: 
+   [ { sectionHeader: 'Artists influenced by Rodrigo/Cover tunes',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 3690,
+       quote: [ 'From the Miles Davis page:  Evans arranged a version of Joaquin Rodrigo\'s "Concerto de Aranjuez" for Davis.' ] } ] }

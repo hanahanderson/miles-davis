@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:0.7/0.7geo/United States-Arts',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:0.7/0.7geo/United_States-Arts',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

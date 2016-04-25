@@ -1,0 +1,8 @@
+{ name: 'Template:Marcus Miller',
+  href: 'http://en.wikipedia.org/wiki/Template:Marcus_Miller',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

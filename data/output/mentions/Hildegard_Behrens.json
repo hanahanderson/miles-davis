@@ -1,0 +1,8 @@
+{ name: 'Hildegard Behrens',
+  href: 'http://en.wikipedia.org/wiki/Hildegard_Behrens',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4164,
+       quote: [ 'Miles Davis (1984)' ] } ] }

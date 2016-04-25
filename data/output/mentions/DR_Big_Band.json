@@ -1,0 +1,8 @@
+{ name: 'DR Big Band',
+  href: 'http://en.wikipedia.org/wiki/DR_Big_Band',
+  mentions: 
+   [ { sectionHeader: 'Band history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 406,
+       quote: [ 'Leaders like Thad Jones, Bob Brookmeyer and Jim McNeely, and guest soloists like Miles Davis, Stan Getz and Joe Henderson – along with numerous Danish jazz musicians – were able to make the DR Big Band the institution that Ernie Wilkins said was “probably the best band in Europe.”' ] } ] }

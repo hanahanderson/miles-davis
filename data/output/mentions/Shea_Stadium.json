@@ -1,0 +1,8 @@
+{ name: 'Shea Stadium',
+  href: 'http://en.wikipedia.org/wiki/Shea_Stadium',
+  mentions: 
+   [ { sectionHeader: 'Stadium usage',
+       sectionSubHeader: '',
+       sectionIndex: 71,
+       wordCountBeforeSection: 21021,
+       quote: [ 'It was a day-long fundraiser, which featured many of the era\'s biggest selling and seminal rock, folk, blues and jazz performers including: Janis Joplin, Paul Simon, Creedence Clearwater Revival, Steppenwolf, The James Gang, Miles Davis, Tom Paxton, John Sebastian and others.' ] } ] }

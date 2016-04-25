@@ -1,0 +1,8 @@
+{ name: 'Joyce Moreno (musician)',
+  href: 'http://en.wikipedia.org/wiki/Joyce_Moreno_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1059,
+       quote: [ 'She got her start in music by listening to her brother play the guitar, as well as listening to Ella Fitzgerald, Miles Davis and Billie Holiday for inspiration on emotions conveyed in music.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Lesa Carlson',
+  href: 'http://en.wikipedia.org/wiki/Lesa_Carlson',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3498,
+       quote: [ 'Lesa\'s influences are Leonard Cohen, Amedeo Modigliani, Albert Einstein, Robyn Hitchcock, Mohandas Karamchand Gandhi, Grace Jones, Martha Graham, Led Zeppelin, Orson Welles, Nina Simone, Julie Mcginnis, Tennessee Williams, Betty Carter, Marlon Brando, Bette Davis, Thelonious Monk, James Dean, Miles Davis, John Coltrane, Isaac Hayes, Shelley Winters, Arthur Miller, John Lennon, Elia Kazan, and Mark Rydell.' ] } ] }

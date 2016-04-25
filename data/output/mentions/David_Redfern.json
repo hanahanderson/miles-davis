@@ -1,0 +1,8 @@
+{ name: 'David Redfern',
+  href: 'http://en.wikipedia.org/wiki/David_Redfern',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 396,
+       quote: [ 'He was a regular visitor to the Marquee Club and to Ronnie Scott\'s Jazz Club in the 1960s, where he photographed Miles Davis and Ella Fitzgerald.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Pori Jazz',
+  href: 'http://en.wikipedia.org/wiki/Pori_Jazz',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3212,
+       quote: [ 'Numerous world-famous musicians (including, for example, Tori Amos, Kylie Minogue, Art Blakey, James Brown, Phil Collins, Chick Corea, Miles Davis, Alicia Keys, Paul Simon, Jamiroquai, Macy Gray, Mary J.' ] },
+     { sectionHeader: 'Pori Jazz Performers (Partial List)',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3789,
+       quote: [ 'Miles Davis' ] } ] }

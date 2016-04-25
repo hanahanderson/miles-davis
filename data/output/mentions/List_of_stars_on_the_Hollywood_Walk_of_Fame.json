@@ -1,0 +1,8 @@
+{ name: 'List of stars on the Hollywood Walk of Fame',
+  href: 'http://en.wikipedia.org/wiki/List_of_stars_on_the_Hollywood_Walk_of_Fame',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 25593,
+       quote: [ 'Miles Davis' ] } ] }

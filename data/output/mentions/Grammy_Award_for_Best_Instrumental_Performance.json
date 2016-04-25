@@ -1,0 +1,8 @@
+{ name: 'Grammy Award for Best Instrumental Performance',
+  href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Instrumental_Performance',
+  mentions: 
+   [ { sectionHeader: '1960s',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 640,
+       quote: [ 'Herb Alpert for "What Now My Love" featuring Miles Davis' ] } ] }

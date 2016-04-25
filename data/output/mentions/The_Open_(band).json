@@ -1,0 +1,8 @@
+{ name: 'The Open (band)',
+  href: 'http://en.wikipedia.org/wiki/The_Open_(band)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 670,
+       quote: [ 'Their sound was heavily influenced by Talk Talk (particularly their Spirit of Eden album), Cocteau Twins, and early U2, as well as latterly incorporating jazz, such as Miles Davis and Tommy-era The Who.' ] } ] }

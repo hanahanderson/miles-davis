@@ -1,0 +1,13 @@
+{ name: 'Finding Forrester',
+  href: 'http://en.wikipedia.org/wiki/Finding_Forrester',
+  mentions: 
+   [ { sectionHeader: 'Soundtrack',
+       sectionSubHeader: 'Critical response',
+       sectionIndex: 28,
+       wordCountBeforeSection: 7940,
+       quote: [ '"Recollections" (Billy Cobham, Chick Corea, Miles Davis, Jack DeJohnette, Dave Holland, John McLaughlin, Wayne Shorter, Joe Zawinul)' ] },
+     { sectionHeader: 'Soundtrack',
+       sectionSubHeader: 'Critical response',
+       sectionIndex: 28,
+       wordCountBeforeSection: 7940,
+       quote: [ '"In a Silent Way " (Miles Davis)' ] } ] }

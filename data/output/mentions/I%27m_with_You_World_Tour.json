@@ -1,0 +1,8 @@
+{ name: 'I\'m with You World Tour',
+  href: 'http://en.wikipedia.org/wiki/I%27m_with_You_World_Tour',
+  mentions: 
+   [ { sectionHeader: 'Songs performed',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 10387,
+       quote: [ '(made up song by Flea originating from the late 80s/early 90s and sung over a Miles Davis song)' ] } ] }

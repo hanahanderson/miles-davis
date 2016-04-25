@@ -1,0 +1,18 @@
+{ name: 'Sonny Truitt',
+  href: 'http://en.wikipedia.org/wiki/Sonny_Truitt',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'He was best known for his work with Miles Davis.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 192,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 208,
+       quote: [ 'Miles Davis and Horns' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Derek Trucks Band (album)',
+  href: 'http://en.wikipedia.org/wiki/The_Derek_Trucks_Band_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1216,
+       quote: [] } ] }

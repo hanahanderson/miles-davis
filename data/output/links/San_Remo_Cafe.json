@@ -1,0 +1,41 @@
+{ name: 'San Remo Cafe',
+  entityType: 'SpatialThing',
+  href: 'http://dbpedia.org/page/San_Remo_Cafe',
+  values: 
+   { 'dbo:abstract': [ { value: 'The San Remo Cafe was a bar at 93 MacDougal Street at the corner of Bleecker Street in the New York City neighborhood of Greenwich Village. It was a hangout for Bohemians and writers such as James Agee, W. H. Auden, Tennessee Williams, James Baldwin, William S. Burroughs, Gregory Corso, Miles Davis, Allen Ginsberg, Frank O\'Hara, Jack Kerouac, Jackson Pollock, William Styron, Dylan Thomas, Gore Vidal, Judith Malina and many others. It opened in 1925 closed in 1967.Jack Kerouac described the bar\'s crowd in his novel The Subterraneans:Hip without being slick, intelligent without being corny, they are intellectual as hell and know all about Pound without being pretentious or saying too much about it. They are very quiet, they are very Christlike.On July 29, 2013, the Greenwich Village Society for Historic Preservation unveiled a plaque at 93 MacDougal Street to commemorate the cafe\'s rich 42-year lifespan. Musician David Amram, who used to hang out at the San Remo, spoke at the event. (en)' } ],
+     'dbo:wikiPageID': [ { value: '41851552 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '641619881 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1967_disestablishments_in_New_York',
+          href: 'http://dbpedia.org/resource/Category:1967_disestablishments_in_New_York' },
+        { value: 'dbc:1925_establishments_in_New_York',
+          href: 'http://dbpedia.org/resource/Category:1925_establishments_in_New_York' },
+        { value: 'dbc:Defunct_drinking_establishments_in_Manhattan',
+          href: 'http://dbpedia.org/resource/Category:Defunct_drinking_establishments_in_Manhattan' },
+        { value: 'dbc:Drinking_establishments_in_Greenwich_Village',
+          href: 'http://dbpedia.org/resource/Category:Drinking_establishments_in_Greenwich_Village' } ],
+     'georss:point': [ { value: '40.729324 -74.00108' } ],
+     'rdf:type': 
+      [ { value: 'geo:SpatialThing',
+          href: 'http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing' } ],
+     'rdfs:comment': [ { value: 'The San Remo Cafe was a bar at 93 MacDougal Street at the corner of Bleecker Street in the New York City neighborhood of Greenwich Village. It was a hangout for Bohemians and writers such as James Agee, W. H. Auden, Tennessee Williams, James Baldwin, William S. Burroughs, Gregory Corso, Miles Davis, Allen Ginsberg, Frank O\'Hara, Jack Kerouac, Jackson Pollock, William Styron, Dylan Thomas, Gore Vidal, Judith Malina and many others. (en)' } ],
+     'rdfs:label': [ { value: 'San Remo Cafe (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:San Remo Cafe',
+          href: 'http://rdf.freebase.com/ns/m.0_lnwbz' },
+        { value: 'dbpedia-wikidata:San Remo Cafe',
+          href: 'http://wikidata.dbpedia.org/resource/Q16238285' },
+        { value: 'wikidata:San Remo Cafe',
+          href: 'http://www.wikidata.org/entity/Q16238285' } ],
+     'geo:geometry': [ { value: 'POINT(-74.001083374023 40.72932434082)' } ],
+     'geo:lat': [ { value: '40.729324 (xsd:float)' } ],
+     'geo:long': [ { value: '-74.001083 (xsd:float)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:San_Remo_Cafe?oldid=641619881',
+          href: 'http://en.wikipedia.org/wiki/San_Remo_Cafe?oldid=641619881' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:San_Remo_Cafe',
+          href: 'http://en.wikipedia.org/wiki/San_Remo_Cafe' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:San_Remo_Cafe',
+          href: 'http://en.wikipedia.org/wiki/San_Remo_Cafe' } ] } }

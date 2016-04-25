@@ -1,0 +1,8 @@
+{ name: 'Blue Bird Inn',
+  href: 'http://en.wikipedia.org/wiki/Blue_Bird_Inn',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1095,
+       quote: [ 'In 1953, Miles Davis joined the band, and would return many times with his own groups.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'David Geffen Hall',
+  href: 'http://en.wikipedia.org/wiki/David_Geffen_Hall',
+  mentions: 
+   [ { sectionHeader: 'Notable events',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 7093,
+       quote: [ 'A 1964 performance by Miles Davis at Philharmonic Hall was released on two albums, My Funny Valentine and Four & More.' ] } ] }

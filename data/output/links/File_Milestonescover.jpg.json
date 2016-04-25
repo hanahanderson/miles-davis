@@ -1,0 +1,12 @@
+{ name: 'File:Milestonescover.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Milestonescover.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '1933950 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '401409874 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Milestonescover.jpg?oldid=401409874',
+          href: 'http://en.wikipedia.org/wiki/File:Milestonescover.jpg?oldid=401409874' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Milestonescover.jpg',
+          href: 'http://dbpedia.org/resource/File:Milestonescover.jpg' } ] } }

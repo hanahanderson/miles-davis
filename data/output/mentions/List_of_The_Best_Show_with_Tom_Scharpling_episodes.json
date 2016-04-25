@@ -1,0 +1,13 @@
+{ name: 'List of The Best Show with Tom Scharpling episodes',
+  href: 'http://en.wikipedia.org/wiki/List_of_The_Best_Show_with_Tom_Scharpling_episodes',
+  mentions: 
+   [ { sectionHeader: 'List of WFMU-era Best Show episodes',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 33763,
+       quote: [ 'The Best Show presents a special tribute to Miles Davis.' ] },
+     { sectionHeader: 'List of WFMU-era Best Show episodes',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 52359,
+       quote: [ 'Tom gets a kidney stone live on the air, plays Miles Davis while suffering for a stretch and grinds it out in a heroic effort.' ] } ] }

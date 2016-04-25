@@ -1,0 +1,8 @@
+{ name: 'Alan Rubin',
+  href: 'http://en.wikipedia.org/wiki/Alan_Rubin',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 776,
+       quote: [ 'Rubin played with an array of artists, such as Frank Sinatra, Frank Zappa, Duke Ellington, Blood, Sweat and Tears, Eumir Deodato, Sting, Aerosmith, The Rolling Stones, Paul Simon, James Taylor, Frankie Valli, Eric Clapton, Billy Joel, B.B. King, Miles Davis, Yoko Ono, Peggy Lee, Aretha Franklin, James Brown, Ray Charles, Cab Calloway and Dr John.' ] } ] }

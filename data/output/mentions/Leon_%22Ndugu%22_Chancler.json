@@ -1,0 +1,18 @@
+{ name: 'Leon "Ndugu" Chancler',
+  href: 'http://en.wikipedia.org/wiki/Leon_%22Ndugu%22_Chancler',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 725,
+       quote: [ 'By then he had already performed with the Gerald Wilson Big Band, Herbie Hancock, and recorded with Miles Davis, Freddie Hubbard, and Bobby Hutcherson, among many others.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2332,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2348,
+       quote: [ 'Miles Davis at Newport 1955-1975: The Bootleg Series Vol. 4' ] } ] }

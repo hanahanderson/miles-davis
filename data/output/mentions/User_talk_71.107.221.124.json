@@ -1,0 +1,13 @@
+{ name: 'User talk:71.107.221.124',
+  href: 'http://en.wikipedia.org/wiki/User_talk:71.107.221.124',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis 23:05, 4 February 2007 (UTC)' ] },
+     { sectionHeader: 'Miles Davis 23:05, 4 February 2007 (UTC)',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 46,
+       quote: [ 'It might not have been your intention, but your recent edit removed content from Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'List of songs recorded by Morgana King',
+  href: 'http://en.wikipedia.org/wiki/List_of_songs_recorded_by_Morgana_King',
+  mentions: 
+   [ { sectionHeader: 'Note: Box sets and compilations*; Also appears on**',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 514,
+       quote: [] } ] }

@@ -1,0 +1,67 @@
+{ name: 'Live in Stockholm 1961',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Live_in_Stockholm_1961',
+  values: 
+   { 'dbo:abstract': [ { value: 'Live in Stockholm 1961 is a 1961 album by jazz musician John Coltrane. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:1961_in_jazz',
+          href: 'http://dbpedia.org/resource/1961_in_jazz' } ],
+     'dbo:wikiPageID': [ { value: '11677561 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '623591598 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:cover': [ { value: 'Live in Stockholm 1961.jpeg (en)' } ],
+     'dbp:label': [ { value: 'LeJazz (en)' } ],
+     'dbp:name': [ { value: 'Live in Stockholm 1961 (en)' } ],
+     'dbp:recorded': [ { value: '1961 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1961 (xsd:integer)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1961_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1961_live_albums' },
+        { value: 'dbc:John_Coltrane_live_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Coltrane_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Live in Stockholm 1961 is a 1961 album by jazz musician John Coltrane. (en)' } ],
+     'rdfs:label': [ { value: 'Live in Stockholm 1961 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Live in Stockholm 1961',
+          href: 'http://rdf.freebase.com/ns/m.02rnmbv' },
+        { value: 'wikidata:Live in Stockholm 1961',
+          href: 'http://www.wikidata.org/entity/Q6657925' },
+        { value: 'dbpedia-wikidata:Live in Stockholm 1961',
+          href: 'http://wikidata.dbpedia.org/resource/Q6657925' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Live_in_Stockholm_1961?oldid=623591598',
+          href: 'http://en.wikipedia.org/wiki/Live_in_Stockholm_1961?oldid=623591598' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Live_in_Stockholm_1961',
+          href: 'http://en.wikipedia.org/wiki/Live_in_Stockholm_1961' } ],
+     'foaf:name': [ { value: 'Live in Stockholm 1961 (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Live_in_Stockholm',
+          href: 'http://dbpedia.org/resource/Live_in_Stockholm' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Live_in_Stockholm_1961',
+          href: 'http://en.wikipedia.org/wiki/Live_in_Stockholm_1961' } ] } }

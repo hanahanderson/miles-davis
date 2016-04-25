@@ -1,0 +1,8 @@
+{ name: 'Gaslight Square, St. Louis',
+  href: 'http://en.wikipedia.org/wiki/Gaslight_Square,_St._Louis',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3144,
+       quote: [ 'Many entertainers such as The Smothers Brothers, Lenny Bruce, Miles Davis, Barbra Streisand, Jackie Mason, Mike Nichols and Elaine May, Woody Allen, Jerry Stiller, Dick Gregory and Jack E.' ] } ] }

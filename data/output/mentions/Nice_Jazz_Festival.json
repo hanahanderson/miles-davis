@@ -1,0 +1,8 @@
+{ name: 'Nice Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Nice_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 490,
+       quote: [ 'Over the years, many artists, such as Lionel Hampton, Dizzy Gillespie, Ray Charles, Ella Fitzgerald, Helen Humes, Herbie Hancock, and Miles Davis, regularly appeared at the festival.' ] } ] }

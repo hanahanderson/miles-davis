@@ -1,0 +1,8 @@
+{ name: 'Andrew Lancaster',
+  href: 'http://en.wikipedia.org/wiki/Andrew_Lancaster',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 593,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

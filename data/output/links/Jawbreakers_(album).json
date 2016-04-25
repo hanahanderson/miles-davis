@@ -1,0 +1,105 @@
+{ name: 'Jawbreakers (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Jawbreakers_(album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Jawbreakers is an album by saxophonist Eddie "Lockjaw" Davis and trumpeter Harry "Sweets" Edison recorded in 1962 and released on the Riverside label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Harry_Edison',
+          href: 'http://dbpedia.org/resource/Harry_Edison' },
+        { value: 'dbr:Eddie_"Lockjaw"_Davis',
+          href: 'http://dbpedia.org/resource/Eddie_%22Lockjaw%22_Davis' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Tough_Tenor_Favorites',
+          href: 'http://dbpedia.org/resource/Tough_Tenor_Favorites' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbo:recordDate': [ { value: '1962-04-18 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Goin\'_to_the_Meeting',
+          href: 'http://dbpedia.org/resource/Goin\'_to_the_Meeting' } ],
+     'dbo:wikiPageID': [ { value: '36410858 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675307947 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Eddie "Lockjaw" Davis and Harry "Sweets" Edison (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Eddie_"Lockjaw"_Davis',
+          href: 'http://dbpedia.org/resource/Eddie_%22Lockjaw%22_Davis' } ],
+     'dbp:cover': [ { value: 'Jawbreakers .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' },
+        { value: 'JLP-39 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Tough Tenor Favorites (en)' } ],
+     'dbp:name': [ { value: 'Jawbreakers (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Goin\' to the Meeting (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbp:recorded': 
+      [ { value: '1962-04-18 (xsd:date)' },
+        { value: 'New York City (en)' } ],
+     'dbp:released': [ { value: '1962 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Jawbreakers (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1962_albums',
+          href: 'http://dbpedia.org/resource/Category:1962_albums' },
+        { value: 'dbc:Eddie_"Lockjaw"_Davis_albums',
+          href: 'http://dbpedia.org/resource/Category:Eddie_%22Lockjaw%22_Davis_albums' },
+        { value: 'dbc:Harry_Edison_albums',
+          href: 'http://dbpedia.org/resource/Category:Harry_Edison_albums' },
+        { value: 'dbc:Albums_produced_by_Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Orrin_Keepnews' },
+        { value: 'dbc:Riverside_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Riverside_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Jawbreakers is an album by saxophonist Eddie "Lockjaw" Davis and trumpeter Harry "Sweets" Edison recorded in 1962 and released on the Riverside label. (en)' } ],
+     'rdfs:label': [ { value: 'Jawbreakers (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Jawbreakers (album)',
+          href: 'http://rdf.freebase.com/ns/m.0v_vry8' },
+        { value: 'dbpedia-wikidata:Jawbreakers (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6166080' },
+        { value: 'wikidata:Jawbreakers (album)',
+          href: 'http://www.wikidata.org/entity/Q6166080' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jawbreakers_(album)?oldid=675307947',
+          href: 'http://en.wikipedia.org/wiki/Jawbreakers_(album)?oldid=675307947' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jawbreakers_(album)',
+          href: 'http://en.wikipedia.org/wiki/Jawbreakers_(album)' } ],
+     'foaf:name': [ { value: 'Jawbreakers (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Goin\'_to_the_Meeting',
+          href: 'http://dbpedia.org/resource/Goin\'_to_the_Meeting' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Tough_Tenor_Favorites',
+          href: 'http://dbpedia.org/resource/Tough_Tenor_Favorites' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jawbreakers_(album)',
+          href: 'http://en.wikipedia.org/wiki/Jawbreakers_(album)' } ] } }

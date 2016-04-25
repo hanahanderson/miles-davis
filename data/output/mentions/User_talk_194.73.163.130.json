@@ -1,0 +1,27 @@
+{ name: 'User talk:194.73.163.130',
+  href: 'http://en.wikipedia.org/wiki/User_talk:194.73.163.130',
+  mentions: 
+   [ { sectionHeader: 'Recent edit to Chemical warfare',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2751,
+       quote: [ ' Please refrain from making nonconstructive edits to Wikipedia, as you did at Miles Davis with this edit.' ] },
+     { sectionHeader: 'Recent edit to Chemical warfare',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2751,
+       quote: [] },
+     { sectionHeader: 'Recent edit to Chemical warfare',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3147,
+       quote: 
+        [ 'If you continue to vandalize Wikipedia, as you did at Miles Davis, you may be blocked from editing.',
+          'The following is the log entry regarding this vandalism: Miles Davis was changed by 194.73.163.130 (u) (t) ANN scored at 0.971388 on 2015-04-23T11:24:53+00:00 .' ] },
+     { sectionHeader: 'Recent edit to Chemical warfare',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3147,
+       quote: 
+        [ 'If you continue to vandalize Wikipedia, as you did at Miles Davis, you may be blocked from editing.',
+          'The following is the log entry regarding this vandalism: Miles Davis was changed by 194.73.163.130 (u) (t) ANN scored at 0.971388 on 2015-04-23T11:24:53+00:00 .' ] } ] }

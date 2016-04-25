@@ -1,0 +1,13 @@
+{ name: 'In Walked Bud',
+  href: 'http://en.wikipedia.org/wiki/In_Walked_Bud',
+  mentions: 
+   [ { sectionHeader: 'Composition and inspiration',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 475,
+       quote: [ 'Other sources have explained Powell\'s injury differently; Miles Davis said Powell was beaten by a Savoy Ballroom bouncer after walking in the club without any money, while Dexter Gordon claimed he was beaten while in police custody after his arrest for drunk and disorderly conduct in a Philadelphia train station.' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2769,
+       quote: [ 'Miles Davis and the Modern Jazz Giants' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Paul Shaffer',
+  href: 'http://en.wikipedia.org/wiki/Paul_Shaffer',
+  mentions: 
+   [ { sectionHeader: 'Other activities',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 6602,
+       quote: [ 'Shaffer has appeared in a number of motion pictures over the years, including a small role (Artie Fufkin of Polymer Records) in Rob Reiner\'s This Is Spinal Tap, Blues Brothers 2000, a scene with Miles Davis in the Bill Murray film Scrooged and as a passenger in John Travolta\'s taxicab in Look Who\'s Talking Too.' ] } ] }

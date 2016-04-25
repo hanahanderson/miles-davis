@@ -1,0 +1,8 @@
+{ name: 'Flower Hour',
+  href: 'http://en.wikipedia.org/wiki/Flower_Hour',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 659,
+       quote: [ '(by Miles Davis)' ] } ] }

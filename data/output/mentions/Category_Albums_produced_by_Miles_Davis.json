@@ -1,0 +1,13 @@
+{ name: 'Category:Albums produced by Miles Davis',
+  href: 'http://en.wikipedia.org/wiki/Category:Albums_produced_by_Miles_Davis',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Albums produced by Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Beautiful Ballads & Love Songs (Miles Davis album)' ] } ] }

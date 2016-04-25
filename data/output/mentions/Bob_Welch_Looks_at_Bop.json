@@ -1,0 +1,8 @@
+{ name: 'Bob Welch Looks at Bop',
+  href: 'http://en.wikipedia.org/wiki/Bob_Welch_Looks_at_Bop',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 530,
+       quote: [ '"My Funny Valentine / Milestones" (Lorenz Hart, Richard Rogers / Miles Davis)' ] } ] }

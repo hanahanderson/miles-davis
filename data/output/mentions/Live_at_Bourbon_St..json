@@ -1,0 +1,8 @@
+{ name: 'Live at Bourbon St.',
+  href: 'http://en.wikipedia.org/wiki/Live_at_Bourbon_St.',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1196,
+       quote: [ '"All Blues" (Miles Davis) – 7:36' ] } ] }

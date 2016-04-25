@@ -1,0 +1,8 @@
+{ name: 'David Sanborn',
+  href: 'http://en.wikipedia.org/wiki/David_Sanborn',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 5151,
+       quote: [ 'Following producer Hal Willner\'s eclectic approach, the show positioned Sanborn with many famed musicians, such as Miles Davis, Dizzy Gillespie, Pharoah Sanders, Eric Clapton, Robert Cray, Lou Reed, Jean-Luc Ponty, Santana, Todd Rundgren, Youssou N\'dour, Pere Ubu, Loudon Wainwright III, Mary Margaret O\'Hara, Screamin\' Jay Hawkins, Leonard Cohen, Was, and Curtis Mayfield.' ] } ] }

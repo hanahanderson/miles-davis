@@ -1,0 +1,8 @@
+{ name: 'The Allman Brothers Band',
+  href: 'http://en.wikipedia.org/wiki/The_Allman_Brothers_Band',
+  mentions: 
+   [ { sectionHeader: 'Musical style and influences',
+       sectionSubHeader: 'Later years (1997–2014)',
+       sectionIndex: 51,
+       wordCountBeforeSection: 38738,
+       quote: [ 'While Betts commented that he was interested in artists such as Howard Roberts prior, Jaimoe "really fired us up on it," introducing his bandmates to Miles Davis and John Coltrane.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Grammy Award for Best Original Jazz Composition',
+  href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Original_Jazz_Composition',
+  mentions: 
+   [ { sectionHeader: '1960s',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 361,
+       quote: [ 'Gil Evans & Miles Davis for Sketches of Spain' ] } ] }

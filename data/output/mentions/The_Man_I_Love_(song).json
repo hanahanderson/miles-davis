@@ -1,0 +1,13 @@
+{ name: 'The Man I Love (song)',
+  href: 'http://en.wikipedia.org/wiki/The_Man_I_Love_(song)',
+  mentions: 
+   [ { sectionHeader: 'Recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1882,
+       quote: [ 'Miles Davis, with Thelonious Monk - Miles Davis and The Modern Jazz Giants (1954)' ] },
+     { sectionHeader: 'Recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1882,
+       quote: [ 'Miles Davis and The Modern Jazz Giants' ] } ] }

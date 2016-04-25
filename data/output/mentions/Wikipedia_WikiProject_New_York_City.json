@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:WikiProject New York City',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_New_York_City',
+  mentions: 
+   [ { sectionHeader: 'Recognized content',
+       sectionSubHeader: '',
+       sectionIndex: 81,
+       wordCountBeforeSection: 12089,
+       quote: [ ' Miles Davis' ] },
+     { sectionHeader: 'Recognized content',
+       sectionSubHeader: '',
+       sectionIndex: 101,
+       wordCountBeforeSection: 43083,
+       quote: [ 'Miles Davis (2005-09-28)' ] } ] }

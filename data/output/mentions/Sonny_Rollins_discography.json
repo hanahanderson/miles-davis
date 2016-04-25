@@ -1,0 +1,18 @@
+{ name: 'Sonny Rollins discography',
+  href: 'http://en.wikipedia.org/wiki/Sonny_Rollins_discography',
+  mentions: 
+   [ { sectionHeader: 'Appearances',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2829,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Appearances',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2845,
+       quote: [ 'Miles Davis and Horns' ] },
+     { sectionHeader: 'Appearances',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2845,
+       quote: [] } ] }

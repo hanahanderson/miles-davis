@@ -1,0 +1,8 @@
+{ name: 'Ben Sidran',
+  href: 'http://en.wikipedia.org/wiki/Ben_Sidran',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3410,
+       quote: [ 'The 24 CDs orchestrated by Sidran document the speaking voice of jazz musicians, including Miles Davis, Art Blakey, and others.' ] } ] }

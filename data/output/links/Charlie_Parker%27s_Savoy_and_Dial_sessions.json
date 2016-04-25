@@ -1,0 +1,57 @@
+{ name: 'Charlie Parker\'s Savoy and Dial sessions',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Charlie_Parker%27s_Savoy_and_Dial_sessions',
+  values: 
+   { 'dbo:abstract': [ { value: 'This article lists Charlie Parker\'s Savoy and Dial sessions as leader, which were recorded between 1945 and 1948.Also included is Miles Davis\'s first session as leader in 1947, with Parker on tenor saxophone (Session 7). (en)' } ],
+     'dbo:wikiPageID': [ { value: '31370765 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679679764 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:20th_century_in_Detroit,_Michigan',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_Detroit,_Michigan' },
+        { value: 'dbc:20th_century-related_lists',
+          href: 'http://dbpedia.org/resource/Category:20th_century-related_lists' },
+        { value: 'dbc:1940s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1940s_in_music' },
+        { value: 'dbc:American_music_history',
+          href: 'http://dbpedia.org/resource/Category:American_music_history' },
+        { value: 'dbc:1940s_in_New_York_City',
+          href: 'http://dbpedia.org/resource/Category:1940s_in_New_York_City' },
+        { value: 'dbc:20th_century_in_Los_Angeles,_California',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_Los_Angeles,_California' },
+        { value: 'dbc:Music-related_lists',
+          href: 'http://dbpedia.org/resource/Category:Music-related_lists' },
+        { value: 'dbc:Charlie_Parker',
+          href: 'http://dbpedia.org/resource/Category:Charlie_Parker' } ],
+     'rdfs:comment': [ { value: 'This article lists Charlie Parker\'s Savoy and Dial sessions as leader, which were recorded between 1945 and 1948.Also included is Miles Davis\'s first session as leader in 1947, with Parker on tenor saxophone (Session 7). (en)' } ],
+     'rdfs:label': [ { value: 'Charlie Parker\'s Savoy and Dial sessions (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-it:Charlie Parker\'s Savoy and Dial sessions',
+          href: 'http://it.dbpedia.org/resource/Sessioni_di_registrazione_di_Charlie_Parker_alla_Savoy_e_alla_Dial' },
+        { value: 'dbpedia-wikidata:Charlie Parker\'s Savoy and Dial sessions',
+          href: 'http://wikidata.dbpedia.org/resource/Q3958167' },
+        { value: 'wikidata:Charlie Parker\'s Savoy and Dial sessions',
+          href: 'http://www.wikidata.org/entity/Q3958167' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Charlie_Parker\'s_Savoy_and_Dial_sessions?oldid=679679764',
+          href: 'http://en.wikipedia.org/wiki/Charlie_Parker\'s_Savoy_and_Dial_sessions?oldid=679679764' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Charlie_Parker\'s_Savoy_and_Dial_sessions',
+          href: 'http://en.wikipedia.org/wiki/Charlie_Parker\'s_Savoy_and_Dial_sessions' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Now\'s_the_Time',
+          href: 'http://dbpedia.org/resource/Now\'s_the_Time' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Now\'s_the_Time_(Parker)',
+          href: 'http://dbpedia.org/resource/Now\'s_the_Time_(Parker)' },
+        { value: 'dbr:Now\'s_the_Time_(Charlie_Parker_song)',
+          href: 'http://dbpedia.org/resource/Now\'s_the_Time_(Charlie_Parker_song)' },
+        { value: 'dbr:Charlie_Parker\'s_Savoy_and_Dial_Sessions',
+          href: 'http://dbpedia.org/resource/Charlie_Parker\'s_Savoy_and_Dial_Sessions' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Night_Train_(Oscar_Peterson_album)',
+          href: 'http://dbpedia.org/resource/Night_Train_(Oscar_Peterson_album)' },
+        { value: 'dbr:The_Rise_and_Fall_of_Charlie_Parker',
+          href: 'http://dbpedia.org/resource/The_Rise_and_Fall_of_Charlie_Parker' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Charlie_Parker\'s_Savoy_and_Dial_sessions',
+          href: 'http://en.wikipedia.org/wiki/Charlie_Parker\'s_Savoy_and_Dial_sessions' } ] } }

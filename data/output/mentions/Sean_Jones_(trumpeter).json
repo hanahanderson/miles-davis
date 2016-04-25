@@ -1,0 +1,8 @@
+{ name: 'Sean Jones (trumpeter)',
+  href: 'http://en.wikipedia.org/wiki/Sean_Jones_(trumpeter)',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 996,
+       quote: [ 'Jones developed an interest in jazz music around the same time, after receiving two Miles Davis albums from his band instructor, namely Kind of Blue and Tutu.' ] } ] }

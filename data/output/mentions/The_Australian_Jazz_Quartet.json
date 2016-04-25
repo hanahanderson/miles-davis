@@ -1,0 +1,8 @@
+{ name: 'The Australian Jazz Quartet',
+  href: 'http://en.wikipedia.org/wiki/The_Australian_Jazz_Quartet',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2797,
+       quote: [ 'At many of these clubs the AJQ shared the band stand with well-known groups such as the Dave Brubeck Quartet, Les Brown Orchestra, Johnny Smith Quartet, Bud Shank Quartet, Miles Davis, Pete Jolly Trio, J.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'User:Karatedrummer/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:Karatedrummer/sandbox',
+  mentions: 
+   [ { sectionHeader: 'Table',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 11,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Table',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 11,
+       quote: [ 'Miles Davis' ] } ] }

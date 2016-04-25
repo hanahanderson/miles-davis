@@ -1,0 +1,8 @@
+{ name: 'Igor Stravinsky',
+  href: 'http://en.wikipedia.org/wiki/Igor_Stravinsky',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 122,
+       wordCountBeforeSection: 61946,
+       quote: [ 'Miles Davis (1984)' ] } ] }

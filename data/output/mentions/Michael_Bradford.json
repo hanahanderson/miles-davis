@@ -1,0 +1,8 @@
+{ name: 'Michael Bradford',
+  href: 'http://en.wikipedia.org/wiki/Michael_Bradford',
+  mentions: 
+   [ { sectionHeader: 'New Radicals',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 4996,
+       quote: [ 'Another influence was Paul Buckmaster\'s stories of Miles Davis and the edited nature of his albums.' ] } ] }

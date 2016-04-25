@@ -1,0 +1,8 @@
+{ name: 'Eddie Vinson',
+  href: 'http://en.wikipedia.org/wiki/Eddie_Vinson',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1759,
+       quote: [ 'He also composed steadily, including "Tune Up" and "Four", both of which have been incorrectly attributed to Miles Davis.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Bill Evans discography',
+  href: 'http://en.wikipedia.org/wiki/Bill_Evans_discography',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 10031,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'As sideman',
+       sectionIndex: 76,
+       wordCountBeforeSection: 11467,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Mike Keneally',
+  href: 'http://en.wikipedia.org/wiki/Mike_Keneally',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3165,
+       quote: [ 'He has played guitar and keyboards with Yo Miles!, Wadada Leo Smith, Norwegian legends Ulver and Henry Kaiser\'s Miles Davis tribute band as well as recording the 1995 album The Mistakes with Henry Kaiser, Prairie Prince, and Andy West (formerly of Dixie Drgs).' ] } ] }

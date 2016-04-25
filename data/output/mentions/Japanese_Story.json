@@ -1,0 +1,8 @@
+{ name: 'Japanese Story',
+  href: 'http://en.wikipedia.org/wiki/Japanese_Story',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 7392,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

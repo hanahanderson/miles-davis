@@ -1,0 +1,8 @@
+{ name: 'J.C. Crowley',
+  href: 'http://en.wikipedia.org/wiki/J.C._Crowley',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 5880,
+       quote: [ 'He has said his mélange of musical influences includes Dave Brubeck, Bill Evans, J.S. Bach, George Gershwin, Gil Evans, Joao Gilberto, Aaron Copland, Brian Wilson, Little Richard, Miles Davis, Jimmy Reed, Ray Charles and Claus Ogerman.' ] } ] }

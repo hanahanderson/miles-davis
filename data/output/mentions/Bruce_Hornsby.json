@@ -1,0 +1,8 @@
+{ name: 'Bruce Hornsby',
+  href: 'http://en.wikipedia.org/wiki/Bruce_Hornsby',
+  mentions: 
+   [ { sectionHeader: 'Skaggs & Hornsby/The Bruce Hornsby Trio (2007–present)',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 23185,
+       quote: [ 'Alongside original compositions by Hornsby, the trio delivered "newly reharmonized versions" of tunes by John Coltrane, Miles Davis, Thelonious Monk and Bud Powell, a previously unrecorded Ornette Coleman work ("Questions and Answers") and an early Keith Jarrett composition ("Death and the Flower.") The trio made a series of appearances in the summer of 2007, including the Playboy Jazz Festival, the Newport Jazz Festival and at the Hollywood Bowl.' ] } ] }

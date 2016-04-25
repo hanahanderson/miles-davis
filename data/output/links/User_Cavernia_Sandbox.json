@@ -1,0 +1,4 @@
+{ name: 'User:Cavernia/Sandbox',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Cavernia/Sandbox',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

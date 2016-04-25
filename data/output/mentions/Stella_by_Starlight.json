@@ -1,0 +1,8 @@
+{ name: 'Stella by Starlight',
+  href: 'http://en.wikipedia.org/wiki/Stella_by_Starlight',
+  mentions: 
+   [ { sectionHeader: 'Recording history',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 979,
+       quote: [ 'Other instrumental versions were played by Miles Davis, which first appeared on 1958 Miles, Earl Grant, Joe Pass, Royce Campbell, and Dexter Gordon and vocal versions sung by Billy Eckstine, Dick Haymes, Ray Charles, Anita O\'Day, Helen Reddy, Tony Bennett, Ella Fitzgerald, and many others.' ] } ] }

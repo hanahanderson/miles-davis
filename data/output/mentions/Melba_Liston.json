@@ -1,0 +1,8 @@
+{ name: 'Melba Liston',
+  href: 'http://en.wikipedia.org/wiki/Melba_Liston',
+  mentions: 
+   [ { sectionHeader: 'Composing/Arranging',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 5000,
+       quote: [ 'In many respects, this album and Highlife, three years later, can be seen as comparable works to those of Miles Davis and Gil Evans of roughly the same period, but oriented toward Africa and African musics instead of the European-influenced harmonies and melodies in the Davis/Evans works.' ] } ] }

@@ -1,0 +1,18 @@
+{ name: 'Timeline of progressive rock (1960–69)',
+  href: 'http://en.wikipedia.org/wiki/Timeline_of_progressive_rock_(1960%E2%80%9369)',
+  mentions: 
+   [ { sectionHeader: '1968',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3115,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '1968',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3115,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '1969',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 5948,
+       quote: [ 'Miles Davis' ] } ] }

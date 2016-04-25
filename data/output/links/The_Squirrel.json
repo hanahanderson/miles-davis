@@ -1,0 +1,46 @@
+{ name: 'The Squirrel',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/The_Squirrel',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Squirrel is jazz standard composed by Tadd Dameron. The song has been recorded by several notable artists including Miles Davis who first recorded the song in 1951 (released in 2004 on the CD Birdland 1951). Davis also recorded a studio version of the song which has been released on various compilation albums.Other artist who have recorded The Squirrel include Chet Baker, Ray Barretto, Art Blakey, Kenny Clarke, Dameronia, Lou Donaldson, Lord Jamar, Dexter Gordon, Wardell Gray, Lars Gullin, Scott Hamilton, Hampton Hawes, Jutta Hipp, Andy LaVerne, Fats Navarro, Hod O\'Brien, Charlie Parker, Zoot Sims, and Martial Solal. (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageID': [ { value: '7051713 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682780567 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1951_songs',
+          href: 'http://dbpedia.org/resource/Category:1951_songs' },
+        { value: 'dbc:Jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Jazz_standards' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: 'The Squirrel is jazz standard composed by Tadd Dameron. The song has been recorded by several notable artists including Miles Davis who first recorded the song in 1951 (released in 2004 on the CD Birdland 1951). (en)' } ],
+     'rdfs:label': [ { value: 'The Squirrel (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Squirrel',
+          href: 'http://rdf.freebase.com/ns/m.0_64vlg' },
+        { value: 'dbpedia-wikidata:The Squirrel',
+          href: 'http://wikidata.dbpedia.org/resource/Q7766129' },
+        { value: 'wikidata:The Squirrel',
+          href: 'http://www.wikidata.org/entity/Q7766129' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Squirrel?oldid=682780567',
+          href: 'http://en.wikipedia.org/wiki/The_Squirrel?oldid=682780567' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Squirrel',
+          href: 'http://en.wikipedia.org/wiki/The_Squirrel' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Squirrel_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Squirrel_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Squirrel',
+          href: 'http://en.wikipedia.org/wiki/The_Squirrel' } ] } }

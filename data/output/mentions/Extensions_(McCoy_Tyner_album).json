@@ -1,0 +1,8 @@
+{ name: 'Extensions (McCoy Tyner album)',
+  href: 'http://en.wikipedia.org/wiki/Extensions_(McCoy_Tyner_album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1026,
+       quote: [] } ] }

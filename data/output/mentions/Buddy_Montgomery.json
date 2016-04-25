@@ -1,0 +1,13 @@
+{ name: 'Buddy Montgomery',
+  href: 'http://en.wikipedia.org/wiki/Buddy_Montgomery',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Wes Montgomery, Slide Hampton, Big Joe Turner, Miles Davis' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1103,
+       quote: [ 'He played briefly with Miles Davis in 1960.' ] } ] }

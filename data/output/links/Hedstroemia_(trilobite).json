@@ -1,0 +1,95 @@
+{ name: 'Hedstroemia (trilobite)',
+  entityType: 'species',
+  href: 'http://dbpedia.org/page/Hedstroemia_(trilobite)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Hedstroemia  is a genus of trilobites in the order Proetida known from the Silurian period of Europe, Asia, and North America. (en)' } ],
+     'dbo:class': 
+      [ { value: 'dbr:Trilobite',
+          href: 'http://dbpedia.org/resource/Trilobite' } ],
+     'dbo:family': 
+      [ { value: 'dbr:Proetidae',
+          href: 'http://dbpedia.org/resource/Proetidae' } ],
+     'dbo:kingdom': 
+      [ { value: 'dbr:Animal',
+          href: 'http://dbpedia.org/resource/Animal' } ],
+     'dbo:order': 
+      [ { value: 'dbr:Proetida',
+          href: 'http://dbpedia.org/resource/Proetida' } ],
+     'dbo:phylum': 
+      [ { value: 'dbr:Arthropod',
+          href: 'http://dbpedia.org/resource/Arthropod' } ],
+     'dbo:synonym': 
+      [ { value: 'Milesdavis (Lieberman, 1994)' },
+        { value: 'Pachyproetus (Lutke, 1990)' } ],
+     'dbo:wikiPageID': [ { value: '44810940 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675444268 (xsd:integer)' } ],
+     'dbp:classis': 
+      [ { value: 'dbr:Trilobite',
+          href: 'http://dbpedia.org/resource/Trilobite' } ],
+     'dbp:familia': 
+      [ { value: 'dbr:Proetidae',
+          href: 'http://dbpedia.org/resource/Proetidae' } ],
+     'dbp:genus': [ { value: 'Hedstroemia (en)' } ],
+     'dbp:genusAuthority': [ { value: 'Pribyl and Vanek, 1978 (en)' } ],
+     'dbp:name': [ { value: 'Hedstroemia (en)' } ],
+     'dbp:ordo': 
+      [ { value: 'dbr:Proetida',
+          href: 'http://dbpedia.org/resource/Proetida' } ],
+     'dbp:phylum': [ { value: 'Arthropoda (en)' } ],
+     'dbp:regnum': [ { value: 'Animalia (en)' } ],
+     'dbp:subdivisionRanks': 
+      [ { value: 'dbr:Species',
+          href: 'http://dbpedia.org/resource/Species' } ],
+     'dbp:synonyms': [ { value: 'Milesdavis (Lieberman, 1994)\nPachyproetus (Lutke, 1990) (en)' } ],
+     'dbp:typeSpecies': [ { value: 'Proetus delicatus (en)' } ],
+     'dbp:typeSpeciesAuthority': [ { value: 'Hedström, 1923 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Fossil_taxa_described_in_1978',
+          href: 'http://dbpedia.org/resource/Category:Fossil_taxa_described_in_1978' },
+        { value: 'dbc:Silurian_trilobites',
+          href: 'http://dbpedia.org/resource/Category:Silurian_trilobites' },
+        { value: 'dbc:Proetida',
+          href: 'http://dbpedia.org/resource/Category:Proetida' },
+        { value: 'dbc:Fossil_taxa_of_Europe',
+          href: 'http://dbpedia.org/resource/Category:Fossil_taxa_of_Europe' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q19088',
+          href: 'http://www.wikidata.org/entity/Q19088' },
+        { value: 'wikidata:Q729',
+          href: 'http://www.wikidata.org/entity/Q729' },
+        { value: 'dbo:Animal',
+          href: 'http://dbpedia.org/ontology/Animal' },
+        { value: 'dbo:Eukaryote',
+          href: 'http://dbpedia.org/ontology/Eukaryote' },
+        { value: 'dbo:Species',
+          href: 'http://dbpedia.org/ontology/Species' } ],
+     'rdfs:comment': [ { value: 'Hedstroemia  is a genus of trilobites in the order Proetida known from the Silurian period of Europe, Asia, and North America. (en)' } ],
+     'rdfs:label': [ { value: 'Hedstroemia (trilobite) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Hedstroemia (trilobite)',
+          href: 'http://rdf.freebase.com/ns/m.012hr4zt' },
+        { value: 'wikidata:Hedstroemia (trilobite)',
+          href: 'http://www.wikidata.org/entity/Q20720435' },
+        { value: 'dbpedia-wikidata:Hedstroemia (trilobite)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20720435' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Hedstroemia_(trilobite)?oldid=675444268',
+          href: 'http://en.wikipedia.org/wiki/Hedstroemia_(trilobite)?oldid=675444268' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Hedstroemia_(trilobite)',
+          href: 'http://en.wikipedia.org/wiki/Hedstroemia_(trilobite)' } ],
+     'foaf:name': [ { value: 'Hedstroemia (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Milesdavis_(genus)',
+          href: 'http://dbpedia.org/resource/Milesdavis_(genus)' },
+        { value: 'dbr:Milesdavis_(trilobite)',
+          href: 'http://dbpedia.org/resource/Milesdavis_(trilobite)' },
+        { value: 'dbr:Milesdavis_eldredgei',
+          href: 'http://dbpedia.org/resource/Milesdavis_eldredgei' },
+        { value: 'dbr:Pachyproetus',
+          href: 'http://dbpedia.org/resource/Pachyproetus' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Hedstroemia_(trilobite)',
+          href: 'http://en.wikipedia.org/wiki/Hedstroemia_(trilobite)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Neal Hefti',
+  href: 'http://en.wikipedia.org/wiki/Neal_Hefti',
+  mentions: 
+   [ { sectionHeader: 'The Basie years',
+       sectionSubHeader: '',
+       sectionIndex: 41,
+       wordCountBeforeSection: 12648,
+       quote: [ 'In a 1955 interview, Miles Davis said "if it weren\'t for Neal Hefti, the Basie band wouldn\'t sound as good as it does.' ] } ] }

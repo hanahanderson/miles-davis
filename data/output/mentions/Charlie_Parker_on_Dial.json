@@ -1,0 +1,13 @@
+{ name: 'Charlie Parker on Dial',
+  href: 'http://en.wikipedia.org/wiki/Charlie_Parker_on_Dial',
+  mentions: 
+   [ { sectionHeader: 'Eight-volume vinyl set',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 6995,
+       quote: [ 'In another, described by Yanow as "superior", Parker and Miles Davis on trumpet lead a West Coast septet through several Parker standards, with variant takes.' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 52,
+       wordCountBeforeSection: 9960,
+       quote: [ 'Miles Davis – trumpet' ] } ] }

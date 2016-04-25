@@ -1,0 +1,8 @@
+{ name: 'Eon (album)',
+  href: 'http://en.wikipedia.org/wiki/Eon_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 675,
+       quote: [ '"Nardis" (Miles Davis) - 11:56' ] } ] }

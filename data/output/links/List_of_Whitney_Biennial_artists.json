@@ -1,0 +1,51 @@
+{ name: 'List of Whitney Biennial artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Whitney_Biennial_artists',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is an incomplete list of Whitney Biennial artists selected for the Whitney Biennial exhibitions of contemporary American art, at the Whitney Museum of American Art in New York City, USA. The event began as an annual exhibition in 1932, the first biennial was in 1973. The Whitney show is generally regarded as one of the leading shows in the art world, often setting or leading trends in contemporary art. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://archive.org/stream/1967annualwhit/1967annualwhit_djvu.txt',
+          href: 'http://archive.org/stream/1967annualwhit/1967annualwhit_djvu.txt' },
+        { value: 'http://archive.org/stream/1969annualwhit/1969annualwhit_djvu.txt',
+          href: 'http://archive.org/stream/1969annualwhit/1969annualwhit_djvu.txt' },
+        { value: 'http://archive.org/stream/1973biennialexhi/1973biennialexhi_djvu.txt',
+          href: 'http://archive.org/stream/1973biennialexhi/1973biennialexhi_djvu.txt' } ],
+     'dbo:wikiPageID': [ { value: '27632941 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677985084 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Art_awards',
+          href: 'http://dbpedia.org/resource/Category:Art_awards' },
+        { value: 'dbc:Awards_established_in_1932',
+          href: 'http://dbpedia.org/resource/Category:Awards_established_in_1932' } ],
+     'rdfs:comment': [ { value: 'This is an incomplete list of Whitney Biennial artists selected for the Whitney Biennial exhibitions of contemporary American art, at the Whitney Museum of American Art in New York City, USA. The event began as an annual exhibition in 1932, the first biennial was in 1973. The Whitney show is generally regarded as one of the leading shows in the art world, often setting or leading trends in contemporary art. (en)' } ],
+     'rdfs:label': [ { value: 'List of Whitney Biennial artists (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Whitney Biennial artists',
+          href: 'http://wikidata.dbpedia.org/resource/Q16249293' },
+        { value: 'wikidata:List of Whitney Biennial artists',
+          href: 'http://www.wikidata.org/entity/Q16249293' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Whitney_Biennial_artists?oldid=677985084',
+          href: 'http://en.wikipedia.org/wiki/List_of_Whitney_Biennial_artists?oldid=677985084' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Whitney_Biennial_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Whitney_Biennial_artists' } ],
+     'is dbo:field\n of': 
+      [ { value: 'dbr:Kerry_Tribe',
+          href: 'http://dbpedia.org/resource/Kerry_Tribe' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_recent_Whitney_Biennial_artists',
+          href: 'http://dbpedia.org/resource/List_of_recent_Whitney_Biennial_artists' },
+        { value: 'dbr:List_of_recent_Whitney_Biennial_Artists',
+          href: 'http://dbpedia.org/resource/List_of_recent_Whitney_Biennial_Artists' },
+        { value: 'dbr:List_of_Whitney_Biennial_Artists',
+          href: 'http://dbpedia.org/resource/List_of_Whitney_Biennial_Artists' } ],
+     'is dbp:field\n of': 
+      [ { value: 'dbr:Kerry_Tribe',
+          href: 'http://dbpedia.org/resource/Kerry_Tribe' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Whitney_Biennial',
+          href: 'http://dbpedia.org/resource/Whitney_Biennial' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Whitney_Biennial_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Whitney_Biennial_artists' } ] } }

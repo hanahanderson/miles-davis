@@ -1,0 +1,8 @@
+{ name: 'Together We\'re Stranger',
+  href: 'http://en.wikipedia.org/wiki/Together_We%27re_Stranger',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 635,
+       quote: [ 'Atmospheric and ambitious, this aspect of the album in some way recalls the more Ambient elements of Pink Floyd, Brian Eno and Miles Davis and the later experiments of Mark Hollis/Talk Talk.' ] } ] }

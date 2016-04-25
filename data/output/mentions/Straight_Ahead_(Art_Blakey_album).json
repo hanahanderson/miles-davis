@@ -1,0 +1,8 @@
+{ name: 'Straight Ahead (Art Blakey album)',
+  href: 'http://en.wikipedia.org/wiki/Straight_Ahead_(Art_Blakey_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 956,
+       quote: [ '"The Theme" (Miles Davis) - 2:56' ] } ] }

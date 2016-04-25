@@ -1,0 +1,10 @@
+{ name: 'Industrial music',
+  href: 'http://en.wikipedia.org/wiki/Industrial_music',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4177,
+       quote: 
+        [ 'Z\'EV cited Christopher Tree (Spontaneous Sound), John Coltrane, Miles Davis, Tim Buckley, Jimi Hendrix, and Captain Beefheart, among others together with Tibetan, Balinese, Javanese, Indian, and African music as influential in his artistic life.',
+          'Nurse with Wound cited a long list of obscure free improvisation and Krautrock as recommended listening. 23 Skidoo borrowed from Fela Kuti and Miles Davis\'s On the Corner.' ] } ] }

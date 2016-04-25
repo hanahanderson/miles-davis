@@ -1,0 +1,8 @@
+{ name: 'Crawford Grill',
+  href: 'http://en.wikipedia.org/wiki/Crawford_Grill',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 415,
+       quote: [ 'During its heyday in the 1950s and 60s, the second Crawford Grill venue hosted local and nationally-recognized acts, including jazz legends Art Blakey, Charles Mingus, Max Roach, Miles Davis, John Coltrane, Bill Evans, and Kenny Burrell.' ] } ] }

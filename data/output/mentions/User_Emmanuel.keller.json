@@ -1,0 +1,8 @@
+{ name: 'User:Emmanuel.keller',
+  href: 'http://en.wikipedia.org/wiki/User:Emmanuel.keller',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'My list of favorite artists is huge, I give an extract: Alain Caron, Marcus Miller, Chick Corea, Miles Davis, Bill Evans, Michel Petrucciani, ...' ] } ] }

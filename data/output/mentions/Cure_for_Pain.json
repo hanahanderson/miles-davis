@@ -1,0 +1,8 @@
+{ name: 'Cure for Pain',
+  href: 'http://en.wikipedia.org/wiki/Cure_for_Pain',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1112,
+       quote: [ '"Miles Davis\' Funeral" - 1:41' ] } ] }

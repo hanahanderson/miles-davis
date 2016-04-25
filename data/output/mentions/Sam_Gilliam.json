@@ -1,0 +1,8 @@
+{ name: 'Sam Gilliam',
+  href: 'http://en.wikipedia.org/wiki/Sam_Gilliam',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4128,
+       quote: [ 'In 1975, Gilliam veered away from the draped canvases and became influenced by jazz musicians such as Miles Davis and John Coltrane.' ] } ] }

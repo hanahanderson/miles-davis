@@ -1,0 +1,67 @@
+{ name: 'Creation (John Coltrane album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Creation_(John_Coltrane_album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Creation is a 1965 album by jazz musician John Coltrane. The 1965 tracks - "Impressions" and "Creation" - were recorded at the Half Note Cafe, New York. "Alabama" was recorded in San Francisco a year before."Creation" may be incorrectly titled - the title was drawn from a bootleg album.  This is the only known recording of the tune.  An abbreviated version of the same performance has appeared on several compilation albums (e.g. "Kind Of Coltrane"). (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:recordDate': 
+      [ { value: '1964-02-23 (xsd:date)' },
+        { value: '1965-04-02 (xsd:date)' } ],
+     'dbo:wikiPageID': [ { value: '11682219 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '621377349 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:cover': [ { value: 'Creation .jpeg (en)' } ],
+     'dbp:label': [ { value: 'Blue Parrot (en)' } ],
+     'dbp:name': [ { value: 'Creation (en)' } ],
+     'dbp:recorded': [ { value: '--02-23' } ],
+     'dbp:released': [ { value: '1965 (xsd:integer)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1965_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1965_live_albums' },
+        { value: 'dbc:John_Coltrane_live_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Coltrane_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Creation is a 1965 album by jazz musician John Coltrane. The 1965 tracks - "Impressions" and "Creation" - were recorded at the Half Note Cafe, New York. "Alabama" was recorded in San Francisco a year before."Creation" may be incorrectly titled - the title was drawn from a bootleg album.  This is the only known recording of the tune.  An abbreviated version of the same performance has appeared on several compilation albums (e.g. "Kind Of Coltrane"). (en)' } ],
+     'rdfs:label': [ { value: 'Creation (John Coltrane album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Creation (John Coltrane album)',
+          href: 'http://rdf.freebase.com/ns/m.011pz9wz' },
+        { value: 'dbpedia-wikidata:Creation (John Coltrane album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5183451' },
+        { value: 'wikidata:Creation (John Coltrane album)',
+          href: 'http://www.wikidata.org/entity/Q5183451' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Creation_(John_Coltrane_album)?oldid=621377349',
+          href: 'http://en.wikipedia.org/wiki/Creation_(John_Coltrane_album)?oldid=621377349' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Creation_(John_Coltrane_album)',
+          href: 'http://en.wikipedia.org/wiki/Creation_(John_Coltrane_album)' } ],
+     'foaf:name': [ { value: 'Creation (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Creation',
+          href: 'http://dbpedia.org/resource/Creation' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Creation_(John_Coltrane_album)',
+          href: 'http://en.wikipedia.org/wiki/Creation_(John_Coltrane_album)' } ] } }

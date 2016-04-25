@@ -1,0 +1,8 @@
+{ name: 'Eat the Phikis',
+  href: 'http://en.wikipedia.org/wiki/Eat_the_Phikis',
+  mentions: 
+   [ { sectionHeader: 'Allusions',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2103,
+       quote: [ '"Li immortacci" is sung with Italian singers Giorgia and Edoardo Vianello (who sings on the notes of his own past hit I Watussi) and talks about famous dead rock stars living secretly in a quasi-immortal state ("mortacci" is a mild-to-folkloric roman swear roughly meaning "your damned dead"). "Li immortacci" are Jimi Hendrix ("er Chitara"), Freddie Mercury ("er Mafrodito"), Bob Marley ("er Rastamanno"), Federico Monti Arduini ("er Guardiano der Faro"), Elvis Presley ("er Pelvicaro"), Michael Jackson ("er Thrilleraro"), Jim Morrison ("er Lucertolaro"), John Lennon ("er Quattrocchi Immaginaro"), Luigi Tenco ("er Vedraro"), Ian Curtis ("l\'Impiccato"), Kurt Cobain ("er Fucilense"), and Brian Jones ("er Piscina"); the identity of "er Tromba" ("the Trumpet", translated from roman dialect) is uncertain (probable names are Louis Armstrong, Miles Davis or Chet Baker).' ] } ] }

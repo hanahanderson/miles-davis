@@ -1,0 +1,8 @@
+{ name: 'Al Jarreau',
+  href: 'http://en.wikipedia.org/wiki/Al_Jarreau',
+  mentions: 
+   [ { sectionHeader: 'Going full-time',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 5857,
+       quote: [ 'He has toured and performed with numerous musicians, including Joe Sample, Chick Corea, Kathleen Battle, Miles Davis, David Sanborn, Rick Braun, and George Benson.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Sviatoslav Richter',
+  href: 'http://en.wikipedia.org/wiki/Sviatoslav_Richter',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Memorable statements by Richter',
+       sectionIndex: 93,
+       wordCountBeforeSection: 32367,
+       quote: [ 'Miles Davis (1984)' ] } ] }

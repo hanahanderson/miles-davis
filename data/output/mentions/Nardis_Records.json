@@ -1,0 +1,8 @@
+{ name: 'Nardis Records',
+  href: 'http://en.wikipedia.org/wiki/Nardis_Records',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 186,
+       quote: [ 'The Nardis Music logo is "Man in Balance", a sketch drawn by Miles Davis and given to Ben Sidran in 1986.' ] } ] }

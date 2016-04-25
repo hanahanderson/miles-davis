@@ -1,0 +1,91 @@
+{ name: 'Back and Forth (Cameo song)',
+  entityType: 'single',
+  href: 'http://dbpedia.org/page/Back_and_Forth_(Cameo_song)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Back and Forth" is a 1987 single by Cameo. The single was the third release from Cameo\'s, Word Up! album and became the group\'s twelfth top 10 soul single peaking at number three for two weeks and peaked at number fifty on the pop charts making it their fourth entry on the Hot 100. The single was released on February 24, 1987. "Back and Forth" was also the group\'s third top ten on the dance chart, peaking at number six. Legendary jazz musician Miles Davis makes a cameo in the song\'s music video. (en)' } ],
+     'dbo:album': 
+      [ { value: 'dbr:Word_Up!_(album)',
+          href: 'http://dbpedia.org/resource/Word_Up!_(album)' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Dance-pop',
+          href: 'http://dbpedia.org/resource/Dance-pop' } ],
+     'dbo:musicalArtist': 
+      [ { value: 'dbr:Cameo_(band)',
+          href: 'http://dbpedia.org/resource/Cameo_(band)' } ],
+     'dbo:musicalBand': 
+      [ { value: 'dbr:Cameo_(band)',
+          href: 'http://dbpedia.org/resource/Cameo_(band)' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Candy_(Cameo_song)',
+          href: 'http://dbpedia.org/resource/Candy_(Cameo_song)' } ],
+     'dbo:releaseDate': [ { value: '1987-02-24 (xsd:date)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.youtube.com/watch?v=A2eU2CG3WN8',
+          href: 'http://www.youtube.com/watch?v=A2eU2CG3WN8' } ],
+     'dbo:wikiPageID': [ { value: '24534122 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '648521887 (xsd:integer)' } ],
+     'dbp:album': 
+      [ { value: 'dbr:Word_Up!_(album)',
+          href: 'http://dbpedia.org/resource/Word_Up!_(album)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Cameo_(band)',
+          href: 'http://dbpedia.org/resource/Cameo_(band)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Dance-pop',
+          href: 'http://dbpedia.org/resource/Dance-pop' } ],
+     'dbp:lastSingle': [ { value: '"Candy" (en)' } ],
+     'dbp:name': [ { value: 'Back and Forth (en)' } ],
+     'dbp:nextSingle': [ { value: '"She\'s Mine" (en)' } ],
+     'dbp:released': [ { value: '1987-02-24 (xsd:date)' } ],
+     'dbp:thisSingle': [ { value: '"Back and Forth" (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1986_songs',
+          href: 'http://dbpedia.org/resource/Category:1986_songs' },
+        { value: 'dbc:1987_singles',
+          href: 'http://dbpedia.org/resource/Category:1987_singles' },
+        { value: 'dbc:Cameo_(band)_songs',
+          href: 'http://dbpedia.org/resource/Category:Cameo_(band)_songs' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q134556',
+          href: 'http://www.wikidata.org/entity/Q134556' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Single',
+          href: 'http://dbpedia.org/ontology/Single' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: '"Back and Forth" is a 1987 single by Cameo. The single was the third release from Cameo\'s, Word Up! album and became the group\'s twelfth top 10 soul single peaking at number three for two weeks and peaked at number fifty on the pop charts making it their fourth entry on the Hot 100. The single was released on February 24, 1987. "Back and Forth" was also the group\'s third top ten on the dance chart, peaking at number six. (en)' } ],
+     'rdfs:label': [ { value: 'Back and Forth (Cameo song) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Back and Forth (Cameo song)',
+          href: 'http://rdf.freebase.com/ns/m.0wht_v7' },
+        { value: 'dbpedia-wikidata:Back and Forth (Cameo song)',
+          href: 'http://wikidata.dbpedia.org/resource/Q4839201' },
+        { value: 'wikidata:Back and Forth (Cameo song)',
+          href: 'http://www.wikidata.org/entity/Q4839201' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Back_and_Forth_(Cameo_song)?oldid=648521887',
+          href: 'http://en.wikipedia.org/wiki/Back_and_Forth_(Cameo_song)?oldid=648521887' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Back_and_Forth_(Cameo_song)',
+          href: 'http://en.wikipedia.org/wiki/Back_and_Forth_(Cameo_song)' } ],
+     'foaf:name': [ { value: 'Back and Forth (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Candy_(Cameo_song)',
+          href: 'http://dbpedia.org/resource/Candy_(Cameo_song)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Back_and_Forth',
+          href: 'http://dbpedia.org/resource/Back_and_Forth' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Word_Up!_(album)',
+          href: 'http://dbpedia.org/resource/Word_Up!_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Back_and_Forth_(Cameo_song)',
+          href: 'http://en.wikipedia.org/wiki/Back_and_Forth_(Cameo_song)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'David Bradish',
+  href: 'http://en.wikipedia.org/wiki/David_Bradish',
+  mentions: 
+   [ { sectionHeader: 'Productive as ever',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 23281,
+       quote: [ 'David had been listening to the Miles Davis\'s Kind of Blue album since he was a kid of 14.' ] } ] }

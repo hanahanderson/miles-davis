@@ -1,0 +1,8 @@
+{ name: 'Sava Centar',
+  href: 'http://en.wikipedia.org/wiki/Sava_Centar',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2616,
+       quote: [ 'Sava Centar has hosted Plácido Domingo, Montserrat Caballé, Miles Davis, Ray Charles, Jerry Lee Lewis, Nina Simone, Julio Iglesias, Henryk Szeryng, Jeff Beck, Buddy Guy, Suzanne Vega, Nigel Kennedy, B.B. King, Lou Reed, Jethro Tull, Sting, Zubin Mehta, David Byrne, Simple Minds, Gotan Project, Madredeus, Vladimir Ashkenazy, Johan Strauss Orchestra, Moscow Philharmonic Orchestra, and Okazu Philharmonic Orchestra.' ] } ] }

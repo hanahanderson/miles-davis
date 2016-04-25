@@ -1,0 +1,8 @@
+{ name: 'Chris McNulty',
+  href: 'http://en.wikipedia.org/wiki/Chris_McNulty',
+  mentions: 
+   [ { sectionHeader: 'Early notoriety in the US',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3727,
+       quote: [ 'McNulty\'s original vocalisations, thereon, for Miles Davis\'s "Blue in Green" became the songs official, published lyric (Warner Chapell, 1990).' ] } ] }

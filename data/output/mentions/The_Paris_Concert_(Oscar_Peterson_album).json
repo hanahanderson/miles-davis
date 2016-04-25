@@ -1,0 +1,8 @@
+{ name: 'The Paris Concert (Oscar Peterson album)',
+  href: 'http://en.wikipedia.org/wiki/The_Paris_Concert_(Oscar_Peterson_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1141,
+       quote: [ '"Donna Lee" (Miles Davis) – 2:45' ] } ] }

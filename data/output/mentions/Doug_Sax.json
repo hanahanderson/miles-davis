@@ -1,0 +1,13 @@
+{ name: 'Doug Sax',
+  href: 'http://en.wikipedia.org/wiki/Doug_Sax',
+  mentions: 
+   [ { sectionHeader: 'Selected works',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 4028,
+       quote: [ '1986 Tutu - Miles Davis' ] },
+     { sectionHeader: 'Selected works',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 4028,
+       quote: [ '1989 Amandla - Miles Davis' ] } ] }

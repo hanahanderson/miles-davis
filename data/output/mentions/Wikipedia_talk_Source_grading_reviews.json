@@ -1,0 +1,13 @@
+{ name: 'Wikipedia talk:Source grading/reviews',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Source_grading/reviews',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 475,
+       quote: [ '1.3 Miles Davis -- artist' ] },
+     { sectionHeader: 'John Reid',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2610,
+       quote: [ 'Miles Davis -- artist' ] } ] }

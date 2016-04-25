@@ -1,0 +1,13 @@
+{ name: 'JuJu (album)',
+  href: 'http://en.wikipedia.org/wiki/JuJu_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 810,
+       quote: [ 'By Shorter\'s next album, Speak No Evil, recorded later in 1964, the leader\'s phrases became briefer, softer, and more rounded, under the influence of Sonny Rollins and Miles Davis, his employer at the time, and Tyner was replaced by Shorter\'s Davis bandmate, Herbie Hancock.' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 3771,
+       quote: [ 'Miles Davis Quintet' ] } ] }

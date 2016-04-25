@@ -1,0 +1,4 @@
+{ name: 'Générique',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/ex.php?title=G%C3%A9n%C3%A9rique&redirect=no',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

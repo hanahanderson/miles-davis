@@ -1,0 +1,8 @@
+{ name: 'User:Wdpharris/Books/MusicBook',
+  href: 'http://en.wikipedia.org/wiki/User:Wdpharris/Books/MusicBook',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

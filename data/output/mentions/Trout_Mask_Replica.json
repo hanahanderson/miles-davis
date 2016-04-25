@@ -1,0 +1,8 @@
+{ name: 'Trout Mask Replica',
+  href: 'http://en.wikipedia.org/wiki/Trout_Mask_Replica',
+  mentions: 
+   [ { sectionHeader: 'Composition and production',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 8549,
+       quote: [ 'Others were more contemporary, such as the quote "come out to show dem " from Steve Reich\'s "Come Out" used in "Moonlight on Vermont", or a melodic fragment from the Miles Davis recording of Concierto de Aranjuez used as the basis for the bridge of "Sugar \'n Spikes".' ] } ] }

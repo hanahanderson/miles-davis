@@ -1,0 +1,8 @@
+{ name: 'Mark-Anthony Turnage',
+  href: 'http://en.wikipedia.org/wiki/Mark-Anthony_Turnage',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 281,
+       quote: [ 'He also has been strongly influenced by jazz, in particular by the work of Miles Davis, and has composed works featuring jazz performers including John Scofield, Peter Erskine and Joe Lovano.' ] } ] }

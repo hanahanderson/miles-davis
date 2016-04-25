@@ -1,0 +1,48 @@
+{ name: 'Grammy Award for Best Historical Album',
+  entityType: 'Group100031264',
+  href: 'http://dbpedia.org/page/Grammy_Award_for_Best_Historical_Album',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Grammy Award for Best Historical Album has been presented since 1979.  During this time the award had several minor name changes:In 1979 the award was known as Best Historical Repackage AlbumIn 1980 it was awarded as Best Historical ReissueIn 1981 it was awarded as Best Historical Reissue AlbumFrom 1982 to the present it has been awarded as Best Historical AlbumYears reflect the year in which the Grammy Awards were presented, for works released in the previous year. The award is presented to individuals responsible for compiling and engineering the winning album. The roles of these individuals have changed over time:From 1979 to 1993 the award was given to the Producer(s) From 1994 to 1995 it was awarded to the Compilation Producer(s)In 1996 it was awarded to the Art Director, Compilation Producer, Mastering Engineers, and Album Notes WritersFrom 1997 to the present it has been awarded to the Compilation Producer(s) and Mastering Engineer(s)The Grammy Award for Best Historical Album does not go to the artists or performers, unless an artist is also a compilation producer or mastering engineer. (en)' } ],
+     'dbo:wikiPageID': [ { value: '482461 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '676882428 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Grammy_Award_categories',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Award_categories' },
+        { value: 'dbc:Grammy_Award_for_Best_Historical_Album',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Award_for_Best_Historical_Album' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Class107997703',
+          href: 'http://dbpedia.org/class/yago/Class107997703' },
+        { value: 'yago:Collection107951464',
+          href: 'http://dbpedia.org/class/yago/Collection107951464' },
+        { value: 'yago:Group100031264',
+          href: 'http://dbpedia.org/class/yago/Group100031264' },
+        { value: 'yago:GrammyAwardCategories',
+          href: 'http://dbpedia.org/class/yago/GrammyAwardCategories' } ],
+     'rdfs:comment': [ { value: 'The Grammy Award for Best Historical Album has been presented since 1979.  During this time the award had several minor name changes:In 1979 the award was known as Best Historical Repackage AlbumIn 1980 it was awarded as Best Historical ReissueIn 1981 it was awarded as Best Historical Reissue AlbumFrom 1982 to the present it has been awarded as Best Historical AlbumYears reflect the year in which the Grammy Awards were presented, for works released in the previous year. (en)' } ],
+     'rdfs:label': [ { value: 'Grammy Award for Best Historical Album (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Grammy Award for Best Historical Album',
+          href: 'http://rdf.freebase.com/ns/m.02fv3t' },
+        { value: 'dbpedia-es:Grammy Award for Best Historical Album',
+          href: 'http://es.dbpedia.org/resource/Anexo:Premio_Grammy_al_mejor_álbum_histórico' },
+        { value: 'dbpedia-wikidata:Grammy Award for Best Historical Album',
+          href: 'http://wikidata.dbpedia.org/resource/Q5593813' },
+        { value: 'wikidata:Grammy Award for Best Historical Album',
+          href: 'http://www.wikidata.org/entity/Q5593813' },
+        { value: 'yago-res:Grammy Award for Best Historical Album',
+          href: 'http://yago-knowledge.org/resource/Grammy_Award_for_Best_Historical_Album' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Historical_Album?oldid=676882428',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Historical_Album?oldid=676882428' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Historical_Album',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Historical_Album' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Best_Historical_Album',
+          href: 'http://dbpedia.org/resource/Best_Historical_Album' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Historical_Album',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Historical_Album' } ] } }

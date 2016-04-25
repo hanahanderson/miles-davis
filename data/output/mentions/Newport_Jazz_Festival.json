@@ -1,0 +1,15 @@
+{ name: 'Newport Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Newport_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Notable performances and recordings',
+       sectionSubHeader: '',
+       sectionIndex: 37,
+       wordCountBeforeSection: 12119,
+       quote: 
+        [ 'Two of the most famous performances in the festival\'s history are Miles Davis\'s 1955 solo on "\'Round Midnight" and the Duke Ellington Orchestra\'s lengthy 1956 performance of "Diminuendo and Crescendo in Blue", featuring a 27-chorus saxophone solo by Paul Gonsalves.',
+          'Eventually, Columbia Records released an album displaying more of the Miles Davis Sextet\'s 1958 set on an album called Miles & Coltrane.' ] },
+     { sectionHeader: 'Notable performances and recordings',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 13866,
+       quote: [ 'Sets by Dave Brubeck, Ray Charles, and Miles Davis at that year\'s festival appeared respectively on the albums Newport 1958, Ray Charles at Newport, and At Newport 1958.' ] } ] }

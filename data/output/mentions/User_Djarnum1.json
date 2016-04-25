@@ -1,0 +1,8 @@
+{ name: 'User:Djarnum1',
+  href: 'http://en.wikipedia.org/wiki/User:Djarnum1',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

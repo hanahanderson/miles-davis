@@ -1,0 +1,8 @@
+{ name: 'Talk:Radiohead/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:Radiohead/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'Compare to?',
+       sectionSubHeader: 'Similar bands',
+       sectionIndex: 90,
+       wordCountBeforeSection: 22141,
+       quote: [ 'Later albums resemble German art-rock band Can, the avant-garde electronic group Kraftwerk, electronic artists such as Autechre and Aphex Twin, and jazz pioneers such as Charles Mingus and Miles Davis.' ] } ] }

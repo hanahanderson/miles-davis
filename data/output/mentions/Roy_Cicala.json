@@ -1,0 +1,8 @@
+{ name: 'Roy Cicala',
+  href: 'http://en.wikipedia.org/wiki/Roy_Cicala',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 333,
+       quote: [ 'Since his 1968 start at Record Plant Studios in New York, he recorded and produced some of the greatest artists of modern music, including John Lennon, Aretha Franklin, Four Seasons, Madonna, Elvis Presley, Elton John, Bruce Springsteen, Sting, Frank Sinatra, Dire Straits, Jimi Hendrix, David Bowie, Harry Nilsson, Miles Davis, Chick Corea, Ray Charles, Queen, Aerosmith, Bon Jovi, Liza Minnelli, Roberta Flack, Patti La Belle, Van Morrison, Don McLean, The Who, Johnny Winter, Crosby, Stills, Nash and Young, Frank Zappa, Lou Reed, Prince, Santana, Sarah Vaughan, Charles Mingus and many others.' ] } ] }

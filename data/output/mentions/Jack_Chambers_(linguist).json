@@ -1,0 +1,8 @@
+{ name: 'Jack Chambers (linguist)',
+  href: 'http://en.wikipedia.org/wiki/Jack_Chambers_(linguist)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 782,
+       quote: [ 'Chambers has also written extensively on jazz, including such figures as Miles Davis and Duke Ellington.' ] } ] }

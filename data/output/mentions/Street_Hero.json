@@ -1,0 +1,8 @@
+{ name: 'Street Hero',
+  href: 'http://en.wikipedia.org/wiki/Street_Hero',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 4662,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

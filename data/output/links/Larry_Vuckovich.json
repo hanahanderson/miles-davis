@@ -1,0 +1,4 @@
+{ name: 'Larry Vuckovich',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Larry_Vuckovich',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Harrison Ridley Jr.',
+  href: 'http://en.wikipedia.org/wiki/Harrison_Ridley_Jr.',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 317,
+       quote: [ 'Often he would focus on a specific period in an artist\'s career, such as early (1920s-1940s) Duke Ellington or Miles Davis recordings from the 1960s.' ] } ] }

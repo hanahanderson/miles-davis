@@ -1,0 +1,38 @@
+{ name: 'List of 2007 albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_2007_albums',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a list of albums that were released during 2007. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://lcn.canoe.com/lcn/artsetspectacles/general/archives/2007/08/20070829-205108.html',
+          href: 'http://lcn.canoe.com/lcn/artsetspectacles/general/archives/2007/08/20070829-205108.html' } ],
+     'dbo:wikiPageID': [ { value: '14919682 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683195918 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_albums_by_release_date',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_albums_by_release_date' },
+        { value: 'dbc:2007_albums',
+          href: 'http://dbpedia.org/resource/Category:2007_albums' } ],
+     'rdfs:comment': [ { value: 'The following is a list of albums that were released during 2007. (en)' } ],
+     'rdfs:label': [ { value: 'List of 2007 albums (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-el:List of 2007 albums',
+          href: 'http://el.dbpedia.org/resource/Κυκλοφορίες_Μουσικών_Άλμπουμ_2007' },
+        { value: 'dbpedia-wikidata:List of 2007 albums',
+          href: 'http://wikidata.dbpedia.org/resource/Q6605532' },
+        { value: 'wikidata:List of 2007 albums',
+          href: 'http://www.wikidata.org/entity/Q6605532' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_2007_albums?oldid=683195918',
+          href: 'http://en.wikipedia.org/wiki/List_of_2007_albums?oldid=683195918' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_2007_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_2007_albums' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Albums_released_in_2007',
+          href: 'http://dbpedia.org/resource/Albums_released_in_2007' },
+        { value: 'dbr:List_of_albums_released_in_2007',
+          href: 'http://dbpedia.org/resource/List_of_albums_released_in_2007' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_2007_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_2007_albums' } ] } }

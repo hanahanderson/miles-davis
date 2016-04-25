@@ -1,0 +1,8 @@
+{ name: 'Mick Harvey',
+  href: 'http://en.wikipedia.org/wiki/Mick_Harvey',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Albums produced by Mick Harvey for other artists',
+       sectionIndex: 57,
+       wordCountBeforeSection: 17415,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

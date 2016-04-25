@@ -1,0 +1,8 @@
+{ name: 'Street Smart (film)',
+  href: 'http://en.wikipedia.org/wiki/Street_Smart_(film)',
+  mentions: 
+   [ { sectionHeader: 'Background and reviews',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1890,
+       quote: [ 'Miles Davis and Robert Irving III recorded the complete soundtrack.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Portal:Scientology/Selected biography',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:Scientology/Selected_biography',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

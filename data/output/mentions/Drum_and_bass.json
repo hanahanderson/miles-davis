@@ -1,0 +1,8 @@
+{ name: 'Drum and bass',
+  href: 'http://en.wikipedia.org/wiki/Drum_and_bass',
+  mentions: 
+   [ { sectionHeader: 'Musical features',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 9706,
+       quote: [ 'Jazz pioneer Miles Davis has been named as a possible influence.' ] } ] }

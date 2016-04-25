@@ -1,0 +1,8 @@
+{ name: 'Johnny Coles',
+  href: 'http://en.wikipedia.org/wiki/Johnny_Coles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 199,
+       quote: [ 'He was with James Moody from 1956 to 1958, and played with Gil Evans\'s orchestra between 1958 and 1964, including on the Miles Davis album Sketches of Spain.' ] } ] }

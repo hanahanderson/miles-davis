@@ -1,0 +1,8 @@
+{ name: 'Out Like a Light',
+  href: 'http://en.wikipedia.org/wiki/Out_Like_a_Light',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 935,
+       quote: [ 'Miles Davis' ] } ] }

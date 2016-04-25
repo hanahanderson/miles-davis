@@ -1,0 +1,8 @@
+{ name: 'Wayne Coyne',
+  href: 'http://en.wikipedia.org/wiki/Wayne_Coyne',
+  mentions: 
+   [ { sectionHeader: 'With the Flaming Lips',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2487,
+       quote: [ 'Coyne does this to pay homage to a famous picture of Miles Davis who, after a performance, had blood on his suit because a police officer had beaten him during the show.' ] } ] }

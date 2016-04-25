@@ -1,0 +1,8 @@
+{ name: 'Louis Jordan',
+  href: 'http://en.wikipedia.org/wiki/Louis_Jordan',
+  mentions: 
+   [ { sectionHeader: 'Early solo career',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 8100,
+       quote: [ 'Other members who passed through the band during 1940 and 1941 included tenorist Kenneth Hollon (who recorded with Billie Holiday); trumpeter Freddie Webster (from Earl Hines\' band) was part of the nascent bebop scene at Minton\'s Playhouse and he influenced Kenny Dorham and Miles Davis.' ] } ] }

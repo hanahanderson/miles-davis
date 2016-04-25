@@ -1,0 +1,8 @@
+{ name: 'No-Man',
+  href: 'http://en.wikipedia.org/wiki/No-Man',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6308,
+       quote: [ 'The album also demonstrated Bowness and Wilson\'s diverse range of influences including New York Minimalism, Miles Davis and progressive rock.' ] } ] }

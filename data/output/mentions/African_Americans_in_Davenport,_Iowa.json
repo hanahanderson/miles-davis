@@ -1,0 +1,8 @@
+{ name: 'African Americans in Davenport, Iowa',
+  href: 'http://en.wikipedia.org/wiki/African_Americans_in_Davenport,_Iowa',
+  mentions: 
+   [ { sectionHeader: 'Culture',
+       sectionSubHeader: '',
+       sectionIndex: 39,
+       wordCountBeforeSection: 16747,
+       quote: [ 'After his death, Biederbecke influenced Miles Davis, who often sought out musicians who had played with Biederbecke to learn more about him.' ] } ] }

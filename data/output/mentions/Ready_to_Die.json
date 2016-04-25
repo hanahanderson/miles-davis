@@ -1,0 +1,8 @@
+{ name: 'Ready to Die',
+  href: 'http://en.wikipedia.org/wiki/Ready_to_Die',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 44,
+       wordCountBeforeSection: 20405,
+       quote: [ '"Lonely Fire" performed by Miles Davis' ] } ] }

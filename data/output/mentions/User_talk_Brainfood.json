@@ -1,0 +1,8 @@
+{ name: 'User talk:Brainfood',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Brainfood',
+  mentions: 
+   [ { sectionHeader: 'Articles you might like to edit, from SuggestBot',
+       sectionSubHeader: '',
+       sectionIndex: 99,
+       wordCountBeforeSection: 29257,
+       quote: [ 'Miles Davis' ] } ] }

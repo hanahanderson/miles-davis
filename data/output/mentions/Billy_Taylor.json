@@ -1,0 +1,13 @@
+{ name: 'Billy Taylor',
+  href: 'http://en.wikipedia.org/wiki/Billy_Taylor',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 50,
+       quote: [ 'Charlie Parker\nDizzy Gillespie\nMiles Davis\nHerbie Mann\nChristian McBride\nNancy Wilson\nDee Dee Bridgewater\nCyrus Chestnut' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2554,
+       quote: [ 'Johnson, Stan Getz, Dizzy Gillespie and Miles Davis.' ] } ] }

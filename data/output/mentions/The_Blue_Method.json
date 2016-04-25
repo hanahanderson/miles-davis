@@ -1,0 +1,8 @@
+{ name: 'The Blue Method',
+  href: 'http://en.wikipedia.org/wiki/The_Blue_Method',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 848,
+       quote: [ 'Their musical influences include James Brown, Earth, Wind & Fire, Parliament-Funkadelic, Al Green, Miles Davis, The Rolling Stones, and Jimi Hendrix.' ] } ] }

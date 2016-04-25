@@ -1,0 +1,8 @@
+{ name: 'Bobby and the Midnites',
+  href: 'http://en.wikipedia.org/wiki/Bobby_and_the_Midnites',
+  mentions: 
+   [ { sectionHeader: 'History of the Band',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1156,
+       quote: [ 'The Midnites\' drummer was Billy Cobham, a highly regarded jazz and fusion musician who had played with Miles Davis and the Mahavishnu Orchestra, among others.' ] } ] }

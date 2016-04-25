@@ -1,0 +1,13 @@
+{ name: 'Turn Out the Stars: The Final Village Vanguard Recordings',
+  href: 'http://en.wikipedia.org/wiki/Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1314,
+       quote: [ '"Nardis" (Miles Davis) - 15:37' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 3979,
+       quote: [ 'Miles Davis' ] } ] }

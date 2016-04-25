@@ -1,0 +1,8 @@
+{ name: 'Itamar Assumpção',
+  href: 'http://en.wikipedia.org/wiki/Itamar_Assump%C3%A7%C3%A3o',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1275,
+       quote: [ 'The lyrics contained within the songs were infused with sharp satire and heavy social criticism, with the lyrical content of Assumpção\'s music also reflecting a number of influences - Adoniran Barbosa, Cartola, Jimi Hendrix, Miles Davis, the poetry of Paulo Leminski and Alice Ruiz.' ] } ] }

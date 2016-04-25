@@ -1,0 +1,62 @@
+{ name: 'John McLaughlin discography',
+  entityType: 'List106481320',
+  href: 'http://dbpedia.org/page/John_McLaughlin_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a John McLaughlin discography, grouped by albums released under his name, the Miles Davis albums which he played on, albums from his group Mahavishnu Orchestra, his group Shakti, and albums where he is a session player on other artist\'s releases. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/John_McLaughlin_1_fcm.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/John_McLaughlin_1_fcm.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '20713010 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679658152 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Discographies_of_British_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_British_artists' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Catalog106487897',
+          href: 'http://dbpedia.org/class/yago/Catalog106487897' },
+        { value: 'yago:Communication100033020',
+          href: 'http://dbpedia.org/class/yago/Communication100033020' },
+        { value: 'yago:Discography106488224',
+          href: 'http://dbpedia.org/class/yago/Discography106488224' },
+        { value: 'yago:Information106634376',
+          href: 'http://dbpedia.org/class/yago/Information106634376' },
+        { value: 'yago:List106481320',
+          href: 'http://dbpedia.org/class/yago/List106481320' },
+        { value: 'yago:Message106598915',
+          href: 'http://dbpedia.org/class/yago/Message106598915' },
+        { value: 'yago:DiscographiesOfBritishArtists',
+          href: 'http://dbpedia.org/class/yago/DiscographiesOfBritishArtists' },
+        { value: 'yago:Database106637824',
+          href: 'http://dbpedia.org/class/yago/Database106637824' },
+        { value: 'yago:JazzDiscographies',
+          href: 'http://dbpedia.org/class/yago/JazzDiscographies' } ],
+     'rdfs:comment': [ { value: 'The following is a John McLaughlin discography, grouped by albums released under his name, the Miles Davis albums which he played on, albums from his group Mahavishnu Orchestra, his group Shakti, and albums where he is a session player on other artist\'s releases. (en)' } ],
+     'rdfs:label': [ { value: 'John McLaughlin discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:John McLaughlin discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q6248064' },
+        { value: 'wikidata:John McLaughlin discography',
+          href: 'http://www.wikidata.org/entity/Q6248064' },
+        { value: 'yago-res:John McLaughlin discography',
+          href: 'http://yago-knowledge.org/resource/John_McLaughlin_discography' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:John_McLaughlin_discography?oldid=679658152',
+          href: 'http://en.wikipedia.org/wiki/John_McLaughlin_discography?oldid=679658152' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/John_McLaughlin_1_fcm.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/John_McLaughlin_1_fcm.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:John_McLaughlin_discography',
+          href: 'http://en.wikipedia.org/wiki/John_McLaughlin_discography' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:John_Mclaughlin_discography',
+          href: 'http://dbpedia.org/resource/John_Mclaughlin_discography' },
+        { value: 'dbr:John_mclaughlin_discography',
+          href: 'http://dbpedia.org/resource/John_mclaughlin_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:John_McLaughlin_discography',
+          href: 'http://en.wikipedia.org/wiki/John_McLaughlin_discography' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Salsa music',
+  href: 'http://en.wikipedia.org/wiki/Salsa_music',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 105,
+       wordCountBeforeSection: 39449,
+       quote: [ 'doing that thing Miles Davis was doing—playing themes and just improvising on the themes of songs, and we never stopped playing through the whole set." While in Palmieri\'s band (1974-1976), the Gonzalez brothers started showing up in the Down Beat Reader\'s Poll.' ] } ] }

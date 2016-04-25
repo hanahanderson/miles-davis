@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Reference desk/Archives/Miscellaneous/2008 November 6',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Miscellaneous/2008_November_6',
+  mentions: 
+   [ { sectionHeader: 'I wonder. What human is widely considered to have been the greatest in the area of...',
+       sectionSubHeader: 'and if that fails',
+       sectionIndex: 39,
+       wordCountBeforeSection: 17453,
+       quote: [ 'Music - Mozart or Beethoven would be the obvious picks, but honestly, I like Miles Davis and Bob Dylan better' ] } ] }

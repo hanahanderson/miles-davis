@@ -1,0 +1,8 @@
+{ name: 'User:Benjamin.Heasly',
+  href: 'http://en.wikipedia.org/wiki/User:Benjamin.Heasly',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'He enjoys music, especially music by the four Bs: William Byrd, J.S. Bach, Johannes Brahms, and Miles Davis.' ] } ] }

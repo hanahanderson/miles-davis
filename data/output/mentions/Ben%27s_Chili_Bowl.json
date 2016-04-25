@@ -1,0 +1,8 @@
+{ name: 'Ben\'s Chili Bowl',
+  href: 'http://en.wikipedia.org/wiki/Ben%27s_Chili_Bowl',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1831,
+       quote: [ 'Many jazz greats of the day, such as Duke Ellington, Miles Davis, and Nat King Cole, would stop by the restaurant when they performed at U Street clubs.' ] } ] }

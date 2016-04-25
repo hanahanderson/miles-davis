@@ -1,0 +1,8 @@
+{ name: 'Ostinato',
+  href: 'http://en.wikipedia.org/wiki/Ostinato',
+  mentions: 
+   [ { sectionHeader: 'Vamp',
+       sectionSubHeader: '',
+       sectionIndex: 57,
+       wordCountBeforeSection: 14672,
+       quote: [ 'The music from Miles Davis\'s modal period (c.1958–63) was based on improvising songs with a small number of chords.' ] } ] }

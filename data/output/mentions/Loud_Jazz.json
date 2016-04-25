@@ -1,0 +1,8 @@
+{ name: 'Loud Jazz',
+  href: 'http://en.wikipedia.org/wiki/Loud_Jazz',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 984,
+       quote: [ 'Miles Davis' ] } ] }

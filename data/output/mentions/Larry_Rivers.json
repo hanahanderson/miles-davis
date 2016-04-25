@@ -1,0 +1,8 @@
+{ name: 'Larry Rivers',
+  href: 'http://en.wikipedia.org/wiki/Larry_Rivers',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 860,
+       quote: [ 'From 1940–45 he worked as a jazz saxophonist in New York City, and he studied at the Juilliard School of Music in 1945–46, along with Miles Davis, with whom he remained friends until Davis\'s death in 1991.' ] } ] }

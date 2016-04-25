@@ -1,0 +1,8 @@
+{ name: 'Herbert Blomstedt',
+  href: 'http://en.wikipedia.org/wiki/Herbert_Blomstedt',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 4952,
+       quote: [ 'Miles Davis (1984)' ] } ] }

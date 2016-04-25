@@ -1,0 +1,13 @@
+{ name: 'User talk:Seekingisrafel',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Seekingisrafel',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Recent edit to Miles Davis' ] },
+     { sectionHeader: 'Recent edit to Miles Davis',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 32,
+       quote: [ 'I noticed that you made a change to an article, Miles Davis, but you didn\'t provide a reliable source.' ] } ] }

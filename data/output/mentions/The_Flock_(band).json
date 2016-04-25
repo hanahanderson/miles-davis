@@ -1,0 +1,8 @@
+{ name: 'The Flock (band)',
+  href: 'http://en.wikipedia.org/wiki/The_Flock_(band)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1471,
+       quote: [ 'After a highly promising first album that was further "outside," jazz/fusion-wise than either Chicago or BS&T (owing, to a great extent, to the influence of Miles Davis\' Bitches Brew album, which Webb participated in, but whose performance was not recorded).' ] } ] }

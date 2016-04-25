@@ -1,0 +1,8 @@
+{ name: 'Silence',
+  href: 'http://en.wikipedia.org/wiki/Silence',
+  mentions: 
+   [ { sectionHeader: 'In music',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 6790,
+       quote: [ 'For example, the closing bars of Louis Armstrong\'s recording of Struttin\' with some Barbecue (1928), the hair\'s-breadth pause at the end of pianist Bill Evans\' solo on Miles Davis\' recording of On Green Dolphin Street (1959) and Shorty Rogers\' Martians go home(1955), where unexpected silences intrude into an otherwise conventional "walking bass" line.' ] } ] }

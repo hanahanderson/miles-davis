@@ -1,0 +1,13 @@
+{ name: 'Good Vibes (Johnny Lytle album)',
+  href: 'http://en.wikipedia.org/wiki/Good_Vibes_(Johnny_Lytle_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 812,
+       quote: [ '"So What" (Miles Davis) - 5:56' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 812,
+       quote: [ '"So What" (Miles Davis) - 5:56' ] } ] }

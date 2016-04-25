@@ -1,0 +1,13 @@
+{ name: 'User:ASpeidell/Eric Krasno',
+  href: 'http://en.wikipedia.org/wiki/User:ASpeidell/Eric_Krasno',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Solo Releases (With Chapter 2)',
+       sectionIndex: 30,
+       wordCountBeforeSection: 6087,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'Solo Releases (With Chapter 2)',
+       sectionIndex: 31,
+       wordCountBeforeSection: 6959,
+       quote: [ '\nCategory:American jazz guitarists Category:Jazz-funk guitarists Category:Jazz fusion guitarists Category:Post-bop guitarists Category:Contemporary jazz musicians Category:American jazz composers Category:Miles Davis Category:Berklee College of Music alumni Category:People from Wilton, Connecticut Category:People from Connecticut Category:People from Dayton, Ohio Category:1951 births Category:Living people' ] } ] }

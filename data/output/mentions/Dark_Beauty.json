@@ -1,0 +1,8 @@
+{ name: 'Dark Beauty',
+  href: 'http://en.wikipedia.org/wiki/Dark_Beauty',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 527,
+       quote: [ '"All Blues" (Miles Davis) - 6:28' ] } ] }

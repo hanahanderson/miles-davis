@@ -1,0 +1,4 @@
+{ name: 'Golden Quartet',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Golden_Quartet',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

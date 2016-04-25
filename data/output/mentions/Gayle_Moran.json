@@ -1,0 +1,8 @@
+{ name: 'Gayle Moran',
+  href: 'http://en.wikipedia.org/wiki/Gayle_Moran',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1637,
+       quote: [ 'Miles Davis' ] } ] }

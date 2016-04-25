@@ -1,0 +1,8 @@
+{ name: 'Fela!',
+  href: 'http://en.wikipedia.org/wiki/Fela!',
+  mentions: 
+   [ { sectionHeader: 'Plot',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 9972,
+       quote: [ 'As a front-man-in-training rambling around London in the early 1960s, he absorbed the influences of the two different shades of cool represented by Frank Sinatra and Miles Davis.' ] } ] }

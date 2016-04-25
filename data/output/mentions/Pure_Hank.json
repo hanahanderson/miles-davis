@@ -1,0 +1,8 @@
+{ name: 'Pure Hank',
+  href: 'http://en.wikipedia.org/wiki/Pure_Hank',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1029,
+       quote: [ '"Honky Tonk Train" (Miles Davis, Williams) – 3:31' ] } ] }

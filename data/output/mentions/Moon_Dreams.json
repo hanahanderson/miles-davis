@@ -1,0 +1,15 @@
+{ name: 'Moon Dreams',
+  href: 'http://en.wikipedia.org/wiki/Moon_Dreams',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 295,
+       quote: 
+        [ 'Miles Davis made the song a staple of his repertoire and released it on the 1957 Capitol Records Birth of the Cool collection, the 1996 Blue Note Records album Ballads and Blues, and the 1998 The Complete Birth of the Cool album.',
+          'The Miles Davis recording appeared in the Ken Burns jazz documentary for PBS entitled Jazz in 2002.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 295,
+       quote: [] } ] }

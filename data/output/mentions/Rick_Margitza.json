@@ -1,0 +1,8 @@
+{ name: 'Rick Margitza',
+  href: 'http://en.wikipedia.org/wiki/Rick_Margitza',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 148,
+       quote: [ 'He toured with Maynard Ferguson and Flora Purim in the 1980s, and moved to New York City in 1988, where he played with Miles Davis.' ] } ] }

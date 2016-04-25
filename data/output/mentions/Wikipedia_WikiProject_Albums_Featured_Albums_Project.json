@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject Albums/Featured Albums Project',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Albums/Featured_Albums_Project',
+  mentions: 
+   [ { sectionHeader: 'Future candidates',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 874,
+       quote: [ 'Miles Davis - Bitches Brew\n\nNeeds albumbox\nNot sure what\'s needed - well fleshed out though\nThis is a strong candidate, more jazz representation needed.\n\n' ] } ] }

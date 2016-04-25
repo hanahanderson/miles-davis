@@ -1,0 +1,23 @@
+{ name: 'Miles at the Fillmore - Miles Davis 1970: The Bootleg Series Vol. 3',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Miles_at_the_Fillmore_-_Miles_Davis_1970:_The_Bootleg_Series_Vol._3',
+  values: 
+   { 'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Live_in_Europe_1969:_The_Bootleg_Series_Vol._2',
+          href: 'http://dbpedia.org/resource/Live_in_Europe_1969:_The_Bootleg_Series_Vol._2' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Jazz at Lincoln Center',
+  href: 'http://en.wikipedia.org/wiki/Jazz_at_Lincoln_Center',
+  mentions: 
+   [ { sectionHeader: 'Building description',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 5413,
+       quote: [ 'Miles Davis (1926–1991), trumpeter' ] } ] }

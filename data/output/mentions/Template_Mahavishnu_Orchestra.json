@@ -1,0 +1,8 @@
+{ name: 'Template:Mahavishnu Orchestra',
+  href: 'http://en.wikipedia.org/wiki/Template:Mahavishnu_Orchestra',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

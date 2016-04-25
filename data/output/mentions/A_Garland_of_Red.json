@@ -1,0 +1,8 @@
+{ name: 'A Garland of Red',
+  href: 'http://en.wikipedia.org/wiki/A_Garland_of_Red',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 671,
+       quote: [ 'In his review for Allmusic, Scott Yanow stated "Thirty-three at the time of this, his first recording as a leader, pianist Red Garland already had his distinctive style fully formed and had been with the Miles Davis Quintet for a year...' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Luca Aquino',
+  href: 'http://en.wikipedia.org/wiki/Luca_Aquino',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 496,
+       quote: [ 'The love for the sound of Miles Davis and Chet Baker brings him back to the study of trumpet and leads him to devote himself completely to music.' ] } ] }

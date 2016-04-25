@@ -1,0 +1,12 @@
+{ name: 'File:In Concert - Miles Davis.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:In_Concert_-_Miles_Davis.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '39430755 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '555850792 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:In_Concert_-_Miles_Davis.jpg?oldid=555850792',
+          href: 'http://en.wikipedia.org/wiki/File:In_Concert_-_Miles_Davis.jpg?oldid=555850792' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:In_Concert_-_Miles_Davis.jpg',
+          href: 'http://dbpedia.org/resource/File:In_Concert_-_Miles_Davis.jpg' } ] } }

@@ -1,0 +1,13 @@
+{ name: 'Teddy Charles',
+  href: 'http://en.wikipedia.org/wiki/Teddy_Charles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 789,
+       quote: [ 'Charles also did session work with musicians and singers as varied as Miles Davis, Charles Mingus, Shelly Manne and Dion.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3046,
+       quote: [ 'With Miles Davis' ] } ] }

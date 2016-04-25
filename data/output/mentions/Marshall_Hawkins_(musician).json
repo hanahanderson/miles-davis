@@ -1,0 +1,13 @@
+{ name: 'Marshall Hawkins (musician)',
+  href: 'http://en.wikipedia.org/wiki/Marshall_Hawkins_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 169,
+       quote: [ 'He is possibly best known for being one of several bassists who took over from Ron Carter when the latter left Miles Davis\' so-called Second Great Quintet.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 169,
+       quote: [ 'He is possibly best known for being one of several bassists who took over from Ron Carter when the latter left Miles Davis\' so-called Second Great Quintet.' ] } ] }

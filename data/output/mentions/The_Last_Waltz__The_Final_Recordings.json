@@ -1,0 +1,13 @@
+{ name: 'The Last Waltz: The Final Recordings',
+  href: 'http://en.wikipedia.org/wiki/The_Last_Waltz:_The_Final_Recordings',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1509,
+       quote: [ '"Nardis" (Miles Davis) - 7:18' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 4746,
+       quote: [ 'Miles Davis' ] } ] }

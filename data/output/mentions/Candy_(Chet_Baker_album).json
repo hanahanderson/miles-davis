@@ -1,0 +1,8 @@
+{ name: 'Candy (Chet Baker album)',
+  href: 'http://en.wikipedia.org/wiki/Candy_(Chet_Baker_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 430,
+       quote: [ '(Miles Davis)' ] } ] }

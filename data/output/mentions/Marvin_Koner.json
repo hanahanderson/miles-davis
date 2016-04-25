@@ -1,0 +1,8 @@
+{ name: 'Marvin Koner',
+  href: 'http://en.wikipedia.org/wiki/Marvin_Koner',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Marvin Koner (1921-1983) was an American photographer who became known for his photographs of Johnny Cash and Miles Davis which he published in Pageant and other magazines.' ] } ] }

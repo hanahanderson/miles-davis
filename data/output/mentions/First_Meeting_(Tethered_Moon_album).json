@@ -1,0 +1,8 @@
+{ name: 'First Meeting (Tethered Moon album)',
+  href: 'http://en.wikipedia.org/wiki/First_Meeting_(Tethered_Moon_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1218,
+       quote: [ '"First Meeting/Solar/Open Trio" (Kikuchi, Motian, Peacock/Miles Davis/Kikuchi, Motian, Peacock) - 17:24' ] } ] }

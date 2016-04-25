@@ -1,0 +1,8 @@
+{ name: 'Benjamin Britten',
+  href: 'http://en.wikipedia.org/wiki/Benjamin_Britten',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Centenary',
+       sectionIndex: 146,
+       wordCountBeforeSection: 103020,
+       quote: [ 'Miles Davis (1984)' ] } ] }

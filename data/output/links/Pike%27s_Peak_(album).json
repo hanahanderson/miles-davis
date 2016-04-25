@@ -1,0 +1,101 @@
+{ name: 'Pike\'s Peak (album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Pike%27s_Peak_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '36.0' } ],
+     'dbo:abstract': [ { value: 'Pike\'s Peak is the second album by American jazz vibraphonist Dave Pike which was recorded in 1961 for the Epic label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Dave_Pike',
+          href: 'http://dbpedia.org/resource/Dave_Pike' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:It\'s_Time_for_Dave_Pike',
+          href: 'http://dbpedia.org/resource/It\'s_Time_for_Dave_Pike' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Mike_Berniker',
+          href: 'http://dbpedia.org/resource/Mike_Berniker' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Epic_Records',
+          href: 'http://dbpedia.org/resource/Epic_Records' } ],
+     'dbo:runtime': [ { value: '2160.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Bossa_Nova_Carnival',
+          href: 'http://dbpedia.org/resource/Bossa_Nova_Carnival' } ],
+     'dbo:wikiPageID': [ { value: '47200639 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '670776180 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Dave Pike Quartet (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Dave_Pike',
+          href: 'http://dbpedia.org/resource/Dave_Pike' } ],
+     'dbp:cover': [ { value: 'Pike\'s Peak.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Epic_Records',
+          href: 'http://dbpedia.org/resource/Epic_Records' },
+        { value: 'LA 16025 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'It\'s Time for Dave Pike (en)' } ],
+     'dbp:length': [ { value: '2160.0' } ],
+     'dbp:name': [ { value: 'Pike\'s Peak (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Bossa Nova Carnival (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Mike_Berniker',
+          href: 'http://dbpedia.org/resource/Mike_Berniker' } ],
+     'dbp:recorded': 
+      [ { value: 'New York City (en)' },
+        { value: 'November 1961 (en)' } ],
+     'dbp:released': [ { value: '1962 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Pike\'s Peak (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Mike_Berniker',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Mike_Berniker' },
+        { value: 'dbc:1962_albums',
+          href: 'http://dbpedia.org/resource/Category:1962_albums' },
+        { value: 'dbc:Epic_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Epic_Records_albums' },
+        { value: 'dbc:Dave_Pike_albums',
+          href: 'http://dbpedia.org/resource/Category:Dave_Pike_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Pike\'s Peak is the second album by American jazz vibraphonist Dave Pike which was recorded in 1961 for the Epic label. (en)' } ],
+     'rdfs:label': [ { value: 'Pike\'s Peak (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Pike\'s Peak (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20813890' },
+        { value: 'wikidata:Pike\'s Peak (album)',
+          href: 'http://www.wikidata.org/entity/Q20813890' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Pike\'s_Peak_(album)?oldid=670776180',
+          href: 'http://en.wikipedia.org/wiki/Pike\'s_Peak_(album)?oldid=670776180' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Pike\'s_Peak_(album)',
+          href: 'http://en.wikipedia.org/wiki/Pike\'s_Peak_(album)' } ],
+     'foaf:name': [ { value: 'Pike\'s Peak (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Bossa_Nova_Carnival',
+          href: 'http://dbpedia.org/resource/Bossa_Nova_Carnival' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:It\'s_Time_for_Dave_Pike',
+          href: 'http://dbpedia.org/resource/It\'s_Time_for_Dave_Pike' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Pike\'s_Peak_(album)',
+          href: 'http://en.wikipedia.org/wiki/Pike\'s_Peak_(album)' } ] } }

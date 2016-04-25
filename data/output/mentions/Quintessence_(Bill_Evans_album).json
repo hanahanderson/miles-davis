@@ -1,0 +1,8 @@
+{ name: 'Quintessence (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Quintessence_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Technical personnel',
+       sectionIndex: 23,
+       wordCountBeforeSection: 2199,
+       quote: [ 'Miles Davis' ] } ] }

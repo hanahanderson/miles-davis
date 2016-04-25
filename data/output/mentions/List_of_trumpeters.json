@@ -1,0 +1,8 @@
+{ name: 'List of trumpeters',
+  href: 'http://en.wikipedia.org/wiki/List_of_trumpeters',
+  mentions: 
+   [ { sectionHeader: 'Jazz and commercial players',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1113,
+       quote: [ 'Miles Davis' ] } ] }

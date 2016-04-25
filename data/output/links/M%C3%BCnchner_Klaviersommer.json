@@ -1,0 +1,33 @@
+{ name: 'Münchner Klaviersommer',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/M%C3%BCnchner_Klaviersommer',
+  values: 
+   { 'dbo:abstract': [ { value: 'Münchner Klaviersommer (Munich Piano Summer) was a series of jazz concerts in Munich featuring various famous artists. Despite the name, not only pianists performed in these concerts. The concerts were usually held in July in the Philharmonic Hall Gasteig and they took place from 1981 to 1998. The sequel to the Munich Piano Summer is the Jazz Summer in the Bayerischer Hof at the Hotel Bayerischer Hof. (en)' } ],
+     'dbo:wikiPageID': [ { value: '44397829 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '670756171 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_festivals_in_Germany',
+          href: 'http://dbpedia.org/resource/Category:Jazz_festivals_in_Germany' } ],
+     'rdfs:comment': [ { value: 'Münchner Klaviersommer (Munich Piano Summer) was a series of jazz concerts in Munich featuring various famous artists. Despite the name, not only pianists performed in these concerts. The concerts were usually held in July in the Philharmonic Hall Gasteig and they took place from 1981 to 1998. The sequel to the Munich Piano Summer is the Jazz Summer in the Bayerischer Hof at the Hotel Bayerischer Hof. (en)' } ],
+     'rdfs:label': [ { value: 'Münchner Klaviersommer (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Münchner Klaviersommer',
+          href: 'http://rdf.freebase.com/ns/m.01296g9f' },
+        { value: 'wikidata:Münchner Klaviersommer',
+          href: 'http://www.wikidata.org/entity/Q15836082' },
+        { value: 'dbpedia-de:Münchner Klaviersommer',
+          href: 'http://de.dbpedia.org/resource/Münchner_Klaviersommer' },
+        { value: 'dbpedia-wikidata:Münchner Klaviersommer',
+          href: 'http://wikidata.dbpedia.org/resource/Q15836082' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Münchner_Klaviersommer?oldid=670756171',
+          href: 'http://en.wikipedia.org/wiki/Münchner_Klaviersommer?oldid=670756171' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Münchner_Klaviersommer',
+          href: 'http://en.wikipedia.org/wiki/Münchner_Klaviersommer' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Münchner Klaviersommer',
+          href: 'http://dbpedia.org/resource/M%C3%BCnchner_Klaviersommer' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Münchner_Klaviersommer',
+          href: 'http://en.wikipedia.org/wiki/Münchner_Klaviersommer' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Mitch Mitchell',
+  href: 'http://en.wikipedia.org/wiki/Mitch_Mitchell',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3590,
+       quote: [ 'Mitchell also took part in Miles Davis\' demo sessions for the 1969 album Bitches Brew, but did not appear on the final album.' ] } ] }

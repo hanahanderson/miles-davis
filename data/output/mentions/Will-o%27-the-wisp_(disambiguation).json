@@ -1,0 +1,8 @@
+{ name: 'Will-o\'-the-wisp (disambiguation)',
+  href: 'http://en.wikipedia.org/wiki/Will-o%27-the-wisp_(disambiguation)',
+  mentions: 
+   [ { sectionHeader: 'Media',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 276,
+       quote: [ 'The English translation of "Canción del fuego fatuo" (\'Song of the will-o\'-the-wisp\') on Manuel de Falla\'s El amor brujo, later covered by Miles Davis as "Will-O\'-The-Wisp" on Sketches Of Spain' ] } ] }

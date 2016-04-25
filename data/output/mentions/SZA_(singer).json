@@ -1,0 +1,8 @@
+{ name: 'SZA (singer)',
+  href: 'http://en.wikipedia.org/wiki/SZA_(singer)',
+  mentions: 
+   [ { sectionHeader: 'Artistry',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 9309,
+       quote: [ 'So she listened to a lot of his music collection which included Miles Davis, Billie Holiday, and Louis Armstrong.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Jacques Benoit',
+  href: 'http://en.wikipedia.org/wiki/Jacques_Benoit',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1898,
+       quote: [ 'But also the music of Elton John, Rickie Lee Jones, Kate Bush, or Patti Smith, followed by the jazz music of Miles Davis, Shirley Horn and the Jazz Fusion composer Pat Metheny.' ] },
+     { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 53,
+       wordCountBeforeSection: 11360,
+       quote: [ 'He was not back to the Orly phase until 2008, as he created a series of 11 new paintings under the influence of the jazz singer Shirley Horn, the soundtrack Miles Davis composed for Louis Malle’s film, Lift to the Scaffold, and the soundtracks of Claude Lelouch’s films Live for Life and A Man and a Woman, both composed by Francis Lai.' ] } ] }

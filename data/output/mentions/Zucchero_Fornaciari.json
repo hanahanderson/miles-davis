@@ -1,0 +1,13 @@
+{ name: 'Zucchero Fornaciari',
+  href: 'http://en.wikipedia.org/wiki/Zucchero_Fornaciari',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1243,
+       quote: [ 'He collaborated and performed with many famous artists, including Eric Clapton, Jeff Beck, Stevie Ray Vaughan, Brian May, Miles Davis, Ray Charles, B.' ] },
+     { sectionHeader: 'Musical career',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 7009,
+       quote: [ 'The single "Diamante" included new version of the song "Dune Mosse" recorded along Miles Davis.' ] } ] }

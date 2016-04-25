@@ -1,0 +1,58 @@
+{ name: 'List of organisms named after famous people',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_organisms_named_after_famous_people',
+  values: 
+   { 'dbo:abstract': [ { value: 'In biological nomenclature, organisms often receive scientific names that honor a person.  A taxon (e.g. species or genus; plural: taxa) named in honor of another entity is an eponymous taxon, and names specifically honoring a person or persons are known as patronyms. Scientific names are generally formally published in peer-reviewed journal articles or larger monographs along with descriptions of the named taxa and ways to distinguish them from other taxa. Following rules of Latin grammar, species or subspecies names derived from a man\'s name often end in -i or -ii if named for an individual, and -orum if named for a group of men or mixed-sex group, such as a family. Similarly, those named for a woman often end in -ae, or -arum for two or more women.This list includes organisms named after famous individuals or ensembles (including bands and comedy troupes), but excludes companies, institutions, ethnic groups or nationalities, and populated places. It does not include organisms named for fictional entities, for biologists or other scientists, nor for associates or family members of researchers who are not otherwise notable. The scientific names are given as originally described: subsequent research may have placed species in different genera, or rendered them taxonomic synonyms of previously described taxa. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Aleiodes_shakirae_gr.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Aleiodes_shakirae_gr.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '10016001 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683532123 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_things_named_after_people',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_things_named_after_people' },
+        { value: 'dbc:Lists_of_eponyms',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_eponyms' },
+        { value: 'dbc:Celebrity',
+          href: 'http://dbpedia.org/resource/Category:Celebrity' },
+        { value: 'dbc:Taxonomy_(biology)',
+          href: 'http://dbpedia.org/resource/Category:Taxonomy_(biology)' },
+        { value: 'dbc:Lists_of_biota',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_biota' } ],
+     'rdfs:comment': [ { value: 'In biological nomenclature, organisms often receive scientific names that honor a person.  A taxon (e.g. species or genus; plural: taxa) named in honor of another entity is an eponymous taxon, and names specifically honoring a person or persons are known as patronyms. Scientific names are generally formally published in peer-reviewed journal articles or larger monographs along with descriptions of the named taxa and ways to distinguish them from other taxa. (en)' } ],
+     'rdfs:label': [ { value: 'List of organisms named after famous people (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:List of organisms named after famous people',
+          href: 'http://fr.dbpedia.org/resource/Liste_des_animaux_portant_le_nom_d\'une_célébrité' },
+        { value: 'dbpedia-pt:List of organisms named after famous people',
+          href: 'http://pt.dbpedia.org/resource/Lista_de_nomes_científicos_de_animais_referenciando_celebridades' },
+        { value: 'dbpedia-wikidata:List of organisms named after famous people',
+          href: 'http://wikidata.dbpedia.org/resource/Q2984714' },
+        { value: 'wikidata:List of organisms named after famous people',
+          href: 'http://www.wikidata.org/entity/Q2984714' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_organisms_named_after_famous_people?oldid=683532123',
+          href: 'http://en.wikipedia.org/wiki/List_of_organisms_named_after_famous_people?oldid=683532123' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Aleiodes_shakirae_gr.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Aleiodes_shakirae_gr.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_organisms_named_after_famous_people',
+          href: 'http://en.wikipedia.org/wiki/List_of_organisms_named_after_famous_people' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_organisms_named_after_celebrities',
+          href: 'http://dbpedia.org/resource/List_of_organisms_named_after_celebrities' },
+        { value: 'dbr:Organisms_named_after_celebrities',
+          href: 'http://dbpedia.org/resource/Organisms_named_after_celebrities' },
+        { value: 'dbr:Organisms_named_after_famous_people',
+          href: 'http://dbpedia.org/resource/Organisms_named_after_famous_people' },
+        { value: 'dbr:Species_named_after_celebrities',
+          href: 'http://dbpedia.org/resource/Species_named_after_celebrities' },
+        { value: 'dbr:List_of_animals_named_after_celebrities',
+          href: 'http://dbpedia.org/resource/List_of_animals_named_after_celebrities' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Species_description',
+          href: 'http://dbpedia.org/resource/Species_description' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_organisms_named_after_famous_people',
+          href: 'http://en.wikipedia.org/wiki/List_of_organisms_named_after_famous_people' } ] } }

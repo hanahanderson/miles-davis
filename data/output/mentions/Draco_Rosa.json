@@ -1,0 +1,8 @@
+{ name: 'Draco Rosa',
+  href: 'http://en.wikipedia.org/wiki/Draco_Rosa',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1916,
+       quote: [ 'Rosa has been highly influenced by the works of Bob Dylan, Miles Davis, Iggy Pop, Jimi Hendrix, Johnny Cash, Luis Alberto Spinetta, The Doors, Camarón de la Isla, Horacio Quiroga, Caetano Veloso, Edgar Allan Poe and Glenn Danzig.' ] } ] }

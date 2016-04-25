@@ -1,0 +1,13 @@
+{ name: 'You\'re Gonna Hear from Me (album)',
+  href: 'http://en.wikipedia.org/wiki/You%27re_Gonna_Hear_from_Me_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1040,
+       quote: [ '"Nardis" (Miles Davis) - 8:59' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2021,
+       quote: [ 'Miles Davis' ] } ] }

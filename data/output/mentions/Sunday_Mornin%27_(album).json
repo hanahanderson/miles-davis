@@ -1,0 +1,8 @@
+{ name: 'Sunday Mornin\' (album)',
+  href: 'http://en.wikipedia.org/wiki/Sunday_Mornin%27_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1177,
+       quote: [ '"So What" (Miles Davis) – 9:48' ] } ] }

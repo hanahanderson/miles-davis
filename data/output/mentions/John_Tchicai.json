@@ -1,0 +1,8 @@
+{ name: 'John Tchicai',
+  href: 'http://en.wikipedia.org/wiki/John_Tchicai',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2171,
+       quote: [ 'He was a member of Henry Kaiser and Wadada Leo Smith\'s "Yo Miles" band, a loose aggregation of musicians exploring Miles Davis\' electric period.' ] } ] }

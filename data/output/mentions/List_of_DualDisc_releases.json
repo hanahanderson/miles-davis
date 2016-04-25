@@ -1,0 +1,8 @@
+{ name: 'List of DualDisc releases',
+  href: 'http://en.wikipedia.org/wiki/List_of_DualDisc_releases',
+  mentions: 
+   [ { sectionHeader: 'High profile DualDisc releases',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 643,
+       quote: [ 'Miles Davis\' Kind of Blue' ] } ] }

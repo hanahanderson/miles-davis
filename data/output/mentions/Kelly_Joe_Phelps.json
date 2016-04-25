@@ -1,0 +1,8 @@
+{ name: 'Kelly Joe Phelps',
+  href: 'http://en.wikipedia.org/wiki/Kelly_Joe_Phelps',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1195,
+       quote: [ 'Phelps concentrated on free jazz and took his cues from musicians like Ornette Coleman, Miles Davis, and John Coltrane.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Music of Bill Evans',
+  href: 'http://en.wikipedia.org/wiki/Music_of_Bill_Evans',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 799,
+       quote: [ 'Miles Davis' ] } ] }

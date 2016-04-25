@@ -1,0 +1,13 @@
+{ name: 'Terrie Williams',
+  href: 'http://en.wikipedia.org/wiki/Terrie_Williams',
+  mentions: 
+   [ { sectionHeader: 'Early career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 813,
+       quote: [ 'At the hospital, she met and befriended Jazz musician Miles Davis who encouraged her to open her own business, which Williams eventually did.' ] },
+     { sectionHeader: 'The Terrie Williams Agency',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1187,
+       quote: [ 'Her first clients were Miles Davis and comedian Eddie Murphy.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'It\'s Time for Dave Pike',
+  href: 'http://en.wikipedia.org/wiki/It%27s_Time_for_Dave_Pike',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1087,
+       quote: [ '"Solar" (Miles Davis) - 3:14' ] } ] }

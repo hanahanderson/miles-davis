@@ -1,0 +1,4 @@
+{ name: 'User:Mind meal',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Mind_meal',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

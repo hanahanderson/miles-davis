@@ -1,0 +1,8 @@
+{ name: 'Speedball (drug)',
+  href: 'http://en.wikipedia.org/wiki/Speedball_(drug)',
+  mentions: 
+   [ { sectionHeader: 'Notable users',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3671,
+       quote: [ 'Among celebrities who admitted using speedballs are Chet Baker (in the documentary film Let\'s Get Lost), Megadeth front man Dave Mustaine, and bassist David Ellefson (in the documentary Behind The Music), Cream bassist Jack Bruce (as stated in an interview with Daily Record in 2009), Nikki Sixx (in The Heroin Diaries: A Year in the Life of a Shattered Rock Star and The Dirt), Anthony Kiedis (in his autobiography Scar Tissue), Kurt Cobain (in his biography Heavier Than Heaven), David Crosby (in his autobiography Long Time Gone), Jerry Garcia, Miles Davis, and Slash (in his autobiography Slash).' ] } ] }

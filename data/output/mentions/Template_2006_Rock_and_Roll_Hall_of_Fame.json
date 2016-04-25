@@ -1,0 +1,8 @@
+{ name: 'Template:2006 Rock and Roll Hall of Fame',
+  href: 'http://en.wikipedia.org/wiki/Template:2006_Rock_and_Roll_Hall_of_Fame',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Beefy Red',
+  href: 'http://en.wikipedia.org/wiki/Beefy_Red',
+  mentions: 
+   [ { sectionHeader: 'Notable members',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1078,
+       quote: [ 'Members included later solo recording artist and film composer Mark Isham on trumpet and soprano saxophone, and Barry Finnerty on electric guitar and some lead vocals, who was later a performing/recording artist with Miles Davis, the Crusaders and the Brecker Brothers among many others.' ] } ] }

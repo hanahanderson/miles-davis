@@ -1,0 +1,8 @@
+{ name: 'Mocean Worker',
+  href: 'http://en.wikipedia.org/wiki/Mocean_Worker',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 785,
+       quote: [ 'When Miller responded, inviting Dorn to come by the studio, one visit turned into three years hanging around artists David Sanborn, Luther Vandross and Miles Davis.' ] } ] }

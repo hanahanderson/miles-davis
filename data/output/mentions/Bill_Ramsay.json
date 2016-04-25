@@ -1,0 +1,8 @@
+{ name: 'Bill Ramsay',
+  href: 'http://en.wikipedia.org/wiki/Bill_Ramsay',
+  mentions: 
+   [ { sectionHeader: 'Performance affiliations',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1221,
+       quote: [ 'The band plays the music of Miles Davis, Gil Evans, and Gerry Mulligan' ] } ] }

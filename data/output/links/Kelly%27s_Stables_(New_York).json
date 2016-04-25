@@ -1,0 +1,32 @@
+{ name: 'Kelly\'s Stables (New York)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Kelly%27s_Stables_(New_York)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Kelly’s Stables, also referred to as Kelly’s Stable, was a jazz club on Manhattan\'s 52nd Street in New York City, opened by jazz band leader Bert Kelly. (en)' } ],
+     'dbo:wikiPageID': [ { value: '40233924 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '620628225 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_venues_in_New_York_City',
+          href: 'http://dbpedia.org/resource/Category:Music_venues_in_New_York_City' },
+        { value: 'dbc:Defunct_jazz_clubs',
+          href: 'http://dbpedia.org/resource/Category:Defunct_jazz_clubs' },
+        { value: 'dbc:Jazz_clubs_in_New_York',
+          href: 'http://dbpedia.org/resource/Category:Jazz_clubs_in_New_York' } ],
+     'rdfs:comment': [ { value: 'Kelly’s Stables, also referred to as Kelly’s Stable, was a jazz club on Manhattan\'s 52nd Street in New York City, opened by jazz band leader Bert Kelly. (en)' } ],
+     'rdfs:label': [ { value: 'Kelly\'s Stables (New York) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Kelly\'s Stables (New York)',
+          href: 'http://rdf.freebase.com/ns/m.0wxx52v' },
+        { value: 'dbpedia-wikidata:Kelly\'s Stables (New York)',
+          href: 'http://wikidata.dbpedia.org/resource/Q16998204' },
+        { value: 'wikidata:Kelly\'s Stables (New York)',
+          href: 'http://www.wikidata.org/entity/Q16998204' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Kelly\'s_Stables_(New_York)?oldid=620628225',
+          href: 'http://en.wikipedia.org/wiki/Kelly\'s_Stables_(New_York)?oldid=620628225' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Kelly\'s_Stables_(New_York)',
+          href: 'http://en.wikipedia.org/wiki/Kelly\'s_Stables_(New_York)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Kelly\'s_Stables_(New_York)',
+          href: 'http://en.wikipedia.org/wiki/Kelly\'s_Stables_(New_York)' } ] } }

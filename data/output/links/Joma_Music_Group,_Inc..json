@@ -1,0 +1,31 @@
+{ name: 'Joma Music Group, Inc.',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Joma_Music_Group,_Inc.',
+  values: 
+   { 'dbo:abstract': [ { value: 'Joma Music Group is a music publishing company and record label founded in 2008.The Joma Music Publishing division represents a large catalog of songs written by the lyricist Ned Washington, including the standards "My Foolish Heart", "Stella By Starlight", "Rawhide", "I\'m Getting Sentimental Over You" and dozens of other songs that have been performed by legendary artists such as Frank Sinatra, Ella Fitzgerald, David Bowie, Miles Davis, Billie Holiday, Barbra Streisand, Bing Crosby, Duke Ellington, Dizzie Gillespie, and k.d. lang.In, addition, Joma Music publishes over 300 songs from the 1950s-1960s vintage catalog by songwriters Giant/Baum/Kaye, writers of #1 hits for Elvis Presley, and also of songs performed by The Everly Brothers, Bobby Darin, Cliff Richard, Ben E. King, and others.The publishing division of Joma Music Group also represents a large selection of indie rock and pop artists from NYC\'s Williamsburg music scene, many of whom are also signed to the Joma Records label.Joma Records has released 2 CD compilations so far: Joma Indie Rock & Pop, Vol. 1 which featured songs that have appeared on TV shows such as Castle, Royal Pains, Mercy, Lie To Me, Men in Trees, and Reaper, among others, and the indie rock holiday sampler, A Very Joma Christmas.Only a few weeks after its release A Very Joma Christmas topped the "Best of the Year" lists of holiday records in USA Today, Newsday, and the Minneapolis Star-Tribune. A Very Joma Christmas went on to have song placements on the holiday episodes of network TV shows such as Lie To Me (Fox), The Young and The Restless (CBS), and it was licensed in its entirety to MTV. Starbucks played songs from A Very Joma Christmas in all of their USA locations in December 2010, and songs from the album were played on Absolute Radio and BBC Radio-2 in London and daily on Sirius-XM in the USA in December 2010. (en)' } ],
+     'dbo:wikiPageID': [ { value: '39467147 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678625905 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_publishing_companies_of_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Music_publishing_companies_of_the_United_States' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'Joma Music Group is a music publishing company and record label founded in 2008.The Joma Music Publishing division represents a large catalog of songs written by the lyricist Ned Washington, including the standards "My Foolish Heart", "Stella By Starlight", "Rawhide", "I\'m Getting Sentimental Over You" and dozens of other songs that have been performed by legendary artists such as Frank Sinatra, Ella Fitzgerald, David Bowie, Miles Davis, Billie Holiday, Barbra Streisand, Bing Crosby, Duke Ellington, Dizzie Gillespie, and k.d.  (en)' } ],
+     'rdfs:label': [ { value: 'Joma Music Group, Inc. (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Joma Music Group, Inc.',
+          href: 'http://rdf.freebase.com/ns/m.0w1g3sy' },
+        { value: 'dbpedia-wikidata:Joma Music Group, Inc.',
+          href: 'http://wikidata.dbpedia.org/resource/Q16997871' },
+        { value: 'wikidata:Joma Music Group, Inc.',
+          href: 'http://www.wikidata.org/entity/Q16997871' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Joma_Music_Group,_Inc.?oldid=678625905',
+          href: 'http://en.wikipedia.org/wiki/Joma_Music_Group,_Inc.?oldid=678625905' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Joma_Music_Group,_Inc.',
+          href: 'http://en.wikipedia.org/wiki/Joma_Music_Group,_Inc.' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Joma_Music_Group,_Inc.',
+          href: 'http://en.wikipedia.org/wiki/Joma_Music_Group,_Inc.' } ] } }

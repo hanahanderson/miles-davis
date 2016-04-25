@@ -1,0 +1,8 @@
+{ name: 'Heinz Holliger',
+  href: 'http://en.wikipedia.org/wiki/Heinz_Holliger',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 3977,
+       quote: [ 'Miles Davis (1984)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Van Gogh by Numbers',
+  href: 'http://en.wikipedia.org/wiki/Van_Gogh_by_Numbers',
+  mentions: 
+   [ { sectionHeader: 'Album information',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 551,
+       quote: [ '"Blue in Green" (Miles Davis/Evans)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Byrds',
+  href: 'http://en.wikipedia.org/wiki/The_Byrds',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 10451,
+       quote: [ 'Through connections that Dickson had with impresario Benny Shapiro, and with a helpful recommendation from jazz trumpeter Miles Davis, the group signed a recording contract with Columbia Records on November 10, 1964.' ] } ] }

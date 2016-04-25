@@ -1,0 +1,8 @@
+{ name: 'User:Ironbrother~enwiki',
+  href: 'http://en.wikipedia.org/wiki/User:Ironbrother~enwiki',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

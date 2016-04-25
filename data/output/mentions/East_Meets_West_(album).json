@@ -1,0 +1,8 @@
+{ name: 'East Meets West (album)',
+  href: 'http://en.wikipedia.org/wiki/East_Meets_West_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3096,
+       quote: [ 'Miles Davis' ] } ] }

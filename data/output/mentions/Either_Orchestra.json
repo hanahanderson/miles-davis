@@ -1,0 +1,8 @@
+{ name: 'Either/Orchestra',
+  href: 'http://en.wikipedia.org/wiki/Either/Orchestra',
+  mentions: 
+   [ { sectionHeader: 'History and style',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1095,
+       quote: [ 'This broad collection of influences is reflected by the (non-original) compositions recorded by the band over the years: "Doxy" (Sonny Rollins), "Brilliant Corners", "Nutty" (Thelonious Monk), "Lady\'s Blues" (Rahsaan Roland Kirk), Odwallah (Roscoe Mitchell), Willow Weep for Me (Ann Ronell), Circle in the Round (Miles Davis), "I Got it Bad", "In a Sentimental Mood", "Timon of Athens" (Ellington), "Red" (Robert Fripp), "Ode to Billie Joe" (Bobbie Gentry), "Lay Lady Lay" (Bob Dylan), "I Want You/She\'s So Heavy" (Lennon–McCartney).' ] } ] }

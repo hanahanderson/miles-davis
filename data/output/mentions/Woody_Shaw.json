@@ -1,0 +1,8 @@
+{ name: 'Woody Shaw',
+  href: 'http://en.wikipedia.org/wiki/Woody_Shaw',
+  mentions: 
+   [ { sectionHeader: 'Admiration among musicians',
+       sectionSubHeader: 'Death',
+       sectionIndex: 53,
+       wordCountBeforeSection: 15680,
+       quote: [ 'Miles Davis, a notoriously harsh critic of fellow musicians, once said of Shaw: "Now there\'s a great trumpet player.' ] } ] }

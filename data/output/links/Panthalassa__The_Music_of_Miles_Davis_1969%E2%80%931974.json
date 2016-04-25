@@ -1,0 +1,116 @@
+{ name: 'Panthalassa: The Music of Miles Davis 1969–1974',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Panthalassa:_The_Music_of_Miles_Davis_1969%E2%80%931974',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '59.63333333333333' } ],
+     'dbo:abstract': [ { value: 'Panthalassa: The Music of Miles Davis 1969–1974 is a remix album by Miles Davis, released on February 16, 1998, by Sony Records. It contains compositions from prior albums, including In a Silent Way, On the Corner and Get Up With It, remixed by Bill Laswell. The album is composed as a dark, continuous tone poem divided by four sections of Davis\' jazz fusion recordings. Panthalassa received generally positive reviews from music critics and sold well, charting at number four on the Billboard Top Jazz Albums. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Ambient_music',
+          href: 'http://dbpedia.org/resource/Ambient_music' },
+        { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Live_Around_the_World_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Live_Around_the_World_(Miles_Davis_album)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Sony_Music_Entertainment',
+          href: 'http://dbpedia.org/resource/Sony_Music_Entertainment' } ],
+     'dbo:releaseDate': [ { value: '1998-02-16 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3578.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Love_Songs_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Love_Songs_(Miles_Davis_album)' } ],
+     'dbo:wikiPageID': [ { value: '30352706 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682469725 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'Panthalassa The Music of Miles Davis 1969-1974.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Ambient_music',
+          href: 'http://dbpedia.org/resource/Ambient_music' },
+        { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Sony_Music_Entertainment',
+          href: 'http://dbpedia.org/resource/Sony_Music_Entertainment' } ],
+     'dbp:lastAlbum': [ { value: 'Live Around the World (en)' } ],
+     'dbp:length': 
+      [ { value: '818.0' },
+        { value: '966.0' },
+        { value: '920.0' },
+        { value: '874.0' },
+        { value: '3578.0' } ],
+     'dbp:music': 
+      [ { value: 'dbr:Joe_Zawinul',
+          href: 'http://dbpedia.org/resource/Joe_Zawinul' },
+        { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' },
+        { value: 'Davis (en)' } ],
+     'dbp:musicCredits': [ { value: 'yes (en)' } ],
+     'dbp:name': [ { value: 'Panthalassa: The Music of Miles Davis 1969-1974 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Love Songs (en)' } ],
+     'dbp:released': [ { value: '1998-02-16 (xsd:date)' } ],
+     'dbp:thisAlbum': [ { value: 'Panthalassa: The Music of Miles Davis 1969-1974 (en)' } ],
+     'dbp:title': 
+      [ { value: 'He Loved Him Madly (en)' },
+        { value: 'Black Satin / What If / Agharta Prelude Dub (en)' },
+        { value: 'Rated X / Billy Preston (en)' },
+        { value: 'In a Silent Way / Shhh/Peaceful / It\'s About That Time (en)' } ],
+     'dbp:type': [ { value: 'remix (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Miles_Davis_remix_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_remix_albums' },
+        { value: 'dbc:1998_remix_albums',
+          href: 'http://dbpedia.org/resource/Category:1998_remix_albums' },
+        { value: 'dbc:Sony_Music_Entertainment_remix_albums',
+          href: 'http://dbpedia.org/resource/Category:Sony_Music_Entertainment_remix_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Panthalassa: The Music of Miles Davis 1969–1974 is a remix album by Miles Davis, released on February 16, 1998, by Sony Records. It contains compositions from prior albums, including In a Silent Way, On the Corner and Get Up With It, remixed by Bill Laswell. The album is composed as a dark, continuous tone poem divided by four sections of Davis\' jazz fusion recordings. (en)' } ],
+     'rdfs:label': [ { value: 'Panthalassa: The Music of Miles Davis 1969–1974 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Panthalassa: The Music of Miles Davis 1969–1974',
+          href: 'http://rdf.freebase.com/ns/m.0g5pz7_' },
+        { value: 'dbpedia-wikidata:Panthalassa: The Music of Miles Davis 1969–1974',
+          href: 'http://wikidata.dbpedia.org/resource/Q7131721' },
+        { value: 'wikidata:Panthalassa: The Music of Miles Davis 1969–1974',
+          href: 'http://www.wikidata.org/entity/Q7131721' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Panthalassa:_The_Music_of_Miles_Davis_1969–1974?oldid=682469725',
+          href: 'http://en.wikipedia.org/wiki/Panthalassa:_The_Music_of_Miles_Davis_1969–1974?oldid=682469725' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Panthalassa:_The_Music_of_Miles_Davis_1969–1974',
+          href: 'http://en.wikipedia.org/wiki/Panthalassa:_The_Music_of_Miles_Davis_1969–1974' } ],
+     'foaf:name': [ { value: 'Panthalassa: The Music of Miles Davis 1969-1974 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Love_Songs_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Love_Songs_(Miles_Davis_album)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Panthalassa:_The_Music_of_Miles_Davis_1969-1974',
+          href: 'http://dbpedia.org/resource/Panthalassa:_The_Music_of_Miles_Davis_1969-1974' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Panthalassa: The Music of Miles Davis 1969–1974',
+          href: 'http://dbpedia.org/resource/Panthalassa:_The_Music_of_Miles_Davis_1969%E2%80%931974' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Panthalassa:_The_Music_of_Miles_Davis_1969–1974',
+          href: 'http://en.wikipedia.org/wiki/Panthalassa:_The_Music_of_Miles_Davis_1969–1974' } ] } }

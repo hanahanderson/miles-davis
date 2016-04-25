@@ -1,0 +1,8 @@
+{ name: 'Edgar Villchur',
+  href: 'http://en.wikipedia.org/wiki/Edgar_Villchur',
+  mentions: 
+   [ { sectionHeader: 'Acoustic Research, Inc.',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 10232,
+       quote: [ 'The list of well-known artists who appeared with their AR stereo equipment in print advertisements included Virgil Thomson, Miles Davis, and Louis Armstrong.' ] } ] }

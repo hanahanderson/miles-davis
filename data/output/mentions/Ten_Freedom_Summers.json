@@ -1,0 +1,8 @@
+{ name: 'Ten Freedom Summers',
+  href: 'http://en.wikipedia.org/wiki/Ten_Freedom_Summers',
+  mentions: 
+   [ { sectionHeader: 'Critical reception',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 6392,
+       quote: [ 'wrote that "Smith\'s music resonates with the suffering and the dreams of a better life that embodied the decade of 1954 to 1964 that is the subject of this powerful compendium of compositions." AllMusic\'s Thom Jurek viewed the box set as Smith\'s best work, writing that it "belongs in jazz\'s canonical lexicon with Duke Ellington\'s Black Brown & Beige and Max Roach\'s Freedom Now Suite." Phil Johnson from The Independent found the music very gratifying, comparing it to if Miles Davis had recorded Ligeti during the 1950s.' ] } ] }

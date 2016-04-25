@@ -1,0 +1,8 @@
+{ name: 'Mattias Eklundh',
+  href: 'http://en.wikipedia.org/wiki/Mattias_Eklundh',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1081,
+       quote: [ 'He has named Frank Zappa and Ace Frehley of Kiss as his two major musical influences, but his record collection also included gypsy jazz, Miles Davis, and Slayer among many others.' ] } ] }

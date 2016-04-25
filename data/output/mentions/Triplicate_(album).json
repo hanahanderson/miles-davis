@@ -1,0 +1,8 @@
+{ name: 'Triplicate (album)',
+  href: 'http://en.wikipedia.org/wiki/Triplicate_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 253,
+       quote: [ 'Coleman was the sole member to be remain for this session while the drum chair was filled by Jack DeJohnette, who had worked extensively with Holland in the bands of Miles Davis, Chick Corea and Gateway.' ] } ] }

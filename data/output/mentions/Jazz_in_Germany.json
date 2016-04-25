@@ -1,0 +1,8 @@
+{ name: 'Jazz in Germany',
+  href: 'http://en.wikipedia.org/wiki/Jazz_in_Germany',
+  mentions: 
+   [ { sectionHeader: 'Postwar period and the 1950s',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 17376,
+       quote: [ 'There Lehn played with international jazz greats such as Miles Davis and Chet Baker.' ] } ] }

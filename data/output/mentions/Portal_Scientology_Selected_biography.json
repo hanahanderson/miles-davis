@@ -1,0 +1,8 @@
+{ name: 'Portal:Scientology/Selected biography',
+  href: 'http://en.wikipedia.org/wiki/Portal:Scientology/Selected_biography',
+  mentions: 
+   [ { sectionHeader: 'Selected biographies list',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1808,
+       quote: [ 'He participated in the birth of the electric fusion movement as a member of Miles Davis\' band in the 1960s, and in the 1970s formed Return to Forever.' ] } ] }

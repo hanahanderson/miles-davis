@@ -1,0 +1,52 @@
+{ name: 'Lazy Bird',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Lazy_Bird',
+  values: 
+   { 'dbo:abstract': [ { value: 'Lazy Bird is a musical composition by John Coltrane, first appearing on his 1957 album Blue Train.Its name is most likely a play on the title of the Tadd Dameron composition "Lady Bird": Coltrane biographer Lewis Porter has proposed a harmonic relationship between "Lady Bird" and the A section of "Lazy Bird". (The bridge of Coltrane\'s song is apparently a variation on the standard "Lover Man"). The chord progression of "Lady Bird" may be transformed into that of "Lazy Bird" through chord substitution using the backdoor progression and tritone substitution. (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageID': [ { value: '6746857 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682620921 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Chord_substitution',
+          href: 'http://dbpedia.org/resource/Category:Chord_substitution' },
+        { value: 'dbc:Hard_bop_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Hard_bop_jazz_standards' },
+        { value: 'dbc:Compositions_by_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_John_Coltrane' },
+        { value: 'dbc:1957_compositions',
+          href: 'http://dbpedia.org/resource/Category:1957_compositions' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: 'Lazy Bird is a musical composition by John Coltrane, first appearing on his 1957 album Blue Train.Its name is most likely a play on the title of the Tadd Dameron composition "Lady Bird": Coltrane biographer Lewis Porter has proposed a harmonic relationship between "Lady Bird" and the A section of "Lazy Bird". (The bridge of Coltrane\'s song is apparently a variation on the standard "Lover Man"). (en)' } ],
+     'rdfs:label': [ { value: 'Lazy Bird (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Lazy Bird',
+          href: 'http://rdf.freebase.com/ns/m.0glwc4' },
+        { value: 'dbpedia-wikidata:Lazy Bird',
+          href: 'http://wikidata.dbpedia.org/resource/Q17019794' },
+        { value: 'wikidata:Lazy Bird',
+          href: 'http://www.wikidata.org/entity/Q17019794' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Lazy_Bird?oldid=682620921',
+          href: 'http://en.wikipedia.org/wiki/Lazy_Bird?oldid=682620921' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Lazy_Bird',
+          href: 'http://en.wikipedia.org/wiki/Lazy_Bird' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Blue_Train_(album)',
+          href: 'http://dbpedia.org/resource/Blue_Train_(album)' },
+        { value: 'dbr:East_Coast_Love_Affair',
+          href: 'http://dbpedia.org/resource/East_Coast_Love_Affair' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Lazy_Bird',
+          href: 'http://en.wikipedia.org/wiki/Lazy_Bird' } ] } }

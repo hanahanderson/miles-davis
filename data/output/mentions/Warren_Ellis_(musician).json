@@ -1,0 +1,8 @@
+{ name: 'Warren Ellis (musician)',
+  href: 'http://en.wikipedia.org/wiki/Warren_Ellis_(musician)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Film and theatre scores with Nick Cave',
+       sectionIndex: 24,
+       wordCountBeforeSection: 8095,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

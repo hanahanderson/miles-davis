@@ -1,0 +1,8 @@
+{ name: 'Question and Answer (album)',
+  href: 'http://en.wikipedia.org/wiki/Question_and_Answer_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 691,
+       quote: [ '(by Miles Davis)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Club Saint-Germain',
+  href: 'http://en.wikipedia.org/wiki/Club_Saint-Germain',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 117,
+       quote: [ 'Many Americans on tour including Miles Davis, Art Blakey, and Kenny Dorham also played the club.' ] } ] }

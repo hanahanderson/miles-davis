@@ -1,0 +1,8 @@
+{ name: 'Sarah Vaughan in Hi-Fi',
+  href: 'http://en.wikipedia.org/wiki/Sarah_Vaughan_in_Hi-Fi',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis – trumpeter' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Sonic Explorations',
+  href: 'http://en.wikipedia.org/wiki/Sonic_Explorations',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1873,
+       quote: [ '"Blue in Green" (Miles Davis / Bill Evans) - 6:10' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1873,
+       quote: [ '"Blue in Green - take 2" (Miles Davis / Bill Evans) - 4:10' ] } ] }

@@ -1,0 +1,18 @@
+{ name: 'Victor Feldman',
+  href: 'http://en.wikipedia.org/wiki/Victor_Feldman',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 204,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Later jazz and U.S. session work',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2177,
+       quote: [ 'He recorded with many jazz artists, including Benny Goodman, George Shearing, Cannonball Adderley and Miles Davis, most notably on Davis\' 1963 album Seven Steps to Heaven, the title tune being his own composition.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 6597,
+       quote: [ 'With Miles Davis' ] } ] }

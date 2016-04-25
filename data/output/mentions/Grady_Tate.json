@@ -1,0 +1,8 @@
+{ name: 'Grady Tate',
+  href: 'http://en.wikipedia.org/wiki/Grady_Tate',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1489,
+       quote: [ 'As a sideman he has played with Lionel Hampton, Jimmy Smith, Grant Green, Boogaloo Joe Jones, Lena Horne, Astrud Gilberto, Ella Fitzgerald, Miles Davis, Blossom Dearie, Chris Connor, Sarah Vaughan, Ray Charles, Cal Tjader, Peggy Lee, Bill Evans, Duke Ellington, Count Basie, Tom Rapp, Rahsaan Roland Kirk, Stanley Turrentine, Charles Earland, Quincy Jones, Stan Getz, and Wes Montgomery.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Chuck Wayne',
+  href: 'http://en.wikipedia.org/wiki/Chuck_Wayne',
+  mentions: 
+   [ { sectionHeader: 'Compositions',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4587,
+       quote: [ 'It is now well known that his tune "Sonny" (not SUnny), named for Sonny Berman, was appropriated by Miles Davis – who recorded and took composer credit for it as "Solar".' ] } ] }

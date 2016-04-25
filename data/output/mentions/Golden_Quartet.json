@@ -1,0 +1,8 @@
+{ name: 'Golden Quartet',
+  href: 'http://en.wikipedia.org/wiki/Golden_Quartet',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 950,
+       quote: [ 'The Penguin Guide to Jazz notes "On \'Celestial Sky and All the Magic\', Smith demonstrates again how much he owes to Miles Davis, but also how far he has travelled beyond."' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Isle of Wight Festival 1970',
+  href: 'http://en.wikipedia.org/wiki/Isle_of_Wight_Festival_1970',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1022,
+       quote: [ 'With Hendrix confirmed, artists such as Cactus, Chicago, The Doors, Lighthouse, The Moody Blues, The Who, Miles Davis, Joan Baez, Joni Mitchell, Jethro Tull, Sly and the Family Stone, Ten Years After, Emerson, Lake & Palmer and Free willingly took up the chance to play there.' ] },
+     { sectionHeader: 'Performances',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6896,
+       quote: [ 'Miles Davis: A DVD of his complete set was released in 2004.' ] } ] }

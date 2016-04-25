@@ -1,0 +1,8 @@
+{ name: 'Bloodline (band)',
+  href: 'http://en.wikipedia.org/wiki/Bloodline_(band)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 377,
+       quote: [ 'The group\'s members were drummer Erin Davis (son of Miles Davis), rhythm guitarist Waylon Krieger (son of Robby Krieger), and bassist and lead vocalist Berry Oakley, Jr. (son of Berry Oakley), along with Bonamassa, whose parents were musicians, though not famous.' ] } ] }

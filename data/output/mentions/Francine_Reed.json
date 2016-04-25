@@ -1,0 +1,8 @@
+{ name: 'Francine Reed',
+  href: 'http://en.wikipedia.org/wiki/Francine_Reed',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 950,
+       quote: [ 'In Phoenix, Arizona, Francine Reed appeared with Miles Davis, Stanley Jordan, Smokey Robinson, Etta James, and The Crusaders.' ] } ] }

@@ -1,0 +1,38 @@
+{ name: '1984 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1984_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1984 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/SandovalArturo1984.gif?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/SandovalArturo1984.gif?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25655264 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '652921964 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1985 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'Jazz trumpeter Arturo Sandoval, International Jazz Festival, Prague, Lucerna Music Hall, 1984 (en)' } ],
+     'dbp:prioryear': [ { value: '1983 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1984_in_music',
+          href: 'http://dbpedia.org/resource/Category:1984_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdfs:comment': [ { value: '1984 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1984 in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1984 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4582015' },
+        { value: 'wikidata:1984 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4582015' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1984_in_jazz?oldid=652921964',
+          href: 'http://en.wikipedia.org/wiki/1984_in_jazz?oldid=652921964' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/SandovalArturo1984.gif',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/SandovalArturo1984.gif' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1984_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1984_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1984_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1984_in_jazz' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Royal Roost',
+  href: 'http://en.wikipedia.org/wiki/Royal_Roost',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 87,
+       quote: [ 'In September 1948 Miles Davis debuted his nonet at the club.' ] } ] }

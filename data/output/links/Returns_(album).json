@@ -1,0 +1,146 @@
+{ name: 'Returns (album)',
+  entityType: 'Live (Return to Forever album)',
+  href: 'http://dbpedia.org/page/Returns_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '149.0' } ],
+     'dbo:abstract': [ { value: 'Returns is a live album by the fusion band Return to Forever. Released in 2009, it is the first recording by the band after a hiatus of 32 years.  A video recording of the band\'s live performances from the "Returns" tour at Montreux, Switzerland and (bonus material) Clearwater, Florida was also released in 2009 by Eagle Rock Entertainment as Return to Forever – Returns: Live at Montreux 2008. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Return_to_Forever',
+          href: 'http://dbpedia.org/resource/Return_to_Forever' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Live_(Return_to_Forever_album)',
+          href: 'http://dbpedia.org/resource/Live_(Return_to_Forever_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Claude_Nobs',
+          href: 'http://dbpedia.org/resource/Claude_Nobs' },
+        { value: 'dbr:Terry_Shand',
+          href: 'http://dbpedia.org/resource/Terry_Shand' } ],
+     'dbo:recordDate': [ { value: '2008-07-18 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Eagle_Rock_Entertainment',
+          href: 'http://dbpedia.org/resource/Eagle_Rock_Entertainment' },
+        { value: 'dbr:Eagle_Records',
+          href: 'http://dbpedia.org/resource/Eagle_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Clearwater,_Florida',
+          href: 'http://dbpedia.org/resource/Clearwater,_Florida' },
+        { value: 'dbr:Montreux',
+          href: 'http://dbpedia.org/resource/Montreux' } ],
+     'dbo:releaseDate': [ { value: '2009-03-17 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '8940.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Mothership_Returns',
+          href: 'http://dbpedia.org/resource/The_Mothership_Returns' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_(Return_to_Forever_album)',
+          href: 'http://dbpedia.org/resource/Live_(Return_to_Forever_album)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.discogs.com/Return-To-Forever-Returns/release/1818762',
+          href: 'http://www.discogs.com/Return-To-Forever-Returns/release/1818762' },
+        { value: 'http://jazztimes.com/articles/25780-return-to-forever-returns-live-at-montreux-2008',
+          href: 'http://jazztimes.com/articles/25780-return-to-forever-returns-live-at-montreux-2008' } ],
+     'dbo:wikiPageID': [ { value: '23574604 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '639880162 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Return_to_Forever',
+          href: 'http://dbpedia.org/resource/Return_to_Forever' } ],
+     'dbp:cover': 
+      [ { value: 'RTF_Returns.jpg (en)' },
+        { value: 'RTF_Returns_DVD.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Eagle_Records',
+          href: 'http://dbpedia.org/resource/Eagle_Records' },
+        { value: 'Eagle Rock Entertainment (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Live (en)' } ],
+     'dbp:length': [ { value: '8940.0' } ],
+     'dbp:name': 
+      [ { value: 'Returns (en)' },
+        { value: 'Return to Forever - Returns: Live at Montreux 2008 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Mothership Returns (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Claude_Nobs',
+          href: 'http://dbpedia.org/resource/Claude_Nobs' },
+        { value: 'dbr:Terry_Shand',
+          href: 'http://dbpedia.org/resource/Terry_Shand' } ],
+     'dbp:recorded': [ { value: '2008 (xsd:integer)' }, { value: '--07-18' } ],
+     'dbp:released': 
+      [ { value: '2009 (xsd:integer)' },
+        { value: '2009-03-17 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': 
+      [ { value: 'Returns (en)' },
+        { value: 'Returns - Live at Montreux 2008 (en)' } ],
+     'dbp:type': [ { value: 'live (en)' }, { value: 'video (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Return_to_Forever_albums',
+          href: 'http://dbpedia.org/resource/Category:Return_to_Forever_albums' },
+        { value: 'dbc:2009_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2009_live_albums' },
+        { value: 'dbc:Live_jazz_fusion_albums',
+          href: 'http://dbpedia.org/resource/Category:Live_jazz_fusion_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Returns is a live album by the fusion band Return to Forever. Released in 2009, it is the first recording by the band after a hiatus of 32 years.  A video recording of the band\'s live performances from the "Returns" tour at Montreux, Switzerland and (bonus material) Clearwater, Florida was also released in 2009 by Eagle Rock Entertainment as Return to Forever – Returns: Live at Montreux 2008. (en)' } ],
+     'rdfs:label': [ { value: 'Returns (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Returns (album)',
+          href: 'http://rdf.freebase.com/ns/m.06w41fc' },
+        { value: 'dbpedia-wikidata:Returns (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7317291' },
+        { value: 'wikidata:Returns (album)',
+          href: 'http://www.wikidata.org/entity/Q7317291' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Returns_(album)?oldid=639880162',
+          href: 'http://en.wikipedia.org/wiki/Returns_(album)?oldid=639880162' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Returns_(album)',
+          href: 'http://en.wikipedia.org/wiki/Returns_(album)' } ],
+     'foaf:name': 
+      [ { value: 'Returns (en)' },
+        { value: 'Return to Forever - Returns: Live at Montreux 2008 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Mothership_Returns',
+          href: 'http://dbpedia.org/resource/The_Mothership_Returns' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Return',
+          href: 'http://dbpedia.org/resource/Return' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Return_to_Forever_-_Returns',
+          href: 'http://dbpedia.org/resource/Return_to_Forever_-_Returns' },
+        { value: 'dbr:Return_to_Forever_–_Returns',
+          href: 'http://dbpedia.org/resource/Return_to_Forever_–_Returns' },
+        { value: 'dbr:Return_to_Forever_–_Returns:_Live_at_Montreux_2008',
+          href: 'http://dbpedia.org/resource/Return_to_Forever_–_Returns:_Live_at_Montreux_2008' },
+        { value: 'dbr:Returns_(Return_to_Forever_album)',
+          href: 'http://dbpedia.org/resource/Returns_(Return_to_Forever_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Returns_(album)',
+          href: 'http://en.wikipedia.org/wiki/Returns_(album)' } ] } }

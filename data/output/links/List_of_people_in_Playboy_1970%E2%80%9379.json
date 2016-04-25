@@ -1,0 +1,51 @@
+{ name: 'List of people in Playboy 1970–79',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_in_Playboy_1970%E2%80%9379',
+  values: 
+   { 'dbo:abstract': [ { value: 'This list of people in Playboy 1970–79 is a catalog of women and men who appeared in Playboy magazine in the years 1970 through 1979. Note that not all of the people featured in the magazine are pictured in the nude.Entries in blue indicate that the issue marks the original appearance of that year\'s Playmate of the Year (PMOY). (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.playboywiki.com/CC+Playmates+of+the+Month#pm1970',
+          href: 'http://www.playboywiki.com/CC+Playmates+of+the+Month#pm1970' },
+        { value: 'http://www.playboywiki.com/',
+          href: 'http://www.playboywiki.com/' } ],
+     'dbo:wikiPageID': [ { value: '1566803 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '630845006 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1970s_in_media',
+          href: 'http://dbpedia.org/resource/Category:1970s_in_media' },
+        { value: 'dbc:Lists_of_people_by_period',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_by_period' },
+        { value: 'dbc:Playboy_lists',
+          href: 'http://dbpedia.org/resource/Category:Playboy_lists' } ],
+     'rdfs:comment': [ { value: 'This list of people in Playboy 1970–79 is a catalog of women and men who appeared in Playboy magazine in the years 1970 through 1979. Note that not all of the people featured in the magazine are pictured in the nude.Entries in blue indicate that the issue marks the original appearance of that year\'s Playmate of the Year (PMOY). (en)' } ],
+     'rdfs:label': [ { value: 'List of people in Playboy 1970–79 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:List of people in Playboy 1970–79',
+          href: 'http://fr.dbpedia.org/resource/Liste_des_«_Playmates_»_des_années_1970' },
+        { value: 'dbpedia-it:List of people in Playboy 1970–79',
+          href: 'http://it.dbpedia.org/resource/Playboy_Playmate_1970-1979' },
+        { value: 'dbpedia-ja:List of people in Playboy 1970–79',
+          href: 'http://ja.dbpedia.org/resource/プレイメイト一覧_1970年代' },
+        { value: 'dbpedia-wikidata:List of people in Playboy 1970–79',
+          href: 'http://wikidata.dbpedia.org/resource/Q1091881' },
+        { value: 'wikidata:List of people in Playboy 1970–79',
+          href: 'http://www.wikidata.org/entity/Q1091881' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_in_Playboy_1970–79?oldid=630845006',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_in_Playboy_1970–79?oldid=630845006' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_in_Playboy_1970–79',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_in_Playboy_1970–79' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Pamela_Serpe',
+          href: 'http://dbpedia.org/resource/Pamela_Serpe' },
+        { value: 'dbr:List_of_people_in_Playboy_1970-1979',
+          href: 'http://dbpedia.org/resource/List_of_people_in_Playboy_1970-1979' },
+        { value: 'dbr:List_of_people_in_Playboy_1970–1979',
+          href: 'http://dbpedia.org/resource/List_of_people_in_Playboy_1970–1979' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:List of people in Playboy 1970–79',
+          href: 'http://dbpedia.org/resource/List_of_people_in_Playboy_1970%E2%80%9379' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_in_Playboy_1970–79',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_in_Playboy_1970–79' } ] } }

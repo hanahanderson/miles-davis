@@ -1,0 +1,8 @@
+{ name: 'User:JIK1975',
+  href: 'http://en.wikipedia.org/wiki/User:JIK1975',
+  mentions: 
+   [ { sectionHeader: 'About Me',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 325,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

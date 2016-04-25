@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Articles for deletion/Keith jarret',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Keith_jarret',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'It\'s like having an article for Miles Davis called Milse daviss.' ] } ] }

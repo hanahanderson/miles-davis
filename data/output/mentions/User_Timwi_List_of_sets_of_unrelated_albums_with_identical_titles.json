@@ -1,0 +1,13 @@
+{ name: 'User:Timwi/List of sets of unrelated albums with identical titles',
+  href: 'http://en.wikipedia.org/wiki/User:Timwi/List_of_sets_of_unrelated_albums_with_identical_titles',
+  mentions: 
+   [ { sectionHeader: 'L',
+       sectionSubHeader: '',
+       sectionIndex: 101,
+       wordCountBeforeSection: 11049,
+       quote: [ 'Live Evil, Miles Davis' ] },
+     { sectionHeader: 'O',
+       sectionSubHeader: '',
+       sectionIndex: 124,
+       wordCountBeforeSection: 13016,
+       quote: [ 'Odyssey, Miles Davis, 1955' ] } ] }

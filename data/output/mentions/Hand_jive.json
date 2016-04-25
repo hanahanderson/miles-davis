@@ -1,0 +1,8 @@
+{ name: 'Hand jive',
+  href: 'http://en.wikipedia.org/wiki/Hand_jive',
+  mentions: 
+   [ { sectionHeader: 'Songs referring to "Hand Jive"',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2297,
+       quote: [ 'Jazz trumpeter Miles Davis has a track named "Hand Jive" on his album Nefertiti from 1967.' ] } ] }

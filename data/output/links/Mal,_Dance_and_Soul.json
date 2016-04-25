@@ -1,0 +1,92 @@
+{ name: 'Mal, Dance and Soul',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Mal,_Dance_and_Soul',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '71.11666666666666' } ],
+     'dbo:abstract': [ { value: 'Mal, Dance and Soul is an album by jazz pianist Mal Waldron recorded in 1987 and first released on the German Tutu label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Mal_Waldron',
+          href: 'http://dbpedia.org/resource/Mal_Waldron' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Super_Quartet_Live_at_Sweet_Basil',
+          href: 'http://dbpedia.org/resource/The_Super_Quartet_Live_at_Sweet_Basil' } ],
+     'dbo:recordDate': [ { value: '1987-11-25 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Tutu_Records',
+          href: 'http://dbpedia.org/resource/Tutu_Records' } ],
+     'dbo:runtime': [ { value: '4267.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Evidence_(Mal_Waldron_album)',
+          href: 'http://dbpedia.org/resource/Evidence_(Mal_Waldron_album)' } ],
+     'dbo:wikiPageID': [ { value: '31129649 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '608340213 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Mal_Waldron',
+          href: 'http://dbpedia.org/resource/Mal_Waldron' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Mal_Waldron',
+          href: 'http://dbpedia.org/resource/Mal_Waldron' } ],
+     'dbp:cover': [ { value: 'Mal, Dance and Soul.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Tutu_Records',
+          href: 'http://dbpedia.org/resource/Tutu_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Super Quartet Live at Sweet Basil (en)' } ],
+     'dbp:length': [ { value: '4267.0' } ],
+     'dbp:name': [ { value: 'Mal, Dance and Soul (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Evidence (en)' } ],
+     'dbp:producer': [ { value: 'Horst Weber (en)' } ],
+     'dbp:recorded': [ { value: '1987-11-25 (xsd:date)' } ],
+     'dbp:released': [ { value: '1987 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Mal, Dance and Soul (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Mal_Waldron_albums',
+          href: 'http://dbpedia.org/resource/Category:Mal_Waldron_albums' },
+        { value: 'dbc:1987_albums',
+          href: 'http://dbpedia.org/resource/Category:1987_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Mal, Dance and Soul is an album by jazz pianist Mal Waldron recorded in 1987 and first released on the German Tutu label. (en)' } ],
+     'rdfs:label': [ { value: 'Mal, Dance and Soul (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Mal, Dance and Soul',
+          href: 'http://rdf.freebase.com/ns/m.0gh8zh0' },
+        { value: 'dbpedia-wikidata:Mal, Dance and Soul',
+          href: 'http://wikidata.dbpedia.org/resource/Q6740535' },
+        { value: 'wikidata:Mal, Dance and Soul',
+          href: 'http://www.wikidata.org/entity/Q6740535' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Mal,_Dance_and_Soul?oldid=608340213',
+          href: 'http://en.wikipedia.org/wiki/Mal,_Dance_and_Soul?oldid=608340213' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Mal,_Dance_and_Soul',
+          href: 'http://en.wikipedia.org/wiki/Mal,_Dance_and_Soul' } ],
+     'foaf:name': [ { value: 'Mal, Dance and Soul (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Evidence_(Mal_Waldron_album)',
+          href: 'http://dbpedia.org/resource/Evidence_(Mal_Waldron_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Super_Quartet_Live_at_Sweet_Basil',
+          href: 'http://dbpedia.org/resource/The_Super_Quartet_Live_at_Sweet_Basil' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Mal,_Dance_and_Soul',
+          href: 'http://en.wikipedia.org/wiki/Mal,_Dance_and_Soul' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Dokaka',
+  href: 'http://en.wikipedia.org/wiki/Dokaka',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 1161,
+       quote: [ 'He has distributed his recordings primarily as free downloads from his website; these include interpretations of works by King Crimson, Led Zeppelin, Wes Montgomery, Slayer, the Rolling Stones, and Miles Davis, among many others.' ] } ] }

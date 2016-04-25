@@ -1,0 +1,83 @@
+{ name: 'Extended technique',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Extended_technique',
+  values: 
+   { 'dbo:abstract': [ { value: 'In music, extended technique is unconventional, unorthodox, or non-traditional methods of singing or of playing musical instruments employed to obtain unusual sounds or timbres.Composers’ use of extended techniques is not specific to contemporary music (for instance, Hector Berlioz’s use of col legno in his Symphonie Fantastique is an extended technique) and it transcends compositional schools and styles. Extended techniques have also flourished in popular music. Nearly all jazz performers make significant use of extended techniques of one sort or another, particularly in more recent styles like free jazz or avant-garde jazz. Musicians in free improvisation have also made heavy use of extended techniques.Examples of extended techniques include bowing under the bridge of a string instrument or with two different bows, using key clicks on a wind instrument, blowing and overblowing into a wind instrument without a mouthpiece, or inserting objects on top of the strings of a piano. Twentieth-century exponents of extended techniques include Henry Cowell (use of fists and arms on the keyboard, playing inside the piano), John Cage (prepared piano), and George Crumb. The Kronos Quartet, which has been among the most active ensembles in promoting contemporary American works for string quartet, frequently plays music which stretches the manner in which sound can be drawn out of instruments. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Myprepguitar.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Myprepguitar.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.wfg.woodwind.org/fing.html',
+          href: 'http://www.wfg.woodwind.org/fing.html' },
+        { value: 'http://www.sforzando.se/flutetech/index.htm',
+          href: 'http://www.sforzando.se/flutetech/index.htm' },
+        { value: 'http://www.newmusicbox.org/article.nmbx?id=4076',
+          href: 'http://www.newmusicbox.org/article.nmbx?id=4076' },
+        { value: 'http://www.hypercustom.com/howtoprepareaguitar.html',
+          href: 'http://www.hypercustom.com/howtoprepareaguitar.html' },
+        { value: 'http://www.oddmusic.com/',
+          href: 'http://www.oddmusic.com/' },
+        { value: 'http://www.mti.dmu.ac.uk/~ahugill/manual/',
+          href: 'http://www.mti.dmu.ac.uk/~ahugill/manual/' } ],
+     'dbo:wikiPageID': [ { value: '410014 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675042378 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Extended_techniques',
+          href: 'http://dbpedia.org/resource/Category:Extended_techniques' },
+        { value: 'dbc:Musical_performance_techniques',
+          href: 'http://dbpedia.org/resource/Category:Musical_performance_techniques' },
+        { value: 'dbc:20th-century_classical_music',
+          href: 'http://dbpedia.org/resource/Category:20th-century_classical_music' },
+        { value: 'dbc:Contemporary_classical_music',
+          href: 'http://dbpedia.org/resource/Category:Contemporary_classical_music' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'In music, extended technique is unconventional, unorthodox, or non-traditional methods of singing or of playing musical instruments employed to obtain unusual sounds or timbres.Composers’ use of extended techniques is not specific to contemporary music (for instance, Hector Berlioz’s use of col legno in his Symphonie Fantastique is an extended technique) and it transcends compositional schools and styles. Extended techniques have also flourished in popular music. (en)' } ],
+     'rdfs:label': [ { value: 'Extended technique (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Extended technique',
+          href: 'http://rdf.freebase.com/ns/m.024yyt' },
+        { value: 'dbpedia-fr:Extended technique',
+          href: 'http://fr.dbpedia.org/resource/Techniques_de_jeu_étendues' },
+        { value: 'dbpedia-de:Extended technique',
+          href: 'http://de.dbpedia.org/resource/Extended_technique' },
+        { value: 'dbpedia-es:Extended technique',
+          href: 'http://es.dbpedia.org/resource/Técnicas_extendidas' },
+        { value: 'dbpedia-nl:Extended technique',
+          href: 'http://nl.dbpedia.org/resource/Extended_technique' },
+        { value: 'dbpedia-wikidata:Extended technique',
+          href: 'http://wikidata.dbpedia.org/resource/Q946962' },
+        { value: 'wikidata:Extended technique',
+          href: 'http://www.wikidata.org/entity/Q946962' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Extended_technique?oldid=675042378',
+          href: 'http://en.wikipedia.org/wiki/Extended_technique?oldid=675042378' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Myprepguitar.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Myprepguitar.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Extended_technique',
+          href: 'http://en.wikipedia.org/wiki/Extended_technique' } ],
+     'is dbo:genre\n of': 
+      [ { value: 'dbr:Fátima_Miranda',
+          href: 'http://dbpedia.org/resource/Fátima_Miranda' } ],
+     'is dbo:instrument\n of': 
+      [ { value: 'dbr:Tina_Marsh',
+          href: 'http://dbpedia.org/resource/Tina_Marsh' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Extended_techniques',
+          href: 'http://dbpedia.org/resource/Extended_techniques' },
+        { value: 'dbr:Instrument_modifications_&_extended_performing_techniques',
+          href: 'http://dbpedia.org/resource/Instrument_modifications_&_extended_performing_techniques' },
+        { value: 'dbr:Key_slap',
+          href: 'http://dbpedia.org/resource/Key_slap' } ],
+     'is dbp:genre\n of': 
+      [ { value: 'dbr:Fátima_Miranda',
+          href: 'http://dbpedia.org/resource/Fátima_Miranda' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Outline_of_guitars',
+          href: 'http://dbpedia.org/resource/Outline_of_guitars' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Extended_technique',
+          href: 'http://en.wikipedia.org/wiki/Extended_technique' } ] } }

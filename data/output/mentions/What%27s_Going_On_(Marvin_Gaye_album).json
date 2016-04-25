@@ -1,0 +1,8 @@
+{ name: 'What\'s Going On (Marvin Gaye album)',
+  href: 'http://en.wikipedia.org/wiki/What%27s_Going_On_(Marvin_Gaye_album)',
+  mentions: 
+   [ { sectionHeader: 'Critical reception',
+       sectionSubHeader: '',
+       sectionIndex: 36,
+       wordCountBeforeSection: 20954,
+       quote: [ 'BBC Music\'s David Katz described the album as "one of the greatest albums of all time, and nothing short of a masterpiece" and compared it to Miles Davis\' Kind of Blue by saying "its non-standard musical arrangements, which heralded a new sound at the time, gives it a chilling edge that ultimately underscores its gravity, with subtle orchestral enhancements offset by percolating congas, expertly layered above James Jamerson\'s bubbling bass".' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:Bellagio99',
+  href: 'http://en.wikipedia.org/wiki/User:Bellagio99',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

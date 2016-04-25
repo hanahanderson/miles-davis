@@ -1,0 +1,8 @@
+{ name: 'John Wall (electronic composer)',
+  href: 'http://en.wikipedia.org/wiki/John_Wall_(electronic_composer)',
+  mentions: 
+   [ { sectionHeader: 'Recordings',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3907,
+       quote: [ 'Fractuur is on the syllabus for the Christoph Cox\'s "Contemporary Music and Musical Discourse" course at Hampshire College along with recordings by King Tubby and Miles Davis.' ] } ] }

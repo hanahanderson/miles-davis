@@ -1,0 +1,8 @@
+{ name: 'Introducing Kenny Cox',
+  href: 'http://en.wikipedia.org/wiki/Introducing_Kenny_Cox',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 580,
+       quote: [ 'Miles Davis' ] } ] }

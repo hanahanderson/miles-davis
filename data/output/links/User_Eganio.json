@@ -1,0 +1,4 @@
+{ name: 'User:Eganio',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Eganio',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

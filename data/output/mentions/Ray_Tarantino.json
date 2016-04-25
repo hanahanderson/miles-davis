@@ -1,0 +1,8 @@
+{ name: 'Ray Tarantino',
+  href: 'http://en.wikipedia.org/wiki/Ray_Tarantino',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2280,
+       quote: [ 'Delmar Brown, piano player and composer for many musicians, including Sting, Jaco Pastorius and Miles Davis, recorded Tarantino\'s song, "My Heart Your Heart," on Brown\'s album, "Inner Spirit."' ] } ] }

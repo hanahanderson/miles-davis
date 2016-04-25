@@ -1,0 +1,8 @@
+{ name: 'St. Louis Post-Dispatch',
+  href: 'http://en.wikipedia.org/wiki/St._Louis_Post-Dispatch',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 5216,
+       quote: [ 'Coverage of the city\'s "cultural icons" including Kate Chopin, Tennessee Williams, Chuck Berry, and Miles Davis.' ] } ] }

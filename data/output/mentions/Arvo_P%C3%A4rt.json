@@ -1,0 +1,8 @@
+{ name: 'Arvo Pärt',
+  href: 'http://en.wikipedia.org/wiki/Arvo_P%C3%A4rt',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Compositions',
+       sectionIndex: 46,
+       wordCountBeforeSection: 15513,
+       quote: [ 'Miles Davis (1984)' ] } ] }

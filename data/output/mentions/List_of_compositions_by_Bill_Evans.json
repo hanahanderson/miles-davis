@@ -1,0 +1,8 @@
+{ name: 'List of compositions by Bill Evans',
+  href: 'http://en.wikipedia.org/wiki/List_of_compositions_by_Bill_Evans',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 231,
+       quote: [ 'Miles Davis claimed authorship, but it was Evans who composed it.' ] } ] }

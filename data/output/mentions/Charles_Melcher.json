@@ -1,0 +1,8 @@
+{ name: 'Charles Melcher',
+  href: 'http://en.wikipedia.org/wiki/Charles_Melcher',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 5512,
+       quote: [ 'Burroughs, Karl Lagerfeld, Miles Davis, Tom Brady, Scarlett Johansson, Jeremy Irons) from the past two decades of their advertising campaign.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jeff Jones (music industry executive)',
+  href: 'http://en.wikipedia.org/wiki/Jeff_Jones_(music_industry_executive)',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2007,
+       quote: [ 'While with Legacy, Jones spearheaded such projects as the Miles Davis re-issues series, which earned multiple Grammy awards, and the historical Ken Burns JAZZ project.' ] } ] }

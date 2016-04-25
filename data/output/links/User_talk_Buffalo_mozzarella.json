@@ -1,0 +1,4 @@
+{ name: 'User talk:Buffalo mozzarella',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User_talk:Buffalo_mozzarella',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Animal Kingdom (film)',
+  href: 'http://en.wikipedia.org/wiki/Animal_Kingdom_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Accolades',
+       sectionIndex: 46,
+       wordCountBeforeSection: 20065,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

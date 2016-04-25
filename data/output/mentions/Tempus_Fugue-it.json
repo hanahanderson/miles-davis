@@ -1,0 +1,8 @@
+{ name: 'Tempus Fugue-it',
+  href: 'http://en.wikipedia.org/wiki/Tempus_Fugue-it',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'It has been recorded by Powell, Miles Davis and many others.' ] } ] }

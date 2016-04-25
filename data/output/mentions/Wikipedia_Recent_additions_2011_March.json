@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Recent additions/2011/March',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Recent_additions/2011/March',
+  mentions: 
+   [ { sectionHeader: 'Did you know...',
+       sectionSubHeader: '',
+       sectionIndex: 137,
+       wordCountBeforeSection: 41339,
+       quote: [ 'that Choctaw-Cherokee artist Jeffrey Gibson was described by Jimmie Durham as the Miles Davis of contemporary Native American art?' ] } ] }

@@ -1,0 +1,110 @@
+{ name: 'Topaz (Erik Friedlander album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Topaz_(Erik_Friedlander_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '56.083333333333336' } ],
+     'dbo:abstract': [ { value: 'Topaz is a 1999 album by cellist Erik Friedlander which was released on the Siam label and features the quartet that became known as Topaz. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Erik_Friedlander',
+          href: 'http://dbpedia.org/resource/Erik_Friedlander' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Avant-garde',
+          href: 'http://dbpedia.org/resource/Avant-garde' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Contemporary_classical_music',
+          href: 'http://dbpedia.org/resource/Contemporary_classical_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Watchman_(album)',
+          href: 'http://dbpedia.org/resource/The_Watchman_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Erik_Friedlander',
+          href: 'http://dbpedia.org/resource/Erik_Friedlander' } ],
+     'dbo:releaseDate': [ { value: '1999-03-02 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3365.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Skin_(Erik_Friedlander_album)',
+          href: 'http://dbpedia.org/resource/Skin_(Erik_Friedlander_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '41572367 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '606712716 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Erik_Friedlander',
+          href: 'http://dbpedia.org/resource/Erik_Friedlander' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Erik_Friedlander',
+          href: 'http://dbpedia.org/resource/Erik_Friedlander' } ],
+     'dbp:cover': [ { value: 'Topaz .jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Avant-garde',
+          href: 'http://dbpedia.org/resource/Avant-garde' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Contemporary_classical_music',
+          href: 'http://dbpedia.org/resource/Contemporary_classical_music' } ],
+     'dbp:label': [ { value: 'Siam SMD-50003 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'The Watchman (en)' } ],
+     'dbp:length': [ { value: '3365.0' } ],
+     'dbp:name': [ { value: 'Topaz (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Skin (en)' } ],
+     'dbp:producer': [ { value: 'Erik Friedlander (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--12-29' },
+        { value: 'Clinton Recording Studios, New York, NY (en)' } ],
+     'dbp:released': [ { value: '1999-03-02 (xsd:date)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Topaz (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1999_albums',
+          href: 'http://dbpedia.org/resource/Category:1999_albums' },
+        { value: 'dbc:Erik_Friedlander_albums',
+          href: 'http://dbpedia.org/resource/Category:Erik_Friedlander_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Topaz is a 1999 album by cellist Erik Friedlander which was released on the Siam label and features the quartet that became known as Topaz. (en)' } ],
+     'rdfs:label': [ { value: 'Topaz (Erik Friedlander album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Topaz (Erik Friedlander album)',
+          href: 'http://rdf.freebase.com/ns/m.0x6khnq' },
+        { value: 'wikidata:Topaz (Erik Friedlander album)',
+          href: 'http://www.wikidata.org/entity/Q17026568' },
+        { value: 'dbpedia-wikidata:Topaz (Erik Friedlander album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17026568' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Topaz_(Erik_Friedlander_album)?oldid=606712716',
+          href: 'http://en.wikipedia.org/wiki/Topaz_(Erik_Friedlander_album)?oldid=606712716' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Topaz_(Erik_Friedlander_album)',
+          href: 'http://en.wikipedia.org/wiki/Topaz_(Erik_Friedlander_album)' } ],
+     'foaf:name': [ { value: 'Topaz (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Skin_(Erik_Friedlander_album)',
+          href: 'http://dbpedia.org/resource/Skin_(Erik_Friedlander_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Watchman_(album)',
+          href: 'http://dbpedia.org/resource/The_Watchman_(album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Topaz_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Topaz_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Topaz_(Erik_Friedlander_album)',
+          href: 'http://en.wikipedia.org/wiki/Topaz_(Erik_Friedlander_album)' } ] } }

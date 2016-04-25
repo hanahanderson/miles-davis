@@ -1,0 +1,8 @@
+{ name: 'List of pre-1920 jazz standards',
+  href: 'http://en.wikipedia.org/wiki/List_of_pre-1920_jazz_standards',
+  mentions: 
+   [ { sectionHeader: '1915–1917',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 9276,
+       quote: [ 'The song is one of the most popular pre-1920s standards, and its chord progression has been used in numerous jazz compositions, including Miles Davis\'s 1947 tune "Donna Lee".' ] } ] }

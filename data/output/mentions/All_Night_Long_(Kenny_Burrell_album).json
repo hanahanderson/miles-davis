@@ -1,0 +1,8 @@
+{ name: 'All Night Long (Kenny Burrell album)',
+  href: 'http://en.wikipedia.org/wiki/All_Night_Long_(Kenny_Burrell_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 979,
+       quote: [ '"Tune Up" (Miles Davis) - 5:36 Bonus track on CD reissue' ] } ] }

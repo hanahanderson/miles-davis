@@ -1,0 +1,8 @@
+{ name: 'Double Image (album)',
+  href: 'http://en.wikipedia.org/wiki/Double_Image_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 992,
+       quote: [ '"Blue in Green (Miles Davis) - 2:31 Bonus track on CD reissue' ] } ] }

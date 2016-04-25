@@ -1,0 +1,8 @@
+{ name: 'Rick James',
+  href: 'http://en.wikipedia.org/wiki/Rick_James',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4988,
+       quote: [ 'James\' mother would take him on her collecting route, and it was in bars where she worked that James got to see performers such as John Coltrane, Miles Davis, and Etta James perform.' ] } ] }

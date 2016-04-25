@@ -1,0 +1,8 @@
+{ name: 'Grant Geissman',
+  href: 'http://en.wikipedia.org/wiki/Grant_Geissman',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 689,
+       quote: [ 'As a high school senior, he entered formal study with avant-garde guitarist Jerry Hahn, who introduced him to the music of Charlie Parker, Miles Davis, John Coltrane and Ornette Coleman.' ] } ] }

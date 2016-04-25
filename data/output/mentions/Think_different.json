@@ -1,0 +1,18 @@
+{ name: 'Think different',
+  href: 'http://en.wikipedia.org/wiki/Think_different',
+  mentions: 
+   [ { sectionHeader: 'Print advertisements',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6532,
+       quote: [ 'The familiar faces on display included Jim Henson, Richard Feynman, Maria Callas, Miles Davis, Martha Graham, Ansel Adams, Cesar Chavez, Joan Baez, Laurence Gartel and others.' ] },
+     { sectionHeader: 'Promotional posters',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 7619,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Promotional posters',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 8306,
+       quote: [ 'Miles Davis' ] } ] }

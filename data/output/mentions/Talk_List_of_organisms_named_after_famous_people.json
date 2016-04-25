@@ -1,0 +1,8 @@
+{ name: 'Talk:List of organisms named after famous people',
+  href: 'http://en.wikipedia.org/wiki/Talk:List_of_organisms_named_after_famous_people',
+  mentions: 
+   [ { sectionHeader: 'More new names',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 11699,
+       quote: [ 'Milesdavis, Miles Davis' ] } ] }

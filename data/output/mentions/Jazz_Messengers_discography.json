@@ -1,0 +1,13 @@
+{ name: 'Jazz Messengers discography',
+  href: 'http://en.wikipedia.org/wiki/Jazz_Messengers_discography',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1887,
+       quote: [ 'After Shorter departed for Miles Davis\' Second Great Quintet, the band signed with Quincy Jones\' Mercury sub-label Limelight Records for three more releases starting in 1965.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1887,
+       quote: [ 'After Shorter departed for Miles Davis\' Second Great Quintet, the band signed with Quincy Jones\' Mercury sub-label Limelight Records for three more releases starting in 1965.' ] } ] }

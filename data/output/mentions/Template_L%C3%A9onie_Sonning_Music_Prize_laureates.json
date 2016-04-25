@@ -1,0 +1,8 @@
+{ name: 'Template:Léonie Sonning Music Prize laureates',
+  href: 'http://en.wikipedia.org/wiki/Template:L%C3%A9onie_Sonning_Music_Prize_laureates',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis (1984)' ] } ] }

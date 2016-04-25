@@ -1,0 +1,4 @@
+{ name: 'The Year of the Elephant',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/The_Year_of_the_Elephant',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Frank Strozier',
+  href: 'http://en.wikipedia.org/wiki/Frank_Strozier',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 844,
+       quote: [ 'After moving to New York, Strozier was briefly with the Miles Davis Quintet in 1963 (between the tenures of Hank Mobley and George Coleman) and also gigged with Roy Haynes.' ] } ] }

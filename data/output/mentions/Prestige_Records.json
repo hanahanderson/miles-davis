@@ -1,0 +1,10 @@
+{ name: 'Prestige Records',
+  href: 'http://en.wikipedia.org/wiki/Prestige_Records',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1054,
+       quote: 
+        [ 'Its catalog contains a significant number of jazz classics, including renowned works by Miles Davis, John Coltrane, Sonny Rollins, Thelonious Monk and many others.',
+          'Prestige recordings chronicle low points in the careers of some musicians, such as during Miles Davis\'s early 1950s heroin addiction.' ] } ] }

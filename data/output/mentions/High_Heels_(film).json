@@ -1,0 +1,8 @@
+{ name: 'High Heels (film)',
+  href: 'http://en.wikipedia.org/wiki/High_Heels_(film)',
+  mentions: 
+   [ { sectionHeader: 'Soundtrack',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 15570,
+       quote: [ 'For the title sequence and Rebeca\'s second confession in High Heels, Almodóvar used pieces composed by Miles Davis in the Sixties, that were inspired by Flamenco.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Harvey Mason',
+  href: 'http://en.wikipedia.org/wiki/Harvey_Mason',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 3316,
+       quote: [ 'With Miles Davis & Michel Legrand' ] } ] }

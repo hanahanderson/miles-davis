@@ -1,0 +1,51 @@
+{ name: 'Music of New York City',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Music_of_New_York_City',
+  values: 
+   { 'dbo:abstract': [ { value: 'The music of New York City is a diverse and important field in the world of music. It has long been a thriving home for popular genres such as jazz, rock and the blues, as well as classical and art music. It is the birthplace of hip hop, freestyle, doo wop, bebop, disco, punk rock, and new wave. It\'s also the birthplace of Salsa music, born from a fusion of Cuban, Puerto Rican and Dominican influences that came together in New York\'s Latino neighborhoods in the 1960s. The city\'s culture, a melting pot of nations from around the world, has produced vital folk music scenes such as Irish-American music and Jewish klezmer. Beginning with the rise of popular sheet music in the early 20th century, New York\'s Broadway musical theater and Tin Pan Alley\'s songcraft, New York has been a major part of the American music industry.Music author Richie Unterberger has described the New York music scene, and the city itself, as "(i)mmense, richly diverse, flashy, polyethnic, and engaged in a never-ending race for artistic and cosmopolitan supremacy". Despite the city\'s historic importance in the development of American music, there are those who feel that its status has declined in recent years, due to a combination of increased corporate control over music media, an increase in the cost-of-living and the rise of local music scenes whose success is facilitated by the cheap communication provided by the Internet. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Carnegie_Hall.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Carnegie_Hall.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '305609 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683001468 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_music_history',
+          href: 'http://dbpedia.org/resource/Category:American_music_history' },
+        { value: 'dbc:Music_of_New_York_City',
+          href: 'http://dbpedia.org/resource/Category:Music_of_New_York_City' } ],
+     'rdfs:comment': [ { value: 'The music of New York City is a diverse and important field in the world of music. It has long been a thriving home for popular genres such as jazz, rock and the blues, as well as classical and art music. It is the birthplace of hip hop, freestyle, doo wop, bebop, disco, punk rock, and new wave. It\'s also the birthplace of Salsa music, born from a fusion of Cuban, Puerto Rican and Dominican influences that came together in New York\'s Latino neighborhoods in the 1960s. (en)' } ],
+     'rdfs:label': [ { value: 'Music of New York City (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Music of New York City',
+          href: 'http://rdf.freebase.com/ns/m.0119j8pk' },
+        { value: 'dbpedia-fr:Music of New York City',
+          href: 'http://fr.dbpedia.org/resource/Musique_à_New_York' },
+        { value: 'dbpedia-id:Music of New York City',
+          href: 'http://id.dbpedia.org/resource/Musik_Kota_New_York' },
+        { value: 'dbpedia-wikidata:Music of New York City',
+          href: 'http://wikidata.dbpedia.org/resource/Q420965' },
+        { value: 'wikidata:Music of New York City',
+          href: 'http://www.wikidata.org/entity/Q420965' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Music_of_New_York_City?oldid=683001468',
+          href: 'http://en.wikipedia.org/wiki/Music_of_New_York_City?oldid=683001468' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Carnegie_Hall.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Carnegie_Hall.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Music_of_New_York_City',
+          href: 'http://en.wikipedia.org/wiki/Music_of_New_York_City' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Music_of_NYC',
+          href: 'http://dbpedia.org/resource/Music_of_NYC' },
+        { value: 'dbr:Heavy_metal_in_New_York_City',
+          href: 'http://dbpedia.org/resource/Heavy_metal_in_New_York_City' },
+        { value: 'dbr:Heavy_metal_music_of_New_York_City',
+          href: 'http://dbpedia.org/resource/Heavy_metal_music_of_New_York_City' },
+        { value: 'dbr:Metal_in_New_York_City',
+          href: 'http://dbpedia.org/resource/Metal_in_New_York_City' },
+        { value: 'dbr:Metal_music_of_New_York_City',
+          href: 'http://dbpedia.org/resource/Metal_music_of_New_York_City' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Music_of_New_York_City',
+          href: 'http://en.wikipedia.org/wiki/Music_of_New_York_City' } ] } }

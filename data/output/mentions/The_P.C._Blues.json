@@ -1,0 +1,13 @@
+{ name: 'The P.C. Blues',
+  href: 'http://en.wikipedia.org/wiki/The_P.C._Blues',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 330,
+       quote: [ 'The P.C. Blues is an album by pianist Red Garland featuring tracks recorded in 1957 at the sessions that produced Red Garland\'s Piano and Groovy (with one track from Miles Davis\' 1956 album Workin\' with The Miles Davis Quintet added) which were first released on the Prestige label until 1970.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 330,
+       quote: [ 'Workin\' with The Miles Davis Quintet' ] } ] }

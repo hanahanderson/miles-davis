@@ -1,0 +1,47 @@
+{ name: 'Culture of St. Louis',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Culture_of_St._Louis',
+  values: 
+   { 'dbo:abstract': [ { value: 'The culture of St. Louis, Missouri includes a variety of attractions located within the city of St. Louis, Missouri and in surrounding communities in Greater St. Louis, such as local museums, attractions, music, performing arts venues, and places of worship. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/St_Louis_night_expblend_cropped.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/St_Louis_night_expblend_cropped.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '5373009 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682000553 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Culture_of_St._Louis,_Missouri',
+          href: 'http://dbpedia.org/resource/Category:Culture_of_St._Louis,_Missouri' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'The culture of St. Louis, Missouri includes a variety of attractions located within the city of St. Louis, Missouri and in surrounding communities in Greater St. Louis, such as local museums, attractions, music, performing arts venues, and places of worship. (en)' } ],
+     'rdfs:label': [ { value: 'Culture of St. Louis (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:Cultural_institution',
+          href: 'http://dbpedia.org/resource/Cultural_institution' },
+        { value: 'dbr:Greater_St._Louis',
+          href: 'http://dbpedia.org/resource/Greater_St._Louis' },
+        { value: 'dbr:List_of_museums',
+          href: 'http://dbpedia.org/resource/List_of_museums' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Culture of St. Louis',
+          href: 'http://wikidata.dbpedia.org/resource/Q5193644' },
+        { value: 'wikidata:Culture of St. Louis',
+          href: 'http://www.wikidata.org/entity/Q5193644' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Culture_of_St._Louis?oldid=682000553',
+          href: 'http://en.wikipedia.org/wiki/Culture_of_St._Louis?oldid=682000553' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/St_Louis_night_expblend_cropped.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/St_Louis_night_expblend_cropped.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Culture_of_St._Louis',
+          href: 'http://en.wikipedia.org/wiki/Culture_of_St._Louis' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Culture_of_St._Louis,_Missouri',
+          href: 'http://dbpedia.org/resource/Culture_of_St._Louis,_Missouri' },
+        { value: 'dbr:People_and_culture_of_St._Louis,_Missouri',
+          href: 'http://dbpedia.org/resource/People_and_culture_of_St._Louis,_Missouri' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Culture_of_St._Louis',
+          href: 'http://en.wikipedia.org/wiki/Culture_of_St._Louis' } ] } }

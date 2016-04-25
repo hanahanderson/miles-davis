@@ -1,0 +1,20 @@
+{ name: 'Bob Dorough',
+  href: 'http://en.wikipedia.org/wiki/Bob_Dorough',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 338,
+       quote: [ 'He worked with Miles Davis and Blossom Dearie, and his adventurous style was an influence on Mose Allison, among other singers.' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1929,
+       quote: 
+        [ 'Trumpeter Miles Davis liked the album, so when Columbia asked Davis to record a Christmas song in 1962, Davis turned to Dorough for lyrics and singing duties.',
+          'During that session Dorough recorded another song for Davis, "Nothing Like You," which appeared a few years later at the end of the Sorcerer album, making Dorough one of the few musicians with a vocal performance on a Miles Davis record.' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1929,
+       quote: [] } ] }

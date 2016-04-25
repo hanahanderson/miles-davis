@@ -1,0 +1,8 @@
+{ name: 'Beck',
+  href: 'http://en.wikipedia.org/wiki/Beck',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 13988,
+       quote: [ 'At other concerts, crowds were treated to twenty minutes of reggae or Miles Davis or jazz-punk iterations of "Loser".' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Causa Sui (band)',
+  href: 'http://en.wikipedia.org/wiki/Causa_Sui_(band)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 467,
+       quote: [ 'More recently the band has produced abstract, instrumental sounds inspired by electric Miles Davis or Can.' ] } ] }

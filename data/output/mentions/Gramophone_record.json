@@ -1,0 +1,8 @@
+{ name: 'Gramophone record',
+  href: 'http://en.wikipedia.org/wiki/Gramophone_record',
+  mentions: 
+   [ { sectionHeader: 'New sizes and materials',
+       sectionSubHeader: '',
+       sectionIndex: 81,
+       wordCountBeforeSection: 37988,
+       quote: [ 'Prestige Records released jazz records in this format in the late 1950s; for example, two of their Miles Davis albums were paired together in this format.' ] } ] }

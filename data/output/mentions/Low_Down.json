@@ -1,0 +1,8 @@
+{ name: 'Low Down',
+  href: 'http://en.wikipedia.org/wiki/Low_Down',
+  mentions: 
+   [ { sectionHeader: 'Plot summary',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1312,
+       quote: [ 'Joe Albany was a well accomplished jazz pianist during the 1960s and 1970s performing with the likes of Charlie Parker, Miles Davis, and Charles Mingus before his descent into heroin addiction.' ] } ] }

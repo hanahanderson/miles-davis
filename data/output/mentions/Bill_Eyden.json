@@ -1,0 +1,8 @@
+{ name: 'Bill Eyden',
+  href: 'http://en.wikipedia.org/wiki/Bill_Eyden',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 343,
+       quote: [ 'When the Couriers folded in 1959 he went on to play with The Vic Ash-Harry Klein Quintet, supporting Miles Davis on his first British tour in 1960.' ] } ] }

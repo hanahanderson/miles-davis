@@ -1,0 +1,8 @@
+{ name: 'List of Bill Evans tribute albums',
+  href: 'http://en.wikipedia.org/wiki/List_of_Bill_Evans_tribute_albums',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

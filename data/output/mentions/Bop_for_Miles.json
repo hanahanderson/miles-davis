@@ -1,0 +1,13 @@
+{ name: 'Bop for Miles',
+  href: 'http://en.wikipedia.org/wiki/Bop_for_Miles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 281,
+       quote: [ 'Bop for Miles is 2004 live album by Mark Murphy, recorded in tribute to trumpeter Miles Davis. ' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1121,
+       quote: [ '"All Blues" (Miles Davis) - 6:44' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Bump (album)',
+  href: 'http://en.wikipedia.org/wiki/Bump_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1524,
+       quote: [ 'Miles Davis' ] } ] }

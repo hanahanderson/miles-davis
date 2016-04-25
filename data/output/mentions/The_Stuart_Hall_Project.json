@@ -1,0 +1,15 @@
+{ name: 'The Stuart Hall Project',
+  href: 'http://en.wikipedia.org/wiki/The_Stuart_Hall_Project',
+  mentions: 
+   [ { sectionHeader: 'Summary',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2017,
+       quote: [ 'He comments that, similar to Miles Davis’s trumpet, it is the seemingly most mundane portions of everyday life that can affect the person we become and more broadly provide an accurate barometer of social change.' ] },
+     { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 5750,
+       quote: 
+        [ 'With the help of sound designers Trevor Mathison and Robin Fellows, Akomfrah\'s The Stuart Hall Project is an example of improvisation between the narrative device and jazz music, in this instance the music of Miles Davis.',
+          'Akomfrah explains: "The Miles Davis music provided you with a kind of marker of time, which is much more explicit I felt than The Unfinished Conversation.' ] } ] }

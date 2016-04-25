@@ -1,0 +1,8 @@
+{ name: 'Mark Sholtez',
+  href: 'http://en.wikipedia.org/wiki/Mark_Sholtez',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 439,
+       quote: [ 'The album\'s cast includes multiple Grammy-winning producer (and Verve Music Group chairman) Tommy LiPuma (Frank Sinatra, Diana Krall, Nat King Cole, George Benson, Barbra Streisand, Al Jarreau, Miles Davis) along with noted veteran engineer Al Schmitt and a prestigious cast of players that includes Christian McBride on bass, Rob Mounsey on keyboards, Geoffrey Keezer on piano, Bob Mann on guitar, Chris Potter on sax and Lewis Nash on drums.' ] } ] }

@@ -1,0 +1,33 @@
+{ name: 'List of jazz contrafacts',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_jazz_contrafacts',
+  values: 
+   { 'dbo:abstract': [ { value: 'A contrafact is a musical composition built using the chord progression of a pre-existing one but introducing a new melody and arrangement. Typically the original tune\'s progression and song form will be reused but occasionally just a section will be reused in the new composition. This article is a list of notable contrafacts by jazz artists. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.seventhstring.co.uk/fbindex.html',
+          href: 'http://www.seventhstring.co.uk/fbindex.html' },
+        { value: 'http://www.tinyrevolution.com/mt/archives/002539.html',
+          href: 'http://www.tinyrevolution.com/mt/archives/002539.html' } ],
+     'dbo:wikiPageID': [ { value: '22603375 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682908890 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_theory_lists',
+          href: 'http://dbpedia.org/resource/Category:Music_theory_lists' },
+        { value: 'dbc:Musical_techniques',
+          href: 'http://dbpedia.org/resource/Category:Musical_techniques' } ],
+     'rdfs:comment': [ { value: 'A contrafact is a musical composition built using the chord progression of a pre-existing one but introducing a new melody and arrangement. Typically the original tune\'s progression and song form will be reused but occasionally just a section will be reused in the new composition. This article is a list of notable contrafacts by jazz artists. (en)' } ],
+     'rdfs:label': [ { value: 'List of jazz contrafacts (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of jazz contrafacts',
+          href: 'http://wikidata.dbpedia.org/resource/Q17092842' },
+        { value: 'wikidata:List of jazz contrafacts',
+          href: 'http://www.wikidata.org/entity/Q17092842' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_jazz_contrafacts?oldid=682908890',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_contrafacts?oldid=682908890' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_jazz_contrafacts',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_contrafacts' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_jazz_contrafacts',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_contrafacts' } ] } }

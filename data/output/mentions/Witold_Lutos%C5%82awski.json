@@ -1,0 +1,8 @@
+{ name: 'Witold Lutosławski',
+  href: 'http://en.wikipedia.org/wiki/Witold_Lutos%C5%82awski',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Late style',
+       sectionIndex: 70,
+       wordCountBeforeSection: 37714,
+       quote: [ 'Miles Davis (1984)' ] } ] }

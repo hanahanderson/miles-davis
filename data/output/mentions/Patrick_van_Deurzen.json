@@ -1,0 +1,8 @@
+{ name: 'Patrick van Deurzen',
+  href: 'http://en.wikipedia.org/wiki/Patrick_van_Deurzen',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1115,
+       quote: [ 'from his string quartet Seven(2006), but also Miles Davis in \' "Six: a line is a dot That went for a walk (2007), or Tom Waits inLove Song(2009) and funk music in the fourth part of hisFour solos for Bass clarinet(2000-01).' ] } ] }

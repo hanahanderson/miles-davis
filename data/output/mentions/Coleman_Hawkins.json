@@ -1,0 +1,13 @@
+{ name: 'Coleman Hawkins',
+  href: 'http://en.wikipedia.org/wiki/Coleman_Hawkins',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 941,
+       quote: [ 'As far as myself, I think I\'m the second one." Miles Davis once said: "When I heard Hawk, I learned to play ballads."' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4494,
+       quote: [ 'After an unsuccessful attempt to establish a big band, he led a combo at Kelly\'s Stables on Manhattan\'s 52nd Street with Thelonious Monk, Oscar Pettiford, Miles Davis, and Max Roach as sidemen.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: '1940s in jazz',
+  href: 'http://en.wikipedia.org/wiki/1940s_in_jazz',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 4021,
+       quote: [ 'The starting point were a series of singles on Capitol Records in 1949 and 1950 of a nonet led by trumpeter Miles Davis, collected and released first on a ten-inch and later a twelve-inch as the Birth of the Cool.' ] } ] }

@@ -1,0 +1,83 @@
+{ name: 'Chasin\' the Bird (Miles Davis album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Chasin%27_the_Bird_(Miles_Davis_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '61.266666666666666' } ],
+     'dbo:abstract': [ { value: 'Chasin\' the Bird is a live album by Miles Davis released in 2000. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Cool_jazz',
+          href: 'http://dbpedia.org/resource/Cool_jazz' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Arpeggio_Blues',
+          href: 'http://dbpedia.org/resource/Arpeggio_Blues' } ],
+     'dbo:releaseDate': [ { value: '2000-08-15 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3676.000000 (xsd:double)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '30319773 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '580872266 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'Chasin\' the Bird.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Cool_jazz',
+          href: 'http://dbpedia.org/resource/Cool_jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Arpeggio_Blues',
+          href: 'http://dbpedia.org/resource/Arpeggio_Blues' } ],
+     'dbp:length': [ { value: '3676.0' } ],
+     'dbp:name': [ { value: 'Chasin\' the Bird (en)' } ],
+     'dbp:released': [ { value: '2000-08-15 (xsd:date)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2000_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2000_live_albums' },
+        { value: 'dbc:Miles_Davis_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Chasin\' the Bird is a live album by Miles Davis released in 2000. (en)' } ],
+     'rdfs:label': [ { value: 'Chasin\' the Bird (Miles Davis album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Chasin\' the Bird (Miles Davis album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5087294' },
+        { value: 'freebase:Chasin\' the Bird (Miles Davis album)',
+          href: 'http://rdf.freebase.com/ns/m.0g5s37z' },
+        { value: 'wikidata:Chasin\' the Bird (Miles Davis album)',
+          href: 'http://www.wikidata.org/entity/Q5087294' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Chasin\'_the_Bird_(Miles_Davis_album)?oldid=580872266',
+          href: 'http://en.wikipedia.org/wiki/Chasin\'_the_Bird_(Miles_Davis_album)?oldid=580872266' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Chasin\'_the_Bird_(Miles_Davis_album)',
+          href: 'http://en.wikipedia.org/wiki/Chasin\'_the_Bird_(Miles_Davis_album)' } ],
+     'foaf:name': [ { value: 'Chasin\' the Bird (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Chasin\'_the_Bird',
+          href: 'http://dbpedia.org/resource/Chasin\'_the_Bird' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Chasin\'_the_Bird_(Miles_Davis_album)',
+          href: 'http://en.wikipedia.org/wiki/Chasin\'_the_Bird_(Miles_Davis_album)' } ] } }

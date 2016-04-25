@@ -1,0 +1,10 @@
+{ name: 'Johnny Lytle',
+  href: 'http://en.wikipedia.org/wiki/Johnny_Lytle',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 993,
+       quote: 
+        [ 'Throughout his career he performed and recorded with jazz greats including Louis Armstrong, Lionel Hampton, Miles Davis, Nancy Wilson, Bobby Timmons and Roy Ayers.',
+          'Lytle was such an admirer of the music of Miles Davis that he wrote "Selim" (Miles spelled backwards) in honor of Davis.' ] } ] }

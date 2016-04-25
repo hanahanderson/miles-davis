@@ -1,0 +1,13 @@
+{ name: 'File:17 Generique.ogg',
+  href: 'http://en.wikipedia.org/wiki/File:17_Generique.ogg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'The music, originally titled "Nuit sur les Champs-Élysées", was improvised by Miles Davis and the rest of his quintet in Paris on December 4–5, 1957.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Performers: Miles Davis (trumpet) and the rest of his quintet: Barney Wilen (tenor sax), René Urtreger (piano), Pierre Michelot (bass), and Kenny Clarke (drums)' ] } ] }

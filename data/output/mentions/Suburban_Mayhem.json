@@ -1,0 +1,8 @@
+{ name: 'Suburban Mayhem',
+  href: 'http://en.wikipedia.org/wiki/Suburban_Mayhem',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Critical reception',
+       sectionIndex: 31,
+       wordCountBeforeSection: 4090,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

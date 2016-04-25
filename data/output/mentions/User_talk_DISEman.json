@@ -1,0 +1,10 @@
+{ name: 'User talk:DISEman',
+  href: 'http://en.wikipedia.org/wiki/User_talk:DISEman',
+  mentions: 
+   [ { sectionHeader: '\'Round Midnight (song)',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 5901,
+       quote: 
+        [ 'You added composer credits of Bernie Hanighen (lyrics) and Cootie Williams to the article, as it appears on the 1956 arrangement by the Miles Davis Quintet, but Thelonious Monk was the composer of the music, not Hanighen, and Williams embellished the tune after Monk composed it.',
+          'Furthermore, both Dizzy Gillespie and Miles Davis have also contributed to the song, and they remain uncredited.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'User:2PlayMedia/Sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:2PlayMedia/Sandbox',
+  mentions: 
+   [ { sectionHeader: 'Notable Fender Jazz Bass Players',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 38,
+       quote: [ 'Darryl Jones - (Miles Davis, Mike Stern, Sting, Peter Gabriel, Madonna)' ] },
+     { sectionHeader: 'Notable Fender Jazz Bass Players',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 38,
+       quote: [ 'Marcus Miller - (Miles Davis, Luther Vandross, Grover Washington Jr., Roberta Flack, Billy Idol.' ] } ] }

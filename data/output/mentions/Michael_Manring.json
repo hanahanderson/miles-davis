@@ -1,0 +1,8 @@
+{ name: 'Michael Manring',
+  href: 'http://en.wikipedia.org/wiki/Michael_Manring',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1727,
+       quote: [ 'He has been a member of Yo Miles!, Henry Kaiser and Wadada Leo Smith\'s Miles Davis tribute band, since its inception.' ] } ] }

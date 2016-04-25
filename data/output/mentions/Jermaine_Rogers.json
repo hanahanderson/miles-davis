@@ -1,0 +1,8 @@
+{ name: 'Jermaine Rogers',
+  href: 'http://en.wikipedia.org/wiki/Jermaine_Rogers',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1512,
+       quote: [ 'Jody Goodall, curator of Richard Goodall Gallery in Manchester, England, which features such artists as renowned photographer Anton Corbijn (iconic U2, Miles Davis and David Bowie pics), says Jermaine "took the mantle from Kozik and created a new world of poster art." Rogers advocates what he has called \'culture hijacking\', juxtaposing various aspects of pop culture with a plethora of unrelated and classical ideas.' ] } ] }

@@ -1,0 +1,10 @@
+{ name: 'Münchner Klaviersommer',
+  href: 'http://en.wikipedia.org/wiki/M%C3%BCnchner_Klaviersommer',
+  mentions: 
+   [ { sectionHeader: 'Artists',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 417,
+       quote: 
+        [ 'A big highlight was the concert from Miles Davis in Gasteig in 1988 with an octet.',
+          'Miles Davis appeared the year before with a nonet, in 1987 also Herbie Hancock also performed. 1989 included performances from the Modern Jazz Quartet, Herbie Hancock and Bill Evans, Friedrich Gulda, Joe Zawinul, the Jacques Loussier Trio, Katia Labèque, John McLaughlin, George Benson accompanied by McCoy Tyner and Michael Brecker.' ] } ] }

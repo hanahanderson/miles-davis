@@ -1,0 +1,13 @@
+{ name: 'Toots Thielemans',
+  href: 'http://en.wikipedia.org/wiki/Toots_Thielemans',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1034,
+       quote: [ 'In 1949 he joined a jam session in Paris with Sidney Bechet, Charlie Parker, Miles Davis, Max Roach and others.' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1519,
+       quote: [ 'He moved to the US in 1952 where he was a member of Charlie Parker\'s All-Stars and worked with Miles Davis and Dinah Washington.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: '1955 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1955_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Events',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 741,
+       quote: [ 'Miles Davis historic performance at the Newport Jazz Festival resulted in George Avakian signing him to Columbia Records.' ] } ] }

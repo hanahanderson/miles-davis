@@ -1,0 +1,36 @@
+{ name: 'Porgy and Bess discography',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Porgy_and_Bess_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'Porgy and Bess, the opera by George Gershwin, has been recorded by a variety of artists since it was completed in 1935, including renditions by jazz instrumentalists and vocalists, in addition to operatic treatments. (en)' } ],
+     'dbo:wikiPageID': [ { value: '2213897 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682448601 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Opera_discographies',
+          href: 'http://dbpedia.org/resource/Category:Opera_discographies' },
+        { value: 'dbc:Porgy_and_Bess_music_recordings',
+          href: 'http://dbpedia.org/resource/Category:Porgy_and_Bess_music_recordings' },
+        { value: 'dbc:Porgy_and_Bess',
+          href: 'http://dbpedia.org/resource/Category:Porgy_and_Bess' } ],
+     'rdfs:comment': [ { value: 'Porgy and Bess, the opera by George Gershwin, has been recorded by a variety of artists since it was completed in 1935, including renditions by jazz instrumentalists and vocalists, in addition to operatic treatments. (en)' } ],
+     'rdfs:label': [ { value: 'Porgy and Bess discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Porgy and Bess discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q17102490' },
+        { value: 'wikidata:Porgy and Bess discography',
+          href: 'http://www.wikidata.org/entity/Q17102490' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Porgy_and_Bess_discography?oldid=682448601',
+          href: 'http://en.wikipedia.org/wiki/Porgy_and_Bess_discography?oldid=682448601' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Porgy_and_Bess_discography',
+          href: 'http://en.wikipedia.org/wiki/Porgy_and_Bess_discography' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Porgy_and_Bess_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Porgy_and_Bess_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Porgy_and_bess_discography',
+          href: 'http://dbpedia.org/resource/Porgy_and_bess_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Porgy_and_Bess_discography',
+          href: 'http://en.wikipedia.org/wiki/Porgy_and_Bess_discography' } ] } }

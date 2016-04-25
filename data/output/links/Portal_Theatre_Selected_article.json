@@ -1,0 +1,9 @@
+{ name: 'Portal:Theatre/Selected article',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:Theatre/Selected_article',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q17282516',
+          href: 'http://wikidata.dbpedia.org/resource/Q17282516' },
+        { value: 'wikidata:Q17282516',
+          href: 'http://www.wikidata.org/entity/Q17282516' } ] } }

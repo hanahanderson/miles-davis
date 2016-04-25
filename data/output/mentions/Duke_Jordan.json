@@ -1,0 +1,13 @@
+{ name: 'Duke Jordan',
+  href: 'http://en.wikipedia.org/wiki/Duke_Jordan',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 620,
+       quote: [ 'An imaginative and gifted pianist, Jordan was a regular member of Charlie Parker\'s quintet during 1947–48, which also featuring Miles Davis.' ] } ] }

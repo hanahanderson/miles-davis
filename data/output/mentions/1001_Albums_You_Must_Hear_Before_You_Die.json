@@ -1,0 +1,8 @@
+{ name: '1001 Albums You Must Hear Before You Die',
+  href: 'http://en.wikipedia.org/wiki/1001_Albums_You_Must_Hear_Before_You_Die',
+  mentions: 
+   [ { sectionHeader: 'Artists',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2840,
+       quote: [ '4 albums: Eric Clapton, Miles Davis, Joni Mitchell, Leonard Cohen, Stevie Wonder, U2, Nick Cave and the Bad Seeds, Brian Eno, PJ Harvey, The Kinks, Metallica, Pink Floyd, R.E.M., Steely Dan, Talking Heads' ] } ] }

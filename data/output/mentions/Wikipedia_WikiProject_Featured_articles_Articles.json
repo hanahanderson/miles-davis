@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject Featured articles/Articles',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Featured_articles/Articles',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 23646,
+       quote: [ '1987 (What the Fuck Is Going On?); A Day in the Life; A Hard Day\'s Night (song); AC/DC; Adore (album); All You Need Is Love (The JAMs song); Angel of Death (song); Louis Armstrong; Backmasking; Bam Thwok; Be Here Now; Beijing opera; Frank Black; Blood Sugar Sex Magik; Blues; Kate Bush; By the Way; Californication (album); Mariah Carey; Johnny Cash; Jay Chou; Christ Illusion; Rebecca Helferich Clarke; Phil Collins; Concept album; Concerto delle donne; Cool (song); Miles Davis; Celine Dion; Dixie (song); Donegal fiddle tradition; Dookie; Doolittle (album); Nick Drke; Dram Theater; Duran Duran; Bob Dylan; Enta da Stage; Enter the Wu-Tang (36 Chambers); Eurovision Song Contest; Eyes of the Insane; Fightin\' Texas Aggie Band; Freak Out!; Fuck the Millennium; Genesis (band); Get Back; God Hates Us All; Gramophone record; Grunge music; Guqin; Heavy metal music; Heavy metal umlaut; Hey Jude; Hey Ya!; Himno Nacional Mexicano; Hip hop music; Hollaback Girl; (I Can\'t Get No) Satisfaction; I Want to Hold Your Hand; Illmatic; Iron Maiden; Charles Ives; The Jackson 5; Jazz; Jihad (song); Bradley Joseph; Josquin des Prez; Just My Imagination (Running Away with Me); Kid A; The KLF; k-os; Alison Krauss; Frank Klepacki; Layla; Lollapalooza; The Long and Winding Road; Love.' ] } ] }

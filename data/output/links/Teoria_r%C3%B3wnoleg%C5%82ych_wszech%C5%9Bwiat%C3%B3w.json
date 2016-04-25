@@ -1,0 +1,106 @@
+{ name: 'Teoria równoległych wszechświatów',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Teoria_r%C3%B3wnoleg%C5%82ych_wszech%C5%9Bwiat%C3%B3w',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '56.016666666666666' } ],
+     'dbo:abstract': [ { value: 'Teoria równoległych wszechświatów (pol. The Theory of Parallel Universes) is a debut album by Polish rapper Medium (currently known as Tau) released on November 21, 2011 by Asfalt Records. The album was entirely rapped, produced and arranged by Medium except two remixes exclusively released on an LP edition which were produced respectively by Qciek, O.S.T.R. and Emade.The album received positive opinions both from listeners and reviewers, who praised Medium\'s way of using various samples and ability to build "wide sound".Despite a little advertising campaign Teoria równoległych wszechświatów has sold eight thousand copies and Polish hip-hop portal conferred Medium title of "revelation of the year". (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Tau_(rapper)',
+          href: 'http://dbpedia.org/resource/Tau_(rapper)' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Hip_hop_music',
+          href: 'http://dbpedia.org/resource/Hip_hop_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Tau_(rapper)',
+          href: 'http://dbpedia.org/resource/Tau_(rapper)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Emade',
+          href: 'http://dbpedia.org/resource/Emade' },
+        { value: 'dbr:O.S.T.R.',
+          href: 'http://dbpedia.org/resource/O.S.T.R.' },
+        { value: 'dbr:Tau_(rapper)',
+          href: 'http://dbpedia.org/resource/Tau_(rapper)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Asfalt_Records',
+          href: 'http://dbpedia.org/resource/Asfalt_Records' } ],
+     'dbo:releaseDate': [ { value: '2011-11-21 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3361.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Graal_(album)',
+          href: 'http://dbpedia.org/resource/Graal_(album)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.discogs.com/master/view/432811',
+          href: 'http://www.discogs.com/master/view/432811' } ],
+     'dbo:wikiPageID': [ { value: '47823489 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683234312 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Tau_(rapper)',
+          href: 'http://dbpedia.org/resource/Tau_(rapper)' } ],
+     'dbp:cover': [ { value: 'teoria-medium.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Hip_hop_music',
+          href: 'http://dbpedia.org/resource/Hip_hop_music' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Asfalt_Records',
+          href: 'http://dbpedia.org/resource/Asfalt_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Alternatywne źródło energii (en)' } ],
+     'dbp:name': [ { value: 'Teoria równoległych wszechświatów (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Graal (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Emade',
+          href: 'http://dbpedia.org/resource/Emade' },
+        { value: 'dbr:O.S.T.R.',
+          href: 'http://dbpedia.org/resource/O.S.T.R.' },
+        { value: 'dbr:Tau_(rapper)',
+          href: 'http://dbpedia.org/resource/Tau_(rapper)' },
+        { value: '* (en)' },
+        { value: '* Qciek (en)' } ],
+     'dbp:recorded': [ { value: 'April–May 2011 (en)' } ],
+     'dbp:released': [ { value: '2011-11-21 (xsd:date)' } ],
+     'dbp:thisAlbum': [ { value: 'Teoria równoległych wszechświatów (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2011_albums',
+          href: 'http://dbpedia.org/resource/Category:2011_albums' },
+        { value: 'dbc:Polish-language_albums',
+          href: 'http://dbpedia.org/resource/Category:Polish-language_albums' },
+        { value: 'dbc:Albums_produced_by_Tau',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Tau' },
+        { value: 'dbc:Tau_albums',
+          href: 'http://dbpedia.org/resource/Category:Tau_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Teoria równoległych wszechświatów (pol. The Theory of Parallel Universes) is a debut album by Polish rapper Medium (currently known as Tau) released on November 21, 2011 by Asfalt Records. The album was entirely rapped, produced and arranged by Medium except two remixes exclusively released on an LP edition which were produced respectively by Qciek, O.S.T.R. (en)' } ],
+     'rdfs:label': [ { value: 'Teoria równoległych wszechświatów (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Teoria_równoległych_wszechświatów?oldid=683234312',
+          href: 'http://en.wikipedia.org/wiki/Teoria_równoległych_wszechświatów?oldid=683234312' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Teoria_równoległych_wszechświatów',
+          href: 'http://en.wikipedia.org/wiki/Teoria_równoległych_wszechświatów' } ],
+     'foaf:name': [ { value: 'Teoria równoległych wszechświatów (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Graal_(album)',
+          href: 'http://dbpedia.org/resource/Graal_(album)' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Teoria równoległych wszechświatów',
+          href: 'http://dbpedia.org/resource/Teoria_r%C3%B3wnoleg%C5%82ych_wszech%C5%9Bwiat%C3%B3w' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Teoria_równoległych_wszechświatów',
+          href: 'http://en.wikipedia.org/wiki/Teoria_równoległych_wszechświatów' } ] } }

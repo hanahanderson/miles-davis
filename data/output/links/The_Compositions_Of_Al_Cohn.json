@@ -1,0 +1,98 @@
+{ name: 'The Compositions Of Al Cohn',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Compositions_Of_Al_Cohn',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '19.266666666666666' } ],
+     'dbo:abstract': [ { value: 'The Compositions Of Al Cohn (PRLP 154) is a 1953 10 inch LP album by Miles Davis. It is his third album as leader for Prestige, and fourth altogether, following 1952\'s Young Man with a Horn for Blue Note. The four tracks were recorded at New York\'s Beltone Studios on February 19, 1953.All the tunes were written by tenor saxophonist, composer and arranger Al Cohn. Ira Gitler\'s liner notes explain the desire to return to arranged music, along the lines of the Birth of the Cool sessions, following three albums focused more on soloing. "...it was felt that Miles needed a change of pace for his next recording date; compositions and arrangements which would suit him and result in a happy combination of arranged music and solo work ... Three of the pieces, "Willie The Wailer", "Floppy", and "For Adults Only" were written for this session. "Tasty Pudding" had been written before but Al arranged it specially for Miles and this date." In his autobiography, Davis suggests Bob Weinstock had pressured him to record a more disciplined album with more "respectable" musicians, following the debacle of the incomplete session with Charlie Parker attempted earlier that year (released in 1956 as Collectors\' Items (PRLP 7044)).After the 10" LP format was discontinued, the four tracks were all included on the 12" album Miles Davis and Horns (PRLP 7025). (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Blue_Period_(album)',
+          href: 'http://dbpedia.org/resource/Blue_Period_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': [ { value: '1953-02-19 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Beltone_Studios',
+          href: 'http://dbpedia.org/resource/Beltone_Studios' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '1156.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Miles_Davis_Volume_2',
+          href: 'http://dbpedia.org/resource/Miles_Davis_Volume_2' } ],
+     'dbo:wikiPageID': [ { value: '42749169 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '656342979 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'MilesPlaysAlCohn.jpg (en)' } ],
+     'dbp:genre': [ { value: 'Jazz (en)' } ],
+     'dbp:label': [ { value: 'Prestige (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Blue Period (en)' } ],
+     'dbp:length': [ { value: '1156.0' } ],
+     'dbp:name': [ { value: 'The Compositions Of Al Cohn (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Miles Davis Volume 2 (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '1953-02-19 (xsd:date)' },
+        { value: 'Beltone Studios, New York City (en)' } ],
+     'dbp:released': [ { value: '1953 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'The Compositions Of Al Cohn (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1953_albums',
+          href: 'http://dbpedia.org/resource/Category:1953_albums' },
+        { value: 'dbc:Miles_Davis_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Compositions Of Al Cohn (PRLP 154) is a 1953 10 inch LP album by Miles Davis. It is his third album as leader for Prestige, and fourth altogether, following 1952\'s Young Man with a Horn for Blue Note. The four tracks were recorded at New York\'s Beltone Studios on February 19, 1953.All the tunes were written by tenor saxophonist, composer and arranger Al Cohn. (en)' } ],
+     'rdfs:label': [ { value: 'The Compositions Of Al Cohn (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Compositions Of Al Cohn',
+          href: 'http://rdf.freebase.com/ns/m.010lz41v' },
+        { value: 'wikidata:The Compositions Of Al Cohn',
+          href: 'http://www.wikidata.org/entity/Q17060280' },
+        { value: 'dbpedia-wikidata:The Compositions Of Al Cohn',
+          href: 'http://wikidata.dbpedia.org/resource/Q17060280' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Compositions_Of_Al_Cohn?oldid=656342979',
+          href: 'http://en.wikipedia.org/wiki/The_Compositions_Of_Al_Cohn?oldid=656342979' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Compositions_Of_Al_Cohn',
+          href: 'http://en.wikipedia.org/wiki/The_Compositions_Of_Al_Cohn' } ],
+     'foaf:name': [ { value: 'The Compositions Of Al Cohn (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Blue_Period_(album)',
+          href: 'http://dbpedia.org/resource/Blue_Period_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Compositions_Of_Al_Cohn',
+          href: 'http://en.wikipedia.org/wiki/The_Compositions_Of_Al_Cohn' } ] } }

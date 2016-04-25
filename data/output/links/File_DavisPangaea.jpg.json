@@ -1,0 +1,12 @@
+{ name: 'File:DavisPangaea.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:DavisPangaea.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '6071677 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '670070440 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:DavisPangaea.jpg?oldid=670070440',
+          href: 'http://en.wikipedia.org/wiki/File:DavisPangaea.jpg?oldid=670070440' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:DavisPangaea.jpg',
+          href: 'http://dbpedia.org/resource/File:DavisPangaea.jpg' } ] } }

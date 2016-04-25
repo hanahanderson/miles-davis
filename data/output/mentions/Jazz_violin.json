@@ -1,0 +1,8 @@
+{ name: 'Jazz violin',
+  href: 'http://en.wikipedia.org/wiki/Jazz_violin',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3548,
+       quote: [ 'Ponty\'s attraction to jazz was propelled by Miles Davis\'s and John Coltrane\'s music, which led him to adopt the electric violin.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jerry Goodman',
+  href: 'http://en.wikipedia.org/wiki/Jerry_Goodman',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 3719,
+       quote: [ 'Miles Davis' ] } ] }

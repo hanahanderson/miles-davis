@@ -1,0 +1,8 @@
+{ name: 'Montreux III',
+  href: 'http://en.wikipedia.org/wiki/Montreux_III',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1690,
+       quote: [ 'Miles Davis' ] } ] }

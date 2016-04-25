@@ -1,0 +1,18 @@
+{ name: 'Schizophrenia (Wayne Shorter album)',
+  href: 'http://en.wikipedia.org/wiki/Schizophrenia_(Wayne_Shorter_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 328,
+       quote: [ 'The album features pianist Herbie Hancock and bassist Ron Carter, bandmates of Shorter from Miles Davis\' quintet at the time.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 328,
+       quote: [ 'The album features pianist Herbie Hancock and bassist Ron Carter, bandmates of Shorter from Miles Davis\' quintet at the time.' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1958,
+       quote: [ 'Miles Davis Quintet' ] } ] }

@@ -1,0 +1,52 @@
+{ name: 'Nick\'s',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Nick%27s',
+  values: 
+   { 'dbo:abstract': [ { value: 'Nick\'s (now St. Nick\'s Jazz Pub) is a tavern and jazz club in the Sugar Hill district of Harlem, New York City which was at its peak in the 1940s and 1950s. The original jazz club here was the Poosepahtuck Club, featuring Joe Jordan as the house pianist, and blues singer Monette Moore. Nick\'s was established in 1940. Many jazz artists performed at the club including Bill Saxton (a Friday night regular),Pee Wee Russell, Muggsy Spanier, Miff Mole, Joe Grauso etc. Artists like Miles Davis and John Coltrane used to visit the pub to relax after their gigs.During the early 1950s the club was noted for its regular Phil Napoleon and the The Original Memphis Five Dixieland performances.It was renamed St. Nick\'s Jazz Pub in the 1960s. As of December 2013, it is closed for renovation. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.stnicksjazzpub.net/',
+          href: 'http://www.stnicksjazzpub.net/' } ],
+     'dbo:wikiPageID': [ { value: '41288517 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '631418761 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1940_establishments_in_New_York',
+          href: 'http://dbpedia.org/resource/Category:1940_establishments_in_New_York' },
+        { value: 'dbc:Music_venues_in_New_York_City',
+          href: 'http://dbpedia.org/resource/Category:Music_venues_in_New_York_City' },
+        { value: 'dbc:Music_venues_completed_in_1940',
+          href: 'http://dbpedia.org/resource/Category:Music_venues_completed_in_1940' },
+        { value: 'dbc:Greenwich_Village',
+          href: 'http://dbpedia.org/resource/Category:Greenwich_Village' },
+        { value: 'dbc:Jazz_clubs_in_New_York',
+          href: 'http://dbpedia.org/resource/Category:Jazz_clubs_in_New_York' },
+        { value: 'dbc:Taverns_in_New_York',
+          href: 'http://dbpedia.org/resource/Category:Taverns_in_New_York' } ],
+     'georss:point': [ { value: '40.82663888888889 -73.94338888888889' } ],
+     'rdf:type': 
+      [ { value: 'geo:SpatialThing',
+          href: 'http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing' } ],
+     'rdfs:comment': [ { value: 'Nick\'s (now St. Nick\'s Jazz Pub) is a tavern and jazz club in the Sugar Hill district of Harlem, New York City which was at its peak in the 1940s and 1950s. The original jazz club here was the Poosepahtuck Club, featuring Joe Jordan as the house pianist, and blues singer Monette Moore. Nick\'s was established in 1940. Many jazz artists performed at the club including Bill Saxton (a Friday night regular),Pee Wee Russell, Muggsy Spanier, Miff Mole, Joe Grauso etc. (en)' } ],
+     'rdfs:label': [ { value: 'Nick\'s (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Nick\'s',
+          href: 'http://rdf.freebase.com/ns/m.0zgd5s7' },
+        { value: 'dbpedia-wikidata:Nick\'s',
+          href: 'http://wikidata.dbpedia.org/resource/Q16238096' },
+        { value: 'wikidata:Nick\'s',
+          href: 'http://www.wikidata.org/entity/Q16238096' } ],
+     'geo:geometry': [ { value: 'POINT(-73.943389892578 40.826637268066)' } ],
+     'geo:lat': [ { value: '40.826637 (xsd:float)' } ],
+     'geo:long': [ { value: '-73.943390 (xsd:float)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Nick\'s?oldid=631418761',
+          href: 'http://en.wikipedia.org/wiki/Nick\'s?oldid=631418761' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.stnicksjazzpub.net/',
+          href: 'http://www.stnicksjazzpub.net/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Nick\'s',
+          href: 'http://en.wikipedia.org/wiki/Nick\'s' } ],
+     'is dbo:wikiPageDisambiguates\n of': [ { value: 'dbr:Nick', href: 'http://dbpedia.org/resource/Nick' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Nick\'s',
+          href: 'http://en.wikipedia.org/wiki/Nick\'s' } ] } }

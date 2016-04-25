@@ -1,0 +1,8 @@
+{ name: 'George Benson',
+  href: 'http://en.wikipedia.org/wiki/George_Benson',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2590,
+       quote: [ 'Miles Davis employed Benson in the mid-1960s, featuring his guitar on "Paraphernalia" on his 1968 Columbia release, Miles in the Sky before going to Verve Records.' ] } ] }

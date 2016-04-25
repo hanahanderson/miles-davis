@@ -1,0 +1,8 @@
+{ name: 'The Green Leaves of Summer (album)',
+  href: 'http://en.wikipedia.org/wiki/The_Green_Leaves_of_Summer_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 960,
+       quote: [ '"Vierd Blues" (Miles Davis) - 5:28' ] } ] }

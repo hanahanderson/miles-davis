@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Featured Music Project',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Featured_Music_Project',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

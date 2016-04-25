@@ -1,0 +1,13 @@
+{ name: 'King Crimson',
+  href: 'http://en.wikipedia.org/wiki/King_Crimson',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 14114,
+       quote: [ 'Loosely influenced by Miles Davis\'s orchestral collaborations with Gil Evans and Homer\'s Odyssey, the album also showed signs of a split in styles between Sinfield, who favoured the softer and more textural jazz-folk approach, and Fripp, who was drawn more towards the harsher instrumental style exemplified by the instrumental "Sailor\'s Tale", with its dramatic Mellotron and banjo-inspired guitar technique.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 14996,
+       quote: [ 'By this time, a musical rift between Fripp and the rest of the band existed; Pete Sinfield wanted the band to move in a Miles Davis direction; Boz Burrell and Mel Collins favoured a more rhythm-and-blues style.' ] } ] }

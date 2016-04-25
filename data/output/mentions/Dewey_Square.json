@@ -1,0 +1,8 @@
+{ name: 'Dewey Square',
+  href: 'http://en.wikipedia.org/wiki/Dewey_Square',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1911,
+       quote: [ 'The legendary alto saxophonist Charlie Parker titled a composition "Dewey Square" for an October 28, 1947, session that also featured trumpeter Miles Davis.' ] } ] }

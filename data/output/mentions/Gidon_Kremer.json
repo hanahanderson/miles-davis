@@ -1,0 +1,8 @@
+{ name: 'Gidon Kremer',
+  href: 'http://en.wikipedia.org/wiki/Gidon_Kremer',
+  mentions: 
+   [ { sectionHeader: 'Sources',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6549,
+       quote: [ 'Miles Davis (1984)' ] } ] }

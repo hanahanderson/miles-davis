@@ -1,0 +1,8 @@
+{ name: 'Latin jazz',
+  href: 'http://en.wikipedia.org/wiki/Latin_jazz',
+  mentions: 
+   [ { sectionHeader: 'Afro-Cuban jazz',
+       sectionSubHeader: '',
+       sectionIndex: 47,
+       wordCountBeforeSection: 15018,
+       quote: [ 'Airto played in the two most important avant-garde electric jazz bands of the day—Miles Davis and Weather Report.' ] } ] }

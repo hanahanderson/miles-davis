@@ -1,0 +1,8 @@
+{ name: 'A Moment\'s Peace',
+  href: 'http://en.wikipedia.org/wiki/A_Moment%27s_Peace',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1208,
+       quote: [ 'Miles Davis' ] } ] }

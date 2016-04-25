@@ -1,0 +1,8 @@
+{ name: 'List of musicians of the 1950s',
+  href: 'http://en.wikipedia.org/wiki/List_of_musicians_of_the_1950s',
+  mentions: 
+   [ { sectionHeader: 'Musicians',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 996,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Undercurrent (Bill Evans and Jim Hall album)',
+  href: 'http://en.wikipedia.org/wiki/Undercurrent_(Bill_Evans_and_Jim_Hall_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 2805,
+       quote: [ 'Miles Davis' ] } ] }

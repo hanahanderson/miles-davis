@@ -1,0 +1,8 @@
+{ name: 'Meant to Be (John Scofield album)',
+  href: 'http://en.wikipedia.org/wiki/Meant_to_Be_(John_Scofield_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 987,
+       quote: [ 'Miles Davis' ] } ] }

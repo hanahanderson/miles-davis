@@ -1,0 +1,8 @@
+{ name: 'Madhouse (band)',
+  href: 'http://en.wikipedia.org/wiki/Madhouse_(band)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1863,
+       quote: [ 'The cover of "16" features the subtitle "new directions in garage music", which is a homage to Miles Davis\' Directions in Music series (in 2002-2003, Prince would dub a jazz album series of his own "New Directions In Music") The only vocals on either album consisted mainly of choice snippets of audio lifted from the first two Godfather films and samples of Vanity simulating an orgasm (from the Vanity 6 outtake "Vibrator", later used on Prince\'s own song "Orgasm" from Come.) There is also a short unreleased movie, featuring Madhouse, named "Hard Life".' ] } ] }

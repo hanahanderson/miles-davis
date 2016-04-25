@@ -1,0 +1,8 @@
+{ name: 'Third (Soft Machine album)',
+  href: 'http://en.wikipedia.org/wiki/Third_(Soft_Machine_album)',
+  mentions: 
+   [ { sectionHeader: 'Overview',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1078,
+       quote: [ 'Third\'s music explores the emerging jazz fusion of the type present on Miles Davis\' Bitches Brew, which was released just a few months earlier.' ] } ] }

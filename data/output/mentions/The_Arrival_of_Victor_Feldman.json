@@ -1,0 +1,8 @@
+{ name: 'The Arrival of Victor Feldman',
+  href: 'http://en.wikipedia.org/wiki/The_Arrival_of_Victor_Feldman',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1063,
+       quote: [ '"Serpent\'s Tooth" (Miles Davis) - 3:28' ] } ] }

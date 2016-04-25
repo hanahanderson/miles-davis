@@ -1,0 +1,8 @@
+{ name: 'Devlin (album)',
+  href: 'http://en.wikipedia.org/wiki/Devlin_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 720,
+       quote: [ '"Nardis" (Miles Davis) – 3:47' ] } ] }

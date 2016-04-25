@@ -1,0 +1,8 @@
+{ name: 'User talk:Garyth123',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Garyth123',
+  mentions: 
+   [ { sectionHeader: 'September 2008',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 955,
+       quote: [ 'One or more of the external links you added in this edit to Miles Davis do not comply with our guidelines for external links and have been removed.' ] } ] }

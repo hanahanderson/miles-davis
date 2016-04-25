@@ -1,0 +1,13 @@
+{ name: 'Duke Ellington',
+  href: 'http://en.wikipedia.org/wiki/Duke_Ellington',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 109,
+       wordCountBeforeSection: 44329,
+       quote: [ 'Dave Brubeck dedicated "The Duke" (1954) to Ellington and it became a standard covered by others, both during Ellington\'s lifetime (such as by Miles Davis on Miles Ahead, 1957) and posthumously (such as George Shearing on I Hear a Rhapsody: Live at the Blue Note, 1992).' ] },
+     { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 109,
+       wordCountBeforeSection: 44329,
+       quote: [ 'Miles Davis created his half-hour dirge "He Loved Him Madly" (on Get Up with It) as a tribute to Ellington one month after his death.' ] } ] }

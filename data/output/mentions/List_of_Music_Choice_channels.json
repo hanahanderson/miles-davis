@@ -1,0 +1,8 @@
+{ name: 'List of Music Choice channels',
+  href: 'http://en.wikipedia.org/wiki/List_of_Music_Choice_channels',
+  mentions: 
+   [ { sectionHeader: 'List of current Music Choice channels',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 5769,
+       quote: [ 'Jazz (TV-PG) - Traditional and contemporary jazz mix that utilizes traditional jazz elements. (e.g. Miles Davis, John Coltrane, Stan Getz)' ] } ] }

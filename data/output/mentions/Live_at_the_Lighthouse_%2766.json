@@ -1,0 +1,8 @@
+{ name: 'Live at the Lighthouse \'66',
+  href: 'http://en.wikipedia.org/wiki/Live_at_the_Lighthouse_%2766',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 767,
+       quote: [ '"Milestones" (Miles Davis) - 6:43' ] } ] }

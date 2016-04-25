@@ -1,0 +1,8 @@
+{ name: 'Frank R. Fisher',
+  href: 'http://en.wikipedia.org/wiki/Frank_R._Fisher',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1268,
+       quote: [ 'Such artists as; Ella Fitzgerald, John Coltrane, Lionel Hampton, Dexter Gordon, Billie Holiday, Louis Armstrong, Stan Getz, Duke Ellington, Ben Webster, Billy Eckstine, Miles Davis, Dizzy Gillespie, Count Basie, Dinah Washington, Art Tatum, Pony Poindexter, Charlie Parker,Kenny Dorham, Jimmy Heath,Woody Herman,John Handy, Charles Mingus, Dexter Gordon, Zoot Sims.' ] } ] }

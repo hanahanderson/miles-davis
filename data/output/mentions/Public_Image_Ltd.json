@@ -1,0 +1,8 @@
+{ name: 'Public Image Ltd',
+  href: 'http://en.wikipedia.org/wiki/Public_Image_Ltd',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 43,
+       wordCountBeforeSection: 17985,
+       quote: [ 'But it was during the recording of this album in New York that Miles Davis came into the studio while I was singing, stood behind me and started playing.' ] } ] }

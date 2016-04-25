@@ -1,0 +1,8 @@
+{ name: 'Dead Calm (film)',
+  href: 'http://en.wikipedia.org/wiki/Dead_Calm_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 11050,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

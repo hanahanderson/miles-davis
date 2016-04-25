@@ -1,0 +1,13 @@
+{ name: 'Quincy Troupe',
+  href: 'http://en.wikipedia.org/wiki/Quincy_Troupe',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 164,
+       quote: [ 'He is best known as the biographer of Miles Davis, the jazz musician.' ] },
+     { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 505,
+       quote: [ 'As a teenager in 1955, he recalled hearing Miles Davis at a St.' ] } ] }

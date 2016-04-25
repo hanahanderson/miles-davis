@@ -1,0 +1,22 @@
+{ name: 'Template:John Coltrane',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:John_Coltrane',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '11688107 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '629201797 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Modèle:Palette_John_Coltrane',
+          href: 'http://fr.dbpedia.org/resource/Modèle:Palette_John_Coltrane' },
+        { value: 'dbpedia-it:Template:John_Coltrane',
+          href: 'http://it.dbpedia.org/resource/Template:John_Coltrane' },
+        { value: 'dbpedia-pl:Szablon:John_Coltrane',
+          href: 'http://pl.dbpedia.org/resource/Szablon:John_Coltrane' },
+        { value: 'dbpedia-pt:Predefinição:John_Coltrane',
+          href: 'http://pt.dbpedia.org/resource/Predefinição:John_Coltrane' },
+        { value: 'dbpedia-wikidata:Q13495498',
+          href: 'http://wikidata.dbpedia.org/resource/Q13495498' },
+        { value: 'wikidata:Q13495498',
+          href: 'http://www.wikidata.org/entity/Q13495498' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:John_Coltrane?oldid=629201797',
+          href: 'http://en.wikipedia.org/wiki/Template:John_Coltrane?oldid=629201797' } ] } }

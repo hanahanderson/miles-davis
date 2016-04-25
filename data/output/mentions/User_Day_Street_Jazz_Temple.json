@@ -1,0 +1,8 @@
+{ name: 'User:Day Street/Jazz Temple',
+  href: 'http://en.wikipedia.org/wiki/User:Day_Street/Jazz_Temple',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

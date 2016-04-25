@@ -1,0 +1,8 @@
+{ name: 'Mao\'s Last Dancer (film)',
+  href: 'http://en.wikipedia.org/wiki/Mao%27s_Last_Dancer_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 8120,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

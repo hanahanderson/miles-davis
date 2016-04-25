@@ -1,0 +1,8 @@
+{ name: 'Unravelled Broken Orchestra',
+  href: 'http://en.wikipedia.org/wiki/Unravelled_Broken_Orchestra',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 186,
+       quote: [ 'With a core of regular players (Christopher Friesen, Terence Fuller, Jaret McNabb, Fletcher Pratt, Robert Turnbull) and an open door policy to others, they create unique soundscapes that are equally inspired by Miles Davis and Sonic Youth.' ] } ] }

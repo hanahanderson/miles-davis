@@ -1,0 +1,8 @@
+{ name: 'Bar Talk',
+  href: 'http://en.wikipedia.org/wiki/Bar_Talk',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1814,
+       quote: [ 'Miles Davis' ] } ] }

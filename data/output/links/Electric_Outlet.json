@@ -1,0 +1,102 @@
+{ name: 'Electric Outlet',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Electric_Outlet',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '40.68333333333333' } ],
+     'dbo:abstract': [ { value: 'Electric Outlet is a studio album by jazz musician John Scofield. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Scofield',
+          href: 'http://dbpedia.org/resource/John_Scofield' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Post-bop',
+          href: 'http://dbpedia.org/resource/Post-bop' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Who\'s_Who?',
+          href: 'http://dbpedia.org/resource/Who\'s_Who%3F' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_Scofield',
+          href: 'http://dbpedia.org/resource/John_Scofield' },
+        { value: 'dbr:Steve_Swallow',
+          href: 'http://dbpedia.org/resource/Steve_Swallow' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Rykodisc',
+          href: 'http://dbpedia.org/resource/Rykodisc' } ],
+     'dbo:releaseDate': [ { value: '1989-09-19 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '2441.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Still_Warm',
+          href: 'http://dbpedia.org/resource/Still_Warm' } ],
+     'dbo:wikiPageID': [ { value: '10088818 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '665844338 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Scofield',
+          href: 'http://dbpedia.org/resource/John_Scofield' } ],
+     'dbp:cover': [ { value: 'Electric Outlet Scofield.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Post-bop',
+          href: 'http://dbpedia.org/resource/Post-bop' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Rykodisc',
+          href: 'http://dbpedia.org/resource/Rykodisc' } ],
+     'dbp:lastAlbum': [ { value: 'Who\'s Who? (en)' } ],
+     'dbp:length': [ { value: '2441.0' } ],
+     'dbp:name': [ { value: 'Electric Outlet (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Still Warm (en)' } ],
+     'dbp:producer': [ { value: 'John Scofield, Steve Swallow (en)' } ],
+     'dbp:recorded': [ { value: 'April - May 1984 (en)' } ],
+     'dbp:released': [ { value: '1984 (xsd:integer)' }, { value: '--09-19' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Electric Outlet (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Gramavision_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Gramavision_Records_albums' },
+        { value: 'dbc:1984_albums',
+          href: 'http://dbpedia.org/resource/Category:1984_albums' },
+        { value: 'dbc:Post-bop_albums',
+          href: 'http://dbpedia.org/resource/Category:Post-bop_albums' },
+        { value: 'dbc:John_Scofield_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Scofield_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Electric Outlet is a studio album by jazz musician John Scofield. (en)' } ],
+     'rdfs:label': [ { value: 'Electric Outlet (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Electric Outlet',
+          href: 'http://rdf.freebase.com/ns/m.02q1f5m' },
+        { value: 'dbpedia-wikidata:Electric Outlet',
+          href: 'http://wikidata.dbpedia.org/resource/Q5357445' },
+        { value: 'wikidata:Electric Outlet',
+          href: 'http://www.wikidata.org/entity/Q5357445' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Electric_Outlet?oldid=665844338',
+          href: 'http://en.wikipedia.org/wiki/Electric_Outlet?oldid=665844338' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Electric_Outlet',
+          href: 'http://en.wikipedia.org/wiki/Electric_Outlet' } ],
+     'foaf:name': [ { value: 'Electric Outlet (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Still_Warm',
+          href: 'http://dbpedia.org/resource/Still_Warm' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Electric_Outlet',
+          href: 'http://en.wikipedia.org/wiki/Electric_Outlet' } ] } }

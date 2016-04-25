@@ -1,0 +1,8 @@
+{ name: '1984 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1984_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 868,
+       quote: [ 'Miles Davis: Decoy' ] } ] }

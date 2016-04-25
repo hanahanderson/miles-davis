@@ -1,0 +1,8 @@
+{ name: 'The Essential Santana',
+  href: 'http://en.wikipedia.org/wiki/The_Essential_Santana',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1277,
+       quote: [ '"In a Silent Way" (Joe Zawinul, Miles Davis) – 7:58\n\nLive at the Fillmore West, San Francisco, California, July 4, 1971\n\n' ] } ] }

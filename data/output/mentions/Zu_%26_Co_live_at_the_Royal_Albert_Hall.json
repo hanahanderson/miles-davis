@@ -1,0 +1,8 @@
+{ name: 'Zu & Co live at the Royal Albert Hall',
+  href: 'http://en.wikipedia.org/wiki/Zu_%26_Co_live_at_the_Royal_Albert_Hall',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 867,
+       quote: [ '"Dune Mosse" (with Miles Davis) – 5:49' ] } ] }

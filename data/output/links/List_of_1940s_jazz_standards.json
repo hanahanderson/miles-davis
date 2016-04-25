@@ -1,0 +1,58 @@
+{ name: 'List of 1940s jazz standards',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_1940s_jazz_standards',
+  values: 
+   { 'dbo:abstract': [ { value: 'Jazz standards are musical compositions that are widely known, performed, and recorded by jazz artists as part of the genre\'s musical repertoire. This list includes tunes written in the 1940s that are considered standards by at least one major fake book publication or reference work.The swing era lasted until the mid-1940s, and produced popular tunes such as Duke Ellington\'s "Cotton Tail" (1940) and Billy Strayhorn\'s "Take the \'A\' Train" (1941). When the big bands struggled to keep going during World War II, a shift was happening in jazz in favor of smaller groups. Some swing era musicians, like Louis Jordan, later found popularity in a new kind of music, called "rhythm and blues", that would evolve into rock and roll in the 1950s.Bebop emerged in the early 1940s, led by Charlie Parker, Dizzy Gillespie, Thelonious Monk, and others. It appealed to a more specialized audiences than earlier forms of jazz, with sophisticated harmonies, fast tempos, and often virtuoso musicianship. Bebop musicians often used 1930s standards, especially those from Broadway musicals, as part of their repertoire. Among standards written by bebop musicians are Gillespie\'s "Salt Peanuts" (1941) and "A Night in Tunisia" (1942), Parker\'s "Anthropology" (1946), "Yardbird Suite" (1946) and "Scrapple from the Apple" (1947), and Monk\'s "\'Round Midnight" (1944), which is currently the most recorded jazz standard composed by a jazz musician. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Jazz_musician_Duke_Ellington.JPEG?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jazz_musician_Duke_Ellington.JPEG?width=300' } ],
+     'dbo:wikiPageID': [ { value: '22851265 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671012028 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_musical_works',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musical_works' },
+        { value: 'dbc:1940s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1940s_jazz_standards' } ],
+     'rdfs:comment': [ { value: 'Jazz standards are musical compositions that are widely known, performed, and recorded by jazz artists as part of the genre\'s musical repertoire. This list includes tunes written in the 1940s that are considered standards by at least one major fake book publication or reference work.The swing era lasted until the mid-1940s, and produced popular tunes such as Duke Ellington\'s "Cotton Tail" (1940) and Billy Strayhorn\'s "Take the \'A\' Train" (1941). (en)' } ],
+     'rdfs:label': [ { value: 'List of 1940s jazz standards (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of 1940s jazz standards',
+          href: 'http://wikidata.dbpedia.org/resource/Q6559448' },
+        { value: 'wikidata:List of 1940s jazz standards',
+          href: 'http://www.wikidata.org/entity/Q6559448' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_1940s_jazz_standards?oldid=671012028',
+          href: 'http://en.wikipedia.org/wiki/List_of_1940s_jazz_standards?oldid=671012028' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Jazz_musician_Duke_Ellington.JPEG',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Jazz_musician_Duke_Ellington.JPEG' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_1940s_jazz_standards',
+          href: 'http://en.wikipedia.org/wiki/List_of_1940s_jazz_standards' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_jazz_standards_(1940s)',
+          href: 'http://dbpedia.org/resource/List_of_jazz_standards_(1940s)' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:1940_in_jazz',
+          href: 'http://dbpedia.org/resource/1940_in_jazz' },
+        { value: 'dbr:1941_in_jazz',
+          href: 'http://dbpedia.org/resource/1941_in_jazz' },
+        { value: 'dbr:1942_in_jazz',
+          href: 'http://dbpedia.org/resource/1942_in_jazz' },
+        { value: 'dbr:1943_in_jazz',
+          href: 'http://dbpedia.org/resource/1943_in_jazz' },
+        { value: 'dbr:1944_in_jazz',
+          href: 'http://dbpedia.org/resource/1944_in_jazz' },
+        { value: 'dbr:1945_in_jazz',
+          href: 'http://dbpedia.org/resource/1945_in_jazz' },
+        { value: 'dbr:1946_in_jazz',
+          href: 'http://dbpedia.org/resource/1946_in_jazz' },
+        { value: 'dbr:1947_in_jazz',
+          href: 'http://dbpedia.org/resource/1947_in_jazz' },
+        { value: 'dbr:1948_in_jazz',
+          href: 'http://dbpedia.org/resource/1948_in_jazz' },
+        { value: 'dbr:1949_in_jazz',
+          href: 'http://dbpedia.org/resource/1949_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_1940s_jazz_standards',
+          href: 'http://en.wikipedia.org/wiki/List_of_1940s_jazz_standards' } ] } }

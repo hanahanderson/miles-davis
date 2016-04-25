@@ -1,0 +1,18 @@
+{ name: 'Bags\' Groove (composition)',
+  href: 'http://en.wikipedia.org/wiki/Bags%27_Groove_(composition)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Instrumental by Miles Davis from the album Bags\' Groove' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 842,
+       quote: [ 'Perhaps the most famous recording was the one by Miles Davis\'s quintet in 1954.' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1173,
+       quote: [ 'Miles Davis – trumpet' ] } ] }

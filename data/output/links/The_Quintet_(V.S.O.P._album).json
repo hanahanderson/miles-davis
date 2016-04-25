@@ -1,0 +1,102 @@
+{ name: 'The Quintet (V.S.O.P. album)',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/The_Quintet_(V.S.O.P._album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '70.21666666666667' } ],
+     'dbo:abstract': [ { value: 'The Quintet is an album by V.S.O.P. It was compiled from two concert performances: one at the Greek Theatre, University of California, Berkeley, on July 16, 1977; the other at the San Diego Civic Theatre on July 18, 1977. The musicians were Herbie Hancock on keyboards, Freddie Hubbard on trumpet and flugelhorn, Tony Williams on drums, Ron Carter on bass, and Wayne Shorter on tenor and soprano saxophones. The recording was originally released in October 1977 as a 2-disc LP by Columbia Records. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:V.S.O.P._(group)',
+          href: 'http://dbpedia.org/resource/V.S.O.P._(group)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:runtime': [ { value: '4213.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Tempest_in_the_Colosseum',
+          href: 'http://dbpedia.org/resource/Tempest_in_the_Colosseum' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '5818658 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663270148 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:V.S.O.P._(group)',
+          href: 'http://dbpedia.org/resource/V.S.O.P._(group)' } ],
+     'dbp:cover': [ { value: 'VSOP The Quintet.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:length': [ { value: '4213.0' } ],
+     'dbp:name': [ { value: 'The Quintet (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Tempest in the Colosseum (en)' } ],
+     'dbp:producer': [ { value: 'David Rubinson, Jeffrey Cohen (en)' } ],
+     'dbp:recorded': [ { value: 'July 1977 (en)' } ],
+     'dbp:released': [ { value: 'October 1977 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Quintet (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Herbie_Hancock_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Herbie_Hancock_live_albums' },
+        { value: 'dbc:1977_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1977_live_albums' },
+        { value: 'dbc:Columbia_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Columbia_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Quintet is an album by V.S.O.P. It was compiled from two concert performances: one at the Greek Theatre, University of California, Berkeley, on July 16, 1977; the other at the San Diego Civic Theatre on July 18, 1977. The musicians were Herbie Hancock on keyboards, Freddie Hubbard on trumpet and flugelhorn, Tony Williams on drums, Ron Carter on bass, and Wayne Shorter on tenor and soprano saxophones. The recording was originally released in October 1977 as a 2-disc LP by Columbia Records. (en)' } ],
+     'rdfs:label': [ { value: 'The Quintet (V.S.O.P. album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Quintet (V.S.O.P. album)',
+          href: 'http://rdf.freebase.com/ns/m.01j03bb' },
+        { value: 'dbpedia-fr:The Quintet (V.S.O.P. album)',
+          href: 'http://fr.dbpedia.org/resource/VSOP:_The_Quintet' },
+        { value: 'dbpedia-wikidata:The Quintet (V.S.O.P. album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q3552866' },
+        { value: 'wikidata:The Quintet (V.S.O.P. album)',
+          href: 'http://www.wikidata.org/entity/Q3552866' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Quintet_(V.S.O.P._album)?oldid=663270148',
+          href: 'http://en.wikipedia.org/wiki/The_Quintet_(V.S.O.P._album)?oldid=663270148' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Quintet_(V.S.O.P._album)',
+          href: 'http://en.wikipedia.org/wiki/The_Quintet_(V.S.O.P._album)' } ],
+     'foaf:name': [ { value: 'The Quintet (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Tempest_in_the_Colosseum',
+          href: 'http://dbpedia.org/resource/Tempest_in_the_Colosseum' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Herbie_Hancock_Trio_(1977_album)',
+          href: 'http://dbpedia.org/resource/Herbie_Hancock_Trio_(1977_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Quintet_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Quintet_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:VSOP:_The_Quintet',
+          href: 'http://dbpedia.org/resource/VSOP:_The_Quintet' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Quintet_(V.S.O.P._album)',
+          href: 'http://en.wikipedia.org/wiki/The_Quintet_(V.S.O.P._album)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Esmond Edwards',
+  href: 'http://en.wikipedia.org/wiki/Esmond_Edwards',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2428,
+       quote: [ 'Edwards was awarded several gold and platinum records with many outstanding artists in the jazz and blues world, including Miles Davis, George Benson, John Coltrane, Chuck Berry, Etta James, Ramsey Lewis, B.B. King, Keith Jarrett, and others.' ] } ] }

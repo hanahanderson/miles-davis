@@ -1,0 +1,8 @@
+{ name: 'The Motion of Light in Water',
+  href: 'http://en.wikipedia.org/wiki/The_Motion_of_Light_in_Water',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 301,
+       quote: [ 'Hazel Carby called it one of two contemporary autobiographies that are "absolutely central to any consideration of black manhood" (the other being that of Miles Davis).' ] } ] }

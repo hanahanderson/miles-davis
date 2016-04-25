@@ -1,0 +1,8 @@
+{ name: '1987 Soul Train Music Awards',
+  href: 'http://en.wikipedia.org/wiki/1987_Soul_Train_Music_Awards',
+  mentions: 
+   [ { sectionHeader: 'Winners and nominees',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 2983,
+       quote: [ 'Tutu - Miles Davis' ] } ] }

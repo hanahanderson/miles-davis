@@ -1,0 +1,42 @@
+{ name: '1926 in music',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1926_in_music',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of notable events in music that took place in the year 1926. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/ParamountLabelBLJefferson.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/ParamountLabelBLJefferson.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '163734 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671133829 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:20th_century_in_music',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_music' },
+        { value: 'dbc:1926_in_music',
+          href: 'http://dbpedia.org/resource/Category:1926_in_music' } ],
+     'rdfs:comment': [ { value: 'This is a list of notable events in music that took place in the year 1926. (en)' } ],
+     'rdfs:label': [ { value: '1926 in music (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:1926 in music',
+          href: 'http://fr.dbpedia.org/resource/1926_en_musique' },
+        { value: 'dbpedia-cs:1926 in music',
+          href: 'http://cs.dbpedia.org/resource/1926_v_hudbě' },
+        { value: 'dbpedia-pl:1926 in music',
+          href: 'http://pl.dbpedia.org/resource/1926_w_muzyce' },
+        { value: 'dbpedia-pt:1926 in music',
+          href: 'http://pt.dbpedia.org/resource/1926_na_música' },
+        { value: 'dbpedia-wikidata:1926 in music',
+          href: 'http://wikidata.dbpedia.org/resource/Q774974' },
+        { value: 'wikidata:1926 in music',
+          href: 'http://www.wikidata.org/entity/Q774974' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1926_in_music?oldid=671133829',
+          href: 'http://en.wikipedia.org/wiki/1926_in_music?oldid=671133829' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/ParamountLabelBLJefferson.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/ParamountLabelBLJefferson.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1926_in_music',
+          href: 'http://en.wikipedia.org/wiki/1926_in_music' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1926_in_music',
+          href: 'http://en.wikipedia.org/wiki/1926_in_music' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Rhodes piano',
+  href: 'http://en.wikipedia.org/wiki/Rhodes_piano',
+  mentions: 
+   [ { sectionHeader: 'Notable users',
+       sectionSubHeader: 'Dyno My Piano',
+       sectionIndex: 39,
+       wordCountBeforeSection: 11298,
+       quote: [ 'The Rhodes piano became a popular instrument in jazz in the late 1960s, particularly for several sidemen who played with Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Shawn Pelton',
+  href: 'http://en.wikipedia.org/wiki/Shawn_Pelton',
+  mentions: 
+   [ { sectionHeader: 'Musical education',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2603,
+       quote: [ 'The Massachusetts-based Dawson, legendary in the jazz world, may best be known as an early teacher of Tony Williams—drummer for Miles Davis.' ] } ] }

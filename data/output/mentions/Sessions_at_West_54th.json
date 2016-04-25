@@ -1,0 +1,8 @@
+{ name: 'Sessions at West 54th',
+  href: 'http://en.wikipedia.org/wiki/Sessions_at_West_54th',
+  mentions: 
+   [ { sectionHeader: 'Episode list',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 15954,
+       quote: [ 'Isham plays Miles Davis compositions from his tribute CD; Krall\'s set includes "Under My Skin," "I Love Being Here with You," "Lost Mind," "Peel Me a Grape" and "When I Look in Your Eyes."' ] } ] }

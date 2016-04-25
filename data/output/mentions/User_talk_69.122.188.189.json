@@ -1,0 +1,13 @@
+{ name: 'User talk:69.122.188.189',
+  href: 'http://en.wikipedia.org/wiki/User_talk:69.122.188.189',
+  mentions: 
+   [ { sectionHeader: 'February 2015',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 19,
+       quote: [ 'I wanted to let you know that I undid one or more of your recent contributions to Miles Davis because it did not appear constructive.' ] },
+     { sectionHeader: 'February 2015',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 548,
+       quote: [ ' Please refrain from making unconstructive edits to Wikipedia, as you did at Miles Davis.' ] } ] }

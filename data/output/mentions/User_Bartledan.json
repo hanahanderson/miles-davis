@@ -1,0 +1,8 @@
+{ name: 'User:Bartledan',
+  href: 'http://en.wikipedia.org/wiki/User:Bartledan',
+  mentions: 
+   [ { sectionHeader: 'About Me',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 848,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

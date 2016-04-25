@@ -1,0 +1,8 @@
+{ name: 'A Rhapsody in Black and Blue',
+  href: 'http://en.wikipedia.org/wiki/A_Rhapsody_in_Black_and_Blue',
+  mentions: 
+   [ { sectionHeader: 'Critical response',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1454,
+       quote: [ 'In the book Jammin’ at the Margins, Krin Gabbard quotes Miles Davis saying in his autobiography,' ] } ] }

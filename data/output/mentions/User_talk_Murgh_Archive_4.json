@@ -1,0 +1,8 @@
+{ name: 'User talk:Murgh/Archive 4',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Murgh/Archive_4',
+  mentions: 
+   [ { sectionHeader: 'James Suckling',
+       sectionSubHeader: 'On a related note ...',
+       sectionIndex: 472,
+       wordCountBeforeSection: 124999,
+       quote: [ 'I have changed "counted among the world\'s most influential..." back to "regarded as one of the world\'s most influential..." since firstly it seems editors on wikipedia prefer this phrase e.g. Mostafa Amin, Albert Einstein, Mao Zedong, Milan, Akhil Reed Amar, Miles Davis etc and because secondly, this phrase is more accurately representative of the given sources which back up this claim. "One the world\'s most powerful wine critics" — the writer obviously forgot the "of" (and the other references for that matter, originally in Italian, my second language, "James Suckling è il grand connoisseur del mondo del vino" -Gentleman magazine and "quello che oggi è considerato il più influente giudice del mercato vitivinicolo mondiale" -Sommelier Toscana) is much closer to my version of this information: influential is the closest synonym there is to powerful and the rest of the reference is exactly the same to the current phrase.' ] } ] }

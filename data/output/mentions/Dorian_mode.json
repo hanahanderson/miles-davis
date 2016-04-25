@@ -1,0 +1,13 @@
+{ name: 'Dorian mode',
+  href: 'http://en.wikipedia.org/wiki/Dorian_mode',
+  mentions: 
+   [ { sectionHeader: 'Notable compositions in Dorian mode',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 7940,
+       quote: [ '"Milestones" by Miles Davis' ] },
+     { sectionHeader: 'Notable compositions in Dorian mode',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 7940,
+       quote: [ '"So What" by Miles Davis - The composition takes an AABA form with the "A" sections in D Dorian and the "B" section in E♭ Dorian.' ] } ] }

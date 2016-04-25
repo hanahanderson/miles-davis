@@ -1,0 +1,18 @@
+{ name: 'Schaefer Music Festival',
+  href: 'http://en.wikipedia.org/wiki/Schaefer_Music_Festival',
+  mentions: 
+   [ { sectionHeader: 'Festival line-ups',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4699,
+       quote: [ 'July 7: Miles Davis; Thelonious Monk' ] },
+     { sectionHeader: 'Festival line-ups',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6213,
+       quote: [ 'July 6: Miles Davis Septet; Buddy Miles' ] },
+     { sectionHeader: 'Festival line-ups',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 15186,
+       quote: [ 'September 5: Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jaco Pastorius (album)',
+  href: 'http://en.wikipedia.org/wiki/Jaco_Pastorius_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 759,
+       quote: [ 'The disc begins with a cover version of Miles Davis\' "Donna Lee" (although the song was originally credited - mistakenly - to Charlie Parker on the album) and includes eight other tracks written or co-written by Pastorius.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Talk:La Santa Cecilia',
+  href: 'http://en.wikipedia.org/wiki/Talk:La_Santa_Cecilia',
+  mentions: 
+   [ { sectionHeader: 'Moved uncited info',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 5116,
+       quote: [ 'Influential artists: Miles Davis, Mercedes Sosa, and Ramon Ayala.' ] } ] }

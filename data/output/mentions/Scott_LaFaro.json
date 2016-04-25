@@ -1,0 +1,8 @@
+{ name: 'Scott LaFaro',
+  href: 'http://en.wikipedia.org/wiki/Scott_LaFaro',
+  mentions: 
+   [ { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2435,
+       quote: [ 'In 1959, after many gigs with such luminaries as Chet Baker, Stan Kenton, Cal Tjader, and Benny Goodman, LaFaro moved back east and joined Bill Evans, who had recently left the Miles Davis Sextet.' ] } ] }

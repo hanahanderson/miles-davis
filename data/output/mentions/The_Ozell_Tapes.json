@@ -1,0 +1,13 @@
+{ name: 'The Ozell Tapes',
+  href: 'http://en.wikipedia.org/wiki/The_Ozell_Tapes',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 406,
+       quote: [ '"So What" (Miles Davis)' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'Disc 2',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1324,
+       quote: [ 'Miles Davis' ] } ] }

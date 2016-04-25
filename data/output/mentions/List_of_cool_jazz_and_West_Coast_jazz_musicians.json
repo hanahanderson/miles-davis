@@ -1,0 +1,8 @@
+{ name: 'List of cool jazz and West Coast jazz musicians',
+  href: 'http://en.wikipedia.org/wiki/List_of_cool_jazz_and_West_Coast_jazz_musicians',
+  mentions: 
+   [ { sectionHeader: 'List',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 831,
+       quote: [ 'Miles Davis:94–95:106–108' ] } ] }

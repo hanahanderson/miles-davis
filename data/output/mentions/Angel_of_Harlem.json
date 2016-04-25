@@ -1,0 +1,8 @@
+{ name: 'Angel of Harlem',
+  href: 'http://en.wikipedia.org/wiki/Angel_of_Harlem',
+  mentions: 
+   [ { sectionHeader: 'Content',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 955,
+       quote: [ 'It also refers to jazz-related history including John Coltrane and A Love Supreme, Birdland club, Miles Davis and Holiday herself ("Lady Day").' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Merl Saunders',
+  href: 'http://en.wikipedia.org/wiki/Merl_Saunders',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2951,
+       quote: [ 'Saunders worked with musicians Paul Pena, Bonnie Raitt, Phish, Widespread Panic, Miles Davis, and B.' ] } ] }

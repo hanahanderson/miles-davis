@@ -1,0 +1,8 @@
+{ name: 'Art Pepper Meets the Rhythm Section',
+  href: 'http://en.wikipedia.org/wiki/Art_Pepper_Meets_the_Rhythm_Section',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 342,
+       quote: [ 'Art Pepper Meets the Rhythm Section is a 1957 jazz album by saxophonist Art Pepper playing with Red Garland, Paul Chambers and Philly Joe Jones, who at the time were the rhythm section for Miles Davis\'s quintet.' ] } ] }

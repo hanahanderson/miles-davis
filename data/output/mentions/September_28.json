@@ -1,0 +1,13 @@
+{ name: 'September 28',
+  href: 'http://en.wikipedia.org/wiki/September_28',
+  mentions: 
+   [ { sectionHeader: 'Deaths',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 22991,
+       quote: [ '1991 – Miles Davis, American trumpet player, composer, and bandleader (Miles Davis Quintet) (b. 1926)' ] },
+     { sectionHeader: 'Deaths',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 22991,
+       quote: [ '1991 – Miles Davis, American trumpet player, composer, and bandleader (Miles Davis Quintet) (b. 1926)' ] } ] }

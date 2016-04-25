@@ -1,0 +1,8 @@
+{ name: 'Saeta (flamenco)',
+  href: 'http://en.wikipedia.org/wiki/Saeta_(flamenco)',
+  mentions: 
+   [ { sectionHeader: 'Recordings',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 7522,
+       quote: [ 'Miles Davis, "Saeta" in his album Sketches of Spain (Columbia Records: recorded 1959-1960, released 1960), at band 4 (5:06), written by Gil Evans .' ] } ] }

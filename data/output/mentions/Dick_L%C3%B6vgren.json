@@ -1,0 +1,8 @@
+{ name: 'Dick Lövgren',
+  href: 'http://en.wikipedia.org/wiki/Dick_L%C3%B6vgren',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 803,
+       quote: [ 'Lövgren is a schooled jazz musician, influenced by Dave Holland, John Scofield, Medeski Martin & Wood, Miles Davis and Brad Mehldau.' ] } ] }

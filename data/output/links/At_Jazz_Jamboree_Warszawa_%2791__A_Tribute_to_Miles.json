@@ -1,0 +1,92 @@
+{ name: 'At Jazz Jamboree Warszawa \'91: A Tribute to Miles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/At_Jazz_Jamboree_Warszawa_%2791:_A_Tribute_to_Miles',
+  values: 
+   { 'dbo:abstract': [ { value: 'At Jazz Jamboree Warszawa \'91: A Tribute to Miles is a live album by trumpeter Freddie Hubbard recorded in October 1991 and released on the Starburst label in 2000. It features performances by Hubbard, Ronnie Mathews, Don Braden, Jeff Chambers, and Ralph Penland. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Freddie_Hubbard',
+          href: 'http://dbpedia.org/resource/Freddie_Hubbard' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Bolivia_(album)',
+          href: 'http://dbpedia.org/resource/Bolivia_(album)' } ],
+     'dbo:recordDate': [ { value: '1991-10-24 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Starburst_Records',
+          href: 'http://dbpedia.org/resource/Starburst_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Live_at_Fat_Tuesday\'s',
+          href: 'http://dbpedia.org/resource/Live_at_Fat_Tuesday\'s' } ],
+     'dbo:wikiPageID': [ { value: '23361582 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '622541241 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Freddie_Hubbard',
+          href: 'http://dbpedia.org/resource/Freddie_Hubbard' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Freddie_Hubbard',
+          href: 'http://dbpedia.org/resource/Freddie_Hubbard' } ],
+     'dbp:cover': [ { value: 'At Jazz Jamboree Warszawa \'91 A Tribute to Miles.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Starburst_Records',
+          href: 'http://dbpedia.org/resource/Starburst_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Bolivia (en)' } ],
+     'dbp:name': [ { value: 'At Jazz Jamboree Warszawa \'91: A Tribute to Miles (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Live at Fat Tuesday\'s (en)' } ],
+     'dbp:recorded': [ { value: '1991-10-24 (xsd:date)' } ],
+     'dbp:released': [ { value: '2000 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: '\'At Jazz Jamboree Warszawa \'91: A Tribute to Miles" (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Freddie_Hubbard_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Freddie_Hubbard_live_albums' },
+        { value: 'dbc:1992_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1992_live_albums' },
+        { value: 'dbc:Miles_Davis_tribute_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_tribute_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'At Jazz Jamboree Warszawa \'91: A Tribute to Miles is a live album by trumpeter Freddie Hubbard recorded in October 1991 and released on the Starburst label in 2000. It features performances by Hubbard, Ronnie Mathews, Don Braden, Jeff Chambers, and Ralph Penland. (en)' } ],
+     'rdfs:label': [ { value: 'At Jazz Jamboree Warszawa \'91: A Tribute to Miles (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:At Jazz Jamboree Warszawa \'91: A Tribute to Miles',
+          href: 'http://rdf.freebase.com/ns/m.049r_l3' },
+        { value: 'dbpedia-wikidata:At Jazz Jamboree Warszawa \'91: A Tribute to Miles',
+          href: 'http://wikidata.dbpedia.org/resource/Q4812349' },
+        { value: 'wikidata:At Jazz Jamboree Warszawa \'91: A Tribute to Miles',
+          href: 'http://www.wikidata.org/entity/Q4812349' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:At_Jazz_Jamboree_Warszawa_\'91:_A_Tribute_to_Miles?oldid=622541241',
+          href: 'http://en.wikipedia.org/wiki/At_Jazz_Jamboree_Warszawa_\'91:_A_Tribute_to_Miles?oldid=622541241' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:At_Jazz_Jamboree_Warszawa_\'91:_A_Tribute_to_Miles',
+          href: 'http://en.wikipedia.org/wiki/At_Jazz_Jamboree_Warszawa_\'91:_A_Tribute_to_Miles' } ],
+     'foaf:name': [ { value: 'At Jazz Jamboree Warszawa \'91: A Tribute to Miles (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Live_at_Fat_Tuesday\'s',
+          href: 'http://dbpedia.org/resource/Live_at_Fat_Tuesday\'s' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Bolivia_(album)',
+          href: 'http://dbpedia.org/resource/Bolivia_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:At_Jazz_Jamboree_Warszawa_\'91:_A_Tribute_to_Miles',
+          href: 'http://en.wikipedia.org/wiki/At_Jazz_Jamboree_Warszawa_\'91:_A_Tribute_to_Miles' } ] } }

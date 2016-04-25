@@ -1,0 +1,38 @@
+{ name: 'The Douglas Brothers',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/The_Douglas_Brothers',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Douglas Brothers is the photographic imprint of Andrew Douglas (10 August 1952) and Stuart Douglas (6 February 1962), British photographer/director siblings. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://thedouglasbrothers.com/',
+          href: 'http://thedouglasbrothers.com/' } ],
+     'dbo:wikiPageID': [ { value: '39673575 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '653169986 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:British_directors',
+          href: 'http://dbpedia.org/resource/Category:British_directors' },
+        { value: 'dbc:British_photographers',
+          href: 'http://dbpedia.org/resource/Category:British_photographers' } ],
+     'rdfs:comment': [ { value: 'The Douglas Brothers is the photographic imprint of Andrew Douglas (10 August 1952) and Stuart Douglas (6 February 1962), British photographer/director siblings. (en)' } ],
+     'rdfs:label': [ { value: 'The Douglas Brothers (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Douglas Brothers',
+          href: 'http://rdf.freebase.com/ns/m.0_gx8ff' },
+        { value: 'dbpedia-wikidata:The Douglas Brothers',
+          href: 'http://wikidata.dbpedia.org/resource/Q17102087' },
+        { value: 'wikidata:The Douglas Brothers',
+          href: 'http://www.wikidata.org/entity/Q17102087' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Douglas_Brothers?oldid=653169986',
+          href: 'http://en.wikipedia.org/wiki/The_Douglas_Brothers?oldid=653169986' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Douglas_Brothers',
+          href: 'http://en.wikipedia.org/wiki/The_Douglas_Brothers' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Andrew_Douglas_(photographer)',
+          href: 'http://dbpedia.org/resource/Andrew_Douglas_(photographer)' },
+        { value: 'dbr:Stuart_Douglas_(photographer)',
+          href: 'http://dbpedia.org/resource/Stuart_Douglas_(photographer)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Douglas_Brothers',
+          href: 'http://en.wikipedia.org/wiki/The_Douglas_Brothers' } ] } }

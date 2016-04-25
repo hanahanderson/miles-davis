@@ -1,0 +1,13 @@
+{ name: 'Aalener Jazzfest',
+  href: 'http://en.wikipedia.org/wiki/Aalener_Jazzfest',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 902,
+       quote: [ 'A year later, jazz legend Miles Davis played his last European concert on the 2nd Aalen Jazz Festival.' ] },
+     { sectionHeader: 'Notable past performers',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1881,
+       quote: [ 'Miles Davis' ] } ] }

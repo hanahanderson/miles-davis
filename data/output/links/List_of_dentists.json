@@ -1,0 +1,40 @@
+{ name: 'List of dentists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_dentists',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of dentists who have gained a degree of notability, particularly with regard to the history of those in the field. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Johann_Liss_002.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Johann_Liss_002.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '3284167 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679496694 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_physicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_physicians' },
+        { value: 'dbc:Lists_of_health_professionals',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_health_professionals' },
+        { value: 'dbc:Dentists',
+          href: 'http://dbpedia.org/resource/Category:Dentists' },
+        { value: 'dbc:Dentistry-related_lists',
+          href: 'http://dbpedia.org/resource/Category:Dentistry-related_lists' } ],
+     'rdfs:comment': [ { value: 'This is a list of dentists who have gained a degree of notability, particularly with regard to the history of those in the field. (en)' } ],
+     'rdfs:label': [ { value: 'List of dentists (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-pt:List of dentists',
+          href: 'http://pt.dbpedia.org/resource/Lista_de_dentistas' },
+        { value: 'dbpedia-wikidata:List of dentists',
+          href: 'http://wikidata.dbpedia.org/resource/Q6616059' },
+        { value: 'wikidata:List of dentists',
+          href: 'http://www.wikidata.org/entity/Q6616059' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_dentists?oldid=679496694',
+          href: 'http://en.wikipedia.org/wiki/List_of_dentists?oldid=679496694' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Johann_Liss_002.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Johann_Liss_002.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_dentists',
+          href: 'http://en.wikipedia.org/wiki/List_of_dentists' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_dentists',
+          href: 'http://en.wikipedia.org/wiki/List_of_dentists' } ] } }

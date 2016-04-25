@@ -1,0 +1,8 @@
+{ name: 'Manfred Mann Chapter Three',
+  href: 'http://en.wikipedia.org/wiki/Manfred_Mann_Chapter_Three',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1060,
+       quote: [ 'The band\'s approach centred on the "time, no changes" approach of Miles Davis and John Coltrane applied to slow, funky grooves with voodoo lyrics inspired by DrJohn alternating with blaring big-band horn riffs and improvised free-jazz solos reminiscent of Ornette Coleman and Albert Ayler.' ] } ] }

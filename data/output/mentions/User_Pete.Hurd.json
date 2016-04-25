@@ -1,0 +1,8 @@
+{ name: 'User:Pete.Hurd',
+  href: 'http://en.wikipedia.org/wiki/User:Pete.Hurd',
+  mentions: 
+   [ { sectionHeader: 'Subcultural Affiliations, Countercultural & Political Allegiances',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3086,
+       quote: [ 'Did you know that: of the 10 greatest albums in the history of vertebrate evolution 3 are by Miles Davis?' ] } ] }

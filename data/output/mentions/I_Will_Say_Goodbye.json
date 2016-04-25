@@ -1,0 +1,8 @@
+{ name: 'I Will Say Goodbye',
+  href: 'http://en.wikipedia.org/wiki/I_Will_Say_Goodbye',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 2615,
+       quote: [ 'Miles Davis' ] } ] }

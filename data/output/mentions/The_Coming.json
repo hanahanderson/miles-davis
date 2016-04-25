@@ -1,0 +1,8 @@
+{ name: 'The Coming',
+  href: 'http://en.wikipedia.org/wiki/The_Coming',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3920,
+       quote: [ '"Everything Remains Raw" contains a sample from "Bess, You Is My Woman Now" by Miles Davis.' ] } ] }

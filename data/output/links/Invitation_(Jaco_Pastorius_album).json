@@ -1,0 +1,102 @@
+{ name: 'Invitation (Jaco Pastorius album)',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Invitation_(Jaco_Pastorius_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '43.083333333333336' } ],
+     'dbo:abstract': [ { value: 'Invitation was the third album by Jaco Pastorius, released in 1983 while the bassist was a member of Weather Report. This is a live album recorded in Japan, featuring his "Word of Mouth" big band. While his debut album showcased his eclectic and impressive skills on the electric bass, both Invitation and his previous album, Word of Mouth focused more on his ability to arrange for a larger band.This album features mostly numbers written by other artists. The exceptions are "Continuum", from his debut album, and "Liberty City", from Word of Mouth, as well as "Reza", an original number bookending his version of John Coltrane\'s "Giant Steps".The band\'s all-star cast included Randy Brecker, Bobby Mintzer, Toots Thielemans, Peter Erskine, Othello Molineaux and Don Alias. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Jaco_Pastorius',
+          href: 'http://dbpedia.org/resource/Jaco_Pastorius' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Word_of_Mouth_(Jaco_Pastorius_album)',
+          href: 'http://dbpedia.org/resource/Word_of_Mouth_(Jaco_Pastorius_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Jaco_Pastorius',
+          href: 'http://dbpedia.org/resource/Jaco_Pastorius' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Warner_Bros._Records',
+          href: 'http://dbpedia.org/resource/Warner_Bros._Records' } ],
+     'dbo:runtime': [ { value: '2585.000000 (xsd:double)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.jpastorius.net',
+          href: 'http://www.jpastorius.net' },
+        { value: 'http://www.jacopastorius.com',
+          href: 'http://www.jacopastorius.com' } ],
+     'dbo:wikiPageID': [ { value: '44497209 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671883659 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Jaco_Pastorius',
+          href: 'http://dbpedia.org/resource/Jaco_Pastorius' } ],
+     'dbp:cover': [ { value: 'Jaco_Pastorius_-_Invitation,_album_cover.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Warner_Bros._Records',
+          href: 'http://dbpedia.org/resource/Warner_Bros._Records' } ],
+     'dbp:lastAlbum': [ { value: 'Word of Mouth (en)' } ],
+     'dbp:length': [ { value: '2585.0' } ],
+     'dbp:name': [ { value: 'Invitation (en)' } ],
+     'dbp:nextAlbum': [ { value: '— (en)' } ],
+     'dbp:producer': [ { value: 'Jaco Pastorius (en)' } ],
+     'dbp:released': [ { value: 'December 1983 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Invitation (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1983_albums',
+          href: 'http://dbpedia.org/resource/Category:1983_albums' },
+        { value: 'dbc:Jaco_Pastorius_albums',
+          href: 'http://dbpedia.org/resource/Category:Jaco_Pastorius_albums' },
+        { value: 'dbc:Warner_Bros._Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Warner_Bros._Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Invitation was the third album by Jaco Pastorius, released in 1983 while the bassist was a member of Weather Report. This is a live album recorded in Japan, featuring his "Word of Mouth" big band. While his debut album showcased his eclectic and impressive skills on the electric bass, both Invitation and his previous album, Word of Mouth focused more on his ability to arrange for a larger band.This album features mostly numbers written by other artists. (en)' } ],
+     'rdfs:label': [ { value: 'Invitation (Jaco Pastorius album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Invitation (Jaco Pastorius album)',
+          href: 'http://rdf.freebase.com/ns/m.01kwj_z' },
+        { value: 'wikidata:Invitation (Jaco Pastorius album)',
+          href: 'http://www.wikidata.org/entity/Q19880613' },
+        { value: 'dbpedia-wikidata:Invitation (Jaco Pastorius album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q19880613' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Invitation_(Jaco_Pastorius_album)?oldid=671883659',
+          href: 'http://en.wikipedia.org/wiki/Invitation_(Jaco_Pastorius_album)?oldid=671883659' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.jacopastorius.com',
+          href: 'http://www.jacopastorius.com' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Invitation_(Jaco_Pastorius_album)',
+          href: 'http://en.wikipedia.org/wiki/Invitation_(Jaco_Pastorius_album)' } ],
+     'foaf:name': [ { value: 'Invitation (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Word_of_Mouth_(Jaco_Pastorius_album)',
+          href: 'http://dbpedia.org/resource/Word_of_Mouth_(Jaco_Pastorius_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Invitation_(Jaco_Pastorius_album)',
+          href: 'http://en.wikipedia.org/wiki/Invitation_(Jaco_Pastorius_album)' } ] } }

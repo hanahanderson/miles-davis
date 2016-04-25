@@ -1,0 +1,34 @@
+{ name: 'List of songs recorded by Morgana King',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_songs_recorded_by_Morgana_King',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a detailed songlist for Morgana King, which includes composers, album date and title from the years 1956 to the present.  Her albums Airs de Cour (Mainstream Records 1022), Bidin\' My Time, Morgana King - 2 LPs (Roulette Records), Morgana King Sings Just For You and The Best of Morgana King* (Mainstream Records) are not included due to the lack of an available track listing. (en)' } ],
+     'dbo:wikiPageID': [ { value: '23882181 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '667975194 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_songs_by_recording_artists',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_songs_by_recording_artists' } ],
+     'rdfs:comment': [ { value: 'The following is a detailed songlist for Morgana King, which includes composers, album date and title from the years 1956 to the present.  Her albums Airs de Cour (Mainstream Records 1022), Bidin\' My Time, Morgana King - 2 LPs (Roulette Records), Morgana King Sings Just For You and The Best of Morgana King* (Mainstream Records) are not included due to the lack of an available track listing. (en)' } ],
+     'rdfs:label': [ { value: 'List of songs recorded by Morgana King (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of songs recorded by Morgana King',
+          href: 'http://wikidata.dbpedia.org/resource/Q6640029' },
+        { value: 'wikidata:List of songs recorded by Morgana King',
+          href: 'http://www.wikidata.org/entity/Q6640029' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_songs_recorded_by_Morgana_King?oldid=667975194',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_recorded_by_Morgana_King?oldid=667975194' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_songs_recorded_by_Morgana_King',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_recorded_by_Morgana_King' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Morgana_King_songs',
+          href: 'http://dbpedia.org/resource/List_of_Morgana_King_songs' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Morgana_King',
+          href: 'http://dbpedia.org/resource/Morgana_King' },
+        { value: 'dbr:Morgana_King_discography',
+          href: 'http://dbpedia.org/resource/Morgana_King_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_songs_recorded_by_Morgana_King',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_recorded_by_Morgana_King' } ] } }

@@ -1,0 +1,18 @@
+{ name: 'Wikipedia:Articles for deletion/Log/2005 December 29',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Log/2005_December_29',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'At most put a short mention of him in Miles Davis. --Pboyd04 01:00, 29 December 2005 (UTC)\n\nMerge to Miles Davis as stated by Muchness he influence Miles Davis but that is his only point of notability as far as I can tell. --Pboyd04 18:21, 29 December 2005 (UTC)\n\n' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Merge to Miles Davis as stated by Muchness he influence Miles Davis but that is his only point of notability as far as I can tell. --Pboyd04 18:21, 29 December 2005 (UTC)' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Failing that, merge with Miles Davis, as his contribution to Davis\'s style was considerable.' ] } ] }

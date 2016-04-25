@@ -1,0 +1,13 @@
+{ name: 'Machismo (album)',
+  href: 'http://en.wikipedia.org/wiki/Machismo_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 860,
+       quote: [ '"In the Night" - (with Miles Davis) – 4:43' ] },
+     { sectionHeader: 'Credits',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1087,
+       quote: [ 'Trumpet - Alan Rubin, Randy Brecker, Miles Davis' ] } ] }

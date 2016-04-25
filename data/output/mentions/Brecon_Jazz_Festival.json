@@ -1,0 +1,8 @@
+{ name: 'Brecon Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Brecon_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: '(Kind of) Blue Plaque',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2430,
+       quote: [ 'In 2009, in honour of the 50th anniversary of the release of the Miles Davis album, Kind of Blue, the festival invited jazz fans to submit nomination for an award, in the form of a Blue plaque to be awarded annually, the first to be bestowed in 2010, honouring the venues which had made the most significant contribution to jazz in the United Kingdom.' ] } ] }

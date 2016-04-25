@@ -1,0 +1,8 @@
+{ name: 'User:Per Honor et Gloria/FA',
+  href: 'http://en.wikipedia.org/wiki/User:Per_Honor_et_Gloria/FA',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 12558,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Jazz Temple',
+  href: 'http://en.wikipedia.org/wiki/The_Jazz_Temple',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 0,
+       quote: [ 'During its brief history, with frequent headlining appearances by jazz greats such as Miles Davis, John Coltrane, Herbie Hancock, Dizzy Gillespie, and Cannonball Adderley among others, the popular night spot was more successful than any other similar venue in the region.' ] } ] }

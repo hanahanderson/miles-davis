@@ -1,0 +1,8 @@
+{ name: 'Nick Cave',
+  href: 'http://en.wikipedia.org/wiki/Nick_Cave',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Publications with contributions by Cave',
+       sectionIndex: 130,
+       wordCountBeforeSection: 52334,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

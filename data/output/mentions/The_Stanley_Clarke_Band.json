@@ -1,0 +1,8 @@
+{ name: 'The Stanley Clarke Band',
+  href: 'http://en.wikipedia.org/wiki/The_Stanley_Clarke_Band',
+  mentions: 
+   [ { sectionHeader: 'Tracks',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4738,
+       quote: [ '"Larry Has Traveled 11 Miles and Waited a Lifetime for the Return of Vishnu’s Report" pays homage in its name and musical stylings to Larry Coryell\'s The Eleventh House, Miles Davis, Mahavishnu Orchestra, The Tony Williams Lifetime, Return to Forever, and Weather Report, all jazz fusion pioneers.' ] } ] }

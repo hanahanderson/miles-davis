@@ -1,0 +1,13 @@
+{ name: 'List of cover versions of Michael Jackson songs',
+  href: 'http://en.wikipedia.org/wiki/List_of_cover_versions_of_Michael_Jackson_songs',
+  mentions: 
+   [ { sectionHeader: 'M',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 14172,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'M',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 14172,
+       quote: [] } ] }

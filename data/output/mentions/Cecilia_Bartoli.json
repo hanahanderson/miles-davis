@@ -1,0 +1,8 @@
+{ name: 'Cecilia Bartoli',
+  href: 'http://en.wikipedia.org/wiki/Cecilia_Bartoli',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Collections',
+       sectionIndex: 47,
+       wordCountBeforeSection: 9048,
+       quote: [ 'Miles Davis (1984)' ] } ] }

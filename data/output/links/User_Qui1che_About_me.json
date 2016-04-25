@@ -1,0 +1,4 @@
+{ name: 'User:Qui1che/About me',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Qui1che/About_me',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Kesivan Naidoo',
+  href: 'http://en.wikipedia.org/wiki/Kesivan_Naidoo',
+  mentions: 
+   [ { sectionHeader: 'Musical Influences',
+       sectionSubHeader: 'Closet Snare',
+       sectionIndex: 27,
+       wordCountBeforeSection: 4404,
+       quote: [ 'Other musicians who have influenced his compositions include Wayne Shorter, Miles Davis and John Coltrane.' ] } ] }

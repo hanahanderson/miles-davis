@@ -1,0 +1,8 @@
+{ name: 'THD Electronics',
+  href: 'http://en.wikipedia.org/wiki/THD_Electronics',
+  mentions: 
+   [ { sectionHeader: 'Amplifier basics',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3887,
+       quote: [ 'Play what’s not there.’ –Miles Davis”' ] } ] }

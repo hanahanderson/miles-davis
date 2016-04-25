@@ -1,0 +1,8 @@
+{ name: 'Interchange (album)',
+  href: 'http://en.wikipedia.org/wiki/Interchange_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1028,
+       quote: [ '"Blue in Green" (Miles Davis / Bill Evans) - 8:53' ] } ] }

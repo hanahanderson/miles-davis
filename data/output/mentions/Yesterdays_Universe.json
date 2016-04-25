@@ -1,0 +1,8 @@
+{ name: 'Yesterdays Universe',
+  href: 'http://en.wikipedia.org/wiki/Yesterdays_Universe',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1628,
+       quote: [ 'Miles Davis' ] } ] }

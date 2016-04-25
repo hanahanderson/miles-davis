@@ -1,0 +1,25 @@
+{ name: 'List of rock instrumentals',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_rock_instrumentals',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a list of rock instrumentals, including live performances and drum solos, organized primarily by artist name, then chronologically through the artist\'s discography. (en)' } ],
+     'rdfs:comment': [ { value: 'The following is a list of rock instrumentals, including live performances and drum solos, organized primarily by artist name, then chronologically through the artist\'s discography. (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-es:Anexo:Canciones_instrumentales_de_rock',
+          href: 'http://es.dbpedia.org/resource/Anexo:Canciones_instrumentales_de_rock' },
+        { value: 'dbpedia-id:Daftar_lagu_rock_instrumental',
+          href: 'http://id.dbpedia.org/resource/Daftar_lagu_rock_instrumental' },
+        { value: 'dbpedia-wikidata:Q6636878',
+          href: 'http://wikidata.dbpedia.org/resource/Q6636878' },
+        { value: 'wikidata:Q6636878',
+          href: 'http://www.wikidata.org/entity/Q6636878' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_instrumental_songs_by_non-instrumental_bands/artists',
+          href: 'http://dbpedia.org/resource/List_of_instrumental_songs_by_non-instrumental_bands/artists' },
+        { value: 'dbr:Rock_Instrumentals',
+          href: 'http://dbpedia.org/resource/Rock_Instrumentals' },
+        { value: 'dbr:List_of_Rock_Instrumentals',
+          href: 'http://dbpedia.org/resource/List_of_Rock_Instrumentals' } ],
+     'is dbp:otherTopics\n of': 
+      [ { value: 'dbr:Instrumental_rock',
+          href: 'http://dbpedia.org/resource/Instrumental_rock' } ] } }

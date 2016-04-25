@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject Biography/Core biographies/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Biography/Core_biographies/Archive_1',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Dennis Stock',
+  href: 'http://en.wikipedia.org/wiki/Dennis_Stock',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1509,
+       quote: [ 'From 1957 until the early 1960s, Stock aimed his lens at jazz musicians, photographing such people as Louis Armstrong, Billie Holiday, Sidney Bechet, Gene Krupa and Duke Ellington or Miles Davis ( see for example, Milestones Cover Photo).' ] },
+     { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1509,
+       quote: [ 'From 1957 until the early 1960s, Stock aimed his lens at jazz musicians, photographing such people as Louis Armstrong, Billie Holiday, Sidney Bechet, Gene Krupa and Duke Ellington or Miles Davis ( see for example, Milestones Cover Photo).' ] } ] }

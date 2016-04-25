@@ -1,0 +1,8 @@
+{ name: 'John D\'earth',
+  href: 'http://en.wikipedia.org/wiki/John_D%27earth',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 690,
+       quote: [ 'He co-founded the group Cosmology (Vanguard Records) with bandmates drummer Robert Jospe and singer Dawn Thompson (whom D\'earth later married.) His is also known for his work with musicians such as Miles Davis, Buddy Rich, Dave Matthews Band, and Emily Remler.' ] } ] }

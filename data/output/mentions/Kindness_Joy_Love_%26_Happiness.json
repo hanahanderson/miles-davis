@@ -1,0 +1,8 @@
+{ name: 'Kindness Joy Love & Happiness',
+  href: 'http://en.wikipedia.org/wiki/Kindness_Joy_Love_%26_Happiness',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 998,
+       quote: [ '"All Blues" (Miles Davis) - 8:07' ] } ] }

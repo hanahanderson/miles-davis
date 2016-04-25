@@ -1,0 +1,4 @@
+{ name: 'User:Chupon/CDs',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Chupon/CDs',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

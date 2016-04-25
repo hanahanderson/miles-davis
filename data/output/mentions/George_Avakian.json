@@ -1,0 +1,18 @@
+{ name: 'George Avakian',
+  href: 'http://en.wikipedia.org/wiki/George_Avakian',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Louis Armstrong, Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 570,
+       quote: [ 'George Avakian (Armenian: Գևորգ Ավագյան; Russian: Геворк Авакян; born March 15, 1919) is an American record producer and executive known particularly for his work with Columbia Records, and his production of albums by Louis Armstrong, Miles Davis and other notable jazz musicians.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1994,
+       quote: [ 'While at Columbia, Avakian signed and produced Dave Brubeck, Miles Davis, Louis Armstrong, Johnny Mathis, Rita Reys, and Erroll Garner to the label, among others.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Return to Forever (Chick Corea album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Return_to_Forever_(Chick_Corea_album)',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

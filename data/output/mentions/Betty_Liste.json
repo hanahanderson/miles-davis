@@ -1,0 +1,8 @@
+{ name: 'Betty Liste',
+  href: 'http://en.wikipedia.org/wiki/Betty_Liste',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1137,
+       quote: [ 'A reviewer for All About Jazz wrote "Liste interprets the timeless masterworks of Cole Porter, Miles Davis, and Antonio Carlos Jobim, among others, with youthful exuberance, emotional depth, and impressive skill." Jazz Corner News wrote: "Each note played is a message from her heart; every melody is a part of her soul.' ] } ] }

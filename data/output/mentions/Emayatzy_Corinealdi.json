@@ -1,0 +1,13 @@
+{ name: 'Emayatzy Corinealdi',
+  href: 'http://en.wikipedia.org/wiki/Emayatzy_Corinealdi',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1769,
+       quote: [ 'Later that year, she has won the role of Frances Taylor, the wife of Miles Davis in the biographical film Miles Ahead, directed and starring Don Cheadle.' ] },
+     { sectionHeader: 'Filmography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2062,
+       quote: [] } ] }

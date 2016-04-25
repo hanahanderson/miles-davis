@@ -1,0 +1,8 @@
+{ name: 'Pink Floyd',
+  href: 'http://en.wikipedia.org/wiki/Pink_Floyd',
+  mentions: 
+   [ { sectionHeader: 'Musicianship',
+       sectionSubHeader: '',
+       sectionIndex: 116,
+       wordCountBeforeSection: 55284,
+       quote: [ 'Gilmour\'s ability to use fewer notes than most to express himself without sacrificing strength or beauty drew a favourable comparison to jazz trumpeter Miles Davis.' ] } ] }

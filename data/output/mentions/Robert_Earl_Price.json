@@ -1,0 +1,8 @@
+{ name: 'Robert Earl Price',
+  href: 'http://en.wikipedia.org/wiki/Robert_Earl_Price',
+  mentions: 
+   [ { sectionHeader: 'Poet and playwright',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2891,
+       quote: [ 'With variations of the Miles Davis composition "All Blues" interweaving through the work, the play reimagines the story of Ray Sprigle, a white reporter from the Pittsburgh Gazette who, in 1948, traveled through the Jim Crow South posing as a black man and recorded his life-changing experiences in a series of articles entitled "I Was a Negro in the South for Thirty Days." Price\'s most recent play is Red Devil Moon, a musical written with composer Pam Ortiz based on excerpts from Cane by Jean Toomer.' ] } ] }

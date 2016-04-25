@@ -1,0 +1,13 @@
+{ name: 'Marcus (album)',
+  href: 'http://en.wikipedia.org/wiki/Marcus_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 721,
+       quote: [ '"Jean-Pierre" (Miles Davis) – 6:15' ] },
+     { sectionHeader: 'Footnotes',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 1971,
+       quote: [ 'Miles Davis' ] } ] }

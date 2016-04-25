@@ -1,0 +1,8 @@
+{ name: 'Solo Concert',
+  href: 'http://en.wikipedia.org/wiki/Solo_Concert',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 841,
+       quote: [ '"Nardis" (Miles Davis) - 5:12' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Portal:Jazz/Jazz news/Archive',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:Jazz/Jazz_news/Archive',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

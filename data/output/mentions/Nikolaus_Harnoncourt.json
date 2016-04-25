@@ -1,0 +1,8 @@
+{ name: 'Nikolaus Harnoncourt',
+  href: 'http://en.wikipedia.org/wiki/Nikolaus_Harnoncourt',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 16210,
+       quote: [ 'Miles Davis (1984)' ] } ] }

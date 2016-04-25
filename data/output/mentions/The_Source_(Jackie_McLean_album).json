@@ -1,0 +1,8 @@
+{ name: 'The Source (Jackie McLean album)',
+  href: 'http://en.wikipedia.org/wiki/The_Source_(Jackie_McLean_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 922,
+       quote: [ '" Half Nelson" (Miles Davis) - 18:36' ] } ] }

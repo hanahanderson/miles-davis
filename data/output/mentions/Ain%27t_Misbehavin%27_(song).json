@@ -1,0 +1,8 @@
+{ name: 'Ain\'t Misbehavin\' (song)',
+  href: 'http://en.wikipedia.org/wiki/Ain%27t_Misbehavin%27_(song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 2381,
+       quote: [ 'Ain\'t Misbehavin\' has been recorded by many other performers over the years, including Anita O\'Day, Sarah Vaughan (for "Sarah Vaughan in Hi-Fi"; 1950), Billie Holiday, Eartha Kitt, Ella Fitzgerald, Django Reinhardt, Harry James, Miles Davis, Kay Starr, Frankie Laine, Art Tatum, Floyd Pepper, Sonny Stitt, Sam Cooke, Johnnie Ray, Sidney Bechet, Ray Charles, Nat King Cole, Elkie Brooks, Eyran Katsenelenbogen, Willie Nelson, Kermit Ruffins, Leon Redbone, Freddie White, Dave Brubeck, Johnny Hartman and Bill Haley & His Comets (who recorded a rock and roll version in 1957).' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Procession of the Great Ancestry',
+  href: 'http://en.wikipedia.org/wiki/Procession_of_the_Great_Ancestry',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 654,
+       quote: [ 'The album includes four compositions dedicated to trumpeters who have inspired Smith (Miles Davis, Dizzy Gillespie, Booker Little and Roy Eldridge) and performed by a quartet including vibraphonist Bobby Naughton, bassist Joe Fonda and percussionist Kahil El\'Zabar.' ] } ] }

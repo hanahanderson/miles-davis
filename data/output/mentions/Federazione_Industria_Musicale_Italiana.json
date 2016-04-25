@@ -1,0 +1,8 @@
+{ name: 'Federazione Industria Musicale Italiana',
+  href: 'http://en.wikipedia.org/wiki/Federazione_Industria_Musicale_Italiana',
+  mentions: 
+   [ { sectionHeader: 'List of certified albums',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 8748,
+       quote: [ 'Miles Davis' ] } ] }

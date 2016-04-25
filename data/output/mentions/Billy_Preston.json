@@ -1,0 +1,8 @@
+{ name: 'Billy Preston',
+  href: 'http://en.wikipedia.org/wiki/Billy_Preston',
+  mentions: 
+   [ { sectionHeader: 'Personal life',
+       sectionSubHeader: '',
+       sectionIndex: 44,
+       wordCountBeforeSection: 17362,
+       quote: [ 'Miles Davis\'s album Get Up with It (1974) features a track called "Billy Preston" in his honor.' ] } ] }

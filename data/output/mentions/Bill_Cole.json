@@ -1,0 +1,10 @@
+{ name: 'Bill Cole',
+  href: 'http://en.wikipedia.org/wiki/Bill_Cole',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1853,
+       quote: 
+        [ 'Cole has also authored two books about jazz musician Miles Davis, one entitled Miles Davis: A Musical Biography (W.',
+          'Morrow Publishers, 1974), and the other entitled Miles Davis: The Early Years (1994, Da Capo Press).' ] } ] }

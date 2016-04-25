@@ -1,0 +1,13 @@
+{ name: 'Léonie Sonning Music Prize',
+  href: 'http://en.wikipedia.org/wiki/L%C3%A9onie_Sonning_Music_Prize',
+  mentions: 
+   [ { sectionHeader: 'Léonie Sonning Music Prize Laureates',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 818,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2742,
+       quote: [ 'Miles Davis (1984)' ] } ] }

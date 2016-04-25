@@ -1,0 +1,8 @@
+{ name: 'Talk:Key (music)',
+  href: 'http://en.wikipedia.org/wiki/Talk:Key_(music)',
+  mentions: 
+   [ { sectionHeader: 'Gravity',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 7563,
+       quote: [ 'In keeping with this analogy, Bach and Mozart were playing hop-scotch, Beethoven invented the hot-air balloon, Berlioz was the first to pilot an airplane, Wagner was the first astronaut, Scriabin went to the moon and back, and Stravinsky, Schoenberg and Miles Davis blasted off and haven\'t been seen since.' ] } ] }

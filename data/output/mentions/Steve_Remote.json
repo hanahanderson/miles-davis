@@ -1,0 +1,8 @@
+{ name: 'Steve Remote',
+  href: 'http://en.wikipedia.org/wiki/Steve_Remote',
+  mentions: 
+   [ { sectionHeader: 'Selected Album Credits',
+       sectionSubHeader: '',
+       sectionIndex: 33,
+       wordCountBeforeSection: 3371,
+       quote: [ 'Another Kind of Blue: The Latin Side of Miles Davis' ] } ] }

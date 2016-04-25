@@ -1,0 +1,105 @@
+{ name: 'Children\'s Songs (Chick Corea album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Children%27s_Songs_(Chick_Corea_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '36.233333333333334' } ],
+     'dbo:abstract': [ { value: 'Children\'s Songs is an album by Jazz pianist Chick Corea, released in 1984.Children\'s Songs mainly consists of short songs with simple themes. There is little development in the pieces, which capture a variety of melodies and moods. Corea began writing the first song in 1971.In the preface of the annotated version Corea stated that he aimed "to convey simplicity as beauty, as represented in the Spirit of a child".There are stylistic and structural parallels to the cycle Mikrokosmos, by Béla Bartók, including:  use of the pentatonic scales employment of unusual time signatures and cross-rhythms expressing a complex variety of atmosphere in a relatively short time increasing difficulty and complexity through the sequence intention of creator.↑ ↑ (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Classical_music',
+          href: 'http://dbpedia.org/resource/Classical_music' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Lyric_Suite_for_Sextet',
+          href: 'http://dbpedia.org/resource/Lyric_Suite_for_Sextet' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbo:runtime': [ { value: '2174.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Septet_(album)',
+          href: 'http://dbpedia.org/resource/Septet_(album)' } ],
+     'dbo:wikiPageID': [ { value: '18425100 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662458212 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbp:cover': [ { value: 'Chick_Corea_Children\'s_Songs.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Classical_music',
+          href: 'http://dbpedia.org/resource/Classical_music' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Lyric Suite for Sextet (en)' } ],
+     'dbp:length': [ { value: '2174.0' } ],
+     'dbp:name': [ { value: 'Children\'s Songs (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Septet (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbp:recorded': [ { value: 'July 1983 (en)' } ],
+     'dbp:released': [ { value: '1984 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Children\'s Songs (en)' } ],
+     'dbp:type': [ { value: 'Studio album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Solo_piano_pieces',
+          href: 'http://dbpedia.org/resource/Category:Solo_piano_pieces' },
+        { value: 'dbc:1984_albums',
+          href: 'http://dbpedia.org/resource/Category:1984_albums' },
+        { value: 'dbc:Chick_Corea_albums',
+          href: 'http://dbpedia.org/resource/Category:Chick_Corea_albums' },
+        { value: 'dbc:Albums_produced_by_Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Manfred_Eicher' },
+        { value: 'dbc:ECM_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:ECM_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Children\'s Songs is an album by Jazz pianist Chick Corea, released in 1984.Children\'s Songs mainly consists of short songs with simple themes. There is little development in the pieces, which capture a variety of melodies and moods. (en)' } ],
+     'rdfs:label': [ { value: 'Children\'s Songs (Chick Corea album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Children\'s Songs (Chick Corea album)',
+          href: 'http://rdf.freebase.com/ns/m.01j94ss' },
+        { value: 'dbpedia-wikidata:Children\'s Songs (Chick Corea album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5098223' },
+        { value: 'wikidata:Children\'s Songs (Chick Corea album)',
+          href: 'http://www.wikidata.org/entity/Q5098223' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Children\'s_Songs_(Chick_Corea_album)?oldid=662458212',
+          href: 'http://en.wikipedia.org/wiki/Children\'s_Songs_(Chick_Corea_album)?oldid=662458212' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Children\'s_Songs_(Chick_Corea_album)',
+          href: 'http://en.wikipedia.org/wiki/Children\'s_Songs_(Chick_Corea_album)' } ],
+     'foaf:name': [ { value: 'Children\'s Songs (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Children\'s_Songs',
+          href: 'http://dbpedia.org/resource/Children\'s_Songs' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Children\'s_Songs_(Chick_Corea_album)',
+          href: 'http://en.wikipedia.org/wiki/Children\'s_Songs_(Chick_Corea_album)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Metaphorical Music',
+  href: 'http://en.wikipedia.org/wiki/Metaphorical_Music',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1616,
+       quote: [ '"Horn in the Middle" contains a sample of "Joshua" from the album Seven Steps to Heaven by Miles Davis' ] } ] }

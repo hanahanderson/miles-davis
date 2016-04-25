@@ -1,0 +1,8 @@
+{ name: 'List of SACD artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_SACD_artists',
+  mentions: 
+   [ { sectionHeader: 'Jazz artists',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1535,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Cheek to Cheek (album)',
+  href: 'http://en.wikipedia.org/wiki/Cheek_to_Cheek_(album)',
+  mentions: 
+   [ { sectionHeader: 'Promotion',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 15029,
+       quote: [ 'Two days after her performance at the school, Gaga showed a new tattoo of a Miles Davis trumpet she had gotten earlier.' ] } ] }

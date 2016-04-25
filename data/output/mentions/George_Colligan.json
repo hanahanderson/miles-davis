@@ -1,0 +1,8 @@
+{ name: 'George Colligan',
+  href: 'http://en.wikipedia.org/wiki/George_Colligan',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 889,
+       quote: [ 'His playing is influenced by Chick Corea, Miles Davis, Herbie Hancock, Thelonious Monk, Wayne Shorter, and McCoy Tyner.' ] } ] }

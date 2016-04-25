@@ -1,0 +1,8 @@
+{ name: 'Baalbeck International Festival',
+  href: 'http://en.wikipedia.org/wiki/Baalbeck_International_Festival',
+  mentions: 
+   [ { sectionHeader: 'Festival highlights',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1486,
+       quote: [ 'Miles Davis' ] } ] }

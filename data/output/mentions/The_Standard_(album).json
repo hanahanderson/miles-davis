@@ -1,0 +1,8 @@
+{ name: 'The Standard (album)',
+  href: 'http://en.wikipedia.org/wiki/The_Standard_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 572,
+       quote: [ '"Seven Steps to Heaven" (featuring Jon Hendricks, Al Jarreau, and Till Brönner) (Miles Davis, Victor Stanley Feldman) 5:27' ] } ] }

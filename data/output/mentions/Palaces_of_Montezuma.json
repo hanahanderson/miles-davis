@@ -1,0 +1,8 @@
+{ name: 'Palaces of Montezuma',
+  href: 'http://en.wikipedia.org/wiki/Palaces_of_Montezuma',
+  mentions: 
+   [ { sectionHeader: 'Composition',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3234,
+       quote: [ 'The song\'s lyrics were written by Nick Cave and have been described as an "atypically straightforward love song" and "a list of over-the-top romantic promises; its protagonist, having initially offered up a \'custard-coloured super dream of Ali McGraw and Steve McQueen." The lyrics make allusions to other people in popular culture, including Mata Hari, Miles Davis, John F.' ] } ] }

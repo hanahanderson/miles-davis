@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject Jazz/Recognized content',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Jazz/Recognized_content',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 6695,
+       quote: [ ' Miles Davis' ] } ] }

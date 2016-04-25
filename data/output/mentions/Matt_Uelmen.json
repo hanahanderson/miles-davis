@@ -1,0 +1,8 @@
+{ name: 'Matt Uelmen',
+  href: 'http://en.wikipedia.org/wiki/Matt_Uelmen',
+  mentions: 
+   [ { sectionHeader: 'Early life and work',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1138,
+       quote: [ 'During this time, Uelmen was self-taught, mostly influenced by jazz, classic rock, and classical music, especially Liszt and Debussy while he was in high school, and Miles Davis, Jimi Hendrix and Tom Waits later on.' ] } ] }

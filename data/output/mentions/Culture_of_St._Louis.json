@@ -1,0 +1,8 @@
+{ name: 'Culture of St. Louis',
+  href: 'http://en.wikipedia.org/wiki/Culture_of_St._Louis',
+  mentions: 
+   [ { sectionHeader: 'Music and the performing arts',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4918,
+       quote: [ 'Louisan, continues to perform in area clubs, while jazz musician Miles Davis had early ties to musical clubs in the region.' ] } ] }

@@ -1,0 +1,18 @@
+{ name: 'Easy Mo Bee',
+  href: 'http://en.wikipedia.org/wiki/Easy_Mo_Bee',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 292,
+       quote: [ 'The Notorious B.I.G., Sean Combs, RZA, GZA, 2Pac, Big Daddy Kane, Afu Ra, Mos Def, Blaq Poet, Miles Davis, Craig Mack' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 683,
+       quote: [ 'Osten Harvey, Jr., better known by his stage name Easy Mo Bee, is a hip hop/R&B record producer, known for production work for late 80\'s artists such as Big Daddy Kane and Miles Davis, as well as his affiliation with Bad Boy Records in its early years and his heavy production involvement in The Notorious B.I.G.\'s debut album Ready to Die.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1241,
+       quote: [ 'Jazz pioneer Miles Davis approached the young producer to help fuse jazz and hip-hop.' ] } ] }

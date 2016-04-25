@@ -1,0 +1,39 @@
+{ name: 'Sweet Sue, Just You',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Sweet_Sue,_Just_You',
+  values: 
+   { 'dbo:abstract': [ { value: '"Sweet Sue, Just You" is an American popular song of 1928, composed by Victor Young with lyrics by Will J. Harris.It has become a popular jazz standard, with versions recorded by Gene Austin, Django Reinhardt, Miles Davis and Benny Goodman. (en)' } ],
+     'dbo:wikiPageID': [ { value: '41531098 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '593699949 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1928_songs',
+          href: 'http://dbpedia.org/resource/Category:1928_songs' },
+        { value: 'dbc:1920s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1920s_jazz_standards' } ],
+     'rdfs:comment': [ { value: '"Sweet Sue, Just You" is an American popular song of 1928, composed by Victor Young with lyrics by Will J. Harris.It has become a popular jazz standard, with versions recorded by Gene Austin, Django Reinhardt, Miles Davis and Benny Goodman. (en)' } ],
+     'rdfs:label': [ { value: 'Sweet Sue, Just You (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Sweet Sue, Just You',
+          href: 'http://rdf.freebase.com/ns/m.0_6kpb8' },
+        { value: 'wikidata:Sweet Sue, Just You',
+          href: 'http://www.wikidata.org/entity/Q16889064' },
+        { value: 'dbpedia-wikidata:Sweet Sue, Just You',
+          href: 'http://wikidata.dbpedia.org/resource/Q16889064' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Sweet_Sue,_Just_You?oldid=593699949',
+          href: 'http://en.wikipedia.org/wiki/Sweet_Sue,_Just_You?oldid=593699949' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Sweet_Sue,_Just_You',
+          href: 'http://en.wikipedia.org/wiki/Sweet_Sue,_Just_You' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Sweet_Sue',
+          href: 'http://dbpedia.org/resource/Sweet_Sue' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Sweet_Sue_(song)',
+          href: 'http://dbpedia.org/resource/Sweet_Sue_(song)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:\'Round_About_Midnight',
+          href: 'http://dbpedia.org/resource/\'Round_About_Midnight' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Sweet_Sue,_Just_You',
+          href: 'http://en.wikipedia.org/wiki/Sweet_Sue,_Just_You' } ] } }

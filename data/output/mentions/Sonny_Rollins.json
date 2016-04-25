@@ -1,0 +1,18 @@
+{ name: 'Sonny Rollins',
+  href: 'http://en.wikipedia.org/wiki/Sonny_Rollins',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Clifford Brown, Miles Davis, Kenny Dorham, Art Farmer, Dizzy Gillespie, Babs Gonzales, J.J. Johnson, Jackie McLean, Thelonious Monk, Bud Powell, Max Roach' ] },
+     { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2519,
+       quote: [ 'Between 1951 and 1953, he recorded with Miles Davis, the Modern Jazz Quartet, Charlie Parker, and Thelonious Monk.' ] },
+     { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3453,
+       quote: [ 'Rollins briefly joined the Miles Davis Quintet in the summer of 1955.' ] } ] }

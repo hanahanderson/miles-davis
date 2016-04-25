@@ -1,0 +1,13 @@
+{ name: 'List of Phish cover versions',
+  href: 'http://en.wikipedia.org/wiki/List_of_Phish_cover_versions',
+  mentions: 
+   [ { sectionHeader: 'A-D',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 607,
+       quote: [ '"All Blues" (Miles Davis) ' ] },
+     { sectionHeader: 'A-D',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 607,
+       quote: [ '"Donna Lee" (Miles Davis) ' ] } ] }

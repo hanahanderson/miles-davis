@@ -1,0 +1,8 @@
+{ name: 'Tiki Fulwood',
+  href: 'http://en.wikipedia.org/wiki/Tiki_Fulwood',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 503,
+       quote: [ 'Fulwood also played drums in the Tyrone Davis band and the Chairmen of the Board between stints with P-Funk, and later was briefly employed by Miles Davis.' ] } ] }

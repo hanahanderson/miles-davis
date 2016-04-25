@@ -1,0 +1,38 @@
+{ name: 'Blue Bird Inn',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Blue_Bird_Inn',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Blue Bird Inn, at 5021 Tireman, was a jazz night club in Detroit presenting music every night except Monday. An African American owned venue, by the end of the 1940s it was the most important live outlet for bop in the city.Thad Jones\' composition "5021" refers to the Blue Bird\'s address and Tommy Flanagan placed tribute to the venue in the title track to an album with Kenny Burrell, Beyond the Bluebird (1990).The venue had featured live music since the 1930s, but in 1948 Phil Hill was hired to assemble a house band that could play bebop. Hill’s first trio there comprised Abe Woodly on vibraphone and Art Mardigian on drums, with Hill on piano.The following year, Hill and Mardigan were joined by Wardell Gray, James “Beans” Richardson on bass and Jack Tiant on bongos, and, as the Phil Hill Quintet, recorded a live album on July 20, 1949. The following April, the Wardell Gray Quartet, with Hill, Richardson and Mardigan recorded for Prestige.In the latter half of 1949, the trio was headlined by Tate Houston, and later by Frank Foster.In the early 1950s, the Billy Mitchell Quintet, featuring Elvin Jones, replace Hill’s trio as the house band. In 1953, Miles Davis joined the band, and would return many times with his own groups.Other performers included Pepper Adams, Sonny Stitt, Ahmad Jamal, Donald Byrd, Frank Gant, and Curtis Fuller. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Gholz-bluebird-2011-wiki-share-2014.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Gholz-bluebird-2011-wiki-share-2014.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '39905276 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '601651113 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_of_Detroit,_Michigan',
+          href: 'http://dbpedia.org/resource/Category:Music_of_Detroit,_Michigan' },
+        { value: 'dbc:Jazz_clubs_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Jazz_clubs_in_the_United_States' } ],
+     'rdfs:comment': [ { value: 'The Blue Bird Inn, at 5021 Tireman, was a jazz night club in Detroit presenting music every night except Monday. (en)' } ],
+     'rdfs:label': [ { value: 'Blue Bird Inn (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:Blue Bird Inn',
+          href: 'http://de.dbpedia.org/resource/Blue_Bird_Inn' },
+        { value: 'dbpedia-wikidata:Blue Bird Inn',
+          href: 'http://wikidata.dbpedia.org/resource/Q885629' },
+        { value: 'freebase:Blue Bird Inn',
+          href: 'http://rdf.freebase.com/ns/m.0w7k6w3' },
+        { value: 'wikidata:Blue Bird Inn',
+          href: 'http://www.wikidata.org/entity/Q885629' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Blue_Bird_Inn?oldid=601651113',
+          href: 'http://en.wikipedia.org/wiki/Blue_Bird_Inn?oldid=601651113' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Gholz-bluebird-2011-wiki-share-2014.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Gholz-bluebird-2011-wiki-share-2014.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Blue_Bird_Inn',
+          href: 'http://en.wikipedia.org/wiki/Blue_Bird_Inn' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Blue_Bird_Inn',
+          href: 'http://en.wikipedia.org/wiki/Blue_Bird_Inn' } ] } }

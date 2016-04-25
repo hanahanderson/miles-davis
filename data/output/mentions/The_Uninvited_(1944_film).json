@@ -1,0 +1,8 @@
+{ name: 'The Uninvited (1944 film)',
+  href: 'http://en.wikipedia.org/wiki/The_Uninvited_(1944_film)',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 6623,
+       quote: [ 'It has been recorded numerous times, by such artists as Miles Davis, Stan Getz and Dexter Gordon, and as a vocal (with lyrics by Ned Washington) by singers Dick Haymes, Frank Sinatra, Ray Charles, Tony Bennett, Ella Fitzgerald among others.' ] } ] }

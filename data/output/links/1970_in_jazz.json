@@ -1,0 +1,38 @@
+{ name: '1970 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1970_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1970 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Bundesarchiv_Bild_183...d_Krug_und_Etta_Cameron.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-J0325-0017-001,_Manfred_Krug_und_Etta_Cameron.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25654766 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '620384759 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1971 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'Manfred Krug and Etta Cameron (en)' } ],
+     'dbp:prioryear': [ { value: '1969 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1970_in_music',
+          href: 'http://dbpedia.org/resource/Category:1970_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdfs:comment': [ { value: '1970 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1970 in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1970 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4574266' },
+        { value: 'wikidata:1970 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4574266' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1970_in_jazz?oldid=620384759',
+          href: 'http://en.wikipedia.org/wiki/1970_in_jazz?oldid=620384759' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Bundesarchiv_Bild_183...01,_Manfred_Krug_und_Etta_Cameron.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-J0325-0017-001,_Manfred_Krug_und_Etta_Cameron.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1970_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1970_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1970_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1970_in_jazz' } ] } }

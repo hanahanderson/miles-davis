@@ -1,0 +1,8 @@
+{ name: 'Brian Blade',
+  href: 'http://en.wikipedia.org/wiki/Brian_Blade',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2077,
+       quote: [ 'During high school, while studying with Dorsey Summerfield, Jr., Blade began listening to the music of John Coltrane, Charlie Parker, Miles Davis, Art Blakey, Thelonious Monk, Elvin Jones, and Joni Mitchell.' ] } ] }

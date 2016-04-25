@@ -1,0 +1,8 @@
+{ name: 'Jan Hammer',
+  href: 'http://en.wikipedia.org/wiki/Jan_Hammer',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'As sideman',
+       sectionIndex: 98,
+       wordCountBeforeSection: 17762,
+       quote: [ 'Miles Davis' ] } ] }

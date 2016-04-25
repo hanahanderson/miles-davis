@@ -1,0 +1,8 @@
+{ name: 'User:Binnorie/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:Binnorie/sandbox',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1452,
+       quote: [ 'He hasx performed with Aztec Two Step, Jeff Berlin, Carla Bley, Brubeck Brothers, Hiram Bullock, Jimmy Cobb, Billy Cobham, Willie Colón, Kal David, Miles Davis, Angela DeNiro, Robbie Dupree, Rachelle Farrell, Bryan Ferry, Gregory Hines, Thad Jones/Mel Lewis Band, Annie Lennox, Tony Levin, Chuck Mangione, Charles Mingus, Gerry Mulligan, Jaco Pastorius, Nicki Richards, Robbie Robertson, Ali Ryerson, Salt-n-Pepa, David Sanborn, John Scofield, Wayne Shorter, Paul Simon, Lew Soloff, Jim Weider, Vanessa Williams, and Lenny White.' ] } ] }

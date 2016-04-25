@@ -1,0 +1,8 @@
+{ name: 'Morten Schantz',
+  href: 'http://en.wikipedia.org/wiki/Morten_Schantz',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 720,
+       quote: [ 'He was quickly inspired by bands and musicians like Weather Report, Miles Davis, McCoy Tyner, Chick Corea, David Sanborn and Herbie Hancock.' ] } ] }

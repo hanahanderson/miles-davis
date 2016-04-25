@@ -1,0 +1,8 @@
+{ name: 'Don Cherry (trumpeter)',
+  href: 'http://en.wikipedia.org/wiki/Don_Cherry_(trumpeter)',
+  mentions: 
+   [ { sectionHeader: 'Technique and style',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 6242,
+       quote: [ 'Cherry\'s trumpet influences included Miles Davis, Fats Navarro, Clifford Brown, and Harry Edison.' ] } ] }

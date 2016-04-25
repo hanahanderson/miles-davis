@@ -1,0 +1,4 @@
+{ name: 'Wikipedia talk:Replies to common objections',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia_talk:Replies_to_common_objections',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

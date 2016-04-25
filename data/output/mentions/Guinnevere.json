@@ -1,0 +1,8 @@
+{ name: 'Guinnevere',
+  href: 'http://en.wikipedia.org/wiki/Guinnevere',
+  mentions: 
+   [ { sectionHeader: 'Cover versions',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1942,
+       quote: [ 'Miles Davis covered the song in 1970.' ] } ] }

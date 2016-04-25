@@ -1,0 +1,8 @@
+{ name: 'Mitch Laddie',
+  href: 'http://en.wikipedia.org/wiki/Mitch_Laddie',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1324,
+       quote: [ 'During his mid-teens, Laddie\'s influences began to expand into Jazz, Soul, Funk and Fusion, from artists such as Kenny Burrell, Miles Davis, James Brown, Prince, D\'Angelo, Eric Johnson & Robben Ford.' ] } ] }

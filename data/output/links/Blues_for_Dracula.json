@@ -1,0 +1,102 @@
+{ name: 'Blues for Dracula',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Blues_for_Dracula',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '42.516666666666666' } ],
+     'dbo:abstract': [ { value: 'Blues for Dracula is the debut album by American jazz drummer Philly Joe Jones which was recorded in 1958 for the Riverside label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Philly_Joe_Jones',
+          href: 'http://dbpedia.org/resource/Philly_Joe_Jones' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbo:recordDate': [ { value: '1958-09-17 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' } ],
+     'dbo:runtime': [ { value: '2551.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Drums_Around_the_World',
+          href: 'http://dbpedia.org/resource/Drums_Around_the_World' } ],
+     'dbo:wikiPageID': [ { value: '37123149 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663804580 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Philly_Joe_Jones',
+          href: 'http://dbpedia.org/resource/Philly_Joe_Jones' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Philly_Joe_Jones',
+          href: 'http://dbpedia.org/resource/Philly_Joe_Jones' } ],
+     'dbp:cover': [ { value: 'Blues for Dracula.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' },
+        { value: 'RLP 12-282 (en)' } ],
+     'dbp:length': [ { value: '2551.0' } ],
+     'dbp:name': [ { value: 'Blues for Dracula (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Drums Around the World (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbp:recorded': 
+      [ { value: '1958-09-17 (xsd:date)' },
+        { value: 'New York City (en)' } ],
+     'dbp:released': [ { value: '1958 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Blues for Dracula (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Philly_Joe_Jones_albums',
+          href: 'http://dbpedia.org/resource/Category:Philly_Joe_Jones_albums' },
+        { value: 'dbc:Albums_produced_by_Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Orrin_Keepnews' },
+        { value: 'dbc:Riverside_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Riverside_Records_albums' },
+        { value: 'dbc:1958_debut_albums',
+          href: 'http://dbpedia.org/resource/Category:1958_debut_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Blues for Dracula is the debut album by American jazz drummer Philly Joe Jones which was recorded in 1958 for the Riverside label. (en)' } ],
+     'rdfs:label': [ { value: 'Blues for Dracula (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Blues for Dracula',
+          href: 'http://rdf.freebase.com/ns/m.03g3581' },
+        { value: 'dbpedia-it:Blues for Dracula',
+          href: 'http://it.dbpedia.org/resource/Blues_for_Dracula' },
+        { value: 'dbpedia-wikidata:Blues for Dracula',
+          href: 'http://wikidata.dbpedia.org/resource/Q4930503' },
+        { value: 'wikidata:Blues for Dracula',
+          href: 'http://www.wikidata.org/entity/Q4930503' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Blues_for_Dracula?oldid=663804580',
+          href: 'http://en.wikipedia.org/wiki/Blues_for_Dracula?oldid=663804580' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Blues_for_Dracula',
+          href: 'http://en.wikipedia.org/wiki/Blues_for_Dracula' } ],
+     'foaf:name': [ { value: 'Blues for Dracula (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Drums_Around_the_World',
+          href: 'http://dbpedia.org/resource/Drums_Around_the_World' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Blues_for_Dracula',
+          href: 'http://en.wikipedia.org/wiki/Blues_for_Dracula' } ] } }

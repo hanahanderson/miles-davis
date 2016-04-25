@@ -1,0 +1,4 @@
+{ name: 'Feu! Chatterton',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Feu!_Chatterton',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

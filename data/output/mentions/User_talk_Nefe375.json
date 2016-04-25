@@ -1,0 +1,8 @@
+{ name: 'User talk:Nefe375',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Nefe375',
+  mentions: 
+   [ { sectionHeader: 'Welcome',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 21,
+       quote: [ 'Thank you for your contributions, especially what you did for Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiCup/Suggestions/Biographies (not living)',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiCup/Suggestions/Biographies_(not_living)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

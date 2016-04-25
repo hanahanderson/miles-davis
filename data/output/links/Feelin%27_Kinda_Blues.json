@@ -1,0 +1,4 @@
+{ name: 'Feelin\' Kinda Blues',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Feelin%27_Kinda_Blues',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

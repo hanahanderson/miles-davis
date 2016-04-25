@@ -1,0 +1,8 @@
+{ name: 'Crosscurrents (album)',
+  href: 'http://en.wikipedia.org/wiki/Crosscurrents_(album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 2188,
+       quote: [ 'Miles Davis' ] } ] }

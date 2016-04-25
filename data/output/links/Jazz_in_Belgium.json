@@ -1,0 +1,50 @@
+{ name: 'Jazz in Belgium',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Jazz_in_Belgium',
+  values: 
+   { 'dbo:abstract': [ { value: 'The history of jazz in Belgium starts with the Dinant instrument maker Adolphe Sax, whose saxophone became part of military bands in New Orleans around 1900 and would develop into the jazz instrument par excellence. From then on the early history of jazz in Belgium virtually runs parallel to developments in the country of the birth of jazz, from the minstrel shows in the late 19th century until the first Belgian jazz album in 1927 and beyond.Two important people in Belgium largely influenced the development of jazz in those early years: Félix-Robert Faecq and Robert Goffin.The Belgian jazz history yielded many internationally known jazz musicians and composers such as the harmonica player and guitarist Toots Thielemans, guitarist Philip Catherine and the gypsy jazz guitarist Django Reinhardt. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Brussels_Jazz_Marathon_Grand_Place.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Brussels_Jazz_Marathon_Grand_Place.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://nl.vivat.be/cultuur/muziek/article.asp?pageid=642',
+          href: 'http://nl.vivat.be/cultuur/muziek/article.asp?pageid=642' },
+        { value: 'http://www.jazzinbelgium.com/home/?lang=en',
+          href: 'http://www.jazzinbelgium.com/home/?lang=en' },
+        { value: 'http://www.muziekcentrum.be/document.php?ID=5016',
+          href: 'http://www.muziekcentrum.be/document.php?ID=5016' },
+        { value: 'http://www.cobra.be/cm/cobra/cobra-mediaplayer/muziek/1.679807',
+          href: 'http://www.cobra.be/cm/cobra/cobra-mediaplayer/muziek/1.679807' } ],
+     'dbo:wikiPageID': [ { value: '35496498 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '655387425 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Belgian_jazz',
+          href: 'http://dbpedia.org/resource/Category:Belgian_jazz' },
+        { value: 'dbc:Jazz_by_nationality',
+          href: 'http://dbpedia.org/resource/Category:Jazz_by_nationality' } ],
+     'rdfs:comment': [ { value: 'The history of jazz in Belgium starts with the Dinant instrument maker Adolphe Sax, whose saxophone became part of military bands in New Orleans around 1900 and would develop into the jazz instrument par excellence. (en)' } ],
+     'rdfs:label': [ { value: 'Jazz in Belgium (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Jazz in Belgium',
+          href: 'http://rdf.freebase.com/ns/m.0j9qdpc' },
+        { value: 'dbpedia-nl:Jazz in Belgium',
+          href: 'http://nl.dbpedia.org/resource/Jazz_in_België' },
+        { value: 'dbpedia-wikidata:Jazz in Belgium',
+          href: 'http://wikidata.dbpedia.org/resource/Q2473848' },
+        { value: 'wikidata:Jazz in Belgium',
+          href: 'http://www.wikidata.org/entity/Q2473848' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jazz_in_Belgium?oldid=655387425',
+          href: 'http://en.wikipedia.org/wiki/Jazz_in_Belgium?oldid=655387425' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Brussels_Jazz_Marathon_Grand_Place.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Brussels_Jazz_Marathon_Grand_Place.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jazz_in_Belgium',
+          href: 'http://en.wikipedia.org/wiki/Jazz_in_Belgium' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Belgian_jazz',
+          href: 'http://dbpedia.org/resource/Belgian_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jazz_in_Belgium',
+          href: 'http://en.wikipedia.org/wiki/Jazz_in_Belgium' } ] } }

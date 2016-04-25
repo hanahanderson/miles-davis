@@ -1,0 +1,13 @@
+{ name: 'User talk:Andrew Norman/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Andrew_Norman/Archive_1',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 817,
+       quote: [ '3 Miles Davis' ] },
+     { sectionHeader: 'Miles Davis',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1704,
+       quote: [ 'Looks like you\'ve done much to improve the Miles Davis article.' ] } ] }

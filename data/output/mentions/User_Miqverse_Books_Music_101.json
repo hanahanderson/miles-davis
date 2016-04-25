@@ -1,0 +1,8 @@
+{ name: 'User:Miqverse/Books/Music 101',
+  href: 'http://en.wikipedia.org/wiki/User:Miqverse/Books/Music_101',
+  mentions: 
+   [ { sectionHeader: 'Music 101',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 598,
+       quote: [ 'Miles Davis' ] } ] }

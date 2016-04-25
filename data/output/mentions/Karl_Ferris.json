@@ -1,0 +1,8 @@
+{ name: 'Karl Ferris',
+  href: 'http://en.wikipedia.org/wiki/Karl_Ferris',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2688,
+       quote: [ 'He also began an involvement in the "Beatnik" lifestyle and began hanging out in coffee bars, listening to poetry readings and the progressive jazz of such artists as Miles Davis, Herbie Hancock, John Coltrane, Eric Dolphy and Ornette Coleman.' ] } ] }

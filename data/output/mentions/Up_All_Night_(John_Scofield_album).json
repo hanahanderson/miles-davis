@@ -1,0 +1,13 @@
+{ name: 'Up All Night (John Scofield album)',
+  href: 'http://en.wikipedia.org/wiki/Up_All_Night_(John_Scofield_album)',
+  mentions: 
+   [ { sectionHeader: 'Critical reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1224,
+       quote: [ 'On AllAboutJazz Farrell Lowe begins his review “The Freaky Deaky is back!,” referring to Scofield\'s time playing with Miles Davis, “this is the most inspired playing I have heard from John Scofield in many years.” “Scofield inhabits a place in which the cerebral and the funky ...' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3569,
+       quote: [ 'Miles Davis' ] } ] }

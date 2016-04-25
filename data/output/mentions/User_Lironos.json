@@ -1,0 +1,8 @@
+{ name: 'User:Lironos',
+  href: 'http://en.wikipedia.org/wiki/User:Lironos',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 92,
+       wordCountBeforeSection: 5147,
+       quote: [ 'Miles Davis' ] } ] }

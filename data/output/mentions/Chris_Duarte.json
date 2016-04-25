@@ -1,0 +1,8 @@
+{ name: 'Chris Duarte',
+  href: 'http://en.wikipedia.org/wiki/Chris_Duarte',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 863,
+       quote: [ 'In 1979, Duarte moved to Austin, Texas, and purchased a 1963 Fender Stratocaster guitar for $500 and began exploring various genres including the jazz music of John Coltrane and Miles Davis.' ] } ] }

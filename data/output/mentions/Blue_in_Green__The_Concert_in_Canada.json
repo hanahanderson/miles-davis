@@ -1,0 +1,13 @@
+{ name: 'Blue in Green: The Concert in Canada',
+  href: 'http://en.wikipedia.org/wiki/Blue_in_Green:_The_Concert_in_Canada',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 989,
+       quote: [ '"So What" (Miles Davis) - 6:47' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1628,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Neil Oram',
+  href: 'http://en.wikipedia.org/wiki/Neil_Oram',
+  mentions: 
+   [ { sectionHeader: 'Early Life & Influences',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1837,
+       quote: [ 'Soon, via a primitive record player and earphones in his father\'s shed, Oram discovered the art of Dave Brubeck, Miles Davis, Thelonious Monk, Charlie Parker, Dizzy Gillespie, Stan Getz and Charlie Mingus.' ] } ] }

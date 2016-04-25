@@ -1,0 +1,34 @@
+{ name: 'Music of Illinois',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Music_of_Illinois',
+  values: 
+   { 'dbo:abstract': [ { value: 'Illinois, including Chicago, has a wide musical heritage. Chicago is most famously associated with the development of electric (or Chicago-style) blues music.  Chicago was also a center of development for early jazz and later for house music, and includes a vibrant hip hop scene and R&B. Chicago also has a thriving rock scene that spans the breadth of the rock genre, from huge stadium-filling arena-rock bands to small local indie bands. Chicago has had a significant historical impact on the development of many rock subgenres including power pop, punk rock, indie rock, emo rock, pop punk, and alternative rock. Illinois musicians with a #1 Billboard Hot 100 hit include artists from the 50s: Sam Cooke/ from the 60s: The Buckinghams/ from the 70s: Earth, Wind & Fire, The Chi-Lites, The Staple Singers, Minnie Riperton, Styx/ from the 80s: Chicago, Cheap Trick, REO Speedwagon, Survivor, Richard Marx/ from the 90s: R. Kelly/ from the 00s: Kanye West, Twista, Plain White T\'s. Most of these artists are from Chicago, with soul singers Sam Cooke, Mavis Staples, Minnie Riperton, and R. Kelly hailing from the South Side. (en)' } ],
+     'dbo:wikiPageID': [ { value: '307394 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682801162 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Christian_rock_groups_from_Illinois',
+          href: 'http://dbpedia.org/resource/Category:Christian_rock_groups_from_Illinois' },
+        { value: 'dbc:Music_of_Illinois',
+          href: 'http://dbpedia.org/resource/Category:Music_of_Illinois' },
+        { value: 'dbc:Illinois_culture',
+          href: 'http://dbpedia.org/resource/Category:Illinois_culture' },
+        { value: 'dbc:Music_of_United_States_subdivisions',
+          href: 'http://dbpedia.org/resource/Category:Music_of_United_States_subdivisions' } ],
+     'rdfs:comment': [ { value: 'Illinois, including Chicago, has a wide musical heritage. Chicago is most famously associated with the development of electric (or Chicago-style) blues music.  Chicago was also a center of development for early jazz and later for house music, and includes a vibrant hip hop scene and R&B. Chicago also has a thriving rock scene that spans the breadth of the rock genre, from huge stadium-filling arena-rock bands to small local indie bands. (en)' } ],
+     'rdfs:label': [ { value: 'Music of Illinois (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Music of Illinois',
+          href: 'http://rdf.freebase.com/ns/m.0117sm3b' },
+        { value: 'dbpedia-wikidata:Music of Illinois',
+          href: 'http://wikidata.dbpedia.org/resource/Q17108502' },
+        { value: 'wikidata:Music of Illinois',
+          href: 'http://www.wikidata.org/entity/Q17108502' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Music_of_Illinois?oldid=682801162',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Illinois?oldid=682801162' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Music_of_Illinois',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Illinois' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Music_of_Illinois',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Illinois' } ] } }

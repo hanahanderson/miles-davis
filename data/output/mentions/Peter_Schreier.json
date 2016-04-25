@@ -1,0 +1,8 @@
+{ name: 'Peter Schreier',
+  href: 'http://en.wikipedia.org/wiki/Peter_Schreier',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 6213,
+       quote: [ 'Miles Davis (1984)' ] } ] }

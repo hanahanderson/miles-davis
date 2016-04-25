@@ -1,0 +1,8 @@
+{ name: 'User:Chrischmoo/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:Chrischmoo/sandbox',
+  mentions: 
+   [ { sectionHeader: 'Early Life & Influences',
+       sectionSubHeader: 'Neil Oram',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1625,
+       quote: [ 'Soon, via a primitive record player and earphones in his father\'s shed, Oram discovered the art of Gerry Mulligan, Dave Brubeck, Miles Davis, Thelonious Monk, Charlie Parker, Dizzy Gillespie, Stan Getz and Charlie Mingus.' ] } ] }

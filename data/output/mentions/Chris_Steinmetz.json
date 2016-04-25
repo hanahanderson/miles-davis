@@ -1,0 +1,8 @@
+{ name: 'Chris Steinmetz',
+  href: 'http://en.wikipedia.org/wiki/Chris_Steinmetz',
+  mentions: 
+   [ { sectionHeader: 'Partial discography',
+       sectionSubHeader: 'Other projects',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2549,
+       quote: [ 'Miles Davis' ] } ] }

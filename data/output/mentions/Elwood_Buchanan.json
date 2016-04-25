@@ -1,0 +1,8 @@
+{ name: 'Elwood Buchanan',
+  href: 'http://en.wikipedia.org/wiki/Elwood_Buchanan',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 290,
+       quote: [ 'Buchanan, Sr was an American jazz trumpeter and teacher who became an early mentor of Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Blake Fleming',
+  href: 'http://en.wikipedia.org/wiki/Blake_Fleming',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 671,
+       quote: [ 'Born in Alton, IL (birthplace of Miles Davis and home to Robert Pershing Wadlow, tallest man in recorded history) in 1972, Fleming started drumming at age 8, spending several years in fife and drumming corps, bagpipe bands, jazz bands, marching bands and orchestras.' ] } ] }

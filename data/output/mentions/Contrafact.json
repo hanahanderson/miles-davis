@@ -1,0 +1,8 @@
+{ name: 'Contrafact',
+  href: 'http://en.wikipedia.org/wiki/Contrafact',
+  mentions: 
+   [ { sectionHeader: 'Examples',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1279,
+       quote: [ 'Well-known examples of contrafacts include the Charlie Parker/Miles Davis bop tune "Donna Lee," which uses the chord changes of the standard "Back Home Again in Indiana" or Thelonious Monk\'s jazz standard "Evidence", which borrows the chord progression from Jesse Greer and Raymond Klages\'s song "Just You, Just Me" (1929).' ] } ] }

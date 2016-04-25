@@ -1,0 +1,39 @@
+{ name: 'List of hard bop musicians',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_hard_bop_musicians',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a list of hard bop musicians. Hard bop is a subgenre of jazz that is an extension of bebop (or "bop") music. Journalists and record companies began using the term in the mid-1950s to describe a new current within jazz which incorporated influences from rhythm and blues, gospel music, and blues, especially in saxophone and piano playing. David H. Rosenthal contends in his book Hard Bop that the genre is, to a large degree, the natural creation of a generation of African-American musicians who grew up at a time when bop and rhythm and blues were the dominant forms of black American music. Prominent hard bop musicians included Horace Silver, Charles Mingus, Art Blakey, Cannonball Adderley, Miles Davis and Tadd Dameron. Hard bop is sometimes referred to as "funky hard bop."  The "funky" label refers to the rollicking, rhythmic feeling associated with the style.  The descriptor is also used to describe soul jazz, which is commonly associated with hard bop. (en)' } ],
+     'dbo:wikiPageID': [ { value: '12264014 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664493335 (xsd:integer)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Hard_bop_musicians',
+          href: 'http://dbpedia.org/resource/Category:Hard_bop_musicians' },
+        { value: 'dbc:Jazz_musicians_by_genre',
+          href: 'http://dbpedia.org/resource/Category:Jazz_musicians_by_genre' } ],
+     'rdfs:comment': [ { value: 'The following is a list of hard bop musicians. Hard bop is a subgenre of jazz that is an extension of bebop (or "bop") music. Journalists and record companies began using the term in the mid-1950s to describe a new current within jazz which incorporated influences from rhythm and blues, gospel music, and blues, especially in saxophone and piano playing. David H. (en)' } ],
+     'rdfs:label': [ { value: 'List of hard bop musicians (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of hard bop musicians',
+          href: 'http://wikidata.dbpedia.org/resource/Q6622011' },
+        { value: 'wikidata:List of hard bop musicians',
+          href: 'http://www.wikidata.org/entity/Q6622011' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_hard_bop_musicians?oldid=664493335',
+          href: 'http://en.wikipedia.org/wiki/List_of_hard_bop_musicians?oldid=664493335' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_hard_bop_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_hard_bop_musicians' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Hard_bop_musicians',
+          href: 'http://dbpedia.org/resource/List_of_Hard_bop_musicians' },
+        { value: 'dbr:List_of_hard_bop_performers',
+          href: 'http://dbpedia.org/resource/List_of_hard_bop_performers' } ],
+     'is dbp:otherTopics\n of': 
+      [ { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_hard_bop_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_hard_bop_musicians' } ] } }

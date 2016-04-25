@@ -1,0 +1,8 @@
+{ name: 'Gene Ammons',
+  href: 'http://en.wikipedia.org/wiki/Gene_Ammons',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1025,
+       quote: [ 'After 1947, when Eckstine became a solo performer, Ammons then led a group, including Miles Davis and Sonny Stitt, that performed at Chicago\'s Jumptown Club.' ] } ] }

@@ -1,0 +1,18 @@
+{ name: 'User talk:76.66.231.26',
+  href: 'http://en.wikipedia.org/wiki/User_talk:76.66.231.26',
+  mentions: 
+   [ { sectionHeader: 'February 2011',
+       sectionSubHeader: '',
+       sectionIndex: 75,
+       wordCountBeforeSection: 19097,
+       quote: [ 'Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted (undone) by ClueBot NG.' ] },
+     { sectionHeader: 'February 2011',
+       sectionSubHeader: '',
+       sectionIndex: 76,
+       wordCountBeforeSection: 19361,
+       quote: [ 'The following is the log entry regarding this warning: Miles Davis was changed by 76.66.231.26 (u) (t) ANN scored at 0.855652 on 2011-02-14T14:13:46+00:00 .' ] },
+     { sectionHeader: 'February 2011',
+       sectionSubHeader: '',
+       sectionIndex: 80,
+       wordCountBeforeSection: 21051,
+       quote: [ ' Please stop making test edits to Wikipedia, as you did to Miles Davis.' ] } ] }

@@ -1,0 +1,41 @@
+{ name: 'List of bebop musicians',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_bebop_musicians',
+  values: 
+   { 'dbo:abstract': [ { value: 'For the main article, please see Bebop. (en)' } ],
+     'dbo:wikiPageID': [ { value: '12017885 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '665337111 (xsd:integer)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bebop',
+          href: 'http://dbpedia.org/resource/Category:Bebop' },
+        { value: 'dbc:Bebop_musicians',
+          href: 'http://dbpedia.org/resource/Category:Bebop_musicians' },
+        { value: 'dbc:Lists_of_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_jazz_musicians' },
+        { value: 'dbc:Bebop_musicians_by_instrument',
+          href: 'http://dbpedia.org/resource/Category:Bebop_musicians_by_instrument' },
+        { value: 'dbc:Jazz_musicians_by_genre',
+          href: 'http://dbpedia.org/resource/Category:Jazz_musicians_by_genre' } ],
+     'rdfs:comment': [ { value: 'For the main article, please see Bebop. (en)' } ],
+     'rdfs:label': [ { value: 'List of bebop musicians (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of bebop musicians',
+          href: 'http://www.wikidata.org/entity/Q16154940' },
+        { value: 'dbpedia-wikidata:List of bebop musicians',
+          href: 'http://wikidata.dbpedia.org/resource/Q16154940' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_bebop_musicians?oldid=665337111',
+          href: 'http://en.wikipedia.org/wiki/List_of_bebop_musicians?oldid=665337111' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_bebop_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_bebop_musicians' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Bebop_musicians',
+          href: 'http://dbpedia.org/resource/List_of_Bebop_musicians' } ],
+     'is rdfs:seeAlso\n of': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_bebop_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_bebop_musicians' } ] } }

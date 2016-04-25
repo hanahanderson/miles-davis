@@ -1,0 +1,52 @@
+{ name: 'Jazz in Germany',
+  entityType: 'Manner104928903',
+  href: 'http://dbpedia.org/page/Jazz_in_Germany',
+  values: 
+   { 'dbo:abstract': [ { value: 'An overview of the evolution of Jazz music in Germany reveals that the development of jazz in Germany and its public notice differ from the "motherland" of jazz, the USA, in several respects. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Helmut_Zacharias_1965.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Helmut_Zacharias_1965.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.goethe.de/kue/mus/jaz/enindex.htm',
+          href: 'http://www.goethe.de/kue/mus/jaz/enindex.htm' } ],
+     'dbo:wikiPageID': [ { value: '14715296 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675459406 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:German_styles_of_music',
+          href: 'http://dbpedia.org/resource/Category:German_styles_of_music' },
+        { value: 'dbc:Jazz_by_nationality',
+          href: 'http://dbpedia.org/resource/Category:Jazz_by_nationality' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Attribute100024264',
+          href: 'http://dbpedia.org/class/yago/Attribute100024264' },
+        { value: 'yago:Manner104928903',
+          href: 'http://dbpedia.org/class/yago/Manner104928903' },
+        { value: 'yago:Property104916342',
+          href: 'http://dbpedia.org/class/yago/Property104916342' },
+        { value: 'yago:GermanStylesOfMusic',
+          href: 'http://dbpedia.org/class/yago/GermanStylesOfMusic' } ],
+     'rdfs:comment': [ { value: 'An overview of the evolution of Jazz music in Germany reveals that the development of jazz in Germany and its public notice differ from the "motherland" of jazz, the USA, in several respects. (en)' } ],
+     'rdfs:label': [ { value: 'Jazz in Germany (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:Jazz in Germany',
+          href: 'http://de.dbpedia.org/resource/Jazz_in_Deutschland' },
+        { value: 'dbpedia-wikidata:Jazz in Germany',
+          href: 'http://wikidata.dbpedia.org/resource/Q280955' },
+        { value: 'wikidata:Jazz in Germany',
+          href: 'http://www.wikidata.org/entity/Q280955' },
+        { value: 'yago-res:Jazz in Germany',
+          href: 'http://yago-knowledge.org/resource/Jazz_in_Germany' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jazz_in_Germany?oldid=675459406',
+          href: 'http://en.wikipedia.org/wiki/Jazz_in_Germany?oldid=675459406' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Helmut_Zacharias_1965.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Helmut_Zacharias_1965.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jazz_in_Germany',
+          href: 'http://en.wikipedia.org/wiki/Jazz_in_Germany' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jazz_in_Germany',
+          href: 'http://en.wikipedia.org/wiki/Jazz_in_Germany' } ] } }

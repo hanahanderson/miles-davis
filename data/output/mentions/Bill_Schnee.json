@@ -1,0 +1,18 @@
+{ name: 'Bill Schnee',
+  href: 'http://en.wikipedia.org/wiki/Bill_Schnee',
+  mentions: 
+   [ { sectionHeader: 'Selected works',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4178,
+       quote: [ '2000 Tutu/Amandla/Doo-Bop - Miles Davis - Mixing' ] },
+     { sectionHeader: 'Selected works',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4178,
+       quote: [ '1989 Amandla - Miles Davis - Mixing' ] },
+     { sectionHeader: 'Selected works',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4178,
+       quote: [ '1986 Tutu - Miles Davis - Mixing, Surround Sound' ] } ] }

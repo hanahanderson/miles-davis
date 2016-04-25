@@ -1,0 +1,35 @@
+{ name: 'The Meaning of the Blues',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/The_Meaning_of_the_Blues',
+  values: 
+   { 'dbo:abstract': [ { value: '"The Meaning Of The Blues" (1957) is a jazz composition and song, with music by Bobby Troup and lyrics by Leah Worth.This 32-bar piece, despite its title, is structurally not a blues, instead it consists of two 16-bar parts A, A\', with a slight dramatic melodic heightening in A\'. The melody is minor and remains in the diatonic range, apart from a leading note on the dominant chord in the second to last bar of each part. The piece is usually played as ballad with around 76 bpm or slightly less. (en)' } ],
+     'dbo:wikiPageID': [ { value: '44351267 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '653289375 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1957_songs',
+          href: 'http://dbpedia.org/resource/Category:1957_songs' },
+        { value: 'dbc:1950s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1950s_jazz_standards' },
+        { value: 'dbc:Songs_written_by_Bobby_Troup',
+          href: 'http://dbpedia.org/resource/Category:Songs_written_by_Bobby_Troup' } ],
+     'rdfs:comment': [ { value: '"The Meaning Of The Blues" (1957) is a jazz composition and song, with music by Bobby Troup and lyrics by Leah Worth.This 32-bar piece, despite its title, is structurally not a blues, instead it consists of two 16-bar parts A, A\', with a slight dramatic melodic heightening in A\'. The melody is minor and remains in the diatonic range, apart from a leading note on the dominant chord in the second to last bar of each part. The piece is usually played as ballad with around 76 bpm or slightly less. (en)' } ],
+     'rdfs:label': [ { value: 'The Meaning of the Blues (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Meaning of the Blues',
+          href: 'http://rdf.freebase.com/ns/m.01295vxs' },
+        { value: 'dbpedia-wikidata:The Meaning of the Blues',
+          href: 'http://wikidata.dbpedia.org/resource/Q18529328' },
+        { value: 'wikidata:The Meaning of the Blues',
+          href: 'http://www.wikidata.org/entity/Q18529328' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Meaning_of_the_Blues?oldid=653289375',
+          href: 'http://en.wikipedia.org/wiki/The_Meaning_of_the_Blues?oldid=653289375' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Meaning_of_the_Blues',
+          href: 'http://en.wikipedia.org/wiki/The_Meaning_of_the_Blues' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Meaning_of_the_Blues',
+          href: 'http://dbpedia.org/resource/Meaning_of_the_Blues' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Meaning_of_the_Blues',
+          href: 'http://en.wikipedia.org/wiki/The_Meaning_of_the_Blues' } ] } }

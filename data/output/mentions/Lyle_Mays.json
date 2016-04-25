@@ -1,0 +1,8 @@
+{ name: 'Lyle Mays',
+  href: 'http://en.wikipedia.org/wiki/Lyle_Mays',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1525,
+       quote: [ 'Bill Evans\' album Live in Montreux and Miles Davis\' album Filles de Kilimanjaro were important influences on his formation as a jazz musician.' ] } ] }

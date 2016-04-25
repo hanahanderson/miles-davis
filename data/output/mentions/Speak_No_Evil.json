@@ -1,0 +1,18 @@
+{ name: 'Speak No Evil',
+  href: 'http://en.wikipedia.org/wiki/Speak_No_Evil',
+  mentions: 
+   [ { sectionHeader: 'Players',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1015,
+       quote: [ 'Having employed a version of John Coltrane\'s "classic quartet" rhythm section on both of his previous albums for Blue Note, Shorter altered the configuration somewhat on Speak No Evil, suggesting the influence of his recent drafting into Miles Davis\'s "second quintet".' ] },
+     { sectionHeader: 'Compositions',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2616,
+       quote: [] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '2013 Blue Note SHM-CD Remaster Edition (Japan Release)',
+       sectionIndex: 39,
+       wordCountBeforeSection: 9119,
+       quote: [ 'Miles Davis Quintet' ] } ] }

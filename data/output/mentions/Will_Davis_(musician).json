@@ -1,0 +1,8 @@
+{ name: 'Will Davis (musician)',
+  href: 'http://en.wikipedia.org/wiki/Will_Davis_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 72,
+       quote: [ 'As the house pianist at the Crystal Bar, he backed Coleman Hawkins, Lester Young, and Charlie Parker with Miles Davis in 1953.' ] } ] }

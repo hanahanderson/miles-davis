@@ -1,0 +1,17 @@
+{ name: 'Jazz bass',
+  href: 'http://en.wikipedia.org/wiki/Jazz_bass',
+  mentions: 
+   [ { sectionHeader: 'Double bass',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3598,
+       quote: 
+        [ 'Paul Chambers (who worked with Miles Davis on the famous Kind of Blue album) achieved renown for being one of the early jazz bassists to play Bebop solos in arco (bowed) style.',
+          'Ron Carter (another bassist who worked with Miles Davis in his second great quintet), is credited as a key figure of the modern school of jazz bass playing.He is one of the most-recorded bassists in jazz.' ] },
+     { sectionHeader: 'Double bass',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3598,
+       quote: 
+        [ 'Paul Chambers (who worked with Miles Davis on the famous Kind of Blue album) achieved renown for being one of the early jazz bassists to play Bebop solos in arco (bowed) style.',
+          'Ron Carter (another bassist who worked with Miles Davis in his second great quintet), is credited as a key figure of the modern school of jazz bass playing.He is one of the most-recorded bassists in jazz.' ] } ] }

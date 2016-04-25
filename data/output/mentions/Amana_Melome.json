@@ -1,0 +1,8 @@
+{ name: 'Amana Melome',
+  href: 'http://en.wikipedia.org/wiki/Amana_Melome',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 365,
+       quote: [ 'Her music reflects her jazz heritage as she follows in the footsteps of her grandfather, the late bass player Jimmy Woode who was the youngest musician in Duke Ellington\'s orchestra and accompanied many jazz legends such as Billie Holiday, Ella Fitzgerald and Miles Davis.' ] } ] }

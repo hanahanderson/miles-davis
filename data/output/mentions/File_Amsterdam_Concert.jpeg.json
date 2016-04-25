@@ -1,0 +1,18 @@
+{ name: 'File:Amsterdam Concert.jpeg',
+  href: 'http://en.wikipedia.org/wiki/File:Amsterdam_Concert.jpeg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is the cover art for Amsterdam Concert by the artist Miles Davis.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] },
+     { sectionHeader: 'File history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 3143,
+       quote: [ '{{Non-free use rationale album cover | Article           = Amsterdam Concert | Use               = Infobox | Name              = \'\'Amsterdam Concert\'\' | Artist            = Miles Davis | Label             = Lone Hill Jazz | Website           = [ht' ] } ] }

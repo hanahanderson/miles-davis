@@ -1,0 +1,8 @@
+{ name: 'Tenderly',
+  href: 'http://en.wikipedia.org/wiki/Tenderly',
+  mentions: 
+   [ { sectionHeader: 'Recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1540,
+       quote: [ 'Miles Davis' ] } ] }

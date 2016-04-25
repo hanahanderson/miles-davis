@@ -1,0 +1,13 @@
+{ name: 'Bud Powell',
+  href: 'http://en.wikipedia.org/wiki/Bud_Powell',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Art Blakey\nMiles Davis\nDexter Gordon\nCharles Mingus\nSonny Rollins' ] },
+     { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 5068,
+       quote: [ 'Powell\'s career advanced again, when Parker chose him to be his pianist on a May 1947 quintet record date, with Miles Davis, Tommy Potter, and Max Roach.' ] } ] }

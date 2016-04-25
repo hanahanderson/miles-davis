@@ -1,0 +1,33 @@
+{ name: 'Theme Time Radio Hour (season 1)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Theme_Time_Radio_Hour_(season_1)',
+  values: 
+   { 'dbo:abstract': [ { value: 'The first season of the Theme Time Radio Hour, hosted by Bob Dylan, ran from May 3, 2006, to April 18, 2007 on XM Satellite Radio for a total of 50 shows. (en)' } ],
+     'dbo:wikiPageID': [ { value: '12976785 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682984530 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_music_radio_programs',
+          href: 'http://dbpedia.org/resource/Category:American_music_radio_programs' } ],
+     'rdfs:comment': [ { value: 'The first season of the Theme Time Radio Hour, hosted by Bob Dylan, ran from May 3, 2006, to April 18, 2007 on XM Satellite Radio for a total of 50 shows. (en)' } ],
+     'rdfs:label': [ { value: 'Theme Time Radio Hour (season 1) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Theme Time Radio Hour (season 1)',
+          href: 'http://rdf.freebase.com/ns/m.02z1_hf' },
+        { value: 'wikidata:Theme Time Radio Hour (season 1)',
+          href: 'http://www.wikidata.org/entity/Q7781215' },
+        { value: 'dbpedia-wikidata:Theme Time Radio Hour (season 1)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7781215' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Theme_Time_Radio_Hour_(season_1)?oldid=682984530',
+          href: 'http://en.wikipedia.org/wiki/Theme_Time_Radio_Hour_(season_1)?oldid=682984530' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Theme_Time_Radio_Hour_(season_1)',
+          href: 'http://en.wikipedia.org/wiki/Theme_Time_Radio_Hour_(season_1)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:TTRH_Season_One',
+          href: 'http://dbpedia.org/resource/TTRH_Season_One' },
+        { value: 'dbr:Theme_Time_Radio_Hour_Season_One',
+          href: 'http://dbpedia.org/resource/Theme_Time_Radio_Hour_Season_One' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Theme_Time_Radio_Hour_(season_1)',
+          href: 'http://en.wikipedia.org/wiki/Theme_Time_Radio_Hour_(season_1)' } ] } }

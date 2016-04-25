@@ -1,0 +1,8 @@
+{ name: 'Empathy (album)',
+  href: 'http://en.wikipedia.org/wiki/Empathy_(album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1844,
+       quote: [ 'Miles Davis' ] } ] }

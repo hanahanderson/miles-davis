@@ -1,0 +1,8 @@
+{ name: 'Terrace Martin',
+  href: 'http://en.wikipedia.org/wiki/Terrace_Martin',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4621,
+       quote: [ 'Martin\'s role models include Miles Davis, Charlie Parker, Jackie McLean, John Coltrane, Herbie Hancock, Sonny Stitt, Grover Washington, Jr., Dr Dr, DJ Quik, Battlecat, DJ Premier, Pete Rock, and 1580 K-Day.' ] } ] }

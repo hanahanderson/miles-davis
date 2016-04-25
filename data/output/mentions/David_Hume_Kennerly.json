@@ -1,0 +1,8 @@
+{ name: 'David Hume Kennerly',
+  href: 'http://en.wikipedia.org/wiki/David_Hume_Kennerly',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2368,
+       quote: [ 'At 18, right out of high school, he became a staff photographer for The Oregon Journal, and later, after returning from basic and advanced training as a member of the Oregon National Guard, Oregonian, During his early career in Portland he photographed some major personalities, including Miles Davis, Igor Stravinsky, Sen.' ] } ] }

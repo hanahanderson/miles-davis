@@ -1,0 +1,8 @@
+{ name: 'Fleur Maxwell',
+  href: 'http://en.wikipedia.org/wiki/Fleur_Maxwell',
+  mentions: 
+   [ { sectionHeader: 'Programs',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2349,
+       quote: [ 'by Miles Davis' ] } ] }

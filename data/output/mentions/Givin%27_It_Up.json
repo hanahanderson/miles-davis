@@ -1,0 +1,13 @@
+{ name: 'Givin\' It Up',
+  href: 'http://en.wikipedia.org/wiki/Givin%27_It_Up',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 546,
+       quote: [ 'This project also contains standards by Billie Holiday (God Bless The Child) and Sam Cooke (Bring It On Home To Me), popular classics by Seals and Crofts (Summer Breeze) and Daryl Hall (Everytime You Go Away) along with the classic jazz-swing "Four" by the legendary Miles Davis, and the neo-soul hit "Ordinary People" by John Legend.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1840,
+       quote: [ 'Miles Davis, Jon Hendricks' ] } ] }

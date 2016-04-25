@@ -1,0 +1,15 @@
+{ name: 'Wikipedia:WikiProject New York City',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_New_York_City',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Projet:New_York',
+          href: 'http://fr.dbpedia.org/resource/Projet:New_York' },
+        { value: 'dbpedia-es:Wikiproyecto:Nueva_York',
+          href: 'http://es.dbpedia.org/resource/Wikiproyecto:Nueva_York' },
+        { value: 'dbpedia-ja:プロジェクト:ニューヨーク市',
+          href: 'http://ja.dbpedia.org/resource/プロジェクト:ニューヨーク市' },
+        { value: 'dbpedia-wikidata:Q15884984',
+          href: 'http://wikidata.dbpedia.org/resource/Q15884984' },
+        { value: 'wikidata:Q15884984',
+          href: 'http://www.wikidata.org/entity/Q15884984' } ] } }

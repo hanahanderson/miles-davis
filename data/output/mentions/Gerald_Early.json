@@ -1,0 +1,8 @@
+{ name: 'Gerald Early',
+  href: 'http://en.wikipedia.org/wiki/Gerald_Early',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 828,
+       quote: [ 'He writes on topics as diverse as American literature, the Korean War, African American culture, Afro-American autobiography, non-fiction prose, baseball, jazz, prizefighting, Motown, Miles Davis, Muhammad Ali and Sammy Davis Jr.' ] } ] }

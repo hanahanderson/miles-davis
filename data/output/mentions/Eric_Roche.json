@@ -1,0 +1,8 @@
+{ name: 'Eric Roche',
+  href: 'http://en.wikipedia.org/wiki/Eric_Roche',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1715,
+       quote: [ '"Blue in Green" by Miles Davis' ] } ] }

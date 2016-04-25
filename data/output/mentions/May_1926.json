@@ -1,0 +1,8 @@
+{ name: 'May 1926',
+  href: 'http://en.wikipedia.org/wiki/May_1926',
+  mentions: 
+   [ { sectionHeader: 'May 26, 1926 (Wednesday)',
+       sectionSubHeader: '',
+       sectionIndex: 57,
+       wordCountBeforeSection: 10234,
+       quote: [ 'Born: Miles Davis, jazz musician, in Alton, Illinois (d. 1991)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The London Concert (George Russell album)',
+  href: 'http://en.wikipedia.org/wiki/The_London_Concert_(George_Russell_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 980,
+       quote: [ '"So What" (Miles Davis) - 10:15' ] } ] }

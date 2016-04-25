@@ -1,0 +1,8 @@
+{ name: 'Tuxedomoon',
+  href: 'http://en.wikipedia.org/wiki/Tuxedomoon',
+  mentions: 
+   [ { sectionHeader: 'Musical style',
+       sectionSubHeader: 'Current',
+       sectionIndex: 26,
+       wordCountBeforeSection: 6968,
+       quote: [ 'Later and current influences include Radiohead, Claude Debussy, Miles Davis, Michael Nyman and the Velvet Underground.' ] } ] }

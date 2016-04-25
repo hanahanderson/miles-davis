@@ -1,0 +1,8 @@
+{ name: 'Narada Michael Walden',
+  href: 'http://en.wikipedia.org/wiki/Narada_Michael_Walden',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'As producer (and drummer)',
+       sectionIndex: 32,
+       wordCountBeforeSection: 7324,
+       quote: [ 'Miles Davis' ] } ] }

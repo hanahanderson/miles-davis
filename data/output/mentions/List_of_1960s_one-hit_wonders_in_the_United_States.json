@@ -1,0 +1,13 @@
+{ name: 'List of 1960s one-hit wonders in the United States',
+  href: 'http://en.wikipedia.org/wiki/List_of_1960s_one-hit_wonders_in_the_United_States',
+  mentions: 
+   [ { sectionHeader: 'Notes and references',
+       sectionSubHeader: '1969',
+       sectionIndex: 29,
+       wordCountBeforeSection: 26116,
+       quote: [ 'An influential musician in the jazz scene, where he played with Miles Davis and Bill Evans on Kind of Blue and Milestones.' ] },
+     { sectionHeader: 'Notes and references',
+       sectionSubHeader: '1969',
+       sectionIndex: 29,
+       wordCountBeforeSection: 26116,
+       quote: [] } ] }

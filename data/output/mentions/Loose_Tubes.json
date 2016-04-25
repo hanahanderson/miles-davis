@@ -1,0 +1,8 @@
+{ name: 'Loose Tubes',
+  href: 'http://en.wikipedia.org/wiki/Loose_Tubes',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3883,
+       quote: [ 'The last of these was produced by legendary engineer and Miles Davis collaborator Teo Macero who commented "These guys are interested in real composition, real melodies, not just being super hip.' ] } ] }

@@ -1,0 +1,31 @@
+{ name: 'International Talent Associates, Inc.',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/International_Talent_Associates,_Inc.',
+  values: 
+   { 'dbo:abstract': [ { value: 'International Talent Associates, Inc. (ITA) was an American talent agency that booked performing artists in venues that included concert halls, night clubs, film, television.  Co-owners Bert Block (president) and Larry Bennett (executive vice-president) founded ITA in January of 1960 as an agency in the college concert field, but expanded into the general personal appearance area that included film and television.When ITA entered film and television, it appointed Harry C. Bell, Jr. (1926–2002) and Richard Louis (Dick) Birkmayer (1933–1976) to spearhead its 1963 foray into television and film. ITA, in 1964, was the largest talent agency in the concert field when it was acquired by General Artists Corp.  Both Block and Bennett became vice presidents at General Artists.  ITA\'s office, initially, was at 327 Madison Avenue, New York City, but later moved to 600 Madison Avenue; and in 1963, it added an office in Hollywood.Block, who had led his own band in the 1930s and was an avid photographer, was married to jazz pianist Barbara Carroll. (en)' } ],
+     'dbo:wikiPageID': [ { value: '35974662 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '621486822 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_organizations',
+          href: 'http://dbpedia.org/resource/Category:Jazz_organizations' } ],
+     'rdfs:comment': [ { value: 'International Talent Associates, Inc. (ITA) was an American talent agency that booked performing artists in venues that included concert halls, night clubs, film, television.  Co-owners Bert Block (president) and Larry Bennett (executive vice-president) founded ITA in January of 1960 as an agency in the college concert field, but expanded into the general personal appearance area that included film and television.When ITA entered film and television, it appointed Harry C. Bell, Jr. (en)' } ],
+     'rdfs:label': [ { value: 'International Talent Associates, Inc. (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:International Talent Associates, Inc.',
+          href: 'http://rdf.freebase.com/ns/m.0j_6t01' },
+        { value: 'dbpedia-wikidata:International Talent Associates, Inc.',
+          href: 'http://wikidata.dbpedia.org/resource/Q17126679' },
+        { value: 'wikidata:International Talent Associates, Inc.',
+          href: 'http://www.wikidata.org/entity/Q17126679' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:International_Talent_Associates,_Inc.?oldid=621486822',
+          href: 'http://en.wikipedia.org/wiki/International_Talent_Associates,_Inc.?oldid=621486822' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:International_Talent_Associates,_Inc.',
+          href: 'http://en.wikipedia.org/wiki/International_Talent_Associates,_Inc.' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:International_Talent_Associates',
+          href: 'http://dbpedia.org/resource/International_Talent_Associates' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:International_Talent_Associates,_Inc.',
+          href: 'http://en.wikipedia.org/wiki/International_Talent_Associates,_Inc.' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Überjam Deux',
+  href: 'http://en.wikipedia.org/wiki/%C3%9Cberjam_Deux',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2227,
+       quote: [ 'Miles Davis' ] } ] }

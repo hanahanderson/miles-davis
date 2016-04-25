@@ -1,0 +1,8 @@
+{ name: 'Portal:Jazz/Jazz news/Archive',
+  href: 'http://en.wikipedia.org/wiki/Portal:Jazz/Jazz_news/Archive',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

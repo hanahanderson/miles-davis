@@ -1,0 +1,4 @@
+{ name: 'Portal:Music/Featured articles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:Music/Featured_articles',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

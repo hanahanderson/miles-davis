@@ -1,0 +1,8 @@
+{ name: 'Andrés Segovia',
+  href: 'http://en.wikipedia.org/wiki/Andr%C3%A9s_Segovia',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Legacy',
+       sectionIndex: 62,
+       wordCountBeforeSection: 24928,
+       quote: [ 'Miles Davis (1984)' ] } ] }

@@ -1,0 +1,41 @@
+{ name: 'Category:Miles Davis tribute albums',
+  entityType: 'Concept',
+  href: 'http://dbpedia.org/page/Category:Miles_Davis_tribute_albums',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '32277338 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '520293965 (xsd:integer)' } ],
+     'rdf:type': 
+      [ { value: 'skos:Concept',
+          href: 'http://www.w3.org/2004/02/skos/core#Concept' } ],
+     'rdfs:label': [ { value: 'Miles Davis tribute albums (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:Miles Davis tribute albums',
+          href: 'http://www.wikidata.org/entity/Q13272052' },
+        { value: 'dbpedia-wikidata:Miles Davis tribute albums',
+          href: 'http://wikidata.dbpedia.org/resource/Q13272052' } ],
+     'skos:broader': 
+      [ { value: 'dbc:Tribute_albums',
+          href: 'http://dbpedia.org/resource/Category:Tribute_albums' },
+        { value: 'dbc:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis' } ],
+     'skos:prefLabel': [ { value: 'Miles Davis tribute albums (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Category:Miles_Davis_tribute_albums?oldid=520293965',
+          href: 'http://en.wikipedia.org/wiki/Category:Miles_Davis_tribute_albums?oldid=520293965' } ],
+     'is dct:subject\n of': 
+      [ { value: 'dbr:Traveling_Miles',
+          href: 'http://dbpedia.org/resource/Traveling_Miles' },
+        { value: 'dbr:I_Remember_Miles',
+          href: 'http://dbpedia.org/resource/I_Remember_Miles' },
+        { value: 'dbr:Bop_for_Miles',
+          href: 'http://dbpedia.org/resource/Bop_for_Miles' },
+        { value: 'dbr:So_Near,_So_Far_(Musings_for_Miles)',
+          href: 'http://dbpedia.org/resource/So_Near,_So_Far_(Musings_for_Miles)' },
+        { value: 'dbr:A_Tribute_to_Miles',
+          href: 'http://dbpedia.org/resource/A_Tribute_to_Miles' },
+        { value: 'dbr:Selim_Sivad:_A_Tribute_to_Miles_Davis',
+          href: 'http://dbpedia.org/resource/Selim_Sivad:_A_Tribute_to_Miles_Davis' },
+        { value: 'dbr:At_Jazz_Jamboree_Warszawa_\'91:_A_Tribute_to_Miles',
+          href: 'http://dbpedia.org/resource/At_Jazz_Jamboree_Warszawa_\'91:_A_Tribute_to_Miles' },
+        { value: 'dbr:Miles_from_India',
+          href: 'http://dbpedia.org/resource/Miles_from_India' } ] } }

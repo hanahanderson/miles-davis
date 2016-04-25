@@ -1,0 +1,8 @@
+{ name: 'Britt Woodman',
+  href: 'http://en.wikipedia.org/wiki/Britt_Woodman',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1276,
+       quote: [ 'With Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Earthless',
+  href: 'http://en.wikipedia.org/wiki/Earthless',
+  mentions: 
+   [ { sectionHeader: 'Musical style',
+       sectionSubHeader: 'Touring and From the Ages (2012-present)',
+       sectionIndex: 19,
+       wordCountBeforeSection: 5510,
+       quote: [ 'Eginton has also said the earlier work of Miles Davis has impacted the band, along with other modal jazz players, as the band often choose a key or mode and almost never play outside it even regardless of what the guitar solo becomes.' ] } ] }

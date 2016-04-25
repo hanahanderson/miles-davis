@@ -1,0 +1,120 @@
+{ name: 'Remember Shakti – The Believer',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Remember_Shakti_%E2%80%93_The_Believer',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '137.18333333333334' } ],
+     'dbo:abstract': [ { value: 'Remember Shakti – The Believer is a live album by the world fusion band Remember Shakti released 2000 on the Verve label. The live set features John McLaughlin on guitar, electric mandolinist U. Srinivas, Vikku Selvaganesh playing ghatam, and tabla player Zakir Hussain.The album peaked number 20 in the Billboard Top Jazz Albums chart. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Remember_Shakti',
+          href: 'http://dbpedia.org/resource/Remember_Shakti' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:World_music',
+          href: 'http://dbpedia.org/resource/World_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Remember_Shakti_(album)',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:releaseDate': [ { value: '2000-10-03 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '8231.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Remember_Shakti_–_Saturday_Night_in_Bombay',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_–_Saturday_Night_in_Bombay' } ],
+     'dbo:wikiPageID': [ { value: '42615939 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '645476047 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Remember_Shakti',
+          href: 'http://dbpedia.org/resource/Remember_Shakti' } ],
+     'dbp:cover': [ { value: 'Remember_Shakti_The_Believer.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:World_music',
+          href: 'http://dbpedia.org/resource/World_music' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Remember Shakti (en)' } ],
+     'dbp:m': 
+      [ { value: '7 (xsd:integer)' },
+        { value: '10 (xsd:integer)' },
+        { value: '12 (xsd:integer)' },
+        { value: '13 (xsd:integer)' },
+        { value: '14 (xsd:integer)' },
+        { value: '18 (xsd:integer)' } ],
+     'dbp:name': [ { value: 'Remember Shakti - The Believer (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Remember Shakti – Saturday Night in Bombay (en)' } ],
+     'dbp:producer': [ { value: 'John McLaughlin, Daniel Richard (en)' } ],
+     'dbp:released': [ { value: '2000-10-03 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:s': 
+      [ { value: '7 (xsd:integer)' },
+        { value: '13 (xsd:integer)' },
+        { value: '36 (xsd:integer)' },
+        { value: '39 (xsd:integer)' },
+        { value: '40 (xsd:integer)' },
+        { value: '56 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Remember Shakti - The Believer (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2000_albums',
+          href: 'http://dbpedia.org/resource/Category:2000_albums' },
+        { value: 'dbc:Shakti_(band)_albums',
+          href: 'http://dbpedia.org/resource/Category:Shakti_(band)_albums' },
+        { value: 'dbc:World_music_albums',
+          href: 'http://dbpedia.org/resource/Category:World_music_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Remember Shakti – The Believer is a live album by the world fusion band Remember Shakti released 2000 on the Verve label. The live set features John McLaughlin on guitar, electric mandolinist U. Srinivas, Vikku Selvaganesh playing ghatam, and tabla player Zakir Hussain.The album peaked number 20 in the Billboard Top Jazz Albums chart. (en)' } ],
+     'rdfs:label': [ { value: 'Remember Shakti – The Believer (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Remember Shakti – The Believer',
+          href: 'http://rdf.freebase.com/ns/m.010gqv5h' },
+        { value: 'dbpedia-wikidata:Remember Shakti – The Believer',
+          href: 'http://wikidata.dbpedia.org/resource/Q16968499' },
+        { value: 'wikidata:Remember Shakti – The Believer',
+          href: 'http://www.wikidata.org/entity/Q16968499' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Remember_Shakti_–_The_Believer?oldid=645476047',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_–_The_Believer?oldid=645476047' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Remember_Shakti_–_The_Believer',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_–_The_Believer' } ],
+     'foaf:name': [ { value: 'Remember Shakti - The Believer (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Remember_Shakti_–_Saturday_Night_in_Bombay',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_–_Saturday_Night_in_Bombay' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Remember_Shakti_(album)',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_(album)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Remember_Shakti_-_The_Believer',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_-_The_Believer' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Remember Shakti – The Believer',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_%E2%80%93_The_Believer' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Remember_Shakti_–_The_Believer',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_–_The_Believer' } ] } }

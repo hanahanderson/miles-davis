@@ -1,0 +1,8 @@
+{ name: 'Hue and Cry',
+  href: 'http://en.wikipedia.org/wiki/Hue_and_Cry',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1796,
+       quote: [ 'They included Michael Brecker (tenor sax) and Randy Brecker (trumpet) – who had played on the Remote album – as well as guitarist Mike Stern (sidesman with Miles Davis), drummer Danny Gottlieb (Pat Metheny) and saxophonist Tommy Smith.' ] } ] }

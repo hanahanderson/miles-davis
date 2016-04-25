@@ -1,0 +1,98 @@
+{ name: 'Turn Out the Stars: The Final Village Vanguard Recordings',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '397.6333333333333' } ],
+     'dbo:abstract': [ { value: 'Turn Out the Stars: The Final Village Vanguard Recordings is a 6-CD box set live album by jazz pianist Bill Evans with Marc Johnson and Joe LaBarbera recorded over four nights at the Village Vanguard in New York City in 1980 and released on the Nonesuch label in 1996. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Paris_Concert:_Edition_Two',
+          href: 'http://dbpedia.org/resource/The_Paris_Concert:_Edition_Two' } ],
+     'dbo:recordDate': [ { value: '0005-06-04 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Nonesuch_Records',
+          href: 'http://dbpedia.org/resource/Nonesuch_Records' } ],
+     'dbo:runtime': [ { value: '23858.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Letter_to_Evan',
+          href: 'http://dbpedia.org/resource/Letter_to_Evan' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '32644733 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671015595 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Turn Out the Stars The Final Village Vanguard Recordings.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Nonesuch_Records',
+          href: 'http://dbpedia.org/resource/Nonesuch_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Paris Concert: Edition Two (en)' } ],
+     'dbp:length': [ { value: '23858.0' } ],
+     'dbp:name': [ { value: 'Turn Out the Stars: The Final Village Vanguard Recordings (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Letter to Evan (en)' } ],
+     'dbp:producer': [ { value: 'Jeff Levinson and Bill Kirchner (en)' } ],
+     'dbp:recorded': [ { value: '--06-04' } ],
+     'dbp:released': [ { value: '2009 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Turn Out the Stars: The Final Village Vanguard Recordings (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bill_Evans_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_live_albums' },
+        { value: 'dbc:Nonesuch_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Nonesuch_Records_live_albums' },
+        { value: 'dbc:Albums_recorded_at_the_Village_Vanguard',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_the_Village_Vanguard' },
+        { value: 'dbc:1980_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1980_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Turn Out the Stars: The Final Village Vanguard Recordings is a 6-CD box set live album by jazz pianist Bill Evans with Marc Johnson and Joe LaBarbera recorded over four nights at the Village Vanguard in New York City in 1980 and released on the Nonesuch label in 1996. (en)' } ],
+     'rdfs:label': [ { value: 'Turn Out the Stars: The Final Village Vanguard Recordings (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Turn Out the Stars: The Final Village Vanguard Recordings',
+          href: 'http://rdf.freebase.com/ns/m.01kbwc7' },
+        { value: 'dbpedia-wikidata:Turn Out the Stars: The Final Village Vanguard Recordings',
+          href: 'http://wikidata.dbpedia.org/resource/Q7855714' },
+        { value: 'wikidata:Turn Out the Stars: The Final Village Vanguard Recordings',
+          href: 'http://www.wikidata.org/entity/Q7855714' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings?oldid=671015595',
+          href: 'http://en.wikipedia.org/wiki/Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings?oldid=671015595' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings',
+          href: 'http://en.wikipedia.org/wiki/Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings' } ],
+     'foaf:name': [ { value: 'Turn Out the Stars: The Final Village Vanguard Recordings (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Getting_Sentimental',
+          href: 'http://dbpedia.org/resource/Getting_Sentimental' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings',
+          href: 'http://en.wikipedia.org/wiki/Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings' } ] } }

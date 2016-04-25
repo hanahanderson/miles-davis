@@ -1,0 +1,8 @@
+{ name: 'Art Farmer',
+  href: 'http://en.wikipedia.org/wiki/Art_Farmer',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 4461,
+       quote: [ 'Two things decided me – the sound of a trumpet section in a big band and hearing a jam session".:50 Farmer\'s trumpet influences in the 1940s were Dizzy Gillespie, Miles Davis and Fats Navarro, but, in his own words, "then I heard Freddie Webster, and I loved his sound.' ] } ] }

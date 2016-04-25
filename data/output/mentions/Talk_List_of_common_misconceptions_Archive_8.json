@@ -1,0 +1,13 @@
+{ name: 'Talk:List of common misconceptions/Archive 8',
+  href: 'http://en.wikipedia.org/wiki/Talk:List_of_common_misconceptions/Archive_8',
+  mentions: 
+   [ { sectionHeader: 'Music examples',
+       sectionSubHeader: '',
+       sectionIndex: 135,
+       wordCountBeforeSection: 75393,
+       quote: [ 'Although included in Charlie Parker\'s "Omnibook" and eventually copyrighted under Parker\'s name, the jazz standard "Donna Lee" was actually composed by Miles Davis.' ] },
+     { sectionHeader: 'Music examples',
+       sectionSubHeader: '',
+       sectionIndex: 161,
+       wordCountBeforeSection: 89991,
+       quote: [ 'Although included in Charlie Parker\'s "Omnibook" and eventually copyrighted under Parker\'s name, the jazz standard "Donna Lee" was actually composed by Miles Davis.' ] } ] }

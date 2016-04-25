@@ -1,0 +1,96 @@
+{ name: 'The Man from Snowy River (soundtrack)',
+  entityType: 'Soundtrack',
+  href: 'http://dbpedia.org/page/The_Man_from_Snowy_River_(soundtrack)',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Man from Snowy River is the original motion picture soundtrack from the 1982 film The Man from Snowy River.Bruce Rowland composed the music for the film, and also conducted the orchestra during the recording of the album.  The sound engineer for the recording was Roger Savage.Later, Bruce Rowland composed a special Olympics version of the "Main Title" theme for the 2000 Summer Olympics opening ceremony.Also, both the "Main Title" and "Jessica\'s Theme", from the film\'s soundtrack were reprised as part of the cast album soundtrack of the 2002 musical The Man from Snowy River: Arena Spectacular.A pastiche of the "Main Title" appeared in the post-credits scene of Napoleon Dynamite. (en)' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Soundtrack',
+          href: 'http://dbpedia.org/resource/Soundtrack' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Festival_Records',
+          href: 'http://dbpedia.org/resource/Festival_Records' },
+        { value: 'dbr:Varèse_Sarabande',
+          href: 'http://dbpedia.org/resource/Varèse_Sarabande' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Soundtrack',
+          href: 'http://dbpedia.org/resource/Soundtrack' } ],
+     'dbo:wikiPageID': [ { value: '13149151 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '667371315 (xsd:integer)' } ],
+     'dbp:cover': [ { value: 'M-f-s-r-Aust.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Soundtrack',
+          href: 'http://dbpedia.org/resource/Soundtrack' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Festival_Records',
+          href: 'http://dbpedia.org/resource/Festival_Records' },
+        { value: 'dbr:Varèse_Sarabande',
+          href: 'http://dbpedia.org/resource/Varèse_Sarabande' } ],
+     'dbp:name': [ { value: 'The Man from Snowy River (en)' } ],
+     'dbp:recorded': [ { value: '1982 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1982 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:rev1score': [ { value: '[{{Allmusic|class=album|id=r84059|pure_url=yes}} link] (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Man from Snowy River (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Soundtrack',
+          href: 'http://dbpedia.org/resource/Soundtrack' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1982_soundtracks',
+          href: 'http://dbpedia.org/resource/Category:1982_soundtracks' },
+        { value: 'dbc:Film_soundtracks',
+          href: 'http://dbpedia.org/resource/Category:Film_soundtracks' },
+        { value: 'dbc:Varèse_Sarabande_soundtracks',
+          href: 'http://dbpedia.org/resource/Category:Varèse_Sarabande_soundtracks' },
+        { value: 'dbc:The_Man_from_Snowy_River',
+          href: 'http://dbpedia.org/resource/Category:The_Man_from_Snowy_River' },
+        { value: 'dbc:Festival_Records_soundtracks',
+          href: 'http://dbpedia.org/resource/Category:Festival_Records_soundtracks' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Man from Snowy River is the original motion picture soundtrack from the 1982 film The Man from Snowy River.Bruce Rowland composed the music for the film, and also conducted the orchestra during the recording of the album. (en)' } ],
+     'rdfs:label': [ { value: 'The Man from Snowy River (soundtrack) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Man from Snowy River (soundtrack)',
+          href: 'http://rdf.freebase.com/ns/m.023ty2g' },
+        { value: 'dbpedia-wikidata:The Man from Snowy River (soundtrack)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7750060' },
+        { value: 'wikidata:The Man from Snowy River (soundtrack)',
+          href: 'http://www.wikidata.org/entity/Q7750060' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Man_from_Snowy_River_(soundtrack)?oldid=667371315',
+          href: 'http://en.wikipedia.org/wiki/The_Man_from_Snowy_River_(soundtrack)?oldid=667371315' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Man_from_Snowy_River_(soundtrack)',
+          href: 'http://en.wikipedia.org/wiki/The_Man_from_Snowy_River_(soundtrack)' } ],
+     'foaf:name': 
+      [ { value: 'The Man from Snowy River (en)' },
+        { value: '(1982 film) (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:The_Man_from_Snowy_River',
+          href: 'http://dbpedia.org/resource/The_Man_from_Snowy_River' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:The_Man_from_Snowy_River_(1982_film)_Original_Motion_Picture_Soundtrack',
+          href: 'http://dbpedia.org/resource/The_Man_from_Snowy_River_(1982_film)_Original_Motion_Picture_Soundtrack' },
+        { value: 'dbr:The_Man_from_Snowy_River_(1982_film)_soundtrack',
+          href: 'http://dbpedia.org/resource/The_Man_from_Snowy_River_(1982_film)_soundtrack' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Man_from_Snowy_River_(soundtrack)',
+          href: 'http://en.wikipedia.org/wiki/The_Man_from_Snowy_River_(soundtrack)' } ] } }

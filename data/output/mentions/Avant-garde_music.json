@@ -1,0 +1,8 @@
+{ name: 'Avant-garde music',
+  href: 'http://en.wikipedia.org/wiki/Avant-garde_music',
+  mentions: 
+   [ { sectionHeader: 'Popular music',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3055,
+       quote: [ 'The 1960s also saw a wave of avant-garde experimentation in popular jazz, represented by artists such as Ornette Coleman, Sun Ra, John Zorn, Albert Ayler, Archie Shep, John Coltrane and Miles Davis.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Talk:Wah-wah (music)',
+  href: 'http://en.wikipedia.org/wiki/Talk:Wah-wah_(music)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 171,
+       quote: [ '10 Miles Davis' ] },
+     { sectionHeader: 'Miles Davis',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 4409,
+       quote: [ 'Shouldn\'t there be a link to Miles Davis somewhere in this article?' ] } ] }

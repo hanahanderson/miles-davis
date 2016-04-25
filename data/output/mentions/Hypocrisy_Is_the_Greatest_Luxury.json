@@ -1,0 +1,8 @@
+{ name: 'Hypocrisy Is the Greatest Luxury',
+  href: 'http://en.wikipedia.org/wiki/Hypocrisy_Is_the_Greatest_Luxury',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2597,
+       quote: [ 'Miles Davis - "Miles Runs The Voodoo Down"' ] } ] }

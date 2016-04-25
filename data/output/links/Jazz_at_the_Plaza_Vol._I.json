@@ -1,0 +1,116 @@
+{ name: 'Jazz at the Plaza Vol. I',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Jazz_at_the_Plaza_Vol._I',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '41.03333333333333' } ],
+     'dbo:abstract': [ { value: 'Jazz at the Plaza Vol. I is a live album by Miles Davis. It was recorded in 1958 and released in 1973 by Columbia Records. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:In_Concert_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/In_Concert_(Miles_Davis_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Teo_Macero',
+          href: 'http://dbpedia.org/resource/Teo_Macero' } ],
+     'dbo:recordDate': [ { value: '1958-09-09 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Plaza_Hotel',
+          href: 'http://dbpedia.org/resource/Plaza_Hotel' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:releaseDate': [ { value: '1973-09-28 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '2462.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Big_Fun_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Big_Fun_(Miles_Davis_album)' } ],
+     'dbo:wikiPageID': [ { value: '19400959 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677938421 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'Miles_Davis_Plaza.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:lastAlbum': [ { value: 'In Concert (en)' } ],
+     'dbp:length': [ { value: '2462.0' } ],
+     'dbp:name': [ { value: 'Jazz at the Plaza Vol. I (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Big Fun (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Teo_Macero',
+          href: 'http://dbpedia.org/resource/Teo_Macero' } ],
+     'dbp:recorded': [ { value: '--09-09' } ],
+     'dbp:released': [ { value: '1973-09-28 (xsd:date)' } ],
+     'dbp:thisAlbum': [ { value: 'Jazz at the Plaza Vol. I (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1973_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1973_live_albums' },
+        { value: 'dbc:Miles_Davis_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_live_albums' },
+        { value: 'dbc:Albums_produced_by_Teo_Macero',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Teo_Macero' },
+        { value: 'dbc:Columbia_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Columbia_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Jazz at the Plaza Vol. I is a live album by Miles Davis. It was recorded in 1958 and released in 1973 by Columbia Records. (en)' } ],
+     'rdfs:label': [ { value: 'Jazz at the Plaza Vol. I (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Jazz at the Plaza Vol. I',
+          href: 'http://fr.dbpedia.org/resource/Jazz_at_the_Plaza' },
+        { value: 'dbpedia-de:Jazz at the Plaza Vol. I',
+          href: 'http://de.dbpedia.org/resource/Jazz_at_the_Plaza,_Vol._1' },
+        { value: 'dbpedia-pt:Jazz at the Plaza Vol. I',
+          href: 'http://pt.dbpedia.org/resource/Jazz_at_the_Plaza' },
+        { value: 'dbpedia-wikidata:Jazz at the Plaza Vol. I',
+          href: 'http://wikidata.dbpedia.org/resource/Q1684498' },
+        { value: 'dbpedia-it:Jazz at the Plaza Vol. I',
+          href: 'http://it.dbpedia.org/resource/Jazz_at_the_Plaza' },
+        { value: 'wikidata:Jazz at the Plaza Vol. I',
+          href: 'http://www.wikidata.org/entity/Q1684498' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jazz_at_the_Plaza_Vol._I?oldid=677938421',
+          href: 'http://en.wikipedia.org/wiki/Jazz_at_the_Plaza_Vol._I?oldid=677938421' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jazz_at_the_Plaza_Vol._I',
+          href: 'http://en.wikipedia.org/wiki/Jazz_at_the_Plaza_Vol._I' } ],
+     'foaf:name': [ { value: 'Jazz at the Plaza Vol. I (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Big_Fun_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Big_Fun_(Miles_Davis_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:In_Concert_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/In_Concert_(Miles_Davis_album)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Jazz_at_the_Plaza',
+          href: 'http://dbpedia.org/resource/Jazz_at_the_Plaza' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jazz_at_the_Plaza_Vol._I',
+          href: 'http://en.wikipedia.org/wiki/Jazz_at_the_Plaza_Vol._I' } ] } }

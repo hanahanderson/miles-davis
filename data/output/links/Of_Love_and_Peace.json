@@ -1,0 +1,111 @@
+{ name: 'Of Love and Peace',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Of_Love_and_Peace',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '41.13333333333333' } ],
+     'dbo:abstract': [ { value: 'Of Love And Peace is an album by jazz organist Larry Young, released on the Blue Note label. This album shows a firmer move on Young\'s part into the realms of free jazz.The album is Young\'s third for Blue Note Records, following on from Unity. Two of the tracks were composed by Young, and the others are free jazz readings of standards. According to the album liner notes, the group represents a working band whom Young had employed for two weeks prior to the recording date (apart from Spaulding, who was otherwise employed). (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Larry_Young_(musician)',
+          href: 'http://dbpedia.org/resource/Larry_Young_(musician)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Unity_(Larry_Young_album)',
+          href: 'http://dbpedia.org/resource/Unity_(Larry_Young_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Alfred_Lion',
+          href: 'http://dbpedia.org/resource/Alfred_Lion' } ],
+     'dbo:recordDate': [ { value: '1966-07-26 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:runtime': [ { value: '2468.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Contrasts_(Larry_Young_album)',
+          href: 'http://dbpedia.org/resource/Contrasts_(Larry_Young_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '20993531 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '668129166 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Larry_Young_(musician)',
+          href: 'http://dbpedia.org/resource/Larry_Young_(musician)' } ],
+     'dbp:cover': [ { value: 'Of Love and Peace.jpeg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Unity (en)' } ],
+     'dbp:length': [ { value: '2468.0' } ],
+     'dbp:name': [ { value: 'Of Love And Peace (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Contrasts (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Alfred_Lion',
+          href: 'http://dbpedia.org/resource/Alfred_Lion' } ],
+     'dbp:recorded': 
+      [ { value: '1966-07-26 (xsd:date)' },
+        { value: 'Van Gelder Studio, Englewod Cliffs, NJ (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Of Love And Peace (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Alfred_Lion',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Alfred_Lion' },
+        { value: 'dbc:1966_albums',
+          href: 'http://dbpedia.org/resource/Category:1966_albums' },
+        { value: 'dbc:Larry_Young_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:Larry_Young_(musician)_albums' },
+        { value: 'dbc:Blue_Note_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Blue_Note_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Of Love And Peace is an album by jazz organist Larry Young, released on the Blue Note label. This album shows a firmer move on Young\'s part into the realms of free jazz.The album is Young\'s third for Blue Note Records, following on from Unity. Two of the tracks were composed by Young, and the others are free jazz readings of standards. (en)' } ],
+     'rdfs:label': [ { value: 'Of Love and Peace (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Of Love and Peace',
+          href: 'http://wikidata.dbpedia.org/resource/Q7078773' },
+        { value: 'freebase:Of Love and Peace',
+          href: 'http://rdf.freebase.com/ns/m.059_zg6' },
+        { value: 'wikidata:Of Love and Peace',
+          href: 'http://www.wikidata.org/entity/Q7078773' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Of_Love_and_Peace?oldid=668129166',
+          href: 'http://en.wikipedia.org/wiki/Of_Love_and_Peace?oldid=668129166' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Of_Love_and_Peace',
+          href: 'http://en.wikipedia.org/wiki/Of_Love_and_Peace' } ],
+     'foaf:name': [ { value: 'Of Love And Peace (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Contrasts_(Larry_Young_album)',
+          href: 'http://dbpedia.org/resource/Contrasts_(Larry_Young_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Unity_(Larry_Young_album)',
+          href: 'http://dbpedia.org/resource/Unity_(Larry_Young_album)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Of_Love_And_Peace',
+          href: 'http://dbpedia.org/resource/Of_Love_And_Peace' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Of_Love_and_Peace',
+          href: 'http://en.wikipedia.org/wiki/Of_Love_and_Peace' } ] } }

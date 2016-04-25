@@ -1,0 +1,13 @@
+{ name: 'User talk:Hyacinth/Music II',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Hyacinth/Music_II',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 551,
+       quote: [ '26 Miles Davis' ] },
+     { sectionHeader: 'List of xyz-istic pieces',
+       sectionSubHeader: 'In practice, "Composer" = "Classical composer"?',
+       sectionIndex: 134,
+       wordCountBeforeSection: 25041,
+       quote: [ 'Miles Davis' ] } ] }

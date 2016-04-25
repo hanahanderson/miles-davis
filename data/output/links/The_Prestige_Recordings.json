@@ -1,0 +1,73 @@
+{ name: 'The Prestige Recordings',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Prestige_Recordings',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Prestige Recordings is a box set by jazz musician John Coltrane. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:wikiPageID': [ { value: '9728853 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '589888706 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbp:name': [ { value: 'The Prestige Recordings (en)' } ],
+     'dbp:recorded': [ { value: '1956 (xsd:integer)' } ],
+     'dbp:type': [ { value: 'box (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:John_Coltrane_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Coltrane_compilation_albums' },
+        { value: 'dbc:1991_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:1991_compilation_albums' },
+        { value: 'dbc:Compilation_albums_published_posthumously',
+          href: 'http://dbpedia.org/resource/Category:Compilation_albums_published_posthumously' },
+        { value: 'dbc:Prestige_Records_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_compilation_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Prestige Recordings is a box set by jazz musician John Coltrane. (en)' } ],
+     'rdfs:label': [ { value: 'The Prestige Recordings (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Prestige Recordings',
+          href: 'http://rdf.freebase.com/ns/m.01j2fbz' },
+        { value: 'wikidata:The Prestige Recordings',
+          href: 'http://www.wikidata.org/entity/Q7727173' },
+        { value: 'dbpedia-wikidata:The Prestige Recordings',
+          href: 'http://wikidata.dbpedia.org/resource/Q7727173' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Prestige_Recordings?oldid=589888706',
+          href: 'http://en.wikipedia.org/wiki/The_Prestige_Recordings?oldid=589888706' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Prestige_Recordings',
+          href: 'http://en.wikipedia.org/wiki/The_Prestige_Recordings' } ],
+     'foaf:name': [ { value: 'The Prestige Recordings (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:The_Complete_Prestige_Recordings',
+          href: 'http://dbpedia.org/resource/The_Complete_Prestige_Recordings' },
+        { value: 'dbr:The_Complete_Prestige_Recordings_(John_Coltrane_album)',
+          href: 'http://dbpedia.org/resource/The_Complete_Prestige_Recordings_(John_Coltrane_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Prestige_Recordings',
+          href: 'http://en.wikipedia.org/wiki/The_Prestige_Recordings' } ] } }

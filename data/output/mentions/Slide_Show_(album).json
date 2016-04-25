@@ -1,0 +1,8 @@
+{ name: 'Slide Show (album)',
+  href: 'http://en.wikipedia.org/wiki/Slide_Show_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 751,
+       quote: [ '"Blue In Green" (Miles Davis) - 5:19' ] } ] }

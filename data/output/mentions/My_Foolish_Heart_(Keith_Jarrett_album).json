@@ -1,0 +1,8 @@
+{ name: 'My Foolish Heart (Keith Jarrett album)',
+  href: 'http://en.wikipedia.org/wiki/My_Foolish_Heart_(Keith_Jarrett_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1240,
+       quote: [ '"Four" (Miles Davis) - 9:09' ] } ] }

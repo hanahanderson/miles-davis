@@ -1,0 +1,86 @@
+{ name: 'Blues for Sarka',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Blues_for_Sarka',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '45.18333333333333' } ],
+     'dbo:abstract': [ { value: 'Blues for Sarka is a live album by the New York Jazz Quartet which was recorded in 1978 and released on the Enja label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:New_York_Jazz_Quartet',
+          href: 'http://dbpedia.org/resource/New_York_Jazz_Quartet' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Song_of_the_Black_Knight',
+          href: 'http://dbpedia.org/resource/Song_of_the_Black_Knight' } ],
+     'dbo:recordDate': [ { value: '1978-05-17 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Enja_Records',
+          href: 'http://dbpedia.org/resource/Enja_Records' } ],
+     'dbo:runtime': [ { value: '2711.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:New_York_Jazz_Quartet_in_Chicago',
+          href: 'http://dbpedia.org/resource/New_York_Jazz_Quartet_in_Chicago' } ],
+     'dbo:wikiPageID': [ { value: '47650882 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678254930 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:New_York_Jazz_Quartet',
+          href: 'http://dbpedia.org/resource/New_York_Jazz_Quartet' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:New_York_Jazz_Quartet',
+          href: 'http://dbpedia.org/resource/New_York_Jazz_Quartet' } ],
+     'dbp:cover': [ { value: 'Blues for Sarka.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Enja_Records',
+          href: 'http://dbpedia.org/resource/Enja_Records' },
+        { value: 'ENJA 3025 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Song of the Black Knight (en)' } ],
+     'dbp:length': [ { value: '2711.0' } ],
+     'dbp:name': [ { value: 'Blues for Sarka (en)' } ],
+     'dbp:nextAlbum': [ { value: 'New York Jazz Quartet in Chicago (en)' } ],
+     'dbp:producer': [ { value: 'Horst Weber and Matthias Winckelmann (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1978-05-17 (xsd:date)' },
+        { value: 'The Domicile in Munich, West Germany (en)' } ],
+     'dbp:released': [ { value: '1978 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Blues for Sarka (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1978_albums',
+          href: 'http://dbpedia.org/resource/Category:1978_albums' },
+        { value: 'dbc:Enja_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Enja_Records_albums' },
+        { value: 'dbc:New_York_Jazz_Quartet_albums',
+          href: 'http://dbpedia.org/resource/Category:New_York_Jazz_Quartet_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Blues for Sarka is a live album by the New York Jazz Quartet which was recorded in 1978 and released on the Enja label. (en)' } ],
+     'rdfs:label': [ { value: 'Blues for Sarka (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Blues_for_Sarka?oldid=678254930',
+          href: 'http://en.wikipedia.org/wiki/Blues_for_Sarka?oldid=678254930' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Blues_for_Sarka',
+          href: 'http://en.wikipedia.org/wiki/Blues_for_Sarka' } ],
+     'foaf:name': [ { value: 'Blues for Sarka (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Blues_for_Sarka',
+          href: 'http://en.wikipedia.org/wiki/Blues_for_Sarka' } ] } }

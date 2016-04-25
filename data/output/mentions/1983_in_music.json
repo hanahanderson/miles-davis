@@ -1,0 +1,8 @@
+{ name: '1983 in music',
+  href: 'http://en.wikipedia.org/wiki/1983_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 18037,
+       quote: [ 'Star People – Miles Davis' ] } ] }

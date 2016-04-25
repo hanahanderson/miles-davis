@@ -1,0 +1,43 @@
+{ name: 'List of foreign recipients of the Légion d\'Honneur',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_foreign_recipients_of_the_L%C3%A9gion_d%27Honneur',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Order of Légion d\'Honneur is the highest decoration in France and is divided into five degrees: Chevalier (Knight), Officier (Officer), Commandeur (Commander), Grand Officier (Grand Officer) and Grand Croix (Grand Cross).Technically, membership in the Légion d\'Honneur is restricted to French nationals. Foreign nationals who have served France or the ideals it upholds may, however, receive a distinction of the Légion, which is nearly the same thing as membership in the Légion. Foreign nationals who live in France are submitted to the same requirements as Frenchmen. Foreign nationals who live abroad may be awarded a distinction of any rank or dignity in the Légion.A complete, chronological list of the members of the Legion of Honour nominated from the very first ceremony in 1803 to now does not exist. The number is estimated at one million. Among them about 3 000 were decorated with the Grand Cross (including 1 200 French). (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/DamascusabdulKader.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/DamascusabdulKader.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '29786364 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683671480 (xsd:integer)' } ],
+     'dbp:date': [ { value: 'June 2012 (en)' } ],
+     'dbp:reason': [ { value: ':File:Angus Houston 2.JPG, currently displayed in this section, clearly depicts the insignia of a Commander; a textual source confirming date of award is preferable (en)' } ],
+     'rdfs:comment': [ { value: 'The Order of Légion d\'Honneur is the highest decoration in France and is divided into five degrees: Chevalier (Knight), Officier (Officer), Commandeur (Commander), Grand Officier (Grand Officer) and Grand Croix (Grand Cross).Technically, membership in the Légion d\'Honneur is restricted to French nationals. Foreign nationals who have served France or the ideals it upholds may, however, receive a distinction of the Légion, which is nearly the same thing as membership in the Légion. (en)' } ],
+     'rdfs:label': [ { value: 'List of foreign recipients of the Légion d\'Honneur (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of foreign recipients of the Légion d\'Honneur',
+          href: 'http://wikidata.dbpedia.org/resource/Q6621064' },
+        { value: 'wikidata:List of foreign recipients of the Légion d\'Honneur',
+          href: 'http://www.wikidata.org/entity/Q6621064' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_foreign_recipients_of_the_Légion_d\'Honneur?oldid=683671480',
+          href: 'http://en.wikipedia.org/wiki/List_of_foreign_recipients_of_the_Légion_d\'Honneur?oldid=683671480' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/DamascusabdulKader.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/DamascusabdulKader.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_foreign_recipients_of_the_Légion_d\'Honneur',
+          href: 'http://en.wikipedia.org/wiki/List_of_foreign_recipients_of_the_Légion_d\'Honneur' } ],
+     'is dbo:award\n of': 
+      [ { value: 'dbr:Philip_Habib',
+          href: 'http://dbpedia.org/resource/Philip_Habib' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_foreign_recipients_of_the_Legion_d\'Honneur',
+          href: 'http://dbpedia.org/resource/List_of_foreign_recipients_of_the_Legion_d\'Honneur' } ],
+     'is dbp:awards\n of': 
+      [ { value: 'dbr:Philip_Habib',
+          href: 'http://dbpedia.org/resource/Philip_Habib' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:List of foreign recipients of the Légion d\'Honneur',
+          href: 'http://dbpedia.org/resource/List_of_foreign_recipients_of_the_L%C3%A9gion_d\'Honneur' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_foreign_recipients_of_the_Légion_d\'Honneur',
+          href: 'http://en.wikipedia.org/wiki/List_of_foreign_recipients_of_the_Légion_d\'Honneur' } ] } }

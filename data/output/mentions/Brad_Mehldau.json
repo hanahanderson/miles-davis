@@ -1,0 +1,8 @@
+{ name: 'Brad Mehldau',
+  href: 'http://en.wikipedia.org/wiki/Brad_Mehldau',
+  mentions: 
+   [ { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 8979,
+       quote: [ 'The recording features standards, Mehldau originals, Miles Davis\' "Solar", and another version of "Exit Music (For a Film)".' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Remembering Bud: Cleopatra\'s Dream',
+  href: 'http://en.wikipedia.org/wiki/Remembering_Bud:_Cleopatra%27s_Dream',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 717,
+       quote: [] } ] }

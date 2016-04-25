@@ -1,0 +1,8 @@
+{ name: 'KinKi Kids',
+  href: 'http://en.wikipedia.org/wiki/KinKi_Kids',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: 'Stage',
+       sectionIndex: 28,
+       wordCountBeforeSection: 8530,
+       quote: [ 'The other songs in the top five were (in order) "Love Love Love" from Drams Come True (2,488,630 copies), "Valentine\'s Radio" from Yumi Matsutoya (1,606,780 copies), and "My Funny Valentine" by Miles Davis.' ] } ] }

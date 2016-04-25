@@ -1,0 +1,8 @@
+{ name: 'List of people from Michigan',
+  href: 'http://en.wikipedia.org/wiki/List_of_people_from_Michigan',
+  mentions: 
+   [ { sectionHeader: 'Musicians and composers',
+       sectionSubHeader: '',
+       sectionIndex: 61,
+       wordCountBeforeSection: 41394,
+       quote: [ 'Ron Carter, jazz bassist and member of the Miles Davis Quintet (born in Ferndale)' ] } ] }

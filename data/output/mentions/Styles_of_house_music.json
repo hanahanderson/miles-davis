@@ -1,0 +1,8 @@
+{ name: 'Styles of house music',
+  href: 'http://en.wikipedia.org/wiki/Styles_of_house_music',
+  mentions: 
+   [ { sectionHeader: 'J',
+       sectionSubHeader: '',
+       sectionIndex: 80,
+       wordCountBeforeSection: 9061,
+       quote: [ 'Thanks in part to his continuing influence, dozens of producers began looking back to jazz heroes like Miles Davis, Herbie Hancock, and Lonnie Liston Smith for inspiration.' ] } ] }

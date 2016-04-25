@@ -1,0 +1,8 @@
+{ name: 'John Stubblefield',
+  href: 'http://en.wikipedia.org/wiki/John_Stubblefield',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 1317,
+       quote: [ 'With Miles Davis' ] } ] }

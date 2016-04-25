@@ -1,0 +1,8 @@
+{ name: 'NEA Jazz Masters',
+  href: 'http://en.wikipedia.org/wiki/NEA_Jazz_Masters',
+  mentions: 
+   [ { sectionHeader: 'NEA Jazz Masters',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 439,
+       quote: [ '1984: Ornette Coleman, Miles Davis, Max Roach' ] } ] }

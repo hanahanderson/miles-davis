@@ -1,0 +1,8 @@
+{ name: 'Lights of Endangered Species',
+  href: 'http://en.wikipedia.org/wiki/Lights_of_Endangered_Species',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1172,
+       quote: [ 'While Good\'s lyrics on Lights remain socio-political and personal in nature, the album marks a departure from Good\'s rock-driven style with layered arrangements and instrumentation featuring horns, strings, woodwinds and piano – a reflection of Good\'s musical upbringing and tastes, listening to big bands from Glenn Miller to Basie, as well as modern jazz, such as Miles Davis and Mingus.' ] } ] }

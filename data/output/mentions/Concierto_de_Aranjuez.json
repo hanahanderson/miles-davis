@@ -1,0 +1,13 @@
+{ name: 'Concierto de Aranjuez',
+  href: 'http://en.wikipedia.org/wiki/Concierto_de_Aranjuez',
+  mentions: 
+   [ { sectionHeader: 'Interpretations',
+       sectionSubHeader: 'Premiere',
+       sectionIndex: 31,
+       wordCountBeforeSection: 7479,
+       quote: [ 'A number of musicians have since reinterpreted the work, usually the second movement, perhaps most famously jazz musician Miles Davis in the company of arranger Gil Evans.' ] },
+     { sectionHeader: 'Interpretations',
+       sectionSubHeader: 'Premiere',
+       sectionIndex: 36,
+       wordCountBeforeSection: 8415,
+       quote: [ 'Guitarist Buckethead covered "Sketches of Spain" on his album Electric Tears as a tribute to Miles Davis.' ] } ] }

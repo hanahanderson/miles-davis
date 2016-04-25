@@ -1,0 +1,8 @@
+{ name: 'Brian Eno',
+  href: 'http://en.wikipedia.org/wiki/Brian_Eno',
+  mentions: 
+   [ { sectionHeader: 'Solo work',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 12078,
+       quote: [ 'In 1981, after he returned from Ghana and before making On Land, Robert Quine played him Miles Davis\' 1974 track "He Loved Him Madly", a melancholy tribute to Duke Ellington influenced by both African music and Karlheinz Stockhausen: as Eno stated in the liner notes for On Land, "Teo Macero\'s revolutionary production on that piece seemed to me to have the "spacious" quality I was after, and like Federico Fellini\'s 1973 film Amarcord, it too became a touchstone to which I returned frequently."' ] } ] }

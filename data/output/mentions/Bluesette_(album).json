@@ -1,0 +1,8 @@
+{ name: 'Bluesette (album)',
+  href: 'http://en.wikipedia.org/wiki/Bluesette_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 839,
+       quote: [ '"Down" (Miles Davis) - 5:18' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'The Most Happy Fella (album)',
+  href: 'http://en.wikipedia.org/wiki/The_Most_Happy_Fella_(album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 789,
+       quote: [ 'The Allmusic review by Al Campbell awarded the album 3½ stars and stated "While it didn\'t match the huge success of such similarly attempted jazzed-up Broadway hits like Shelly Manne\'s My Fair Lady or the Miles Davis and Gil Evans collaboration on Porgy and Bess, the complex synchronization of Watkins\' fluid mellow tone with the moderately choppy tenor lines of Rouse make for a lyrical bop/cool jazz hybrid that still sounds fresh".' ] },
+     { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 789,
+       quote: [] } ] }

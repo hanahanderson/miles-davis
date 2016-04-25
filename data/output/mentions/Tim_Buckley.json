@@ -1,0 +1,8 @@
+{ name: 'Tim Buckley',
+  href: 'http://en.wikipedia.org/wiki/Tim_Buckley',
+  mentions: 
+   [ { sectionHeader: 'Early life and career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1844,
+       quote: [ 'He spent his early childhood in Amsterdam, New York, an industrial city approximately 40 miles northwest of Albany; at five years old he began listening to his mother\'s progressive jazz recordings, particularly Miles Davis.' ] } ] }

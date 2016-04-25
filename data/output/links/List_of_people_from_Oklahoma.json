@@ -1,0 +1,34 @@
+{ name: 'List of people from Oklahoma',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_from_Oklahoma',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following are people who were either born, raised, or have lived for a significant period of time in the U.S. state of Oklahoma. (en)' } ],
+     'dbo:wikiPageID': [ { value: '1945436 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683061923 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_people_from_Oklahoma',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_from_Oklahoma' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'The following are people who were either born, raised, or have lived for a significant period of time in the U.S. state of Oklahoma. (en)' } ],
+     'rdfs:label': [ { value: 'List of people from Oklahoma (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_Governors_of_Oklahoma',
+          href: 'http://dbpedia.org/resource/List_of_Governors_of_Oklahoma' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:List of people from Oklahoma',
+          href: 'http://de.dbpedia.org/resource/Liste_von_Persönlichkeiten_des_US-Bundesstaates_Oklahoma' },
+        { value: 'dbpedia-wikidata:List of people from Oklahoma',
+          href: 'http://wikidata.dbpedia.org/resource/Q3309620' },
+        { value: 'wikidata:List of people from Oklahoma',
+          href: 'http://www.wikidata.org/entity/Q3309620' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_from_Oklahoma?oldid=683061923',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Oklahoma?oldid=683061923' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_from_Oklahoma',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Oklahoma' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_from_Oklahoma',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Oklahoma' } ] } }

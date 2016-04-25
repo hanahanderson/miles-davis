@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:WikiProject Illinois',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Illinois',
+  mentions: 
+   [ { sectionHeader: 'Articles',
+       sectionSubHeader: '',
+       sectionIndex: 67,
+       wordCountBeforeSection: 13122,
+       quote: [ ' Miles Davis' ] },
+     { sectionHeader: 'Articles',
+       sectionSubHeader: '',
+       sectionIndex: 91,
+       wordCountBeforeSection: 47809,
+       quote: [ 'Miles Davis (2005-09-28)' ] } ] }

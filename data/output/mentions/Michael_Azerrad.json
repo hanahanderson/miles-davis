@@ -1,0 +1,8 @@
+{ name: 'Michael Azerrad',
+  href: 'http://en.wikipedia.org/wiki/Michael_Azerrad',
+  mentions: 
+   [ { sectionHeader: 'Music journalism',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2640,
+       quote: [ 'Azerrad wrote liner notes for various albums and DVDs by artists including: Paul McCartney, Miles Davis, Gang of Four, Violent Femmes, Screaming Trees, Guided by Voices, Meat Puppets, the Jesus Lizard, the B-52\'s, the live comedy series Invite Them Up and the 1991 cult TV series Fishing with John.' ] } ] }

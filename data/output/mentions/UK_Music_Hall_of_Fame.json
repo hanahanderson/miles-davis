@@ -1,0 +1,8 @@
+{ name: 'UK Music Hall of Fame',
+  href: 'http://en.wikipedia.org/wiki/UK_Music_Hall_of_Fame',
+  mentions: 
+   [ { sectionHeader: '2004 inductees',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1253,
+       quote: [ '1950s - Billie Holiday, Buddy Holly, Chuck Berry, Cliff Richard and The Shadows, Ella Fitzgerald, Frank Sinatra, Johnny Cash, Little Richard, Louis Armstrong, Miles Davis' ] } ] }

@@ -1,0 +1,125 @@
+{ name: 'Nirvana (Herbie Mann and the Bill Evans Trio album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Nirvana_(Herbie_Mann_and_the_Bill_Evans_Trio_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '33.2' } ],
+     'dbo:abstract': [ { value: 'Nirvana is an album by jazz flautist Herbie Mann with Bill Evans\'s Trio featuring Chuck Israels and Paul Motian, released in 1964 on the Atlantic label and featuring performances recorded in 1961 and 1962. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Herbie_Mann',
+          href: 'http://dbpedia.org/resource/Herbie_Mann' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Waltz_for_Debby_(1962_album)',
+          href: 'http://dbpedia.org/resource/Waltz_for_Debby_(1962_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Nesuhi_Ertegun' } ],
+     'dbo:recordDate': [ { value: '1961-12-08 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Atlantic_Studios',
+          href: 'http://dbpedia.org/resource/Atlantic_Studios' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '1992.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Undercurrent_(Bill_Evans_and_Jim_Hall_album)',
+          href: 'http://dbpedia.org/resource/Undercurrent_(Bill_Evans_and_Jim_Hall_album)' } ],
+     'dbo:wikiPageID': [ { value: '26508974 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677981466 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Herbie_Mann',
+          href: 'http://dbpedia.org/resource/Herbie_Mann' },
+        { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Nirvana .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' },
+        { value: 'SD 1426 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Waltz for Debby (en)' } ],
+     'dbp:length': [ { value: '1992.0' } ],
+     'dbp:name': [ { value: 'Nirvana (en)' } ],
+     'dbp:nextAlbum': 
+      [ { value: 'Undercurrent (en)' },
+        { value: 'How My Heart Sings! (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Nesuhi_Ertegun' } ],
+     'dbp:recorded': 
+      [ { value: '--12-08' },
+        { value: 'Atlantic Studios, New York City (en)' } ],
+     'dbp:released': [ { value: 'Early October 1964 (en)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Nirvana (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1964_albums',
+          href: 'http://dbpedia.org/resource/Category:1964_albums' },
+        { value: 'dbc:Atlantic_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Atlantic_Records_albums' },
+        { value: 'dbc:Bill_Evans_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_albums' },
+        { value: 'dbc:Collaborative_albums',
+          href: 'http://dbpedia.org/resource/Category:Collaborative_albums' },
+        { value: 'dbc:Herbie_Mann_albums',
+          href: 'http://dbpedia.org/resource/Category:Herbie_Mann_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Nirvana is an album by jazz flautist Herbie Mann with Bill Evans\'s Trio featuring Chuck Israels and Paul Motian, released in 1964 on the Atlantic label and featuring performances recorded in 1961 and 1962. (en)' } ],
+     'rdfs:label': [ { value: 'Nirvana (Herbie Mann and the Bill Evans Trio album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Nirvana (Herbie Mann and the Bill Evans Trio album)',
+          href: 'http://rdf.freebase.com/ns/m.01rzskx' },
+        { value: 'dbpedia-wikidata:Nirvana (Herbie Mann and the Bill Evans Trio album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7040125' },
+        { value: 'wikidata:Nirvana (Herbie Mann and the Bill Evans Trio album)',
+          href: 'http://www.wikidata.org/entity/Q7040125' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Nirvana_(Herbie_Mann_and_the_Bill_Evans_Trio_album)?oldid=677981466',
+          href: 'http://en.wikipedia.org/wiki/Nirvana_(Herbie_Mann_and_the_Bill_Evans_Trio_album)?oldid=677981466' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Nirvana_(Herbie_Mann_and_the_Bill_Evans_Trio_album)',
+          href: 'http://en.wikipedia.org/wiki/Nirvana_(Herbie_Mann_and_the_Bill_Evans_Trio_album)' } ],
+     'foaf:name': [ { value: 'Nirvana (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Do_the_Bossa_Nova_with_Herbie_Mann',
+          href: 'http://dbpedia.org/resource/Do_the_Bossa_Nova_with_Herbie_Mann' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Brazil,_Bossa_Nova_&_Blues',
+          href: 'http://dbpedia.org/resource/Brazil,_Bossa_Nova_&_Blues' },
+        { value: 'dbr:Loose_Blues',
+          href: 'http://dbpedia.org/resource/Loose_Blues' },
+        { value: 'dbr:Waltz_for_Debby_(1962_album)',
+          href: 'http://dbpedia.org/resource/Waltz_for_Debby_(1962_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Nirvana_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Nirvana_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Nirvana_(Herbie_Mann_&_Bill_Evans_album)',
+          href: 'http://dbpedia.org/resource/Nirvana_(Herbie_Mann_&_Bill_Evans_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Nirvana_(Herbie_Mann_and_the_Bill_Evans_Trio_album)',
+          href: 'http://en.wikipedia.org/wiki/Nirvana_(Herbie_Mann_and_the_Bill_Evans_Trio_album)' } ] } }

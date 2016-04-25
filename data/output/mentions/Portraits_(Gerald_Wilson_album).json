@@ -1,0 +1,13 @@
+{ name: 'Portraits (Gerald Wilson album)',
+  href: 'http://en.wikipedia.org/wiki/Portraits_(Gerald_Wilson_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 835,
+       quote: [ '"So What" (Miles Davis) - 5:55' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 835,
+       quote: [ '"So What" (Miles Davis) - 5:55' ] } ] }

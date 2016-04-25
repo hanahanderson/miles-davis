@@ -1,0 +1,118 @@
+{ name: 'Free Form',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Free_Form',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '40.35' }, { value: '45.55' } ],
+     'dbo:abstract': [ { value: 'Free Form is an album by American trumpeter Donald Byrd featuring Byrd with Wayne Shorter, Herbie Hancock, Butch Warren, and Billy Higgins recorded in 1961 and released on the Blue Note label later in 1966. It was remastered in 2003 and reissued on CD. On the CD reissue, the original stereo release is erroneously given as "BST 84106" instead of BST 84118. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Donald_Byrd',
+          href: 'http://dbpedia.org/resource/Donald_Byrd' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Royal_Flush_(album)',
+          href: 'http://dbpedia.org/resource/Royal_Flush_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Alfred_Lion',
+          href: 'http://dbpedia.org/resource/Alfred_Lion' } ],
+     'dbo:recordDate': [ { value: '1961-12-11 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' },
+        { value: 'dbr:Englewood_Cliffs,_New_Jersey',
+          href: 'http://dbpedia.org/resource/Englewood_Cliffs,_New_Jersey' } ],
+     'dbo:runtime': 
+      [ { value: '2421.000000 (xsd:double)' },
+        { value: '2733.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:A_New_Perspective',
+          href: 'http://dbpedia.org/resource/A_New_Perspective' } ],
+     'dbo:wikiPageID': [ { value: '28670060 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677996138 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Donald_Byrd',
+          href: 'http://dbpedia.org/resource/Donald_Byrd' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Donald_Byrd',
+          href: 'http://dbpedia.org/resource/Donald_Byrd' } ],
+     'dbp:cover': [ { value: 'Free Form .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' },
+        { value: 'BST 84118 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Royal Flush (en)' } ],
+     'dbp:length': [ { value: '2733.0' }, { value: '2421.0' } ],
+     'dbp:name': [ { value: 'Free Form (en)' } ],
+     'dbp:nextAlbum': [ { value: 'A New Perspective (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Alfred_Lion',
+          href: 'http://dbpedia.org/resource/Alfred_Lion' } ],
+     'dbp:recorded': 
+      [ { value: '1961-12-11 (xsd:date)' },
+        { value: 'Van Gelder Studio, Englewood Cliffs (en)' } ],
+     'dbp:released': [ { value: 'October 1966 (en)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Free Form (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Alfred_Lion',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Alfred_Lion' },
+        { value: 'dbc:1966_albums',
+          href: 'http://dbpedia.org/resource/Category:1966_albums' },
+        { value: 'dbc:Blue_Note_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Blue_Note_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Donald_Byrd_albums',
+          href: 'http://dbpedia.org/resource/Category:Donald_Byrd_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Free Form is an album by American trumpeter Donald Byrd featuring Byrd with Wayne Shorter, Herbie Hancock, Butch Warren, and Billy Higgins recorded in 1961 and released on the Blue Note label later in 1966. It was remastered in 2003 and reissued on CD. On the CD reissue, the original stereo release is erroneously given as "BST 84106" instead of BST 84118. (en)' } ],
+     'rdfs:label': [ { value: 'Free Form (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Free Form',
+          href: 'http://rdf.freebase.com/ns/m.0cz8pmk' },
+        { value: 'dbpedia-it:Free Form',
+          href: 'http://it.dbpedia.org/resource/Free_Form' },
+        { value: 'dbpedia-wikidata:Free Form',
+          href: 'http://wikidata.dbpedia.org/resource/Q5499844' },
+        { value: 'wikidata:Free Form',
+          href: 'http://www.wikidata.org/entity/Q5499844' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Free_Form?oldid=677996138',
+          href: 'http://en.wikipedia.org/wiki/Free_Form?oldid=677996138' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Free_Form',
+          href: 'http://en.wikipedia.org/wiki/Free_Form' } ],
+     'foaf:name': [ { value: 'Free Form (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:A_New_Perspective',
+          href: 'http://dbpedia.org/resource/A_New_Perspective' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Royal_Flush_(album)',
+          href: 'http://dbpedia.org/resource/Royal_Flush_(album)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Free_Form_(album)',
+          href: 'http://dbpedia.org/resource/Free_Form_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Free_Form',
+          href: 'http://en.wikipedia.org/wiki/Free_Form' } ] } }

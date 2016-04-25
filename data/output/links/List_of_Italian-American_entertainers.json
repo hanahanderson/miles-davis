@@ -1,0 +1,34 @@
+{ name: 'List of Italian-American entertainers',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Italian-American_entertainers',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of Italian American entertainers.To be included in this list, the person must have a Wikipedia article showing they are Italian American or must have references showing they are Italian American and are notable. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.italiansrus.com/articles/subs/crooners.htm',
+          href: 'http://www.italiansrus.com/articles/subs/crooners.htm' } ],
+     'dbo:wikiPageID': [ { value: '9903893 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682849691 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_American_people_of_Italian_descent',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_American_people_of_Italian_descent' },
+        { value: 'dbc:American_people_of_Italian_descent',
+          href: 'http://dbpedia.org/resource/Category:American_people_of_Italian_descent' } ],
+     'rdfs:comment': [ { value: 'This is a list of Italian American entertainers.To be included in this list, the person must have a Wikipedia article showing they are Italian American or must have references showing they are Italian American and are notable. (en)' } ],
+     'rdfs:label': [ { value: 'List of Italian-American entertainers (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Italian-American entertainers',
+          href: 'http://wikidata.dbpedia.org/resource/Q11722362' },
+        { value: 'wikidata:List of Italian-American entertainers',
+          href: 'http://www.wikidata.org/entity/Q11722362' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Italian-American_entertainers?oldid=682849691',
+          href: 'http://en.wikipedia.org/wiki/List_of_Italian-American_entertainers?oldid=682849691' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Italian-American_entertainers',
+          href: 'http://en.wikipedia.org/wiki/List_of_Italian-American_entertainers' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Italian_American_entertainers',
+          href: 'http://dbpedia.org/resource/List_of_Italian_American_entertainers' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Italian-American_entertainers',
+          href: 'http://en.wikipedia.org/wiki/List_of_Italian-American_entertainers' } ] } }

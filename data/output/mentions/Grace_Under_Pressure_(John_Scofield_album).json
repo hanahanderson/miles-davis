@@ -1,0 +1,8 @@
+{ name: 'Grace Under Pressure (John Scofield album)',
+  href: 'http://en.wikipedia.org/wiki/Grace_Under_Pressure_(John_Scofield_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1033,
+       quote: [ 'Miles Davis' ] } ] }

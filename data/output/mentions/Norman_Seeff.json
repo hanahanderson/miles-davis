@@ -1,0 +1,8 @@
+{ name: 'Norman Seeff',
+  href: 'http://en.wikipedia.org/wiki/Norman_Seeff',
+  mentions: 
+   [ { sectionHeader: 'Famous photographs',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 8580,
+       quote: [ '9.) Miles Davis 1974 : Seeff shot his iconic image of Davis who at the time was recovering from a throat condition and had just come off stage.' ] } ] }

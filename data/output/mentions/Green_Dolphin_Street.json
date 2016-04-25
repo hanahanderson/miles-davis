@@ -1,0 +1,8 @@
+{ name: 'Green Dolphin Street',
+  href: 'http://en.wikipedia.org/wiki/Green_Dolphin_Street',
+  mentions: 
+   [ { sectionHeader: 'Theme song',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 3124,
+       quote: [ 'The song has been recorded by Bill Evans, Eric Dolphy, The Modern Jazz Quartet, Tony Bennett, Miles Davis, Ahmad Jamal, John Coltrane, Agnieszka Hekiert, *Dick and Kiz Harp, and Grant Green among others.' ] } ] }

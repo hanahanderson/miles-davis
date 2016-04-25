@@ -1,0 +1,17 @@
+{ name: 'User talk:Russian69',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Russian69',
+  mentions: 
+   [ { sectionHeader: 'Speedy deletion nomination of OG Mudbone',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4449,
+       quote: 
+        [ 'If you vandalize Wikipedia again, as you did at Miles Davis, you will be blocked from editing without further notice.',
+          'The following is the log entry regarding this vandalism: Miles Davis was changed by Russian69 (u) (t) ANN scored at 0.899747 on 2011-02-10T13:13:06+00:00 .' ] },
+     { sectionHeader: 'Speedy deletion nomination of OG Mudbone',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4449,
+       quote: 
+        [ 'If you vandalize Wikipedia again, as you did at Miles Davis, you will be blocked from editing without further notice.',
+          'The following is the log entry regarding this vandalism: Miles Davis was changed by Russian69 (u) (t) ANN scored at 0.899747 on 2011-02-10T13:13:06+00:00 .' ] } ] }

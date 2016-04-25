@@ -1,0 +1,12 @@
+{ name: 'File:MilesDavis MilesInTheSky.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:MilesDavis_MilesInTheSky.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '27262945 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '519023819 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:MilesDavis_MilesInTheSky.jpg?oldid=519023819',
+          href: 'http://en.wikipedia.org/wiki/File:MilesDavis_MilesInTheSky.jpg?oldid=519023819' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:MilesDavis_MilesInTheSky.jpg',
+          href: 'http://dbpedia.org/resource/File:MilesDavis_MilesInTheSky.jpg' } ] } }

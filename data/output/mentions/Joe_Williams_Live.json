@@ -1,0 +1,8 @@
+{ name: 'Joe Williams Live',
+  href: 'http://en.wikipedia.org/wiki/Joe_Williams_Live',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1002,
+       quote: [ '"Medley: All Blues/Goin\' to Chicago Blues/C.C. Rider" (Miles Davis/Basie, Rushing/Ma Rainey) - 9:48 Bonus track on CD reissue' ] } ] }

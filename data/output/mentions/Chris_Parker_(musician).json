@@ -1,0 +1,8 @@
+{ name: 'Chris Parker (musician)',
+  href: 'http://en.wikipedia.org/wiki/Chris_Parker_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1082,
+       quote: [ 'Throughout three decades (from 1970s to 1990s), he recorded three albums and still performs to this day with such stars and music groups as James Brown, Miles Davis, Aretha Franklin, Ashford & Simpson, Patti Austin, Cher, Michael Bolton, Quincy Jones, Freddie Hubbard and Salt n\' Pepa.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Tor Lundvall',
+  href: 'http://en.wikipedia.org/wiki/Tor_Lundvall',
+  mentions: 
+   [ { sectionHeader: 'Art',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 972,
+       quote: [ 'Lundvall has also produced cover art for Gonzalo Rubalcaba\'s "Solo" CD (2006) and Miles Davis\'s "The Blue Note and Capitol Recordings" CD box-set reissue (1993), both released on Blue Note Records.' ] } ] }

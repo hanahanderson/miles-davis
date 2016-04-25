@@ -1,0 +1,8 @@
+{ name: 'Frances the Mute',
+  href: 'http://en.wikipedia.org/wiki/Frances_the_Mute',
+  mentions: 
+   [ { sectionHeader: 'Sound',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 8026,
+       quote: [ 'Rodriguez-Lopez said of the song: "Ever since I was a teenager, and had various listening experiences with the likes of King Crimson, John Coltrane, and Miles Davis\'s Bitches Brew, I\'ve always wanted to do something like "Cassandra".' ] } ] }

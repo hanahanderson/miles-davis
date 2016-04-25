@@ -1,0 +1,8 @@
+{ name: '\'N Gatz We Truss',
+  href: 'http://en.wikipedia.org/wiki/%27N_Gatz_We_Truss',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2243,
+       quote: [ '"Tutu" by Miles Davis' ] } ] }

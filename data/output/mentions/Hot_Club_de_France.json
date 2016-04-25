@@ -1,0 +1,17 @@
+{ name: 'Hot Club de France',
+  href: 'http://en.wikipedia.org/wiki/Hot_Club_de_France',
+  mentions: 
+   [ { sectionHeader: 'Festivals',
+       sectionSubHeader: '',
+       sectionIndex: 43,
+       wordCountBeforeSection: 15188,
+       quote: 
+        [ 'The festival in 1949 featured Sidney Bechet and the Charlie Parker Quintet with Miles Davis, along with Dizzy Gillepsie, Thelonious Monk, Mary Lou Williams, Gerry Mulligan, Tadd Dameron.',
+          'This festival was a celebration of old and young musicians which helped promote different aspects of the developing music, as well as allowing musicians like Miles Davis to see another side of the music and its fans.' ] },
+     { sectionHeader: 'Festivals',
+       sectionSubHeader: '',
+       sectionIndex: 43,
+       wordCountBeforeSection: 15188,
+       quote: 
+        [ 'The festival in 1949 featured Sidney Bechet and the Charlie Parker Quintet with Miles Davis, along with Dizzy Gillepsie, Thelonious Monk, Mary Lou Williams, Gerry Mulligan, Tadd Dameron.',
+          'This festival was a celebration of old and young musicians which helped promote different aspects of the developing music, as well as allowing musicians like Miles Davis to see another side of the music and its fans.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Peter Best (composer)',
+  href: 'http://en.wikipedia.org/wiki/Peter_Best_(composer)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1054,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2955,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

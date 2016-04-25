@@ -1,0 +1,8 @@
+{ name: 'John Bettis',
+  href: 'http://en.wikipedia.org/wiki/John_Bettis',
+  mentions: 
+   [ { sectionHeader: 'Songwriting career',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 5178,
+       quote: [ 'Thriller became the best selling record of all time, and "Human Nature" has since been recorded by Boyz II Men, Miles Davis, John Mayer, George Howard and David Benoit.' ] } ] }

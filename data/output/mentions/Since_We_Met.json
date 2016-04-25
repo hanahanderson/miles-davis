@@ -1,0 +1,8 @@
+{ name: 'Since We Met',
+  href: 'http://en.wikipedia.org/wiki/Since_We_Met',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2310,
+       quote: [ 'Miles Davis' ] } ] }

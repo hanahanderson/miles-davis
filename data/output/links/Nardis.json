@@ -1,0 +1,31 @@
+{ name: 'Nardis',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Nardis',
+  values: 
+   { 'dbo:wikiPageDisambiguates': 
+      [ { value: 'dbr:Cascate_Nardis',
+          href: 'http://dbpedia.org/resource/Cascate_Nardis' },
+        { value: 'dbr:Nardis_(composition)',
+          href: 'http://dbpedia.org/resource/Nardis_(composition)' },
+        { value: 'dbr:Nardis_Records',
+          href: 'http://dbpedia.org/resource/Nardis_Records' } ],
+     'dbo:wikiPageID': [ { value: '36531665 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '593034076 (xsd:integer)' } ],
+     'rdfs:label': [ { value: 'Nardis (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Nardis',
+          href: 'http://wikidata.dbpedia.org/resource/Q6965731' },
+        { value: 'wikidata:Nardis',
+          href: 'http://www.wikidata.org/entity/Q6965731' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Nardis?oldid=593034076',
+          href: 'http://en.wikipedia.org/wiki/Nardis?oldid=593034076' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Nardis',
+          href: 'http://en.wikipedia.org/wiki/Nardis' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Nardis_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Nardis_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Nardis',
+          href: 'http://en.wikipedia.org/wiki/Nardis' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Music of Cuba',
+  href: 'http://en.wikipedia.org/wiki/Music_of_Cuba',
+  mentions: 
+   [ { sectionHeader: 'Diversification and popularization',
+       sectionSubHeader: '',
+       sectionIndex: 291,
+       wordCountBeforeSection: 93854,
+       quote: [ 'Tata Güines, a famous conguero, moved to New York City in 1957, playing with jazz players such as Dizzy Gillespie, Maynard Ferguson, and Miles Davis at Birdland.' ] } ] }

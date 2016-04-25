@@ -1,0 +1,13 @@
+{ name: 'Magic Labyrinth',
+  href: 'http://en.wikipedia.org/wiki/Magic_Labyrinth',
+  mentions: 
+   [ { sectionHeader: 'Review',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 600,
+       quote: [ 'Magic Labyrinth brings together individual compositions by the musician, one collaborative work between Johnson, Muthspiel and Tunçboyaciyan, and additional two delicate compositions by Miles Davis and Hermeto Pascoal.' ] },
+     { sectionHeader: 'Credits',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1619,
+       quote: [ 'Miles Davis - composer (track # 3)' ] } ] }

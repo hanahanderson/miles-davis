@@ -1,0 +1,38 @@
+{ name: 'Nardis (composition)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Nardis_(composition)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Nardis" is a composition by American jazz musician Miles Davis. It was written in 1958, during Davis\'s modal period, to be played by Cannonball Adderley for the album Portrait of Cannonball. The piece has come to be associated with pianist Bill Evans, who recorded it repeatedly. (en)' } ],
+     'dbo:wikiPageID': [ { value: '35974020 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682109156 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_compositions',
+          href: 'http://dbpedia.org/resource/Category:Jazz_compositions' },
+        { value: 'dbc:1950s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1950s_jazz_standards' },
+        { value: 'dbc:Compositions_by_Miles_Davis',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_Miles_Davis' } ],
+     'rdfs:comment': [ { value: '"Nardis" is a composition by American jazz musician Miles Davis. It was written in 1958, during Davis\'s modal period, to be played by Cannonball Adderley for the album Portrait of Cannonball. The piece has come to be associated with pianist Bill Evans, who recorded it repeatedly. (en)' } ],
+     'rdfs:label': [ { value: 'Nardis (composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Nardis (composition)',
+          href: 'http://rdf.freebase.com/ns/m.0j_3_rq' },
+        { value: 'dbpedia-wikidata:Nardis (composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17061440' },
+        { value: 'wikidata:Nardis (composition)',
+          href: 'http://www.wikidata.org/entity/Q17061440' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Nardis_(composition)?oldid=682109156',
+          href: 'http://en.wikipedia.org/wiki/Nardis_(composition)?oldid=682109156' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Nardis_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Nardis_(composition)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Nardis',
+          href: 'http://dbpedia.org/resource/Nardis' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Nardis_(compostition)',
+          href: 'http://dbpedia.org/resource/Nardis_(compostition)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Nardis_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Nardis_(composition)' } ] } }

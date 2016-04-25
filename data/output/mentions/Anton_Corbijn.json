@@ -1,0 +1,8 @@
+{ name: 'Anton Corbijn',
+  href: 'http://en.wikipedia.org/wiki/Anton_Corbijn',
+  mentions: 
+   [ { sectionHeader: 'Photography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3229,
+       quote: [ 'Corbijn has photographed Bob Dylan, Joy Division, Depeche Mode, Tom Waits, Bruce Springsteen, Prāta Vētra, Peter Hammill, Miles Davis, Björk, Captain Beefheart, Kim Wilde, Marc Almond, Robert De Niro, Stephen Hawking, Elvis Costello, Siouxsie and the Banshees, Morrissey, Peter Murphy, Simple Minds, Clint Eastwood, The Cramps, Roxette, Herbert Grönemeyer, Annie Lennox, and Eurythmics, amongst others.' ] } ] }

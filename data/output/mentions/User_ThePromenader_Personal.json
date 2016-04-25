@@ -1,0 +1,8 @@
+{ name: 'User:ThePromenader/Personal',
+  href: 'http://en.wikipedia.org/wiki/User:ThePromenader/Personal',
+  mentions: 
+   [ { sectionHeader: 'Favourite Musicians/Music',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 448,
+       quote: [ 'Miles Davis' ] } ] }

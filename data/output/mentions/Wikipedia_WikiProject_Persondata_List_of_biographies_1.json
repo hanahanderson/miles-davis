@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject Persondata/List of biographies/1',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Persondata/List_of_biographies/1',
+  mentions: 
+   [ { sectionHeader: '4201 to 4300',
+       sectionSubHeader: '',
+       sectionIndex: 88,
+       wordCountBeforeSection: 70523,
+       quote: [ 'Miles Davis' ] } ] }

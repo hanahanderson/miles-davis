@@ -1,0 +1,8 @@
+{ name: 'Duo Live in Concert',
+  href: 'http://en.wikipedia.org/wiki/Duo_Live_in_Concert',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 869,
+       quote: [ '"All Blues" (Miles Davis) - 6:04 Bonus track on CD' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Hooteroll?',
+  href: 'http://en.wikipedia.org/wiki/Hooteroll%3F',
+  mentions: 
+   [ { sectionHeader: 'Cover',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1183,
+       quote: [ 'Other paintings by Klarwein were used for the cover and gatefold art of the Miles Davis album Bitches Brew.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Martin Fröst',
+  href: 'http://en.wikipedia.org/wiki/Martin_Fr%C3%B6st',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Albums',
+       sectionIndex: 26,
+       wordCountBeforeSection: 5960,
+       quote: [ 'Miles Davis (1984)' ] } ] }

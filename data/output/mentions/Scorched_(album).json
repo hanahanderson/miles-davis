@@ -1,0 +1,8 @@
+{ name: 'Scorched (album)',
+  href: 'http://en.wikipedia.org/wiki/Scorched_(album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2734,
+       quote: [ 'Miles Davis' ] } ] }

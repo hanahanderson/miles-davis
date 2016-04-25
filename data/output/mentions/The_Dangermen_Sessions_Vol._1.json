@@ -1,0 +1,8 @@
+{ name: 'The Dangermen Sessions Vol. 1',
+  href: 'http://en.wikipedia.org/wiki/The_Dangermen_Sessions_Vol._1',
+  mentions: 
+   [ { sectionHeader: 'The Dangermen',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2375,
+       quote: [ 'Suggs – Robert Chaos "The Poet", found in a Gladstone bag at the feet of Miles Davis by Dexter Gordon, and a founding member of The Dangermen.' ] } ] }

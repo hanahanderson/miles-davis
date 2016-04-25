@@ -1,0 +1,8 @@
+{ name: '1926 in the United States',
+  href: 'http://en.wikipedia.org/wiki/1926_in_the_United_States',
+  mentions: 
+   [ { sectionHeader: 'Births',
+       sectionSubHeader: 'Ongoing',
+       sectionIndex: 27,
+       wordCountBeforeSection: 8879,
+       quote: [ 'May 26 – Miles Davis, jazz musician (died 1991)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'John Eliot Gardiner',
+  href: 'http://en.wikipedia.org/wiki/John_Eliot_Gardiner',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 10971,
+       quote: [ 'Miles Davis (1984)' ] } ] }

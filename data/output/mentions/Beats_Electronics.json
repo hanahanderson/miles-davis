@@ -1,0 +1,8 @@
+{ name: 'Beats Electronics',
+  href: 'http://en.wikipedia.org/wiki/Beats_Electronics',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 4872,
+       quote: [ 'Iovine also commented on how other headphone makers had attempted to emulate Beats\' celebrity endorsement business model (including Monster themselves, who unveiled Earth, Wind and Fire and Miles Davis-themed headphones at the 2012 Consumer Electronics Show), stating that "some of our competitors are cheap engineers who have never been to a recording studio.' ] } ] }

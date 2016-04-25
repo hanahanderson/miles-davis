@@ -1,0 +1,8 @@
+{ name: 'Introducing Kenny Garrett',
+  href: 'http://en.wikipedia.org/wiki/Introducing_Kenny_Garrett',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 462,
+       quote: [ 'At the time he recorded this set, altoist Kenny Garrett was 24, had played with Mercer Ellington\'s big band, and was freelancing in New York. (His association with Miles Davis would not begin for a few more years.) A measure of the strong reputation Garrett already had is that his sidemen include trumpeter Woody Shaw and pianist Mulgrew Miller; bassist Nat Reeves and drummer Tony Reedus complete the quintet.' ] } ] }

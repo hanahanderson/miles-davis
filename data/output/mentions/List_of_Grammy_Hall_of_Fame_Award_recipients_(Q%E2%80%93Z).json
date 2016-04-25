@@ -1,0 +1,8 @@
+{ name: 'List of Grammy Hall of Fame Award recipients (Q–Z)',
+  href: 'http://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)',
+  mentions: 
+   [ { sectionHeader: 'Alphabetical listing by title',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 262,
+       quote: [ 'Miles Davis And Gil Evans' ] } ] }

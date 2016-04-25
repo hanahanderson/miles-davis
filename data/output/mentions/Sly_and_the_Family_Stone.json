@@ -1,0 +1,8 @@
+{ name: 'Sly and the Family Stone',
+  href: 'http://en.wikipedia.org/wiki/Sly_and_the_Family_Stone',
+  mentions: 
+   [ { sectionHeader: 'Style and legacy',
+       sectionSubHeader: 'Sly Stone\'s later career',
+       sectionIndex: 48,
+       wordCountBeforeSection: 22442,
+       quote: [ 'Miles Davis was similarly inspired by the band and worked with Sly Stone on his recordings, resulting in On the Corner; the sartorial and band lineup changes hallmarked jazz fusion.' ] } ] }

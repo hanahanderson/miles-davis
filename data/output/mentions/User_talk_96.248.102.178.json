@@ -1,0 +1,18 @@
+{ name: 'User talk:96.248.102.178',
+  href: 'http://en.wikipedia.org/wiki/User_talk:96.248.102.178',
+  mentions: 
+   [ { sectionHeader: 'February 2013',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 961,
+       quote: [ 'The following is the log entry regarding this message: Miles Davis was changed by 96.248.102.178 (u) (t) ANN scored at 0.951349 on 2013-02-08T15:11:57+00:00 .' ] },
+     { sectionHeader: 'February 2013',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1440,
+       quote: [ ' Please refrain from making unconstructive edits to Wikipedia, as you did at Miles Davis with this edit.' ] },
+     { sectionHeader: 'February 2013',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1440,
+       quote: [] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Lynyrd Skynyrd',
+  href: 'http://en.wikipedia.org/wiki/Lynyrd_Skynyrd',
+  mentions: 
+   [ { sectionHeader: 'Recognition',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 23827,
+       quote: [ 'On November 28, 2005, the Rock and Roll Hall of Fame announced that Lynyrd Skynyrd would be inducted alongside Black Sabbath, Blondie, Miles Davis, and the Sex Pistols.' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'Literature',
+       sectionIndex: 76,
+       wordCountBeforeSection: 36845,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Nearness of You (Houston Person album)',
+  href: 'http://en.wikipedia.org/wiki/The_Nearness_of_You_(Houston_Person_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 793,
+       quote: [ '"Freddie the Freeloader" (Miles Davis) - 5:29' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jordi Savall',
+  href: 'http://en.wikipedia.org/wiki/Jordi_Savall',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 6302,
+       quote: [ 'Miles Davis (1984)' ] } ] }

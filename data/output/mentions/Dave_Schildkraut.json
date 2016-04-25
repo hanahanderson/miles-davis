@@ -1,0 +1,8 @@
+{ name: 'Dave Schildkraut',
+  href: 'http://en.wikipedia.org/wiki/Dave_Schildkraut',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 91,
+       quote: [ 'Following this he played with Buddy Rich (1946), Anita O\'Day (1947), Stan Kenton (1953–54), Pete Rugolo (1954), Oscar Pettiford (1954), Miles Davis ("Solar" on: Walkin\', Prestige, 1954), George Handy (1955), Tony Aless (1955), Ralph Burns, Tito Puente, Johnny Richards, and Kenton again in 1959.' ] } ] }

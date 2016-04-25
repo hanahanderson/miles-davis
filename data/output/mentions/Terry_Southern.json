@@ -1,0 +1,13 @@
+{ name: 'Terry Southern',
+  href: 'http://en.wikipedia.org/wiki/Terry_Southern',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3151,
+       quote: [ 'Southern frequented the Cinémathèque Française in Paris and saw jazz performances by leading bebop musicians including Charlie Parker, Dizzy Gillespie, Bud Powell, Thelonious Monk, and Miles Davis, evoked in his classic "You\'re Too Hip, Baby".' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 102,
+       wordCountBeforeSection: 44621,
+       quote: [ 'Nevertheless, Southern facilitated the booking of Miles Davis as musical guest for the October 17 show in support of The Man with the Horn (a significant public appearance following the trumpeter\'s 1975–1980 musical interregnum) and arranged for Burroughs—who read selections from his oeuvre at a desk—to appear as a guest performer during the November 7th episode; it would be the writer\'s first appearance on American national television.' ] } ] }

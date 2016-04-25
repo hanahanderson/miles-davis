@@ -1,0 +1,8 @@
+{ name: 'Oh! (ScoLoHoFo album)',
+  href: 'http://en.wikipedia.org/wiki/Oh!_(ScoLoHoFo_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 845,
+       quote: [ 'Miles Davis' ] } ] }

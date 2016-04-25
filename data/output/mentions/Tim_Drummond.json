@@ -1,0 +1,8 @@
+{ name: 'Tim Drummond',
+  href: 'http://en.wikipedia.org/wiki/Tim_Drummond',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 53,
+       quote: [ 'Cale, Mother Earth, Lonnie Mack, Miles Davis, B.B. King, Joe Cocker, Albert Collins, Joe Henry, Jewel, Essra Mohawk, and many others.' ] } ] }

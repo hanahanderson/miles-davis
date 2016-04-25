@@ -1,0 +1,8 @@
+{ name: 'John Lee Hooker',
+  href: 'http://en.wikipedia.org/wiki/John_Lee_Hooker',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 42,
+       wordCountBeforeSection: 12771,
+       quote: [ '(with Miles Davis & Taj Mahal)' ] } ] }

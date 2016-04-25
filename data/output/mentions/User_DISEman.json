@@ -1,0 +1,8 @@
+{ name: 'User:DISEman',
+  href: 'http://en.wikipedia.org/wiki/User:DISEman',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

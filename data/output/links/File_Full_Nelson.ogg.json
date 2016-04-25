@@ -1,0 +1,9 @@
+{ name: 'File:Full Nelson.ogg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Full_Nelson.ogg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '45680791 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '651522196 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Full_Nelson.ogg?oldid=651522196',
+          href: 'http://en.wikipedia.org/wiki/File:Full_Nelson.ogg?oldid=651522196' } ] } }

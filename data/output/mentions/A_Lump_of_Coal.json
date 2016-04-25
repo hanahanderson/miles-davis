@@ -1,0 +1,8 @@
+{ name: 'A Lump of Coal',
+  href: 'http://en.wikipedia.org/wiki/A_Lump_of_Coal',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 658,
+       quote: [ '"Blue X-mas (To Whom It May Concern)" – Drnken Boat (originally recorded by Miles Davis) — 4:19' ] } ] }

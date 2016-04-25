@@ -1,0 +1,96 @@
+{ name: 'Local on the 8s',
+  entityType: 'television show',
+  href: 'http://dbpedia.org/page/Local_on_the_8s',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '5.0' }, { value: '1.0' } ],
+     'dbo:abstract': [ { value: 'Local on the 8s (or the Local Forecast) is a program segment that airs on the American cable and satellite television network The Weather Channel. It provides viewers with information on current and forecasted weather conditions for their respective area; a version of this segment is also available on the channel\'s national satellite feed that features forecasts for each region of the United States. The name "Local on the 8s" comes from the timing of the segment, as airs at timeslots that end in "8" (for example, 9:18 or 12:48); because of this manner of scheduling, the forecast segments air on the channel in ten-minute intervals. From 2006-2013, each forecast segment has usually been preceded by a promo for one of The Weather Channel\'s programs or services, leading into the segment with the announcer stating "And now, your Local on the 8s". On November 12, 2013 the promo segment was replaced by an intro that was built into the Local on the 8s segment. (en)' } ],
+     'dbo:country': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' } ],
+     'dbo:format': 
+      [ { value: 'dbr:480i', href: 'http://dbpedia.org/resource/480i' },
+        { value: 'dbr:1080i',
+          href: 'http://dbpedia.org/resource/1080i' } ],
+     'dbo:language': 
+      [ { value: 'dbr:English_language',
+          href: 'http://dbpedia.org/resource/English_language' } ],
+     'dbo:narrator': 
+      [ { value: 'dbr:Jim_Cantore',
+          href: 'http://dbpedia.org/resource/Jim_Cantore' },
+        { value: 'dbr:IntelliStar',
+          href: 'http://dbpedia.org/resource/IntelliStar' } ],
+     'dbo:network': 
+      [ { value: 'dbr:The_Weather_Channel',
+          href: 'http://dbpedia.org/resource/The_Weather_Channel' } ],
+     'dbo:releaseDate': [ { value: '1982-05-02 (xsd:date)' } ],
+     'dbo:runtime': 
+      [ { value: '60.000000 (xsd:double)' },
+        { value: '300.000000 (xsd:double)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wikipedia-en:Special:FilePath/Local_on_the_8s_logo.png?width=300',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Local_on_the_8s_logo.png?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.weather.com',
+          href: 'http://www.weather.com' } ],
+     'dbo:wikiPageID': [ { value: '2191307 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683092712 (xsd:integer)' } ],
+     'dbp:caption': [ { value: '8.0' } ],
+     'dbp:composer': [ { value: 'Various (en)' } ],
+     'dbp:country': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' } ],
+     'dbp:firstAired': [ { value: '1982-05-02 (xsd:date)' } ],
+     'dbp:language': 
+      [ { value: 'dbr:English_language',
+          href: 'http://dbpedia.org/resource/English_language' } ],
+     'dbp:lastAired': [ { value: 'present (en)' } ],
+     'dbp:narrated': 
+      [ { value: 'dbr:Jim_Cantore',
+          href: 'http://dbpedia.org/resource/Jim_Cantore' },
+        { value: 'Allen Jackson (en)' },
+        { value: 'Dan Chandler (en)' } ],
+     'dbp:network': 
+      [ { value: 'dbr:The_Weather_Channel',
+          href: 'http://dbpedia.org/resource/The_Weather_Channel' } ],
+     'dbp:pictureFormat': 
+      [ { value: '480 (xsd:integer)' },
+        { value: '1080 (xsd:integer)' } ],
+     'dbp:runtime': [ { value: '300.0' }, { value: '60.0' } ],
+     'dbp:showName': [ { value: '8.0' }, { value: 'Local Forecast (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:The_Weather_Channel',
+          href: 'http://dbpedia.org/resource/Category:The_Weather_Channel' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q15416',
+          href: 'http://www.wikidata.org/entity/Q15416' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:TelevisionShow',
+          href: 'http://dbpedia.org/ontology/TelevisionShow' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: 'Local on the 8s (or the Local Forecast) is a program segment that airs on the American cable and satellite television network The Weather Channel. It provides viewers with information on current and forecasted weather conditions for their respective area; a version of this segment is also available on the channel\'s national satellite feed that features forecasts for each region of the United States. (en)' } ],
+     'rdfs:label': [ { value: 'Local on the 8s (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Local on the 8s',
+          href: 'http://rdf.freebase.com/ns/m.04_1l2b' },
+        { value: 'dbpedia-wikidata:Local on the 8s',
+          href: 'http://wikidata.dbpedia.org/resource/Q6664466' },
+        { value: 'wikidata:Local on the 8s',
+          href: 'http://www.wikidata.org/entity/Q6664466' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Local_on_the_8s?oldid=683092712',
+          href: 'http://en.wikipedia.org/wiki/Local_on_the_8s?oldid=683092712' } ],
+     'foaf:depiction': 
+      [ { value: 'wikipedia-en:Special:FilePath/Local_on_the_8s_logo.png',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Local_on_the_8s_logo.png' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Local_on_the_8s',
+          href: 'http://en.wikipedia.org/wiki/Local_on_the_8s' } ],
+     'foaf:name': [ { value: 'Local on the 8s (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Local_on_the_8s',
+          href: 'http://en.wikipedia.org/wiki/Local_on_the_8s' } ] } }

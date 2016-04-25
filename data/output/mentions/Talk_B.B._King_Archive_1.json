@@ -1,0 +1,8 @@
+{ name: 'Talk:B.B. King/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:B.B._King/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'incomprehensible bits',
+       sectionSubHeader: 'More deleted trivia',
+       sectionIndex: 107,
+       wordCountBeforeSection: 22893,
+       quote: [ 'Among his jazz colleagues like Dizzy Gillespie, Miles Davis and Charlie Parker, King once said, "What they did, simply went over my horizon."' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jann Haworth',
+  href: 'http://en.wikipedia.org/wiki/Jann_Haworth',
+  mentions: 
+   [ { sectionHeader: 'Life and work',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 7564,
+       quote: [ 'Among the over 100 new people selected for SLC PEPPER are: Adbusters, Akira Kurosawa, Alice, Alice Walker, Annie Lennox, Banksy\'s Rat, B.B. King, Beastie Boys, Benicio del Toro, Billie Holiday, Björk, Bob Marley, César Chávez, Charlize Theron, Cindy Sherman, Dalai Lama, David Bowie, David Hockney, Ellen DeGeneres, Erykah Badu, Eudora Welty, Enid (Thora Birch), Eve Ensler, Felix the Cat, Frank Zappa, Frida Kahlo, Garrison Keillor, Gandhi, Mikhail Gorbachev, Gore Vidal, Guerrilla Girls, Harvey Pekar, Hedwig, Howard Zinn, Jackie Robinson, Jane Goodall, Jean-Michel Basquiat, Jeff Bridges, Katharine Hepburn, Laurie Anderson, Lee Krasner, Louise Brooks, Martin Luther King, Jr., Maya Angelou, Maya Lin, Miles Davis, Mother Jones, Muddy Waters, Nelson Mandela, Pablo Picasso, Peter Gabriel, Robert Rauschenberg, Ray Charles, Richard Feynman, Rosa Parks, Samuel Beckett, Sylvia Plath, Sojourner Truth, Terry Gilliam, Tom Waits, Thom Yorke, Toni Morrison, Tony Kushner.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Continuum (album)',
+  href: 'http://en.wikipedia.org/wiki/The_Continuum_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1557,
+       quote: [ '"All Blues" (Miles Davis) – 7:08' ] } ] }

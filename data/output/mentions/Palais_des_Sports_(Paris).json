@@ -1,0 +1,8 @@
+{ name: 'Palais des Sports (Paris)',
+  href: 'http://en.wikipedia.org/wiki/Palais_des_Sports_(Paris)',
+  mentions: 
+   [ { sectionHeader: 'Concerts (artists alphabetic order)',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1821,
+       quote: [ 'Miles Davis (1973/1988)' ] } ] }

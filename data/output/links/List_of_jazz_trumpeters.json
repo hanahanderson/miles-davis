@@ -1,0 +1,44 @@
+{ name: 'List of jazz trumpeters',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_jazz_trumpeters',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is an alphabetical list of jazz trumpeters for whom Wikipedia has articles. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://pubcs.free.fr/jg/jazz_trumpet_transcriptions_jacques_gilbert_english.html',
+          href: 'http://pubcs.free.fr/jg/jazz_trumpet_transcriptions_jacques_gilbert_english.html' },
+        { value: 'http://www.downbeat.com/default.asp?sect=artists',
+          href: 'http://www.downbeat.com/default.asp?sect=artists' } ],
+     'dbo:wikiPageID': [ { value: '442770 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683217407 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_trumpeters',
+          href: 'http://dbpedia.org/resource/Category:Jazz_trumpeters' },
+        { value: 'dbc:Lists_of_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_jazz_musicians' } ],
+     'rdfs:comment': [ { value: 'This is an alphabetical list of jazz trumpeters for whom Wikipedia has articles. (en)' } ],
+     'rdfs:label': [ { value: 'List of jazz trumpeters (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:List of jazz trumpeters',
+          href: 'http://fr.dbpedia.org/resource/Liste_des_trompettistes_de_jazz' },
+        { value: 'dbpedia-pt:List of jazz trumpeters',
+          href: 'http://pt.dbpedia.org/resource/Lista_de_trompetistas_de_jazz' },
+        { value: 'dbpedia-wikidata:List of jazz trumpeters',
+          href: 'http://wikidata.dbpedia.org/resource/Q3097713' },
+        { value: 'wikidata:List of jazz trumpeters',
+          href: 'http://www.wikidata.org/entity/Q3097713' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_jazz_trumpeters?oldid=683217407',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_trumpeters?oldid=683217407' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_jazz_trumpeters',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_trumpeters' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Jazz_Trumpeters',
+          href: 'http://dbpedia.org/resource/Jazz_Trumpeters' },
+        { value: 'dbr:List_of_Jazz_Trumpeters',
+          href: 'http://dbpedia.org/resource/List_of_Jazz_Trumpeters' },
+        { value: 'dbr:List_of_jazz_trumpet_players',
+          href: 'http://dbpedia.org/resource/List_of_jazz_trumpet_players' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_jazz_trumpeters',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_trumpeters' } ] } }

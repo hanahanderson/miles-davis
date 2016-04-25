@@ -1,0 +1,8 @@
+{ name: 'Shifty Henry',
+  href: 'http://en.wikipedia.org/wiki/Shifty_Henry',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1557,
+       quote: [ 'Henry recorded with and arranged for the elite of jazz and rhythm and blues, including Dinah Washington, Billy Eckstine, Dizzy Gillespie, Charles Mingus, The Treniers, Illinois Jacquet, and Miles Davis.' ] } ] }

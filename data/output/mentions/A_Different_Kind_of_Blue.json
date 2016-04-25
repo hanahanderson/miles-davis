@@ -1,0 +1,13 @@
+{ name: 'A Different Kind of Blue',
+  href: 'http://en.wikipedia.org/wiki/A_Different_Kind_of_Blue',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 91,
+       quote: [ 'Miles Electric: A Different Kind of Blue is a 2004 DVD presenting footage of Miles Davis\' performance at the British Isle of Wight Festival on August 29, 1970.' ] } ] }

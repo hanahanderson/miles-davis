@@ -1,0 +1,8 @@
+{ name: 'Nothing to Fear (MC Lars album)',
+  href: 'http://en.wikipedia.org/wiki/Nothing_to_Fear_(MC_Lars_album)',
+  mentions: 
+   [ { sectionHeader: 'Tracks listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 670,
+       quote: [ 'Miles Davis\' Calculator' ] } ] }

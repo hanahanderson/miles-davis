@@ -1,0 +1,11 @@
+{ name: 'Wikipedia:Version 0.5',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Version_0.5',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'wikidata:Q15869541',
+          href: 'http://www.wikidata.org/entity/Q15869541' },
+        { value: 'dbpedia-fr:Projet:Wikipédia_1.0/Version_0.5',
+          href: 'http://fr.dbpedia.org/resource/Projet:Wikipédia_1.0/Version_0.5' },
+        { value: 'dbpedia-wikidata:Q15869541',
+          href: 'http://wikidata.dbpedia.org/resource/Q15869541' } ] } }

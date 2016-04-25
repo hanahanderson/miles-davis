@@ -1,0 +1,8 @@
+{ name: 'Nic Endo',
+  href: 'http://en.wikipedia.org/wiki/Nic_Endo',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1495,
+       quote: [ 'Endo has spoken about her appreciation for Alice Coltrane, James Chance, Miles Davis, Jimi Hendrix, Destroy All Monsters, Freddie Hubbard, Led Zeppelin, Maya Deren, John Coltrane, Brainticket, the Velvet Underground, the Doors, Neu!, and Sun Ra.' ] } ] }

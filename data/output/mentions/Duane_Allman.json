@@ -1,0 +1,8 @@
+{ name: 'Duane Allman',
+  href: 'http://en.wikipedia.org/wiki/Duane_Allman',
+  mentions: 
+   [ { sectionHeader: 'Success: Layla, At Fillmore East',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 12640,
+       quote: [ 'During this period two of his stated influences were Miles Davis and John Coltrane.' ] } ] }

@@ -1,0 +1,10 @@
+{ name: 'Children of Passions',
+  href: 'http://en.wikipedia.org/wiki/Children_of_Passions',
+  mentions: 
+   [ { sectionHeader: 'Miles Harris-Crane',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 13393,
+       quote: 
+        [ 'Miles Davis Harris-Crane (born Miles Davis Harris) is the eldest child of Chad Harris-Crane and Whitney Russell.',
+          'Chad, who is still in love with Whitney despite the fact that she is his half-sister, tries to use "their" son to woo her back; together, they name the baby Miles Davis Harris after the legendary jazz musician of the same name.' ] } ] }

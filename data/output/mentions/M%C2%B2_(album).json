@@ -1,0 +1,8 @@
+{ name: 'M² (album)',
+  href: 'http://en.wikipedia.org/wiki/M%C2%B2_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 2945,
+       quote: [ 'Miles Davis' ] } ] }

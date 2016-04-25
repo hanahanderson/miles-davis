@@ -1,0 +1,13 @@
+{ name: 'Mtume',
+  href: 'http://en.wikipedia.org/wiki/Mtume',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 203,
+       quote: [ 'Stephanie Mills, Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 724,
+       quote: [ 'Its founder, former percussionist James Mtume, previously played and toured with Miles Davis in the early 1970s.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Talk:Al Green',
+  href: 'http://en.wikipedia.org/wiki/Talk:Al_Green',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 5688,
+       quote: [ '6 Miles Davis\' legendary quote' ] },
+     { sectionHeader: 'Miles Davis\' legendary quote',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 10143,
+       quote: [ 'Still searching for a source for a fan\'s quote I\'d heard, back in the 1970s, and attributed to the late jazz trumpet player, Miles Davis.' ] } ] }

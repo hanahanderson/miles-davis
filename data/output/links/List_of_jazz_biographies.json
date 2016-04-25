@@ -1,0 +1,29 @@
+{ name: 'List of jazz biographies',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_jazz_biographies',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of English language book-length biographies and autobiographies of notable jazz musicians. The list is alphabetical by subject. Within subject, books are listed alphabetically by author. A list of related works contains books of related interest that do not meet the criteria for the main list: biographical collections, interview collections, and so on. This list is alphabetical by author. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.allmusic.com',
+          href: 'http://www.allmusic.com' } ],
+     'dbo:wikiPageID': [ { value: '24674695 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677629230 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Biographies_about_musicians',
+          href: 'http://dbpedia.org/resource/Category:Biographies_about_musicians' } ],
+     'rdfs:comment': [ { value: 'This is a list of English language book-length biographies and autobiographies of notable jazz musicians. The list is alphabetical by subject. Within subject, books are listed alphabetically by author. A list of related works contains books of related interest that do not meet the criteria for the main list: biographical collections, interview collections, and so on. This list is alphabetical by author. (en)' } ],
+     'rdfs:label': [ { value: 'List of jazz biographies (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of jazz biographies',
+          href: 'http://wikidata.dbpedia.org/resource/Q6624536' },
+        { value: 'wikidata:List of jazz biographies',
+          href: 'http://www.wikidata.org/entity/Q6624536' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_jazz_biographies?oldid=677629230',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_biographies?oldid=677629230' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_jazz_biographies',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_biographies' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_jazz_biographies',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_biographies' } ] } }

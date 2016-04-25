@@ -1,0 +1,13 @@
+{ name: 'Bernard Purdie',
+  href: 'http://en.wikipedia.org/wiki/Bernard_Purdie',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 58,
+       quote: [ 'James Brown, Jeff Beck, Hummingbird, Steely Dan, Aretha Franklin, Gil Scott-Heron, King Curtis, The Rolling Stones, Miles Davis, Dizzy Gillespie, Randy Brecker, Quincy Jones, Hall & Oates, Isaac Hayes, Cat Stevens, Hair, Sgt.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 6891,
+       quote: [ 'Miles Davis - Get Up with It (1972)' ] } ] }

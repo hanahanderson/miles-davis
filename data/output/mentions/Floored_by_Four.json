@@ -1,0 +1,8 @@
+{ name: 'Floored by Four',
+  href: 'http://en.wikipedia.org/wiki/Floored_by_Four',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 151,
+       quote: [ 'They were inspired by Sun Ra, Miles Davis, Captain Beefheart and Sonic Youth among others.' ] } ] }

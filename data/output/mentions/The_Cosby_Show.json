@@ -1,0 +1,8 @@
+{ name: 'The Cosby Show',
+  href: 'http://en.wikipedia.org/wiki/The_Cosby_Show',
+  mentions: 
+   [ { sectionHeader: 'Background and production',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 8062,
+       quote: [ 'However, The Cosby Show had African-American themes, such as the Civil Rights Movement, and it frequently promoted African-American and African culture represented by artists and musicians such as Jacob Lawrence, Miles Davis, James Brown, B.B. King, Stevie Wonder, Sammy Davis, Jr., Lena Horne, Duke Ellington, Dizzy Gillespie, and Miriam Makeba.' ] } ] }

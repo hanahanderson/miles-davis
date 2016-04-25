@@ -1,0 +1,101 @@
+{ name: 'Tune-Up!',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Tune-Up!',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '37.95' } ],
+     'dbo:abstract': [ { value: 'Tune-Up! is an album by saxophonist Sonny Stitt recorded in 1972 and released on the Cobblestone label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Sonny_Stitt',
+          href: 'http://dbpedia.org/resource/Sonny_Stitt' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Just_the_Way_It_Was',
+          href: 'http://dbpedia.org/resource/Just_the_Way_It_Was' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Don_Schlitten' } ],
+     'dbo:recordDate': [ { value: '1972-02-08 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Cobblestone_Records',
+          href: 'http://dbpedia.org/resource/Cobblestone_Records' } ],
+     'dbo:runtime': [ { value: '2277.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Goin\'_Down_Slow_(album)',
+          href: 'http://dbpedia.org/resource/Goin\'_Down_Slow_(album)' } ],
+     'dbo:wikiPageID': [ { value: '38184914 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678059791 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Sonny_Stitt',
+          href: 'http://dbpedia.org/resource/Sonny_Stitt' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Sonny_Stitt',
+          href: 'http://dbpedia.org/resource/Sonny_Stitt' } ],
+     'dbp:cover': [ { value: 'Tune-Up!.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Cobblestone_Records',
+          href: 'http://dbpedia.org/resource/Cobblestone_Records' },
+        { value: 'CST 9013 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Just the Way It Was (en)' } ],
+     'dbp:length': [ { value: '2277.0' } ],
+     'dbp:name': [ { value: 'Tune-Up! (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Goin\' Down Slow (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Don_Schlitten' } ],
+     'dbp:recorded': [ { value: '1972-02-08 (xsd:date)' } ],
+     'dbp:released': [ { value: '1972 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Tune-Up! (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Cobblestone_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Cobblestone_Records_albums' },
+        { value: 'dbc:1972_albums',
+          href: 'http://dbpedia.org/resource/Category:1972_albums' },
+        { value: 'dbc:Sonny_Stitt_albums',
+          href: 'http://dbpedia.org/resource/Category:Sonny_Stitt_albums' },
+        { value: 'dbc:Albums_produced_by_Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Don_Schlitten' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Tune-Up! is an album by saxophonist Sonny Stitt recorded in 1972 and released on the Cobblestone label. (en)' } ],
+     'rdfs:label': [ { value: 'Tune-Up! (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Tune-Up!',
+          href: 'http://rdf.freebase.com/ns/m.0dvl5r3' },
+        { value: 'dbpedia-wikidata:Tune-Up!',
+          href: 'http://wikidata.dbpedia.org/resource/Q7852919' },
+        { value: 'wikidata:Tune-Up!',
+          href: 'http://www.wikidata.org/entity/Q7852919' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Tune-Up!?oldid=678059791',
+          href: 'http://en.wikipedia.org/wiki/Tune-Up!?oldid=678059791' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Tune-Up!',
+          href: 'http://en.wikipedia.org/wiki/Tune-Up!' } ],
+     'foaf:name': [ { value: 'Tune-Up! (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Goin\'_Down_Slow_(album)',
+          href: 'http://dbpedia.org/resource/Goin\'_Down_Slow_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Tune-Up!',
+          href: 'http://en.wikipedia.org/wiki/Tune-Up!' } ] } }

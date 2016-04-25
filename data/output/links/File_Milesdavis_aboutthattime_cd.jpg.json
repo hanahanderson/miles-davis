@@ -1,0 +1,12 @@
+{ name: 'File:Milesdavis aboutthattime cd.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Milesdavis_aboutthattime_cd.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '18778319 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '453087806 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Milesdavis_aboutthattime_cd.jpg?oldid=453087806',
+          href: 'http://en.wikipedia.org/wiki/File:Milesdavis_aboutthattime_cd.jpg?oldid=453087806' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Milesdavis_aboutthattime_cd.jpg',
+          href: 'http://dbpedia.org/resource/File:Milesdavis_aboutthattime_cd.jpg' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Prince Interactive',
+  href: 'http://en.wikipedia.org/wiki/Prince_Interactive',
+  mentions: 
+   [ { sectionHeader: 'Summary',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 493,
+       quote: [ 'The private club contains clips of musicians, including Eric Clapton, Little Richard, George Clinton, and Miles Davis discussing Prince.' ] } ] }

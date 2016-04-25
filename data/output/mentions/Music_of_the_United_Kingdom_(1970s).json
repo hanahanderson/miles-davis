@@ -1,0 +1,8 @@
+{ name: 'Music of the United Kingdom (1970s)',
+  href: 'http://en.wikipedia.org/wiki/Music_of_the_United_Kingdom_(1970s)',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: 'Synth rock',
+       sectionIndex: 60,
+       wordCountBeforeSection: 16769,
+       quote: [ 'Some of the most significant musicians to emerge during this period include John McLaughlin and Dave Holland (both of whom joined Miles Davis\'s group), pianists Keith Tippett and John Taylor, saxophonists Evan Parker, Mike Osborne, John Surman and Alan Skidmore, and the Canadian-born trumpeter Kenny Wheeler who had settled in Britain.' ] } ] }

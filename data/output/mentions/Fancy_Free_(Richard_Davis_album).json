@@ -1,0 +1,8 @@
+{ name: 'Fancy Free (Richard Davis album)',
+  href: 'http://en.wikipedia.org/wiki/Fancy_Free_(Richard_Davis_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 700,
+       quote: [ '"Nardis" (Miles Davis) - 4:22' ] } ] }

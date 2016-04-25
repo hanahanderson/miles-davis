@@ -1,0 +1,26 @@
+{ name: '52nd Street Themes',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/52nd_Street_Themes',
+  values: 
+   { 'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Flights_of_Fancy:_Trio_Fascination_Edition_Two',
+          href: 'http://dbpedia.org/resource/Flights_of_Fancy:_Trio_Fascination_Edition_Two' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Friendly_Fire_(Joe_Lovano_&_Greg_Osby_album)',
+          href: 'http://dbpedia.org/resource/Friendly_Fire_(Joe_Lovano_&_Greg_Osby_album)' } ] } }

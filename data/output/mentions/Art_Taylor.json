@@ -1,0 +1,13 @@
+{ name: 'Art Taylor',
+  href: 'http://en.wikipedia.org/wiki/Art_Taylor',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 490,
+       quote: [ 'Between 1957 and 1963 he toured with Donald Byrd, recorded with Miles Davis and John Coltrane, and performed with Thelonious Monk; he also was a member of the original Kenny Dorham Quartet of 1957.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'With Miles Davis' ] } ] }

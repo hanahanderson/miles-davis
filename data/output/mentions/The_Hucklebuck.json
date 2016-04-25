@@ -1,0 +1,8 @@
+{ name: 'The Hucklebuck',
+  href: 'http://en.wikipedia.org/wiki/The_Hucklebuck',
+  mentions: 
+   [ { sectionHeader: 'Original recordings',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1602,
+       quote: [ 'The tune itself was strongly influenced by "Now\'s the Time", a composition by Charlie Parker who first recorded it in 1945, also produced by Reig for the Savoy label, with a band that included Dizzy Gillespie, Miles Davis, and Max Roach.' ] } ] }

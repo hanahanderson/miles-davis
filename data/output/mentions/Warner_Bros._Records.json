@@ -1,0 +1,8 @@
+{ name: 'Warner Bros. Records',
+  href: 'http://en.wikipedia.org/wiki/Warner_Bros._Records',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 106,
+       wordCountBeforeSection: 70663,
+       quote: [ 'scored another artistic coup by signing jazz legend Miles Davis after his break with longtime label Columbia.' ] } ] }

@@ -1,0 +1,67 @@
+{ name: 'The Unfinished Conversation',
+  entityType: 'Q11424',
+  href: 'http://dbpedia.org/page/The_Unfinished_Conversation',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '103.0' } ],
+     'dbo:abstract': [ { value: 'The Unfinished Conversation is a 2013 multi-layered three-screen installation directed by John Akomfrah, co-founder of the Black Audio Film Collective. Through his celebrated technique of juxtaposing and layering archive footage with text, music and photographs, Akomfrah crosses the memory landscape of Stuart Hall, Jamaican-born founder of British Cultural Studies, to reflect on the nature and complexities of memory and identity. The Unfinished Conversation was commissioned by Autograph ABP. It opened at Tate Britain, London, on 26 October 2013. (en)' } ],
+     'dbo:director': 
+      [ { value: 'dbr:John_Akomfrah',
+          href: 'http://dbpedia.org/resource/John_Akomfrah' } ],
+     'dbo:runtime': [ { value: '6180.000000 (xsd:double)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.tate.org.uk/whats-on/tate-britain/display/bp-spotlight-john-akomfrah-unfinished-conversation',
+          href: 'http://www.tate.org.uk/whats-on/tate-britain/display/bp-spotlight-john-akomfrah-unfinished-conversation' } ],
+     'dbo:wikiPageID': [ { value: '45230714 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682140039 (xsd:integer)' } ],
+     'dbp:commissionedBy': [ { value: 'Autograph ABP (en)' } ],
+     'dbp:country': [ { value: 'United Kingdom (en)' } ],
+     'dbp:director': 
+      [ { value: 'dbr:John_Akomfrah',
+          href: 'http://dbpedia.org/resource/John_Akomfrah' } ],
+     'dbp:executiveProducer': 
+      [ { value: 'dbr:Mark_Sealy',
+          href: 'http://dbpedia.org/resource/Mark_Sealy' } ],
+     'dbp:language': [ { value: 'English (en)' } ],
+     'dbp:name': [ { value: 'The Unfinished Conversation (en)' } ],
+     'dbp:producer': 
+      [ { value: 'David Lawson (en)' },
+        { value: 'Lina Gopaul (en)' },
+        { value: 'Smoking Dogs Films (en)' } ],
+     'dbp:runtime': [ { value: '6180.0' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Films_directed_by_John_Akomfrah',
+          href: 'http://dbpedia.org/resource/Category:Films_directed_by_John_Akomfrah' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:Film', href: 'http://dbpedia.org/ontology/Film' },
+        { value: 'dbo:Wikidata:Q11424',
+          href: 'http://dbpedia.org/ontology/Wikidata:Q11424' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:Movie', href: 'http://schema.org/Movie' } ],
+     'rdfs:comment': [ { value: 'The Unfinished Conversation is a 2013 multi-layered three-screen installation directed by John Akomfrah, co-founder of the Black Audio Film Collective. Through his celebrated technique of juxtaposing and layering archive footage with text, music and photographs, Akomfrah crosses the memory landscape of Stuart Hall, Jamaican-born founder of British Cultural Studies, to reflect on the nature and complexities of memory and identity. The Unfinished Conversation was commissioned by Autograph ABP. (en)' } ],
+     'rdfs:label': [ { value: 'The Unfinished Conversation (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Unfinished Conversation',
+          href: 'http://rdf.freebase.com/ns/m.012r1wxx' },
+        { value: 'dbpedia-wikidata:The Unfinished Conversation',
+          href: 'http://wikidata.dbpedia.org/resource/Q18924422' },
+        { value: 'wikidata:The Unfinished Conversation',
+          href: 'http://www.wikidata.org/entity/Q18924422' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Unfinished_Conversation?oldid=682140039',
+          href: 'http://en.wikipedia.org/wiki/The_Unfinished_Conversation?oldid=682140039' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Unfinished_Conversation',
+          href: 'http://en.wikipedia.org/wiki/The_Unfinished_Conversation' } ],
+     'foaf:name': [ { value: 'The Unfinished Conversation (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Unfinished_Conversation',
+          href: 'http://dbpedia.org/resource/Unfinished_Conversation' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Unfinished_Conversation',
+          href: 'http://en.wikipedia.org/wiki/The_Unfinished_Conversation' } ] } }

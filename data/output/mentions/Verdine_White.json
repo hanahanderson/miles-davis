@@ -1,0 +1,8 @@
+{ name: 'Verdine White',
+  href: 'http://en.wikipedia.org/wiki/Verdine_White',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 920,
+       quote: [ 'He grew up listening to recordings of Miles Davis, John Coltrane, and other jazz musicians.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Version 0.5/Full list',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Version_0.5/Full_list',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

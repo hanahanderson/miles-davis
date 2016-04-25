@@ -1,0 +1,8 @@
+{ name: 'Cindy Blackman',
+  href: 'http://en.wikipedia.org/wiki/Cindy_Blackman',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1600,
+       quote: [ 'My mom used to take me to see classical concerts", says Blackman. "My dad was into jazz – Miles Davis, Ahmad Jamal, people like that." Blackman\'s first introduction to the drums happened when she was seven years old in her hometown of Yellow Springs, Ohio and attending a pool party at a friend\'s house, she went to use the bathroom and saw a drum set and just hopped onto the set. "It was incredible", says Blackman. "Just looking at them struck something in my core, and it was completely right from the second I saw them", says Blackman. "And then, when I hit them, it was like, wow, that\'s me.' ] } ] }

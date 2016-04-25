@@ -1,0 +1,68 @@
+{ name: 'Harmonization',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Harmonization',
+  values: 
+   { 'dbo:abstract': [ { value: 'In music, harmonization is the chordal accompaniment to a line or melody: "Using chords and melodies together, making harmony by stacking scale tones as triads".A harmonized scale can be created by using each note of a musical scale as a root note for a chord and then by taking other tones within the scale building the rest of a chord.For example, using an Ionian (major scale) the root note would become the I major chord, the second note the ii minor chord, the third note the iii minor chord, the fourth note the IV major chord, the fifth note the V major chord (or even a dominant 7th), the sixth note the vi minor chord, the seventh note the vii diminished chord and the octave would be a I major chord.Using the minor (aeolian mode) one would have: i minor, ii diminished, (♭)III major, iv minor, v minor, (♭)VI major, (♭)VII major and the i minor an octave higher.↑ ↑ ↑ ↑ (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Yankee_Doodle_harmonization.png?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Yankee_Doodle_harmonization.png?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://guitarsecrets.com/harmonizing.htm',
+          href: 'http://guitarsecrets.com/harmonizing.htm' },
+        { value: 'http://www.torvund.net/guitar/index.php?page=Th_harmscale',
+          href: 'http://www.torvund.net/guitar/index.php?page=Th_harmscale' } ],
+     'dbo:wikiPageID': [ { value: '14028384 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682844469 (xsd:integer)' } ],
+     'dbp:align': [ { value: 'right (en)' } ],
+     'dbp:caption': 
+      [ { value: 'Another harmonization . (en)' },
+        { value: 'One harmonization . (en)' } ],
+     'dbp:direction': [ { value: 'vertical (en)' } ],
+     'dbp:header': [ { value: 'Two harmonizations of "Yankee Doodle" (en)' } ],
+     'dbp:image': 
+      [ { value: 'Yankee Doodle harmonization 36.png (en)' },
+        { value: 'Yankee Doodle harmonization.png (en)' } ],
+     'dbp:width': [ { value: '350 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Musical_scales',
+          href: 'http://dbpedia.org/resource/Category:Musical_scales' },
+        { value: 'dbc:Harmony',
+          href: 'http://dbpedia.org/resource/Category:Harmony' } ],
+     'rdfs:comment': [ { value: 'In music, harmonization is the chordal accompaniment to a line or melody: "Using chords and melodies together, making harmony by stacking scale tones as triads".A harmonized scale can be created by using each note of a musical scale as a root note for a chord and then by taking other tones within the scale building the rest of a chord.For example, using an Ionian (major scale) the root note would become the I major chord, the second note the ii minor chord, the third note the iii minor chord, the fourth note the IV major chord, the fifth note the V major chord (or even a dominant 7th), the sixth note the vi minor chord, the seventh note the vii diminished chord and the octave would be a I major chord.Using the minor (aeolian mode) one would have: i minor, ii diminished, (♭)III major, iv minor, v minor, (♭)VI major, (♭)VII major and the i minor an octave higher.↑ ↑ ↑ ↑ (en)' } ],
+     'rdfs:label': [ { value: 'Harmonization (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Harmonization',
+          href: 'http://rdf.freebase.com/ns/m.03crgst' },
+        { value: 'dbpedia-wikidata:Harmonization',
+          href: 'http://wikidata.dbpedia.org/resource/Q5659376' },
+        { value: 'wikidata:Harmonization',
+          href: 'http://www.wikidata.org/entity/Q5659376' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Harmonization?oldid=682844469',
+          href: 'http://en.wikipedia.org/wiki/Harmonization?oldid=682844469' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Yankee_Doodle_harmonization.png',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Yankee_Doodle_harmonization.png' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Harmonization',
+          href: 'http://en.wikipedia.org/wiki/Harmonization' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Reharmonization',
+          href: 'http://dbpedia.org/resource/Reharmonization' },
+        { value: 'dbr:Harmonized_scale',
+          href: 'http://dbpedia.org/resource/Harmonized_scale' },
+        { value: 'dbr:Reharmonisation',
+          href: 'http://dbpedia.org/resource/Reharmonisation' },
+        { value: 'dbr:Four-tonic_system',
+          href: 'http://dbpedia.org/resource/Four-tonic_system' },
+        { value: 'dbr:Four_tonic_system',
+          href: 'http://dbpedia.org/resource/Four_tonic_system' },
+        { value: 'dbr:Three-tonic_system',
+          href: 'http://dbpedia.org/resource/Three-tonic_system' },
+        { value: 'dbr:Three_tonic_system',
+          href: 'http://dbpedia.org/resource/Three_tonic_system' },
+        { value: 'dbr:Tritonic_system',
+          href: 'http://dbpedia.org/resource/Tritonic_system' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Harmonization',
+          href: 'http://en.wikipedia.org/wiki/Harmonization' } ] } }

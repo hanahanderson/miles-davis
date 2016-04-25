@@ -1,0 +1,8 @@
+{ name: 'Miroslav Bukovsky',
+  href: 'http://en.wikipedia.org/wiki/Miroslav_Bukovsky',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1773,
+       quote: [ 'Influenced by a wide variety of musicians including Louis Armstrong, Freddie Hubbard, Blue Mitchell, Clifford Brown, Dizzy Gillespie, and Miles Davis, Bukovsky incorporates aspects from all jazz styles into his playing.' ] } ] }

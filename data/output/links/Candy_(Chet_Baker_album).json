@@ -1,0 +1,85 @@
+{ name: 'Candy (Chet Baker album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Candy_(Chet_Baker_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '41.266666666666666' } ],
+     'dbo:abstract': [ { value: 'Candy is a 1985 album by jazz trumpeter Chet Baker, released by Swedish company Sonet Records. It was recorded in a lounge at the Sonet studio at Lidingö. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Sonet_Records',
+          href: 'http://dbpedia.org/resource/Sonet_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Sweden',
+          href: 'http://dbpedia.org/resource/Sweden' } ],
+     'dbo:runtime': [ { value: '2476.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '42835807 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '629771685 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Sonet_Records',
+          href: 'http://dbpedia.org/resource/Sonet_Records' } ],
+     'dbp:length': [ { value: '2476.0' } ],
+     'dbp:name': [ { value: 'Candy (en)' } ],
+     'dbp:producer': [ { value: 'Rune Öfwerman (en)' } ],
+     'dbp:recorded': [ { value: 'June 1985, Sweden (en)' } ],
+     'dbp:released': [ { value: '1985 (xsd:integer)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Sonet_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Sonet_Records_albums' },
+        { value: 'dbc:Chet_Baker_albums',
+          href: 'http://dbpedia.org/resource/Category:Chet_Baker_albums' },
+        { value: 'dbc:1985_albums',
+          href: 'http://dbpedia.org/resource/Category:1985_albums' },
+        { value: 'dbc:English-language_albums',
+          href: 'http://dbpedia.org/resource/Category:English-language_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Candy is a 1985 album by jazz trumpeter Chet Baker, released by Swedish company Sonet Records. It was recorded in a lounge at the Sonet studio at Lidingö. (en)' } ],
+     'rdfs:label': [ { value: 'Candy (Chet Baker album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Candy (Chet Baker album)',
+          href: 'http://rdf.freebase.com/ns/m.01jrlxx' },
+        { value: 'dbpedia-wikidata:Candy (Chet Baker album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17001091' },
+        { value: 'wikidata:Candy (Chet Baker album)',
+          href: 'http://www.wikidata.org/entity/Q17001091' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Candy_(Chet_Baker_album)?oldid=629771685',
+          href: 'http://en.wikipedia.org/wiki/Candy_(Chet_Baker_album)?oldid=629771685' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Candy_(Chet_Baker_album)',
+          href: 'http://en.wikipedia.org/wiki/Candy_(Chet_Baker_album)' } ],
+     'foaf:name': [ { value: 'Candy (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Candy_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Candy_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Candy_(Chet_Baker_album)',
+          href: 'http://en.wikipedia.org/wiki/Candy_(Chet_Baker_album)' } ] } }

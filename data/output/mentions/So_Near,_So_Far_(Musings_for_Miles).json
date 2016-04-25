@@ -1,0 +1,8 @@
+{ name: 'So Near, So Far (Musings for Miles)',
+  href: 'http://en.wikipedia.org/wiki/So_Near,_So_Far_(Musings_for_Miles)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 410,
+       quote: [ 'It is a tribute to Miles Davis.' ] } ] }

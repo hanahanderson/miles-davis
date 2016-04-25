@@ -1,0 +1,8 @@
+{ name: 'Reed Mathis',
+  href: 'http://en.wikipedia.org/wiki/Reed_Mathis',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1055,
+       quote: [ 'While at the academy he developed a love of jazz music, and began transcribing and memorizing the music of Charlie Parker, John Coltrane, Charles Mingus, Thelonious Monk, Miles Davis, Duke Ellington, Louis Armstrong and his Hot Five, and bass virtuoso, Jaco Pastorius.' ] } ] }

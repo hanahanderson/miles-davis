@@ -1,0 +1,38 @@
+{ name: '1991 in the United States',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1991_in_the_United_States',
+  values: 
+   { 'dbo:abstract': [ { value: 'Events from the year 1991 in the United States.  The Cold War ends as the USSR dissolves by the end of the year. (en)' } ],
+     'dbo:wikiPageID': [ { value: '24814475 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679364700 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1991_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:1991_in_the_United_States' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'Events from the year 1991 in the United States.  The Cold War ends as the USSR dissolves by the end of the year. (en)' } ],
+     'rdfs:label': [ { value: '1991 in the United States (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:Death',
+          href: 'http://dbpedia.org/resource/Death' },
+        { value: 'dbr:1991', href: 'http://dbpedia.org/resource/1991' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:1991 in the United States',
+          href: 'http://fr.dbpedia.org/resource/1991_aux_États-Unis' },
+        { value: 'dbpedia-wikidata:1991 in the United States',
+          href: 'http://wikidata.dbpedia.org/resource/Q2813072' },
+        { value: 'wikidata:1991 in the United States',
+          href: 'http://www.wikidata.org/entity/Q2813072' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1991_in_the_United_States?oldid=679364700',
+          href: 'http://en.wikipedia.org/wiki/1991_in_the_United_States?oldid=679364700' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1991_in_the_United_States',
+          href: 'http://en.wikipedia.org/wiki/1991_in_the_United_States' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:1991_in_the_USA',
+          href: 'http://dbpedia.org/resource/1991_in_the_USA' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1991_in_the_United_States',
+          href: 'http://en.wikipedia.org/wiki/1991_in_the_United_States' } ] } }

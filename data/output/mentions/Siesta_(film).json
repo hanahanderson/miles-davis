@@ -1,0 +1,13 @@
+{ name: 'Siesta (film)',
+  href: 'http://en.wikipedia.org/wiki/Siesta_(film)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 186,
+       quote: [ 'Miles Davis\nMarcus Miller' ] },
+     { sectionHeader: 'Production',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1327,
+       quote: [ 'Jazz trumpeter Miles Davis performed on the score for the film, Music from Siesta, which was written and arranged by frequent Davis collaborator Marcus Miller.' ] } ] }

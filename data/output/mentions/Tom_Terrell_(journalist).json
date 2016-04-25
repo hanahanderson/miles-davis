@@ -1,0 +1,8 @@
+{ name: 'Tom Terrell (journalist)',
+  href: 'http://en.wikipedia.org/wiki/Tom_Terrell_(journalist)',
+  mentions: 
+   [ { sectionHeader: 'Professional life',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2603,
+       quote: [ 'Terrell wrote the liner notes for the six-c.d. Miles Davis On The Corner box set released in October 2007, which received rave reviews.' ] } ] }

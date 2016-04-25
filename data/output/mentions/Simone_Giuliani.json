@@ -1,0 +1,8 @@
+{ name: 'Simone Giuliani',
+  href: 'http://en.wikipedia.org/wiki/Simone_Giuliani',
+  mentions: 
+   [ { sectionHeader: 'Music (Production, Arrangement, Remixes & Soundtracks)',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2217,
+       quote: [ 'He collaborated with producer Jason Olaine on rare live recordings of Miles Davis, Sarah Vaughan, Dizzy Gillespie, Thelonious Monk, Louis Armstrong released by Concord Music Group and Monterey Jazz Festival Records.' ] } ] }

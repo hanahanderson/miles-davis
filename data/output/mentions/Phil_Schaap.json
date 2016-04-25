@@ -1,0 +1,13 @@
+{ name: 'Phil Schaap',
+  href: 'http://en.wikipedia.org/wiki/Phil_Schaap',
+  mentions: 
+   [ { sectionHeader: 'Jazz archivist and record producer',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2513,
+       quote: [ 'Schaap has been involved with the re-release of many archival recordings on CD, releases of artists including Charlie Parker, Miles Davis, Billie Holiday, Benny Goodman, Louis Armstrong, Machito and the Afro-Cubans and Duke Ellington.' ] },
+     { sectionHeader: 'Awards and honors',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 4247,
+       quote: [ 'Miles Davis & Gil Evans: The Complete Columbia Studio Recordings' ] } ] }

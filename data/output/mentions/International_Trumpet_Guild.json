@@ -1,0 +1,8 @@
+{ name: 'International Trumpet Guild',
+  href: 'http://en.wikipedia.org/wiki/International_Trumpet_Guild',
+  mentions: 
+   [ { sectionHeader: 'Honorary Award',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2449,
+       quote: [ '2004 – Mel Broiles, Clifford Brown, Miles Davis and Harry Glantz' ] } ] }

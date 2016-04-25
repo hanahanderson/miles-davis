@@ -1,0 +1,8 @@
+{ name: 'Farmer\'s Market (album)',
+  href: 'http://en.wikipedia.org/wiki/Farmer%27s_Market_(album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 812,
+       quote: [ 'The Allmusic review stated: "Considering this is early period Farmer, and that his work after leaving the U.S. for Europe led him to playing the softer toned flugelhorn and trumpet exclusively, it is an important document in his legacy, comparing favorably alongside peers Clifford Brown, Miles Davis, and an also emerging Donald Byrd or Lee Morgan".' ] } ] }

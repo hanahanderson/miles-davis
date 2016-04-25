@@ -1,0 +1,12 @@
+{ name: 'File:MilesDavis DarkMagus.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:MilesDavis_DarkMagus.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '15380040 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '591653817 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:MilesDavis_DarkMagus.jpg?oldid=591653817',
+          href: 'http://en.wikipedia.org/wiki/File:MilesDavis_DarkMagus.jpg?oldid=591653817' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:MilesDavis_DarkMagus.jpg',
+          href: 'http://dbpedia.org/resource/File:MilesDavis_DarkMagus.jpg' } ] } }

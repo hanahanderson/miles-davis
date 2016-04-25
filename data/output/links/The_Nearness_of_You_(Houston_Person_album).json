@@ -1,0 +1,103 @@
+{ name: 'The Nearness of You (Houston Person album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Nearness_of_You_(Houston_Person_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '33.5' } ],
+     'dbo:abstract': [ { value: 'The Nearness of You\' is an album by saxophonist Houston Person recorded in 1977 and released on the Muse label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Houston_Person',
+          href: 'http://dbpedia.org/resource/Houston_Person' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Wild_Flower_(Houston_Person_album)',
+          href: 'http://dbpedia.org/resource/Wild_Flower_(Houston_Person_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Houston_Person',
+          href: 'http://dbpedia.org/resource/Houston_Person' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:runtime': [ { value: '2010.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Gospel_Soul_of_Houston_Person',
+          href: 'http://dbpedia.org/resource/The_Gospel_Soul_of_Houston_Person' } ],
+     'dbo:wikiPageID': [ { value: '42464324 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '603716410 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Houston_Person',
+          href: 'http://dbpedia.org/resource/Houston_Person' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Houston_Person',
+          href: 'http://dbpedia.org/resource/Houston_Person' } ],
+     'dbp:cover': [ { value: 'The Nearness of You .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' },
+        { value: 'MR 5178 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Wild Flower (en)' } ],
+     'dbp:length': [ { value: '2010.0' } ],
+     'dbp:name': [ { value: 'The Nearness of You (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Gospel Soul of Houston Person (en)' } ],
+     'dbp:producer': [ { value: 'Houston Person (en)' } ],
+     'dbp:recorded': 
+      [ { value: 'November 1977 (en)' },
+        { value: 'Van Gelder Studio, Englewood Cliffs, NJ (en)' } ],
+     'dbp:released': [ { value: '1978 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'The Nearness of You (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Houston_Person_albums',
+          href: 'http://dbpedia.org/resource/Category:Houston_Person_albums' },
+        { value: 'dbc:1978_albums',
+          href: 'http://dbpedia.org/resource/Category:1978_albums' },
+        { value: 'dbc:Muse_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Muse_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Nearness of You\' is an album by saxophonist Houston Person recorded in 1977 and released on the Muse label. (en)' } ],
+     'rdfs:label': [ { value: 'The Nearness of You (Houston Person album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Nearness of You (Houston Person album)',
+          href: 'http://rdf.freebase.com/ns/m.0dplp_z' },
+        { value: 'wikidata:The Nearness of You (Houston Person album)',
+          href: 'http://www.wikidata.org/entity/Q17061684' },
+        { value: 'dbpedia-wikidata:The Nearness of You (Houston Person album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17061684' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Nearness_of_You_(Houston_Person_album)?oldid=603716410',
+          href: 'http://en.wikipedia.org/wiki/The_Nearness_of_You_(Houston_Person_album)?oldid=603716410' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Nearness_of_You_(Houston_Person_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Nearness_of_You_(Houston_Person_album)' } ],
+     'foaf:name': [ { value: 'The Nearness of You (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Wild_Flower_(Houston_Person_album)',
+          href: 'http://dbpedia.org/resource/Wild_Flower_(Houston_Person_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Nearness_of_You_(Houston_Person_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Nearness_of_You_(Houston_Person_album)' } ] } }

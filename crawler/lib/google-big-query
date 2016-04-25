@@ -1,0 +1,22 @@
+
+SELECT
+	subreddit,
+	name,
+	author,
+	created_utc,
+	link_id
+FROM
+	[fh-bigquery:wikipedia.pagecounts_201501_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201502_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201503_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201504_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201505_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201506_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201507_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201508_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201509_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201510_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201511_en_top65k],
+	[fh-bigquery:wikipedia.pagecounts_201512_en_top65k]
+
+WHERE title in ()

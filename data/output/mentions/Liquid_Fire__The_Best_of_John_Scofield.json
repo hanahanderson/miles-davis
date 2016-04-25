@@ -1,0 +1,8 @@
+{ name: 'Liquid Fire: The Best of John Scofield',
+  href: 'http://en.wikipedia.org/wiki/Liquid_Fire:_The_Best_of_John_Scofield',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1895,
+       quote: [ 'Miles Davis' ] } ] }

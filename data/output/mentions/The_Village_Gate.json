@@ -1,0 +1,8 @@
+{ name: 'The Village Gate',
+  href: 'http://en.wikipedia.org/wiki/The_Village_Gate',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 574,
+       quote: [ 'Throughout its 38 years, the Village Gate featured such musicians as John Coltrane, Coleman Hawkins, Duke Ellington, Jimi Hendrix, Dizzy Gillespie, Bill Evans, Dave Brubeck, Dexter Gordon, Art Blakey, Woody Shaw, Miles Davis, Vasant Rai, Nina Simone, Herbie Mann, Woody Allen, Patti Smith, Velvet Underground, Edgard Varèse, and Aretha Franklin, who made her first New York appearance there.' ] } ] }

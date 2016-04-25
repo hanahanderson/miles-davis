@@ -1,0 +1,8 @@
+{ name: '1956 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1956_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 915,
+       quote: [ 'Miles Davis: Round About Midnight' ] } ] }

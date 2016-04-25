@@ -1,0 +1,8 @@
+{ name: 'Oucho Sparks',
+  href: 'http://en.wikipedia.org/wiki/Oucho_Sparks',
+  mentions: 
+   [ { sectionHeader: 'Timeline',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1384,
+       quote: [ 'The resulting work of this incarnation was the second album Rebirth of the Fool (1999.) The title is a word play on the Miles Davis album titled Birth of the Cool.' ] } ] }

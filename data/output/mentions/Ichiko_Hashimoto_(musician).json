@@ -1,0 +1,8 @@
+{ name: 'Ichiko Hashimoto (musician)',
+  href: 'http://en.wikipedia.org/wiki/Ichiko_Hashimoto_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 618,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jens Joneleit',
+  href: 'http://en.wikipedia.org/wiki/Jens_Joneleit',
+  mentions: 
+   [ { sectionHeader: 'Musical career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1241,
+       quote: [ 'Famous jazz players influenced me: Miles Davis or the Art Ensemble of Chicago with Roscoe Mitchell or Lester Bowie." Joneleit describes the influences on his music in greater detail:' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'History of music in Paris',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/History_of_music_in_Paris',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

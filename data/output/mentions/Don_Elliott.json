@@ -1,0 +1,8 @@
+{ name: 'Don Elliott',
+  href: 'http://en.wikipedia.org/wiki/Don_Elliott',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3056,
+       quote: [ 'Miles Davis: Quintet with Lee Konitz, Quartet with Jackie McLean (Fresh Sound Rec., 1948/1952)' ] } ] }

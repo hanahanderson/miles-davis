@@ -1,0 +1,8 @@
+{ name: 'András Schiff',
+  href: 'http://en.wikipedia.org/wiki/Andr%C3%A1s_Schiff',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Hungary',
+       sectionIndex: 31,
+       wordCountBeforeSection: 11679,
+       quote: [ 'Miles Davis (1984)' ] } ] }

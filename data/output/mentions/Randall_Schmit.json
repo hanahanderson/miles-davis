@@ -1,0 +1,8 @@
+{ name: 'Randall Schmit',
+  href: 'http://en.wikipedia.org/wiki/Randall_Schmit',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2678,
+       quote: [ 'Whether from his childhood in Louisiana, or the influence of Parker\'s musical interests, Schmit has long held an interest in jazz music, and was included in the important 1997 Smithsonian traveling exhibition, Seeing Jazz, alongside a quote from jazz composer, Miles Davis.' ] } ] }

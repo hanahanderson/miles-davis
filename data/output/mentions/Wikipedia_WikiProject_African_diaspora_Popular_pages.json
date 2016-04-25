@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject African diaspora/Popular pages',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_African_diaspora/Popular_pages',
+  mentions: 
+   [ { sectionHeader: 'List',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 517,
+       quote: [ 'Miles Davis' ] } ] }

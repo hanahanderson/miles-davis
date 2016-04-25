@@ -1,0 +1,8 @@
+{ name: 'Linda Ronstadt',
+  href: 'http://en.wikipedia.org/wiki/Linda_Ronstadt',
+  mentions: 
+   [ { sectionHeader: 'Career overview',
+       sectionSubHeader: '',
+       sectionIndex: 134,
+       wordCountBeforeSection: 59790,
+       quote: [ 'Other participants included Miles Davis, Lenny Kravitz, Hall & Oates, Natalie Cole, Yoko Ono, and Sean Lennon.' ] } ] }

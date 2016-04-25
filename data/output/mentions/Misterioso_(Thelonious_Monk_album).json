@@ -1,0 +1,13 @@
+{ name: 'Misterioso (Thelonious Monk album)',
+  href: 'http://en.wikipedia.org/wiki/Misterioso_(Thelonious_Monk_album)',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3801,
+       quote: [ 'However, by the time Monk\'s employment there ended in December, he had lost Wilson to poor health, while Coltrane left in pursuit of a solo career and a return to Miles Davis\'s group.' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 20666,
+       quote: [ 'Miles Davis and the Modern Jazz Giants' ] } ] }

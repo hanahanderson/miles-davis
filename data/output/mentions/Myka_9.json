@@ -1,0 +1,13 @@
+{ name: 'Myka 9',
+  href: 'http://en.wikipedia.org/wiki/Myka_9',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2837,
+       quote: [ 'In an interview, Pigeon John said, "For me Mikah 9 was like Miles Davis.' ] },
+     { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3787,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Talk:Jane Siberry',
+  href: 'http://en.wikipedia.org/wiki/Talk:Jane_Siberry',
+  mentions: 
+   [ { sectionHeader: 'Globe and Mail',
+       sectionSubHeader: '',
+       sectionIndex: 81,
+       wordCountBeforeSection: 24135,
+       quote: [ 'She explains some of the reasoning behind her name change, clarifies that she didn\'t know that it means Jesus in some languages before choosing it (she specifies, in fact, that she was looking for a feminine variant of the name Isaiah), and she does cite her Miles Davis CDs as among the possessions that she\'s kept in storage because she couldn\'t bear to give them up.' ] } ] }

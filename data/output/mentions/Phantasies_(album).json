@@ -1,0 +1,8 @@
+{ name: 'Phantasies (album)',
+  href: 'http://en.wikipedia.org/wiki/Phantasies_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 893,
+       quote: [ '"Medley: Lonely Woman/So What/Impressions/Olean Visit/Some Other Spring" (Ornette Coleman/Miles Davis/John Coltrane/Byard/Irene Kitchings, Arthur Herzog, Jr.) - 8:01' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:Categories for discussion/Log/2010 August 12',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Categories_for_discussion/Log/2010_August_12',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1187,
+       quote: [ 'For example, Miles Davis wrote instrumental music, so his music is correctly categorized under "compositions by composer" at Category:Compositions by Miles Davis.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1187,
+       quote: [ 'For example, Miles Davis wrote instrumental music, so his music is correctly categorized under "compositions by composer" at Category:Compositions by Miles Davis.' ] } ] }

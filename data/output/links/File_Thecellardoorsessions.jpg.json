@@ -1,0 +1,12 @@
+{ name: 'File:Thecellardoorsessions.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Thecellardoorsessions.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '6552157 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '143453569 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Thecellardoorsessions.jpg?oldid=143453569',
+          href: 'http://en.wikipedia.org/wiki/File:Thecellardoorsessions.jpg?oldid=143453569' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Thecellardoorsessions.jpg',
+          href: 'http://dbpedia.org/resource/File:Thecellardoorsessions.jpg' } ] } }

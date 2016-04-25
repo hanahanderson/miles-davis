@@ -1,0 +1,13 @@
+{ name: 'File:CharlieParker YardbirdSuite.ogg',
+  href: 'http://en.wikipedia.org/wiki/File:CharlieParker_YardbirdSuite.ogg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Personnel: Charlie Parker Septet: Miles Davis (trumpet), Charlie Parker (alto sax), Lucky Thompson (tenor sax), Dodo Marmarosa (piano), Arvin Garrison (guitar), Vic McMillan (bass), Roy Porter (drums).' ] },
+     { sectionHeader: 'File history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 3199,
+       quote: [ 'Excerpt from \'\'Yardbird Suite\'\' by Charlie Parker, recorded 28 March 1946 at Electro Broadcast & C.P. MacGregor Studios, Hollywood, Los Angeles.  \'\'\'Personnel\'\'\': Charlie Parker Septet: Miles Davis (trumpet), Charlie Parker (alto s' ] } ] }

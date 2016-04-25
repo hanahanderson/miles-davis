@@ -1,0 +1,8 @@
+{ name: 'North Sea Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/North_Sea_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 508,
+       quote: [ 'Many great jazz legends were presented, like Benny Goodman, Miles Davis, Sarah Vaughan, Count Basie, Dizzy Gillespie and Stan Getz.' ] } ] }

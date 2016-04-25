@@ -1,0 +1,8 @@
+{ name: 'Kool & the Gang',
+  href: 'http://en.wikipedia.org/wiki/Kool_%26_the_Gang',
+  mentions: 
+   [ { sectionHeader: 'Early success',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2501,
+       quote: [ 'Miles Davis would drop by because he wanted to be a boxer.' ] } ] }

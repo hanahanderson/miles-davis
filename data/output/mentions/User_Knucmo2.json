@@ -1,0 +1,8 @@
+{ name: 'User:Knucmo2',
+  href: 'http://en.wikipedia.org/wiki/User:Knucmo2',
+  mentions: 
+   [ { sectionHeader: 'Wikipedia Work',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 1974,
+       quote: [ 'Music - Public Enemy - List of jazz standards - Wishbone Ash - Sonny Stitt - Red Garland - Frank Zappa - Jazz standard - Miles Davis - Milestones (album) - Johnny Griffin - Art Blakey - Stan Getz - Cannonball Adderley - Dexter Gordon - John Coltrane - Sonny Rollins - Lou Donaldson - Wrongtom - Dizzy Gillespie - Branford Marsalis - Wayne Shorter - Nefertiti (album) - Captain Beefheart - Michael Finnissy - Iannis Xenakis - Brian Ferneyhough' ] } ] }

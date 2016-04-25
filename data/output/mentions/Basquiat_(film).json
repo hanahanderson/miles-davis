@@ -1,0 +1,8 @@
+{ name: 'Basquiat (film)',
+  href: 'http://en.wikipedia.org/wiki/Basquiat_(film)',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: 'Critical reception',
+       sectionIndex: 31,
+       wordCountBeforeSection: 8063,
+       quote: [ '"Flamenco Sketches" – Miles Davis' ] } ] }

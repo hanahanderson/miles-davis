@@ -1,0 +1,8 @@
+{ name: 'Portal:Theatre/Selected article/1',
+  href: 'http://en.wikipedia.org/wiki/Portal:Theatre/Selected_article/1',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'The U Street corridor in Northwest Washington, known as "Washington\'s Black Broadway", is home to institutions like Bohemian Caverns and the Lincoln Theatre, which hosted music legends such as Washington-native Duke Ellington, John Coltrane, and Miles Davis.' ] } ] }

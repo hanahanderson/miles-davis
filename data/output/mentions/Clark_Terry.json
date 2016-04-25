@@ -1,0 +1,18 @@
+{ name: 'Clark Terry',
+  href: 'http://en.wikipedia.org/wiki/Clark_Terry',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Charlie Barnet, Count Basie, Bob Brookmeyer, Clifford Brown, Eddie "Lockjaw" Davis, Miles Davis, Duke Ellington, Dizzy Gillespie, Milt Jackson, J.J. Johnson, Quincy Jones, Yusef Lateef, Charles Mingus, Blue Mitchell, Oliver Nelson, Oscar Peterson, Lalo Schifrin, Billy Taylor, Wynton Marsalis, Arturo Sandoval, Dianne Reeves, Terri Lyne Carrington' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 1294,
+       quote: [ 'Terry also mentored many musicians including Quincy Jones, Miles Davis, Herbie Hancock, Wynton Marsalis, Pat Metheny, Dianne Reeves, and Terri Lyne Carrington among thousands of others.' ] },
+     { sectionHeader: 'Big band era',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2450,
+       quote: [ 'Terry influenced musicians including Miles Davis and Quincy Jones, both of whom acknowledged Terry\'s influence during the early stages of their careers.' ] } ] }

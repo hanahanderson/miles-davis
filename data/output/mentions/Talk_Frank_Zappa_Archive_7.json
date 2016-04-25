@@ -1,0 +1,13 @@
+{ name: 'Talk:Frank Zappa/Archive 7',
+  href: 'http://en.wikipedia.org/wiki/Talk:Frank_Zappa/Archive_7',
+  mentions: 
+   [ { sectionHeader: 'Zappa Template',
+       sectionSubHeader: '',
+       sectionIndex: 59,
+       wordCountBeforeSection: 31066,
+       quote: [ 'Miles Davis has more releases than Zappa, and his template is more organized.' ] },
+     { sectionHeader: 'Zappa Template',
+       sectionSubHeader: '',
+       sectionIndex: 59,
+       wordCountBeforeSection: 31066,
+       quote: [ 'Miles Davis has more releases than Zappa, and his template is more organized.' ] } ] }

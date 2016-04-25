@@ -1,0 +1,13 @@
+{ name: 'I Loves You, Porgy',
+  href: 'http://en.wikipedia.org/wiki/I_Loves_You,_Porgy',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2313,
+       quote: [ 'Porgy and Bess (Miles Davis album)' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 7929,
+       quote: [ 'Miles Davis' ] } ] }

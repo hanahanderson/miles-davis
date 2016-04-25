@@ -1,0 +1,8 @@
+{ name: 'The 50th Law',
+  href: 'http://en.wikipedia.org/wiki/The_50th_Law',
+  mentions: 
+   [ { sectionHeader: 'Synopsis',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1659,
+       quote: [ 'The 50th Law illustrates the laws of the book by supplementing anecdotes from 50 Cent\'s life with historical examples from Malcolm X, Miles Davis, Sun Tzu, François de La Rochefoucauld, Machiavelli, Richard Wright, James Baldwin, Thucydides, Dostoyevsky, Charlie Parker, and the Baron de Montesquieu.' ] } ] }

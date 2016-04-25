@@ -1,0 +1,99 @@
+{ name: 'Interchange (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Interchange_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '43.93333333333333' } ],
+     'dbo:abstract': [ { value: 'Interchange is an album by guitarist Pat Martino which was recorded in 1994 and first released on the Muse label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Pat_Martino',
+          href: 'http://dbpedia.org/resource/Pat_Martino' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Return_(Pat_Martino_album)',
+          href: 'http://dbpedia.org/resource/The_Return_(Pat_Martino_album)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' } ],
+     'dbo:runtime': [ { value: '2636.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Nightwings_(Pat_Martino_album)',
+          href: 'http://dbpedia.org/resource/Nightwings_(Pat_Martino_album)' } ],
+     'dbo:wikiPageID': [ { value: '40492539 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '656721530 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Pat_Martino',
+          href: 'http://dbpedia.org/resource/Pat_Martino' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Pat_Martino',
+          href: 'http://dbpedia.org/resource/Pat_Martino' } ],
+     'dbp:cover': [ { value: 'Interchange .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' },
+        { value: 'MR 5529 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'The Return (en)' } ],
+     'dbp:length': [ { value: '2636.0' } ],
+     'dbp:name': [ { value: 'Interchange (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Nightwings (en)' } ],
+     'dbp:producer': [ { value: 'Paul Bagin (en)' } ],
+     'dbp:recorded': [ { value: '1994 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1994 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Interchange (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Muse_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Muse_Records_albums' },
+        { value: 'dbc:Pat_Martino_albums',
+          href: 'http://dbpedia.org/resource/Category:Pat_Martino_albums' },
+        { value: 'dbc:1994_albums',
+          href: 'http://dbpedia.org/resource/Category:1994_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Interchange is an album by guitarist Pat Martino which was recorded in 1994 and first released on the Muse label. (en)' } ],
+     'rdfs:label': [ { value: 'Interchange (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Interchange (album)',
+          href: 'http://rdf.freebase.com/ns/m.03g08kl' },
+        { value: 'wikidata:Interchange (album)',
+          href: 'http://www.wikidata.org/entity/Q17014289' },
+        { value: 'dbpedia-wikidata:Interchange (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17014289' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Interchange_(album)?oldid=656721530',
+          href: 'http://en.wikipedia.org/wiki/Interchange_(album)?oldid=656721530' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Interchange_(album)',
+          href: 'http://en.wikipedia.org/wiki/Interchange_(album)' } ],
+     'foaf:name': [ { value: 'Interchange (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Nightwings_(Pat_Martino_album)',
+          href: 'http://dbpedia.org/resource/Nightwings_(Pat_Martino_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Return_(Pat_Martino_album)',
+          href: 'http://dbpedia.org/resource/The_Return_(Pat_Martino_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Interchange',
+          href: 'http://dbpedia.org/resource/Interchange' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Interchange_(album)',
+          href: 'http://en.wikipedia.org/wiki/Interchange_(album)' } ] } }

@@ -1,0 +1,13 @@
+{ name: 'User talk:Samuelelihall',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Samuelelihall',
+  mentions: 
+   [ { sectionHeader: 'March 2016',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 407,
+       quote: [ 'This is a message letting you know that one or more of your recent edits to Miles Davis has been undone by an automated computer program called ClueBot NG.' ] },
+     { sectionHeader: 'March 2016',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 595,
+       quote: [ 'The following is the log entry regarding this message: Miles Davis was changed by Samuelelihall (u) (t) ANN scored at 0.947568 on 2016-03-01T04:25:47+00:00 .' ] } ] }

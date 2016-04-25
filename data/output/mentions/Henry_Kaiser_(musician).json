@@ -1,0 +1,8 @@
+{ name: 'Henry Kaiser (musician)',
+  href: 'http://en.wikipedia.org/wiki/Henry_Kaiser_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2449,
+       quote: [ 'Since 1998, Kaiser has been collaborating with trumpeter Wadada Leo Smith in the "Yo Miles!" project, releasing a series of tributes to Miles Davis\'s 1970s electric music.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Brock Peters',
+  href: 'http://en.wikipedia.org/wiki/Brock_Peters',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 5025,
+       quote: [ 'In 1970 Peters portrayed the voice of African-American boxer Jack Johnson in Bill Cayton\'s film of the same name, and it is in this role that he can be heard at the end of Miles Davis\' soundtrack album, Jack Johnson, saying: "I\'m Jack Johnson.' ] } ] }

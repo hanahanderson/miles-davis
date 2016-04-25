@@ -1,0 +1,13 @@
+{ name: '1973 in music',
+  href: 'http://en.wikipedia.org/wiki/1973_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 25118,
+       quote: [ 'Basic Miles: The Classic Performances of Miles Davis' ] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 25118,
+       quote: [ 'Basic Miles: The Classic Performances of Miles Davis – Miles Davis' ] } ] }

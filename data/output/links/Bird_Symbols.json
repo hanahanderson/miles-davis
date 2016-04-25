@@ -1,0 +1,50 @@
+{ name: 'Bird Symbols',
+  entityType: 'Medium106254669',
+  href: 'http://dbpedia.org/page/Bird_Symbols',
+  values: 
+   { 'dbo:abstract': [ { value: 'Bird Symbols is an album (LP) by Charlie Parker, released on Summit Records in 1961. It was reissued by Verve around 1966. The tracks were originally made for Dial in 1946–7. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.discogs.com/Charlie-Parker/master/3',
+          href: 'http://www.discogs.com/Charlie-Parker/master/3' } ],
+     'dbo:wikiPageID': [ { value: '33817398 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '661892595 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Charlie_Parker_albums',
+          href: 'http://dbpedia.org/resource/Category:Charlie_Parker_albums' } ],
+     'rdf:type': 
+      [ { value: 'yago:Album106591815',
+          href: 'http://dbpedia.org/class/yago/Album106591815' },
+        { value: 'yago:Artifact100021939',
+          href: 'http://dbpedia.org/class/yago/Artifact100021939' },
+        { value: 'yago:Medium106254669',
+          href: 'http://dbpedia.org/class/yago/Medium106254669' },
+        { value: 'yago:Object100002684',
+          href: 'http://dbpedia.org/class/yago/Object100002684' },
+        { value: 'yago:Whole100003553',
+          href: 'http://dbpedia.org/class/yago/Whole100003553' },
+        { value: 'yago:CharlieParkerAlbums',
+          href: 'http://dbpedia.org/class/yago/CharlieParkerAlbums' },
+        { value: 'yago:Instrumentality103575240',
+          href: 'http://dbpedia.org/class/yago/Instrumentality103575240' },
+        { value: 'yago:PhysicalEntity100001930',
+          href: 'http://dbpedia.org/class/yago/PhysicalEntity100001930' } ],
+     'rdfs:comment': [ { value: 'Bird Symbols is an album (LP) by Charlie Parker, released on Summit Records in 1961. It was reissued by Verve around 1966. The tracks were originally made for Dial in 1946–7. (en)' } ],
+     'rdfs:label': [ { value: 'Bird Symbols (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Bird Symbols',
+          href: 'http://rdf.freebase.com/ns/m.023hxmp' },
+        { value: 'dbpedia-wikidata:Bird Symbols',
+          href: 'http://wikidata.dbpedia.org/resource/Q4915906' },
+        { value: 'wikidata:Bird Symbols',
+          href: 'http://www.wikidata.org/entity/Q4915906' },
+        { value: 'yago-res:Bird Symbols',
+          href: 'http://yago-knowledge.org/resource/Bird_Symbols' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Bird_Symbols?oldid=661892595',
+          href: 'http://en.wikipedia.org/wiki/Bird_Symbols?oldid=661892595' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Bird_Symbols',
+          href: 'http://en.wikipedia.org/wiki/Bird_Symbols' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Bird_Symbols',
+          href: 'http://en.wikipedia.org/wiki/Bird_Symbols' } ] } }

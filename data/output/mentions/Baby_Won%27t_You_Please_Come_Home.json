@@ -1,0 +1,8 @@
+{ name: 'Baby Won\'t You Please Come Home',
+  href: 'http://en.wikipedia.org/wiki/Baby_Won%27t_You_Please_Come_Home',
+  mentions: 
+   [ { sectionHeader: 'Renditions',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 606,
+       quote: [ 'Miles Davis - Seven Steps to Heaven (1963)' ] } ] }

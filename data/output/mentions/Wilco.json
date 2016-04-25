@@ -1,0 +1,8 @@
+{ name: 'Wilco',
+  href: 'http://en.wikipedia.org/wiki/Wilco',
+  mentions: 
+   [ { sectionHeader: 'Musical style and influence',
+       sectionSubHeader: 'Star Wars',
+       sectionIndex: 71,
+       wordCountBeforeSection: 31589,
+       quote: [ 'Tweedy and O\'Rourke enjoyed free jazz artists such as Ornette Coleman, Albert Ayler, and Derek Bailey; they also listen to mainstream jazz by artists such as Miles Davis and John Coltrane.' ] } ] }

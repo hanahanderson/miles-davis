@@ -1,0 +1,13 @@
+{ name: 'User:Nite-Sirk/Jazz, blues, soul, funk, disco, hip hop, reggae & psychedelia related articles',
+  href: 'http://en.wikipedia.org/wiki/User:Nite-Sirk/Jazz,_blues,_soul,_funk,_disco,_hip_hop,_reggae_%26_psychedelia_related_articles',
+  mentions: 
+   [ { sectionHeader: 'Performers',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 470,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Albums',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 913,
+       quote: [] } ] }

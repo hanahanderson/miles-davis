@@ -1,0 +1,140 @@
+{ name: 'Miles Davis at Fillmore',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Miles_Davis_at_Fillmore',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '101.43333333333334' } ],
+     'dbo:abstract': [ { value: 'Miles Davis at Fillmore is a 1970 live album by jazz trumpeter Miles Davis and band, recorded at the Fillmore East, New York City on four consecutive days, June 17 through June 20, 1970, originally released as a double vinyl LP. The performances featured the double keyboard set-up Davis toured with for a few months, with Keith Jarrett and Chick Corea playing electronic organ and Fender Rhodes, respectively.Compositions include, besides the standard "I Fall in Love Too Easily", tracks from his fusion studio album Bitches Brew. The live performances were heavily edited by producer Teo Macero, and the results were named for the day of the week the band performed; only on the 1997 Columbia CD reissue were the compositions and composers identified and indexed.On March 25, 2014, the full recordings of the performances were issued officially as Miles at the Fillmore – Miles Davis 1970: The Bootleg Series Vol. 3. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Bitches_Brew',
+          href: 'http://dbpedia.org/resource/Bitches_Brew' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Teo_Macero',
+          href: 'http://dbpedia.org/resource/Teo_Macero' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_York',
+          href: 'http://dbpedia.org/resource/New_York' },
+        { value: 'dbr:Fillmore_East',
+          href: 'http://dbpedia.org/resource/Fillmore_East' } ],
+     'dbo:releaseDate': [ { value: '1970-10-26 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '6086.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Jack_Johnson_(album)',
+          href: 'http://dbpedia.org/resource/Jack_Johnson_(album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.robertchristgau.com/xg/rock/davis-97.php',
+          href: 'http://www.robertchristgau.com/xg/rock/davis-97.php' } ],
+     'dbo:wikiPageID': [ { value: '6572052 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '643441331 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'Miles Davis-At Fillmore-cbs.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Bitches Brew (en)' } ],
+     'dbp:length': [ { value: '6086.0' } ],
+     'dbp:name': [ { value: 'Miles Davis at Fillmore (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Jack Johnson (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Teo_Macero',
+          href: 'http://dbpedia.org/resource/Teo_Macero' } ],
+     'dbp:recorded': 
+      [ { value: '--06-17' },
+        { value: 'at the Fillmore East, New York (en)' } ],
+     'dbp:released': [ { value: '1970-10-26 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:Robert_Christgau',
+          href: 'http://dbpedia.org/resource/Robert_Christgau' },
+        { value: 'Los Angeles Times (en)' },
+        { value: 'Entertainment Weekly (en)' },
+        { value: 'The Rolling Stone Album Guide (en)' },
+        { value: 'Down Beat (en)' } ],
+     'dbp:rev2score': [ { value: 'B (en)' } ],
+     'dbp:rev4score': [ { value: 'B− (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Miles Davis at Fillmore (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Legacy_Recordings_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Legacy_Recordings_live_albums' },
+        { value: 'dbc:Miles_Davis_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_live_albums' },
+        { value: 'dbc:Live_at_the_Fillmore_East_albums',
+          href: 'http://dbpedia.org/resource/Category:Live_at_the_Fillmore_East_albums' },
+        { value: 'dbc:Albums_produced_by_Teo_Macero',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Teo_Macero' },
+        { value: 'dbc:1970_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1970_live_albums' },
+        { value: 'dbc:Columbia_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Columbia_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Miles Davis at Fillmore is a 1970 live album by jazz trumpeter Miles Davis and band, recorded at the Fillmore East, New York City on four consecutive days, June 17 through June 20, 1970, originally released as a double vinyl LP. (en)' } ],
+     'rdfs:label': [ { value: 'Miles Davis at Fillmore (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Miles Davis at Fillmore',
+          href: 'http://rdf.freebase.com/ns/m.0gc1xs' },
+        { value: 'dbpedia-it:Miles Davis at Fillmore',
+          href: 'http://it.dbpedia.org/resource/Miles_Davis_at_Fillmore:_Live_at_the_Fillmore_East' },
+        { value: 'dbpedia-pl:Miles Davis at Fillmore',
+          href: 'http://pl.dbpedia.org/resource/Miles_Davis_at_Fillmore:_Live_at_the_Fillmore_East' },
+        { value: 'dbpedia-pt:Miles Davis at Fillmore',
+          href: 'http://pt.dbpedia.org/resource/Miles_Davis_at_Fillmore:_Live_at_the_Fillmore_East' },
+        { value: 'dbpedia-wikidata:Miles Davis at Fillmore',
+          href: 'http://wikidata.dbpedia.org/resource/Q1107097' },
+        { value: 'wikidata:Miles Davis at Fillmore',
+          href: 'http://www.wikidata.org/entity/Q1107097' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Miles_Davis_at_Fillmore?oldid=643441331',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_at_Fillmore?oldid=643441331' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Miles_Davis_at_Fillmore',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_at_Fillmore' } ],
+     'foaf:name': [ { value: 'Miles Davis at Fillmore (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Jack_Johnson_(album)',
+          href: 'http://dbpedia.org/resource/Jack_Johnson_(album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Bitches_Brew',
+          href: 'http://dbpedia.org/resource/Bitches_Brew' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Miles_Davis_at_Fillmore:_Live_at_the_Fillmore_East',
+          href: 'http://dbpedia.org/resource/Miles_Davis_at_Fillmore:_Live_at_the_Fillmore_East' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Miles_Davis_at_Fillmore',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_at_Fillmore' } ] } }

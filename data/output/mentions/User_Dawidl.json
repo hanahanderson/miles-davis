@@ -1,0 +1,8 @@
+{ name: 'User:Dawidl',
+  href: 'http://en.wikipedia.org/wiki/User:Dawidl',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

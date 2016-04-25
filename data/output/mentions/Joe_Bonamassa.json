@@ -1,0 +1,8 @@
+{ name: 'Joe Bonamassa',
+  href: 'http://en.wikipedia.org/wiki/Joe_Bonamassa',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2580,
+       quote: [ 'Before he reached 18 years old, Bonamassa was playing in a band called Bloodline with the sons of Miles Davis, Robby Krieger, and Berry Oakley.' ] } ] }

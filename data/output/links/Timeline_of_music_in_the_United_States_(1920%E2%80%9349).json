@@ -1,0 +1,49 @@
+{ name: 'Timeline of music in the United States (1920–49)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Timeline_of_music_in_the_United_States_(1920%E2%80%9349)',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a timeline of music in the United States from 1920 to 1949. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.dovesong.com/Positive_music/archives/gospel/Black/black.asp',
+          href: 'http://www.dovesong.com/Positive_music/archives/gospel/Black/black.asp' } ],
+     'dbo:wikiPageID': [ { value: '17883317 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '669400894 (xsd:integer)' } ],
+     'dbp:bot': [ { value: 'H3llBot (en)' } ],
+     'dbp:date': [ { value: 'October 2010 (en)' } ],
+     'dbp:endyear': [ { value: '1949 (xsd:integer)' } ],
+     'dbp:startyear': [ { value: '1920 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Timelines_of_American_music',
+          href: 'http://dbpedia.org/resource/Category:Timelines_of_American_music' },
+        { value: 'dbc:20th_century_in_music',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_music' } ],
+     'rdfs:comment': [ { value: 'This is a timeline of music in the United States from 1920 to 1949. (en)' } ],
+     'rdfs:label': [ { value: 'Timeline of music in the United States (1920–49) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Timeline of music in the United States (1920–49)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7806123' },
+        { value: 'wikidata:Timeline of music in the United States (1920–49)',
+          href: 'http://www.wikidata.org/entity/Q7806123' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1920–49)?oldid=669400894',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1920–49)?oldid=669400894' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1920–49)',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1920–49)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Timeline_of_music_in_the_United_States_(1925_-_1949)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1925_-_1949)' },
+        { value: 'dbr:Timeline_of_music_in_the_United_States_(1920-1949)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1920-1949)' },
+        { value: 'dbr:Timeline_of_music_in_the_United_States_(1920_–_1949)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1920_–_1949)' },
+        { value: 'dbr:Timeline_of_music_in_the_United_States_(1920_-_1949)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1920_-_1949)' },
+        { value: 'dbr:Timeline_of_music_in_the_United_States_(1920–1949)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1920–1949)' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Timeline of music in the United States (1920–49)',
+          href: 'http://dbpedia.org/resource/Timeline_of_music_in_the_United_States_(1920%E2%80%9349)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Timeline_of_music_in_the_United_States_(1920–49)',
+          href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1920–49)' } ] } }

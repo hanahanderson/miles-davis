@@ -1,0 +1,8 @@
+{ name: 'Filippo Gaetani',
+  href: 'http://en.wikipedia.org/wiki/Filippo_Gaetani',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 214,
+       quote: [ 'After joining Gianluca Mosole band as vocalist, percussionist and co-producer, he performed an entire summer tour supporting acts like Sting, Gil Evans, Miles Davis and Al Di Meola.' ] } ] }

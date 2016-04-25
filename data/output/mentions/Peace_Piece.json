@@ -1,0 +1,13 @@
+{ name: 'Peace Piece',
+  href: 'http://en.wikipedia.org/wiki/Peace_Piece',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'The same progression featured in the opening to "Flamenco Sketches" which he recorded with Miles Davis the following year; Davis took a liking to the piece and wanted to reuse it.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3853,
+       quote: [ 'Miles Davis' ] } ] }

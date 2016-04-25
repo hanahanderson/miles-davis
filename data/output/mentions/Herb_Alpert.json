@@ -1,0 +1,8 @@
+{ name: 'Herb Alpert',
+  href: 'http://en.wikipedia.org/wiki/Herb_Alpert',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Notes',
+       sectionIndex: 76,
+       wordCountBeforeSection: 35739,
+       quote: [ 'Miles Davis' ] } ] }

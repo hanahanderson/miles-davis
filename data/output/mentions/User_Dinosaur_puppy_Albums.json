@@ -1,0 +1,8 @@
+{ name: 'User:Dinosaur puppy/Albums',
+  href: 'http://en.wikipedia.org/wiki/User:Dinosaur_puppy/Albums',
+  mentions: 
+   [ { sectionHeader: 'Albums I want',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 19,
+       quote: [ 'Kind of Blue - Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jazz piano',
+  href: 'http://en.wikipedia.org/wiki/Jazz_piano',
+  mentions: 
+   [ { sectionHeader: 'Technique',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 5242,
+       quote: [ 'Wynton Kelly, Red Garland, Herbie Hancock, and Keith Jarrett were also exceptional pianists who played with Miles Davis.' ] } ] }

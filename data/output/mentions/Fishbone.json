@@ -1,0 +1,8 @@
+{ name: 'Fishbone',
+  href: 'http://en.wikipedia.org/wiki/Fishbone',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4685,
+       quote: [ 'The band added former Miles Davis sideman John Bigham on guitar and keyboards in 1989.' ] } ] }

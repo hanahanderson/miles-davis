@@ -1,0 +1,8 @@
+{ name: '2 Trumpets',
+  href: 'http://en.wikipedia.org/wiki/2_Trumpets',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1170,
+       quote: [ '"Dig" (Miles Davis) – 14:29' ] } ] }

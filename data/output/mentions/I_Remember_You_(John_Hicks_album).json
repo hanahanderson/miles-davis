@@ -1,0 +1,8 @@
+{ name: 'I Remember You (John Hicks album)',
+  href: 'http://en.wikipedia.org/wiki/I_Remember_You_(John_Hicks_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1146,
+       quote: [ '"Solar" (Miles Davis) - 8:40' ] } ] }

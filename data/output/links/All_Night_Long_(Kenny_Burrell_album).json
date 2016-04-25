@@ -1,0 +1,111 @@
+{ name: 'All Night Long (Kenny Burrell album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/All_Night_Long_(Kenny_Burrell_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '54.333333333333336' } ],
+     'dbo:abstract': [ { value: 'All Night Long is an album by the Prestige All Stars nominally led by guitarist Kenny Burrell recorded in 1956 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Kenny_Burrell',
+          href: 'http://dbpedia.org/resource/Kenny_Burrell' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Swingin\'_(Kenny_Burrell_album)',
+          href: 'http://dbpedia.org/resource/Swingin\'_(Kenny_Burrell_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': [ { value: '1956-12-28 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:runtime': [ { value: '3260.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:All_Day_Long',
+          href: 'http://dbpedia.org/resource/All_Day_Long' } ],
+     'dbo:wikiPageID': [ { value: '38369337 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683002037 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Kenny_Burrell',
+          href: 'http://dbpedia.org/resource/Kenny_Burrell' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Kenny_Burrell',
+          href: 'http://dbpedia.org/resource/Kenny_Burrell' } ],
+     'dbp:cover': [ { value: 'All Night Long .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 7073 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Swingin\' (en)' } ],
+     'dbp:length': [ { value: '3260.0' } ],
+     'dbp:name': [ { value: 'All Night Long (en)' } ],
+     'dbp:nextAlbum': [ { value: 'All Day Long (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '1956-12-28 (xsd:date)' },
+        { value: 'Van Gelder Studio, Hackensack, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1957 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'All Night Long (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Kenny_Burrell_albums',
+          href: 'http://dbpedia.org/resource/Category:Kenny_Burrell_albums' },
+        { value: 'dbc:1957_albums',
+          href: 'http://dbpedia.org/resource/Category:1957_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'All Night Long is an album by the Prestige All Stars nominally led by guitarist Kenny Burrell recorded in 1956 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'All Night Long (Kenny Burrell album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:All Night Long (Kenny Burrell album)',
+          href: 'http://rdf.freebase.com/ns/m.024h9l8' },
+        { value: 'dbpedia-wikidata:All Night Long (Kenny Burrell album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q4729176' },
+        { value: 'wikidata:All Night Long (Kenny Burrell album)',
+          href: 'http://www.wikidata.org/entity/Q4729176' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:All_Night_Long_(Kenny_Burrell_album)?oldid=683002037',
+          href: 'http://en.wikipedia.org/wiki/All_Night_Long_(Kenny_Burrell_album)?oldid=683002037' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:All_Night_Long_(Kenny_Burrell_album)',
+          href: 'http://en.wikipedia.org/wiki/All_Night_Long_(Kenny_Burrell_album)' } ],
+     'foaf:name': [ { value: 'All Night Long (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:All_Day_Long',
+          href: 'http://dbpedia.org/resource/All_Day_Long' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:All_Night_Long',
+          href: 'http://dbpedia.org/resource/All_Night_Long' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:All_Night_Long_(Kenny_Burrell_album)',
+          href: 'http://en.wikipedia.org/wiki/All_Night_Long_(Kenny_Burrell_album)' } ] } }

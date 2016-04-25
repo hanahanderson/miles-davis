@@ -1,0 +1,8 @@
+{ name: 'Sonya Robinson',
+  href: 'http://en.wikipedia.org/wiki/Sonya_Robinson',
+  mentions: 
+   [ { sectionHeader: 'Recording Artist',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 658,
+       quote: [ 'Miles Davis once compared her violin playing to Stuff Smith and Ray Nance.' ] } ] }

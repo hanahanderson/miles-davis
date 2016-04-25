@@ -1,0 +1,91 @@
+{ name: 'Remembering Bud: Cleopatra\'s Dream',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Remembering_Bud:_Cleopatra%27s_Dream',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '56.56666666666667' } ],
+     'dbo:abstract': [ { value: 'Remembering Bud: Cleopatra\'s Dream is a jazz trio album recorded by pianist Toshiko Akiyoshi in 1990 as a tribute to jazz pianist Bud Powell and released on the Nippon Crown record label in Japan and on the Evidence label in the USA. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Toshiko_Akiyoshi',
+          href: 'http://dbpedia.org/resource/Toshiko_Akiyoshi' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Four_Seasons_(Toshiko_Akiyoshi_Trio_album)',
+          href: 'http://dbpedia.org/resource/Four_Seasons_(Toshiko_Akiyoshi_Trio_album)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Nippon_Crown',
+          href: 'http://dbpedia.org/resource/Nippon_Crown' } ],
+     'dbo:runtime': [ { value: '3394.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Chic_Lady',
+          href: 'http://dbpedia.org/resource/Chic_Lady' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '7567981 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '544572490 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Toshiko_Akiyoshi',
+          href: 'http://dbpedia.org/resource/Toshiko_Akiyoshi' } ],
+     'dbp:border': [ { value: 'yes (en)' } ],
+     'dbp:cover': [ { value: 'Remembering Bud_ToshikoAkiyoshi.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Nippon Crown / Evidence (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Four Seasons (en)' } ],
+     'dbp:length': [ { value: '3394.0' } ],
+     'dbp:name': [ { value: 'Remembering Bud: Cleopatra\'s Dream (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Chic Lady (en)' } ],
+     'dbp:recorded': [ { value: '--07-31' } ],
+     'dbp:released': [ { value: '1990 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic [{{Allmusic|class=album|id=r159819|pure_url=yes}} link] (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Remembering Bud: Cleopatra\'s Dream (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1990_albums',
+          href: 'http://dbpedia.org/resource/Category:1990_albums' },
+        { value: 'dbc:Toshiko_Akiyoshi_albums',
+          href: 'http://dbpedia.org/resource/Category:Toshiko_Akiyoshi_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Remembering Bud: Cleopatra\'s Dream is a jazz trio album recorded by pianist Toshiko Akiyoshi in 1990 as a tribute to jazz pianist Bud Powell and released on the Nippon Crown record label in Japan and on the Evidence label in the USA. (en)' } ],
+     'rdfs:label': [ { value: 'Remembering Bud: Cleopatra\'s Dream (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Remembering Bud: Cleopatra\'s Dream',
+          href: 'http://rdf.freebase.com/ns/m.01jxv_s' },
+        { value: 'dbpedia-wikidata:Remembering Bud: Cleopatra\'s Dream',
+          href: 'http://wikidata.dbpedia.org/resource/Q7311715' },
+        { value: 'wikidata:Remembering Bud: Cleopatra\'s Dream',
+          href: 'http://www.wikidata.org/entity/Q7311715' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Remembering_Bud:_Cleopatra\'s_Dream?oldid=544572490',
+          href: 'http://en.wikipedia.org/wiki/Remembering_Bud:_Cleopatra\'s_Dream?oldid=544572490' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Remembering_Bud:_Cleopatra\'s_Dream',
+          href: 'http://en.wikipedia.org/wiki/Remembering_Bud:_Cleopatra\'s_Dream' } ],
+     'foaf:name': [ { value: 'Remembering Bud: Cleopatra\'s Dream (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Chic_Lady',
+          href: 'http://dbpedia.org/resource/Chic_Lady' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Four_Seasons_(Toshiko_Akiyoshi_Trio_album)',
+          href: 'http://dbpedia.org/resource/Four_Seasons_(Toshiko_Akiyoshi_Trio_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Remembering_Bud:_Cleopatra\'s_Dream',
+          href: 'http://en.wikipedia.org/wiki/Remembering_Bud:_Cleopatra\'s_Dream' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'User:Munchies7/Books/rhcp',
+  href: 'http://en.wikipedia.org/wiki/User:Munchies7/Books/rhcp',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

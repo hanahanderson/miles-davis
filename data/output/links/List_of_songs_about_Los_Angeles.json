@@ -1,0 +1,68 @@
+{ name: 'List of songs about Los Angeles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_songs_about_Los_Angeles',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of songs about Los Angeles, California: either refer to, are set there, named after a location or feature of the city, named after a famous resident, or inspired by an event that occurred locally. In addition, several adjacent communities in the Greater Los Angeles Area such as West Hollywood, Beverly Hills, Santa Monica, Pasadena, Inglewood, and Compton are also included in this list despite being separate municipalities.  The songs listed are those that are notable or are by notable artists. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.g-site.com/max_west/',
+          href: 'http://www.g-site.com/max_west/' },
+        { value: 'http://www.LongBeachSong.com',
+          href: 'http://www.LongBeachSong.com' } ],
+     'dbo:wikiPageID': [ { value: '3381735 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683687696 (xsd:integer)' } ],
+     'dbp:date': [ { value: 'October 2010 (en)' } ],
+     'dbp:reason': [ { value: 'See talk page (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Songs_about_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Songs_about_the_United_States' },
+        { value: 'dbc:California_culture',
+          href: 'http://dbpedia.org/resource/Category:California_culture' },
+        { value: 'dbc:Culture_of_Los_Angeles,_California',
+          href: 'http://dbpedia.org/resource/Category:Culture_of_Los_Angeles,_California' },
+        { value: 'dbc:Lists_of_songs_about_a_city',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_songs_about_a_city' },
+        { value: 'dbc:Songs_about_California',
+          href: 'http://dbpedia.org/resource/Category:Songs_about_California' },
+        { value: 'dbc:Los_Angeles,_California-related_lists',
+          href: 'http://dbpedia.org/resource/Category:Los_Angeles,_California-related_lists' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'This is a list of songs about Los Angeles, California: either refer to, are set there, named after a location or feature of the city, named after a famous resident, or inspired by an event that occurred locally. In addition, several adjacent communities in the Greater Los Angeles Area such as West Hollywood, Beverly Hills, Santa Monica, Pasadena, Inglewood, and Compton are also included in this list despite being separate municipalities. (en)' } ],
+     'rdfs:label': [ { value: 'List of songs about Los Angeles (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_songs_about_California',
+          href: 'http://dbpedia.org/resource/List_of_songs_about_California' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of songs about Los Angeles',
+          href: 'http://wikidata.dbpedia.org/resource/Q6639818' },
+        { value: 'wikidata:List of songs about Los Angeles',
+          href: 'http://www.wikidata.org/entity/Q6639818' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_songs_about_Los_Angeles?oldid=683687696',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_about_Los_Angeles?oldid=683687696' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_songs_about_Los_Angeles',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_about_Los_Angeles' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:L.A._(song)',
+          href: 'http://dbpedia.org/resource/L.A._(song)' },
+        { value: 'dbr:L._A._(song)',
+          href: 'http://dbpedia.org/resource/L._A._(song)' },
+        { value: 'dbr:Songs_about_Los_Angeles',
+          href: 'http://dbpedia.org/resource/Songs_about_Los_Angeles' },
+        { value: 'dbr:LA_(Neil_Young_song)',
+          href: 'http://dbpedia.org/resource/LA_(Neil_Young_song)' },
+        { value: 'dbr:L_A_(song)',
+          href: 'http://dbpedia.org/resource/L_A_(song)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Rise_and_Fall_(Tim_Halperin_album)',
+          href: 'http://dbpedia.org/resource/Rise_and_Fall_(Tim_Halperin_album)' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:List_of_songs_about_California',
+          href: 'http://dbpedia.org/resource/List_of_songs_about_California' },
+        { value: 'dbr:Arts_and_culture_of_Los_Angeles',
+          href: 'http://dbpedia.org/resource/Arts_and_culture_of_Los_Angeles' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_songs_about_Los_Angeles',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_about_Los_Angeles' } ] } }

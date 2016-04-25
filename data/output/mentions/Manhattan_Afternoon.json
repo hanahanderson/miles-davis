@@ -1,0 +1,8 @@
+{ name: 'Manhattan Afternoon',
+  href: 'http://en.wikipedia.org/wiki/Manhattan_Afternoon',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 749,
+       quote: [ '"The Theme" (Miles Davis) - 3:46' ] } ] }

@@ -1,0 +1,8 @@
+{ name: '1945 in music',
+  href: 'http://en.wikipedia.org/wiki/1945_in_music',
+  mentions: 
+   [ { sectionHeader: 'Events',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 589,
+       quote: [ 'November 26 - Charlie Parker makes his first recording as a lead player, also featuring Miles Davis.' ] } ] }

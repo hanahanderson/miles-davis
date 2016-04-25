@@ -1,0 +1,143 @@
+{ name: 'Coltrane Live at Birdland',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Coltrane_Live_at_Birdland',
+  values: 
+   { 'dbo:Work/runtime': 
+      [ { value: '38.983333333333334' },
+        { value: '43.583333333333336' } ],
+     'dbo:abstract': [ { value: 'Coltrane Live at Birdland is a 1964 album by jazz musician John Coltrane. Despite its title, only the first three tracks were recorded live at the Birdland club, the rest are studio tracks. Among them, is "Alabama" a tribute to four children killed in the 16th Street Baptist Church bombing, an attack at a Birmingham, Alabama church by white supremacists. The album\'s original pressing accidentally included a false start - this was corrected in later copies, but restored in CD editions. The album also features a live recording of "I Want to Talk About You," a song Coltrane had recorded on his 1958 album Soultrane, this time with a famous extended cadenza, lasting over eight minutes. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Post-bop',
+          href: 'http://dbpedia.org/resource/Post-bop' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:longtype': [ { value: '/Studio album' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Impressions_(John_Coltrane_album)',
+          href: 'http://dbpedia.org/resource/Impressions_(John_Coltrane_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Thiele',
+          href: 'http://dbpedia.org/resource/Bob_Thiele' } ],
+     'dbo:recordDate': 
+      [ { value: '1963-03-06 (xsd:date)' },
+        { value: '1963-10-08 (xsd:date)' },
+        { value: '1963-11-18 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Impulse!_Records',
+          href: 'http://dbpedia.org/resource/Impulse!_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' },
+        { value: 'dbr:Birdland_(New_York_jazz_club)',
+          href: 'http://dbpedia.org/resource/Birdland_(New_York_jazz_club)' },
+        { value: 'dbr:Englewood_Cliffs,_New_Jersey',
+          href: 'http://dbpedia.org/resource/Englewood_Cliffs,_New_Jersey' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': 
+      [ { value: '2339.000000 (xsd:double)' },
+        { value: '2615.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Crescent_(John_Coltrane_album)',
+          href: 'http://dbpedia.org/resource/Crescent_(John_Coltrane_album)' } ],
+     'dbo:wikiPageID': [ { value: '10108642 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678359023 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:cover': [ { value: 'Coltrane Live at Birdland.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Post-bop',
+          href: 'http://dbpedia.org/resource/Post-bop' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Impulse! A-50 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Impressions (en)' } ],
+     'dbp:length': [ { value: '2339.0' }, { value: '2615.0' } ],
+     'dbp:longtype': [ { value: '/ Studio album (en)' } ],
+     'dbp:name': [ { value: 'Coltrane Live at Birdland (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Crescent (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Thiele',
+          href: 'http://dbpedia.org/resource/Bob_Thiele' } ],
+     'dbp:recorded': 
+      [ { value: '1963-03-06 (xsd:date)' },
+        { value: '1963-10-08 (xsd:date)' },
+        { value: '1963-11-18 (xsd:date)' },
+        { value: '(Van Gelder Studio, Englewood Cliffs) (en)' },
+        { value: '(Birdland, New York City) (en)' } ],
+     'dbp:released': [ { value: 'April 1964 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' },
+        { value: 'The Penguin Guide to Jazz (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Coltrane Live at Birdland (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1963_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1963_live_albums' },
+        { value: 'dbc:Live_avant-garde_jazz_albums',
+          href: 'http://dbpedia.org/resource/Category:Live_avant-garde_jazz_albums' },
+        { value: 'dbc:John_Coltrane_live_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Coltrane_live_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Live_post-bop_albums',
+          href: 'http://dbpedia.org/resource/Category:Live_post-bop_albums' },
+        { value: 'dbc:Impulse!_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Impulse!_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Coltrane Live at Birdland is a 1964 album by jazz musician John Coltrane. Despite its title, only the first three tracks were recorded live at the Birdland club, the rest are studio tracks. Among them, is "Alabama" a tribute to four children killed in the 16th Street Baptist Church bombing, an attack at a Birmingham, Alabama church by white supremacists. The album\'s original pressing accidentally included a false start - this was corrected in later copies, but restored in CD editions. (en)' } ],
+     'rdfs:label': [ { value: 'Coltrane Live at Birdland (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Coltrane Live at Birdland',
+          href: 'http://fr.dbpedia.org/resource/Live_at_Birdland' },
+        { value: 'dbpedia-it:Coltrane Live at Birdland',
+          href: 'http://it.dbpedia.org/resource/Coltrane_Live_at_Birdland' },
+        { value: 'dbpedia-wikidata:Coltrane Live at Birdland',
+          href: 'http://wikidata.dbpedia.org/resource/Q3256983' },
+        { value: 'wikidata:Coltrane Live at Birdland',
+          href: 'http://www.wikidata.org/entity/Q3256983' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Coltrane_Live_at_Birdland?oldid=678359023',
+          href: 'http://en.wikipedia.org/wiki/Coltrane_Live_at_Birdland?oldid=678359023' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Coltrane_Live_at_Birdland',
+          href: 'http://en.wikipedia.org/wiki/Coltrane_Live_at_Birdland' } ],
+     'foaf:name': [ { value: 'Coltrane Live at Birdland (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Crescent_(John_Coltrane_album)',
+          href: 'http://dbpedia.org/resource/Crescent_(John_Coltrane_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Impressions_(John_Coltrane_album)',
+          href: 'http://dbpedia.org/resource/Impressions_(John_Coltrane_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Live_at_Birdland_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Live_at_Birdland_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Live_at_Birdland',
+          href: 'http://dbpedia.org/resource/Live_at_Birdland' },
+        { value: 'dbr:Live_at_birdland',
+          href: 'http://dbpedia.org/resource/Live_at_birdland' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Coltrane_Live_at_Birdland',
+          href: 'http://en.wikipedia.org/wiki/Coltrane_Live_at_Birdland' } ] } }

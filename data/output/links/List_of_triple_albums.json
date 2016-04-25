@@ -1,0 +1,26 @@
+{ name: 'List of triple albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_triple_albums',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a list of triple albums, in which the initial release of the album includes three  LP records or compact discs. (en)' } ],
+     'dbo:wikiPageID': [ { value: '16344289 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680712432 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_albums',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_albums' } ],
+     'rdfs:comment': [ { value: 'The following is a list of triple albums, in which the initial release of the album includes three  LP records or compact discs. (en)' } ],
+     'rdfs:label': [ { value: 'List of triple albums (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of triple albums',
+          href: 'http://wikidata.dbpedia.org/resource/Q6644004' },
+        { value: 'wikidata:List of triple albums',
+          href: 'http://www.wikidata.org/entity/Q6644004' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_triple_albums?oldid=680712432',
+          href: 'http://en.wikipedia.org/wiki/List_of_triple_albums?oldid=680712432' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_triple_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_triple_albums' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_triple_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_triple_albums' } ] } }

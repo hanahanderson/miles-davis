@@ -1,0 +1,8 @@
+{ name: 'Michel Comte',
+  href: 'http://en.wikipedia.org/wiki/Michel_Comte',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1188,
+       quote: [ 'Comte produced many iconic portraits including Jeremy Irons, Louise Bourgeois, Mike Tyson, Akira Kurosawa, Sharon Stone, Carla Bruni, Naomi Campbell, Helena Christensen, Miles Davis and many more.' ] } ] }

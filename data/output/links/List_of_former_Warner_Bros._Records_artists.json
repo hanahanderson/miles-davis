@@ -1,0 +1,34 @@
+{ name: 'List of former Warner Bros. Records artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_former_Warner_Bros._Records_artists',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of artists who used to record for Warner Bros. Records.Listed in parentheses are names of Warner Bros.-affiliated labels for which the artist recorded. (en)' } ],
+     'dbo:wikiPageID': [ { value: '11963924 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681517816 (xsd:integer)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_artists_by_record_label',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_artists_by_record_label' } ],
+     'rdfs:comment': [ { value: 'This is a list of artists who used to record for Warner Bros. Records.Listed in parentheses are names of Warner Bros.-affiliated labels for which the artist recorded. (en)' } ],
+     'rdfs:label': [ { value: 'List of former Warner Bros. Records artists (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-pt:List of former Warner Bros. Records artists',
+          href: 'http://pt.dbpedia.org/resource/Lista_de_artistas_anteriores_da_Warner_Bros._Records' },
+        { value: 'dbpedia-wikidata:List of former Warner Bros. Records artists',
+          href: 'http://wikidata.dbpedia.org/resource/Q6621191' },
+        { value: 'wikidata:List of former Warner Bros. Records artists',
+          href: 'http://www.wikidata.org/entity/Q6621191' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_former_Warner_Bros._Records_artists?oldid=681517816',
+          href: 'http://en.wikipedia.org/wiki/List_of_former_Warner_Bros._Records_artists?oldid=681517816' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_former_Warner_Bros._Records_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_former_Warner_Bros._Records_artists' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_past_Warner_Bros._Records_artists',
+          href: 'http://dbpedia.org/resource/List_of_past_Warner_Bros._Records_artists' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_former_Warner_Bros._Records_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_former_Warner_Bros._Records_artists' } ] } }

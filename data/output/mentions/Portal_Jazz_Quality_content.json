@@ -1,0 +1,8 @@
+{ name: 'Portal:Jazz/Quality content',
+  href: 'http://en.wikipedia.org/wiki/Portal:Jazz/Quality_content',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 6695,
+       quote: [ ' Miles Davis' ] } ] }

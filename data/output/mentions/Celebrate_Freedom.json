@@ -1,0 +1,8 @@
+{ name: 'Celebrate Freedom',
+  href: 'http://en.wikipedia.org/wiki/Celebrate_Freedom',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 391,
+       quote: [ 'Cross Rhythms\' review of the album stated that "On Celebrate Freedom Phil puts down some vocals as well as his already well established \'Miles Davis eat your heart out\' trumpet style." The UK publication also noted Drscoll\'s "Joe Cocker-ish approach to blue-eyed soul singing".' ] } ] }

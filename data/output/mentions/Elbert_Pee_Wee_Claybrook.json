@@ -1,0 +1,8 @@
+{ name: 'Elbert Pee Wee Claybrook',
+  href: 'http://en.wikipedia.org/wiki/Elbert_Pee_Wee_Claybrook',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1322,
+       quote: [ 'Many artist were raised in the mist of these creative geniuses such as; Jimmy Forrest, Jimmy Blanton, Miles Davis.' ] } ] }

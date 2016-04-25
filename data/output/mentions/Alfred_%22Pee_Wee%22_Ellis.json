@@ -1,0 +1,8 @@
+{ name: 'Alfred "Pee Wee" Ellis',
+  href: 'http://en.wikipedia.org/wiki/Alfred_%22Pee_Wee%22_Ellis',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2026,
+       quote: [ 'In the late 1970s he moved to San Francisco and formed a band with former Miles Davis sideman David Liebman, with whom he recorded "The Chicken", that was to become a favourite of Jaco Pastorius.' ] } ] }

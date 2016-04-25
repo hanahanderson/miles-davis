@@ -1,0 +1,8 @@
+{ name: 'User:Lugnuts/List of albums considered the best',
+  href: 'http://en.wikipedia.org/wiki/User:Lugnuts/List_of_albums_considered_the_best',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 570,
+       quote: [ 'In November 2003, USA Today noted that Rolling Stone magazine\'s The 500 Greatest Albums of All Time "is weighted toward testosterone-fueled vintage rock", with only a "smattering of country (Johnny Cash), jazz (Miles Davis) and seminal blues (Howlin\' Wolf)." There are often problems with vote stacking or skewed demographics; Internet-based surveys have a self-selecting audience.' ] } ] }

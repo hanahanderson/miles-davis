@@ -1,0 +1,8 @@
+{ name: 'Thugz Mansion',
+  href: 'http://en.wikipedia.org/wiki/Thugz_Mansion',
+  mentions: 
+   [ { sectionHeader: 'Overview',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1162,
+       quote: [ 'One of the most introspective and spiritual songs by 2Pac, this song talks about how he would rest in peace, and that he would eventually find happiness when he is in a place where all the troubles and pains of his life come to an end, and that he would want to end up in that place of peace after he dies; he also name-drops various figures of African American cultural history (namely: Marvin Gaye, Billie Holiday, Jackie Wilson, Sam Cooke, Malcolm X, Miles Davis) and recent political events (i.e., Latasha Harlins), all of whom he believed to be in heaven.' ] } ] }

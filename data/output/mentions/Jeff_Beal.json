@@ -1,0 +1,8 @@
+{ name: 'Jeff Beal',
+  href: 'http://en.wikipedia.org/wiki/Jeff_Beal',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 753,
+       quote: [ 'Beal\'s grandmother, Irene Beal, was an accomplished pianist, professional silent-movie accompanist, and fan of trumpeter Miles Davis.' ] } ] }

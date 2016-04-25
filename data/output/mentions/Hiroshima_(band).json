@@ -1,0 +1,8 @@
+{ name: 'Hiroshima (band)',
+  href: 'http://en.wikipedia.org/wiki/Hiroshima_(band)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1180,
+       quote: [ 'One of the highlights of Hiroshima\'s career was serving as the opening act for the Miles Davis 1990 world tour.' ] } ] }

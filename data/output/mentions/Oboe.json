@@ -1,0 +1,8 @@
+{ name: 'Oboe',
+  href: 'http://en.wikipedia.org/wiki/Oboe',
+  mentions: 
+   [ { sectionHeader: 'Use in non-classical music',
+       sectionSubHeader: '',
+       sectionIndex: 46,
+       wordCountBeforeSection: 22294,
+       quote: [ 'Gil Evans featured oboe in sections of his famous Sketches of Spain collaboration with trumpeter Miles Davis.' ] } ] }

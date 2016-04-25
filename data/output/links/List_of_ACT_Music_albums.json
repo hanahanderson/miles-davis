@@ -1,0 +1,21 @@
+{ name: 'List of ACT Music albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_ACT_Music_albums',
+  values: 
+   { 'dbo:abstract': [ { value: 'A discography of albums released by the label ACT Music.Distributor catalogue numbers are not provided here. (en)' } ],
+     'dbo:wikiPageID': [ { value: '46382568 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674574939 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:ACT_Music_albums',
+          href: 'http://dbpedia.org/resource/Category:ACT_Music_albums' } ],
+     'rdfs:comment': [ { value: 'A discography of albums released by the label ACT Music.Distributor catalogue numbers are not provided here. (en)' } ],
+     'rdfs:label': [ { value: 'List of ACT Music albums (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_ACT_Music_albums?oldid=674574939',
+          href: 'http://en.wikipedia.org/wiki/List_of_ACT_Music_albums?oldid=674574939' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_ACT_Music_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_ACT_Music_albums' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_ACT_Music_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_ACT_Music_albums' } ] } }

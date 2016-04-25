@@ -1,0 +1,8 @@
+{ name: 'User talk:MilesTrane21',
+  href: 'http://en.wikipedia.org/wiki/User_talk:MilesTrane21',
+  mentions: 
+   [ { sectionHeader: 'Welcome! (...and apology)',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 805,
+       quote: [ 'And sorry for reverting your recent edit to Miles Davis - I\'ve sorted it out now.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Double harmonic scale',
+  href: 'http://en.wikipedia.org/wiki/Double_harmonic_scale',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1897,
+       quote: [ 'The Miles Davis jazz standard "Nardis" also makes use of the double harmonic.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Bibliography of jazz',
+  href: 'http://en.wikipedia.org/wiki/Bibliography_of_jazz',
+  mentions: 
+   [ { sectionHeader: 'Biographical',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 10116,
+       quote: [ 'Miles Davis' ] } ] }

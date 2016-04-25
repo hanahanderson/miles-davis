@@ -1,0 +1,8 @@
+{ name: 'Joy Villa',
+  href: 'http://en.wikipedia.org/wiki/Joy_Villa',
+  mentions: 
+   [ { sectionHeader: 'Life and work',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1208,
+       quote: [ 'Her great uncle on her mother\'s side was jazz vocalist Kenny Hagood who performed with Miles Davis, Charlie Parker, Dizzy Gillespie and Thelonious Monk.' ] } ] }

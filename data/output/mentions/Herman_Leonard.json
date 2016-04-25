@@ -1,0 +1,8 @@
+{ name: 'Herman Leonard',
+  href: 'http://en.wikipedia.org/wiki/Herman_Leonard',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1817,
+       quote: [ 'Working free-lance for various magazines, he spent his evenings at the Royal Roost and then Birdland, where he photographed jazz musicians such as Dexter Gordon, Charlie Parker, Dizzy Gillespie, Billie Holiday, Duke Ellington, Miles Davis and others.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Trio 64',
+  href: 'http://en.wikipedia.org/wiki/Trio_64',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 1849,
+       quote: [ 'Miles Davis' ] } ] }

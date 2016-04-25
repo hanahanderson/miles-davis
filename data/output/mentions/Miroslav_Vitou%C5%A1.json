@@ -1,0 +1,13 @@
+{ name: 'Miroslav Vitouš',
+  href: 'http://en.wikipedia.org/wiki/Miroslav_Vitou%C5%A1',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1277,
+       quote: [ 'In 1967, in Chicago, Miles Davis saw Vitous playing with Clark Terry and invited him to join his group for a residency at New York’s The Village Gate.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2106,
+       quote: [ 'He has worked with Larry Coryell, Jan Hammer, Freddie Hubbard, Miles Davis, Chick Corea, Wayne Shorter, Joe Zawinul, and Jan Garbarek.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'At the Deer Head Inn',
+  href: 'http://en.wikipedia.org/wiki/At_the_Deer_Head_Inn',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1010,
+       quote: [ '"Solar" (Miles Davis) - 11:21' ] } ] }

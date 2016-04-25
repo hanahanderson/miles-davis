@@ -1,0 +1,8 @@
+{ name: 'List of Légion d\'honneur recipients by name (D)',
+  href: 'http://en.wikipedia.org/wiki/List_of_L%C3%A9gion_d%27honneur_recipients_by_name_(D)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 498,
+       quote: [ 'Miles Davis' ] } ] }

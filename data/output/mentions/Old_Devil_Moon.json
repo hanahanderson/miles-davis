@@ -1,0 +1,8 @@
+{ name: 'Old Devil Moon',
+  href: 'http://en.wikipedia.org/wiki/Old_Devil_Moon',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 404,
+       quote: [ 'Miles Davis - Blue Haze (1954)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:Notability (music)/Archive 3',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Notability_(music)/Archive_3',
+  mentions: 
+   [ { sectionHeader: '"prominent representative of a notable style"',
+       sectionSubHeader: '',
+       sectionIndex: 124,
+       wordCountBeforeSection: 47774,
+       quote: [ 'Examples like Ravi Shankar, Yo Yo Ma, and Miles Davis come to mind.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:SmokeyTheCat',
+  href: 'http://en.wikipedia.org/wiki/User:SmokeyTheCat',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

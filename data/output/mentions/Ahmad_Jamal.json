@@ -1,0 +1,8 @@
+{ name: 'Ahmad Jamal',
+  href: 'http://en.wikipedia.org/wiki/Ahmad_Jamal',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 9850,
+       quote: [ 'Though Jamal is often overlooked by jazz critics and historians, he is frequently credited with having a great influence on Miles Davis.' ] } ] }

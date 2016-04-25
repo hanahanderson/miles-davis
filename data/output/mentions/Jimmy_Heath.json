@@ -1,0 +1,13 @@
+{ name: 'Jimmy Heath',
+  href: 'http://en.wikipedia.org/wiki/Jimmy_Heath',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Heath Brothers, Howard McGhee, Dizzy Gillespie, Milt Jackson, Art Farmer, Kenny Dorham, Miles Davis, Gil Evans, Curtis Fuller, Julius Watkins, Nat Adderley, Freddie Hubbard, Cedar Walton, Wynton Kelly, Paul Chambers, Kenny Burrell' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2498,
+       quote: [ 'He briefly joined Miles Davis\'s group in 1959, replacing Coltrane, and also worked with Kenny Dorham and Gil Evans.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:MarshalOctopus/Joke',
+  href: 'http://en.wikipedia.org/wiki/User:MarshalOctopus/Joke',
+  mentions: 
+   [ { sectionHeader: 'Basic variations',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 4834,
+       quote: [ 'One screws in the lightbulb, and four discuss how Miles Davis would have done it.' ] } ] }

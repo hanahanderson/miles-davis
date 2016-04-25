@@ -1,0 +1,18 @@
+{ name: 'User talk:173.171.91.179',
+  href: 'http://en.wikipedia.org/wiki/User_talk:173.171.91.179',
+  mentions: 
+   [ { sectionHeader: 'September 2012',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 185,
+       quote: [ 'The following is the log entry regarding this message: Miles Davis was changed by 173.171.91.179 (u) (t) ANN scored at 0.954965 on 2012-09-18T01:03:17+00:00 .' ] },
+     { sectionHeader: 'September 2012',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 666,
+       quote: [ ' Please refrain from making unconstructive edits to Wikipedia, as you did at Miles Davis with this edit.' ] },
+     { sectionHeader: 'September 2012',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 666,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Chasin\' the Bird (song)',
+  href: 'http://en.wikipedia.org/wiki/Chasin%27_the_Bird_(song)',
+  mentions: 
+   [ { sectionHeader: 'Original recording',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 590,
+       quote: [ 'The composition was first recorded by Parker\'s quintet, which contained Parker (alto saxophone), Miles Davis (trumpet), Bud Powell (piano), Tommy Potter (bass), and Max Roach (drums).' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Spike Wells',
+  href: 'http://en.wikipedia.org/wiki/Spike_Wells',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 310,
+       quote: [ 'He took up playing drums in his early teens: "I suppose the thing that really knocked me out about jazz was the rhythm, so I thought if I\'m going to be in a jazz band I want to be the drummer." He later had lessons from former Miles Davis drummer Philly Joe Jones, who lived in London in 1967–9, and Wells was also very influenced by another of Davis\'s drummers, Tony Williams.' ] } ] }

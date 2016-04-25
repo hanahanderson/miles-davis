@@ -1,0 +1,8 @@
+{ name: 'Monster Cable',
+  href: 'http://en.wikipedia.org/wiki/Monster_Cable',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 9072,
+       quote: [ 'After the split, Monster created its own headphones product line and other celebrity-branded headphones with music groups Earth, Wind & Fire and Miles Davis.' ] } ] }

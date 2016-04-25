@@ -1,0 +1,8 @@
+{ name: 'Owsley Stanley',
+  href: 'http://en.wikipedia.org/wiki/Owsley_Stanley',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6773,
+       quote: [ 'In addition to his large archive of Dead performances, Stanley made numerous live recordings of other leading 1960s and 1970s artists appearing in San Francisco, including Quicksilver Messenger Service, Jefferson Airplane, early Jefferson Starship, Old and in the Way, Janis Joplin, Big Brother and the Holding Company, Taj Mahal, Santana, Miles Davis, the Flying Burrito Brothers, Jimi Hendrix, Johnny Cash, and Blue Cheer' ] } ] }

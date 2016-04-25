@@ -1,0 +1,13 @@
+{ name: 'List of songs about New York City',
+  href: 'http://en.wikipedia.org/wiki/List_of_songs_about_New_York_City',
+  mentions: 
+   [ { sectionHeader: 'G',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 36635,
+       quote: [ '"Goin\' To Mintons" by Fats Navarro, Leo Parker, Miles Davis, Charlie Parker' ] },
+     { sectionHeader: 'T',
+       sectionSubHeader: '',
+       sectionIndex: 48,
+       wordCountBeforeSection: 119719,
+       quote: [ '"There\'s a Boat Dat\'s Leavin\' Soon for New York" from the opera Porgy and Bess by George Gershwin, Ira Gershwin, and Dubose Heyward and recorded by Louis Armstrong & Ella Fitzgerald, Carmen McRae & Sammy Davis, Jr., Ernestine Anderson, Miles Davis, and many more' ] } ] }

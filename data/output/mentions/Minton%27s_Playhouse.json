@@ -1,0 +1,17 @@
+{ name: 'Minton\'s Playhouse',
+  href: 'http://en.wikipedia.org/wiki/Minton%27s_Playhouse',
+  mentions: 
+   [ { sectionHeader: 'Bird and Dizzy',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 10092,
+       quote: 
+        [ 'Miles Davis, Fats Navarro, Dexter Gordon, Art Blakey, Max Roach and many others were drawn to Minton\'s.',
+          'Miles Davis\'s search for Charlie Parker brought him to Minton\'s where he "cut his teeth" at the jam sessions.' ] },
+     { sectionHeader: 'Bird and Dizzy',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 10092,
+       quote: 
+        [ 'Miles Davis, Fats Navarro, Dexter Gordon, Art Blakey, Max Roach and many others were drawn to Minton\'s.',
+          'Miles Davis\'s search for Charlie Parker brought him to Minton\'s where he "cut his teeth" at the jam sessions.' ] } ] }

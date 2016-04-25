@@ -1,0 +1,13 @@
+{ name: 'I Thought About You',
+  href: 'http://en.wikipedia.org/wiki/I_Thought_About_You',
+  mentions: 
+   [ { sectionHeader: 'Recordings',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1184,
+       quote: [ 'Miles Davis - Someday My Prince Will Come (1961), The Complete Live at the Plugged Nickel 1965' ] },
+     { sectionHeader: 'Recordings',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1184,
+       quote: [] } ] }

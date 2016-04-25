@@ -1,0 +1,8 @@
+{ name: 'User:Carveresque/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:Carveresque/sandbox',
+  mentions: 
+   [ { sectionHeader: 'Musical education, influences',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3134,
+       quote: [ 'The Massachusetts-based Dawson, legendary in the jazz world, may best be known as an early teacher of Tony Williams -- drummer for Miles Davis.' ] } ] }

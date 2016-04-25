@@ -1,0 +1,18 @@
+{ name: 'Alphonse Mouzon',
+  href: 'http://en.wikipedia.org/wiki/Alphonse_Mouzon',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Weather Report, Eleventh House, Miles Davis, McCoy Tyner' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2357,
+       quote: [ 'In 1991, he performed with Miles Davis on the movie soundtrack album entitled "Dingo".' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 65,
+       wordCountBeforeSection: 6653,
+       quote: [ 'With Miles Davis' ] } ] }

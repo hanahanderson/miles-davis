@@ -1,0 +1,8 @@
+{ name: 'Timeline of 1960s counterculture',
+  href: 'http://en.wikipedia.org/wiki/Timeline_of_1960s_counterculture',
+  mentions: 
+   [ { sectionHeader: '1970s',
+       sectionSubHeader: '',
+       sectionIndex: 69,
+       wordCountBeforeSection: 74609,
+       quote: [ 'Over fifty acts including The Who, Hendrix, Miles Davis, The Doors, Ten Years After, ELP, Joni Mitchell, and Jethro Tull.' ] } ] }

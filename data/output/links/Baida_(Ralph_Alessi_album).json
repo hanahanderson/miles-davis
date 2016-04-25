@@ -1,0 +1,4 @@
+{ name: 'Baida (Ralph Alessi album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Baida_(Ralph_Alessi_album)',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

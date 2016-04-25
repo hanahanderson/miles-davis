@@ -1,0 +1,8 @@
+{ name: 'The Paris Concert: Edition One',
+  href: 'http://en.wikipedia.org/wiki/The_Paris_Concert:_Edition_One',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1740,
+       quote: [ 'Miles Davis' ] } ] }

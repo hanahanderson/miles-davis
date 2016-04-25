@@ -1,0 +1,8 @@
+{ name: 'Tales (album)',
+  href: 'http://en.wikipedia.org/wiki/Tales_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 2373,
+       quote: [ 'Miles Davis' ] } ] }

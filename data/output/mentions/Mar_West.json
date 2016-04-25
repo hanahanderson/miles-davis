@@ -1,0 +1,8 @@
+{ name: 'Mar West',
+  href: 'http://en.wikipedia.org/wiki/Mar_West',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 583,
+       quote: [ '"Nardis" (Miles Davis) – 3:47' ] } ] }

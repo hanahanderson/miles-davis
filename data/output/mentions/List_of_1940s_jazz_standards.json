@@ -1,0 +1,8 @@
+{ name: 'List of 1940s jazz standards',
+  href: 'http://en.wikipedia.org/wiki/List_of_1940s_jazz_standards',
+  mentions: 
+   [ { sectionHeader: '1947',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 10328,
+       quote: [ '"Donna Lee" is a jazz composition by Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Talk:Sickle-cell disease/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:Sickle-cell_disease/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'Well-known victims',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3629,
+       quote: [ 'Miles Davis, jazz musician.' ] } ] }

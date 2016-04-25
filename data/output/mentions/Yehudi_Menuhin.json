@@ -1,0 +1,8 @@
+{ name: 'Yehudi Menuhin',
+  href: 'http://en.wikipedia.org/wiki/Yehudi_Menuhin',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 65,
+       wordCountBeforeSection: 23194,
+       quote: [ 'Miles Davis (1984)' ] } ] }

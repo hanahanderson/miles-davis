@@ -1,0 +1,8 @@
+{ name: 'Jazz guitar',
+  href: 'http://en.wikipedia.org/wiki/Jazz_guitar',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4750,
+       quote: [ 'Guitarists in the fusion realm fused the post-bop harmonic and melodic language of musicians such as John Coltrane, McCoy Tyner, Ornette Coleman, and Miles Davis with a hard-edged (and usually very loud) rock tone created by iconic guitarists such as Cream\'s Eric Clapton who\'d redefined the sound of the guitar for those unfamiliar with the black blues players of Chicago and, before that, the Delta region of the Missssippi upon whom his style was based.' ] } ] }

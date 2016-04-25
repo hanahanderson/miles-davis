@@ -1,0 +1,8 @@
+{ name: 'Blues for Sarka',
+  href: 'http://en.wikipedia.org/wiki/Blues_for_Sarka',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 860,
+       quote: [ '"All Blues" (Miles Davis) - 15:29' ] } ] }

@@ -1,0 +1,91 @@
+{ name: 'Envoi (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Envoi_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '53.083333333333336' } ],
+     'dbo:abstract': [ { value: 'Envoi is an album by American jazz trumpeter Bill Dixon, which was recorded live at the 2010 edition of the Festival International de Musique Actuelle de Victoriaville and released on the Canadian Victo label. Dixon reassembled the nonet previously employed on Tapestries for Small Orchestra. It was his last concert, which took place less than a month before he died. Dixon’s failing health required that his solos were prerecorded and played back during the performance. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Dixon',
+          href: 'http://dbpedia.org/resource/Bill_Dixon' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Tapestries_for_Small_Orchestra',
+          href: 'http://dbpedia.org/resource/Tapestries_for_Small_Orchestra' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bill_Dixon',
+          href: 'http://dbpedia.org/resource/Bill_Dixon' } ],
+     'dbo:recordDate': [ { value: '2010-05-22 (xsd:date)' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Victoriaville',
+          href: 'http://dbpedia.org/resource/Victoriaville' },
+        { value: 'dbr:Canada',
+          href: 'http://dbpedia.org/resource/Canada' } ],
+     'dbo:runtime': [ { value: '3185.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '44075656 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664764720 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Dixon',
+          href: 'http://dbpedia.org/resource/Bill_Dixon' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Dixon',
+          href: 'http://dbpedia.org/resource/Bill_Dixon' } ],
+     'dbp:cover': [ { value: 'Envoi_cover.jpeg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Victo (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Tapestries for Small Orchestra (en)' } ],
+     'dbp:length': [ { value: '3185.0' } ],
+     'dbp:name': [ { value: 'Envoi (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bill_Dixon',
+          href: 'http://dbpedia.org/resource/Bill_Dixon' } ],
+     'dbp:recorded': 
+      [ { value: '2010-05-22 (xsd:date)' },
+        { value: '(Victoriaville, Canada) (en)' } ],
+     'dbp:released': [ { value: '2011 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Envoi (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bill_Dixon_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Dixon_live_albums' },
+        { value: 'dbc:2011_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2011_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Envoi is an album by American jazz trumpeter Bill Dixon, which was recorded live at the 2010 edition of the Festival International de Musique Actuelle de Victoriaville and released on the Canadian Victo label. Dixon reassembled the nonet previously employed on Tapestries for Small Orchestra. It was his last concert, which took place less than a month before he died. Dixon’s failing health required that his solos were prerecorded and played back during the performance. (en)' } ],
+     'rdfs:label': [ { value: 'Envoi (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Envoi (album)',
+          href: 'http://rdf.freebase.com/ns/m.01222byc' },
+        { value: 'dbpedia-wikidata:Envoi (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q18353714' },
+        { value: 'wikidata:Envoi (album)',
+          href: 'http://www.wikidata.org/entity/Q18353714' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Envoi_(album)?oldid=664764720',
+          href: 'http://en.wikipedia.org/wiki/Envoi_(album)?oldid=664764720' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Envoi_(album)',
+          href: 'http://en.wikipedia.org/wiki/Envoi_(album)' } ],
+     'foaf:name': [ { value: 'Envoi (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Tapestries_for_Small_Orchestra',
+          href: 'http://dbpedia.org/resource/Tapestries_for_Small_Orchestra' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Envoi_(album)',
+          href: 'http://en.wikipedia.org/wiki/Envoi_(album)' } ] } }

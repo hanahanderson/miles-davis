@@ -1,0 +1,8 @@
+{ name: 'The Electric Flag',
+  href: 'http://en.wikipedia.org/wiki/The_Electric_Flag',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 6590,
+       quote: [ 'In terms of the band\'s original material, Miles Davis praised the Bloomfield–Goldberg composition, "Over-Lovin\' You", in a Down Beat Blindfold Test in 1968.' ] } ] }

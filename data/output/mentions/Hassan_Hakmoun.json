@@ -1,0 +1,8 @@
+{ name: 'Hassan Hakmoun',
+  href: 'http://en.wikipedia.org/wiki/Hassan_Hakmoun',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3000,
+       quote: [ 'One such instance occurred during a performance at the Knitting Factory, whose audience members included Miles Davis, and Daniel Lanois, who proceeded to introduce Hakmoun to an important future collaborator, pop musician Peter Gabriel.' ] } ] }

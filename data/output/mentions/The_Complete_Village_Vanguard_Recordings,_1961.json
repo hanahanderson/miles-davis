@@ -1,0 +1,13 @@
+{ name: 'The Complete Village Vanguard Recordings, 1961',
+  href: 'http://en.wikipedia.org/wiki/The_Complete_Village_Vanguard_Recordings,_1961',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1857,
+       quote: [ '"Solar" (Miles Davis) ' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2252,
+       quote: [ '"Milestones" (Miles Davis) ' ] } ] }

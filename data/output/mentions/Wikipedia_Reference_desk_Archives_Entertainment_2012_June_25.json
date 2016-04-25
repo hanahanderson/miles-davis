@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Reference desk/Archives/Entertainment/2012 June 25',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Entertainment/2012_June_25',
+  mentions: 
+   [ { sectionHeader: 'Who\'s the musician that release the most studio albums?',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 5046,
+       quote: [ 'Some common answers: Bob Dylan, Miles Davis, Slim Dusty, Frank Zappa, Elvis Presley, Tangerine Dram, Pete Namlook.' ] } ] }

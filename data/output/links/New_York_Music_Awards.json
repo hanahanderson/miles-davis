@@ -1,0 +1,50 @@
+{ name: 'New York Music Awards',
+  entityType: 'Signal106791372',
+  href: 'http://dbpedia.org/page/New_York_Music_Awards',
+  values: 
+   { 'dbo:abstract': [ { value: 'New York Music Awards is an annual awards ceremony and live concert, established in 1986 with its first sold-out show at Madison Square Garden, New York City, United States. It ran for six years with annual sold-out shows at the Beacon Theater, and then four years through 1996 with awards announced but not presented at one specific ceremony and venue.The New York Music Awards  was established by Robbie Woliver and Marilyn Lash to celebrate New York and its music after they lost the lease to their legendary and influential Greenwich Village music venue Folk City. The concerts were produced by Chip Quigley and Overland Entertainment.The New York Music Awards celebrates New York-born-and-raised and NY-based/NY-identified artists and their recordings. Nominees include major label and indie label artists as well as unsigned and rising artists. The NYMAs introduced "new" artists such as Whitney Houston, Madonna, L.L. Cool J, Vanessa Williams, Joan Osborne, Mary J. Blige, and has been credited for first introducing rap & hip hop to the mainstream.Up-and-coming and established artists in more than 50 different musical categories were honored each year in exciting award presentations featuring unforgettable performances by the best in the industry. Nominations and voting are done by a process that includes open nominations and finalist voting by music journalists and music industry representatives, along with a public vote. Critically acclaimed, the prestigious New York Music Awards was called "Better than the Grammys" by The New York Times and the "best" and "most trendsetting" awards show by the New York Daily News.Artists who participated and performed, and were honored over the years include: Miles Davis, Paul Simon, Billy Joel, Laura Nyro, Lou Reed, L.L. Cool J, Suzanne Vega, Public Enemy, Lenny Kravitz, Mariah Carey, Judy Collins, Rubén Blades, Art Garfunkel, Cameo, Meatloaf, Debbie Gibson, Michael Bolton, Carly Simon, Taylor Dayne, Smithereens, Lou Gramm, Lisa Lisa and Cult Jam, Nona Hendryx, Patti Smith, Odetta, Marianne Faithfull, The B-52s, C+C Music Factory, Arlo Guthrie, Mayor Ed Koch, Richie Havens, Darlene Love, Paul Shaffer, Taj Mahal, Roger Daltrey, Bobby Rivers, Marc Cohn, Yoko Ono, John Tesh, Busta Rhymes, De La Soul, Sophie B. Hawkins, Debbie Harry, John Lurie, Donna Summer, Dion, Salt-n-Pepa, Sonic Youth, Betty Carter, the Ramones, Christine Lavin, Lori Carson, The Manhattan Transfer, Phoebe Snow, Patti Austin, Cyndi Lauper, 10,000 Maniacs, Pat Benatar, Syd Straw, Patty Smyth & Scandal, Bill Graham, Frank Christian, Sinéad O\'Connor, CBGB\'s Hilly Kristal, Howard Stern, Essra Mohawk, M.C. Lyte, Raven-Symoné, Smithereens and hundreds of others.After a brief hiatus, the New York Music Awards returned with the 2010 New York Music Awards winners. The New York Music Awards expanded its Hall of Fame awards and evolved into a new organization, the New York Music Hall of Fame, and the awards will be an ongoing event produced the NYMHOF. (en)' } ],
+     'dbo:wikiPageID': [ { value: '31221292 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679385660 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_music_awards',
+          href: 'http://dbpedia.org/resource/Category:American_music_awards' },
+        { value: 'dbc:Articles_created_via_the_Article_Wizard',
+          href: 'http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard' },
+        { value: 'dbc:Culture_of_New_York_City',
+          href: 'http://dbpedia.org/resource/Category:Culture_of_New_York_City' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:AmericanMusicAwards',
+          href: 'http://dbpedia.org/class/yago/AmericanMusicAwards' },
+        { value: 'yago:Award106696483',
+          href: 'http://dbpedia.org/class/yago/Award106696483' },
+        { value: 'yago:Communication100033020',
+          href: 'http://dbpedia.org/class/yago/Communication100033020' },
+        { value: 'yago:Signal106791372',
+          href: 'http://dbpedia.org/class/yago/Signal106791372' },
+        { value: 'yago:Symbol106806469',
+          href: 'http://dbpedia.org/class/yago/Symbol106806469' } ],
+     'rdfs:comment': [ { value: 'New York Music Awards is an annual awards ceremony and live concert, established in 1986 with its first sold-out show at Madison Square Garden, New York City, United States. (en)' } ],
+     'rdfs:label': [ { value: 'New York Music Awards (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:New York Music Awards',
+          href: 'http://rdf.freebase.com/ns/m.0gj8ydw' },
+        { value: 'dbpedia-wikidata:New York Music Awards',
+          href: 'http://wikidata.dbpedia.org/resource/Q17083489' },
+        { value: 'wikidata:New York Music Awards',
+          href: 'http://www.wikidata.org/entity/Q17083489' },
+        { value: 'yago-res:New York Music Awards',
+          href: 'http://yago-knowledge.org/resource/New_York_Music_Awards' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:New_York_Music_Awards?oldid=679385660',
+          href: 'http://en.wikipedia.org/wiki/New_York_Music_Awards?oldid=679385660' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:New_York_Music_Awards',
+          href: 'http://en.wikipedia.org/wiki/New_York_Music_Awards' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:New_York_Music_Award',
+          href: 'http://dbpedia.org/resource/New_York_Music_Award' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:New_York_Music_Awards',
+          href: 'http://en.wikipedia.org/wiki/New_York_Music_Awards' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Avo Session Basel',
+  href: 'http://en.wikipedia.org/wiki/Avo_Session_Basel',
+  mentions: 
+   [ { sectionHeader: 'Regional establishment',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 828,
+       quote: [ 'In 1988 Miles Davis agreed to perform at the festival.' ] } ] }

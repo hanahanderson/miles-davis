@@ -1,0 +1,8 @@
+{ name: 'User:Eganio',
+  href: 'http://en.wikipedia.org/wiki/User:Eganio',
+  mentions: 
+   [ { sectionHeader: 'Me',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 893,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Thirteen (Robert Miles album)',
+  href: 'http://en.wikipedia.org/wiki/Thirteen_(Robert_Miles_album)',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 650,
+       quote: [ 'I discovered Miles Davis at the age of nineteen, when a good friend of mine introduced me to his music.' ] } ] }

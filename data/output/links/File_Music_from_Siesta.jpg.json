@@ -1,0 +1,12 @@
+{ name: 'File:Music from Siesta.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Music_from_Siesta.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '17143492 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '208541303 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Music_from_Siesta.jpg?oldid=208541303',
+          href: 'http://en.wikipedia.org/wiki/File:Music_from_Siesta.jpg?oldid=208541303' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Music_from_Siesta.jpg',
+          href: 'http://dbpedia.org/resource/File:Music_from_Siesta.jpg' } ] } }

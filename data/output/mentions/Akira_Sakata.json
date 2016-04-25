@@ -1,0 +1,8 @@
+{ name: 'Akira Sakata',
+  href: 'http://en.wikipedia.org/wiki/Akira_Sakata',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 390,
+       quote: [ 'Laswell went on to play bass on and produce Sakata albums such as Mooko, Silent Plankton and Fisherman\'s.com, the last of which also featured the reclusive Pete Cosey (who had worked with Miles Davis) on guitar.' ] } ] }

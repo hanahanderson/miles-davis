@@ -1,0 +1,8 @@
+{ name: 'Ain\'t a Damn Thing Changed',
+  href: 'http://en.wikipedia.org/wiki/Ain%27t_a_Damn_Thing_Changed',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1227,
+       quote: [ '"A Night In Tunisia" by Charlie Parker and Miles Davis' ] } ] }

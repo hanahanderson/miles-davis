@@ -1,0 +1,8 @@
+{ name: 'Jack Walrath',
+  href: 'http://en.wikipedia.org/wiki/Jack_Walrath',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2922,
+       quote: [ 'Walrath has been a sideman for Muhal Richard Abrams, Ricky Ford, Sam Rivers, Joe Morello, Miles Davis, Quincy Jones, Ray Anderson, Craig Harris, Pete LaRoca, Mike Longo, Elvis Costello, Larry Willis, George Gruntz, Gunther Schuller, Hal Galper, Bobby Watson, Richie Cole and others.' ] } ] }

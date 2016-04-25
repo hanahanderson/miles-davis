@@ -1,0 +1,8 @@
+{ name: 'Sjur Miljeteig',
+  href: 'http://en.wikipedia.org/wiki/Sjur_Miljeteig',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 337,
+       quote: [] } ] }

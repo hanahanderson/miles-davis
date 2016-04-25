@@ -1,0 +1,13 @@
+{ name: 'Sounding Point',
+  href: 'http://en.wikipedia.org/wiki/Sounding_Point',
+  mentions: 
+   [ { sectionHeader: 'Selected tracks',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2319,
+       quote: [ 'The album\'s closing track, "All Blues" is a cover of the Miles Davis composition.' ] },
+     { sectionHeader: 'Tracks',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 4109,
+       quote: [ '"All Blues" (Miles Davis) 7:14' ] } ] }

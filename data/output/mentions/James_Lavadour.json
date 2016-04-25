@@ -1,0 +1,8 @@
+{ name: 'James Lavadour',
+  href: 'http://en.wikipedia.org/wiki/James_Lavadour',
+  mentions: 
+   [ { sectionHeader: 'Fine art career',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 5043,
+       quote: [ 'Music serves as an inspiration and a motivator; often jazz music by the likes of some of his favorite artists: John Coltrane, Sun Ra and Miles Davis.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject Biography/Popular pages',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_Biography/Popular_pages',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

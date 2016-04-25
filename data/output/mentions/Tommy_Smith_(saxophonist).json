@@ -1,0 +1,8 @@
+{ name: 'Tommy Smith (saxophonist)',
+  href: 'http://en.wikipedia.org/wiki/Tommy_Smith_(saxophonist)',
+  mentions: 
+   [ { sectionHeader: 'Scottish National Jazz Orchestra',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 10685,
+       quote: [ 'The repertory programmes have included Duke Ellington\'s extended suites, celebrations of Count Basie and Benny Goodman (with special guest Ken Peplowski) and the collaborations between Miles Davis and Gil Evans – Porgy & Bess, Sketches of Spain (both with Gerard Presencer as trumpet soloist) and Miles Ahead (with Ingrid Jensen).' ] } ] }

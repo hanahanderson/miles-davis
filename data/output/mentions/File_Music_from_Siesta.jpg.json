@@ -1,0 +1,13 @@
+{ name: 'File:Music from Siesta.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:Music_from_Siesta.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is the cover art for Music from Siesta by the artist Miles Davis.' ] },
+     { sectionHeader: 'File history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 3498,
+       quote: [ '{{album cover fur <!-- REQUIRED --> |Article=Music from Siesta |Use=Infobox <!-- HIGHLY RECOMMENDED --> |Source= <!-- ADDITIONAL INFORMATION --> |Name=\'\'Music from Siesta\'\' |Artist=Miles Davis |Label=Warner Bros.' ] } ] }

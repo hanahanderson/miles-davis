@@ -1,0 +1,108 @@
+{ name: 'Out of This World (Pepper Adams Donald Byrd Quintet album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Out_of_This_World_(Pepper_Adams_Donald_Byrd_Quintet_album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Out of this World is an album by the Pepper Adams Donald Byrd Quintet.  The album is notable for introducing pianist Herbie Hancock. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Pepper_Adams',
+          href: 'http://dbpedia.org/resource/Pepper_Adams' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Royal_Flush_(album)',
+          href: 'http://dbpedia.org/resource/Royal_Flush_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Teddy_Charles',
+          href: 'http://dbpedia.org/resource/Teddy_Charles' } ],
+     'dbo:recordDate': [ { value: '1961-03-02 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Warwick_Records_(United_States)',
+          href: 'http://dbpedia.org/resource/Warwick_Records_(United_States)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Chant_(Donald_Byrd_album)',
+          href: 'http://dbpedia.org/resource/Chant_(Donald_Byrd_album)' } ],
+     'dbo:wikiPageID': [ { value: '38898772 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '587836023 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Pepper Adams Donald Byrd Quintet (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Donald_Byrd',
+          href: 'http://dbpedia.org/resource/Donald_Byrd' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Warwick_Records_(United_States)',
+          href: 'http://dbpedia.org/resource/Warwick_Records_(United_States)' },
+        { value: 'W 2041 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Royal Flush (en)' } ],
+     'dbp:name': [ { value: 'Out of this World (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Chant (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Teddy_Charles',
+          href: 'http://dbpedia.org/resource/Teddy_Charles' } ],
+     'dbp:recorded': [ { value: '1961-03-02 (xsd:date)' } ],
+     'dbp:released': [ { value: '1961 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Out of this World (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Pepper_Adams_albums',
+          href: 'http://dbpedia.org/resource/Category:Pepper_Adams_albums' },
+        { value: 'dbc:1961_albums',
+          href: 'http://dbpedia.org/resource/Category:1961_albums' },
+        { value: 'dbc:Donald_Byrd_albums',
+          href: 'http://dbpedia.org/resource/Category:Donald_Byrd_albums' },
+        { value: 'dbc:Albums_produced_by_Teddy_Charles',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Teddy_Charles' },
+        { value: 'dbc:Warwick_Records_(United_States)_albums',
+          href: 'http://dbpedia.org/resource/Category:Warwick_Records_(United_States)_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Out of this World is an album by the Pepper Adams Donald Byrd Quintet.  The album is notable for introducing pianist Herbie Hancock. (en)' } ],
+     'rdfs:label': [ { value: 'Out of This World (Pepper Adams Donald Byrd Quintet album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Out of This World (Pepper Adams Donald Byrd Quintet album)',
+          href: 'http://rdf.freebase.com/ns/m.0rythy3' },
+        { value: 'dbpedia-fr:Out of This World (Pepper Adams Donald Byrd Quintet album)',
+          href: 'http://fr.dbpedia.org/resource/Out_of_this_World_(album)' },
+        { value: 'dbpedia-it:Out of This World (Pepper Adams Donald Byrd Quintet album)',
+          href: 'http://it.dbpedia.org/resource/Out_of_This_World_(Pepper_Adams_Donald_Byrd)' },
+        { value: 'dbpedia-wikidata:Out of This World (Pepper Adams Donald Byrd Quintet album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q3358590' },
+        { value: 'wikidata:Out of This World (Pepper Adams Donald Byrd Quintet album)',
+          href: 'http://www.wikidata.org/entity/Q3358590' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Out_of_This_World_(Pepper_Adams_Donald_Byrd_Quintet_album)?oldid=587836023',
+          href: 'http://en.wikipedia.org/wiki/Out_of_This_World_(Pepper_Adams_Donald_Byrd_Quintet_album)?oldid=587836023' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Out_of_This_World_(Pepper_Adams_Donald_Byrd_Quintet_album)',
+          href: 'http://en.wikipedia.org/wiki/Out_of_This_World_(Pepper_Adams_Donald_Byrd_Quintet_album)' } ],
+     'foaf:name': [ { value: 'Out of this World (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Chant_(Donald_Byrd_album)',
+          href: 'http://dbpedia.org/resource/Chant_(Donald_Byrd_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Motor_City_Scene',
+          href: 'http://dbpedia.org/resource/Motor_City_Scene' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Out_of_This_World',
+          href: 'http://dbpedia.org/resource/Out_of_This_World' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Out_of_this_World_(Pepper_Adams_Donald_Byrd_Quintet_album)',
+          href: 'http://dbpedia.org/resource/Out_of_this_World_(Pepper_Adams_Donald_Byrd_Quintet_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Out_of_This_World_(Pepper_Adams_Donald_Byrd_Quintet_album)',
+          href: 'http://en.wikipedia.org/wiki/Out_of_This_World_(Pepper_Adams_Donald_Byrd_Quintet_album)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Spaceman Patterson',
+  href: 'http://en.wikipedia.org/wiki/Spaceman_Patterson',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 660,
+       quote: [ '\nWilliam "Spaceman" Patterson is a composer, arranger, producer, music director, director and entrepreneur who has collaborated with Miles Davis and James Brown.' ] } ] }

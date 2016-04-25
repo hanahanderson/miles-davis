@@ -1,0 +1,8 @@
+{ name: 'Interplay (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Interplay_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 2301,
+       quote: [ 'Miles Davis' ] } ] }

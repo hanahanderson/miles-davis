@@ -1,0 +1,18 @@
+{ name: 'Wikipedia:Former featured articles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Former_featured_articles',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'dbpedia-es:Wikipedia:Artículos_anteriormente_destacados',
+          href: 'http://es.dbpedia.org/resource/Wikipedia:Artículos_anteriormente_destacados' },
+        { value: 'dbpedia-id:Wikipedia:Artikel_pilihan/Mantan',
+          href: 'http://id.dbpedia.org/resource/Wikipedia:Artikel_pilihan/Mantan' },
+        { value: 'dbpedia-pl:Wikipedia:Byłe_artykuły_na_medal',
+          href: 'http://pl.dbpedia.org/resource/Wikipedia:Byłe_artykuły_na_medal' },
+        { value: 'dbpedia-pt:Wikipédia:Ex-artigos_destacados',
+          href: 'http://pt.dbpedia.org/resource/Wikipédia:Ex-artigos_destacados' },
+        { value: 'dbpedia-wikidata:Q11110958',
+          href: 'http://wikidata.dbpedia.org/resource/Q11110958' },
+        { value: 'wikidata:Q11110958',
+          href: 'http://www.wikidata.org/entity/Q11110958' } ],
+     'is dbo:wikiPageDisambiguates\n of': [ { value: 'dbr:FFA', href: 'http://dbpedia.org/resource/FFA' } ] } }

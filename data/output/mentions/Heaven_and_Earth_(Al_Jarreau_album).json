@@ -1,0 +1,13 @@
+{ name: 'Heaven and Earth (Al Jarreau album)',
+  href: 'http://en.wikipedia.org/wiki/Heaven_and_Earth_(Al_Jarreau_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 393,
+       quote: [ 'It contains two reworkings of the Miles Davis tune "Blue in Green" from Davis\' Kind of Blue both showing Al Jarreau considerable prowess as a vocal interpreter and scat singer.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 940,
+       quote: [ '"(Blue in Green) Tapestry; The Dedication" – 2:53 (Miles Davis, Al Jarreau)' ] } ] }

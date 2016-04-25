@@ -1,0 +1,20 @@
+{ name: 'Mino Cinelu',
+  href: 'http://en.wikipedia.org/wiki/Mino_Cinelu',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis, Weather Report, Jaco Pastorius' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 607,
+       quote: [ '2.2 With Miles Davis' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1952,
+       quote: 
+        [ 'In the beginning of the 1980s he met Miles Davis while playing in a soul band at the New York club Mikkel\'s.',
+          'After a month of rehearsals, Cinelu went on tour with Miles Davis\' band.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:Today\'s featured article/September 2005',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/September_2005',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Recently featured: Miles Davis – History of Arizona – Algerian Civil War' ] } ] }

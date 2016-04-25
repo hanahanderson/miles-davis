@@ -1,0 +1,8 @@
+{ name: 'Terry Riley',
+  href: 'http://en.wikipedia.org/wiki/Terry_Riley',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1899,
+       quote: [ 'Riley also cites John Cage and "the really great chamber music groups of John Coltrane and Miles Davis, Charles Mingus, Bill Evans, and Gil Evans" as influences on his work, demonstrating how he pulled together strands of Eastern music, the Western avant-garde, and jazz.' ] } ] }

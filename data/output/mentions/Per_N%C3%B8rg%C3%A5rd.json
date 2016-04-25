@@ -1,0 +1,8 @@
+{ name: 'Per Nørgård',
+  href: 'http://en.wikipedia.org/wiki/Per_N%C3%B8rg%C3%A5rd',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Selected other works',
+       sectionIndex: 28,
+       wordCountBeforeSection: 6353,
+       quote: [ 'Miles Davis (1984)' ] } ] }

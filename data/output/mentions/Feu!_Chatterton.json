@@ -1,0 +1,8 @@
+{ name: 'Feu! Chatterton',
+  href: 'http://en.wikipedia.org/wiki/Feu!_Chatterton',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 441,
+       quote: [ 'Their other influences include Television, Led Zeppelin, as well as jazzmen such as Chet Baker, Nat King Cole and Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:DoctorWho42/List of The Memory Palace episodes',
+  href: 'http://en.wikipedia.org/wiki/User:DoctorWho42/List_of_The_Memory_Palace_episodes',
+  mentions: 
+   [ { sectionHeader: 'List of episodes',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 142,
+       quote: [ '"Bluing" by Miles Davis\n"a piece" by Marcelo Zarvos from The Beaver soundtrack\n"Weekends Were Difficult" by Thomas Newman from the Little Children soundtrack\n"Fear" by Russell Garcia from The Time Machine soundtrack\n"A couple" by Jon Brion from the I Heart Huckabees soundtrack\n"Church Jazz" by Nina Simone\n"It\'s Not Up to Us" by Byard Lancaster' ] } ] }

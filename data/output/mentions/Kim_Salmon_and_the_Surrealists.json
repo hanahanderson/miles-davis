@@ -1,0 +1,8 @@
+{ name: 'Kim Salmon and the Surrealists',
+  href: 'http://en.wikipedia.org/wiki/Kim_Salmon_and_the_Surrealists',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3502,
+       quote: [ 'The results were sifted through by Salmon and co-producer Mike Stranges, spliced together in some cases (ala Miles Davis\' "Bitches Brew"), and made into songs.' ] } ] }

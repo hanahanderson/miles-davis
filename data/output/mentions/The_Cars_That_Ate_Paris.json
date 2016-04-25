@@ -1,0 +1,8 @@
+{ name: 'The Cars That Ate Paris',
+  href: 'http://en.wikipedia.org/wiki/The_Cars_That_Ate_Paris',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 6990,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

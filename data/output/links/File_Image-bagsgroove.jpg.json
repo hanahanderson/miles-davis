@@ -1,0 +1,12 @@
+{ name: 'File:Image-bagsgroove.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Image-bagsgroove.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '18852651 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '518491492 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Image-bagsgroove.jpg?oldid=518491492',
+          href: 'http://en.wikipedia.org/wiki/File:Image-bagsgroove.jpg?oldid=518491492' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Image-bagsgroove.jpg',
+          href: 'http://dbpedia.org/resource/File:Image-bagsgroove.jpg' } ] } }

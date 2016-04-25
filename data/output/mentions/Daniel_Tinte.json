@@ -1,0 +1,8 @@
+{ name: 'Daniel Tinte',
+  href: 'http://en.wikipedia.org/wiki/Daniel_Tinte',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3035,
+       quote: [ 'In 2000 Tinte formed the group "The Street", playing modern jazz composed by Miles Davis, Herbie Hancock, and Bill Evans, among others.' ] } ] }

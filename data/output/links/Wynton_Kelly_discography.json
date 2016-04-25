@@ -1,0 +1,28 @@
+{ name: 'Wynton Kelly discography',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wynton_Kelly_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'Wynton Kelly was a jazz pianist. His appearances on record date from 1948 to 1970 and include more than a dozen albums under his own name and more than 120 as a sideman. (en)' } ],
+     'dbo:wikiPageID': [ { value: '41643212 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682882985 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' } ],
+     'rdfs:comment': [ { value: 'Wynton Kelly was a jazz pianist. His appearances on record date from 1948 to 1970 and include more than a dozen albums under his own name and more than 120 as a sideman. (en)' } ],
+     'rdfs:label': [ { value: 'Wynton Kelly discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Wynton Kelly discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q17100725' },
+        { value: 'wikidata:Wynton Kelly discography',
+          href: 'http://www.wikidata.org/entity/Q17100725' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Wynton_Kelly_discography?oldid=682882985',
+          href: 'http://en.wikipedia.org/wiki/Wynton_Kelly_discography?oldid=682882985' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Wynton_Kelly_discography',
+          href: 'http://en.wikipedia.org/wiki/Wynton_Kelly_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Wynton_Kelly_discography',
+          href: 'http://en.wikipedia.org/wiki/Wynton_Kelly_discography' } ] } }

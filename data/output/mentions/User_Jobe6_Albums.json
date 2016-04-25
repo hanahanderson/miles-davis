@@ -1,0 +1,13 @@
+{ name: 'User:Jobe6/Albums',
+  href: 'http://en.wikipedia.org/wiki/User:Jobe6/Albums',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Bitches Brew - Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Kind of Blue - Miles Davis' ] } ] }

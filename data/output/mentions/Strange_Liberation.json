@@ -1,0 +1,8 @@
+{ name: 'Strange Liberation',
+  href: 'http://en.wikipedia.org/wiki/Strange_Liberation',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1802,
+       quote: [ 'In the book Essential Jazz: the First 100 Years, the album is called "a fascinating amalgam of 4/4 swing grooves and rock-based electric textures reminiscent of Miles Davis\'s electric music of the late 1960s".' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Ted Curson',
+  href: 'http://en.wikipedia.org/wiki/Ted_Curson',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1005,
+       quote: [ 'At the suggestion of Miles Davis, he moved to New York in 1956.' ] } ] }

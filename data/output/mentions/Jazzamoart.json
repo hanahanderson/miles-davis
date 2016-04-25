@@ -1,0 +1,8 @@
+{ name: 'Jazzamoart',
+  href: 'http://en.wikipedia.org/wiki/Jazzamoart',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1735,
+       quote: [ 'The jazz collection is wide-ranging and current but his favorites are classics such as Charlie Parker, Miles Davis, John Coltrane and Thelonious Monk.' ] } ] }

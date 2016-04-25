@@ -1,0 +1,8 @@
+{ name: 'The Gate (Kurt Elling album)',
+  href: 'http://en.wikipedia.org/wiki/The_Gate_(Kurt_Elling_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 964,
+       quote: [ '"Blue in Green" (Miles Davis, Al Jarreau, Frank Martin) - 6:48' ] } ] }

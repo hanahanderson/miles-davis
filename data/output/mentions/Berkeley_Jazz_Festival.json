@@ -1,0 +1,13 @@
+{ name: 'Berkeley Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Berkeley_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Notable performers',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1370,
+       quote: [ 'Friday evening saw sets by Miles Davis, The Modern Jazz Quartet, and the Gerald Wilson Big Band.' ] },
+     { sectionHeader: 'Notable performers',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2020,
+       quote: [ 'Miles Davis, Carmen McRae, Bobby Hutcherson and Harold Land Quartet, Billy Taylor, Thelonious Monk, and the Thad Jones/Mel Lewis Big Band with Joe Williams .' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Cassandra Wilson',
+  href: 'http://en.wikipedia.org/wiki/Cassandra_Wilson',
+  mentions: 
+   [ { sectionHeader: 'Solo career',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 7522,
+       quote: [ 'The late Miles Davis was one of Wilson\'s greatest influences.' ] } ] }

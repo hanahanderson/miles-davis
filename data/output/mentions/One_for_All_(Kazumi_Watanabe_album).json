@@ -1,0 +1,8 @@
+{ name: 'One for All (Kazumi Watanabe album)',
+  href: 'http://en.wikipedia.org/wiki/One_for_All_(Kazumi_Watanabe_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 608,
+       quote: [ '"Milestones" (Miles Davis)' ] } ] }

@@ -1,0 +1,31 @@
+{ name: 'Robert Earl Price',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Robert_Earl_Price',
+  values: 
+   { 'dbo:abstract': [ { value: 'Robert Earl Price (born 1942) is an African American playwright and poet. He is a recipient of the American Film Institute’s William Wyler award for screenwriting and is the author of four books of poetry and has had eleven plays produced in American regional theaters and abroad in Berlin and Johannesburg. He is artist-in-residence in the Drama Department at Washington College in Chestertown, Maryland, where he also serves as artistic director of the Charles Sumner G.A.R. Post #25, a historic hall built in 1908 to honor African-American veterans of the Civil War. (en)' } ],
+     'dbo:wikiPageID': [ { value: '47393063 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681320029 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_poets',
+          href: 'http://dbpedia.org/resource/Category:American_poets' },
+        { value: 'dbc:Clark_Atlanta_University_alumni',
+          href: 'http://dbpedia.org/resource/Category:Clark_Atlanta_University_alumni' },
+        { value: 'dbc:1942_births',
+          href: 'http://dbpedia.org/resource/Category:1942_births' },
+        { value: 'dbc:American_dramatists_and_playwrights',
+          href: 'http://dbpedia.org/resource/Category:American_dramatists_and_playwrights' },
+        { value: 'dbc:Living_people',
+          href: 'http://dbpedia.org/resource/Category:Living_people' },
+        { value: 'dbc:People_from_Atlanta,_Georgia',
+          href: 'http://dbpedia.org/resource/Category:People_from_Atlanta,_Georgia' } ],
+     'rdfs:comment': [ { value: 'Robert Earl Price (born 1942) is an African American playwright and poet. He is a recipient of the American Film Institute’s William Wyler award for screenwriting and is the author of four books of poetry and has had eleven plays produced in American regional theaters and abroad in Berlin and Johannesburg. He is artist-in-residence in the Drama Department at Washington College in Chestertown, Maryland, where he also serves as artistic director of the Charles Sumner G.A.R. (en)' } ],
+     'rdfs:label': [ { value: 'Robert Earl Price (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Robert_Earl_Price?oldid=681320029',
+          href: 'http://en.wikipedia.org/wiki/Robert_Earl_Price?oldid=681320029' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Robert_Earl_Price',
+          href: 'http://en.wikipedia.org/wiki/Robert_Earl_Price' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Robert_Earl_Price',
+          href: 'http://en.wikipedia.org/wiki/Robert_Earl_Price' } ] } }

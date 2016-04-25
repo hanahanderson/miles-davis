@@ -1,0 +1,8 @@
+{ name: 'Forecast: Tomorrow',
+  href: 'http://en.wikipedia.org/wiki/Forecast:_Tomorrow',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 437,
+       quote: [ 'The 37 tracks are presented chronologically, beginning with three tracks pre–Weather Report, from ensemble duties with Miles Davis (both Zawinul and Shorter), Cannonball Adderley (Zawinul), and from a Shorter solo album.' ] } ] }

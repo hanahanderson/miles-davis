@@ -1,0 +1,18 @@
+{ name: 'User talk:Ballsmcfalls',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Ballsmcfalls',
+  mentions: 
+   [ { sectionHeader: 'October 2011',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 18,
+       quote: [ 'Everyone is welcome to make constructive contributions to Wikipedia, but at least one of your recent edits, such as the one you made to Miles Davis, did not appear to be constructive and has been automatically reverted (undone) by ClueBot NG.' ] },
+     { sectionHeader: 'October 2011',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 293,
+       quote: [ 'The following is the log entry regarding this warning: Miles Davis was changed by Ballsmcfalls (u) (t) ANN scored at 0.862019 on 2011-10-25T02:09:09+00:00 .' ] },
+     { sectionHeader: 'October 2011',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1113,
+       quote: [ 'If you continue to blank out or remove portions of page content, templates or other materials from Wikipedia, as you did at Miles Davis, you may be blocked from editing.' ] } ] }

@@ -1,0 +1,110 @@
+{ name: 'Living Black!',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Living_Black!',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '55.18333333333333' } ],
+     'dbo:abstract': [ { value: 'Living Black! is a live album by organist Charles Earland which was recorded in New Jersey 1970 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Charles_Earland',
+          href: 'http://dbpedia.org/resource/Charles_Earland' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Black_Drops',
+          href: 'http://dbpedia.org/resource/Black_Drops' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Porter_(record_producer)',
+          href: 'http://dbpedia.org/resource/Bob_Porter_(record_producer)' } ],
+     'dbo:recordDate': [ { value: '1970-09-17 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:runtime': [ { value: '3311.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Soul_Story',
+          href: 'http://dbpedia.org/resource/Soul_Story' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '38776126 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674397227 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Charles_Earland',
+          href: 'http://dbpedia.org/resource/Charles_Earland' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Charles_Earland',
+          href: 'http://dbpedia.org/resource/Charles_Earland' } ],
+     'dbp:cover': [ { value: 'Living Black!.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 10009 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Black Drops (en)' } ],
+     'dbp:length': [ { value: '3311.0' } ],
+     'dbp:name': [ { value: 'Living Black! (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Soul Story (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Porter_(record_producer)',
+          href: 'http://dbpedia.org/resource/Bob_Porter_(record_producer)' } ],
+     'dbp:recorded': 
+      [ { value: '1970-09-17 (xsd:date)' },
+        { value: 'The Key Club, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1971 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Living Black! (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Bob_Porter_(record_producer)',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Porter_(record_producer)' },
+        { value: 'dbc:1971_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1971_live_albums' },
+        { value: 'dbc:Prestige_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_live_albums' },
+        { value: 'dbc:Charles_Earland_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Charles_Earland_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Living Black! is a live album by organist Charles Earland which was recorded in New Jersey 1970 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'Living Black! (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Living Black!',
+          href: 'http://rdf.freebase.com/ns/m.01k2vc1' },
+        { value: 'dbpedia-wikidata:Living Black!',
+          href: 'http://wikidata.dbpedia.org/resource/Q17034713' },
+        { value: 'wikidata:Living Black!',
+          href: 'http://www.wikidata.org/entity/Q17034713' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Living_Black!?oldid=674397227',
+          href: 'http://en.wikipedia.org/wiki/Living_Black!?oldid=674397227' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Living_Black!',
+          href: 'http://en.wikipedia.org/wiki/Living_Black!' } ],
+     'foaf:name': [ { value: 'Living Black! (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Soul_Story',
+          href: 'http://dbpedia.org/resource/Soul_Story' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Black_Drops',
+          href: 'http://dbpedia.org/resource/Black_Drops' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Living_Black!',
+          href: 'http://en.wikipedia.org/wiki/Living_Black!' } ] } }

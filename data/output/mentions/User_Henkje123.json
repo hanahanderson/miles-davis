@@ -1,0 +1,8 @@
+{ name: 'User:Henkje123',
+  href: 'http://en.wikipedia.org/wiki/User:Henkje123',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

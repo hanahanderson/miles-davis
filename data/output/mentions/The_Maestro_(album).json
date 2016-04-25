@@ -1,0 +1,8 @@
+{ name: 'The Maestro (album)',
+  href: 'http://en.wikipedia.org/wiki/The_Maestro_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 920,
+       quote: [ '"Nardis" (Miles Davis) - 5:12' ] } ] }

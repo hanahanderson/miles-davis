@@ -1,0 +1,8 @@
+{ name: 'User:Jonlin',
+  href: 'http://en.wikipedia.org/wiki/User:Jonlin',
+  mentions: 
+   [ { sectionHeader: 'Notable Music',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2273,
+       quote: [ 'Ornette Coleman\nCharlie Parker\nBenny Goodman\nDuke Ellington\nEric Dolphy\nDon Cherry\nJohn Coltrane\nMiles Davis\nMax Roach\nJoe Pass\nPat Martino\nWes Montgomery\nMahavishnu John McLaughlin\nMilt Jackson\nDave Brubeck\nThelonious Monk\nCharlie Haden\nSun Ra' ] } ] }

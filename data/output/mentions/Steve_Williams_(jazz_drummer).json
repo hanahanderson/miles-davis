@@ -1,0 +1,13 @@
+{ name: 'Steve Williams (jazz drummer)',
+  href: 'http://en.wikipedia.org/wiki/Steve_Williams_(jazz_drummer)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 333,
+       quote: [ 'Shirley Horn\nMiles Davis\nToots Thielemans\nRon Carter\nMilt Jackson\nFreddie Hubbard\nJoe Williams\nLarry Willis\nMulgrew Miller\nGary Thomas\nBranford Marsalis\nWynton Marsalis\nCarmen McRae\nRoy Hargrove' ] },
+     { sectionHeader: 'With Shirley Horn',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1846,
+       quote: [ 'His music relationship with the pianist and singer gave him the opportunity to tour the world and record with such artists as Toots Thielemans, Branford Marsalis and Wynton Marsalis, Carmen McRae, Roy Hargrove and Miles Davis.' ] } ] }

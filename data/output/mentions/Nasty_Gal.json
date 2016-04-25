@@ -1,0 +1,8 @@
+{ name: 'Nasty Gal',
+  href: 'http://en.wikipedia.org/wiki/Nasty_Gal',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1196,
+       quote: [ 'The store was named Nasty Gal Vintage, with the name being inspired by Betty Davis, ex-wife of Miles Davis.' ] } ] }

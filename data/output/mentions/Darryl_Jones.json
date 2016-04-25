@@ -1,0 +1,20 @@
+{ name: 'Darryl Jones',
+  href: 'http://en.wikipedia.org/wiki/Darryl_Jones',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 71,
+       quote: [ 'The Rolling Stones, Miles Davis, Stone Raiders, Sting, The Dead Daisies' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1005,
+       quote: 
+        [ 'One musician with whom Jones first played in his studio sessions was the nephew of noted jazz musician Miles Davis, Vince Wilburn Jr.',
+          'As a young protégé, Jones played bass guitar on the Miles Davis albums Decoy (1984) and You\'re Under Arrest (1985).' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1005,
+       quote: [] } ] }

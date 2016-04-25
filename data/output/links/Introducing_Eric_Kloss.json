@@ -1,0 +1,100 @@
+{ name: 'Introducing Eric Kloss',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Introducing_Eric_Kloss',
+  values: 
+   { 'dbo:abstract': [ { value: 'Introducing Eric Kloss is the debut album by saxophonist Eric Kloss which was recorded in 1965 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Cal_Lampley' } ],
+     'dbo:recordDate': [ { value: '1965-09-01 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Love_and_All_That_Jazz',
+          href: 'http://dbpedia.org/resource/Love_and_All_That_Jazz' } ],
+     'dbo:wikiPageID': [ { value: '39016913 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663957875 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Eric Kloss with Don Patterson (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbp:cover': [ { value: 'Introducing Eric Kloss.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 7442 (en)' } ],
+     'dbp:name': [ { value: 'Introducing Eric Kloss (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Love and All That Jazz (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Cal_Lampley' } ],
+     'dbp:recorded': 
+      [ { value: '1965-09-01 (xsd:date)' },
+        { value: 'Van Gelder Studio, Englewood Cliffs, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1965 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Introducing Eric Kloss (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Eric_Kloss_albums',
+          href: 'http://dbpedia.org/resource/Category:Eric_Kloss_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_produced_by_Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Cal_Lampley' },
+        { value: 'dbc:1965_debut_albums',
+          href: 'http://dbpedia.org/resource/Category:1965_debut_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Introducing Eric Kloss is the debut album by saxophonist Eric Kloss which was recorded in 1965 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'Introducing Eric Kloss (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Introducing Eric Kloss',
+          href: 'http://rdf.freebase.com/ns/m.0sggsc1' },
+        { value: 'dbpedia-wikidata:Introducing Eric Kloss',
+          href: 'http://wikidata.dbpedia.org/resource/Q17014409' },
+        { value: 'wikidata:Introducing Eric Kloss',
+          href: 'http://www.wikidata.org/entity/Q17014409' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Introducing_Eric_Kloss?oldid=663957875',
+          href: 'http://en.wikipedia.org/wiki/Introducing_Eric_Kloss?oldid=663957875' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Introducing_Eric_Kloss',
+          href: 'http://en.wikipedia.org/wiki/Introducing_Eric_Kloss' } ],
+     'foaf:name': [ { value: 'Introducing Eric Kloss (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Love_and_All_That_Jazz',
+          href: 'http://dbpedia.org/resource/Love_and_All_That_Jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Introducing_Eric_Kloss',
+          href: 'http://en.wikipedia.org/wiki/Introducing_Eric_Kloss' } ] } }

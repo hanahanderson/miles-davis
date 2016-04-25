@@ -1,0 +1,55 @@
+{ name: 'Dig (composition)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Dig_(composition)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Dig" is a bebop jazz standard composed by Miles Davis. It was recorded on October 5, 1951 for Prestige Records and first released on an album under the same title.Its chord sequence is identical to that of Sweet Georgia Brown by Ben Bernie and Maceo Pinkard, making it a contrafact. Davis second recording of the tune on May 9 the following year, this time for Blue Note, it was called "Donna" and credited to Jackie McLean, who played alto saxophone on both sessions (Young Man with a Horn and Miles Davis Volume 1)."Dig" has also been played by numerous other artists such as Sonny Rollins, Woody Herman, Donald Byrd, Archie Shepp, Joey DeFrancesco, and Fred Firth. (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageID': [ { value: '36145200 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '660503147 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1951_compositions',
+          href: 'http://dbpedia.org/resource/Category:1951_compositions' },
+        { value: 'dbc:1950s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1950s_jazz_standards' },
+        { value: 'dbc:Bebop_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Bebop_jazz_standards' },
+        { value: 'dbc:Hard_bop_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Hard_bop_jazz_standards' },
+        { value: 'dbc:Compositions_by_Miles_Davis',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_Miles_Davis' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: '"Dig" is a bebop jazz standard composed by Miles Davis. It was recorded on October 5, 1951 for Prestige Records and first released on an album under the same title.Its chord sequence is identical to that of Sweet Georgia Brown by Ben Bernie and Maceo Pinkard, making it a contrafact. (en)' } ],
+     'rdfs:label': [ { value: 'Dig (composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Dig (composition)',
+          href: 'http://rdf.freebase.com/ns/m.0_hsf58' },
+        { value: 'dbpedia-wikidata:Dig (composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5275475' },
+        { value: 'wikidata:Dig (composition)',
+          href: 'http://www.wikidata.org/entity/Q5275475' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Dig_(composition)?oldid=660503147',
+          href: 'http://en.wikipedia.org/wiki/Dig_(composition)?oldid=660503147' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Dig_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Dig_(composition)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Dig_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Dig_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Dig_(Composition)',
+          href: 'http://dbpedia.org/resource/Dig_(Composition)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Dig_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Dig_(composition)' } ] } }

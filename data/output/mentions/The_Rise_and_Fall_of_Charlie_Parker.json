@@ -1,0 +1,13 @@
+{ name: 'The Rise and Fall of Charlie Parker',
+  href: 'http://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Charlie_Parker',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 159,
+       quote: [ 'It features 40 tracks on two compact discs, many of which feature other influential bebop artists such as Dizzy Gillespie and Miles Davis.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 486,
+       quote: [ 'Miles Davis' ] } ] }

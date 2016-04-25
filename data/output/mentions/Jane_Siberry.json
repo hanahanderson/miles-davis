@@ -1,0 +1,13 @@
+{ name: 'Jane Siberry',
+  href: 'http://en.wikipedia.org/wiki/Jane_Siberry',
+  mentions: 
+   [ { sectionHeader: 'Musical style and commercial approach',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2079,
+       quote: [ 'She has cited Van Morrison and Miles Davis as being strong creative influences.' ] },
+     { sectionHeader: 'Career history',
+       sectionSubHeader: '',
+       sectionIndex: 48,
+       wordCountBeforeSection: 20242,
+       quote: [ 'In 2006, she told The Globe and Mail that she had kept a very few precious possessions, including her Miles Davis CDs, in storage.' ] } ] }

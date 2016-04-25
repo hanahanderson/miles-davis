@@ -1,0 +1,35 @@
+{ name: 'List of University of California, Irvine people',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_University_of_California,_Irvine_people',
+  values: 
+   { 'dbo:abstract': [ { value: 'This page lists noted individuals associated with the University of California, Irvine. (en)' } ],
+     'dbo:wikiPageID': [ { value: '3993559 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682899279 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:University_of_California,_Irvine_people',
+          href: 'http://dbpedia.org/resource/Category:University_of_California,_Irvine_people' },
+        { value: 'dbc:Lists_of_University_of_California_people',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_University_of_California_people' } ],
+     'rdfs:comment': [ { value: 'This page lists noted individuals associated with the University of California, Irvine. (en)' } ],
+     'rdfs:label': [ { value: 'List of University of California, Irvine people (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of University of California, Irvine people',
+          href: 'http://www.wikidata.org/entity/Q6603048' },
+        { value: 'dbpedia-wikidata:List of University of California, Irvine people',
+          href: 'http://wikidata.dbpedia.org/resource/Q6603048' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_University_of_California,_Irvine_people?oldid=682899279',
+          href: 'http://en.wikipedia.org/wiki/List_of_University_of_California,_Irvine_people?oldid=682899279' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_University_of_California,_Irvine_people',
+          href: 'http://en.wikipedia.org/wiki/List_of_University_of_California,_Irvine_people' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_University_of_California,_Irvine_alumni',
+          href: 'http://dbpedia.org/resource/List_of_University_of_California,_Irvine_alumni' },
+        { value: 'dbr:List_of_University_of_California,_Irvine_faculty',
+          href: 'http://dbpedia.org/resource/List_of_University_of_California,_Irvine_faculty' },
+        { value: 'dbr:UC_Irvine_people',
+          href: 'http://dbpedia.org/resource/UC_Irvine_people' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_University_of_California,_Irvine_people',
+          href: 'http://en.wikipedia.org/wiki/List_of_University_of_California,_Irvine_people' } ] } }

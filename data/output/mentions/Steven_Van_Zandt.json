@@ -1,0 +1,8 @@
+{ name: 'Steven Van Zandt',
+  href: 'http://en.wikipedia.org/wiki/Steven_Van_Zandt',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 59,
+       wordCountBeforeSection: 19299,
+       quote: [ 'A few of the artists that took part in the making of this album were Bruce Springsteen, Peter Gabriel, Miles Davis, Bob Dylan, and Lou Reed.' ] } ] }

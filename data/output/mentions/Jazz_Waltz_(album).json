@@ -1,0 +1,8 @@
+{ name: 'Jazz Waltz (album)',
+  href: 'http://en.wikipedia.org/wiki/Jazz_Waltz_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 797,
+       quote: [ '"All Blues" (Miles Davis) - 4:12' ] } ] }

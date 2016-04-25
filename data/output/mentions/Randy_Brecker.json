@@ -1,0 +1,8 @@
+{ name: 'Randy Brecker',
+  href: 'http://en.wikipedia.org/wiki/Randy_Brecker',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1522,
+       quote: [ 'My brother  didn\'t want to play the same instrument as I did, so three years later he chose the clarinet!" Randy\'s father, Bob, was also a songwriter and singer who loved to listen to recordings of the great jazz trumpet players such as Miles Davis, Dizzy Gillespie and Clifford Brown.' ] } ] }

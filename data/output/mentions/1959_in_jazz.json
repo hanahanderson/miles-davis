@@ -1,0 +1,13 @@
+{ name: '1959 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1959_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Events',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 767,
+       quote: [ 'August 25: Between sets at Birdland in New York City, Miles Davis is beaten by police and jailed.' ] },
+     { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 889,
+       quote: [ 'Miles Davis - Kind of Blue (Columbia)' ] } ] }

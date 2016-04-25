@@ -1,0 +1,8 @@
+{ name: 'User:Claire van der Meer',
+  href: 'http://en.wikipedia.org/wiki/User:Claire_van_der_Meer',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 72,
+       quote: [ 'Miles Davis' ] } ] }

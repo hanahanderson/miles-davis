@@ -1,0 +1,18 @@
+{ name: 'Funk',
+  href: 'http://en.wikipedia.org/wiki/Funk',
+  mentions: 
+   [ { sectionHeader: 'Characteristics',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 7916,
+       quote: [ 'In the 1970s, jazz music drew upon funk to create a new subgenre of jazz-funk, which can be heard in recordings by Miles Davis (Live-Evil, On the Corner), and Herbie Hancock (Head Hunters).' ] },
+     { sectionHeader: 'Characteristics',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 7916,
+       quote: [] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 59,
+       wordCountBeforeSection: 20372,
+       quote: [ 'On the Corner (1972) was Miles Davis\'s seminal foray into jazz-funk.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Symbiosis (album)',
+  href: 'http://en.wikipedia.org/wiki/Symbiosis_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1987,
+       quote: [ 'Miles Davis' ] } ] }

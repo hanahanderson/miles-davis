@@ -1,0 +1,113 @@
+{ name: 'Together Again (Tony Bennett and Bill Evans album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Together_Again_(Tony_Bennett_and_Bill_Evans_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '35.083333333333336' } ],
+     'dbo:abstract': [ { value: 'Together Again is a 1977 studio album by singer Tony Bennett, accompanied by jazz pianist Bill Evans. It was originally issued on Bennett\'s own Improv Records label, which went out of business later that year, but was subsequently reissued on Concord.Their first album together, The Tony Bennett/Bill Evans Album, was released by Fantasy Records in 1975. Both albums plus alternate takes and additional tracks were released on The Complete Tony Bennett/Bill Evans Recordings by Fantasy in 2009. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Tony_Bennett',
+          href: 'http://dbpedia.org/resource/Tony_Bennett' },
+        { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Vocal_jazz',
+          href: 'http://dbpedia.org/resource/Vocal_jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:I_Will_Say_Goodbye',
+          href: 'http://dbpedia.org/resource/I_Will_Say_Goodbye' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:San_Francisco',
+          href: 'http://dbpedia.org/resource/San_Francisco' } ],
+     'dbo:runtime': [ { value: '2105.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:New_Conversations',
+          href: 'http://dbpedia.org/resource/New_Conversations' } ],
+     'dbo:wikiPageID': [ { value: '4851627 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '640149990 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Tony Bennett and Bill Evans (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Togetheragainbennettevans.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Vocal_jazz',
+          href: 'http://dbpedia.org/resource/Vocal_jazz' } ],
+     'dbp:label': 
+      [ { value: 'Improv 7117 (en)' },
+        { value: 'Improv Records (en)' } ],
+     'dbp:lastAlbum': [ { value: 'I Will Say Goodbye (en)' } ],
+     'dbp:length': [ { value: '2105.0' } ],
+     'dbp:name': [ { value: 'Together Again (en)' } ],
+     'dbp:nextAlbum': [ { value: 'New Conversations (en)' } ],
+     'dbp:producer': [ { value: 'Helen Keane (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--09-27' },
+        { value: 'Columbia Studios, San Francisco (en)' } ],
+     'dbp:released': [ { value: '1977 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Together Again (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1977_albums',
+          href: 'http://dbpedia.org/resource/Category:1977_albums' },
+        { value: 'dbc:Bill_Evans_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_albums' },
+        { value: 'dbc:Tony_Bennett_albums',
+          href: 'http://dbpedia.org/resource/Category:Tony_Bennett_albums' },
+        { value: 'dbc:Vocal–instrumental_duet_albums',
+          href: 'http://dbpedia.org/resource/Category:Vocal–instrumental_duet_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Together Again is a 1977 studio album by singer Tony Bennett, accompanied by jazz pianist Bill Evans. It was originally issued on Bennett\'s own Improv Records label, which went out of business later that year, but was subsequently reissued on Concord.Their first album together, The Tony Bennett/Bill Evans Album, was released by Fantasy Records in 1975. Both albums plus alternate takes and additional tracks were released on The Complete Tony Bennett/Bill Evans Recordings by Fantasy in 2009. (en)' } ],
+     'rdfs:label': [ { value: 'Together Again (Tony Bennett and Bill Evans album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Together Again (Tony Bennett and Bill Evans album)',
+          href: 'http://rdf.freebase.com/ns/m.01mtc_q' },
+        { value: 'dbpedia-es:Together Again (Tony Bennett and Bill Evans album)',
+          href: 'http://es.dbpedia.org/resource/Together_Again_(álbum_de_Tony_Bennett_y_Bill_Evans)' },
+        { value: 'dbpedia-wikidata:Together Again (Tony Bennett and Bill Evans album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q1276590' },
+        { value: 'wikidata:Together Again (Tony Bennett and Bill Evans album)',
+          href: 'http://www.wikidata.org/entity/Q1276590' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Together_Again_(Tony_Bennett_and_Bill_Evans_album)?oldid=640149990',
+          href: 'http://en.wikipedia.org/wiki/Together_Again_(Tony_Bennett_and_Bill_Evans_album)?oldid=640149990' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Together_Again_(Tony_Bennett_and_Bill_Evans_album)',
+          href: 'http://en.wikipedia.org/wiki/Together_Again_(Tony_Bennett_and_Bill_Evans_album)' } ],
+     'foaf:name': [ { value: 'Together Again (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:New_Conversations',
+          href: 'http://dbpedia.org/resource/New_Conversations' },
+        { value: 'dbr:The_Complete_Tony_Bennett/Bill_Evans_Recordings',
+          href: 'http://dbpedia.org/resource/The_Complete_Tony_Bennett/Bill_Evans_Recordings' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:I_Will_Say_Goodbye',
+          href: 'http://dbpedia.org/resource/I_Will_Say_Goodbye' },
+        { value: 'dbr:The_Tony_Bennett/Bill_Evans_Album',
+          href: 'http://dbpedia.org/resource/The_Tony_Bennett/Bill_Evans_Album' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Together_Again',
+          href: 'http://dbpedia.org/resource/Together_Again' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Together_Again_(Bennett_and_Evans_album)',
+          href: 'http://dbpedia.org/resource/Together_Again_(Bennett_and_Evans_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Together_Again_(Tony_Bennett_and_Bill_Evans_album)',
+          href: 'http://en.wikipedia.org/wiki/Together_Again_(Tony_Bennett_and_Bill_Evans_album)' } ] } }

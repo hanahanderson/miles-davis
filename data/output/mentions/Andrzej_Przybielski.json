@@ -1,0 +1,8 @@
+{ name: 'Andrzej Przybielski',
+  href: 'http://en.wikipedia.org/wiki/Andrzej_Przybielski',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 454,
+       quote: [ 'Until the mid-60s, he played cornet and trumpet, specializing in blues and Dixieland music, his inspiration coming from Dizzy Gillespie and Miles Davis.' ] } ] }

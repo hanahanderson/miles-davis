@@ -1,0 +1,8 @@
+{ name: 'D*Note',
+  href: 'http://en.wikipedia.org/wiki/D*Note',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 558,
+       quote: [ 'Influences from the jazz world include Miles Davis, Bill Evans, and Keith Jarrett.' ] } ] }

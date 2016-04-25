@@ -1,0 +1,8 @@
+{ name: 'User:Pjoef/Sandbox/Arts',
+  href: 'http://en.wikipedia.org/wiki/User:Pjoef/Sandbox/Arts',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'In a career spanning six decades, from the 1950s to the 2000s, she has worked with international superstars such as Hugh Masekela, Harry Belafonte, Paul Simon, Dizzy Gillespie, Nina Simone, Sidney Poitier, Miles Davis, and Whoopi Goldberg, and has has met world leaders including John Fitzgerald Kennedy, Fidel Castro, Ahmed Sékou Touré, Haile Selassie, Samora Machel, Julius Nyerere, Jomo Kenyatta, Kwame Nkrumah, Nelson and Graça Machel-Mandela, François Mitterrand, Pope John Paul II, and Carl XVI Gustaf of Sweden.' ] } ] }

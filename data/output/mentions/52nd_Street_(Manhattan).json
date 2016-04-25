@@ -1,0 +1,13 @@
+{ name: '52nd Street (Manhattan)',
+  href: 'http://en.wikipedia.org/wiki/52nd_Street_(Manhattan)',
+  mentions: 
+   [ { sectionHeader: 'Jazz center',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1578,
+       quote: [ 'In its heyday from 1930 through the early 1950s, 52nd Street clubs hosted such jazz legends as Miles Davis, Harry Gibson, Dizzy Gillespie, Billie Holiday, Nat Jaffe, Marian McPartland, Thelonious Monk, Charlie Parker, Louis Prima, Art Tatum, Fats Waller, Trummy Young, and many more.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'First Avenue',
+       sectionIndex: 69,
+       wordCountBeforeSection: 9886,
+       quote: [ 'Miles Davis (1989) Autobiography' ] } ] }

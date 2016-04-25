@@ -1,0 +1,60 @@
+{ name: 'Bill Laswell discography',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Bill_Laswell_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'This article presents the complete oeuvre of American bassist, composer and music producer Bill Laswell, including his work as a band member and collaborating artist. Laswell has an expansive and eclectic discography and has been involved in hundreds of recordings with many artists from across the world. Laswell\'s music is influenced by a plethora of musical genres, such as funk, world music, jazz, drum and bass, dub and ambient music. Starting in 1978, Laswell has built a reputation as an accomplished bass player and composer. He has also had a prolific career as a music producer and sound engineer, overseeing the recording process of musical acts such as Sly and Robbie, Afrika Bambaataa, Bernie Worrell, Blind Idiot God, Henry Threadgill and Buckethead. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Laswell',
+          href: 'http://dbpedia.org/resource/Bill_Laswell' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.silent-watcher.net/billlaswell/discography/',
+          href: 'http://www.silent-watcher.net/billlaswell/discography/' },
+        { value: 'http://www.discogs.com/artist/661-Bill-Laswell',
+          href: 'http://www.discogs.com/artist/661-Bill-Laswell' } ],
+     'dbo:wikiPageID': [ { value: '44152784 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671222243 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Laswell',
+          href: 'http://dbpedia.org/resource/Bill_Laswell' } ],
+     'dbp:compilation': [ { value: '8 (xsd:integer)' } ],
+     'dbp:live': [ { value: '4 (xsd:integer)' } ],
+     'dbp:option': [ { value: '5 (xsd:integer)' } ],
+     'dbp:optionName': [ { value: 'Remix albums (en)' } ],
+     'dbp:singles': [ { value: '4 (xsd:integer)' } ],
+     'dbp:soundtrack': [ { value: '1 (xsd:integer)' } ],
+     'dbp:studio': [ { value: '70 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' },
+        { value: 'dbc:Rock_music_discographies',
+          href: 'http://dbpedia.org/resource/Category:Rock_music_discographies' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:ArtistDiscography',
+          href: 'http://dbpedia.org/ontology/ArtistDiscography' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: 'This article presents the complete oeuvre of American bassist, composer and music producer Bill Laswell, including his work as a band member and collaborating artist. Laswell has an expansive and eclectic discography and has been involved in hundreds of recordings with many artists from across the world. Laswell\'s music is influenced by a plethora of musical genres, such as funk, world music, jazz, drum and bass, dub and ambient music. (en)' } ],
+     'rdfs:label': [ { value: 'Bill Laswell discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Bill Laswell discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q18358161' },
+        { value: 'wikidata:Bill Laswell discography',
+          href: 'http://www.wikidata.org/entity/Q18358161' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Bill_Laswell_discography?oldid=671222243',
+          href: 'http://en.wikipedia.org/wiki/Bill_Laswell_discography?oldid=671222243' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Bill_Laswell_discography',
+          href: 'http://en.wikipedia.org/wiki/Bill_Laswell_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Bill_Laswell_discography',
+          href: 'http://en.wikipedia.org/wiki/Bill_Laswell_discography' } ] } }

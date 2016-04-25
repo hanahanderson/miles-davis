@@ -1,0 +1,43 @@
+{ name: '1947 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1947_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'In 1947 in jazz the film The Fabulous Dorseys came out, telling the story of the Dorsey Brothers.Standards published included "Autumn Leaves", "But Beautiful" and "Nature Boy". (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Gottlieb,_William_P._...Y.,_ca._Sept._1947_(pd).jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Gottlieb,_William_P._-_The_Library_of_Congress_-_Portrait_of_Ella_Fitzgerald,_Dizzy_Gillespie,_Ray_Brown,_Milt_(Milton)_Jackson,_and_Timmie_Rosenkrantz,_Downbeat,_New_York,_N.Y.,_ca._Sept._1947_(pd).jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '27571892 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671009157 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1948 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'Ella Fitzgerald, Dizzy Gillespie, Ray Brown, Milt Jackson, and Timme Rosenkrantz, Downbeat, New York, N.Y., ca. Sept. 1947 (en)' } ],
+     'dbp:prioryear': [ { value: '1946 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1947_in_music',
+          href: 'http://dbpedia.org/resource/Category:1947_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'In 1947 in jazz the film The Fabulous Dorseys came out, telling the story of the Dorsey Brothers.Standards published included "Autumn Leaves", "But Beautiful" and "Nature Boy". (en)' } ],
+     'rdfs:label': [ { value: '1947 in jazz (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_1940s_jazz_standards',
+          href: 'http://dbpedia.org/resource/List_of_1940s_jazz_standards' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1947 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4566112' },
+        { value: 'wikidata:1947 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4566112' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1947_in_jazz?oldid=671009157',
+          href: 'http://en.wikipedia.org/wiki/1947_in_jazz?oldid=671009157' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Gottlieb,_William_P._...w_York,_N.Y.,_ca._Sept._1947_(pd).jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Gottlieb,_William_P._-_The_Library_of_Congress_-_Portrait_of_Ella_Fitzgerald,_Dizzy_Gillespie,_Ray_Brown,_Milt_(Milton)_Jackson,_and_Timmie_Rosenkrantz,_Downbeat,_New_York,_N.Y.,_ca._Sept._1947_(pd).jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1947_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1947_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1947_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1947_in_jazz' } ] } }

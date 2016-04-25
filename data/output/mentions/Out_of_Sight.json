@@ -1,0 +1,8 @@
+{ name: 'Out of Sight',
+  href: 'http://en.wikipedia.org/wiki/Out_of_Sight',
+  mentions: 
+   [ { sectionHeader: 'Production',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 6047,
+       quote: [ 'He drew upon several influences, including Lalo Schifrin, Quincy Jones, Dean Martin, Miles Davis, Sun Ra, and Willie Bobo.' ] } ] }

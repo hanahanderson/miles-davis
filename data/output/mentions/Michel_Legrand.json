@@ -1,0 +1,18 @@
+{ name: 'Michel Legrand',
+  href: 'http://en.wikipedia.org/wiki/Michel_Legrand',
+  mentions: 
+   [ { sectionHeader: 'Jazz recordings',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2810,
+       quote: [ 'While on a visit to the U.S. in 1958, Legrand collaborated with such musicians as Miles Davis, John Coltrane, Bill Evans, Phil Woods, Ben Webster, Hank Jones, and Art Farmer in an album of inventive orchestrations of jazz standards titled Legrand Jazz.' ] },
+     { sectionHeader: 'Filmography',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 7897,
+       quote: [ 'Dingo with Miles Davis (1991)' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'Golden Eagle Award',
+       sectionIndex: 71,
+       wordCountBeforeSection: 22059,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

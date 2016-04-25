@@ -1,0 +1,8 @@
+{ name: 'Jon Foreman',
+  href: 'http://en.wikipedia.org/wiki/Jon_Foreman',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2249,
+       quote: [ 'Foreman cites Elliott Smith, U2, The Police, James Taylor, The Beatles, Radiohead, Bach, Ronny Jordan, Miles Davis, Keith Green, Nirvana, Johnny Cash, Bob Dylan, and Led Zeppelin as some of his musical influences.' ] } ] }

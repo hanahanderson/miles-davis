@@ -1,0 +1,8 @@
+{ name: 'African-American music',
+  href: 'http://en.wikipedia.org/wiki/African-American_music',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 33,
+       wordCountBeforeSection: 13551,
+       quote: [ 'Meanwhile, jazz performers began to push jazz away from swing, a danceable popular music towards more intricate arrangements, improvisation, and technically challenging forms, culminating in the bebop of Charlie Parker and Dizzy Gillespie, the cool sounds and modal jazz of Miles Davis, and the free jazz of Ornette Coleman and John Coltrane.' ] } ] }

@@ -1,0 +1,102 @@
+{ name: 'Blues Everywhere',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Blues_Everywhere',
+  values: 
+   { 'dbo:abstract': [ { value: 'Blues Everywhere is a live album by Shirley Scott recorded in 1991 at Birdland and released on the Candid label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Shirley_Scott',
+          href: 'http://dbpedia.org/resource/Shirley_Scott' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Great_Scott!_(1991_Shirley_Scott_album)',
+          href: 'http://dbpedia.org/resource/Great_Scott!_(1991_Shirley_Scott_album)' } ],
+     'dbo:recordDate': [ { value: '1991-11-22 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Candid_Records',
+          href: 'http://dbpedia.org/resource/Candid_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Birdland_(New_York_jazz_club)',
+          href: 'http://dbpedia.org/resource/Birdland_(New_York_jazz_club)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Skylark_(Shirley_Scott_album)',
+          href: 'http://dbpedia.org/resource/Skylark_(Shirley_Scott_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '36331823 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671009924 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Shirley_Scott',
+          href: 'http://dbpedia.org/resource/Shirley_Scott' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Shirley_Scott',
+          href: 'http://dbpedia.org/resource/Shirley_Scott' } ],
+     'dbp:cover': [ { value: 'Blues Everywhere.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Candid_Records',
+          href: 'http://dbpedia.org/resource/Candid_Records' },
+        { value: 'CCD79525 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Great Scott! (en)' } ],
+     'dbp:name': [ { value: 'Blues Everywhere (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Skylark (en)' } ],
+     'dbp:producer': [ { value: 'Mark Morganelli (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1991-11-22 (xsd:date)' },
+        { value: 'Birdland, New York City (en)' } ],
+     'dbp:released': [ { value: '1991 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Blues Everywhere (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1991_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1991_live_albums' },
+        { value: 'dbc:Candid_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Candid_Records_live_albums' },
+        { value: 'dbc:Shirley_Scott_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Shirley_Scott_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Blues Everywhere is a live album by Shirley Scott recorded in 1991 at Birdland and released on the Candid label. (en)' } ],
+     'rdfs:label': [ { value: 'Blues Everywhere (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Blues Everywhere',
+          href: 'http://rdf.freebase.com/ns/m.0k3lfp1' },
+        { value: 'dbpedia-wikidata:Blues Everywhere',
+          href: 'http://wikidata.dbpedia.org/resource/Q4930460' },
+        { value: 'wikidata:Blues Everywhere',
+          href: 'http://www.wikidata.org/entity/Q4930460' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Blues_Everywhere?oldid=671009924',
+          href: 'http://en.wikipedia.org/wiki/Blues_Everywhere?oldid=671009924' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Blues_Everywhere',
+          href: 'http://en.wikipedia.org/wiki/Blues_Everywhere' } ],
+     'foaf:name': [ { value: 'Blues Everywhere (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Skylark_(Shirley_Scott_album)',
+          href: 'http://dbpedia.org/resource/Skylark_(Shirley_Scott_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Great_Scott!_(1991_Shirley_Scott_album)',
+          href: 'http://dbpedia.org/resource/Great_Scott!_(1991_Shirley_Scott_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Blues_Everywhere',
+          href: 'http://en.wikipedia.org/wiki/Blues_Everywhere' } ] } }

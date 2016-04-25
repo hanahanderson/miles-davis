@@ -1,0 +1,8 @@
+{ name: 'Celia Cruz',
+  href: 'http://en.wikipedia.org/wiki/Celia_Cruz',
+  mentions: 
+   [ { sectionHeader: 'Death',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 6380,
+       quote: [ 'Knight chose the plot on which it stands, which is near the gravestones of Duke Ellington and Miles Davis because it was accessible to fans and had four windows built into it so that fans could see inside when paying their respects.' ] } ] }

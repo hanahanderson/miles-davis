@@ -1,0 +1,8 @@
+{ name: 'Mal, Dance and Soul',
+  href: 'http://en.wikipedia.org/wiki/Mal,_Dance_and_Soul',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 692,
+       quote: [ '"Solar" (Miles Davis) — 8:56 Bonus track on CD reissue' ] } ] }

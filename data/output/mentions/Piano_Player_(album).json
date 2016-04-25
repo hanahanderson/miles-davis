@@ -1,0 +1,18 @@
+{ name: 'Piano Player (album)',
+  href: 'http://en.wikipedia.org/wiki/Piano_Player_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1265,
+       quote: [ '"Vierd Blues" (Miles Davis) - 5:58' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1917,
+       quote: [ 'Miles Davis (track 2), Art Farmer (track 1), Louis Mucci (track 1) - trumpet' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2798,
+       quote: [ 'Miles Davis' ] } ] }

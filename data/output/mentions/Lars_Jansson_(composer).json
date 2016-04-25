@@ -1,0 +1,8 @@
+{ name: 'Lars Jansson (composer)',
+  href: 'http://en.wikipedia.org/wiki/Lars_Jansson_(composer)',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 661,
+       quote: [ 'In his early teens, a relative lent him records of Miles Davis, Ben Webster, and Mose Allison.' ] } ] }

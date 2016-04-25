@@ -1,0 +1,8 @@
+{ name: 'Good Bait',
+  href: 'http://en.wikipedia.org/wiki/Good_Bait',
+  mentions: 
+   [ { sectionHeader: 'Other recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 658,
+       quote: [ 'Miles Davis' ] } ] }

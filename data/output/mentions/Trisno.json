@@ -1,0 +1,8 @@
+{ name: 'Trisno',
+  href: 'http://en.wikipedia.org/wiki/Trisno',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2120,
+       quote: [ 'His stepfather, Redwan Ali, exposed him to musicians such as David Sanborn, Miles Davis, Chick Corea and Herbie Hancock.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Happy Sad',
+  href: 'http://en.wikipedia.org/wiki/Happy_Sad',
+  mentions: 
+   [ { sectionHeader: 'Inspirations and song analysis',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1867,
+       quote: [ 'Buckley\'s musical tastes expanded during the period that the album was written and the first track, "Strange Feelin", was directly inspired by Miles Davis\' "All Blues" from Kind of Blue and the melody of the song is directly taken from the song. "Buzzin\' Fly" was written much earlier than the rest of the work and was originally performed with a group Buckley had during high school, the Harlequin 3, with bassist Jim Fielder and later lyricist, Larry Beckett.' ] } ] }

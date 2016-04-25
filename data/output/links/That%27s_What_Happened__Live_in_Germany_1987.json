@@ -1,0 +1,36 @@
+{ name: 'That\'s What Happened: Live in Germany 1987',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/That%27s_What_Happened:_Live_in_Germany_1987',
+  values: 
+   { 'dbo:abstract': [ { value: 'That’s What Happened: Live in Germany 1987 is a 98-minute DVD by Miles Davis, comprising a concert and interview, recorded in Munich, Germany, in 1987. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://jazztimes.com/articles/25116-that-s-what-happened-live-in-germany-1987-miles-davis',
+          href: 'http://jazztimes.com/articles/25116-that-s-what-happened-live-in-germany-1987-miles-davis' },
+        { value: 'http://www.allaboutjazz.com/php/article.php?id=33976',
+          href: 'http://www.allaboutjazz.com/php/article.php?id=33976' } ],
+     'dbo:wikiPageID': [ { value: '33382260 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '510996157 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Miles_Davis_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_live_albums' } ],
+     'rdfs:comment': [ { value: 'That’s What Happened: Live in Germany 1987 is a 98-minute DVD by Miles Davis, comprising a concert and interview, recorded in Munich, Germany, in 1987. (en)' } ],
+     'rdfs:label': [ { value: 'That\'s What Happened: Live in Germany 1987 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:That\'s What Happened: Live in Germany 1987',
+          href: 'http://rdf.freebase.com/ns/m.0h95cd4' },
+        { value: 'dbpedia-wikidata:That\'s What Happened: Live in Germany 1987',
+          href: 'http://wikidata.dbpedia.org/resource/Q7711039' },
+        { value: 'wikidata:That\'s What Happened: Live in Germany 1987',
+          href: 'http://www.wikidata.org/entity/Q7711039' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:That\'s_What_Happened:_Live_in_Germany_1987?oldid=510996157',
+          href: 'http://en.wikipedia.org/wiki/That\'s_What_Happened:_Live_in_Germany_1987?oldid=510996157' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:That\'s_What_Happened:_Live_in_Germany_1987',
+          href: 'http://en.wikipedia.org/wiki/That\'s_What_Happened:_Live_in_Germany_1987' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Miles_Davis_Live_in_Germany',
+          href: 'http://dbpedia.org/resource/Miles_Davis_Live_in_Germany' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:That\'s_What_Happened:_Live_in_Germany_1987',
+          href: 'http://en.wikipedia.org/wiki/That\'s_What_Happened:_Live_in_Germany_1987' } ] } }

@@ -1,0 +1,13 @@
+{ name: 'Steve Lacy',
+  href: 'http://en.wikipedia.org/wiki/Steve_Lacy',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 9179,
+       quote: [ 'Miles Davis – At Carnegie Hall (1961)' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 9179,
+       quote: [ 'Miles Davis – Quiet Nights (1963)' ] } ] }

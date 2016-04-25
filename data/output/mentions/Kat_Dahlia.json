@@ -1,0 +1,8 @@
+{ name: 'Kat Dahlia',
+  href: 'http://en.wikipedia.org/wiki/Kat_Dahlia',
+  mentions: 
+   [ { sectionHeader: 'Artistry',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3268,
+       quote: [ 'Dahlia cites artists BB King, Miles Davis, Led Zeppelin, The Doors, Bob Marley, Frank Sinatra, and Celia Cruz as musical influences.' ] } ] }

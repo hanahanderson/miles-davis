@@ -1,0 +1,8 @@
+{ name: 'PeopleSpeak',
+  href: 'http://en.wikipedia.org/wiki/PeopleSpeak',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 185,
+       quote: [ 'PeopleSpeak began in 1989 as a group of musicians writing tracks inspired by innovative Jazz-Fusion albums by Miles Davis, Weather Report, John Scofield and The Zawinul Syndicate.' ] } ] }

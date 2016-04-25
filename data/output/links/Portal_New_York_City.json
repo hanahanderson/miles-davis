@@ -1,0 +1,17 @@
+{ name: 'Portal:New York City',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:New_York_City',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Portail:New_York',
+          href: 'http://fr.dbpedia.org/resource/Portail:New_York' },
+        { value: 'dbpedia-de:Portal:New_York_City',
+          href: 'http://de.dbpedia.org/resource/Portal:New_York_City' },
+        { value: 'dbpedia-ja:Portal:ニューヨーク市',
+          href: 'http://ja.dbpedia.org/resource/Portal:ニューヨーク市' },
+        { value: 'dbpedia-nl:Portaal:New_York_City',
+          href: 'http://nl.dbpedia.org/resource/Portaal:New_York_City' },
+        { value: 'dbpedia-wikidata:Q6342720',
+          href: 'http://wikidata.dbpedia.org/resource/Q6342720' },
+        { value: 'wikidata:Q6342720',
+          href: 'http://www.wikidata.org/entity/Q6342720' } ] } }

@@ -1,0 +1,31 @@
+{ name: 'List of DualDisc releases',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_DualDisc_releases',
+  values: 
+   { 'dbo:abstract': [ { value: 'Since its mass rollout, some of 2004 and 2005\'s most popular albums have been released on DualDisc in the hopes that the extra exposure will help the new technology gain acceptance in the marketplace.Note: A typical DualDisc will have a DVD side that is DVD-Audio formatted. However, this is not the case with several titles. Instead, a standard DVD-Video format DVD side will be present, and will not actually meet the high-fidelity sound that DVD-Audio provides. In other words, not all DualDisc titles are also DVD-Audio titles. (en)' } ],
+     'dbo:wikiPageID': [ { value: '2876071 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663033031 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music-related_lists',
+          href: 'http://dbpedia.org/resource/Category:Music-related_lists' } ],
+     'rdfs:comment': [ { value: 'Since its mass rollout, some of 2004 and 2005\'s most popular albums have been released on DualDisc in the hopes that the extra exposure will help the new technology gain acceptance in the marketplace.Note: A typical DualDisc will have a DVD side that is DVD-Audio formatted. However, this is not the case with several titles. Instead, a standard DVD-Video format DVD side will be present, and will not actually meet the high-fidelity sound that DVD-Audio provides. (en)' } ],
+     'rdfs:label': [ { value: 'List of DualDisc releases (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of DualDisc releases',
+          href: 'http://wikidata.dbpedia.org/resource/Q6569371' },
+        { value: 'wikidata:List of DualDisc releases',
+          href: 'http://www.wikidata.org/entity/Q6569371' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_DualDisc_releases?oldid=663033031',
+          href: 'http://en.wikipedia.org/wiki/List_of_DualDisc_releases?oldid=663033031' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_DualDisc_releases',
+          href: 'http://en.wikipedia.org/wiki/List_of_DualDisc_releases' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_DualDisc_Releases',
+          href: 'http://dbpedia.org/resource/List_of_DualDisc_Releases' },
+        { value: 'dbr:List_of_Dualdisc_releases',
+          href: 'http://dbpedia.org/resource/List_of_Dualdisc_releases' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_DualDisc_releases',
+          href: 'http://en.wikipedia.org/wiki/List_of_DualDisc_releases' } ] } }

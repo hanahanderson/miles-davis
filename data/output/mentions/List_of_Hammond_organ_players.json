@@ -1,0 +1,8 @@
+{ name: 'List of Hammond organ players',
+  href: 'http://en.wikipedia.org/wiki/List_of_Hammond_organ_players',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 4489,
+       quote: [ 'Mentored by Jimmy Smith, he has performed with Miles Davis and John McLaughlin.' ] } ] }

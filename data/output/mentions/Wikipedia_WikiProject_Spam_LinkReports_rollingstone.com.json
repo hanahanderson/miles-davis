@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:WikiProject Spam/LinkReports/rollingstone.com',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spam/LinkReports/rollingstone.com',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '2007-12-17 10:32:19: User en:DerHexer (talk - contribs) to en:Miles Davis (diff).' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '2007-12-17 10:32:19: User en:DerHexer (talk - contribs) to en:Miles Davis (diff).' ] } ] }

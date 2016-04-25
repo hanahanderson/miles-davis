@@ -1,0 +1,8 @@
+{ name: 'You\'re My Everything (1931 song)',
+  href: 'http://en.wikipedia.org/wiki/You%27re_My_Everything_(1931_song)',
+  mentions: 
+   [ { sectionHeader: 'Versions',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 451,
+       quote: [ 'Miles Davis Quintet' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'New Jazz Conceptions',
+  href: 'http://en.wikipedia.org/wiki/New_Jazz_Conceptions',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: 'Production',
+       sectionIndex: 20,
+       wordCountBeforeSection: 3033,
+       quote: [ 'Miles Davis' ] } ] }

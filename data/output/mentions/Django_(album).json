@@ -1,0 +1,13 @@
+{ name: 'Django (album)',
+  href: 'http://en.wikipedia.org/wiki/Django_(album)',
+  mentions: 
+   [ { sectionHeader: 'Overview',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1248,
+       quote: [ 'The lengthy "La Ronde Suite", with discrete sections emphasizing each group member\'s contributions, is in fact a version of the standard "Two Bass Hit", written by Lewis for Dizzy Gillespie and covered by, among others, Miles Davis on Milestones.' ] },
+     { sectionHeader: 'Overview',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1248,
+       quote: [] } ] }

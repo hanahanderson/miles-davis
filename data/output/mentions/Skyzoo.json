@@ -1,0 +1,8 @@
+{ name: 'Skyzoo',
+  href: 'http://en.wikipedia.org/wiki/Skyzoo',
+  mentions: 
+   [ { sectionHeader: 'Musical style and influences',
+       sectionSubHeader: 'Music For My Friends (2015)',
+       sectionIndex: 35,
+       wordCountBeforeSection: 16857,
+       quote: [ 'Also a fan of jazz, Skyzoo has stated that Miles Davis, John Coltrane, Horace Silver, and Wayne Shorter as his favorite artists in the genre.' ] } ] }

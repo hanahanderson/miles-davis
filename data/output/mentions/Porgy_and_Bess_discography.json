@@ -1,0 +1,18 @@
+{ name: 'Porgy and Bess discography',
+  href: 'http://en.wikipedia.org/wiki/Porgy_and_Bess_discography',
+  mentions: 
+   [ { sectionHeader: 'Jazz versions',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 3503,
+       quote: [] },
+     { sectionHeader: 'Jazz versions',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 3503,
+       quote: [ 'Porgy and Bess (1958), Miles Davis and Gil Evans recorded their own jazz instrumental interpretation of the opera.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 7523,
+       quote: [ 'Porgy and Bess (Miles Davis album)' ] } ] }

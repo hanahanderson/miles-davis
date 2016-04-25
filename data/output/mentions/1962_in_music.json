@@ -1,0 +1,13 @@
+{ name: '1962 in music',
+  href: 'http://en.wikipedia.org/wiki/1962_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 6365,
+       quote: [ 'Miles Davis at Carnegie Hall' ] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 6365,
+       quote: [ 'Miles Davis at Carnegie Hall – Miles Davis' ] } ] }

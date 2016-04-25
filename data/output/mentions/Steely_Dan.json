@@ -1,0 +1,8 @@
+{ name: 'Steely Dan',
+  href: 'http://en.wikipedia.org/wiki/Steely_Dan',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 12166,
+       quote: [ 'It features such jazz and fusion luminaries as guitarists Larry Carlton and Lee Ritenour; bassist Chuck Rainey; saxophonists Wayne Shorter, Pete Christlieb, and Tom Scott; drummers Steve Gadd, Rick Marotta and Bernard Purdie; pianist Joe Sample and ex-Miles Davis pianist/vibraphonist Victor Feldman and Grammy award-winning producer/arranger Michael Omartian (piano).' ] } ] }

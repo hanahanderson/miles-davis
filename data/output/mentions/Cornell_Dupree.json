@@ -1,0 +1,8 @@
+{ name: 'Cornell Dupree',
+  href: 'http://en.wikipedia.org/wiki/Cornell_Dupree',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 771,
+       quote: [ 'He appeared on the 1969 Lena Horne and Gábor Szabó recording, and on recordings with Archie Shepp, Grover Washington, Jr., Snooky Young and Miles Davis.' ] } ] }

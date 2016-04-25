@@ -1,0 +1,8 @@
+{ name: 'Jean-Paul Bourelly',
+  href: 'http://en.wikipedia.org/wiki/Jean-Paul_Bourelly',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 467,
+       quote: [ 'He released his debut solo effort in 1987, and played with Miles Davis in 1988.' ] } ] }

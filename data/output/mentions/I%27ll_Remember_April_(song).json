@@ -1,0 +1,13 @@
+{ name: 'I\'ll Remember April (song)',
+  href: 'http://en.wikipedia.org/wiki/I%27ll_Remember_April_(song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 239,
+       quote: [ 'Since then, dozens upon dozens of artists have covered the song, including Robert Goulet, June Christy, Miles Davis, Charlie Parker, Charles Mingus, Eric Dolphy, Bud Powell, Sonny Rollins, Sonny Clark, Lee Konitz, Cannonball Adderley, Sonny Stitt, Frank Sinatra, and Julie London.' ] },
+     { sectionHeader: 'Recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 888,
+       quote: [ 'Miles Davis - Blue Haze, Prestige Album (1954)' ] } ] }

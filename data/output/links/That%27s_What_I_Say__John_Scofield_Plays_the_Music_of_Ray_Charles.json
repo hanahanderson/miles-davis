@@ -1,0 +1,93 @@
+{ name: 'That\'s What I Say: John Scofield Plays the Music of Ray Charles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/That%27s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles',
+  values: 
+   { 'dbo:abstract': [ { value: 'That\'s What I Say: John Scofield Plays the Music of Ray Charles is a Ray Charles tribute album by John Scofield. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Scofield',
+          href: 'http://dbpedia.org/resource/John_Scofield' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Soul_jazz',
+          href: 'http://dbpedia.org/resource/Soul_jazz' },
+        { value: 'dbr:Funk', href: 'http://dbpedia.org/resource/Funk' },
+        { value: 'dbr:Rhythm_and_blues',
+          href: 'http://dbpedia.org/resource/Rhythm_and_blues' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:EnRoute:_John_Scofield_Trio_LIVE',
+          href: 'http://dbpedia.org/resource/EnRoute:_John_Scofield_Trio_LIVE' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Steve_Jordan_(musician)',
+          href: 'http://dbpedia.org/resource/Steve_Jordan_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:releaseDate': [ { value: '2005-06-07 (xsd:date)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Out_Louder',
+          href: 'http://dbpedia.org/resource/Out_Louder' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Tribute_album',
+          href: 'http://dbpedia.org/resource/Tribute_album' } ],
+     'dbo:wikiPageID': [ { value: '3167569 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '581474209 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2005_albums',
+          href: 'http://dbpedia.org/resource/Category:2005_albums' },
+        { value: 'dbc:Verve_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_albums' },
+        { value: 'dbc:Ray_Charles_tribute_albums',
+          href: 'http://dbpedia.org/resource/Category:Ray_Charles_tribute_albums' },
+        { value: 'dbc:John_Scofield_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Scofield_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' },
+        { value: 'umbel-rc:Album_IBO',
+          href: 'http://umbel.org/umbel/rc/Album_IBO' },
+        { value: 'umbel-rc:MusicalComposition',
+          href: 'http://umbel.org/umbel/rc/MusicalComposition' } ],
+     'rdfs:comment': [ { value: 'That\'s What I Say: John Scofield Plays the Music of Ray Charles is a Ray Charles tribute album by John Scofield. (en)' } ],
+     'rdfs:label': [ { value: 'That\'s What I Say: John Scofield Plays the Music of Ray Charles (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:That\'s What I Say: John Scofield Plays the Music of Ray Charles',
+          href: 'http://rdf.freebase.com/ns/m.08wpmw' },
+        { value: 'dbpedia-wikidata:That\'s What I Say: John Scofield Plays the Music of Ray Charles',
+          href: 'http://wikidata.dbpedia.org/resource/Q7711047' },
+        { value: 'wikidata:That\'s What I Say: John Scofield Plays the Music of Ray Charles',
+          href: 'http://www.wikidata.org/entity/Q7711047' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:That\'s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles?oldid=581474209',
+          href: 'http://en.wikipedia.org/wiki/That\'s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles?oldid=581474209' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:That\'s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles',
+          href: 'http://en.wikipedia.org/wiki/That\'s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles' } ],
+     'foaf:name': [ { value: 'That\'s What I Say: John Scofield Plays the Music of Ray Charles (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Out_Louder',
+          href: 'http://dbpedia.org/resource/Out_Louder' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:That\'s_What_I_Say_(John_Scofield_album)',
+          href: 'http://dbpedia.org/resource/That\'s_What_I_Say_(John_Scofield_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:That\'s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles',
+          href: 'http://en.wikipedia.org/wiki/That\'s_What_I_Say:_John_Scofield_Plays_the_Music_of_Ray_Charles' } ] } }

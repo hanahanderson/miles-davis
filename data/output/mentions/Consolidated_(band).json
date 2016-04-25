@@ -1,0 +1,8 @@
+{ name: 'Consolidated (band)',
+  href: 'http://en.wikipedia.org/wiki/Consolidated_(band)',
+  mentions: 
+   [ { sectionHeader: 'Band members',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2482,
+       quote: [ 'Following the split of the original line-up, Consolidated has continued to evolve musically through styles reminiscent of West Coast hip-hop, R&B, rock, and jazz similar to Miles Davis\'s early 1970s experimentation.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Steve Wiest',
+  href: 'http://en.wikipedia.org/wiki/Steve_Wiest',
+  mentions: 
+   [ { sectionHeader: 'Works',
+       sectionSubHeader: '',
+       sectionIndex: 71,
+       wordCountBeforeSection: 25725,
+       quote: [ 'Louis, Illinois (Miles Davis\' alma mater)' ] },
+     { sectionHeader: 'Works',
+       sectionSubHeader: '',
+       sectionIndex: 80,
+       wordCountBeforeSection: 26901,
+       quote: [ '"Bebop Buffet, Part I," a tribute to Dizzy Gillespie, Charlie Parker, Thelonious Monk, Miles Davis, and Clifford Brown\nArranged by Denis DiBlasio' ] } ] }

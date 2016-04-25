@@ -1,0 +1,8 @@
+{ name: '1963 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1963_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1139,
+       quote: [ 'Miles Davis: Seven Steps to Heaven' ] } ] }

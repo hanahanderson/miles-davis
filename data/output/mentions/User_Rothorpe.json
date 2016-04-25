@@ -1,0 +1,8 @@
+{ name: 'User:Rothorpe',
+  href: 'http://en.wikipedia.org/wiki/User:Rothorpe',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 893,
+       quote: [ 'Articles I started: Language: Back-chaining, List of artworks known in English by a foreign title; Music: Ace Cannon, Adam Holzman (keyboardist), Bernard van Dieren, Betty Humby Beecham, Carl Perkins (pianist), Cecil Gray (composer), Charlie Parker\'s Bird Symbols and Bird Is Free, Denis Colin, Dolceola, Dominique Gaumont, Earl-Jean, Ebony Concerto (Stravinsky), Edward Greenfield, Géraldine Laurent, Jay Berliner, Josh MacRae, Lou Johnson, Martin Lovett, Médéric Collignon, Miles Davis\'s That\'s What Happened: Live in Germany 1987, New Morning (club), Piltdown Men, Robert Wyatt\'s Mid-Eighties, Steve Hunter, String-A-Longs, Terry Stafford; Record labels: Dimension, Herald, Palette, Spotlite, Warwick; List of HMV POP artists; Television: BBC-3 (TV series), Gerald Cross, Mezzo TV, Not So Much a Programme More a Way of Life, Ted Lune, Timothy Birdsall; Miscellaneous: Alan Odle, Figueira (Faro), Ivy Compton-Burnett\'s The Last and the First.' ] } ] }

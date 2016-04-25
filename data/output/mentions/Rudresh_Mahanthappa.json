@@ -1,0 +1,13 @@
+{ name: 'Rudresh Mahanthappa',
+  href: 'http://en.wikipedia.org/wiki/Rudresh_Mahanthappa',
+  mentions: 
+   [ { sectionHeader: 'Musical influences',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2469,
+       quote: [ 'Mahanthappa further claims The Brecker Brothers, The Yellowjackets, David Sanborn, Grover Washington, Jr., and Miles Davis\' electric bands as influences in creating Samdhi.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 5377,
+       quote: [ 'A Celebration of the Music of Miles Davis' ] } ] }

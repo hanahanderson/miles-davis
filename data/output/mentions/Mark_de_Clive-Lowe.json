@@ -1,0 +1,8 @@
+{ name: 'Mark de Clive-Lowe',
+  href: 'http://en.wikipedia.org/wiki/Mark_de_Clive-Lowe',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 487,
+       quote: [ 'He has been involved with over 200 releases, collaborating with as diverse a range of artists as Lauryn Hill, Jody Watley, Shirley Horn, UK soul singer Omar, percussionist Sammy Figueroa (Miles Davis), bass player Pino Palladino (D\'Angelo/The Who).' ] } ] }

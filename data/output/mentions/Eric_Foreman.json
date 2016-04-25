@@ -1,0 +1,8 @@
+{ name: 'Eric Foreman',
+  href: 'http://en.wikipedia.org/wiki/Eric_Foreman',
+  mentions: 
+   [ { sectionHeader: 'Personality',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 15947,
+       quote: [ 'Foreman is a fan of jazz music, first shown in the episode "Who\'s Your Daddy?", when Foreman makes a Miles Davis reference, and later in the episode "Insensitive", where he plans to attend a jazz festival.' ] } ] }

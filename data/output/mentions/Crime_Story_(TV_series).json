@@ -1,0 +1,8 @@
+{ name: 'Crime Story (TV series)',
+  href: 'http://en.wikipedia.org/wiki/Crime_Story_(TV_series)',
+  mentions: 
+   [ { sectionHeader: 'Cast',
+       sectionSubHeader: '',
+       sectionIndex: 46,
+       wordCountBeforeSection: 21713,
+       quote: [ 'Jazz musician Miles Davis made a cameo in the first season episode "The War," playing jazz with Stephen Lang.' ] } ] }

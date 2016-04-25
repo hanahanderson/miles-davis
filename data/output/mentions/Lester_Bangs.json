@@ -1,0 +1,8 @@
+{ name: 'Lester Bangs',
+  href: 'http://en.wikipedia.org/wiki/Lester_Bangs',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1437,
+       quote: [ 'Burroughs), jazz musicians like John Coltrane and Miles Davis, comic books, and science fiction.' ] } ] }

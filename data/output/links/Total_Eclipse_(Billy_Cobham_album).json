@@ -1,0 +1,121 @@
+{ name: 'Total Eclipse (Billy Cobham album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Total_Eclipse_(Billy_Cobham_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '44.18333333333333' } ],
+     'dbo:abstract': [ { value: 'Total Eclipse is the third album of fusion drummer Billy Cobham. The album was released in 1974. It comprises eight songs, all composed by Billy Cobham. The album peaked number 6 in the Billboard Jazz album charts, number 12 in the R&B album charts and number 36 in the Billboard 200 charts. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Billy_Cobham',
+          href: 'http://dbpedia.org/resource/Billy_Cobham' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Crosswinds_(Billy_Cobham_album)',
+          href: 'http://dbpedia.org/resource/Crosswinds_(Billy_Cobham_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Billy_Cobham',
+          href: 'http://dbpedia.org/resource/Billy_Cobham' },
+        { value: 'dbr:Ken_Scott',
+          href: 'http://dbpedia.org/resource/Ken_Scott' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Electric_Lady_Studios',
+          href: 'http://dbpedia.org/resource/Electric_Lady_Studios' },
+        { value: 'dbr:Atlantic_Studios',
+          href: 'http://dbpedia.org/resource/Atlantic_Studios' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '2651.000000 (xsd:double)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '40906110 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662435459 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Billy_Cobham',
+          href: 'http://dbpedia.org/resource/Billy_Cobham' } ],
+     'dbp:cover': [ { value: 'Billy_Cobham_Total_Eclipse.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Crosswinds (en)' } ],
+     'dbp:master': [ { value: '47691 (xsd:integer)' } ],
+     'dbp:name': [ { value: 'Total Eclipse (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Shabazz (en)' } ],
+     'dbp:producer': [ { value: 'William E. Cobham, Jr. and Ken Scott (en)' } ],
+     'dbp:recorded': 
+      [ { value: 're-mixed at Scorpio & Trident Studios, London, England. (en)' },
+        { value: 'at Atlantic Recording Studios and at Electric Lady Studios, New York City, (en)' } ],
+     'dbp:released': [ { value: '1974 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Total Eclipse (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' },
+        { value: 'album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1974_albums',
+          href: 'http://dbpedia.org/resource/Category:1974_albums' },
+        { value: 'dbc:Atlantic_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Atlantic_Records_albums' },
+        { value: 'dbc:Jazz_fusion_albums',
+          href: 'http://dbpedia.org/resource/Category:Jazz_fusion_albums' },
+        { value: 'dbc:Albums_recorded_at_Electric_Lady_Studios',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Electric_Lady_Studios' },
+        { value: 'dbc:Billy_Cobham_albums',
+          href: 'http://dbpedia.org/resource/Category:Billy_Cobham_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Total Eclipse is the third album of fusion drummer Billy Cobham. The album was released in 1974. It comprises eight songs, all composed by Billy Cobham. The album peaked number 6 in the Billboard Jazz album charts, number 12 in the R&B album charts and number 36 in the Billboard 200 charts. (en)' } ],
+     'rdfs:label': [ { value: 'Total Eclipse (Billy Cobham album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Total Eclipse (Billy Cobham album)',
+          href: 'http://rdf.freebase.com/ns/m.01k1jf3' },
+        { value: 'wikidata:Total Eclipse (Billy Cobham album)',
+          href: 'http://www.wikidata.org/entity/Q16247002' },
+        { value: 'dbpedia-wikidata:Total Eclipse (Billy Cobham album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q16247002' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Total_Eclipse_(Billy_Cobham_album)?oldid=662435459',
+          href: 'http://en.wikipedia.org/wiki/Total_Eclipse_(Billy_Cobham_album)?oldid=662435459' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Total_Eclipse_(Billy_Cobham_album)',
+          href: 'http://en.wikipedia.org/wiki/Total_Eclipse_(Billy_Cobham_album)' } ],
+     'foaf:name': [ { value: 'Total Eclipse (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:A_Funky_Thide_of_Sings',
+          href: 'http://dbpedia.org/resource/A_Funky_Thide_of_Sings' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Crosswinds_(Billy_Cobham_album)',
+          href: 'http://dbpedia.org/resource/Crosswinds_(Billy_Cobham_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Total_Eclipse',
+          href: 'http://dbpedia.org/resource/Total_Eclipse' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Total_Eclipse_(Billy_Cobham_album)',
+          href: 'http://en.wikipedia.org/wiki/Total_Eclipse_(Billy_Cobham_album)' } ] } }

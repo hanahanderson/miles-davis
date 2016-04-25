@@ -1,0 +1,8 @@
+{ name: 'Joaquín Rodrigo',
+  href: 'http://en.wikipedia.org/wiki/Joaqu%C3%ADn_Rodrigo',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2067,
+       quote: [ 'This movement was later adapted by the jazz arranger Gil Evans for Miles Davis\' 1960 album "Sketches of Spain".' ] } ] }

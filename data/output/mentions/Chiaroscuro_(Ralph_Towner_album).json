@@ -1,0 +1,8 @@
+{ name: 'Chiaroscuro (Ralph Towner album)',
+  href: 'http://en.wikipedia.org/wiki/Chiaroscuro_(Ralph_Towner_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 879,
+       quote: [ '"Blue in Green" (Miles Davis, Bill Evans) - 5:45' ] } ] }

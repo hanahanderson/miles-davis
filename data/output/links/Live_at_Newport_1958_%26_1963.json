@@ -1,0 +1,77 @@
+{ name: 'Live at Newport 1958 & 1963',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Live_at_Newport_1958_%26_1963',
+  values: 
+   { 'dbo:abstract': [ { value: 'Live at Newport 1958 & 1963 (also Live at the Newport Jazz Festival 1958 & 1963) is a live album by Miles Davis and Thelonious Monk released on July 19, 1994. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Sony_Music_Entertainment',
+          href: 'http://dbpedia.org/resource/Sony_Music_Entertainment' } ],
+     'dbo:releaseDate': [ { value: '1994-07-19 (xsd:date)' } ],
+     'dbo:wikiPageID': [ { value: '30319700 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '534862781 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'Live at the Newport Jazz Festival 1958 & 1963.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Hard_bop',
+          href: 'http://dbpedia.org/resource/Hard_bop' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Sony_Music_Entertainment',
+          href: 'http://dbpedia.org/resource/Sony_Music_Entertainment' } ],
+     'dbp:name': [ { value: 'Live at Newport 1958 & 1963 (en)' } ],
+     'dbp:released': [ { value: '1994-07-19 (xsd:date)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Miles_Davis_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_live_albums' },
+        { value: 'dbc:Thelonious_Monk_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Thelonious_Monk_live_albums' },
+        { value: 'dbc:1994_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1994_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Live at Newport 1958 & 1963 (also Live at the Newport Jazz Festival 1958 & 1963) is a live album by Miles Davis and Thelonious Monk released on July 19, 1994. (en)' } ],
+     'rdfs:label': [ { value: 'Live at Newport 1958 & 1963 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Live at Newport 1958 & 1963',
+          href: 'http://rdf.freebase.com/ns/m.011bvrt2' },
+        { value: 'dbpedia-wikidata:Live at Newport 1958 & 1963',
+          href: 'http://wikidata.dbpedia.org/resource/Q6656304' },
+        { value: 'wikidata:Live at Newport 1958 & 1963',
+          href: 'http://www.wikidata.org/entity/Q6656304' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Live_at_Newport_1958_&_1963?oldid=534862781',
+          href: 'http://en.wikipedia.org/wiki/Live_at_Newport_1958_&_1963?oldid=534862781' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Live_at_Newport_1958_&_1963',
+          href: 'http://en.wikipedia.org/wiki/Live_at_Newport_1958_&_1963' } ],
+     'foaf:name': [ { value: 'Live at Newport 1958 & 1963 (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Newport_1958_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Newport_1958_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Live_at_Newport_1958_&_1963',
+          href: 'http://en.wikipedia.org/wiki/Live_at_Newport_1958_&_1963' } ] } }

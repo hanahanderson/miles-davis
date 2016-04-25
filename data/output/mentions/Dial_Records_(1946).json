@@ -1,0 +1,8 @@
+{ name: 'Dial Records (1946)',
+  href: 'http://en.wikipedia.org/wiki/Dial_Records_(1946)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 145,
+       quote: [ 'Notable artists who recorded for Dial included Charlie Parker, who signed an exclusive one-year recording contract with Russell on 26 February 1946, Miles Davis, Max Roach, and Milt Jackson.' ] } ] }

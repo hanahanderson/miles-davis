@@ -1,0 +1,8 @@
+{ name: 'Kelly\'s Stables (New York)',
+  href: 'http://en.wikipedia.org/wiki/Kelly%27s_Stables_(New_York)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 711,
+       quote: [ 'Among the musicians who performed at the venue, Coleman Hawkins led a band in 1939 featuring Thelonious Monk, Oscar Pettiford, Miles Davis, and Max Roach as sidemen, with which he had been performing the standard first recorded by Louis Armstrong, "Body and Soul", and which he would soon record.' ] } ] }

@@ -1,0 +1,34 @@
+{ name: 'List of people from Michigan',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_from_Michigan',
+  values: 
+   { 'dbo:abstract': [ { value: 'A list of notable people from the U.S. state of Michigan. People from Michigan are sometimes referred to as Michiganders, Michiganians, or more rarely as Michiganites. This list includes people who were born, have lived, or worked in Michigan. (en)' } ],
+     'dbo:wikiPageID': [ { value: '424901 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683723566 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_people_from_Michigan',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_from_Michigan' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'A list of notable people from the U.S. state of Michigan. People from Michigan are sometimes referred to as Michiganders, Michiganians, or more rarely as Michiganites. This list includes people who were born, have lived, or worked in Michigan. (en)' } ],
+     'rdfs:label': [ { value: 'List of people from Michigan (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_United_States_Senators_from_Michigan',
+          href: 'http://dbpedia.org/resource/List_of_United_States_Senators_from_Michigan' },
+        { value: 'dbr:List_of_Governors_of_Michigan',
+          href: 'http://dbpedia.org/resource/List_of_Governors_of_Michigan' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of people from Michigan',
+          href: 'http://wikidata.dbpedia.org/resource/Q6632604' },
+        { value: 'wikidata:List of people from Michigan',
+          href: 'http://www.wikidata.org/entity/Q6632604' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_from_Michigan?oldid=683723566',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Michigan?oldid=683723566' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_from_Michigan',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Michigan' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_from_Michigan',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Michigan' } ] } }

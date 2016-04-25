@@ -1,0 +1,8 @@
+{ name: 'Slapping (music)',
+  href: 'http://en.wikipedia.org/wiki/Slapping_(music)',
+  mentions: 
+   [ { sectionHeader: 'Bass guitar',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 5793,
+       quote: [ 'Marcus Miller (solo artist, Miles Davis, David Sanborn, Luther Vandross)' ] } ] }

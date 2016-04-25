@@ -1,0 +1,8 @@
+{ name: 'Counterculture of the 1960s',
+  href: 'http://en.wikipedia.org/wiki/Counterculture_of_the_1960s',
+  mentions: 
+   [ { sectionHeader: 'Culture and lifestyles',
+       sectionSubHeader: '',
+       sectionIndex: 166,
+       wordCountBeforeSection: 63338,
+       quote: [ 'Since rock often emphasized directness and simplicity over virtuosity, jazz-rock generally grew out of the most artistically ambitious rock subgenres of the late 1960s and early 70s: psychedelia, progressive rock, and the singer/songwriter movement." Miles Davis\' Bitches Brew sessions, recorded in August 1969 and released the following year, mostly abandoned jazz\'s usual swing beat in favor of a rock-style backbeat anchored by electric bass grooves.' ] } ] }

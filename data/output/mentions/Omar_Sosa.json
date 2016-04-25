@@ -1,0 +1,8 @@
+{ name: 'Omar Sosa',
+  href: 'http://en.wikipedia.org/wiki/Omar_Sosa',
+  mentions: 
+   [ { sectionHeader: 'Current projects',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2974,
+       quote: [ 'The assignment was to compose and produce a tribute performance to Miles Davis’ classic recording Kind Of Blue, on the occasion of its 50th anniversary.' ] } ] }

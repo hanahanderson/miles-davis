@@ -1,0 +1,8 @@
+{ name: 'Charley Drayton',
+  href: 'http://en.wikipedia.org/wiki/Charley_Drayton',
+  mentions: 
+   [ { sectionHeader: 'Career highlights',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1698,
+       quote: [ 'Dryton\'s other credits include work with Miles Davis, Herbie Hancock, Johnny Cash, Chaka Khan, Mariah Carey, Seal, Bob Dylan, Iggy Pop, Janet Jackson, Courtney Love, Michelle Branch, Andrés Calamaro, and many others.' ] } ] }

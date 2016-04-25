@@ -1,0 +1,106 @@
+{ name: 'The In Sound',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_In_Sound',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '36.05' } ],
+     'dbo:abstract': [ { value: 'The In Sound is an album by American jazz saxophonist Eddie Harris recorded in 1965 and released on the Atlantic label.  The album features Harris\' first recording of "Freedom Jazz Dance" which would become a jazz standard after featuring on Miles Davis\' album Miles Smiles (Columbia, 1966). (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Eddie_Harris',
+          href: 'http://dbpedia.org/resource/Eddie_Harris' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Cool_Sax_from_Hollywood_to_Broadway',
+          href: 'http://dbpedia.org/resource/Cool_Sax_from_Hollywood_to_Broadway' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Nesuhi_Ertegun' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '2163.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Mean_Greens',
+          href: 'http://dbpedia.org/resource/Mean_Greens' } ],
+     'dbo:wikiPageID': [ { value: '35751809 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682796614 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Eddie_Harris',
+          href: 'http://dbpedia.org/resource/Eddie_Harris' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Eddie_Harris',
+          href: 'http://dbpedia.org/resource/Eddie_Harris' } ],
+     'dbp:cover': [ { value: 'The In Sound.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' },
+        { value: 'SD 1448 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Cool Sax from Hollywood to Broadway (en)' } ],
+     'dbp:length': [ { value: '2163.0' } ],
+     'dbp:name': [ { value: 'The In Sound (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Mean Greens (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Nesuhi_Ertegun' } ],
+     'dbp:recorded': [ { value: 'New York City (en)' }, { value: '--08-09' } ],
+     'dbp:released': [ { value: '1966 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The In Sound (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Nesuhi_Ertegun',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Nesuhi_Ertegun' },
+        { value: 'dbc:1966_albums',
+          href: 'http://dbpedia.org/resource/Category:1966_albums' },
+        { value: 'dbc:Atlantic_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Atlantic_Records_albums' },
+        { value: 'dbc:Eddie_Harris_albums',
+          href: 'http://dbpedia.org/resource/Category:Eddie_Harris_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The In Sound is an album by American jazz saxophonist Eddie Harris recorded in 1965 and released on the Atlantic label.  The album features Harris\' first recording of "Freedom Jazz Dance" which would become a jazz standard after featuring on Miles Davis\' album Miles Smiles (Columbia, 1966). (en)' } ],
+     'rdfs:label': [ { value: 'The In Sound (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The In Sound',
+          href: 'http://rdf.freebase.com/ns/m.01jlvzg' },
+        { value: 'dbpedia-wikidata:The In Sound',
+          href: 'http://wikidata.dbpedia.org/resource/Q7741668' },
+        { value: 'wikidata:The In Sound',
+          href: 'http://www.wikidata.org/entity/Q7741668' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_In_Sound?oldid=682796614',
+          href: 'http://en.wikipedia.org/wiki/The_In_Sound?oldid=682796614' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_In_Sound',
+          href: 'http://en.wikipedia.org/wiki/The_In_Sound' } ],
+     'foaf:name': [ { value: 'The In Sound (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Mean_Greens',
+          href: 'http://dbpedia.org/resource/Mean_Greens' },
+        { value: 'dbr:Tijuana_Jazz',
+          href: 'http://dbpedia.org/resource/Tijuana_Jazz' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Cool_Sax_from_Hollywood_to_Broadway',
+          href: 'http://dbpedia.org/resource/Cool_Sax_from_Hollywood_to_Broadway' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_In_Sound',
+          href: 'http://en.wikipedia.org/wiki/The_In_Sound' } ] } }

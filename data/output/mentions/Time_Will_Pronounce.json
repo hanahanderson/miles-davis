@@ -1,0 +1,8 @@
+{ name: 'Time Will Pronounce',
+  href: 'http://en.wikipedia.org/wiki/Time_Will_Pronounce',
+  mentions: 
+   [ { sectionHeader: 'For John Cage',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 4589,
+       quote: [ 'On earlier sheets of the work, he noted the deaths of Miles Davis (who died September 29, the day it was begun) and Ástor Piazzolla.' ] } ] }

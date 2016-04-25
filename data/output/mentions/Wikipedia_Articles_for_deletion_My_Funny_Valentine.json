@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Articles for deletion/My Funny Valentine',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/My_Funny_Valentine',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'BTW, there is a Miles Davis live album of the same name which is considered by some to be one of the best versions of standards ever recorded.' ] } ] }

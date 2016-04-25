@@ -1,0 +1,53 @@
+{ name: 'Danish Culture Canon',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Danish_Culture_Canon',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Danish Culture Canon (Danish: Kulturkanonen) consists of 108 works of cultural excellence in eight categories: architecture, visual arts, design and crafts, film, literature, music, performing arts, and children\'s culture. An initiative of Brian Mikkelsen in 2004, it was developed by a series of committees under the auspices of the Danish Ministry of Culture in 2006–2007 as "a collection and presentation of the greatest, most important works of Denmark\'s cultural heritage." Each category contains 12 works although music contains 12 works of score music and 12 of popular music and the literature section\'s 12th item is an anthology of 24 works. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Hover_kirke_-_set_fra_sydøst.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Hover_kirke_-_set_fra_sydøst.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://kum.dk/Documents/Publikationer/2006/Kulturkontakten%202006/kulturkontakten_kulturkanon_2006.pdf',
+          href: 'http://kum.dk/Documents/Publikationer/2006/Kulturkontakten%202006/kulturkontakten_kulturkanon_2006.pdf' },
+        { value: 'http://kum.dk/Documents/Temaer/Kulturkanon/KUM_kulturkanonen_uk_OK.pdf',
+          href: 'http://kum.dk/Documents/Temaer/Kulturkanon/KUM_kulturkanonen_uk_OK.pdf' } ],
+     'dbo:wikiPageID': [ { value: '38197276 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '672006319 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Danish_Culture_Canon',
+          href: 'http://dbpedia.org/resource/Category:Danish_Culture_Canon' } ],
+     'rdfs:comment': [ { value: 'The Danish Culture Canon (Danish: Kulturkanonen) consists of 108 works of cultural excellence in eight categories: architecture, visual arts, design and crafts, film, literature, music, performing arts, and children\'s culture. (en)' } ],
+     'rdfs:label': [ { value: 'Danish Culture Canon (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Danish Culture Canon',
+          href: 'http://rdf.freebase.com/ns/m.0pk_3s1' },
+        { value: 'dbpedia-fr:Danish Culture Canon',
+          href: 'http://fr.dbpedia.org/resource/Canon_de_la_culture_danoise' },
+        { value: 'dbpedia-de:Danish Culture Canon',
+          href: 'http://de.dbpedia.org/resource/Dänischer_Kulturkanon_2006' },
+        { value: 'dbpedia-wikidata:Danish Culture Canon',
+          href: 'http://wikidata.dbpedia.org/resource/Q1269747' },
+        { value: 'wikidata:Danish Culture Canon',
+          href: 'http://www.wikidata.org/entity/Q1269747' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Danish_Culture_Canon?oldid=672006319',
+          href: 'http://en.wikipedia.org/wiki/Danish_Culture_Canon?oldid=672006319' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Hover_kirke_-_set_fra_sydøst.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Hover_kirke_-_set_fra_sydøst.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Danish_Culture_Canon',
+          href: 'http://en.wikipedia.org/wiki/Danish_Culture_Canon' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Canon',
+          href: 'http://dbpedia.org/resource/Canon' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Cultural_canon_of_Denmark',
+          href: 'http://dbpedia.org/resource/Cultural_canon_of_Denmark' },
+        { value: 'dbr:Denmark\'s_cultural_canon',
+          href: 'http://dbpedia.org/resource/Denmark\'s_cultural_canon' },
+        { value: 'dbr:Kulturkanonen',
+          href: 'http://dbpedia.org/resource/Kulturkanonen' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Danish_Culture_Canon',
+          href: 'http://en.wikipedia.org/wiki/Danish_Culture_Canon' } ] } }

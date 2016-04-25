@@ -1,0 +1,13 @@
+{ name: 'Streetnoise',
+  href: 'http://en.wikipedia.org/wiki/Streetnoise',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 657,
+       quote: [ 'It includes cover versions of The Doors’ "Light My Fire", Nina Simone’s "Take Me To The Water", Laura Nyro’s "Save the Country", Miles Davis\' "All Blues", Richie Havens\' "Indian Rope Man", and "Let The Sunshine In" and "I Got Life" from the musical Hair.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2726,
+       quote: [ '14. "All Blues" (Miles Davis, Oscar Brown) 5:40' ] } ] }

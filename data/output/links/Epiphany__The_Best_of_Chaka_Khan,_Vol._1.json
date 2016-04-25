@@ -1,0 +1,124 @@
+{ name: 'Epiphany: The Best of Chaka Khan, Vol. 1',
+  entityType: 'Greatest hits album',
+  href: 'http://dbpedia.org/page/Epiphany:_The_Best_of_Chaka_Khan,_Vol._1',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '73.0' } ],
+     'dbo:abstract': [ { value: 'Epiphany: The Best of Chaka Khan, Vol. 1 a.k.a. I\'m Every Woman: The Best of Chaka Khan is a compilation album of recordings by American R&B/funk singer Chaka Khan, first released on the Warner Bros. Records label in 1996. Although the compilation, which reached #22 on Billboard\'s R&B chart and #84 on Pop, was given the "Vol. 1" tag, it remains without a sequel to date. Vol. 1 was however re-issued by Warner\'s sublabel Reprise Records in 1999, then with alternative cover art and under the title I\'m Every Woman - The Best of Chaka Khan. The collection was again re-issued as Epiphany: The Best of Chaka Khan, Vol. 1 in 2005, then also on the Reprise label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chaka_Khan',
+          href: 'http://dbpedia.org/resource/Chaka_Khan' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Rhythm_and_blues',
+          href: 'http://dbpedia.org/resource/Rhythm_and_blues' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Woman_I_Am',
+          href: 'http://dbpedia.org/resource/The_Woman_I_Am' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Warner_Bros._Records',
+          href: 'http://dbpedia.org/resource/Warner_Bros._Records' },
+        { value: 'dbr:Reprise_Records',
+          href: 'http://dbpedia.org/resource/Reprise_Records' } ],
+     'dbo:releaseDate': 
+      [ { value: '1996-11-12 (xsd:date)' },
+        { value: '1999-09-14 (xsd:date)' },
+        { value: '2005-03-15 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '4380.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Come_2_My_House',
+          href: 'http://dbpedia.org/resource/Come_2_My_House' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Greatest_hits_album',
+          href: 'http://dbpedia.org/resource/Greatest_hits_album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.discogs.com/Chaka-Khan-Epiphany-The-Best-Of-Chaka-Khan-Volume-One/release/2028281',
+          href: 'http://www.discogs.com/Chaka-Khan-Epiphany-The-Best-Of-Chaka-Khan-Volume-One/release/2028281' } ],
+     'dbo:wikiPageID': [ { value: '18165836 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674787664 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chaka_Khan',
+          href: 'http://dbpedia.org/resource/Chaka_Khan' } ],
+     'dbp:cover': [ { value: 'Chaka Khan - Epiphany- The Best of Chaka Khan, Vol. 1.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Rhythm_and_blues',
+          href: 'http://dbpedia.org/resource/Rhythm_and_blues' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Warner_Bros._Records',
+          href: 'http://dbpedia.org/resource/Warner_Bros._Records' },
+        { value: 'dbr:Reprise_Records',
+          href: 'http://dbpedia.org/resource/Reprise_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Woman I Am (en)' } ],
+     'dbp:length': [ { value: '4410.0' } ],
+     'dbp:name': [ { value: 'Epiphany: The Best of Chaka Khan, Vol. 1 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Come 2 My House (en)' } ],
+     'dbp:recorded': [ { value: '1978 (xsd:integer)' } ],
+     'dbp:released': 
+      [ { value: '1996-11-12 (xsd:date)' },
+        { value: '2005-03-15 (xsd:date)' },
+        { value: '--09-14' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:Robert_Christgau',
+          href: 'http://dbpedia.org/resource/Robert_Christgau' } ],
+     'dbp:thisAlbum': [ { value: 'Epiphany: The Best of Chaka Khan, Vol. 1 (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Greatest_hits_album',
+          href: 'http://dbpedia.org/resource/Greatest_hits_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Warner_Bros._Records_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Warner_Bros._Records_compilation_albums' },
+        { value: 'dbc:Chaka_Khan_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Chaka_Khan_compilation_albums' },
+        { value: 'dbc:Reprise_Records_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Reprise_Records_compilation_albums' },
+        { value: 'dbc:1996_greatest_hits_albums',
+          href: 'http://dbpedia.org/resource/Category:1996_greatest_hits_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Epiphany: The Best of Chaka Khan, Vol. 1 a.k.a. I\'m Every Woman: The Best of Chaka Khan is a compilation album of recordings by American R&B/funk singer Chaka Khan, first released on the Warner Bros. Records label in 1996. Although the compilation, which reached #22 on Billboard\'s R&B chart and #84 on Pop, was given the "Vol. 1" tag, it remains without a sequel to date. Vol. (en)' } ],
+     'rdfs:label': [ { value: 'Epiphany: The Best of Chaka Khan, Vol. 1 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Epiphany: The Best of Chaka Khan, Vol. 1',
+          href: 'http://rdf.freebase.com/ns/m.01k90v0' },
+        { value: 'dbpedia-wikidata:Epiphany: The Best of Chaka Khan, Vol. 1',
+          href: 'http://wikidata.dbpedia.org/resource/Q5383123' },
+        { value: 'wikidata:Epiphany: The Best of Chaka Khan, Vol. 1',
+          href: 'http://www.wikidata.org/entity/Q5383123' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Epiphany:_The_Best_of_Chaka_Khan,_Vol._1?oldid=674787664',
+          href: 'http://en.wikipedia.org/wiki/Epiphany:_The_Best_of_Chaka_Khan,_Vol._1?oldid=674787664' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Epiphany:_The_Best_of_Chaka_Khan,_Vol._1',
+          href: 'http://en.wikipedia.org/wiki/Epiphany:_The_Best_of_Chaka_Khan,_Vol._1' } ],
+     'foaf:name': [ { value: 'Epiphany: The Best of Chaka Khan, Vol. 1 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Come_2_My_House',
+          href: 'http://dbpedia.org/resource/Come_2_My_House' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Woman_I_Am',
+          href: 'http://dbpedia.org/resource/The_Woman_I_Am' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Epiphany',
+          href: 'http://dbpedia.org/resource/Epiphany' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:I\'m_Every_Woman:_The_Best_of_Chaka_Khan',
+          href: 'http://dbpedia.org/resource/I\'m_Every_Woman:_The_Best_of_Chaka_Khan' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Epiphany:_The_Best_of_Chaka_Khan,_Vol._1',
+          href: 'http://en.wikipedia.org/wiki/Epiphany:_The_Best_of_Chaka_Khan,_Vol._1' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'File:Blue haze.JPG',
+  href: 'http://en.wikipedia.org/wiki/File:Blue_haze.JPG',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is the cover art for the album Blue Haze by the artist Miles Davis.' ] } ] }

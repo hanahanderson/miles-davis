@@ -1,0 +1,13 @@
+{ name: 'User:MauricioParis/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:MauricioParis/sandbox',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1890,
+       quote: [ 'As primary influence, the painter quotes the music of Joni Mitchell, Rickie Lee Jones and Kate Bush, followed by the jazz music of Miles Davis, Shirley Horn and the Jazz Fusion composer Pat Metheny.' ] },
+     { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 54,
+       wordCountBeforeSection: 10612,
+       quote: [ 'He was not back to the Orly phase until 2008, as he created a series of 11 new paintings under the influence of the jazz singer Shirley Horn, the soundtrack Miles Davis composed for Louis Malle’s film, \'\'Lift to the Scaffold\'\', and the soundtracks of Claude Lelouch’s films \'\'Live for Life\'\' and \'\'A Man and a Woman\'\', both composed by Francis Lai.' ] } ] }

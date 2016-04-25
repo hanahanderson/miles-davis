@@ -1,0 +1,13 @@
+{ name: 'Communiqué (Steve Lacy & Mal Waldron album)',
+  href: 'http://en.wikipedia.org/wiki/Communiqu%C3%A9_(Steve_Lacy_%26_Mal_Waldron_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 279,
+       quote: [ 'It features duo performances of tunes written by Thelonious Monk, Charles Mingus, Miles Davis, Elmo Hope and originals by Lacy and Waldron.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 876,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Stand!',
+  href: 'http://en.wikipedia.org/wiki/Stand!',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 5246,
+       quote: [ 'Diana Ross & the Supremes, The Temptations and The Jackson 5 all recorded it, and the song\'s guitar riff is heard on Ike & Tina Turner\'s "Bold Soul Sister" (from The Hunter, 1969), Jimi Hendrix\'s Band of Gypsys (1970) and Miles Davis\' A Tribute to Jack Johnson (1971).' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Sweet Sue, Just You',
+  href: 'http://en.wikipedia.org/wiki/Sweet_Sue,_Just_You',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 410,
+       quote: [ 'It has become a popular jazz standard, with versions recorded by Gene Austin, Django Reinhardt, Miles Davis and Benny Goodman.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Living Return',
+  href: 'http://en.wikipedia.org/wiki/The_Living_Return',
+  mentions: 
+   [ { sectionHeader: 'Reviews',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1104,
+       quote: [ 'New Musical Express magazine gave The Living Return an 8 out of 10 rating in its17 September 1994 issue, saying that the album "...sounds divine, a glissando of strings and things, an aural bath for the ears." Q magazine also spoke favourably of the album, mentioning that "SOS have an ear for a snappy arrangements and a mature lightness of touch as they gently echo Miles Davis, Weather Report and the whole modish Afro era." It rated the album with four stars and an "excellent" rating.' ] } ] }

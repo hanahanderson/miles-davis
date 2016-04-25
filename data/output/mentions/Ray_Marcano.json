@@ -1,0 +1,8 @@
+{ name: 'Ray Marcano',
+  href: 'http://en.wikipedia.org/wiki/Ray_Marcano',
+  mentions: 
+   [ { sectionHeader: 'Early life and work',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 519,
+       quote: [ 'At school, he was in a band jazz band with jazz bass guitarist Marcus Miller, who later worked with luminaries such as Miles Davis and Herbie Hancock, but felt that he did not have the talent to make it as a professional jazz musician.' ] } ] }

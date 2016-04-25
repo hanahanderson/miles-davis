@@ -1,0 +1,8 @@
+{ name: 'Dave Angel',
+  href: 'http://en.wikipedia.org/wiki/Dave_Angel',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 574,
+       quote: [ 'He listened not only to Miles Davis and Charlie Parker, but also to soul music and funk.' ] } ] }

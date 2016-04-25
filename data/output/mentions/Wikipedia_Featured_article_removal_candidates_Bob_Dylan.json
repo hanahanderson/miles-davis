@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Featured article removal candidates/Bob Dylan',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Featured_article_removal_candidates/Bob_Dylan',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2089,
+       quote: [ 'Monicasdude insists that version was substandard and compared unfavorably to articles like Miles Davis and Louis Armstrong.' ] } ] }

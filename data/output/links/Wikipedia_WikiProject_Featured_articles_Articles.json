@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject Featured articles/Articles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_Featured_articles/Articles',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

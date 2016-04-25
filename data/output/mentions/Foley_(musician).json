@@ -1,0 +1,18 @@
+{ name: 'Foley (musician)',
+  href: 'http://en.wikipedia.org/wiki/Foley_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 725,
+       quote: [ 'Joseph McCreary, Jr., known professionally as Foley, is an American composer, musician, and photographer who is best known as the "lead bassist" with trumpeter Miles Davis from 1987 until 1991.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1254,
+       quote: [] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1254,
+       quote: [ 'The Complete Miles Davis at Montreux' ] } ] }

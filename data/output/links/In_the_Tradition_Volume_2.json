@@ -1,0 +1,99 @@
+{ name: 'In the Tradition Volume 2',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/In_the_Tradition_Volume_2',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '49.333333333333336' } ],
+     'dbo:abstract': [ { value: 'In the Tradition Volume 2 is an album by American saxophonist and composer Anthony Braxton recorded in 1974 and released on the Dutch SteepleChase label in 1976. The album features Braxton\'s interpretations of jazz standards and followed the first volume recorded at the same sessions which was released in 1974. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Anthony_Braxton',
+          href: 'http://dbpedia.org/resource/Anthony_Braxton' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:In_the_Tradition_(Anthony_Braxton_album)',
+          href: 'http://dbpedia.org/resource/In_the_Tradition_(Anthony_Braxton_album)' } ],
+     'dbo:recordDate': [ { value: '1974-05-29 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:SteepleChase_Records',
+          href: 'http://dbpedia.org/resource/SteepleChase_Records' } ],
+     'dbo:runtime': [ { value: '2960.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Solo:_Live_at_Moers_Festival',
+          href: 'http://dbpedia.org/resource/Solo:_Live_at_Moers_Festival' } ],
+     'dbo:wikiPageID': [ { value: '45692633 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '661243868 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Anthony_Braxton',
+          href: 'http://dbpedia.org/resource/Anthony_Braxton' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Anthony_Braxton',
+          href: 'http://dbpedia.org/resource/Anthony_Braxton' } ],
+     'dbp:cover': [ { value: 'In the Tradition Volume 2.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'SteepleChase SCS 1045 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'In the Tradition (en)' } ],
+     'dbp:length': [ { value: '2960.0' } ],
+     'dbp:name': [ { value: 'In the Tradition Volume 2 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Solo: Live at Moers Festival (en)' } ],
+     'dbp:producer': [ { value: 'Nils Winther (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1974-05-29 (xsd:date)' },
+        { value: 'Rosenberg Studie in Copenhagen, Denmark (en)' } ],
+     'dbp:released': [ { value: '1976 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'In the Tradition Volume 2 (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1976_albums',
+          href: 'http://dbpedia.org/resource/Category:1976_albums' },
+        { value: 'dbc:Anthony_Braxton_albums',
+          href: 'http://dbpedia.org/resource/Category:Anthony_Braxton_albums' },
+        { value: 'dbc:SteepleChase_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:SteepleChase_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'In the Tradition Volume 2 is an album by American saxophonist and composer Anthony Braxton recorded in 1974 and released on the Dutch SteepleChase label in 1976. The album features Braxton\'s interpretations of jazz standards and followed the first volume recorded at the same sessions which was released in 1974. (en)' } ],
+     'rdfs:label': [ { value: 'In the Tradition Volume 2 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:In the Tradition Volume 2',
+          href: 'http://rdf.freebase.com/ns/m.049rph1' },
+        { value: 'dbpedia-wikidata:In the Tradition Volume 2',
+          href: 'http://wikidata.dbpedia.org/resource/Q19893341' },
+        { value: 'wikidata:In the Tradition Volume 2',
+          href: 'http://www.wikidata.org/entity/Q19893341' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:In_the_Tradition_Volume_2?oldid=661243868',
+          href: 'http://en.wikipedia.org/wiki/In_the_Tradition_Volume_2?oldid=661243868' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:In_the_Tradition_Volume_2',
+          href: 'http://en.wikipedia.org/wiki/In_the_Tradition_Volume_2' } ],
+     'foaf:name': [ { value: 'In the Tradition Volume 2 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Solo:_Live_at_Moers_Festival',
+          href: 'http://dbpedia.org/resource/Solo:_Live_at_Moers_Festival' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:In_the_Tradition_(Anthony_Braxton_album)',
+          href: 'http://dbpedia.org/resource/In_the_Tradition_(Anthony_Braxton_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:In_the_Tradition',
+          href: 'http://dbpedia.org/resource/In_the_Tradition' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:In_the_Tradition_Volume_2',
+          href: 'http://en.wikipedia.org/wiki/In_the_Tradition_Volume_2' } ] } }

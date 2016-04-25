@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Articles for deletion/Keith jarret',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Articles_for_deletion/Keith_jarret',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

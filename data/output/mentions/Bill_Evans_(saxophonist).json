@@ -1,0 +1,20 @@
+{ name: 'Bill Evans (saxophonist)',
+  href: 'http://en.wikipedia.org/wiki/Bill_Evans_(saxophonist)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 48,
+       quote: [ 'Miles Davis, Elements, Mahavishnu Orchestra' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1412,
+       quote: 
+        [ 'Evans attended University of North Texas and William Paterson University, where he studied with Dave Liebman, a Miles Davis alumnus.',
+          'At the age of 22 he joined Miles Davis and was part of his musical comeback in the early to mid-1980s.' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 4809,
+       quote: [ 'Miles Davis' ] } ] }

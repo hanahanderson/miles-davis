@@ -1,0 +1,18 @@
+{ name: 'Steve Reid',
+  href: 'http://en.wikipedia.org/wiki/Steve_Reid',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 494,
+       quote: [ 'Steve Reid (January 29, 1944 – April 13, 2010) was an American jazz drummer who played with a wide range of artists including Miles Davis, Ornette Coleman, James Brown, Fela Kuti and Sun Ra, and as a session drummer for Motown.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1252,
+       quote: [ 'Reid played with some of the biggest names in jazz and black music, including James Brown, Sun Ra, Ornette Coleman, and Miles Davis (on the album Tutu).' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 4372,
+       quote: [ 'With Miles Davis' ] } ] }

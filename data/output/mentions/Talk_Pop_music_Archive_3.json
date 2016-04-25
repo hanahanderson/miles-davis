@@ -1,0 +1,8 @@
+{ name: 'Talk:Pop music/Archive 3',
+  href: 'http://en.wikipedia.org/wiki/Talk:Pop_music/Archive_3',
+  mentions: 
+   [ { sectionHeader: 'Would like to add a list of top selling pop performers',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 19682,
+       quote: [ 'In just the jazz fusion section alone, we learn about the impact of Miles Davis, the groups his "alumni" went on to found ( Weather Report and Mahavishnu Orchestra), and notable performers, including keyboardists Joe Zawinul, Chick Corea, Herbie Hancock, vibraphonist Gary Burton, drummer Tony Williams, violinist Jean-Luc Ponty, guitarists Larry Coryell, Al Di Meola, John McLaughlin and Frank Zappa, saxophonist Wayne Shorter, and bassists Jaco Pastorius and Stanley Clarke..........................In all of the examples cited, the authors of the articles could have been concerned that giving examples would lead to a tidal wave of additions, and tried to ban the addition of group names or performer\'s names.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Deaths in July 2005',
+  href: 'http://en.wikipedia.org/wiki/Deaths_in_July_2005',
+  mentions: 
+   [ { sectionHeader: 'July 2005',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 935,
+       quote: [ 'Pierre Michelot, 77, French jazz bassist, played with Miles Davis.' ] } ] }

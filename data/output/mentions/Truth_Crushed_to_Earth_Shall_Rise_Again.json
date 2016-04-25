@@ -1,0 +1,8 @@
+{ name: 'Truth Crushed to Earth Shall Rise Again',
+  href: 'http://en.wikipedia.org/wiki/Truth_Crushed_to_Earth_Shall_Rise_Again',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1005,
+       quote: [ '"Bitches Brew" by Miles Davis' ] } ] }

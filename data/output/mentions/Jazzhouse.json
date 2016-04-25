@@ -1,0 +1,8 @@
+{ name: 'Jazzhouse',
+  href: 'http://en.wikipedia.org/wiki/Jazzhouse',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1822,
+       quote: [ 'Miles Davis' ] } ] }

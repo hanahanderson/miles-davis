@@ -1,0 +1,36 @@
+{ name: 'List of trumpeters',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_trumpeters',
+  values: 
+   { 'dbo:abstract': [ { value: 'This article lists notable musicians who have played the trumpet, cornet or flugelhorn. (en)' } ],
+     'dbo:wikiPageID': [ { value: '872614 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683674535 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_musicians_by_instrument',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians_by_instrument' },
+        { value: 'dbc:Trumpeters',
+          href: 'http://dbpedia.org/resource/Category:Trumpeters' } ],
+     'rdfs:comment': [ { value: 'This article lists notable musicians who have played the trumpet, cornet or flugelhorn. (en)' } ],
+     'rdfs:label': [ { value: 'List of trumpeters (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:List of trumpeters',
+          href: 'http://de.dbpedia.org/resource/Liste_von_Trompetern' },
+        { value: 'dbpedia-wikidata:List of trumpeters',
+          href: 'http://wikidata.dbpedia.org/resource/Q256383' },
+        { value: 'wikidata:List of trumpeters',
+          href: 'http://www.wikidata.org/entity/Q256383' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_trumpeters?oldid=683674535',
+          href: 'http://en.wikipedia.org/wiki/List_of_trumpeters?oldid=683674535' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_trumpeters',
+          href: 'http://en.wikipedia.org/wiki/List_of_trumpeters' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Trumpeter_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Trumpeter_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_trumpet_players',
+          href: 'http://dbpedia.org/resource/List_of_trumpet_players' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_trumpeters',
+          href: 'http://en.wikipedia.org/wiki/List_of_trumpeters' } ] } }

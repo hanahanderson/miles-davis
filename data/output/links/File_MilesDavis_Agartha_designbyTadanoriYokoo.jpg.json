@@ -1,0 +1,12 @@
+{ name: 'File:MilesDavis Agartha designbyTadanoriYokoo.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:MilesDavis_Agartha_designbyTadanoriYokoo.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '15380211 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '540058798 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:MilesDavis_Agartha_designbyTadanoriYokoo.jpg?oldid=540058798',
+          href: 'http://en.wikipedia.org/wiki/File:MilesDavis_Agartha_designbyTadanoriYokoo.jpg?oldid=540058798' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:MilesDavis_Agartha_designbyTadanoriYokoo.jpg',
+          href: 'http://dbpedia.org/resource/File:MilesDavis_Agartha_designbyTadanoriYokoo.jpg' } ] } }

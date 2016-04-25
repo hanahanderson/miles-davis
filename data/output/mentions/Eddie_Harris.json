@@ -1,0 +1,8 @@
+{ name: 'Eddie Harris',
+  href: 'http://en.wikipedia.org/wiki/Eddie_Harris',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 505,
+       quote: [ 'His best-known compositions are "Freedom Jazz Dance", recorded and popularized by Miles Davis in 1966, and "Listen Here."' ] } ] }

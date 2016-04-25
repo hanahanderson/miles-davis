@@ -1,0 +1,13 @@
+{ name: 'File:KindofBlue JM.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:KindofBlue_JM.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is the cover art for the album Kind of Blue by the artist Miles Davis.' ] },
+     { sectionHeader: 'File history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 3148,
+       quote: [ '{{album cover fur | Article           = Kind of Blue | Use               = Infobox <!-- ADDITIONAL INFORMATION --> | Name              = Kind of Blue | Artist            = Miles Davis | Label             = Columbia | Graphic Artis' ] } ] }

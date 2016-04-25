@@ -1,0 +1,8 @@
+{ name: 'July 1964',
+  href: 'http://en.wikipedia.org/wiki/July_1964',
+  mentions: 
+   [ { sectionHeader: 'July 14, 1964 (Tuesday)',
+       sectionSubHeader: '',
+       sectionIndex: 33,
+       wordCountBeforeSection: 6066,
+       quote: [ 'Miles Davis and his quintet record the live album Miles in Tokyo at the Kohseinenkin Hall, Shinjuku, Tokyo, Japan.' ] } ] }

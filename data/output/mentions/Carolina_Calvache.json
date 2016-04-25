@@ -1,0 +1,8 @@
+{ name: 'Carolina Calvache',
+  href: 'http://en.wikipedia.org/wiki/Carolina_Calvache',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 75,
+       quote: [ 'She became influenced by jazz aged 14, particularly Miles Davis, Tito Puente and Chick Corea.' ] } ] }

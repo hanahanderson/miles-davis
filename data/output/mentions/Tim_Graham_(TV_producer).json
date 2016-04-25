@@ -1,0 +1,8 @@
+{ name: 'Tim Graham (TV producer)',
+  href: 'http://en.wikipedia.org/wiki/Tim_Graham_(TV_producer)',
+  mentions: 
+   [ { sectionHeader: 'Television career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 439,
+       quote: [ 'Graham began his TV career as researcher on ITV show Number 73 (1983–1984) and music associate (1985), including two series of Tyne Tees\' The Tube, before becoming presenter on Channel 4\'s BAFTA-winning Wired (1988), which involved working with artists including Elton John, Miles Davis, Paul Weller, Nina Simone, Johnny Cash, Al Green and Iggy Pop.' ] } ] }

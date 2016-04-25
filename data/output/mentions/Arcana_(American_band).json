@@ -1,0 +1,8 @@
+{ name: 'Arcana (American band)',
+  href: 'http://en.wikipedia.org/wiki/Arcana_(American_band)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'The Golden Palominos, Praxis, Massacre, Material, Painkiller, Miles Davis, The Tony Williams Lifetime' ] } ] }

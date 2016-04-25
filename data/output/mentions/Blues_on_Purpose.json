@@ -1,0 +1,8 @@
+{ name: 'Blues on Purpose',
+  href: 'http://en.wikipedia.org/wiki/Blues_on_Purpose',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 913,
+       quote: [ '"Milestones" (Miles Davis) - 5:27' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jazzhus Montmartre',
+  href: 'http://en.wikipedia.org/wiki/Jazzhus_Montmartre',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2023,
+       quote: [ 'Besides jazz stars like Miles Davis, Dizzy Gillespie, Stan Getz, Sonny Rollins, Oscar Peterson, Nancy Wilson, Betty Carter, Elvin Jones, Art Blakey, Brecker Brothers and many more, Montmartre also presented world music artists like Milton Nascimento, Gilberto Gil, Djavan, Tania Maria, Youssou N\'Dour and King Sunny Adé, as wells as funk/soul artists like James Brown, Tower of Power and Gil Scott-Heron.' ] } ] }

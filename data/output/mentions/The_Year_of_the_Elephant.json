@@ -1,0 +1,8 @@
+{ name: 'The Year of the Elephant',
+  href: 'http://en.wikipedia.org/wiki/The_Year_of_the_Elephant',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 825,
+       quote: [ 'Combined with Favors\' resonant, grooving basslines and DeJohnette\'s loose straight-eighth rhythms the result is somewhat akin to Miles Davis in the In a Silent Way period."' ] } ] }

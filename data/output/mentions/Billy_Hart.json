@@ -1,0 +1,18 @@
+{ name: 'Billy Hart',
+  href: 'http://en.wikipedia.org/wiki/Billy_Hart',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1518,
+       quote: [ 'Hart was a member of Herbie Hancock\'s sextet (1969–73), and played with McCoy Tyner (1973–74), Stan Getz (1974–77), and Quest (1980s), in addition to extensive freelance playing (including recording with Miles Davis on 1972\'s On the Corner).' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 39,
+       wordCountBeforeSection: 5473,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 5489,
+       quote: [] } ] }

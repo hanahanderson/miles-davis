@@ -1,0 +1,8 @@
+{ name: 'Walter Sanford',
+  href: 'http://en.wikipedia.org/wiki/Walter_Sanford',
+  mentions: 
+   [ { sectionHeader: 'Career and legacy',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2651,
+       quote: [ 'Dubbed “The Man Who Paints with the Pencil” and “Master of Pencil Acrobatics” Sanford is known to have painted for many famous people including Roberta Flack and Billie Holiday. "For him, color is a means for distinguishing images that overlap and combine," the late artist and former Chicago Sun-Times art critic Harold Haydon said in 1974. "Figures and faces smiling, grimacing, static and moving, in complex compositions great and small." Sanford became particularly popular in the 1960’s for his ink drawings like those of Frederick Douglass, Duke Ellington, Malcolm X, Martin Luther King, Albert Einstein, Buddy Rich, and Miles Davis.' ] } ] }

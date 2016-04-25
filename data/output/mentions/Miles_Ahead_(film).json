@@ -1,0 +1,13 @@
+{ name: 'Miles Ahead (film)',
+  href: 'http://en.wikipedia.org/wiki/Miles_Ahead_(film)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 888,
+       quote: [ 'Rivele, and Christopher Wilkinson, based on the life of jazz musician Miles Davis.' ] },
+     { sectionHeader: 'Cast',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1374,
+       quote: [ 'Don Cheadle as Miles Davis' ] } ] }

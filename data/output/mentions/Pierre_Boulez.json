@@ -1,0 +1,8 @@
+{ name: 'Pierre Boulez',
+  href: 'http://en.wikipedia.org/wiki/Pierre_Boulez',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Serialism',
+       sectionIndex: 111,
+       wordCountBeforeSection: 67373,
+       quote: [ 'Miles Davis (1984)' ] } ] }

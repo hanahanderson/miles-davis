@@ -1,0 +1,8 @@
+{ name: 'Horacio Malvicino',
+  href: 'http://en.wikipedia.org/wiki/Horacio_Malvicino',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2739,
+       quote: [ 'Over the years he has played various genres of music with many of the great names in the music world including Dizzy Gillespie, Gary Burton, Miles Davis, Antônio Carlos Jobim, Joao Gilberto, Susana Rinaldi, Milva, Tanguito, Los Chalchaleros, Palito Ortega, and Plácido Domingo.' ] } ] }

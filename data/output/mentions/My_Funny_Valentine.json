@@ -1,0 +1,8 @@
+{ name: 'My Funny Valentine',
+  href: 'http://en.wikipedia.org/wiki/My_Funny_Valentine',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 190,
+       quote: [ 'The song became a popular jazz standard, appearing on over 1300 albums performed by over 600 artists, including Chet Baker, Bill Evans, Duke Ellington, Frank Sinatra, Sarah Vaughan, Ella Fitzgerald, Andy Williams, Shirley Bassey, Miles Davis, Etta James, Harry James, Nico, Chaka Khan, Elvis Costello, Melanie C, and Rickie Lee Jones.' ] } ] }

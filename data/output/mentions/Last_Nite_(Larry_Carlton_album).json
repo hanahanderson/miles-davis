@@ -1,0 +1,8 @@
+{ name: 'Last Nite (Larry Carlton album)',
+  href: 'http://en.wikipedia.org/wiki/Last_Nite_(Larry_Carlton_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 557,
+       quote: [ '"So What" (Miles Davis) 7:57' ] } ] }

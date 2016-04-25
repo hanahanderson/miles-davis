@@ -1,0 +1,8 @@
+{ name: 'Intuition (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Intuition_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 1554,
+       quote: [ 'Miles Davis' ] } ] }

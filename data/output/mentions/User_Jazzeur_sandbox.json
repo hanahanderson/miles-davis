@@ -1,0 +1,13 @@
+{ name: 'User:Jazzeur/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:Jazzeur/sandbox',
+  mentions: 
+   [ { sectionHeader: 'Work in progress',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 765,
+       quote: [ 'Miles Davis (1962) •' ] },
+     { sectionHeader: 'Work in progress part III',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 3645,
+       quote: [ 'Louis Armstrong (1952) •  Glenn Miller (1953) •  Stan Kenton (1954) •  Charlie Parker (1955) •  Duke Ellington (1956) •  Benny Goodman (1957) •  Count Basie (1958) •  Lester Young (1959) •  Dizzy Gillespie (1960) •  Billie Holliday (1961) •  Miles Davis (1962) •  Thelonious Monk (1963) •  Eric Dolphy (1964) •  John Coltrane (1965) •  Bud Powell (1966) •  Billy Strayhorn (1967) •  Wes Montgomery (1968) •  Ornette Coleman (1969) •  Jimi Hendrix (1970) •  Charles Mingus (1971) •  Gene Krupa (1972) •  Sonny Rollins (1973) •  Buddy Rich (1974) •  Cannonball Adderley (1975) •  Woody Herman (1976) •  Paul Desmond (1977) •  Joe Venuti (1978) •  Ella Fitzgerald (1979) •  Dexter Gordon (1980) •  Art Blakey (1981) •  Art Pepper (1982) •  Stéphane Grappelli (1983) •  Oscar Peterson (1984) •  Sarah Vaughan (1985) •  Stan Getz (1986) •  Lionel Hampton (1987) •  Jaco Pastorius (1988) •  Woody Shaw (1989) •  Red Rodney (1990) •  Lee Morgan (1991) •  Maynard Ferguson (1992) •  Gerry Mulligan (1993) •  Dave Brubeck (1994) •  J.' ] } ] }

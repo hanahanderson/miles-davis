@@ -1,0 +1,90 @@
+{ name: 'Procession of the Great Ancestry',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Procession_of_the_Great_Ancestry',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '47.25' } ],
+     'dbo:abstract': [ { value: 'Procession of the Great Ancestry is an album by American jazz trumpeter Wadada Leo Smith which was recorded in 1983, first released in 1989 on the English Chief label licensed by Nessa Records and reissued in 2009 on Nessa. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Wadada_Leo_Smith',
+          href: 'http://dbpedia.org/resource/Wadada_Leo_Smith' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:recordDate': [ { value: '1983-02-28 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Nessa_Records',
+          href: 'http://dbpedia.org/resource/Nessa_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Chicago',
+          href: 'http://dbpedia.org/resource/Chicago' } ],
+     'dbo:runtime': [ { value: '2835.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Rastafari_(album)',
+          href: 'http://dbpedia.org/resource/Rastafari_(album)' } ],
+     'dbo:wikiPageID': [ { value: '47824770 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681194245 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Wadada_Leo_Smith',
+          href: 'http://dbpedia.org/resource/Wadada_Leo_Smith' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Wadada_Leo_Smith',
+          href: 'http://dbpedia.org/resource/Wadada_Leo_Smith' } ],
+     'dbp:cover': [ { value: 'Procession_great_ancestry_cover.jpeg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Nessa_Records',
+          href: 'http://dbpedia.org/resource/Nessa_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Human Rights (en)' } ],
+     'dbp:length': [ { value: '2835.0' } ],
+     'dbp:name': [ { value: 'Procession of the Great Ancestry (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Rastafari (en)' } ],
+     'dbp:producer': [ { value: 'Chuck Nessa (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1983-02-28 (xsd:date)' },
+        { value: '(Acme Recording, Chicago) (en)' } ],
+     'dbp:released': [ { value: '1989 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:The_Penguin_Guide_to_Jazz',
+          href: 'http://dbpedia.org/resource/The_Penguin_Guide_to_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'Procession of the Great Ancestry (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1989_albums',
+          href: 'http://dbpedia.org/resource/Category:1989_albums' },
+        { value: 'dbc:Nessa_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Nessa_Records_albums' },
+        { value: 'dbc:Wadada_Leo_Smith_albums',
+          href: 'http://dbpedia.org/resource/Category:Wadada_Leo_Smith_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Procession of the Great Ancestry is an album by American jazz trumpeter Wadada Leo Smith which was recorded in 1983, first released in 1989 on the English Chief label licensed by Nessa Records and reissued in 2009 on Nessa. (en)' } ],
+     'rdfs:label': [ { value: 'Procession of the Great Ancestry (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Procession_of_the_Great_Ancestry?oldid=681194245',
+          href: 'http://en.wikipedia.org/wiki/Procession_of_the_Great_Ancestry?oldid=681194245' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Procession_of_the_Great_Ancestry',
+          href: 'http://en.wikipedia.org/wiki/Procession_of_the_Great_Ancestry' } ],
+     'foaf:name': [ { value: 'Procession of the Great Ancestry (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Rastafari_(album)',
+          href: 'http://dbpedia.org/resource/Rastafari_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Procession_of_the_Great_Ancestry',
+          href: 'http://en.wikipedia.org/wiki/Procession_of_the_Great_Ancestry' } ] } }

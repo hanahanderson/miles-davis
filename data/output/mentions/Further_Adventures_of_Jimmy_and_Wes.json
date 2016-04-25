@@ -1,0 +1,8 @@
+{ name: 'Further Adventures of Jimmy and Wes',
+  href: 'http://en.wikipedia.org/wiki/Further_Adventures_of_Jimmy_and_Wes',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1559,
+       quote: [ '"Milestones" (Miles Davis) - 4:12' ] } ] }

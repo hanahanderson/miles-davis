@@ -1,0 +1,8 @@
+{ name: 'Tom Vaughn (musician)',
+  href: 'http://en.wikipedia.org/wiki/Tom_Vaughn_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Recording and playing',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2427,
+       quote: [ 'Vaughn was a featured performer at the 1966 Newport Jazz Festival, opening for Miles Davis.' ] } ] }

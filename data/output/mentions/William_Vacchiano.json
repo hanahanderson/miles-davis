@@ -1,0 +1,8 @@
+{ name: 'William Vacchiano',
+  href: 'http://en.wikipedia.org/wiki/William_Vacchiano',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 93,
+       quote: [ 'His students included Wynton Marsalis, Philip Smith, Charles Schlueter, Gerard Schwarz, Manny Laureano, and Miles Davis.' ] } ] }

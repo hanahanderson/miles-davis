@@ -1,0 +1,8 @@
+{ name: 'User talk:ArizonaMusicClass',
+  href: 'http://en.wikipedia.org/wiki/User_talk:ArizonaMusicClass',
+  mentions: 
+   [ { sectionHeader: 'Wikipedia and copyright',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 29,
+       quote: [ 'Your addition to Miles Davis has had to be removed, as it appears to have added copyrighted material without permission from the copyright holder.' ] } ] }

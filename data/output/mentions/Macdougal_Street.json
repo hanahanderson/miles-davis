@@ -1,0 +1,8 @@
+{ name: 'Macdougal Street',
+  href: 'http://en.wikipedia.org/wiki/Macdougal_Street',
+  mentions: 
+   [ { sectionHeader: 'Historic locations and residents',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1744,
+       quote: [ 'Burroughs, Gregory Corso, Miles Davis, Allen Ginsberg, Frank O\'Hara, Jack Kerouac, Jackson Pollock, William Styron, Dylan Thomas, Gore Vidal and many others.' ] } ] }

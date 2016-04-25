@@ -1,0 +1,58 @@
+{ name: 'Late Night Tales: Nils Frahm',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Late_Night_Tales:_Nils_Frahm',
+  values: 
+   { 'dbo:abstract': [ { value: 'Late Night Tales: Nils Frahm is a mix album compiled by German composer Nils Frahm, released on 11 September, 2015.It is a part of the Late Night Tales series of albums released by Night Time Stories Ltd. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Nils_Frahm',
+          href: 'http://dbpedia.org/resource/Nils_Frahm' } ],
+     'dbo:compiler': 
+      [ { value: 'dbr:Nils_Frahm',
+          href: 'http://dbpedia.org/resource/Nils_Frahm' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Late_Night_Tales',
+          href: 'http://dbpedia.org/resource/Late_Night_Tales' } ],
+     'dbo:releaseDate': [ { value: '2015-09-11 (xsd:date)' } ],
+     'dbo:wikiPageID': [ { value: '47954576 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683782791 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Nils Frahm (en)' } ],
+     'dbp:chronology': [ { value: 'Late Night Tales Chronology (en)' } ],
+     'dbp:compiler': [ { value: 'Nils Frahm (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Late_Night_Tales',
+          href: 'http://dbpedia.org/resource/Late_Night_Tales' },
+        { value: '(ALNCD42) (en)' } ],
+     'dbp:name': [ { value: 'Late Night Tales: Nils Frahm (en)' } ],
+     'dbp:released': [ { value: '2015-09-11 (xsd:date)' } ],
+     'dbp:thisAlbum': [ { value: 'Late Night Tales: Nils Frahm (en)' } ],
+     'dbp:type': [ { value: 'compilation (en)' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Late Night Tales: Nils Frahm is a mix album compiled by German composer Nils Frahm, released on 11 September, 2015.It is a part of the Late Night Tales series of albums released by Night Time Stories Ltd. (en)' } ],
+     'rdfs:label': [ { value: 'Late Night Tales: Nils Frahm (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Late_Night_Tales:_Nils_Frahm?oldid=683782791',
+          href: 'http://en.wikipedia.org/wiki/Late_Night_Tales:_Nils_Frahm?oldid=683782791' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Late_Night_Tales:_Nils_Frahm',
+          href: 'http://en.wikipedia.org/wiki/Late_Night_Tales:_Nils_Frahm' } ],
+     'foaf:name': [ { value: 'Late Night Tales: Nils Frahm (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Late_Night_Tales:_Nils_Frahm',
+          href: 'http://en.wikipedia.org/wiki/Late_Night_Tales:_Nils_Frahm' } ] } }

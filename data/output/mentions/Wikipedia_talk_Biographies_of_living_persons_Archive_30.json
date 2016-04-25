@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:Biographies of living persons/Archive 30',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Biographies_of_living_persons/Archive_30',
+  mentions: 
+   [ { sectionHeader: 'BLPCAT proposal',
+       sectionSubHeader: '',
+       sectionIndex: 272,
+       wordCountBeforeSection: 259718,
+       quote: [ 'Example: As far as I know, Miles Davis is not notable for being African-American but his music: as such, he is rightfully within Category:African American musicians.' ] } ] }

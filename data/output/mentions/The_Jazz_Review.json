@@ -1,0 +1,8 @@
+{ name: 'The Jazz Review',
+  href: 'http://en.wikipedia.org/wiki/The_Jazz_Review',
+  mentions: 
+   [ { sectionHeader: 'Contributors',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1297,
+       quote: [ 'A later California-based magazine also titled The Jazz Review, edited by Ken Borgers and Bill Wasserzieher, appeared in 1991-1992, with cover stories on Dizzy Gillespie, Miles Davis, Charlie Haden and other artists.' ] } ] }

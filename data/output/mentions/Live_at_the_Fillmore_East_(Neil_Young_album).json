@@ -1,0 +1,8 @@
+{ name: 'Live at the Fillmore East (Neil Young album)',
+  href: 'http://en.wikipedia.org/wiki/Live_at_the_Fillmore_East_(Neil_Young_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 4065,
+       quote: [ 'The support act for this performance was Miles Davis performing with an electric sextet.' ] } ] }

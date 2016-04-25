@@ -1,0 +1,18 @@
+{ name: 'Ian Carr',
+  href: 'http://en.wikipedia.org/wiki/Ian_Carr',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 543,
+       quote: [ 'He also wrote biographies of musicians Keith Jarrett and Miles Davis.' ] },
+     { sectionHeader: 'Writing and academic career',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2818,
+       quote: [ 'Apart from writing a regular column for the BBC Music Magazine, Carr wrote biographies of the jazz musicians Keith Jarrett and Miles Davis.' ] },
+     { sectionHeader: 'Death',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3583,
+       quote: [ 'In addition to fellow Nucleus member Geoff Castle, speakers at the service included artist Gerald Laing, author, critic and broadcaster Alyn Shipton, Mike Dibb (with whom Carr collaborated on two films on Miles Davis and Keith Jarrett) and Carr\'s students Julian Joseph, Sara Dillon and Nikki Yeoh.' ] } ] }

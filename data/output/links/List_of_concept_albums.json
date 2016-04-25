@@ -1,0 +1,39 @@
+{ name: 'List of concept albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_concept_albums',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of concept albums produced by bands and solo artists across all musical genres. In popular music, a concept album is an album that is "unified by a theme, which can be instrumental, compositional, narrative, or lyrical." (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://soundbutt.com/ayurveda/h-luminous',
+          href: 'http://soundbutt.com/ayurveda/h-luminous' },
+        { value: 'https://soundcloud.com/nicoxbuss',
+          href: 'https://soundcloud.com/nicoxbuss' } ],
+     'dbo:wikiPageID': [ { value: '20331466 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682908649 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_albums',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_albums' },
+        { value: 'dbc:Concept_albums',
+          href: 'http://dbpedia.org/resource/Category:Concept_albums' } ],
+     'rdfs:comment': [ { value: 'This is a list of concept albums produced by bands and solo artists across all musical genres. In popular music, a concept album is an album that is "unified by a theme, which can be instrumental, compositional, narrative, or lyrical." (en)' } ],
+     'rdfs:label': [ { value: 'List of concept albums (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:List of concept albums',
+          href: 'http://de.dbpedia.org/resource/Liste_von_Konzeptalben' },
+        { value: 'dbpedia-nl:List of concept albums',
+          href: 'http://nl.dbpedia.org/resource/Lijst_van_conceptalbums' },
+        { value: 'dbpedia-pt:List of concept albums',
+          href: 'http://pt.dbpedia.org/resource/Lista_de_álbuns_conceptuais' },
+        { value: 'dbpedia-wikidata:List of concept albums',
+          href: 'http://wikidata.dbpedia.org/resource/Q1297466' },
+        { value: 'wikidata:List of concept albums',
+          href: 'http://www.wikidata.org/entity/Q1297466' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_concept_albums?oldid=682908649',
+          href: 'http://en.wikipedia.org/wiki/List_of_concept_albums?oldid=682908649' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_concept_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_concept_albums' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_concept_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_concept_albums' } ] } }

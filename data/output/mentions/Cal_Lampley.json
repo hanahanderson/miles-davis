@@ -1,0 +1,13 @@
+{ name: 'Cal Lampley',
+  href: 'http://en.wikipedia.org/wiki/Cal_Lampley',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis and many others' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 339,
+       quote: [ 'He worked with artists including Miles Davis, Mahalia Jackson, Dave Brubeck, Art Blakey, Leonard Bernstein, Freddie McCoy and Louis Armstrong.' ] } ] }

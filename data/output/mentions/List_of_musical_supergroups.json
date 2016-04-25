@@ -1,0 +1,13 @@
+{ name: 'List of musical supergroups',
+  href: 'http://en.wikipedia.org/wiki/List_of_musical_supergroups',
+  mentions: 
+   [ { sectionHeader: 'List of groups',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1386,
+       quote: [ 'Erin Davis (son of Miles Davis)' ] },
+     { sectionHeader: 'List of groups',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1386,
+       quote: [ 'Marcus Miller (solo, David Sanborn, Miles Davis, The Jamaica Boys)' ] } ] }

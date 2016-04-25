@@ -1,0 +1,65 @@
+{ name: 'Festival for Peace',
+  entityType: 'SocialEvent107288639',
+  href: 'http://dbpedia.org/page/Festival_for_Peace',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Festival for Peace was an all day concert event produced at Shea Stadium in Queens, NY on August 6, 1970.It was the second event of a series planned to raise funds for anti-war political candidates in the early 1970s. The first, the Winter Festival for Peace, took place in Madison Square Garden earlier in the year. The date selected for the Summer event was of particular interest as it was also the 25th anniversary of the U.S. first use of an atomic weapon in the bombing of Hiroshima, Japan on August 6, 1945 in World War II.  The concert, advertised as the Summer Festival for Peace, was scheduled for 10:00 AM – 10:00 PM although several last-minute performers and extended sets added about two hours. Seating was General Admission by tier in the stadium.Very little media has survived and no film of this concert has surfaced publicly despite the fact that it featured such historic performers as Janis Joplin, Paul Simon, Creedence Clearwater Revival, Steppenwolf, The James Gang, Miles Davis, Johnny Winter, Herbie Hancock, Dionne Warwick, John Sebastian, The Rascals, the cast of "Hair," Pacific Gas and Electric (band), Ten Wheel Drive and a dozen other important acts of the period. The Summer Festival for Peace was the first major concert at Shea Stadium after the last performance of The Beatles in 1966. A wide selection of still photos shot by photographer Ken Davidoff are the only readily available visual documentation of the concert itself.It proved to be one of the last performances for Janis Joplin who died only two months later, as well as a reunion and last performance with her former band, Big Brother & the Holding Company. When the concert was first announced, Joplin was not scheduled to perform, but Big Brother was on the bill. She was in NYC to do two appearances on Dick Cavett\'s television show with her new band Full Tilt Boogie and decided to perform with her former band while at Shea. During the August 3rd appearance with Cavett, Joplin announced her intention to play at the Festival, spoke of the show and described the concert as being produced by Peter Yarrow (of the singing group Peter, Paul & Mary).  During the concert, Joplin sang a duet of "What the World Needs Now" with Dionne Warwick.Other sources confirm that Mr. Yarrow, by then a well-known peace advocate, together with Phil Friedmann (an Amherst graduate who worked in the campaign for the Democratic nomination of Senator Eugene McCarthy for President) produced the Summer Festival after their huge success of the Winter Festival for Peace at Madison Square Garden in February, 1970.The importance of these concerts were manifold. First, unlike the for-profit Woodstock Music & Arts Fair that became increasingly political as it unfolded, the Festivals for Peace were the first large venue U.S. events which were produced with the sole intention of fund raising for political, and specifically anti-war, purposes: not unusual later but not seen prior to 1970. Secondly, again in contrast to Woodstock where performers insisted on being paid, Peter Yarrow and Friedmann were able to convince the top acts of the day (including many that were paid at Woodstock like CCR, Hendrix and Joplin) to donate their time and performances to the Festival for Peace shows just months after Woodstock.This was the first time that the world\'s biggest rock, jazz, blues and folk performers came together and donated their performances to aid a specific social/political agenda. The Summer Festival for Peace was the first of many, more publicized benefit concerts in the future. As such it paved the way for The Concert for Bangladesh (August 1, 1971), Farm Aid (September 22, 1985), Live Aid, etc. by demonstrating the fundraising potential for such large scale musical events. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wikipedia-en:Special:FilePath/Peace-festival-clip.jpg?width=300',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Peace-festival-clip.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.oldrockphoto.com/shea.html',
+          href: 'http://www.oldrockphoto.com/shea.html' } ],
+     'dbo:wikiPageID': [ { value: '13470442 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681803041 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Benefit_concerts',
+          href: 'http://dbpedia.org/resource/Category:Benefit_concerts' },
+        { value: 'dbc:Rock_festivals_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Rock_festivals_in_the_United_States' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Benefit106892534',
+          href: 'http://dbpedia.org/class/yago/Benefit106892534' },
+        { value: 'yago:BenefitConcert106892657',
+          href: 'http://dbpedia.org/class/yago/BenefitConcert106892657' },
+        { value: 'yago:BenefitConcerts',
+          href: 'http://dbpedia.org/class/yago/BenefitConcerts' },
+        { value: 'yago:Event100029378',
+          href: 'http://dbpedia.org/class/yago/Event100029378' },
+        { value: 'yago:Performance106891493',
+          href: 'http://dbpedia.org/class/yago/Performance106891493' },
+        { value: 'yago:Show106619065',
+          href: 'http://dbpedia.org/class/yago/Show106619065' },
+        { value: 'yago:SocialEvent107288639',
+          href: 'http://dbpedia.org/class/yago/SocialEvent107288639' },
+        { value: 'yago:PsychologicalFeature100023100',
+          href: 'http://dbpedia.org/class/yago/PsychologicalFeature100023100' },
+        { value: 'yago:YagoPermanentlyLocatedEntity',
+          href: 'http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity' } ],
+     'rdfs:comment': [ { value: 'The Festival for Peace was an all day concert event produced at Shea Stadium in Queens, NY on August 6, 1970.It was the second event of a series planned to raise funds for anti-war political candidates in the early 1970s. The first, the Winter Festival for Peace, took place in Madison Square Garden earlier in the year. The date selected for the Summer event was of particular interest as it was also the 25th anniversary of the U.S. (en)' } ],
+     'rdfs:label': [ { value: 'Festival for Peace (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Festival for Peace',
+          href: 'http://rdf.freebase.com/ns/m.03c6csm' },
+        { value: 'dbpedia-wikidata:Festival for Peace',
+          href: 'http://wikidata.dbpedia.org/resource/Q5445766' },
+        { value: 'wikidata:Festival for Peace',
+          href: 'http://www.wikidata.org/entity/Q5445766' },
+        { value: 'yago-res:Festival for Peace',
+          href: 'http://yago-knowledge.org/resource/Festival_for_Peace' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Festival_for_Peace?oldid=681803041',
+          href: 'http://en.wikipedia.org/wiki/Festival_for_Peace?oldid=681803041' } ],
+     'foaf:depiction': 
+      [ { value: 'wikipedia-en:Special:FilePath/Peace-festival-clip.jpg',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Peace-festival-clip.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Festival_for_Peace',
+          href: 'http://en.wikipedia.org/wiki/Festival_for_Peace' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Festival_for_peace',
+          href: 'http://dbpedia.org/resource/Festival_for_peace' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Festival_for_Peace',
+          href: 'http://en.wikipedia.org/wiki/Festival_for_Peace' } ] } }

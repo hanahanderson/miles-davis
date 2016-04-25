@@ -1,0 +1,8 @@
+{ name: 'Centrifugal Funk',
+  href: 'http://en.wikipedia.org/wiki/Centrifugal_Funk',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2009,
+       quote: [ 'Miles Davis' ] } ] }

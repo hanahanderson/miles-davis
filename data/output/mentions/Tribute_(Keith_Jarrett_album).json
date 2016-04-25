@@ -1,0 +1,13 @@
+{ name: 'Tribute (Keith Jarrett album)',
+  href: 'http://en.wikipedia.org/wiki/Tribute_(Keith_Jarrett_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 925,
+       quote: [ '"Solar"  (Miles Davis) - 9:32' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 925,
+       quote: [] } ] }

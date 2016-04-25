@@ -1,0 +1,68 @@
+{ name: 'Death of Jimi Hendrix',
+  entityType: 'SpatialThing',
+  href: 'http://dbpedia.org/page/Death_of_Jimi_Hendrix',
+  values: 
+   { 'dbo:abstract': [ { value: 'On September 18, 1970, the American musician Jimi Hendrix died in London, aged 27 years. One of the most influential guitarists of the 1960s, he was described by the Rock and Roll Hall of Fame as "arguably the greatest instrumentalist in the history of rock music."In the days before his death, Hendrix had been in poor health, due in part to fatigue caused by overworking, a chronic lack of sleep, and an illness assumed to be influenza-related. Insecurities about his personal relationships and disillusionment with the music industry had also contributed to his frustration. Although the details of his final hours and death are disputed, Hendrix spent much of his last day with Monika Dannemann. During the morning of September 18, she found him unresponsive in her apartment at the Samarkand Hotel, 22 Lansdowne Crescent, Notting Hill. She called for an ambulance at 11:18 a.m., and he was taken to St Mary Abbot\'s Hospital where an attempt was made to resuscitate him. He was pronounced dead at 12:45 p.m.The post-mortem examination concluded that Hendrix aspirated his own vomit and died of asphyxia while intoxicated with barbiturates. At the inquest, the coroner, finding no evidence of suicide and lacking sufficient evidence of the circumstances, recorded an open verdict. Dannemann stated that Hendrix had taken nine of her prescribed Vesparax sleeping tablets, 18 times the recommended dosage.On October 1, 1970, Hendrix was interred at Greenwood Cemetery in Renton, Washington. In 1992, his former girlfriend Kathy Etchingham asked British authorities to reopen the investigation into his death. A subsequent inquiry by Scotland Yard proved inconclusive, and in 1993, they decided against proceeding with the investigation. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/SamarkandHotel1.JPG?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/SamarkandHotel1.JPG?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://books.google.com/books?id=KUJQzI7EvXgC&dq',
+          href: 'http://books.google.com/books?id=KUJQzI7EvXgC&dq' } ],
+     'dbo:wikiPageID': [ { value: '37893725 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682010047 (xsd:integer)' } ],
+     'dbp:align': [ { value: 'right (en)' } ],
+     'dbp:bgcolor': [ { value: '#D8D8D8 (en)' } ],
+     'dbp:burial': [ { value: '--10-01' } ],
+     'dbp:caption': [ { value: 'Samarkand Hotel in September 2008 (en)' } ],
+     'dbp:cause': [ { value: 'Asphyxia due to aspiration of vomit due to barbiturate intoxication (en)' } ],
+     'dbp:coroner': [ { value: 'Gavin Thurston (en)' } ],
+     'dbp:date': [ { value: '1970-09-18 (xsd:date)' } ],
+     'dbp:imageName': [ { value: 'SamarkandHotel1.JPGborder (en)' } ],
+     'dbp:inquest': [ { value: '--09-28' } ],
+     'dbp:place': [ { value: 'Samarkand Hotel, 22Lansdowne Crescent, Notting Hill, London, United Kingdom (en)' } ],
+     'dbp:quote': [ { value: 'The story of life is quicker than the wink of an eye. The story of love is hello and goodbye. Until we meet again. (en)' } ],
+     'dbp:source': [ { value: '—The last stanza from Hendrix\'s final poem, The Story of Life (en)' } ],
+     'dbp:style': [ { value: 'padding:8px; (en)' } ],
+     'dbp:title': [ { value: 'Death of Jimi Hendrix (en)' } ],
+     'dbp:verdict': 
+      [ { value: 'dbr:Open_verdict',
+          href: 'http://dbpedia.org/resource/Open_verdict' } ],
+     'dbp:width': [ { value: '19.0' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1970_in_music',
+          href: 'http://dbpedia.org/resource/Category:1970_in_music' },
+        { value: 'dbc:Deaths_by_person',
+          href: 'http://dbpedia.org/resource/Category:Deaths_by_person' },
+        { value: 'dbc:Jimi_Hendrix',
+          href: 'http://dbpedia.org/resource/Category:Jimi_Hendrix' },
+        { value: 'dbc:1970_in_London',
+          href: 'http://dbpedia.org/resource/Category:1970_in_London' } ],
+     'georss:point': [ { value: '51.5125 -0.207' } ],
+     'rdf:type': 
+      [ { value: 'geo:SpatialThing',
+          href: 'http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing' } ],
+     'rdfs:comment': [ { value: 'On September 18, 1970, the American musician Jimi Hendrix died in London, aged 27 years. One of the most influential guitarists of the 1960s, he was described by the Rock and Roll Hall of Fame as "arguably the greatest instrumentalist in the history of rock music."In the days before his death, Hendrix had been in poor health, due in part to fatigue caused by overworking, a chronic lack of sleep, and an illness assumed to be influenza-related. (en)' } ],
+     'rdfs:label': [ { value: 'Death of Jimi Hendrix (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Death of Jimi Hendrix',
+          href: 'http://rdf.freebase.com/ns/m.0p3m4y0' },
+        { value: 'dbpedia-wikidata:Death of Jimi Hendrix',
+          href: 'http://wikidata.dbpedia.org/resource/Q5247461' },
+        { value: 'wikidata:Death of Jimi Hendrix',
+          href: 'http://www.wikidata.org/entity/Q5247461' } ],
+     'geo:geometry': [ { value: 'POINT(-0.20700000226498 51.512500762939)' } ],
+     'geo:lat': [ { value: '51.512501 (xsd:float)' } ],
+     'geo:long': [ { value: '-0.207000 (xsd:float)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Death_of_Jimi_Hendrix?oldid=682010047',
+          href: 'http://en.wikipedia.org/wiki/Death_of_Jimi_Hendrix?oldid=682010047' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/SamarkandHotel1.JPG',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/SamarkandHotel1.JPG' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Death_of_Jimi_Hendrix',
+          href: 'http://en.wikipedia.org/wiki/Death_of_Jimi_Hendrix' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Death_of_Jimi_Hendrix',
+          href: 'http://en.wikipedia.org/wiki/Death_of_Jimi_Hendrix' } ] } }

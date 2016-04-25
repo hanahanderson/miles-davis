@@ -1,0 +1,8 @@
+{ name: 'Steve Popovich',
+  href: 'http://en.wikipedia.org/wiki/Steve_Popovich',
+  mentions: 
+   [ { sectionHeader: 'Label work',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1649,
+       quote: [ 'As VP of Promotion, his local and regional staff continued their work with The Buckinghams, Johnny Cash, and Paul Revere & the Raiders, and also worked to maximize the careers of such artists as Loggins & Messina, Jerry Vale, O.C. Smith, Dr Hook & the Medicine Show, Shel Silverstein, Boz Scaggs, Bob Dylan, Bruce Springsteen, Santana, Janis Joplin, Marty Robbins, Lynn Anderson, Tom Rush, David Bromberg, The New York Rock & Roll Ensemble, Dave Mason, West, Bruce & Laing, Mahavishnu Orchestra, It\'s a Beautiful Day, New Riders of the Purple Sage, Johnny Mathis, Chicago, Percy Faith, Tony Bennett, Peter Nero, Earth, Wind & Fire, Taj Mahal, The Manhattans, The Wombles, Mark Lindsay, Tony Bennett, Eric Andersen, Andy Williams, Ray Coniff, David Essex, Chambers Brothers, Miles Davis, Mott the Hoople, Johnny Winter and others.' ] } ] }

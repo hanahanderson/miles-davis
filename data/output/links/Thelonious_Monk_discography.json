@@ -1,0 +1,28 @@
+{ name: 'Thelonious Monk discography',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Thelonious_Monk_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'Thelonious Monk jazz pianist discography. (en)' } ],
+     'dbo:wikiPageID': [ { value: '41409785 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '655735447 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Thelonious_Monk_albums',
+          href: 'http://dbpedia.org/resource/Category:Thelonious_Monk_albums' } ],
+     'rdfs:comment': [ { value: 'Thelonious Monk jazz pianist discography. (en)' } ],
+     'rdfs:label': [ { value: 'Thelonious Monk discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Thelonious Monk discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q16155228' },
+        { value: 'wikidata:Thelonious Monk discography',
+          href: 'http://www.wikidata.org/entity/Q16155228' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Thelonious_Monk_discography?oldid=655735447',
+          href: 'http://en.wikipedia.org/wiki/Thelonious_Monk_discography?oldid=655735447' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Thelonious_Monk_discography',
+          href: 'http://en.wikipedia.org/wiki/Thelonious_Monk_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Thelonious_Monk_discography',
+          href: 'http://en.wikipedia.org/wiki/Thelonious_Monk_discography' } ] } }

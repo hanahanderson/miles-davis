@@ -1,0 +1,8 @@
+{ name: 'Jaco Pastorius',
+  href: 'http://en.wikipedia.org/wiki/Jaco_Pastorius',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 60,
+       wordCountBeforeSection: 21086,
+       quote: [ 'Numerous artists have recorded tributes to Jaco, including the Pat Metheny Group track "Jaco" on their album Pat Metheny Group (1978); the Marcus Miller composition "Mr Pastorius" on Miles Davis\' album Amandla; Victor Bailey (who replaced Jaco in Weather Report)\'s cover of "Continuum" on his Low Blow album; several tracks on Victor Wooten and Steve Bailey\'s Bass Extremes album; John McLaughlin\'s "For Jaco" on his album Industrial Zen (2006) among others.' ] } ] }

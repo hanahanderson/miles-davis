@@ -1,0 +1,13 @@
+{ name: 'Irving Townsend',
+  href: 'http://en.wikipedia.org/wiki/Irving_Townsend',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 202,
+       quote: [ 'He is most famous for having produced, in March 1959, the Miles Davis album Kind of Blue, which at #12, is the highest-ranked jazz album on Rolling Stone\'s 500 Greatest Albums of All Time, and according to the RIAA, is the best-selling jazz album of all time.' ] },
+     { sectionHeader: 'Artists produced',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2022,
+       quote: [ 'Miles Davis' ] } ] }

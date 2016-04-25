@@ -1,0 +1,49 @@
+{ name: 'List of jazz genres',
+  entityType: 'genre',
+  href: 'http://dbpedia.org/page/List_of_jazz_genres',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of genres associated with the jazz tradition. (en)' } ],
+     'dbo:wikiPageID': [ { value: '3142048 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '642314222 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_genres',
+          href: 'http://dbpedia.org/resource/Category:Jazz_genres' },
+        { value: 'dbc:Lists_of_music_genres',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_music_genres' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Genre',
+          href: 'http://dbpedia.org/ontology/Genre' },
+        { value: 'dul:Concept',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Concept' },
+        { value: 'wikidata:Q188451',
+          href: 'http://www.wikidata.org/entity/Q188451' },
+        { value: 'dbo:TopicalConcept',
+          href: 'http://dbpedia.org/ontology/TopicalConcept' } ],
+     'rdfs:comment': [ { value: 'This is a list of genres associated with the jazz tradition. (en)' } ],
+     'rdfs:label': [ { value: 'List of jazz genres (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-ko:List of jazz genres',
+          href: 'http://ko.dbpedia.org/resource/재즈의_장르_목록' },
+        { value: 'dbpedia-wikidata:List of jazz genres',
+          href: 'http://wikidata.dbpedia.org/resource/Q1392373' },
+        { value: 'dbpedia-pt:List of jazz genres',
+          href: 'http://pt.dbpedia.org/resource/Lista_de_gêneros_de_jazz' },
+        { value: 'wikidata:List of jazz genres',
+          href: 'http://www.wikidata.org/entity/Q1392373' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_jazz_genres?oldid=642314222',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_genres?oldid=642314222' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_jazz_genres',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_genres' } ],
+     'is dbo:musicSubgenre\n of': 
+      [ { value: 'dbr:Bebop',
+          href: 'http://dbpedia.org/resource/Bebop' } ],
+     'is dbp:subgenres\n of': 
+      [ { value: 'dbr:Bebop',
+          href: 'http://dbpedia.org/resource/Bebop' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_jazz_genres',
+          href: 'http://en.wikipedia.org/wiki/List_of_jazz_genres' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Black Sabbath',
+  href: 'http://en.wikipedia.org/wiki/Black_Sabbath',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Influence and innovation',
+       sectionIndex: 158,
+       wordCountBeforeSection: 101460,
+       quote: [ 'Miles Davis' ] } ] }

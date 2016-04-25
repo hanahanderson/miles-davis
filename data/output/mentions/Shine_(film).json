@@ -1,0 +1,8 @@
+{ name: 'Shine (film)',
+  href: 'http://en.wikipedia.org/wiki/Shine_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Box office',
+       sectionIndex: 41,
+       wordCountBeforeSection: 13974,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

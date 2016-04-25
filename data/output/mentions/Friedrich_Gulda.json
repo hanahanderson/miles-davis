@@ -1,0 +1,8 @@
+{ name: 'Friedrich Gulda',
+  href: 'http://en.wikipedia.org/wiki/Friedrich_Gulda',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 5970,
+       quote: [ 'Issued on The Meeting (Philips, 1984), Gulda and Corea communicate in lengthy improvisations mixing jazz ("Some Day My Prince Will Come" and the lesser known, adapted by Miles Davis song "Put Your Foot Out") and classical music (Brahms\' "Wiegenlied" ).' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'JMY Records',
+  href: 'http://en.wikipedia.org/wiki/JMY_Records',
+  mentions: 
+   [ { sectionHeader: 'Artists',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 202,
+       quote: [ 'Miles Davis' ] } ] }

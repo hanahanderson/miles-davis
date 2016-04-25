@@ -1,0 +1,125 @@
+{ name: 'Tourist (St Germain album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Tourist_(St_Germain_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '60.03333333333333' } ],
+     'dbo:abstract': [ { value: 'Tourist is the 2000 album by St. Germain, one of the aliases of French producer Ludovic Navarre. The music style is described by Allmusic as "a synthesis of electronics with jazz soloing". (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:St_Germain_(musician)',
+          href: 'http://dbpedia.org/resource/St_Germain_(musician)' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Acid_jazz',
+          href: 'http://dbpedia.org/resource/Acid_jazz' },
+        { value: 'dbr:Deep_house',
+          href: 'http://dbpedia.org/resource/Deep_house' },
+        { value: 'dbr:Downtempo',
+          href: 'http://dbpedia.org/resource/Downtempo' },
+        { value: 'dbr:Nu_jazz',
+          href: 'http://dbpedia.org/resource/Nu_jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:From_Detroit_to_St_Germain',
+          href: 'http://dbpedia.org/resource/From_Detroit_to_St_Germain' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:St_Germain_(musician)',
+          href: 'http://dbpedia.org/resource/St_Germain_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' } ],
+     'dbo:runtime': [ { value: '3602.000000 (xsd:double)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '3387908 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675475303 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:St_Germain_(musician)',
+          href: 'http://dbpedia.org/resource/St_Germain_(musician)' } ],
+     'dbp:cover': [ { value: 'St Germain - Tourist.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Acid_jazz',
+          href: 'http://dbpedia.org/resource/Acid_jazz' },
+        { value: 'dbr:Deep_house',
+          href: 'http://dbpedia.org/resource/Deep_house' },
+        { value: 'dbr:Downtempo',
+          href: 'http://dbpedia.org/resource/Downtempo' },
+        { value: 'dbr:Nu_jazz',
+          href: 'http://dbpedia.org/resource/Nu_jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' } ],
+     'dbp:lastAlbum': [ { value: 'From Detroit to St Germain (en)' } ],
+     'dbp:length': [ { value: '3602.0' } ],
+     'dbp:name': [ { value: 'Tourist (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:St_Germain_(musician)',
+          href: 'http://dbpedia.org/resource/St_Germain_(musician)' } ],
+     'dbp:released': [ { value: '2000 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:Rolling_Stone',
+          href: 'http://dbpedia.org/resource/Rolling_Stone' } ],
+     'dbp:thisAlbum': [ { value: 'Tourist (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2000_albums',
+          href: 'http://dbpedia.org/resource/Category:2000_albums' },
+        { value: 'dbc:Blue_Note_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Blue_Note_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Tourist is the 2000 album by St. Germain, one of the aliases of French producer Ludovic Navarre. The music style is described by Allmusic as "a synthesis of electronics with jazz soloing". (en)' } ],
+     'rdfs:label': [ { value: 'Tourist (St Germain album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Tourist (St Germain album)',
+          href: 'http://fr.dbpedia.org/resource/Tourist_(album)' },
+        { value: 'dbpedia-it:Tourist (St Germain album)',
+          href: 'http://it.dbpedia.org/resource/Tourist_(Saint_Germain_album)' },
+        { value: 'dbpedia-nl:Tourist (St Germain album)',
+          href: 'http://nl.dbpedia.org/resource/Tourist_(album)' },
+        { value: 'dbpedia-wikidata:Tourist (St Germain album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q2855033' },
+        { value: 'wikidata:Tourist (St Germain album)',
+          href: 'http://www.wikidata.org/entity/Q2855033' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Tourist_(St_Germain_album)?oldid=675475303',
+          href: 'http://en.wikipedia.org/wiki/Tourist_(St_Germain_album)?oldid=675475303' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Tourist_(St_Germain_album)',
+          href: 'http://en.wikipedia.org/wiki/Tourist_(St_Germain_album)' } ],
+     'foaf:name': [ { value: 'Tourist (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:St_Germain_(St._Germain_album)',
+          href: 'http://dbpedia.org/resource/St_Germain_(St._Germain_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:From_Detroit_to_St_Germain',
+          href: 'http://dbpedia.org/resource/From_Detroit_to_St_Germain' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Tourist_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Tourist_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Tourist_(Saint_Germain_album)',
+          href: 'http://dbpedia.org/resource/Tourist_(Saint_Germain_album)' },
+        { value: 'dbr:Tourist_(St._Germain_album)',
+          href: 'http://dbpedia.org/resource/Tourist_(St._Germain_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Tourist_(St_Germain_album)',
+          href: 'http://en.wikipedia.org/wiki/Tourist_(St_Germain_album)' } ] } }

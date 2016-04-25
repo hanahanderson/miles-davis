@@ -1,0 +1,13 @@
+{ name: 'Category:Compositions by Miles Davis',
+  href: 'http://en.wikipedia.org/wiki/Category:Compositions_by_Miles_Davis',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'So What (Miles Davis composition)' ] } ] }

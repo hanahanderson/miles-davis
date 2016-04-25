@@ -1,0 +1,8 @@
+{ name: 'William Coupon',
+  href: 'http://en.wikipedia.org/wiki/William_Coupon',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 2072,
+       quote: [ 'Bush and Bill Clinton which were “Person of the Year” covers for Time Magazine, Yasser Arafat, George Harrison, Willy DeVille, Mick Jagger, Jean-Michel Basquiat and Miles Davis.' ] } ] }

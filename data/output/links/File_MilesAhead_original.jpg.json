@@ -1,0 +1,12 @@
+{ name: 'File:MilesAhead original.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:MilesAhead_original.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '18625131 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '519023793 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:MilesAhead_original.jpg?oldid=519023793',
+          href: 'http://en.wikipedia.org/wiki/File:MilesAhead_original.jpg?oldid=519023793' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:MilesAhead_original.jpg',
+          href: 'http://dbpedia.org/resource/File:MilesAhead_original.jpg' } ] } }

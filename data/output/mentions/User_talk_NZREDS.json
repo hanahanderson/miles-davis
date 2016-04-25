@@ -1,0 +1,18 @@
+{ name: 'User talk:NZREDS',
+  href: 'http://en.wikipedia.org/wiki/User_talk:NZREDS',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 6517,
+       quote: [ 'Capitol also developed a noted jazz catalog that included the Capitol Jazz Men and issued the Miles Davis-led sessions, "Birth of the Cool".' ] },
+     { sectionHeader: 'The Capitol Records Building',
+       sectionSubHeader: 'Other bands',
+       sectionIndex: 84,
+       wordCountBeforeSection: 29581,
+       quote: [ '\n\nThe Capitol Records Tower in Hollywood, with mural by Richard Wyatt titled Hollywood Jazz featuring prominent jazz artists Charlie Parker, Miles Davis, Ella Fitzgerald, Nat King Cole, Billie Holiday and Duke Ellington.' ] },
+     { sectionHeader: 'The Capitol Records Building',
+       sectionSubHeader: 'Other bands',
+       sectionIndex: 93,
+       wordCountBeforeSection: 32334,
+       quote: [ 'Restored in hand-glazed ceramic tile, the mural spans 26 by 88 feet (7.9 by 26.8 m) Entitled "Hollywood Jazz: 1945-1972", this masterpiece presents “larger than life” images of: Chet Baker, Gerry Mulligan, Charlie Parker, Tito Puente, Miles Davis, Ella Fitzgerald, Nat King Cole, Shelly Manne, Dizzy Gillespie, Billie Holiday and Duke Ellington.' ] } ] }

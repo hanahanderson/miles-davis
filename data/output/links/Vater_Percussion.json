@@ -1,0 +1,61 @@
+{ name: 'Vater Percussion',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Vater_Percussion',
+  values: 
+   { 'dbo:abstract': [ { value: 'Vater Percussion is an American drumstick and percussion accessory manufacturing company. It was founded by Clarence Vater, and is now run by his two sons Alan and Ron Vater. Although the company began producing sticks in 1956, it did not officially become Vater Percussion until much later. The first sticks made by a Vater were made by Jack Adams, in Jacks Drumshop in Boston, Massachusetts. Jacks was one of the first shops to offer custom models, and began producing custom models for Buddy Rich, Philly Joe Jones, and Elvin Jones. In the early to mid 1980\'s what would become Vater began manufacturing drumsticks for Vic Firth percussion and Zildjian Cymbals. On 10-22-1988 Vater moved their factory to Holbrook, Massachusetts. Three years later the first Vater drumsticks were introduced at a Percussive Arts Society show.Vater guarantees their sticks to be "straighter, more consistent and of higher quality than all other leading drumstick manufacturers". Vater sticks typically have a slightly higher moisture content than other drumsticks, which is intended to create more durable drumsticks, though this does result in a slightly heavier stick.Besides drum sticks, Vater also manufactures a variety of timpani mallets, marimba mallets, vibraphone mallets, brushes, specialty sticks, silence mutes, stick bags, drink holders and other accessories. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.vater.com/',
+          href: 'http://www.vater.com/' } ],
+     'dbo:wikiPageID': [ { value: '8243180 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '673472657 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Percussion_instrument_manufacturing_companies',
+          href: 'http://dbpedia.org/resource/Category:Percussion_instrument_manufacturing_companies' } ],
+     'rdfs:comment': [ { value: 'Vater Percussion is an American drumstick and percussion accessory manufacturing company. It was founded by Clarence Vater, and is now run by his two sons Alan and Ron Vater. Although the company began producing sticks in 1956, it did not officially become Vater Percussion until much later. The first sticks made by a Vater were made by Jack Adams, in Jacks Drumshop in Boston, Massachusetts. (en)' } ],
+     'rdfs:label': [ { value: 'Vater (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Vater',
+          href: 'http://rdf.freebase.com/ns/m.026xjsg' },
+        { value: 'dbpedia-de:Vater',
+          href: 'http://de.dbpedia.org/resource/Vater_Percussion' },
+        { value: 'dbpedia-it:Vater',
+          href: 'http://it.dbpedia.org/resource/Vater_Percussion' },
+        { value: 'dbpedia-pl:Vater',
+          href: 'http://pl.dbpedia.org/resource/Vater' },
+        { value: 'dbpedia-wikidata:Vater',
+          href: 'http://wikidata.dbpedia.org/resource/Q1327694' },
+        { value: 'wikidata:Vater',
+          href: 'http://www.wikidata.org/entity/Q1327694' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Vater?oldid=673472657',
+          href: 'http://en.wikipedia.org/wiki/Vater?oldid=673472657' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Vater',
+          href: 'http://en.wikipedia.org/wiki/Vater' } ],
+     'is dbo:instrument\n of': 
+      [ { value: 'dbr:Collin_Leijenaar',
+          href: 'http://dbpedia.org/resource/Collin_Leijenaar' },
+        { value: 'dbr:Larry_Cox_(drummer)',
+          href: 'http://dbpedia.org/resource/Larry_Cox_(drummer)' },
+        { value: 'dbr:Adam_Carson',
+          href: 'http://dbpedia.org/resource/Adam_Carson' },
+        { value: 'dbr:Brent_Fitz',
+          href: 'http://dbpedia.org/resource/Brent_Fitz' },
+        { value: 'dbr:Derek_Roddy',
+          href: 'http://dbpedia.org/resource/Derek_Roddy' },
+        { value: 'dbr:Mike_Johnston_(drummer)',
+          href: 'http://dbpedia.org/resource/Mike_Johnston_(drummer)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Vater_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Vater_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Vater_Percussion',
+          href: 'http://dbpedia.org/resource/Vater_Percussion' } ],
+     'is dbp:notableInstruments\n of': 
+      [ { value: 'dbr:Brent_Fitz',
+          href: 'http://dbpedia.org/resource/Brent_Fitz' },
+        { value: 'dbr:Derek_Roddy',
+          href: 'http://dbpedia.org/resource/Derek_Roddy' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Vater',
+          href: 'http://en.wikipedia.org/wiki/Vater' } ] } }

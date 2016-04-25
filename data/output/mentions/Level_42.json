@@ -1,0 +1,8 @@
+{ name: 'Level 42',
+  href: 'http://en.wikipedia.org/wiki/Level_42',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2122,
+       quote: [ 'Both musicians found that they shared musical heroes: Miles Davis, John McLaughlin, Keith Jarrett and Jan Hammer.' ] } ] }

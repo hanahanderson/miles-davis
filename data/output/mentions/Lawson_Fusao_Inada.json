@@ -1,0 +1,8 @@
+{ name: 'Lawson Fusao Inada',
+  href: 'http://en.wikipedia.org/wiki/Lawson_Fusao_Inada',
+  mentions: 
+   [ { sectionHeader: 'Jazz influences',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1040,
+       quote: [ 'Following the war, Inada became a jazz musician, a bassist, following the work of Miles Davis, John Coltrane, and Billie Holiday, to whom he would later write tributes in his works.' ] } ] }

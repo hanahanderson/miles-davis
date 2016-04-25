@@ -1,0 +1,18 @@
+{ name: 'Drug user',
+  href: 'http://en.wikipedia.org/wiki/Drug_user',
+  mentions: 
+   [ { sectionHeader: 'Notable drug users',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 9757,
+       quote: [ 'Miles Davis, musician.' ] },
+     { sectionHeader: 'Notable drug users',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 9757,
+       quote: [ 'Miles Davis, musician.' ] },
+     { sectionHeader: 'Notable drug users',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 9757,
+       quote: [ 'Miles Davis, musician.' ] } ] }

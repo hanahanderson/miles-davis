@@ -1,0 +1,8 @@
+{ name: 'Louis Malle',
+  href: 'http://en.wikipedia.org/wiki/Louis_Malle',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1724,
+       quote: [ 'A taut thriller featuring an original score by Miles Davis, the film made an international film star of Jeanne Moreau, at the time a leading stage actress of the state Comédie-Française.' ] } ] }

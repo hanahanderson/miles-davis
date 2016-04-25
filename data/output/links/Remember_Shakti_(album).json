@@ -1,0 +1,103 @@
+{ name: 'Remember Shakti (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Remember_Shakti_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '132.46666666666667' } ],
+     'dbo:abstract': [ { value: 'Remember Shakti is a live album by the world fusion band Remember Shakti released 1999 on the Verve label. The reformed group features original members John McLaughlin (guitar), Zakir Hussain (tabla), Vikku Vinayakram (ghatam) and is joined by Hariprasad Chaurasia on the bansuri (Indian flute). The album reached number 14 in the Billboard Top Jazz albums chart. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Remember_Shakti',
+          href: 'http://dbpedia.org/resource/Remember_Shakti' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:World_music',
+          href: 'http://dbpedia.org/resource/World_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Natural_Elements_(Shakti_album)',
+          href: 'http://dbpedia.org/resource/Natural_Elements_(Shakti_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:releaseDate': [ { value: '1999-04-13 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '7948.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Remember_Shakti_–_The_Believer',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_–_The_Believer' } ],
+     'dbo:wikiPageID': [ { value: '42507905 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '622442190 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Remember_Shakti',
+          href: 'http://dbpedia.org/resource/Remember_Shakti' } ],
+     'dbp:cover': [ { value: 'Remember_Shakti.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:World_music',
+          href: 'http://dbpedia.org/resource/World_music' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Natural Elements (en)' } ],
+     'dbp:name': [ { value: 'Remember Shakti (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Remember Shakti – The Believer (en)' } ],
+     'dbp:producer': [ { value: 'John McLaughlin, Jean-Philippe Allard, Daniel Richard (en)' } ],
+     'dbp:recorded': [ { value: '1997 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1999-04-13 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' },
+        { value: 'dbr:JazzTimes',
+          href: 'http://dbpedia.org/resource/JazzTimes' } ],
+     'dbp:thisAlbum': [ { value: 'Remember Shakti (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1999_albums',
+          href: 'http://dbpedia.org/resource/Category:1999_albums' },
+        { value: 'dbc:Shakti_(band)_albums',
+          href: 'http://dbpedia.org/resource/Category:Shakti_(band)_albums' },
+        { value: 'dbc:World_music_albums',
+          href: 'http://dbpedia.org/resource/Category:World_music_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Remember Shakti is a live album by the world fusion band Remember Shakti released 1999 on the Verve label. The reformed group features original members John McLaughlin (guitar), Zakir Hussain (tabla), Vikku Vinayakram (ghatam) and is joined by Hariprasad Chaurasia on the bansuri (Indian flute). The album reached number 14 in the Billboard Top Jazz albums chart. (en)' } ],
+     'rdfs:label': [ { value: 'Remember Shakti (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Remember Shakti (album)',
+          href: 'http://rdf.freebase.com/ns/m.0f5q1xj' },
+        { value: 'dbpedia-wikidata:Remember Shakti (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17027598' },
+        { value: 'wikidata:Remember Shakti (album)',
+          href: 'http://www.wikidata.org/entity/Q17027598' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Remember_Shakti_(album)?oldid=622442190',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_(album)?oldid=622442190' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Remember_Shakti_(album)',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_(album)' } ],
+     'foaf:name': [ { value: 'Remember Shakti (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Remember_Shakti_–_The_Believer',
+          href: 'http://dbpedia.org/resource/Remember_Shakti_–_The_Believer' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Natural_Elements_(Shakti_album)',
+          href: 'http://dbpedia.org/resource/Natural_Elements_(Shakti_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Remember_Shakti_(album)',
+          href: 'http://en.wikipedia.org/wiki/Remember_Shakti_(album)' } ] } }

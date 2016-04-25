@@ -1,0 +1,8 @@
+{ name: 'Neal Schon',
+  href: 'http://en.wikipedia.org/wiki/Neal_Schon',
+  mentions: 
+   [ { sectionHeader: 'Early life and career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3513,
+       quote: [ 'He also joined Larry Graham to play in an all-star band for cult funk artist and ex-wife of Miles Davis, Betty Davis.' ] } ] }

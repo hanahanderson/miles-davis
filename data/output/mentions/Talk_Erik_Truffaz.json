@@ -1,0 +1,8 @@
+{ name: 'Talk:Erik Truffaz',
+  href: 'http://en.wikipedia.org/wiki/Talk:Erik_Truffaz',
+  mentions: 
+   [ { sectionHeader: 'Untitled',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 4487,
+       quote: [ 'It seems every jazz trumpeter becomes compared to Miles Davis at some point, just as each saxophonist is sooner or later compared to John Coltrane.' ] } ] }

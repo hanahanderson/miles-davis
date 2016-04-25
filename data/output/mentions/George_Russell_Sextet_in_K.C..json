@@ -1,0 +1,8 @@
+{ name: 'George Russell Sextet in K.C.',
+  href: 'http://en.wikipedia.org/wiki/George_Russell_Sextet_in_K.C.',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1344,
+       quote: [ '"Tune Up" (Miles Davis) - 8:05' ] } ] }

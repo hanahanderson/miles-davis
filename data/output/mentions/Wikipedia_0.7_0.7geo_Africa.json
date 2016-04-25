@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:0.7/0.7geo/Africa',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:0.7/0.7geo/Africa',
+  mentions: 
+   [ { sectionHeader: 'Arts, language, and literature',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 5495,
+       quote: [ 'Blige ·  Mary Wells ·  Maya Angelou ·  Meerkat Manor ·  Melanie Brown ·  Method Man ·  Michael Jackson ·  Miguel de Cervantes ·  Miles Davis ·  Minaret ·  Morgan Freeman ·  Mos Def ·  Muddy Waters ·  Mýa ·  Nadine Gordimer ·  Nas ·  Nat King Cole ·  Nate Dogg ·  Nichelle Nichols ·  Nina Simone ·  O.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 11810,
+       quote: [ 'Blige ·  Maya Angelou ·  Melanie Brown ·  Method Man ·  Michael Jackson ·  Michael Jordan ·  Michelle Obama ·  Miguel de Cervantes ·  Mike Tyson ·  Mikel John Obi ·  Miles Davis ·  Mohandas Karamchand Gandhi ·  Morgan Freeman ·  Mos Def ·  Mr T ·  Muammar al-Gaddafi ·  Muddy Waters ·  Muhammad Ali ·  Mumia Abu-Jamal ·  Mýa ·  Nadine Gordimer ·  Nancy Ajram ·  Nas ·  Nat King Cole ·  Nelson Frazier, Jr. ·  Nelson Mandela ·  Nina Simone ·  Nwankwo Kanu ·  O.' ] } ] }

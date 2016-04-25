@@ -1,0 +1,89 @@
+{ name: 'I\'m with You World Tour',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/I%27m_with_You_World_Tour',
+  values: 
+   { 'dbo:abstract': [ { value: 'The I\'m with You World Tour was a worldwide concert tour by American rock band, the Red Hot Chili Peppers in support of the band\'s tenth studio album, I\'m with You. It marked the band\'s first tour in four years and first with guitarist Josh Klinghoffer, who replaced John Frusciante in 2009. The band was also joined for the first time by backing musicians Mauro Refosco (percussion) and Chris Warren (keyboards). The first North American leg of the tour was briefly postponed due to a leg injury suffered by singer Anthony Kiedis which required surgery. Klinghoffer also broke his foot during the tour; however, no dates were cancelled due to his injury. During the tour the band saw a few milestones come and go such as their own 30th anniversary since forming in 1983 and the 10th, 20th and 25th anniversaries of their albums, By the Way, Blood Sugar Sex Magik and The Uplift Mofo Party Plan. Despite these milestones, the band made little to no mention of them and no special performances were given on their behalf. The band was also named 2012 inductees to the Rock and Roll Hall of Fame while on tour.The tour ranked 15th on Billboard‍ \'​s "Top 25 Tours" list of 2012, earning over $30 million from its 42 shows. Additionally, the tour placed 10th on Pollstar\'s 2012 "Top 50 Worldwide Tours", earning nearly $60 million. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Rhcp2011.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Rhcp2011.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.redhotchilipeppers.com/',
+          href: 'http://www.redhotchilipeppers.com/' } ],
+     'dbo:wikiPageID': [ { value: '32124362 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675919428 (xsd:integer)' } ],
+     'dbp:album': [ { value: 'I\'m with You (en)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Red_Hot_Chili_Peppers',
+          href: 'http://dbpedia.org/resource/Red_Hot_Chili_Peppers' } ],
+     'dbp:concertTourName': [ { value: 'I\'m with You World Tour (en)' } ],
+     'dbp:endDate': [ { value: '2013-04-21 (xsd:date)' } ],
+     'dbp:imageCaption': [ { value: 'Promotional poster for 3/5/13 show in Mexico (en)' } ],
+     'dbp:imageSize': [ { value: '225 (xsd:integer)' } ],
+     'dbp:lastTour': 
+      [ { value: 'dbr:Stadium_Arcadium_World_Tour',
+          href: 'http://dbpedia.org/resource/Stadium_Arcadium_World_Tour' } ],
+     'dbp:nextTour': 
+      [ { value: 'dbr:Red_Hot_Chili_Peppers_2013–2014_Tour',
+          href: 'http://dbpedia.org/resource/Red_Hot_Chili_Peppers_2013–2014_Tour' } ],
+     'dbp:numberOfLegs': [ { value: '8 (xsd:integer)' } ],
+     'dbp:numberOfShows': [ { value: '136 (xsd:integer)' } ],
+     'dbp:startDate': [ { value: '2011-09-11 (xsd:date)' } ],
+     'dbp:thisTour': [ { value: 'I\'m with You World Tour (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2011_concert_tours',
+          href: 'http://dbpedia.org/resource/Category:2011_concert_tours' },
+        { value: 'dbc:2013_concert_tours',
+          href: 'http://dbpedia.org/resource/Category:2013_concert_tours' },
+        { value: 'dbc:2012_concert_tours',
+          href: 'http://dbpedia.org/resource/Category:2012_concert_tours' },
+        { value: 'dbc:Red_Hot_Chili_Peppers_concert_tours',
+          href: 'http://dbpedia.org/resource/Category:Red_Hot_Chili_Peppers_concert_tours' } ],
+     'rdfs:comment': [ { value: 'The I\'m with You World Tour was a worldwide concert tour by American rock band, the Red Hot Chili Peppers in support of the band\'s tenth studio album, I\'m with You. It marked the band\'s first tour in four years and first with guitarist Josh Klinghoffer, who replaced John Frusciante in 2009. The band was also joined for the first time by backing musicians Mauro Refosco (percussion) and Chris Warren (keyboards). (en)' } ],
+     'rdfs:label': [ { value: 'I\'m with You World Tour (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:I\'m with You World Tour',
+          href: 'http://rdf.freebase.com/ns/m.0gw_6x0' },
+        { value: 'dbpedia-fr:I\'m with You World Tour',
+          href: 'http://fr.dbpedia.org/resource/I\'m_with_You_World_Tour' },
+        { value: 'dbpedia-es:I\'m with You World Tour',
+          href: 'http://es.dbpedia.org/resource/I\'m_with_You_World_Tour' },
+        { value: 'dbpedia-it:I\'m with You World Tour',
+          href: 'http://it.dbpedia.org/resource/I\'m_with_You_World_Tour' },
+        { value: 'dbpedia-pt:I\'m with You World Tour',
+          href: 'http://pt.dbpedia.org/resource/I\'m_with_You_World_Tour' },
+        { value: 'dbpedia-wikidata:I\'m with You World Tour',
+          href: 'http://wikidata.dbpedia.org/resource/Q2700652' },
+        { value: 'wikidata:I\'m with You World Tour',
+          href: 'http://www.wikidata.org/entity/Q2700652' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:I\'m_with_You_World_Tour?oldid=675919428',
+          href: 'http://en.wikipedia.org/wiki/I\'m_with_You_World_Tour?oldid=675919428' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Rhcp2011.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Rhcp2011.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:I\'m_with_You_World_Tour',
+          href: 'http://en.wikipedia.org/wiki/I\'m_with_You_World_Tour' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:I\'m_with_You',
+          href: 'http://dbpedia.org/resource/I\'m_with_You' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:I\'m_With_You_Tour',
+          href: 'http://dbpedia.org/resource/I\'m_With_You_Tour' },
+        { value: 'dbr:I\'m_With_You_World_Tour',
+          href: 'http://dbpedia.org/resource/I\'m_With_You_World_Tour' },
+        { value: 'dbr:I\'m_With_You_tour',
+          href: 'http://dbpedia.org/resource/I\'m_With_You_tour' },
+        { value: 'dbr:I\'m_with_You_Tour',
+          href: 'http://dbpedia.org/resource/I\'m_with_You_Tour' },
+        { value: 'dbr:I\'m_with_You_tour',
+          href: 'http://dbpedia.org/resource/I\'m_with_You_tour' } ],
+     'is dbp:lastTour\n of': 
+      [ { value: 'dbr:Red_Hot_Chili_Peppers_2013–2014_Tour',
+          href: 'http://dbpedia.org/resource/Red_Hot_Chili_Peppers_2013–2014_Tour' } ],
+     'is dbp:nextTour\n of': 
+      [ { value: 'dbr:Stadium_Arcadium_World_Tour',
+          href: 'http://dbpedia.org/resource/Stadium_Arcadium_World_Tour' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:I\'m_with_You_World_Tour',
+          href: 'http://en.wikipedia.org/wiki/I\'m_with_You_World_Tour' } ] } }

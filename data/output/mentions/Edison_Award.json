@@ -1,0 +1,8 @@
+{ name: 'Edison Award',
+  href: 'http://en.wikipedia.org/wiki/Edison_Award',
+  mentions: 
+   [ { sectionHeader: 'Figures',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 5631,
+       quote: [ 'Miles Davis, Beach Boys, Charles Aznavour, Emmylou Harris, Eric Clapton, Bob James, Paul Simon, Phil Collins, Ry Cooder, Stevie Wonder, U2 and Robbie Williams all had three Edison wins each. (Miles Davis and the Beach Boys were awarded an additional fourth Edison in 1966, but these were later scrapped as the list of winners had been leaked to the press prematurely and no awards were given that year).' ] } ] }

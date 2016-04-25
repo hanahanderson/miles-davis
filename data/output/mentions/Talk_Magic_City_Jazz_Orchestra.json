@@ -1,0 +1,8 @@
+{ name: 'Talk:Magic City Jazz Orchestra',
+  href: 'http://en.wikipedia.org/wiki/Talk:Magic_City_Jazz_Orchestra',
+  mentions: 
+   [ { sectionHeader: 'Liner Notes from the “Lou\'s Blues” CD, by Bob Belden',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3725,
+       quote: [ 'Miles Davis lived ten blocks away.' ] } ] }

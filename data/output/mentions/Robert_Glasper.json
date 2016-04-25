@@ -1,0 +1,8 @@
+{ name: 'Robert Glasper',
+  href: 'http://en.wikipedia.org/wiki/Robert_Glasper',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 7220,
+       quote: [ '(with Miles Davis)' ] } ] }

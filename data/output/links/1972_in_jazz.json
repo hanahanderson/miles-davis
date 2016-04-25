@@ -1,0 +1,38 @@
+{ name: '1972 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1972_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1972 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Musicians_of_the_Mich...h_Klaffs_Collection_17).jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Musicians_of_the_Michael_Gibbs_Big_band,_NDR_Jazzworkshop_1972_(Heinrich_Klaffs_Collection_17).jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25654810 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '607698103 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1973 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'Musicians of the Michael Gibbs Big band, NDR jazz workshop 1972 (en)' } ],
+     'dbp:prioryear': [ { value: '1971 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1972_in_music',
+          href: 'http://dbpedia.org/resource/Category:1972_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdfs:comment': [ { value: '1972 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1972 in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1972 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4575265' },
+        { value: 'wikidata:1972 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4575265' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1972_in_jazz?oldid=607698103',
+          href: 'http://en.wikipedia.org/wiki/1972_in_jazz?oldid=607698103' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Musicians_of_the_Mich...2_(Heinrich_Klaffs_Collection_17).jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Musicians_of_the_Michael_Gibbs_Big_band,_NDR_Jazzworkshop_1972_(Heinrich_Klaffs_Collection_17).jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1972_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1972_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1972_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1972_in_jazz' } ] } }

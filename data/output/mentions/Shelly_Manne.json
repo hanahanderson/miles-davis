@@ -1,0 +1,8 @@
+{ name: 'Shelly Manne',
+  href: 'http://en.wikipedia.org/wiki/Shelly_Manne',
+  mentions: 
+   [ { sectionHeader: 'Later career',
+       sectionSubHeader: '',
+       sectionIndex: 42,
+       wordCountBeforeSection: 16768,
+       quote: [ 'Also appearing was a roster of jazz stars from different eras and all regions, including Ben Webster, Rahsaan Roland Kirk, Les McCann, Bill Evans, John Coltrane, Sonny Stitt, Thelonious Monk, Michel Legrand, Carmen McRae, Milt Jackson, Teddy Edwards, Monty Alexander, Lenny Breau, Miles Davis, and many, many others.' ] } ] }

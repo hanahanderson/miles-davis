@@ -1,0 +1,8 @@
+{ name: 'Barry Ulanov',
+  href: 'http://en.wikipedia.org/wiki/Barry_Ulanov',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1022,
+       quote: [ 'In his autobiography Miles Davis referred to Ulanov as the only white critic who ever understood him or Charlie Parker.' ] } ] }

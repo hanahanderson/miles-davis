@@ -1,0 +1,8 @@
+{ name: 'Sugar Plum (jazz song)',
+  href: 'http://en.wikipedia.org/wiki/Sugar_Plum_(jazz_song)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1041,
+       quote: [ 'Miles Davis' ] } ] }

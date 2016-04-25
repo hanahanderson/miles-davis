@@ -1,0 +1,8 @@
+{ name: 'Ivy (band)',
+  href: 'http://en.wikipedia.org/wiki/Ivy_(band)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3690,
+       quote: [ 'Other session and guest musicians included Dean Wareham (Luna) and Stanley Demeski (Luna, Feelies); Chris Collingwood and Jody Porter (Fountains of Wayne); and Alan Rubin (a trumpeter for The Blues Brothers, Miles Davis, James Brown and others).' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Kaija Saariaho',
+  href: 'http://en.wikipedia.org/wiki/Kaija_Saariaho',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Awards and honours',
+       sectionIndex: 27,
+       wordCountBeforeSection: 10261,
+       quote: [ 'Miles Davis (1984)' ] } ] }

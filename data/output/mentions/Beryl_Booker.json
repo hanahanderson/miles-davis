@@ -1,0 +1,8 @@
+{ name: 'Beryl Booker',
+  href: 'http://en.wikipedia.org/wiki/Beryl_Booker',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 360,
+       quote: [ 'Recordings with Miles Davis sitting in on the group have been preserved.' ] } ] }

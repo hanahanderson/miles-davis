@@ -1,0 +1,8 @@
+{ name: 'Jean-Pierre Rampal',
+  href: 'http://en.wikipedia.org/wiki/Jean-Pierre_Rampal',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Leaving the stage',
+       sectionIndex: 86,
+       wordCountBeforeSection: 55692,
+       quote: [ 'Miles Davis (1984)' ] } ] }

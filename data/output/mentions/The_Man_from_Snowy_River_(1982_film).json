@@ -1,0 +1,8 @@
+{ name: 'The Man from Snowy River (1982 film)',
+  href: 'http://en.wikipedia.org/wiki/The_Man_from_Snowy_River_(1982_film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Box office',
+       sectionIndex: 50,
+       wordCountBeforeSection: 13044,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

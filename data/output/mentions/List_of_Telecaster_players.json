@@ -1,0 +1,8 @@
+{ name: 'List of Telecaster players',
+  href: 'http://en.wikipedia.org/wiki/List_of_Telecaster_players',
+  mentions: 
+   [ { sectionHeader: 'Q-Z',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 14118,
+       quote: [ 'Mike Stern (born 1953) is one of the few Tele-playing jazz musicians, played guitar with Miles Davis in the early 1980s before going solo.' ] } ] }

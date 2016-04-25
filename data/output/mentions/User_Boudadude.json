@@ -1,0 +1,8 @@
+{ name: 'User:Boudadude',
+  href: 'http://en.wikipedia.org/wiki/User:Boudadude',
+  mentions: 
+   [ { sectionHeader: 'The Crazy Years',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1211,
+       quote: [ 'Greg found himself drawn to the music scene, where he briefly recorded with Miles Davis and The Who, after writing his self-titled magnum opus "Gregory the Great" only to have it be stolen and retitled to "Hey Jude" by the little known band "The Beatles" Greg turned his back on the seedy depths of his music career to give himself more time to focus on his own life.' ] } ] }

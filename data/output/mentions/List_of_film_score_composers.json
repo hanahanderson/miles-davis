@@ -1,0 +1,8 @@
+{ name: 'List of film score composers',
+  href: 'http://en.wikipedia.org/wiki/List_of_film_score_composers',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 25922,
+       quote: [ 'Miles Davis (1926–1991) – Elevator to the Gallows, Siesta, Dingo' ] } ] }

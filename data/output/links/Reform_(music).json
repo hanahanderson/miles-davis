@@ -1,0 +1,72 @@
+{ name: 'Reform (music)',
+  entityType: 'Group100031264',
+  href: 'http://dbpedia.org/page/Reform_(music)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Reform is a Swedish music group, that was formed in Stockholm in 1998 by Jesper Bergman, Johan Klaeson and Anders Bergman. The group started playing tunes from Miles Davis\' early fusion period (1969–75), but later turned to their own material. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Reform.gif?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Reform.gif?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.reform-music.com',
+          href: 'http://www.reform-music.com' } ],
+     'dbo:wikiPageID': [ { value: '23158665 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '545289795 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_fusion_ensembles',
+          href: 'http://dbpedia.org/resource/Category:Jazz_fusion_ensembles' },
+        { value: 'dbc:Psychedelic_rock',
+          href: 'http://dbpedia.org/resource/Category:Psychedelic_rock' },
+        { value: 'dbc:Swedish_musical_groups',
+          href: 'http://dbpedia.org/resource/Category:Swedish_musical_groups' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Ensemble108188235',
+          href: 'http://dbpedia.org/class/yago/Ensemble108188235' },
+        { value: 'yago:Group100031264',
+          href: 'http://dbpedia.org/class/yago/Group100031264' },
+        { value: 'yago:MusicalOrganization108246613',
+          href: 'http://dbpedia.org/class/yago/MusicalOrganization108246613' },
+        { value: 'yago:Organization108008335',
+          href: 'http://dbpedia.org/class/yago/Organization108008335' },
+        { value: 'yago:SocialGroup107950920',
+          href: 'http://dbpedia.org/class/yago/SocialGroup107950920' },
+        { value: 'yago:YagoLegalActorGeo',
+          href: 'http://dbpedia.org/class/yago/YagoLegalActorGeo' },
+        { value: 'yago:SwedishMusicalGroups',
+          href: 'http://dbpedia.org/class/yago/SwedishMusicalGroups' },
+        { value: 'yago:YagoPermanentlyLocatedEntity',
+          href: 'http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity' },
+        { value: 'yago:YagoLegalActor',
+          href: 'http://dbpedia.org/class/yago/YagoLegalActor' },
+        { value: 'yago:JazzFusionEnsembles',
+          href: 'http://dbpedia.org/class/yago/JazzFusionEnsembles' } ],
+     'rdfs:comment': [ { value: 'Reform is a Swedish music group, that was formed in Stockholm in 1998 by Jesper Bergman, Johan Klaeson and Anders Bergman. The group started playing tunes from Miles Davis\' early fusion period (1969–75), but later turned to their own material. (en)' } ],
+     'rdfs:label': [ { value: 'Reform (music) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Reform (music)',
+          href: 'http://rdf.freebase.com/ns/m.064m5_z' },
+        { value: 'dbpedia-wikidata:Reform (music)',
+          href: 'http://wikidata.dbpedia.org/resource/Q3370187' },
+        { value: 'wikidata:Reform (music)',
+          href: 'http://www.wikidata.org/entity/Q3370187' },
+        { value: 'yago-res:Reform (music)',
+          href: 'http://yago-knowledge.org/resource/Reform_(music)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Reform_(music)?oldid=545289795',
+          href: 'http://en.wikipedia.org/wiki/Reform_(music)?oldid=545289795' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Reform.gif',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Reform.gif' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.reform-music.com',
+          href: 'http://www.reform-music.com' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Reform_(music)',
+          href: 'http://en.wikipedia.org/wiki/Reform_(music)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Reform_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Reform_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Reform_(music)',
+          href: 'http://en.wikipedia.org/wiki/Reform_(music)' } ] } }

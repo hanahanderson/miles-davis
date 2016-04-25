@@ -1,0 +1,8 @@
+{ name: 'The Kolexxxion',
+  href: 'http://en.wikipedia.org/wiki/The_Kolexxxion',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3682,
+       quote: [ 'Samples: "Water Babies" by Miles Davis.' ] } ] }

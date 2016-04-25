@@ -1,0 +1,8 @@
+{ name: 'Joe Lee Wilson',
+  href: 'http://en.wikipedia.org/wiki/Joe_Lee_Wilson',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 723,
+       quote: [ 'Relocating to New York in the 1962, he worked with Sonny Rollins, Lee Morgan, Miles Davis, Pharoah Sanders, Freddie Hubbard, and Jackie McLean.' ] } ] }

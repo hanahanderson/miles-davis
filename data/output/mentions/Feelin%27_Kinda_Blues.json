@@ -1,0 +1,8 @@
+{ name: 'Feelin\' Kinda Blues',
+  href: 'http://en.wikipedia.org/wiki/Feelin%27_Kinda_Blues',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 834,
+       quote: [ '"Freddie Freeloader" (Miles Davis) - 4:12' ] } ] }

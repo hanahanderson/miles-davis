@@ -1,0 +1,8 @@
+{ name: 'King Britt',
+  href: 'http://en.wikipedia.org/wiki/King_Britt',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4436,
+       quote: [ 'King Britt has remixed musicians Tori Amos, Miles Davis, Saul Williams and Meredith Monk.' ] } ] }

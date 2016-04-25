@@ -1,0 +1,37 @@
+{ name: '1967 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1967_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1967 in jazz: (en)' } ],
+     'dbo:wikiPageID': [ { value: '25654730 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '611749299 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1968 (xsd:integer)' } ],
+     'dbp:prioryear': [ { value: '1966 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1967_in_music',
+          href: 'http://dbpedia.org/resource/Category:1967_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: '1967 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1967 in jazz (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_post-1950_jazz_standards',
+          href: 'http://dbpedia.org/resource/List_of_post-1950_jazz_standards' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1967 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4572911' },
+        { value: 'wikidata:1967 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4572911' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1967_in_jazz?oldid=611749299',
+          href: 'http://en.wikipedia.org/wiki/1967_in_jazz?oldid=611749299' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1967_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1967_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1967_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1967_in_jazz' } ] } }

@@ -1,0 +1,105 @@
+{ name: 'The Chant (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Chant_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '40.43333333333333' } ],
+     'dbo:abstract': [ { value: 'The Chant is the second album by bassist and cellist Sam Jones featuring performances recorded in early 1961 and originally released on the Riverside label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Sam_Jones_(musician)',
+          href: 'http://dbpedia.org/resource/Sam_Jones_(musician)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Soul_Society',
+          href: 'http://dbpedia.org/resource/The_Soul_Society' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' } ],
+     'dbo:runtime': [ { value: '2426.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Down_Home_(Sam_Jones_album)',
+          href: 'http://dbpedia.org/resource/Down_Home_(Sam_Jones_album)' } ],
+     'dbo:wikiPageID': [ { value: '37038020 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '627110893 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Sam Jones Plus 10 (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Sam_Jones_(musician)',
+          href: 'http://dbpedia.org/resource/Sam_Jones_(musician)' } ],
+     'dbp:cover': [ { value: 'The Chant .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' },
+        { value: 'RLP 358 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'The Soul Society (en)' } ],
+     'dbp:length': [ { value: '2426.0' } ],
+     'dbp:name': [ { value: 'The Chant (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Down Home (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbp:recorded': 
+      [ { value: '--01-13' },
+        { value: 'Plaza Sound Studios, New York City (en)' } ],
+     'dbp:released': [ { value: '1961 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'The Chant (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1961_albums',
+          href: 'http://dbpedia.org/resource/Category:1961_albums' },
+        { value: 'dbc:Sam_Jones_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:Sam_Jones_(musician)_albums' },
+        { value: 'dbc:Albums_produced_by_Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Orrin_Keepnews' },
+        { value: 'dbc:Riverside_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Riverside_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Chant is the second album by bassist and cellist Sam Jones featuring performances recorded in early 1961 and originally released on the Riverside label. (en)' } ],
+     'rdfs:label': [ { value: 'The Chant (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Chant (album)',
+          href: 'http://rdf.freebase.com/ns/m.0n4855s' },
+        { value: 'dbpedia-it:The Chant (album)',
+          href: 'http://it.dbpedia.org/resource/The_Chant' },
+        { value: 'dbpedia-wikidata:The Chant (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7722118' },
+        { value: 'wikidata:The Chant (album)',
+          href: 'http://www.wikidata.org/entity/Q7722118' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Chant_(album)?oldid=627110893',
+          href: 'http://en.wikipedia.org/wiki/The_Chant_(album)?oldid=627110893' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Chant_(album)',
+          href: 'http://en.wikipedia.org/wiki/The_Chant_(album)' } ],
+     'foaf:name': [ { value: 'The Chant (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Down_Home_(Sam_Jones_album)',
+          href: 'http://dbpedia.org/resource/Down_Home_(Sam_Jones_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Soul_Society',
+          href: 'http://dbpedia.org/resource/The_Soul_Society' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Chant_(album)',
+          href: 'http://en.wikipedia.org/wiki/The_Chant_(album)' } ] } }

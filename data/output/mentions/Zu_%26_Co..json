@@ -1,0 +1,8 @@
+{ name: 'Zu & Co.',
+  href: 'http://en.wikipedia.org/wiki/Zu_%26_Co.',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2076,
+       quote: [ '"Dune Mosse" (with Miles Davis) – 5:44' ] } ] }

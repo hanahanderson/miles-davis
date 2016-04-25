@@ -1,0 +1,8 @@
+{ name: 'Webster Young',
+  href: 'http://en.wikipedia.org/wiki/Webster_Young',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 849,
+       quote: [ 'In the late 1950s, at the suggestion of Miles Davis, Webster Young moved to New York City, where he began performing with musicians such as Lester Young and Bud Powell.' ] } ] }

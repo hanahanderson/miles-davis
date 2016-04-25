@@ -1,0 +1,8 @@
+{ name: 'Talk:Cleo Henry',
+  href: 'http://en.wikipedia.org/wiki/Talk:Cleo_Henry',
+  mentions: 
+   [ { sectionHeader: '{{notability}}, etc.',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3143,
+       quote: [ 'A pseudonym of Miles Davis.' ] } ] }

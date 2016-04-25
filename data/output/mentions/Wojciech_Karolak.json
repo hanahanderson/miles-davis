@@ -1,0 +1,8 @@
+{ name: 'Wojciech Karolak',
+  href: 'http://en.wikipedia.org/wiki/Wojciech_Karolak',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1402,
+       quote: [ 'He cooperated with famed violinist and future Miles Davis alum Michał Urbaniak in Europe and the U.S. While in Western Europe he also played with Red Mitchell, Putte Wickman, Leroy Lowe and others.' ] } ] }

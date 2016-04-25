@@ -1,0 +1,8 @@
+{ name: 'Brian Wilson Presents Smile',
+  href: 'http://en.wikipedia.org/wiki/Brian_Wilson_Presents_Smile',
+  mentions: 
+   [ { sectionHeader: 'Album release',
+       sectionSubHeader: '',
+       sectionIndex: 39,
+       wordCountBeforeSection: 15113,
+       quote: [ 'In its sheer contemplative beauty it rubs shoulders with Miles Davis\' Kind of Blue.' ] } ] }

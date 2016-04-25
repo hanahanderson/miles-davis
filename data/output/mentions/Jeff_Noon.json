@@ -1,0 +1,8 @@
+{ name: 'Jeff Noon',
+  href: 'http://en.wikipedia.org/wiki/Jeff_Noon',
+  mentions: 
+   [ { sectionHeader: 'Novels',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 4328,
+       quote: [ 'Secondly, the character of Long Distance Davis, who Alice meets in a police cell, is a reference to jazz musician and trumpet player Miles Davis.' ] } ] }

@@ -1,0 +1,44 @@
+{ name: '1959 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1959_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1959 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/1959-02-22-L\'Europeo-anno-XV-n-8-c.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/1959-02-22-L\'Europeo-anno-XV-n-8-c.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25654678 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680494267 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1960 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'The "Milan College Jazz Society" (en)' } ],
+     'dbp:prioryear': [ { value: '1958 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1959_in_music',
+          href: 'http://dbpedia.org/resource/Category:1959_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: '1959 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1959 in jazz (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_post-1950_jazz_standards',
+          href: 'http://dbpedia.org/resource/List_of_post-1950_jazz_standards' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1959 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4569789' },
+        { value: 'wikidata:1959 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4569789' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1959_in_jazz?oldid=680494267',
+          href: 'http://en.wikipedia.org/wiki/1959_in_jazz?oldid=680494267' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/1959-02-22-L\'Europeo-anno-XV-n-8-c.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/1959-02-22-L\'Europeo-anno-XV-n-8-c.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1959_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1959_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1959_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1959_in_jazz' } ] } }

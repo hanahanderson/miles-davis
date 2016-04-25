@@ -1,0 +1,8 @@
+{ name: 'Kelly Blue',
+  href: 'http://en.wikipedia.org/wiki/Kelly_Blue',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 481,
+       quote: [ 'Coming off of his success as a sideman with Miles Davis\' sextet, Riverside Records gave Kelly an opportunity to expand on his solo career.' ] } ] }

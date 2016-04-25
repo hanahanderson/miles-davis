@@ -1,0 +1,8 @@
+{ name: 'Flora Purim',
+  href: 'http://en.wikipedia.org/wiki/Flora_Purim',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 7128,
+       quote: [ 'They are Miles Ahead, the first collaboration between Miles Davis and Gil Evans and Blow by Blow, by Jeff Beck.' ] } ] }

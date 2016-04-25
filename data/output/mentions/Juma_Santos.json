@@ -1,0 +1,13 @@
+{ name: 'Juma Santos',
+  href: 'http://en.wikipedia.org/wiki/Juma_Santos',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1325,
+       quote: [ 'Santos recorded on Miles Davis\'s Bitches Brew and toured with Davis for a year.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2175,
+       quote: [ '1969: Bitches Brew, Miles Davis' ] } ] }

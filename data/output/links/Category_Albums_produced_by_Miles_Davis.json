@@ -1,0 +1,29 @@
+{ name: 'Category:Albums produced by Miles Davis',
+  entityType: 'Concept',
+  href: 'http://dbpedia.org/page/Category:Albums_produced_by_Miles_Davis',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '32097349 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '546592442 (xsd:integer)' } ],
+     'rdf:type': 
+      [ { value: 'skos:Concept',
+          href: 'http://www.w3.org/2004/02/skos/core#Concept' } ],
+     'rdfs:label': [ { value: 'Albums produced by Miles Davis (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Albums produced by Miles Davis',
+          href: 'http://wikidata.dbpedia.org/resource/Q8233451' },
+        { value: 'wikidata:Albums produced by Miles Davis',
+          href: 'http://www.wikidata.org/entity/Q8233451' } ],
+     'skos:broader': 
+      [ { value: 'dbc:Albums_by_producer',
+          href: 'http://dbpedia.org/resource/Category:Albums_by_producer' },
+        { value: 'dbc:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis' } ],
+     'skos:prefLabel': [ { value: 'Albums produced by Miles Davis (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Category:Albums_produced_by_Miles_Davis?oldid=546592442',
+          href: 'http://en.wikipedia.org/wiki/Category:Albums_produced_by_Miles_Davis?oldid=546592442' } ],
+     'is dct:subject\n of': 
+      [ { value: 'dbr:Beautiful_Ballads_&_Love_Songs_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Beautiful_Ballads_&_Love_Songs_(Miles_Davis_album)' },
+        { value: 'dbr:Cool_&_Collected',
+          href: 'http://dbpedia.org/resource/Cool_&_Collected' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Ben Sherman',
+  href: 'http://en.wikipedia.org/wiki/Ben_Sherman',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1939,
+       quote: [ 'Sugarman had realised that early 1960s London-based modern jazz fans were eagerly buying the Oxford-cloth American button-down shirt brands such as Brooks Brothers, Arrow, and Hathaway, that were worn by visiting American jazz artists like Miles Davis, Dizzy Gillespie, and Canadian jazz artist Oscar Peterson.' ] } ] }

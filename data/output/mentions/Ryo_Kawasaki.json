@@ -1,0 +1,8 @@
+{ name: 'Ryo Kawasaki',
+  href: 'http://en.wikipedia.org/wiki/Ryo_Kawasaki',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6420,
+       quote: [ 'Sidemen on the project included Tom Coster (Carlos Santana) and Sam Morrison (Miles Davis).' ] } ] }

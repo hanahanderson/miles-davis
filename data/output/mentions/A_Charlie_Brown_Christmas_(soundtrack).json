@@ -1,0 +1,8 @@
+{ name: 'A Charlie Brown Christmas (soundtrack)',
+  href: 'http://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas_(soundtrack)',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: 'Critical reception',
+       sectionIndex: 23,
+       wordCountBeforeSection: 9049,
+       quote: [ 'The soundtrack to A Charlie Brown Christmas has been considered "one of the most beloved holiday albums recorded." Chris Barton of the Los Angeles Times asserts that the soundtrack introduced jazz to entirely new generation, having been heard by more individuals than the work of the genre\'s most influential players, including Miles Davis and John Coltrane.' ] } ] }

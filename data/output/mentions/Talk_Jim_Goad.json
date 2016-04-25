@@ -1,0 +1,8 @@
+{ name: 'Talk:Jim Goad',
+  href: 'http://en.wikipedia.org/wiki/Talk:Jim_Goad',
+  mentions: 
+   [ { sectionHeader: 'Blockquotes by Strausbaugh, Goad, Cho',
+       sectionSubHeader: 'Cleanup/Rewrite/Formatting',
+       sectionIndex: 40,
+       wordCountBeforeSection: 15681,
+       quote: [ 'For examples of the quotebox in use in biographies, see Aleksandr Solzhenitsyn, Rod Serling, Ina Coolbrith, Frank Zappa, David Lynch, Aleister Crowley, Gerald Gardner, Gil Scott-Heron, The Edge, Hank Azaria, Miles Davis, Jim Jarmusch, W.' ] } ] }

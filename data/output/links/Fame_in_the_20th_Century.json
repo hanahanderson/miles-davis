@@ -1,0 +1,42 @@
+{ name: 'Fame in the 20th Century',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Fame_in_the_20th_Century',
+  values: 
+   { 'dbo:abstract': [ { value: 'Fame in the 20th Century is a 1993 BBC documentary television series and book by Clive James. The book and series examined the phenomenon of fame and how it expanded to international mass media proportions throughout the 20th century. The 8 episodes were divided in roughly 8 decades, from the 1900s to the 1980s. Each episode highlighted world famous people during that part of the century. James delivered interesting and amusing comments about the portrayed celebrities and the various ways they became famous.In the USA, the series were broadcast on PBS. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.clivejames.com/books/fame',
+          href: 'http://www.clivejames.com/books/fame' } ],
+     'dbo:wikiPageID': [ { value: '18943340 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682098469 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1993_British_television_programme_endings',
+          href: 'http://dbpedia.org/resource/Category:1993_British_television_programme_endings' },
+        { value: 'dbc:20th_century',
+          href: 'http://dbpedia.org/resource/Category:20th_century' },
+        { value: 'dbc:Celebrity',
+          href: 'http://dbpedia.org/resource/Category:Celebrity' },
+        { value: 'dbc:1993_British_television_programme_debuts',
+          href: 'http://dbpedia.org/resource/Category:1993_British_television_programme_debuts' },
+        { value: 'dbc:BBC_television_documentaries_about_history',
+          href: 'http://dbpedia.org/resource/Category:BBC_television_documentaries_about_history' } ],
+     'rdfs:comment': [ { value: 'Fame in the 20th Century is a 1993 BBC documentary television series and book by Clive James. The book and series examined the phenomenon of fame and how it expanded to international mass media proportions throughout the 20th century. The 8 episodes were divided in roughly 8 decades, from the 1900s to the 1980s. Each episode highlighted world famous people during that part of the century. (en)' } ],
+     'rdfs:label': [ { value: 'Fame in the 20th Century (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Fame in the 20th Century',
+          href: 'http://rdf.freebase.com/ns/m.04jcqz9' },
+        { value: 'dbpedia-wikidata:Fame in the 20th Century',
+          href: 'http://wikidata.dbpedia.org/resource/Q5432896' },
+        { value: 'wikidata:Fame in the 20th Century',
+          href: 'http://www.wikidata.org/entity/Q5432896' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Fame_in_the_20th_Century?oldid=682098469',
+          href: 'http://en.wikipedia.org/wiki/Fame_in_the_20th_Century?oldid=682098469' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Fame_in_the_20th_Century',
+          href: 'http://en.wikipedia.org/wiki/Fame_in_the_20th_Century' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Fame_in_the_20th_century',
+          href: 'http://dbpedia.org/resource/Fame_in_the_20th_century' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Fame_in_the_20th_Century',
+          href: 'http://en.wikipedia.org/wiki/Fame_in_the_20th_Century' } ] } }

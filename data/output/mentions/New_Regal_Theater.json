@@ -1,0 +1,8 @@
+{ name: 'New Regal Theater',
+  href: 'http://en.wikipedia.org/wiki/New_Regal_Theater',
+  mentions: 
+   [ { sectionHeader: 'Notable performers',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3095,
+       quote: [ 'Miles Davis' ] } ] }

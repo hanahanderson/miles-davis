@@ -1,0 +1,8 @@
+{ name: 'Herbie Fields',
+  href: 'http://en.wikipedia.org/wiki/Herbie_Fields',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 645,
+       quote: [ 'Over the next year and a half he recorded for Savoy; notably, he shared a date with Rubberlegs Williams that featured teenaged Miles Davis\' recording debut.' ] } ] }

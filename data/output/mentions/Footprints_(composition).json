@@ -1,0 +1,18 @@
+{ name: 'Footprints (composition)',
+  href: 'http://en.wikipedia.org/wiki/Footprints_(composition)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 204,
+       quote: [ 'The best-known recorded version is on the 1966 Miles Davis album Miles Smiles.' ] },
+     { sectionHeader: 'Rhythm',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 421,
+       quote: [ 'On Miles Smiles (Miles Davis), the band playfully explores the correlation between African-based 12/8 (or 6/8), and 4/4.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2412,
+       quote: [ 'Miles Davis Quintet' ] } ] }

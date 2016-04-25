@@ -1,0 +1,13 @@
+{ name: 'List of triple albums',
+  href: 'http://en.wikipedia.org/wiki/List_of_triple_albums',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1591,
+       quote: [ 'Miles Davis, Jack DeJohnette, Dave Holland, Chick Corea & Wayne Shorter - Live in Europe 1969: The Bootleg Series, Vol.2' ] },
+     { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1591,
+       quote: [ 'Miles Davis Quintet - Live in Europe 1967: The Bootleg Series, Vol.1' ] } ] }

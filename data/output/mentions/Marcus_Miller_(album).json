@@ -1,0 +1,8 @@
+{ name: 'Marcus Miller (album)',
+  href: 'http://en.wikipedia.org/wiki/Marcus_Miller_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1384,
+       quote: [ 'Miles Davis' ] } ] }

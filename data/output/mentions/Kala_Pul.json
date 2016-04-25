@@ -1,0 +1,8 @@
+{ name: 'Kala Pul',
+  href: 'http://en.wikipedia.org/wiki/Kala_Pul',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3349,
+       quote: [ 'The music, which he terms "dub noise", is reflective of a world in a state of flux and inspired by the work of 23 Skidoo, Muslimgauze and Miles Davis\'s 70s experimental funk.' ] } ] }

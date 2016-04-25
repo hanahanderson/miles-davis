@@ -1,0 +1,13 @@
+{ name: 'Swedish Schnapps (album)',
+  href: 'http://en.wikipedia.org/wiki/Swedish_Schnapps_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 485,
+       quote: [ 'The January 17 1951 session features Miles Davis on trumpet, who had made many recordings as part of Parker\'s band in 1946 and 1947.' ] },
+     { sectionHeader: 'Performers',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1864,
+       quote: [ 'Miles Davis - Trumpet' ] } ] }

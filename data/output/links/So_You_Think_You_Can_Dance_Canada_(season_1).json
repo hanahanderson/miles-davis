@@ -1,0 +1,73 @@
+{ name: 'So You Think You Can Dance Canada (season 1)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/So_You_Think_You_Can_Dance_Canada_(season_1)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Season 1 of So You Think You Can Dance Canada is a dance reality show and competition that airs on CTV.  It is hosted by MuchMusic VJ Leah Miller.The series is based on the original American TV series So You Think You Can Dance. Auditions started April 7, 2008 in Vancouver, British Columbia and ended in Toronto, Ontario on June 8, 2008. The show premiered on September 11, 2008 beginning with the Toronto auditions.  The first winner was Nicholas Archambault, with Allie Bertram coming in the runner-up position. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.dance.ctv.ca/',
+          href: 'http://www.dance.ctv.ca/' },
+        { value: 'http://www.sytycd.ca/',
+          href: 'http://www.sytycd.ca/' } ],
+     'dbo:wikiPageID': [ { value: '23698890 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682018179 (xsd:integer)' } ],
+     'dbp:broadcaster': 
+      [ { value: 'dbr:CTV_Television_Network',
+          href: 'http://dbpedia.org/resource/CTV_Television_Network' } ],
+     'dbp:country': 
+      [ { value: 'dbr:Canada',
+          href: 'http://dbpedia.org/resource/Canada' } ],
+     'dbp:firstAired': [ { value: '2008-09-11 (xsd:date)' } ],
+     'dbp:host': 
+      [ { value: 'dbr:Leah_Miller',
+          href: 'http://dbpedia.org/resource/Leah_Miller' } ],
+     'dbp:judges': 
+      [ { value: 'dbr:Tré_Armstrong',
+          href: 'http://dbpedia.org/resource/Tré_Armstrong' },
+        { value: 'dbr:Blake_McGrath',
+          href: 'http://dbpedia.org/resource/Blake_McGrath' },
+        { value: 'dbr:Jean-Marc_Généreux',
+          href: 'http://dbpedia.org/resource/Jean-Marc_Généreux' },
+        { value: 'Luther Brown (en)' } ],
+     'dbp:lastAired': [ { value: '2008-12-07 (xsd:date)' } ],
+     'dbp:next': [ { value: 'So You Think You Can Dance Canada (en)' } ],
+     'dbp:runnerName': [ { value: 'Allie Bertram (en)' } ],
+     'dbp:season': [ { value: '1 (xsd:integer)' } ],
+     'dbp:series': [ { value: 'So You Think You Can Dance Canada (en)' } ],
+     'dbp:winnerGenre': 
+      [ { value: 'dbr:Hip-hop_dance',
+          href: 'http://dbpedia.org/resource/Hip-hop_dance' },
+        { value: 'dbr:Contemporary_dance',
+          href: 'http://dbpedia.org/resource/Contemporary_dance' } ],
+     'dbp:winnerName': [ { value: 'Nicolas Archambault (en)' } ],
+     'dbp:winnerOrigin': 
+      [ { value: 'dbr:Montreal',
+          href: 'http://dbpedia.org/resource/Montreal' },
+        { value: 'dbr:Quebec',
+          href: 'http://dbpedia.org/resource/Quebec' } ],
+     'dbp:year': [ { value: '2008 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2008_television_seasons',
+          href: 'http://dbpedia.org/resource/Category:2008_television_seasons' },
+        { value: 'dbc:So_You_Think_You_Can_Dance_Canada',
+          href: 'http://dbpedia.org/resource/Category:So_You_Think_You_Can_Dance_Canada' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'Season 1 of So You Think You Can Dance Canada is a dance reality show and competition that airs on CTV.  It is hosted by MuchMusic VJ Leah Miller.The series is based on the original American TV series So You Think You Can Dance. Auditions started April 7, 2008 in Vancouver, British Columbia and ended in Toronto, Ontario on June 8, 2008. The show premiered on September 11, 2008 beginning with the Toronto auditions. (en)' } ],
+     'rdfs:label': [ { value: 'So You Think You Can Dance Canada (season 1) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:So You Think You Can Dance Canada (season 1)',
+          href: 'http://rdf.freebase.com/ns/m.0f_rrdc' },
+        { value: 'dbpedia-wikidata:So You Think You Can Dance Canada (season 1)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7549670' },
+        { value: 'wikidata:So You Think You Can Dance Canada (season 1)',
+          href: 'http://www.wikidata.org/entity/Q7549670' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:So_You_Think_You_Can_Dance_Canada_(season_1)?oldid=682018179',
+          href: 'http://en.wikipedia.org/wiki/So_You_Think_You_Can_Dance_Canada_(season_1)?oldid=682018179' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:So_You_Think_You_Can_Dance_Canada_(season_1)',
+          href: 'http://en.wikipedia.org/wiki/So_You_Think_You_Can_Dance_Canada_(season_1)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:So_You_Think_You_Can_Dance_Canada_(season_1)',
+          href: 'http://en.wikipedia.org/wiki/So_You_Think_You_Can_Dance_Canada_(season_1)' } ] } }

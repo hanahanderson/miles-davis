@@ -1,0 +1,8 @@
+{ name: 'Leo Sidran',
+  href: 'http://en.wikipedia.org/wiki/Leo_Sidran',
+  mentions: 
+   [ { sectionHeader: 'Productions',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 3597,
+       quote: [ 'The name "Nardis" comes from a Miles Davis composition, but is also Sidran\'s name spelled backwards.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'British jazz',
+  href: 'http://en.wikipedia.org/wiki/British_jazz',
+  mentions: 
+   [ { sectionHeader: 'The 1960s and \'70s',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 10096,
+       quote: [ 'Some of the most significant musicians to emerge during this period include John McLaughlin and Dave Holland (both of whom joined Miles Davis\'s group), pianists Keith Tippett and John Taylor, saxophonists Evan Parker, Mike Osborne, John Surman and Alan Skidmore, and the Canadian-born trumpeter Kenny Wheeler who had settled in Britain.' ] } ] }

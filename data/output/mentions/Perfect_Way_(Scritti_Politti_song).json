@@ -1,0 +1,8 @@
+{ name: 'Perfect Way (Scritti Politti song)',
+  href: 'http://en.wikipedia.org/wiki/Perfect_Way_(Scritti_Politti_song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 908,
+       quote: [ 'An instrumental version of the song was covered by Miles Davis on his 1986 album Tutu, providing a second success for the song in the US.' ] } ] }

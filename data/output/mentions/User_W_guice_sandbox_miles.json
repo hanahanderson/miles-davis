@@ -1,0 +1,13 @@
+{ name: 'User:W guice/sandbox/miles',
+  href: 'http://en.wikipedia.org/wiki/User:W_guice/sandbox/miles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 668,
+       quote: [ 'The album consists of time-compressed versions of three well-known albums by American jazz trumpeter Miles Davis, namely 1969\'s Bitches Brew, 1959\'s Kind of Blue and 1960\'s Sketches of Spain.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1424,
+       quote: [] } ] }

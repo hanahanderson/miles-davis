@@ -1,0 +1,8 @@
+{ name: 'Groove Elation',
+  href: 'http://en.wikipedia.org/wiki/Groove_Elation',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1081,
+       quote: [ 'Miles Davis' ] } ] }

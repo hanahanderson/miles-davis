@@ -1,0 +1,8 @@
+{ name: 'Folk baroque',
+  href: 'http://en.wikipedia.org/wiki/Folk_baroque',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2044,
+       quote: [ 'This instrumental piece took its inspiration from jazz sources such as Miles Davis and Charles Mingus, but was in the form of an acoustic guitar duet by Korner and Graham—one of the earliest recordings of folk baroque.' ] } ] }

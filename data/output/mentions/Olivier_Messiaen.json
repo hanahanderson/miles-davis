@@ -1,0 +1,8 @@
+{ name: 'Olivier Messiaen',
+  href: 'http://en.wikipedia.org/wiki/Olivier_Messiaen',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 107,
+       wordCountBeforeSection: 58744,
+       quote: [ 'Miles Davis (1984)' ] } ] }

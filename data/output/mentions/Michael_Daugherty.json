@@ -1,0 +1,8 @@
+{ name: 'Michael Daugherty',
+  href: 'http://en.wikipedia.org/wiki/Michael_Daugherty',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 8951,
+       quote: [ 'The most notable project was the reconstruction of the lost arrangements of Porgy and Bess, which was originally used for the 1958 recording with Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Envoi (album)',
+  href: 'http://en.wikipedia.org/wiki/Envoi_(album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 806,
+       quote: [ 'The Musicworks review by Stuart Broomer states "The music initially suggests the cutting cry of Miles Davis’s Sketches of Spain but moves subtly and constantly through a series of phases that further exploit the sombre side of trumpet sonority."' ] } ] }

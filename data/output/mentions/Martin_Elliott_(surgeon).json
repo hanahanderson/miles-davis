@@ -1,0 +1,8 @@
+{ name: 'Martin Elliott (surgeon)',
+  href: 'http://en.wikipedia.org/wiki/Martin_Elliott_(surgeon)',
+  mentions: 
+   [ { sectionHeader: 'Personal life',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3404,
+       quote: [ 'Elliott enjoys listening to music in his spare time and is known to have Mozart or Miles Davis playing when in the operating theatre.' ] } ] }

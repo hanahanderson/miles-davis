@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Wikipedia Signpost/2012-01-09/WikiProject report',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Wikipedia_Signpost/2012-01-09/WikiProject_report',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

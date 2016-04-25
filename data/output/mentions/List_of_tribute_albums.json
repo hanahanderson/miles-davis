@@ -1,0 +1,8 @@
+{ name: 'List of tribute albums',
+  href: 'http://en.wikipedia.org/wiki/List_of_tribute_albums',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3653,
+       quote: [ 'Miles Davis\n\nA Tribute to Miles\n\n' ] } ] }

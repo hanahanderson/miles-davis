@@ -1,0 +1,8 @@
+{ name: 'Chakin\'',
+  href: 'http://en.wikipedia.org/wiki/Chakin%27',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 268,
+       quote: [ 'The music is comparable to Sun Ra and Bitches Brew-era Miles Davis.' ] } ] }

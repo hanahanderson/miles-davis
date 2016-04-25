@@ -1,0 +1,8 @@
+{ name: 'Fear of a Black Planet',
+  href: 'http://en.wikipedia.org/wiki/Fear_of_a_Black_Planet',
+  mentions: 
+   [ { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: 'Production',
+       sectionIndex: 28,
+       wordCountBeforeSection: 16062,
+       quote: [ 'They would graft together dozens of fragmentary samples to create a single song collage." Simon Reynolds said it was "a work of unprecedented density for hip hop, its claustrophobic, backs-against-the-wall feel harking back to Sly Stone\'s There\'s a Riot Goin\' On or even Miles Davis\' On the Corner".' ] } ] }

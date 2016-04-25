@@ -1,0 +1,8 @@
+{ name: 'Irwin Silber',
+  href: 'http://en.wikipedia.org/wiki/Irwin_Silber',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 4877,
+       quote: [ 'Miles Davis would be accused of something similar when he made the album Bitches Brew...what I did to break away was to take simple folk changes and put new images and attitudes into them."' ] } ] }

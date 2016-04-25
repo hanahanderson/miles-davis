@@ -1,0 +1,8 @@
+{ name: 'Paris sous les bombes',
+  href: 'http://en.wikipedia.org/wiki/Paris_sous_les_bombes',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 636,
+       quote: [ 'Contains samples from "Water Babies" by Miles Davis and "Raise the Roof" by Public Enemy' ] } ] }

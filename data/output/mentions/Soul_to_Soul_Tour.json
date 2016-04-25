@@ -1,0 +1,8 @@
+{ name: 'Soul to Soul Tour',
+  href: 'http://en.wikipedia.org/wiki/Soul_to_Soul_Tour',
+  mentions: 
+   [ { sectionHeader: 'Tour dates',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 851,
+       quote: [ 'B.B. King\nMiles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Louis Banks',
+  href: 'http://en.wikipedia.org/wiki/Louis_Banks',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4824,
+       quote: [ 'His 2008 collaboration as co producer, arranger and pianist/keyboards on the album Miles from India, a tribute to the founder of modern jazz Miles Davis was nominated for the Grammy Awards 2008 in the Best Contemporary Jazz Album category.' ] } ] }

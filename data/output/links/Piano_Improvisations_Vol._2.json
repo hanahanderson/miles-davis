@@ -1,0 +1,112 @@
+{ name: 'Piano Improvisations Vol. 2',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Piano_Improvisations_Vol._2',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '40.2' } ],
+     'dbo:abstract': [ { value: 'Piano Improvisations Vol. 2 is an album recorded by Chick Corea and released in 1972.The album, along with its counterpart Piano Improvisations Vol. 1, was recorded over the course of two days in Oslo, Norway.  The two albums in the Piano Improvisations series serve as a sort of bridge between Corea\'s other works in Circle and Return to Forever.  In addition to seven original pieces written by Corea, he interprets Wayne Shorter\'s "Masqualero" and Thelonious Monk\'s "Trinkle, Tinkle". The only musician featured on the album is Chick Corea on piano. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Piano_Improvisations_Vol._1',
+          href: 'http://dbpedia.org/resource/Piano_Improvisations_Vol._1' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbo:recordDate': [ { value: '1971-04-21 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Oslo', href: 'http://dbpedia.org/resource/Oslo' },
+        { value: 'dbr:Norway',
+          href: 'http://dbpedia.org/resource/Norway' } ],
+     'dbo:runtime': [ { value: '2412.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Leprechaun_(Chick_Corea_album)',
+          href: 'http://dbpedia.org/resource/The_Leprechaun_(Chick_Corea_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '5536014 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662457003 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbp:cover': [ { value: 'Piano Improvisations Vol. 2.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Piano Improvisations Vol. 1 (en)' } ],
+     'dbp:length': [ { value: '2412.0' } ],
+     'dbp:name': [ { value: 'Piano Improvisations Vol. 2 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Leprechaun (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbp:recorded': [ { value: '--04-21' } ],
+     'dbp:released': [ { value: '1972 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Piano Improvisations Vol. 2 (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1971_albums',
+          href: 'http://dbpedia.org/resource/Category:1971_albums' },
+        { value: 'dbc:Chick_Corea_albums',
+          href: 'http://dbpedia.org/resource/Category:Chick_Corea_albums' },
+        { value: 'dbc:Instrumental_albums',
+          href: 'http://dbpedia.org/resource/Category:Instrumental_albums' },
+        { value: 'dbc:Albums_produced_by_Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Manfred_Eicher' },
+        { value: 'dbc:ECM_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:ECM_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Piano Improvisations Vol. 2 is an album recorded by Chick Corea and released in 1972.The album, along with its counterpart Piano Improvisations Vol. 1, was recorded over the course of two days in Oslo, Norway.  The two albums in the Piano Improvisations series serve as a sort of bridge between Corea\'s other works in Circle and Return to Forever.  In addition to seven original pieces written by Corea, he interprets Wayne Shorter\'s "Masqualero" and Thelonious Monk\'s "Trinkle, Tinkle". (en)' } ],
+     'rdfs:label': [ { value: 'Piano Improvisations Vol. 2 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Piano Improvisations Vol. 2',
+          href: 'http://rdf.freebase.com/ns/m.0drdq5' },
+        { value: 'dbpedia-wikidata:Piano Improvisations Vol. 2',
+          href: 'http://wikidata.dbpedia.org/resource/Q7190118' },
+        { value: 'wikidata:Piano Improvisations Vol. 2',
+          href: 'http://www.wikidata.org/entity/Q7190118' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Piano_Improvisations_Vol._2?oldid=662457003',
+          href: 'http://en.wikipedia.org/wiki/Piano_Improvisations_Vol._2?oldid=662457003' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Piano_Improvisations_Vol._2',
+          href: 'http://en.wikipedia.org/wiki/Piano_Improvisations_Vol._2' } ],
+     'foaf:name': [ { value: 'Piano Improvisations Vol. 2 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Leprechaun_(Chick_Corea_album)',
+          href: 'http://dbpedia.org/resource/The_Leprechaun_(Chick_Corea_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Piano_Improvisations_Vol._1',
+          href: 'http://dbpedia.org/resource/Piano_Improvisations_Vol._1' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Piano_Improvisations_Vol._2',
+          href: 'http://en.wikipedia.org/wiki/Piano_Improvisations_Vol._2' } ] } }

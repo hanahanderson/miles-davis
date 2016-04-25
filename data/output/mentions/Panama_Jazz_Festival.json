@@ -1,0 +1,11 @@
+{ name: 'Panama Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Panama_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Honours',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 14067,
+       quote: 
+        [ 'He gained recognition for his work with Freddie Hubbard, Art Blakey’s Jazz Messengers and Charles Mingus, and had an important stint with Miles Davis in 1972.',
+          'Durante los años 1960´s y 1970´s Garnett graba y toca con los músicos de jazz más destacados de su generación incluyendo a Charles Mingus, Art Blakey y Miles Davis.',
+          'Con el famoso trompetista Miles Davis graba 4 discos entre los años 1972 y 1974.' ] } ] }

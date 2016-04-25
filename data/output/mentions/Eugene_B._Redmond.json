@@ -1,0 +1,8 @@
+{ name: 'Eugene B. Redmond',
+  href: 'http://en.wikipedia.org/wiki/Eugene_B._Redmond',
+  mentions: 
+   [ { sectionHeader: 'Works',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3422,
+       quote: [ 'Bracey Jr., Sonia Sanchez, and James Smethurst, eds. (2014). "DA-DUM-DUN: A BAM Triumvirate of Conch/Us/Nest: Miles Davis, Henry Dumas & Katherine Dunham in East St.' ] } ] }

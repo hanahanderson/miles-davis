@@ -1,0 +1,13 @@
+{ name: 'Bennie Green',
+  href: 'http://en.wikipedia.org/wiki/Bennie_Green',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1463,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1479,
+       quote: [ 'Miles Davis and Horns' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Andy Baio',
+  href: 'http://en.wikipedia.org/wiki/Andy_Baio',
+  mentions: 
+   [ { sectionHeader: 'Media',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2853,
+       quote: [ 'In 2009, he produced Kind of Bloop, a chiptune tribute album commemorating the 50th anniversary of Miles Davis\' Kind of Blue.' ] } ] }

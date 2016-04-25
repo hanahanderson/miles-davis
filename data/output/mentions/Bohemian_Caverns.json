@@ -1,0 +1,8 @@
+{ name: 'Bohemian Caverns',
+  href: 'http://en.wikipedia.org/wiki/Bohemian_Caverns',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 532,
+       quote: [ 'In 1959, promoter Tony Taylor and Angelo Alvino bought the club and transformed it into the premier jazz venue in Washington, D.C. Taylor booked many of the leading jazz musicians of the 1960s including Bill Evans, Miles Davis, Shirley Horn, John Coltrane, Eric Dolphy, Bobby Timmons, Nina Simone, and Charles Mingus.' ] } ] }

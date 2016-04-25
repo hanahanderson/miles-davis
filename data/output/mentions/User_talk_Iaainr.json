@@ -1,0 +1,8 @@
+{ name: 'User talk:Iaainr',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Iaainr',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

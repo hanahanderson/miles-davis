@@ -1,0 +1,8 @@
+{ name: 'Collette Cooper',
+  href: 'http://en.wikipedia.org/wiki/Collette_Cooper',
+  mentions: 
+   [ { sectionHeader: 'Personal life and history',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1406,
+       quote: [] } ] }

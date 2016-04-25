@@ -1,0 +1,8 @@
+{ name: 'Yo-Yo Ma',
+  href: 'http://en.wikipedia.org/wiki/Yo-Yo_Ma',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 81,
+       wordCountBeforeSection: 23020,
+       quote: [ 'Miles Davis (1984)' ] } ] }

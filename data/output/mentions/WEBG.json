@@ -1,0 +1,8 @@
+{ name: 'WEBG',
+  href: 'http://en.wikipedia.org/wiki/WEBG',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 6072,
+       quote: [ 'WNUA was the home of the now-defunct Ramsey Lewis morning show, and it was also where he recorded his syndicated show, Legends of Jazz (which showcased the music of instrumentalists Charlie Parker, Oscar Peterson and Miles Davis, as well as vocalists Louis Armstrong, Billie Holiday and Ella Fitzgerald) for distribution to other smooth jazz stations across the nation.' ] } ] }

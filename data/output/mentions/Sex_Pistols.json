@@ -1,0 +1,8 @@
+{ name: 'Sex Pistols',
+  href: 'http://en.wikipedia.org/wiki/Sex_Pistols',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Singles',
+       sectionIndex: 151,
+       wordCountBeforeSection: 109682,
+       quote: [ 'Miles Davis' ] } ] }

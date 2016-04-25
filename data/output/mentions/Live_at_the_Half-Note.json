@@ -1,0 +1,8 @@
+{ name: 'Live at the Half-Note',
+  href: 'http://en.wikipedia.org/wiki/Live_at_the_Half-Note',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 994,
+       quote: [ '"Swing Spring" (Miles Davis) - 5:51' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Brian Viglione',
+  href: 'http://en.wikipedia.org/wiki/Brian_Viglione',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 2340,
+       quote: [ 'Both of my parents understood how dedicated I was to making it come true and I was very lucky to have their encouragement through all of the craziness and uncertainty of those times." Viglione played bass for a year in a and was exposed to music that played a large and influential role in his playing. "I was listening to a lot of Tom Waits, Nick Cave, Black Flag, Swans, Miles Davis, Diamanda Galas, The Gun Club, Einstürzende Neubauten, Charles Mingus, and John Coltrane records.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Time Remembered (album)',
+  href: 'http://en.wikipedia.org/wiki/Time_Remembered_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 3969,
+       quote: [ 'Miles Davis' ] } ] }

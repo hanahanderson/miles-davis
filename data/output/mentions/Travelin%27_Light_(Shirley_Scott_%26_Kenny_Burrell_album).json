@@ -1,0 +1,8 @@
+{ name: 'Travelin\' Light (Shirley Scott & Kenny Burrell album)',
+  href: 'http://en.wikipedia.org/wiki/Travelin%27_Light_(Shirley_Scott_%26_Kenny_Burrell_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 888,
+       quote: [ '"Solar" (Miles Davis) - 6:05' ] } ] }

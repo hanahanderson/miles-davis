@@ -1,0 +1,8 @@
+{ name: 'User:Ant1 as2014/Books/Jazz',
+  href: 'http://en.wikipedia.org/wiki/User:Ant1_as2014/Books/Jazz',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

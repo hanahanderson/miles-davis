@@ -1,0 +1,39 @@
+{ name: 'List of people from Illinois',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_from_Illinois',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of people whose career was all or part in Illinois, an American state; people are not included if they left the state before beginning a career.M (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/John_Ashcroft.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/John_Ashcroft.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '329945 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682888518 (xsd:integer)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dbp:refs': [ { value: 'yes (en)' } ],
+     'dbp:seealso': [ { value: 'yes (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_people_from_Illinois',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_from_Illinois' } ],
+     'rdfs:comment': [ { value: 'This is a list of people whose career was all or part in Illinois, an American state; people are not included if they left the state before beginning a career.M (en)' } ],
+     'rdfs:label': [ { value: 'List of people from Illinois (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-ja:List of people from Illinois',
+          href: 'http://ja.dbpedia.org/resource/イリノイ州出身の人物一覧' },
+        { value: 'wikidata:List of people from Illinois',
+          href: 'http://www.wikidata.org/entity/Q6272933' },
+        { value: 'dbpedia-wikidata:List of people from Illinois',
+          href: 'http://wikidata.dbpedia.org/resource/Q6272933' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_from_Illinois?oldid=682888518',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Illinois?oldid=682888518' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/John_Ashcroft.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/John_Ashcroft.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_from_Illinois',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Illinois' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_from_Illinois',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_Illinois' } ] } }

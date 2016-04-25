@@ -1,0 +1,39 @@
+{ name: 'Alabama (John Coltrane song)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Alabama_(John_Coltrane_song)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Alabama" is a composition written by John Coltrane that appears on his album Live at Birdland (1963). It was written in response to the 16th Street Baptist Church bombing on September 15, 1963, an attack by the Ku Klux Klan in Birmingham, Alabama that killed four girls.Coltrane\'s Quartet performed this piece on television for an episode of Jazz Casual in 1963. (en)' } ],
+     'dbo:wikiPageID': [ { value: '21110969 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '646878314 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1963_compositions',
+          href: 'http://dbpedia.org/resource/Category:1963_compositions' },
+        { value: 'dbc:African-American_Civil_Rights_Movement_(1954–68)_in_popular_culture',
+          href: 'http://dbpedia.org/resource/Category:African-American_Civil_Rights_Movement_(1954–68)_in_popular_culture' },
+        { value: 'dbc:Songs_based_on_actual_events',
+          href: 'http://dbpedia.org/resource/Category:Songs_based_on_actual_events' },
+        { value: 'dbc:Compositions_by_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_John_Coltrane' } ],
+     'rdfs:comment': [ { value: '"Alabama" is a composition written by John Coltrane that appears on his album Live at Birdland (1963). It was written in response to the 16th Street Baptist Church bombing on September 15, 1963, an attack by the Ku Klux Klan in Birmingham, Alabama that killed four girls.Coltrane\'s Quartet performed this piece on television for an episode of Jazz Casual in 1963. (en)' } ],
+     'rdfs:label': [ { value: 'Alabama (John Coltrane song) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Alabama (John Coltrane song)',
+          href: 'http://rdf.freebase.com/ns/m.05c0_fr' },
+        { value: 'dbpedia-it:Alabama (John Coltrane song)',
+          href: 'http://it.dbpedia.org/resource/Alabama_(John_Coltrane)' },
+        { value: 'dbpedia-wikidata:Alabama (John Coltrane song)',
+          href: 'http://wikidata.dbpedia.org/resource/Q3607615' },
+        { value: 'wikidata:Alabama (John Coltrane song)',
+          href: 'http://www.wikidata.org/entity/Q3607615' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Alabama_(John_Coltrane_song)?oldid=646878314',
+          href: 'http://en.wikipedia.org/wiki/Alabama_(John_Coltrane_song)?oldid=646878314' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Alabama_(John_Coltrane_song)',
+          href: 'http://en.wikipedia.org/wiki/Alabama_(John_Coltrane_song)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Alabama_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Alabama_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Alabama_(John_Coltrane_song)',
+          href: 'http://en.wikipedia.org/wiki/Alabama_(John_Coltrane_song)' } ] } }

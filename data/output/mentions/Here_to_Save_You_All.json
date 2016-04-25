@@ -1,0 +1,8 @@
+{ name: 'Here to Save You All',
+  href: 'http://en.wikipedia.org/wiki/Here_to_Save_You_All',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2387,
+       quote: [ '"Lonely Fire" by Miles Davis' ] } ] }

@@ -1,0 +1,56 @@
+{ name: 'La Santa Cecilia',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/La_Santa_Cecilia',
+  values: 
+   { 'dbo:abstract': [ { value: 'La Santa Cecilia is a Mexican-American band based in Los Angeles, California who play a blend of many forms of music, including cumbia, bossa nova, and boleros. The name La Santa Cecilia is based upon the patron saint of musicians, Saint Cecilia. For their full-length studio album, Treinta Días, the group won a Grammy for Best Latin Rock, Urban or Alternative Album in 2014. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/LaSantaCecilaMarch2015.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/LaSantaCecilaMarch2015.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://lasantacecilia.com',
+          href: 'http://lasantacecilia.com' } ],
+     'dbo:wikiPageID': [ { value: '36072245 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '667994620 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_Latin_musical_groups',
+          href: 'http://dbpedia.org/resource/Category:American_Latin_musical_groups' },
+        { value: 'dbc:Grammy_Award_winners',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Award_winners' },
+        { value: 'dbc:Musical_groups_from_Los_Angeles,_California',
+          href: 'http://dbpedia.org/resource/Category:Musical_groups_from_Los_Angeles,_California' },
+        { value: 'dbc:Spanish-language_singers_of_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Spanish-language_singers_of_the_United_States' },
+        { value: 'dbc:Universal_Music_Latin_Entertainment_artists',
+          href: 'http://dbpedia.org/resource/Category:Universal_Music_Latin_Entertainment_artists' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'La Santa Cecilia is a Mexican-American band based in Los Angeles, California who play a blend of many forms of music, including cumbia, bossa nova, and boleros. The name La Santa Cecilia is based upon the patron saint of musicians, Saint Cecilia. For their full-length studio album, Treinta Días, the group won a Grammy for Best Latin Rock, Urban or Alternative Album in 2014. (en)' } ],
+     'rdfs:label': [ { value: 'La Santa Cecilia (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:La Santa Cecilia',
+          href: 'http://rdf.freebase.com/ns/m.0j_7mh_' },
+        { value: 'dbpedia-fr:La Santa Cecilia',
+          href: 'http://fr.dbpedia.org/resource/La_Santa_Cecilia' },
+        { value: 'dbpedia-wikidata:La Santa Cecilia',
+          href: 'http://wikidata.dbpedia.org/resource/Q6465167' },
+        { value: 'wikidata:La Santa Cecilia',
+          href: 'http://www.wikidata.org/entity/Q6465167' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:La_Santa_Cecilia?oldid=667994620',
+          href: 'http://en.wikipedia.org/wiki/La_Santa_Cecilia?oldid=667994620' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/LaSantaCecilaMarch2015.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/LaSantaCecilaMarch2015.jpg' } ],
+     'foaf:homepage': 
+      [ { value: 'http://lasantacecilia.com',
+          href: 'http://lasantacecilia.com' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:La_Santa_Cecilia',
+          href: 'http://en.wikipedia.org/wiki/La_Santa_Cecilia' } ],
+     'is dbp:extra\n of': 
+      [ { value: 'dbr:The_Book_of_Life_(2014_film)',
+          href: 'http://dbpedia.org/resource/The_Book_of_Life_(2014_film)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:La_Santa_Cecilia',
+          href: 'http://en.wikipedia.org/wiki/La_Santa_Cecilia' } ] } }

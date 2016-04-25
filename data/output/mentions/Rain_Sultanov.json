@@ -1,0 +1,8 @@
+{ name: 'Rain Sultanov',
+  href: 'http://en.wikipedia.org/wiki/Rain_Sultanov',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 442,
+       quote: [ 'Rain’s interest to jazz music and especially to the creativity of “Weather Report” group and Miles Davis is connected to this period.' ] } ] }

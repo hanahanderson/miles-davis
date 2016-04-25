@@ -1,0 +1,102 @@
+{ name: 'Play All Night: Live at the Beacon Theatre 1992',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Play_All_Night:_Live_at_the_Beacon_Theatre_1992',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '139.73333333333332' } ],
+     'dbo:abstract': [ { value: 'Play All Night: Live at the Beacon Theatre 1992 is a two-CD live album by the Allman Brothers Band.  It was recorded at the Beacon Theatre in New York City on March 10 and 11, 1992.  It was released on the Epic/Legacy label on February 18, 2014. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:The_Allman_Brothers_Band',
+          href: 'http://dbpedia.org/resource/The_Allman_Brothers_Band' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Southern_rock',
+          href: 'http://dbpedia.org/resource/Southern_rock' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Live_at_Great_Woods',
+          href: 'http://dbpedia.org/resource/Live_at_Great_Woods' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Tom_Dowd',
+          href: 'http://dbpedia.org/resource/Tom_Dowd' },
+        { value: 'dbr:Warren_Haynes',
+          href: 'http://dbpedia.org/resource/Warren_Haynes' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Epic_Records',
+          href: 'http://dbpedia.org/resource/Epic_Records' } ],
+     'dbo:releaseDate': [ { value: '2014-02-18 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '8384.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '42078156 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '635082280 (xsd:integer)' } ],
+     'dbp:alt': [ { value: 'The marquee of the Beacon Theatre, which reads "The Allman Brothers Band – Sold Out – Tonight 8 PM" (en)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:The_Allman_Brothers_Band',
+          href: 'http://dbpedia.org/resource/The_Allman_Brothers_Band' } ],
+     'dbp:cover': [ { value: 'PlayAllNight.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Southern_rock',
+          href: 'http://dbpedia.org/resource/Southern_rock' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Epic_Records',
+          href: 'http://dbpedia.org/resource/Epic_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Live at Great Woods (en)' } ],
+     'dbp:length': [ { value: '8384.0' } ],
+     'dbp:name': [ { value: 'Play All Night: Live at the Beacon Theatre 1992 (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Tom_Dowd',
+          href: 'http://dbpedia.org/resource/Tom_Dowd' },
+        { value: 'dbr:Warren_Haynes',
+          href: 'http://dbpedia.org/resource/Warren_Haynes' } ],
+     'dbp:recorded': [ { value: '--03-10' } ],
+     'dbp:released': [ { value: '2014-02-18 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'Mojo (en)' },
+        { value: 'Premier Guitar (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Play All Night: Live at the Beacon Theatre 1992 (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Epic_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Epic_Records_live_albums' },
+        { value: 'dbc:The_Allman_Brothers_Band_live_albums',
+          href: 'http://dbpedia.org/resource/Category:The_Allman_Brothers_Band_live_albums' },
+        { value: 'dbc:2014_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2014_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Play All Night: Live at the Beacon Theatre 1992 is a two-CD live album by the Allman Brothers Band.  It was recorded at the Beacon Theatre in New York City on March 10 and 11, 1992.  It was released on the Epic/Legacy label on February 18, 2014. (en)' } ],
+     'rdfs:label': [ { value: 'Play All Night: Live at the Beacon Theatre 1992 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Play All Night: Live at the Beacon Theatre 1992',
+          href: 'http://rdf.freebase.com/ns/m.0_v4v5d' },
+        { value: 'dbpedia-wikidata:Play All Night: Live at the Beacon Theatre 1992',
+          href: 'http://wikidata.dbpedia.org/resource/Q16967215' },
+        { value: 'wikidata:Play All Night: Live at the Beacon Theatre 1992',
+          href: 'http://www.wikidata.org/entity/Q16967215' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Play_All_Night:_Live_at_the_Beacon_Theatre_1992?oldid=635082280',
+          href: 'http://en.wikipedia.org/wiki/Play_All_Night:_Live_at_the_Beacon_Theatre_1992?oldid=635082280' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Play_All_Night:_Live_at_the_Beacon_Theatre_1992',
+          href: 'http://en.wikipedia.org/wiki/Play_All_Night:_Live_at_the_Beacon_Theatre_1992' } ],
+     'foaf:name': [ { value: 'Play All Night: Live at the Beacon Theatre 1992 (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Live_at_Great_Woods',
+          href: 'http://dbpedia.org/resource/Live_at_Great_Woods' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Play_All_Night:_Live_at_the_Beacon_Theatre_1992',
+          href: 'http://en.wikipedia.org/wiki/Play_All_Night:_Live_at_the_Beacon_Theatre_1992' } ] } }

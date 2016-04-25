@@ -1,0 +1,8 @@
+{ name: 'Works for Me',
+  href: 'http://en.wikipedia.org/wiki/Works_for_Me',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1127,
+       quote: [ 'Miles Davis' ] } ] }

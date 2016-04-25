@@ -1,0 +1,8 @@
+{ name: 'Herb Geller',
+  href: 'http://en.wikipedia.org/wiki/Herb_Geller',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2103,
+       quote: [ 'Lorraine worked as the house pianist at the Lighthouse Jazz Club, and played with Miles Davis, Dizzy Gillespie, Charlie Parker, Stan Getz, Zoot Sims, Jack Teagarden, Bill Holman and was the accompanist for the singer Kay Starr.' ] } ] }

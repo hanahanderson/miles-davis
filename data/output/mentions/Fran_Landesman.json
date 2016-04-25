@@ -1,0 +1,18 @@
+{ name: 'Fran Landesman',
+  href: 'http://en.wikipedia.org/wiki/Fran_Landesman',
+  mentions: 
+   [ { sectionHeader: 'Early life and education',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1019,
+       quote: [ 'They had two sons, Cosmo, who became a journalist, and Miles Davis Landesman, who became a musician and performance artist.' ] },
+     { sectionHeader: 'Professional career',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2770,
+       quote: [ 'The Landesman/Dorough song "Nothing Like You" was recorded by Miles Davis and included on his 1967 album Sorcerer.' ] },
+     { sectionHeader: 'Professional career',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2770,
+       quote: [] } ] }

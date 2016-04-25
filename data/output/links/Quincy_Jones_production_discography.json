@@ -1,0 +1,63 @@
+{ name: 'Quincy Jones production discography',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Quincy_Jones_production_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'Quincy Jones is an American record producer, musical arranger, film composer, impresario, conductor, and trumpeter. Jones has charted 6 singles and 6 albums in the Top 40 and won 4 Platinum Awards and 7 Gold Awards only in the United States. Jones is one of only a handful of producers to have number one records in three consecutive decades (1960s, 70s and 80s). (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Quincy_Jones',
+          href: 'http://dbpedia.org/resource/Quincy_Jones' } ],
+     'dbo:wikiPageID': [ { value: '17372209 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681824531 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Quincy_Jones',
+          href: 'http://dbpedia.org/resource/Quincy_Jones' } ],
+     'dbp:compilation': [ { value: '4 (xsd:integer)' } ],
+     'dbp:live': [ { value: '3 (xsd:integer)' } ],
+     'dbp:soundtrack': [ { value: '24 (xsd:integer)' } ],
+     'dbp:studio': [ { value: '16 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' },
+        { value: 'dbc:Pop_music_discographies',
+          href: 'http://dbpedia.org/resource/Category:Pop_music_discographies' },
+        { value: 'dbc:Quincy_Jones',
+          href: 'http://dbpedia.org/resource/Category:Quincy_Jones' },
+        { value: 'dbc:Production_discographies',
+          href: 'http://dbpedia.org/resource/Category:Production_discographies' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:ArtistDiscography',
+          href: 'http://dbpedia.org/ontology/ArtistDiscography' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: 'Quincy Jones is an American record producer, musical arranger, film composer, impresario, conductor, and trumpeter. Jones has charted 6 singles and 6 albums in the Top 40 and won 4 Platinum Awards and 7 Gold Awards only in the United States. Jones is one of only a handful of producers to have number one records in three consecutive decades (1960s, 70s and 80s). (en)' } ],
+     'rdfs:label': [ { value: 'Quincy Jones production discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-it:Quincy Jones production discography',
+          href: 'http://it.dbpedia.org/resource/Discografia_di_Quincy_Jones' },
+        { value: 'dbpedia-wikidata:Quincy Jones production discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q4162265' },
+        { value: 'wikidata:Quincy Jones production discography',
+          href: 'http://www.wikidata.org/entity/Q4162265' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Quincy_Jones_production_discography?oldid=681824531',
+          href: 'http://en.wikipedia.org/wiki/Quincy_Jones_production_discography?oldid=681824531' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Quincy_Jones_production_discography',
+          href: 'http://en.wikipedia.org/wiki/Quincy_Jones_production_discography' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Quincy_Jones_discography',
+          href: 'http://dbpedia.org/resource/Quincy_Jones_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Quincy_Jones_production_discography',
+          href: 'http://en.wikipedia.org/wiki/Quincy_Jones_production_discography' } ] } }

@@ -1,0 +1,13 @@
+{ name: '1920s in jazz',
+  href: 'http://en.wikipedia.org/wiki/1920s_in_jazz',
+  mentions: 
+   [ { sectionHeader: '1925',
+       sectionSubHeader: '',
+       sectionIndex: 36,
+       wordCountBeforeSection: 9462,
+       quote: [ 'Several later jazz tunes have been based on the song\'s chord progression, such as Jackie McLean\'s "Donna", Miles Davis\'s "Dig" and Thelonious Monk\'s "Bright Missssippi".' ] },
+     { sectionHeader: '1926',
+       sectionSubHeader: '',
+       sectionIndex: 41,
+       wordCountBeforeSection: 12182,
+       quote: [ 'Among jazz performers, the tune only gained popularity after its inclusion on the soundtrack of the 1955 film Pete Kelly\'s Blues and on Miles Davis\'s 1957 album \'Round About Midnight.' ] } ] }

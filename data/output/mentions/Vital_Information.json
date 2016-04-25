@@ -1,0 +1,8 @@
+{ name: 'Vital Information',
+  href: 'http://en.wikipedia.org/wiki/Vital_Information',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 958,
+       quote: [ 'In September 1983 the band toured the USA with the Dutch guitarist Eef Albers replacing Mike Stern, who was on the road with both Miles Davis and Jaco Pastorius.' ] } ] }

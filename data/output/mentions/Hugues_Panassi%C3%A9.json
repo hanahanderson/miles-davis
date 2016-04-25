@@ -1,0 +1,13 @@
+{ name: 'Hugues Panassié',
+  href: 'http://en.wikipedia.org/wiki/Hugues_Panassi%C3%A9',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2839,
+       quote: [] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3262,
+       quote: [ 'In 1974, he accused Miles Davis, Archie Shepp, Pharoah Sanders, and other progressives as being "traitors to the cause of true black music," that, according to Panassié, they claimed to support.' ] } ] }

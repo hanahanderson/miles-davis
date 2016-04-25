@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Main Page history/2012 August 17',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Main_Page_history/2012_August_17',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '1959 – Kind of Blue by Miles Davis, one of the best selling and most critically acclaimed jazz recordings of all time, was released.' ] } ] }

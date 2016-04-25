@@ -1,0 +1,8 @@
+{ name: 'The Woman I Am',
+  href: 'http://en.wikipedia.org/wiki/The_Woman_I_Am',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 658,
+       quote: [ 'The entire album was dedicated to her friend Miles Davis, who died the previous year.' ] } ] }

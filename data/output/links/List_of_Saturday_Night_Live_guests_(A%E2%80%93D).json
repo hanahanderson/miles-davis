@@ -1,0 +1,34 @@
+{ name: 'List of Saturday Night Live guests (A–D)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Saturday_Night_Live_guests_(A%E2%80%93D)',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a list of people who have been guests on Saturday Night Live. This section consists of people whose surnames start with the letters A to D.The list is split into three sections: Host, if they hosted the show at any given time, Musical Guest, if a person was the musical guest on the show at any given time and a Cameo, which refers to someone who has appeared on the show but not in the capacity as host or musical guest. (en)' } ],
+     'dbo:wikiPageID': [ { value: '28691368 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '655248880 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Saturday_Night_Live_lists',
+          href: 'http://dbpedia.org/resource/Category:Saturday_Night_Live_lists' } ],
+     'rdfs:comment': [ { value: 'The following is a list of people who have been guests on Saturday Night Live. This section consists of people whose surnames start with the letters A to D.The list is split into three sections: Host, if they hosted the show at any given time, Musical Guest, if a person was the musical guest on the show at any given time and a Cameo, which refers to someone who has appeared on the show but not in the capacity as host or musical guest. (en)' } ],
+     'rdfs:label': [ { value: 'List of Saturday Night Live guests (A–D) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Saturday Night Live guests (A–D)',
+          href: 'http://wikidata.dbpedia.org/resource/Q16994599' },
+        { value: 'wikidata:List of Saturday Night Live guests (A–D)',
+          href: 'http://www.wikidata.org/entity/Q16994599' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Saturday_Night_Live_guests_(A–D)?oldid=655248880',
+          href: 'http://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_guests_(A–D)?oldid=655248880' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Saturday_Night_Live_guests_(A–D)',
+          href: 'http://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_guests_(A–D)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Saturday_Night_Live_guests_section_A_-_D',
+          href: 'http://dbpedia.org/resource/List_of_Saturday_Night_Live_guests_section_A_-_D' },
+        { value: 'dbr:List_of_Saturday_Night_Live_guests_section_A_–_D',
+          href: 'http://dbpedia.org/resource/List_of_Saturday_Night_Live_guests_section_A_–_D' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:List of Saturday Night Live guests (A–D)',
+          href: 'http://dbpedia.org/resource/List_of_Saturday_Night_Live_guests_(A%E2%80%93D)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Saturday_Night_Live_guests_(A–D)',
+          href: 'http://en.wikipedia.org/wiki/List_of_Saturday_Night_Live_guests_(A–D)' } ] } }

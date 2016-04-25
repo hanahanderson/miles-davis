@@ -1,0 +1,8 @@
+{ name: 'Bob Satterfield',
+  href: 'http://en.wikipedia.org/wiki/Bob_Satterfield',
+  mentions: 
+   [ { sectionHeader: 'Trivia',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2139,
+       quote: [ 'It has been reported that he was friends with musician Miles Davis and introduced Muhammad Ali to his first wife.' ] } ] }

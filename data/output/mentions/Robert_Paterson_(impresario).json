@@ -1,0 +1,8 @@
+{ name: 'Robert Paterson (impresario)',
+  href: 'http://en.wikipedia.org/wiki/Robert_Paterson_(impresario)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3614,
+       quote: [ 'Next night the Miles Davis Septet and the closing night The Giants of Jazz featuring Dizzy Gillespie, Thelonious Monk, Sonny Stitt, Art Blakey, Kai Winding and Al McKibbon.' ] } ] }

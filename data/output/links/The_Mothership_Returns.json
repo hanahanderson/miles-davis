@@ -1,0 +1,98 @@
+{ name: 'The Mothership Returns',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Mothership_Returns',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '112.5' } ],
+     'dbo:abstract': [ { value: 'The Mothership Returns is a two CD set and one DVD by the fusion band Return to Forever. Released 18 June 2012 by Eagle Rock Entertainment, the double CD set documents the music performed during the 2011 tour. Return To Forever was expanded for this tour to quintet and featured keyboardist Chick Corea, bassist Stanley Clarke, drummer Lenny White, guitarist Frank Gambale and violinist Jean-Luc Ponty. The album peaked #6 in the 2012 and 2013 Jazz Album charts. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Return_to_Forever',
+          href: 'http://dbpedia.org/resource/Return_to_Forever' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Returns_(album)',
+          href: 'http://dbpedia.org/resource/Returns_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' },
+        { value: 'dbr:Stanley_Clarke',
+          href: 'http://dbpedia.org/resource/Stanley_Clarke' },
+        { value: 'dbr:Lenny_White',
+          href: 'http://dbpedia.org/resource/Lenny_White' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Eagle_Records',
+          href: 'http://dbpedia.org/resource/Eagle_Records' } ],
+     'dbo:releaseDate': [ { value: '2012-06-18 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '6750.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '40782536 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '639975584 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Return_to_Forever',
+          href: 'http://dbpedia.org/resource/Return_to_Forever' } ],
+     'dbp:cover': [ { value: 'RTF_The_Mothership_Returns.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Eagle_Records',
+          href: 'http://dbpedia.org/resource/Eagle_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Return to Forever – Returns (en)' } ],
+     'dbp:name': [ { value: 'The Mothership Returns (en)' } ],
+     'dbp:producer': [ { value: 'Tim Cavanaugh, Stanley Clarke, Chick Corea, Geoff Kempin, Adam Mason, Bill Rooney, Terry Shand, Lenny White (en)' } ],
+     'dbp:recorded': [ { value: '2011 (xsd:integer)' } ],
+     'dbp:released': [ { value: '2012-06-18 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'The Mothership Returns (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Return_to_Forever_albums',
+          href: 'http://dbpedia.org/resource/Category:Return_to_Forever_albums' },
+        { value: 'dbc:Live_jazz_fusion_albums',
+          href: 'http://dbpedia.org/resource/Category:Live_jazz_fusion_albums' },
+        { value: 'dbc:2012_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2012_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Mothership Returns is a two CD set and one DVD by the fusion band Return to Forever. Released 18 June 2012 by Eagle Rock Entertainment, the double CD set documents the music performed during the 2011 tour. Return To Forever was expanded for this tour to quintet and featured keyboardist Chick Corea, bassist Stanley Clarke, drummer Lenny White, guitarist Frank Gambale and violinist Jean-Luc Ponty. The album peaked #6 in the 2012 and 2013 Jazz Album charts. (en)' } ],
+     'rdfs:label': [ { value: 'The Mothership Returns (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Mothership Returns',
+          href: 'http://rdf.freebase.com/ns/m.0q8f7zj' },
+        { value: 'dbpedia-wikidata:The Mothership Returns',
+          href: 'http://wikidata.dbpedia.org/resource/Q17066355' },
+        { value: 'wikidata:The Mothership Returns',
+          href: 'http://www.wikidata.org/entity/Q17066355' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Mothership_Returns?oldid=639975584',
+          href: 'http://en.wikipedia.org/wiki/The_Mothership_Returns?oldid=639975584' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Mothership_Returns',
+          href: 'http://en.wikipedia.org/wiki/The_Mothership_Returns' } ],
+     'foaf:name': [ { value: 'The Mothership Returns (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Returns_(album)',
+          href: 'http://dbpedia.org/resource/Returns_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Mothership_Returns',
+          href: 'http://en.wikipedia.org/wiki/The_Mothership_Returns' } ] } }

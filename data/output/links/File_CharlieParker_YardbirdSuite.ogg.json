@@ -1,0 +1,9 @@
+{ name: 'File:CharlieParker YardbirdSuite.ogg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:CharlieParker_YardbirdSuite.ogg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '2768083 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '516263160 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:CharlieParker_YardbirdSuite.ogg?oldid=516263160',
+          href: 'http://en.wikipedia.org/wiki/File:CharlieParker_YardbirdSuite.ogg?oldid=516263160' } ] } }

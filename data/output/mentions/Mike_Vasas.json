@@ -1,0 +1,8 @@
+{ name: 'Mike Vasas',
+  href: 'http://en.wikipedia.org/wiki/Mike_Vasas',
+  mentions: 
+   [ { sectionHeader: 'The Early Minor Quintet',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 5328,
+       quote: [ 'Named after sessions from Miles Davis’s In a Silent Way, the group\'s Myspace page describes them as;' ] } ] }

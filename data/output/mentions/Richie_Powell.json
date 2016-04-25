@@ -1,0 +1,8 @@
+{ name: 'Richie Powell',
+  href: 'http://en.wikipedia.org/wiki/Richie_Powell',
+  mentions: 
+   [ { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 4624,
+       quote: [ 'The third of his originals, "Powell\'s Prances", was "a modal composition, with Brown and Rollins improvising on the scale rather than on the usual chord changes", a form popularized three years later by Miles Davis.' ] } ] }

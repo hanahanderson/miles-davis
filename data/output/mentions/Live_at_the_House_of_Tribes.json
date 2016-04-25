@@ -1,0 +1,8 @@
+{ name: 'Live at the House of Tribes',
+  href: 'http://en.wikipedia.org/wiki/Live_at_the_House_of_Tribes',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1251,
+       quote: [] } ] }

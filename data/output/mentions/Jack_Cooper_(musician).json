@@ -1,0 +1,8 @@
+{ name: 'Jack Cooper (musician)',
+  href: 'http://en.wikipedia.org/wiki/Jack_Cooper_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Professional career',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 9109,
+       quote: [ 'Michael Bailey notes about the Time Within Itself recording, "...Cooper is a star here in the same way that arrangers were in 1949 on Miles Davis\' Birth of the Cool Recordings.' ] } ] }

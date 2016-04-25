@@ -1,0 +1,8 @@
+{ name: 'Shooby Taylor',
+  href: 'http://en.wikipedia.org/wiki/Shooby_Taylor',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2563,
+       quote: [ 'Ink Spots / Miles Davis / Mozart' ] } ] }

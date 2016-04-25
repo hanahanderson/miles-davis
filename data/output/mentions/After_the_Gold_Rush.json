@@ -1,0 +1,8 @@
+{ name: 'After the Gold Rush',
+  href: 'http://en.wikipedia.org/wiki/After_the_Gold_Rush',
+  mentions: 
+   [ { sectionHeader: 'Production',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1733,
+       quote: [ 'Initial sessions were conducted with backing band Crazy Horse at Sunset Sound Studios in Los Angeles amid a short winter 1970 tour that included a well-received engagement with Steve Miller and Miles Davis at the Fillmore East.' ] } ] }

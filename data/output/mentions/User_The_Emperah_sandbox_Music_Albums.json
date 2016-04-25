@@ -1,0 +1,8 @@
+{ name: 'User:The Emperah/sandbox/Music/Albums',
+  href: 'http://en.wikipedia.org/wiki/User:The_Emperah/sandbox/Music/Albums',
+  mentions: 
+   [ { sectionHeader: 'Listened albums',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 31,
+       quote: [ 'Miles Davis' ] } ] }

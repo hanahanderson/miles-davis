@@ -1,0 +1,8 @@
+{ name: 'Laurie Brown (broadcaster)',
+  href: 'http://en.wikipedia.org/wiki/Laurie_Brown_(broadcaster)',
+  mentions: 
+   [ { sectionHeader: 'Broadcasting',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 800,
+       quote: [ 'She interviewed numerous musicians for this show, including jazz performer Miles Davis in 1988.' ] } ] }

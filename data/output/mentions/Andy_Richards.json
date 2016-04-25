@@ -1,0 +1,8 @@
+{ name: 'Andy Richards',
+  href: 'http://en.wikipedia.org/wiki/Andy_Richards',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 8954,
+       quote: [ 'He is currently working on his solo album as well as pursuing a film project entitled Quiet Fire, based on the iconic Miles Davis album Kind of Blue which was recorded in 1959 at Columbia Studios in New York.' ] } ] }

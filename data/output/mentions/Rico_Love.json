@@ -1,0 +1,8 @@
+{ name: 'Rico Love',
+  href: 'http://en.wikipedia.org/wiki/Rico_Love',
+  mentions: 
+   [ { sectionHeader: 'Musical influences/Techniques',
+       sectionSubHeader: 'Division 1',
+       sectionIndex: 19,
+       wordCountBeforeSection: 10406,
+       quote: [ 'Kelly, Queen, Smokey Robinson, Elton John, and Miles Davis.' ] } ] }

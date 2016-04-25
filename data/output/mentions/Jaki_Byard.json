@@ -1,0 +1,8 @@
+{ name: 'Jaki Byard',
+  href: 'http://en.wikipedia.org/wiki/Jaki_Byard',
+  mentions: 
+   [ { sectionHeader: 'Career as musician',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 5664,
+       quote: [ 'Some of these albums included Richard Davis on bass and Alan Dawson on drums, a trio combination described by critic Gary Giddins as "the most commanding rhythm section of the \'60s, excepting the Hancock-Carter-Williams trio in Miles Davis\'s band", although it existed only for recordings.' ] } ] }

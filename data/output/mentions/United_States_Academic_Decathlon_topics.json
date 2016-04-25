@@ -1,0 +1,8 @@
+{ name: 'United States Academic Decathlon topics',
+  href: 'http://en.wikipedia.org/wiki/United_States_Academic_Decathlon_topics',
+  mentions: 
+   [ { sectionHeader: 'Topics used',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 6929,
+       quote: [ '"My Funny Valentine" by Miles Davis' ] } ] }

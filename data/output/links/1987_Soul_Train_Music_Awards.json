@@ -1,0 +1,55 @@
+{ name: '1987 Soul Train Music Awards',
+  entityType: 'award',
+  href: 'http://dbpedia.org/page/1987_Soul_Train_Music_Awards',
+  values: 
+   { 'dbo:abstract': [ { value: 'The 1987 Soul Train Music Awards aired live on March 23, 1987 (and was later syndicated in other areas), honoring the best in R&B, soul, rap, jazz, and gospel music from the previous year. The show was held at the Santa Monica Civic Auditorium in Los Angeles, California and was hosted by Luther Vandross and Dionne Warwick. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://awardsandwinners.com/category/soul-train-music-awards/1987/',
+          href: 'http://awardsandwinners.com/category/soul-train-music-awards/1987/' } ],
+     'dbo:wikiPageID': [ { value: '27982434 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683052336 (xsd:integer)' } ],
+     'dbp:date': [ { value: '1987-03-23 (xsd:date)' } ],
+     'dbp:host': 
+      [ { value: 'dbr:Luther_Vandross',
+          href: 'http://dbpedia.org/resource/Luther_Vandross' },
+        { value: 'dbr:Dionne_Warwick',
+          href: 'http://dbpedia.org/resource/Dionne_Warwick' } ],
+     'dbp:location': 
+      [ { value: 'dbr:Santa_Monica_Civic_Auditorium',
+          href: 'http://dbpedia.org/resource/Santa_Monica_Civic_Auditorium' } ],
+     'dbp:main': [ { value: 'Soul Train Awards (en)' } ],
+     'dbp:name': [ { value: '1987 (xsd:integer)' } ],
+     'dbp:network': 
+      [ { value: 'dbr:WGN_America',
+          href: 'http://dbpedia.org/resource/WGN_America' } ],
+     'dbp:next': [ { value: '2 (xsd:integer)' } ],
+     'dbp:runtime': [ { value: '10800.0' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Soul_Train_Music_Awards',
+          href: 'http://dbpedia.org/resource/Category:Soul_Train_Music_Awards' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q618779',
+          href: 'http://www.wikidata.org/entity/Q618779' },
+        { value: 'dbo:Award',
+          href: 'http://dbpedia.org/ontology/Award' } ],
+     'rdfs:comment': [ { value: 'The 1987 Soul Train Music Awards aired live on March 23, 1987 (and was later syndicated in other areas), honoring the best in R&B, soul, rap, jazz, and gospel music from the previous year. The show was held at the Santa Monica Civic Auditorium in Los Angeles, California and was hosted by Luther Vandross and Dionne Warwick. (en)' } ],
+     'rdfs:label': [ { value: '1987 Soul Train Music Awards (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1987 Soul Train Music Awards',
+          href: 'http://wikidata.dbpedia.org/resource/Q4583898' },
+        { value: 'freebase:1987 Soul Train Music Awards',
+          href: 'http://rdf.freebase.com/ns/m.0ch3g42' },
+        { value: 'wikidata:1987 Soul Train Music Awards',
+          href: 'http://www.wikidata.org/entity/Q4583898' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1987_Soul_Train_Music_Awards?oldid=683052336',
+          href: 'http://en.wikipedia.org/wiki/1987_Soul_Train_Music_Awards?oldid=683052336' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1987_Soul_Train_Music_Awards',
+          href: 'http://en.wikipedia.org/wiki/1987_Soul_Train_Music_Awards' } ],
+     'foaf:name': [ { value: '1987 Soul Train Music Awards (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1987_Soul_Train_Music_Awards',
+          href: 'http://en.wikipedia.org/wiki/1987_Soul_Train_Music_Awards' } ] } }

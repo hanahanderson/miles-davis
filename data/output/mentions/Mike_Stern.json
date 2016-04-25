@@ -1,0 +1,18 @@
+{ name: 'Mike Stern',
+  href: 'http://en.wikipedia.org/wiki/Mike_Stern',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Mike Stern Group, Brecker Brothers, Miles Davis, Blood, Sweat & Tears, Richard Bona' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 551,
+       quote: [ 'After playing for a few years with Blood, Sweat & Tears, he landed a gig with drummer Billy Cobham and then broke through with trumpeter Miles Davis\' band from 1981 to 1983, and again in 1985.' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2247,
+       quote: [ 'Two years later he joined Miles Davis group, making his public debut on June 27, 1981, at the KIX nightclub in Boston, a performance documented on the CBS live album We Want Miles.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Grace Potter',
+  href: 'http://en.wikipedia.org/wiki/Grace_Potter',
+  mentions: 
+   [ { sectionHeader: 'Solo Career',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3915,
+       quote: [ 'Potter cites an eclectic array of musical influences for Midnight\'s unique sound, including Miles Davis, Bob Dylan, The Beatles, David Bowie, Blondie and Beck.' ] } ] }

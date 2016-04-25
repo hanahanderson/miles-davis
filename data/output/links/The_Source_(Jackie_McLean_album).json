@@ -1,0 +1,103 @@
+{ name: 'The Source (Jackie McLean album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Source_(Jackie_McLean_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '70.41666666666667' } ],
+     'dbo:abstract': [ { value: 'The Source is a live album by American saxophonist Jackie McLean featuring Dexter Gordon recorded at the Jazzhus Montmartre in 1973 and released on the SteepleChase label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Jackie_McLean',
+          href: 'http://dbpedia.org/resource/Jackie_McLean' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Meeting_(Jackie_McLean_album)',
+          href: 'http://dbpedia.org/resource/The_Meeting_(Jackie_McLean_album)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:SteepleChase_Records',
+          href: 'http://dbpedia.org/resource/SteepleChase_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Jazzhus_Montmartre',
+          href: 'http://dbpedia.org/resource/Jazzhus_Montmartre' } ],
+     'dbo:runtime': [ { value: '4225.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Antiquity_(album)',
+          href: 'http://dbpedia.org/resource/Antiquity_(album)' } ],
+     'dbo:wikiPageID': [ { value: '45659564 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664265567 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Jackie McLean featuring Dexter Gordon (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Jackie_McLean',
+          href: 'http://dbpedia.org/resource/Jackie_McLean' } ],
+     'dbp:cover': [ { value: 'The Source .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:SteepleChase_Records',
+          href: 'http://dbpedia.org/resource/SteepleChase_Records' },
+        { value: 'SCS-1020 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'The Meeting (en)' } ],
+     'dbp:length': [ { value: '4225.0' } ],
+     'dbp:name': [ { value: 'The Source (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Antiquity (en)' } ],
+     'dbp:producer': [ { value: 'Nils Winther (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--07-20' },
+        { value: 'Jazzhus Montmartre in Copenhagen, Denmark (en)' } ],
+     'dbp:released': [ { value: '1974 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Source (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1974_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1974_live_albums' },
+        { value: 'dbc:Jackie_McLean_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Jackie_McLean_live_albums' },
+        { value: 'dbc:SteepleChase_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:SteepleChase_Records_live_albums' },
+        { value: 'dbc:Dexter_Gordon_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Dexter_Gordon_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Source is a live album by American saxophonist Jackie McLean featuring Dexter Gordon recorded at the Jazzhus Montmartre in 1973 and released on the SteepleChase label. (en)' } ],
+     'rdfs:label': [ { value: 'The Source (Jackie McLean album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Source (Jackie McLean album)',
+          href: 'http://rdf.freebase.com/ns/m.012_07zn' },
+        { value: 'wikidata:The Source (Jackie McLean album)',
+          href: 'http://www.wikidata.org/entity/Q19896102' },
+        { value: 'dbpedia-wikidata:The Source (Jackie McLean album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q19896102' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Source_(Jackie_McLean_album)?oldid=664265567',
+          href: 'http://en.wikipedia.org/wiki/The_Source_(Jackie_McLean_album)?oldid=664265567' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Source_(Jackie_McLean_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Source_(Jackie_McLean_album)' } ],
+     'foaf:name': [ { value: 'The Source (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Apartment_(album)',
+          href: 'http://dbpedia.org/resource/The_Apartment_(album)' },
+        { value: 'dbr:Antiquity_(album)',
+          href: 'http://dbpedia.org/resource/Antiquity_(album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Meeting_(Jackie_McLean_album)',
+          href: 'http://dbpedia.org/resource/The_Meeting_(Jackie_McLean_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Source_(Jackie_McLean_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Source_(Jackie_McLean_album)' } ] } }

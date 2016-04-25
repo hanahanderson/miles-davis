@@ -1,0 +1,8 @@
+{ name: 'Mat Walerian',
+  href: 'http://en.wikipedia.org/wiki/Mat_Walerian',
+  mentions: 
+   [ { sectionHeader: 'Partnerships',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 10884,
+       quote: [ '"The examples that come to my mind, and this is not an exaggeration in any sense, are : John Coltrane\'s "The Complete 1961 Village Vanguard Recordings", or Miles Davis\' "The Complete Live at the Plugged Nickel 1965".' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Talk:Twelve-tone technique',
+  href: 'http://en.wikipedia.org/wiki/Talk:Twelve-tone_technique',
+  mentions: 
+   [ { sectionHeader: 'Removed: Uncited',
+       sectionSubHeader: '',
+       sectionIndex: 113,
+       wordCountBeforeSection: 30295,
+       quote: [ 'In 1971 jazz pianist Bill Evans – who played on the landmark modal jazz album Kind Of Blue by Miles Davis – recorded a Grammy Award-winning album called The Bill Evans Album, which included a composition called "T.T.T. (Twelve Tone Tune)" where his trio explored the jazz implications of using the twelve-tone compositional technique.{{Citation needed|date=September 2010}}' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'User talk:76.14.4.30',
+  href: 'http://en.wikipedia.org/wiki/User_talk:76.14.4.30',
+  mentions: 
+   [ { sectionHeader: 'August 2009',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 425,
+       quote: [] },
+     { sectionHeader: 'August 2009',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 425,
+       quote: [ 'The recent edit you made to the page Miles Davis has been reverted, as it appears to be unconstructive.' ] } ] }

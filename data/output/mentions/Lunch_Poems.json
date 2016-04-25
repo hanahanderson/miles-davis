@@ -1,0 +1,8 @@
+{ name: 'Lunch Poems',
+  href: 'http://en.wikipedia.org/wiki/Lunch_Poems',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 2221,
+       quote: [ '“Personal Poem” begins, “Now when I walk around at lunchtime/I have only two charms in my pocket.” It is about O’Hara’s conversation with LeRoi Jones about Miles Davis, Lionel Trilling, Henry James, and Herman Melville.' ] } ] }

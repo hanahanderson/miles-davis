@@ -1,0 +1,8 @@
+{ name: 'Larry Vuckovich',
+  href: 'http://en.wikipedia.org/wiki/Larry_Vuckovich',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 619,
+       quote: [ 'In San Francisco, Vuckovich visited local jazzclubs where he listened to jazz greats such as Miles Davis, Dizzy Gillespie and John Coltrane, but also started to play in jam sessions with musicians from the local jazz scene such as John Handy and Cal Tjader.' ] } ] }

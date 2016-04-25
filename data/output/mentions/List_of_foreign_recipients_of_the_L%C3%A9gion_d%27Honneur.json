@@ -1,0 +1,8 @@
+{ name: 'List of foreign recipients of the Légion d\'Honneur',
+  href: 'http://en.wikipedia.org/wiki/List_of_foreign_recipients_of_the_L%C3%A9gion_d%27Honneur',
+  mentions: 
+   [ { sectionHeader: 'United States',
+       sectionSubHeader: '',
+       sectionIndex: 202,
+       wordCountBeforeSection: 79512,
+       quote: [ 'Miles Davis Jazz musician' ] } ] }

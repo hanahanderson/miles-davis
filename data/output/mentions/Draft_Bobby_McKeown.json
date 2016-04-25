@@ -1,0 +1,8 @@
+{ name: 'Draft:Bobby McKeown',
+  href: 'http://en.wikipedia.org/wiki/Draft:Bobby_McKeown',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4017,
+       quote: [ 'In addition to studying music for a time in college, he has also studied under Bernard Purdie (James Brown / Aretha Franklin / Miles Davis / BB King / Steeley Dan), Tony DeNicola (Harry James), Joe Cusatis (Peter Nero), and Chester Thompson (Genesis).' ] } ] }

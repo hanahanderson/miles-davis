@@ -1,0 +1,8 @@
+{ name: 'Albert Stinson',
+  href: 'http://en.wikipedia.org/wiki/Albert_Stinson',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 99,
+       quote: [ 'Later in the decade he worked with Larry Coryell, John Handy (1967), Miles Davis, Bobby Hutcherson (1967), and Gerald Wilson\'s LA-based big band.' ] } ] }

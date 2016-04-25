@@ -1,0 +1,13 @@
+{ name: 'Gunther Schuller',
+  href: 'http://en.wikipedia.org/wiki/Gunther_Schuller',
+  mentions: 
+   [ { sectionHeader: 'Biography and works',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 854,
+       quote: [ 'He began his career in jazz by recording as a horn player with Miles Davis (1949–50).' ] },
+     { sectionHeader: 'Partial discography',
+       sectionSubHeader: '',
+       sectionIndex: 55,
+       wordCountBeforeSection: 8672,
+       quote: [ 'With Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'David Rothenberg',
+  href: 'http://en.wikipedia.org/wiki/David_Rothenberg',
+  mentions: 
+   [ { sectionHeader: 'Life and work',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 943,
+       quote: [ 'Listening to the recorded song of a hermit thrush, he heard structure that reminded him of a Miles Davis solo.' ] } ] }

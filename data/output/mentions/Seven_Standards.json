@@ -1,0 +1,8 @@
+{ name: 'Seven Standards',
+  href: 'http://en.wikipedia.org/wiki/Seven_Standards',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1136,
+       quote: [ '(Miles Davis)' ] } ] }

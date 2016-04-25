@@ -1,0 +1,8 @@
+{ name: 'Jazz Door',
+  href: 'http://en.wikipedia.org/wiki/Jazz_Door',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Jazz Door was a record label that released live and studio recordings from prominent names in jazz, including Miles Davis and Joe Henderson.' ] } ] }

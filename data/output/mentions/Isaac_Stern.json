@@ -1,0 +1,8 @@
+{ name: 'Isaac Stern',
+  href: 'http://en.wikipedia.org/wiki/Isaac_Stern',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 86,
+       wordCountBeforeSection: 14847,
+       quote: [ 'Miles Davis (1984)' ] } ] }

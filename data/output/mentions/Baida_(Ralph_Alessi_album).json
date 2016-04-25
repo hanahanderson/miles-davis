@@ -1,0 +1,8 @@
+{ name: 'Baida (Ralph Alessi album)',
+  href: 'http://en.wikipedia.org/wiki/Baida_(Ralph_Alessi_album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 514,
+       quote: [ 'The Guardian\'s John Fordham noted "occasionally the whole set sounds eerily like the mid-60s Miles Davis quintet reinvented as a shyly slinky, contemporary-cool-jazz tribute".' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Café Society',
+  href: 'http://en.wikipedia.org/wiki/Caf%C3%A9_Society',
+  mentions: 
+   [ { sectionHeader: 'Notable performers',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3513,
+       quote: [ 'Miles Davis' ] } ] }

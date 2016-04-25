@@ -1,0 +1,8 @@
+{ name: 'Chris Botti',
+  href: 'http://en.wikipedia.org/wiki/Chris_Botti',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1279,
+       quote: [ 'He started playing the trumpet at nine-years-old, and committed to the instrument at age 12 when he heard Miles Davis play "My Funny Valentine".' ] } ] }

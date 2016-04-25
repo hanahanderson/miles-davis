@@ -1,0 +1,8 @@
+{ name: 'Johnny Echols',
+  href: 'http://en.wikipedia.org/wiki/Johnny_Echols',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 822,
+       quote: [ 'He has played in bands with performers such as Little Richard, Billy Preston and Jimi Hendrix, and was the guitarist on many recording sessions with Miles Davis.' ] } ] }

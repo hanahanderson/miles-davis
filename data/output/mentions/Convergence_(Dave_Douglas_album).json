@@ -1,0 +1,8 @@
+{ name: 'Convergence (Dave Douglas album)',
+  href: 'http://en.wikipedia.org/wiki/Convergence_(Dave_Douglas_album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 684,
+       quote: [ 'The Allmusic review by Alex Henderson awarded the album 4½ stars stating "You can hear a variety of influences in Douglas\' playing -- everyone from Lester Bowie and Don Cherry to Miles Davis and Booker Little -- but Convergence leaves no doubt that he is very much an original himself".' ] } ] }

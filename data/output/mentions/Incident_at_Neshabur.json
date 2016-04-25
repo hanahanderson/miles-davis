@@ -1,0 +1,8 @@
+{ name: 'Incident at Neshabur',
+  href: 'http://en.wikipedia.org/wiki/Incident_at_Neshabur',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 808,
+       quote: [ 'Allmusic describes the performance as "strong showing" and, despite negative review of the album, Hooterollin Around writes that "only Santana really Stands out, with "Incident at Neshabur" and a unique version of Miles Davis\'s In a Silent Way.,' ] } ] }

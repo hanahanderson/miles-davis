@@ -1,0 +1,38 @@
+{ name: '1969 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1969_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1969 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/1969_National_Jazz_&_Blues_Festival01.JPG?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/1969_National_Jazz_&_Blues_Festival01.JPG?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25654749 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '652922751 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1970 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'National Jazz & Blues Festival, Plumpton, July 1969 (en)' } ],
+     'dbp:prioryear': [ { value: '1968 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1969_in_music',
+          href: 'http://dbpedia.org/resource/Category:1969_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdfs:comment': [ { value: '1969 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1969 in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1969 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4573764' },
+        { value: 'wikidata:1969 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4573764' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1969_in_jazz?oldid=652922751',
+          href: 'http://en.wikipedia.org/wiki/1969_in_jazz?oldid=652922751' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/1969_National_Jazz_&_Blues_Festival01.JPG',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/1969_National_Jazz_&_Blues_Festival01.JPG' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1969_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1969_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1969_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1969_in_jazz' } ] } }

@@ -1,0 +1,18 @@
+{ name: 'Carlos Garnett',
+  href: 'http://en.wikipedia.org/wiki/Carlos_Garnett',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 979,
+       quote: [ 'In the late 1960s and early 1970 Garnett also played with Art Blakey\'s Jazz Messengers, Charles Mingus and Miles Davis.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 3556,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 3572,
+       quote: [] } ] }

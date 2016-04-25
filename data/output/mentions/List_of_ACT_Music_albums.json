@@ -1,0 +1,8 @@
+{ name: 'List of ACT Music albums',
+  href: 'http://en.wikipedia.org/wiki/List_of_ACT_Music_albums',
+  mentions: 
+   [ { sectionHeader: 'ACT',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 123,
+       quote: [ 'Miles Davis, Gil Evans, Camaron, Al di Meola, Paco de Lucia, Chick Corea' ] } ] }

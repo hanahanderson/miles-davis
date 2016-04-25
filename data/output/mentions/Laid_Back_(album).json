@@ -1,0 +1,8 @@
+{ name: 'Laid Back (album)',
+  href: 'http://en.wikipedia.org/wiki/Laid_Back_(album)',
+  mentions: 
+   [ { sectionHeader: 'Recording and production',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 6133,
+       quote: [ 'The album cover was painted by Abdul Mati Klarwein, best known for creating the artwork to Miles Davis\'s Bitches Brew (1971).' ] } ] }

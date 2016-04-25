@@ -1,0 +1,18 @@
+{ name: 'Causa Sui (band)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Causa_Sui_(band)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Causa Sui is a Danish band composed of members Jakob Skøtt, Jonas Munk, Rasmus Rasmussen and Jess Kahr.  The band has released eight albums since 2005. Their first two albums were heavy-psych akin to American stoner-rock.  More recently the band has produced abstract, instrumental sounds inspired by electric Miles Davis or Can. Causa Sui\'s sound has been described as the sound of a giant wave rolling up through the last four decades of rock. Causa Sui are currently in studio working on a new album. (en)' } ],
+     'dbo:wikiPageID': [ { value: '47770714 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681521601 (xsd:integer)' } ],
+     'rdfs:comment': [ { value: 'Causa Sui is a Danish band composed of members Jakob Skøtt, Jonas Munk, Rasmus Rasmussen and Jess Kahr.  The band has released eight albums since 2005. Their first two albums were heavy-psych akin to American stoner-rock.  More recently the band has produced abstract, instrumental sounds inspired by electric Miles Davis or Can. Causa Sui\'s sound has been described as the sound of a giant wave rolling up through the last four decades of rock. (en)' } ],
+     'rdfs:label': [ { value: 'Causa Sui (band) (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Causa_Sui_(band)?oldid=681521601',
+          href: 'http://en.wikipedia.org/wiki/Causa_Sui_(band)?oldid=681521601' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Causa_Sui_(band)',
+          href: 'http://en.wikipedia.org/wiki/Causa_Sui_(band)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Causa_Sui_(band)',
+          href: 'http://en.wikipedia.org/wiki/Causa_Sui_(band)' } ] } }

@@ -1,0 +1,31 @@
+{ name: 'List of Bill Evans tribute albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Bill_Evans_tribute_albums',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a chronological list of Bill Evans tribute albums. 1980: Seven Steps to Evans by Gordon Beck, Tony Oxley, Kenny Wheeler, Stan Sulzmann, Ron Mathewson 1981: Elegy For Bill Evans by Richie Beirach 1982: Oracle\'s Destiny by Michel Petrucciani 1986: Music of Bill Evans by the Kronos Quartet with Eddie Gómez and Jim Hall. 1987: Dedicated to Bill Evans and Scott LaFaro by Larry Coryell and Miroslav Vitouš 1990: Bill Evans by Paul Motian 1991: Bill Evans: A Tribute by Jimmy Rowles, McCoy Tyner, Herbie Hancock, John Lewis, and Dave McKenna (Palo Alto Records) 1992: Then Along Came Bill: A Tribute to Bill Evans by Sylvia Syms 1993: Time Remembered: John McLaughlin Plays Bill Evans by John McLaughlin 1994: Now & Then: A Tribute to Bill Evans by Mitchel Forman 1994: Your Story: The Music of Bill Evans by Howard Alden 1996: Turn Out The Stars - The Songs Of Bill Evans by Dominic Alldis 1997: Conversations with Bill Evans by Jean-Yves Thibaudet 1998: Evanessence: Tribute to Bill Evans by Fred Hersch 1998: I Remember Bill: A Tribute to Bill Evans by Don Sebesky and Larry Coryell 2000: Conviction: Thoughts Of Bill Evans by Roseanna Vitro 2001: Blue in Green by Tierney Sutton 2002: Homage To Bill Evans And Jim Hall by Luigi Tessarollo with Stefano Bollani 2002: Play Bill Evans by the Danish Radio Jazz Orchestra & Jim McNeely 2003: Bill Evans: Tribute to the Great Post-Bop Pianist by Paul Motian 2006: Paz - Niño Josele and the music of Bill Evans by Niño Josele 2008: Something for you - Eliane Elias Sings and Plays Bill Evans by Eliane Elias 2009: Bill Evans Compositions Vol. 1 & Vol. 2 by Stefano Battaglia 2013: To Bill Evans by Kerem Görsev (en)' } ],
+     'dbo:wikiPageID': [ { value: '36540619 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680334612 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bill_Evans_tribute_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_tribute_albums' },
+        { value: 'dbc:Lists_of_tribute_albums',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_tribute_albums' } ],
+     'rdfs:comment': [ { value: 'This is a chronological list of Bill Evans tribute albums. 1980: Seven Steps to Evans by Gordon Beck, Tony Oxley, Kenny Wheeler, Stan Sulzmann, Ron Mathewson 1981: Elegy For Bill Evans by Richie Beirach 1982: Oracle\'s Destiny by Michel Petrucciani 1986: Music of Bill Evans by the Kronos Quartet with Eddie Gómez and Jim Hall. (en)' } ],
+     'rdfs:label': [ { value: 'List of Bill Evans tribute albums (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Bill Evans tribute albums',
+          href: 'http://wikidata.dbpedia.org/resource/Q4908929' },
+        { value: 'wikidata:List of Bill Evans tribute albums',
+          href: 'http://www.wikidata.org/entity/Q4908929' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Bill_Evans_tribute_albums?oldid=680334612',
+          href: 'http://en.wikipedia.org/wiki/List_of_Bill_Evans_tribute_albums?oldid=680334612' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Bill_Evans_tribute_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_Bill_Evans_tribute_albums' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Bill_Evans_tribute_albums',
+          href: 'http://dbpedia.org/resource/Bill_Evans_tribute_albums' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Bill_Evans_tribute_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_Bill_Evans_tribute_albums' } ] } }

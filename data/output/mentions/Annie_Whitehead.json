@@ -1,0 +1,8 @@
+{ name: 'Annie Whitehead',
+  href: 'http://en.wikipedia.org/wiki/Annie_Whitehead',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 633,
+       quote: [ 'Among her initial influences were Miles Davis, Charles Mingus and Wayne Henderson.' ] } ] }

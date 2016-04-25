@@ -1,0 +1,13 @@
+{ name: 'Portal:Miles Davis/Selected album/2',
+  href: 'http://en.wikipedia.org/wiki/Portal:Miles_Davis/Selected_album/2',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Bitches Brew is a studio double album by jazz musician Miles Davis, released in April 1970 on Columbia Records.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] } ] }

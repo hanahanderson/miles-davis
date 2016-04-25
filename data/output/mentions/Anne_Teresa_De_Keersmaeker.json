@@ -1,0 +1,8 @@
+{ name: 'Anne Teresa De Keersmaeker',
+  href: 'http://en.wikipedia.org/wiki/Anne_Teresa_De_Keersmaeker',
+  mentions: 
+   [ { sectionHeader: 'Choreography',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 8840,
+       quote: [ 'Bitches Brew / Tacoma Narrows (2003), to Miles Davis\' eponymous album' ] } ] }

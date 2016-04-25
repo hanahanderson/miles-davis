@@ -1,0 +1,8 @@
+{ name: 'Tenderloin, San Francisco',
+  href: 'http://en.wikipedia.org/wiki/Tenderloin,_San_Francisco',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 5139,
+       quote: [ 'The most famous jazz club was the Black Hawk at Hyde and Turk Streets where Dave Brubeck, Miles Davis, Thelonious Monk, Gerry Mulligan, and other jazz greats recorded live albums for Fantasy Records in the late 1950s and early 1960s.' ] } ] }

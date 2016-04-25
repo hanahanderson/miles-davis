@@ -1,0 +1,75 @@
+{ name: 'The Stuart Hall Project',
+  entityType: 'Q11424',
+  href: 'http://dbpedia.org/page/The_Stuart_Hall_Project',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '96.0' } ],
+     'dbo:abstract': [ { value: 'The Stuart Hall Project is a 2013 British film written and directed by John Akomfrah centred on cultural theorist Stuart Hall, who is regarded as one of the founding figures of the New Left and a key architect of Cultural Studies in Britain. The film uses a montage of documentary footage together with Hall\'s own words and thoughts to produce what Peter Bradshaw of The Guardian called "an absorbing account", awarding it four stars and stating that it has "an idealism and high seriousness that people might not immediately associate with the subject Hall pioneered". Sight & Sound magazine\'s Ashley Clark described it as "a strongly personal work" that "unfolds simultaneously as a tribute to a heroic figure, a study of the emergence of the New Left and its attendant political ideas, and a summation, in thematic and technical terms, of the key characteristics of Akomfrah’s body of work thus far (intertextuality, archival manipulation, a focus on postcolonial and diasporic discourse in Britain)." (en)' } ],
+     'dbo:director': 
+      [ { value: 'dbr:John_Akomfrah',
+          href: 'http://dbpedia.org/resource/John_Akomfrah' } ],
+     'dbo:runtime': [ { value: '5760.000000 (xsd:double)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://blogs.indiewire.com/shadowandact/review-john-akomfrahs-dense-intricate-the-stuart-hall-project-on-the-life-of-the-late-intellectual',
+          href: 'http://blogs.indiewire.com/shadowandact/review-john-akomfrahs-dense-intricate-the-stuart-hall-project-on-the-life-of-the-late-intellectual' } ],
+     'dbo:wikiPageID': [ { value: '44701429 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '666651232 (xsd:integer)' } ],
+     'dbo:writer': 
+      [ { value: 'dbr:John_Akomfrah',
+          href: 'http://dbpedia.org/resource/John_Akomfrah' } ],
+     'dbp:cinematography': [ { value: 'Dewald Aukema (en)' } ],
+     'dbp:country': [ { value: 'United Kingdom (en)' } ],
+     'dbp:director': 
+      [ { value: 'dbr:John_Akomfrah',
+          href: 'http://dbpedia.org/resource/John_Akomfrah' } ],
+     'dbp:editing': [ { value: 'Nse Asuquo (en)' } ],
+     'dbp:language': [ { value: 'English (en)' } ],
+     'dbp:name': [ { value: 'The Stuart Hall Project (en)' } ],
+     'dbp:producer': 
+      [ { value: 'Lina Gopaul (en)' },
+        { value: 'Smoking Dogs Films (en)' } ],
+     'dbp:runtime': [ { value: '5760.0' } ],
+     'dbp:writer': 
+      [ { value: 'dbr:John_Akomfrah',
+          href: 'http://dbpedia.org/resource/John_Akomfrah' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2010s_documentary_films',
+          href: 'http://dbpedia.org/resource/Category:2010s_documentary_films' },
+        { value: 'dbc:British_documentary_films',
+          href: 'http://dbpedia.org/resource/Category:British_documentary_films' },
+        { value: 'dbc:2013_films',
+          href: 'http://dbpedia.org/resource/Category:2013_films' },
+        { value: 'dbc:British_films',
+          href: 'http://dbpedia.org/resource/Category:British_films' },
+        { value: 'dbc:Films_directed_by_John_Akomfrah',
+          href: 'http://dbpedia.org/resource/Category:Films_directed_by_John_Akomfrah' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:Film', href: 'http://dbpedia.org/ontology/Film' },
+        { value: 'dbo:Wikidata:Q11424',
+          href: 'http://dbpedia.org/ontology/Wikidata:Q11424' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:Movie', href: 'http://schema.org/Movie' } ],
+     'rdfs:comment': [ { value: 'The Stuart Hall Project is a 2013 British film written and directed by John Akomfrah centred on cultural theorist Stuart Hall, who is regarded as one of the founding figures of the New Left and a key architect of Cultural Studies in Britain. (en)' } ],
+     'rdfs:label': [ { value: 'The Stuart Hall Project (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Stuart Hall Project',
+          href: 'http://rdf.freebase.com/ns/m.0q2lvr1' },
+        { value: 'dbpedia-wikidata:The Stuart Hall Project',
+          href: 'http://wikidata.dbpedia.org/resource/Q18703916' },
+        { value: 'wikidata:The Stuart Hall Project',
+          href: 'http://www.wikidata.org/entity/Q18703916' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Stuart_Hall_Project?oldid=666651232',
+          href: 'http://en.wikipedia.org/wiki/The_Stuart_Hall_Project?oldid=666651232' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Stuart_Hall_Project',
+          href: 'http://en.wikipedia.org/wiki/The_Stuart_Hall_Project' } ],
+     'foaf:name': [ { value: 'The Stuart Hall Project (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Stuart_Hall_Project',
+          href: 'http://en.wikipedia.org/wiki/The_Stuart_Hall_Project' } ] } }

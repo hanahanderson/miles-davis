@@ -1,0 +1,8 @@
+{ name: 'Marie-Claire Alain',
+  href: 'http://en.wikipedia.org/wiki/Marie-Claire_Alain',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 4020,
+       quote: [ 'Miles Davis (1984)' ] } ] }

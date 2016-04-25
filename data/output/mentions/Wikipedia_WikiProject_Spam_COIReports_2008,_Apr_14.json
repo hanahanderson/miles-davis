@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:WikiProject Spam/COIReports/2008, Apr 14',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spam/COIReports/2008,_Apr_14',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '10:02:01, Mon Apr 14, 2008 - user:MilesAndMiles - user talk (contribs) on page Miles Davis (diff) -> calculated overlap MilesAndMiles <-> Miles Davis (U->P: 38.46% - P->U 0% -> ratio 0%)' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '10:02:01, Mon Apr 14, 2008 - user:MilesAndMiles - user talk (contribs) on page Miles Davis (diff) -> calculated overlap MilesAndMiles <-> Miles Davis (U->P: 38.46% - P->U 0% -> ratio 0%)' ] } ] }

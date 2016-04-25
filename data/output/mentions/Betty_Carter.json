@@ -1,0 +1,13 @@
+{ name: 'Betty Carter',
+  href: 'http://en.wikipedia.org/wiki/Betty_Carter',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3795,
+       quote: [ 'However, Carter eventually also received an opportunity to perform with Parker, as well as with his band consisting of Tommy Potter, Max Roach, and Miles Davis.' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6945,
+       quote: [ 'Miles Davis can be credited for Carter\'s bump in popularity, as he was the person who recommended to Ray Charles that he take Carter under his wing.' ] } ] }

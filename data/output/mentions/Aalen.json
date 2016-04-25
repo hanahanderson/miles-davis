@@ -1,0 +1,8 @@
+{ name: 'Aalen',
+  href: 'http://en.wikipedia.org/wiki/Aalen',
+  mentions: 
+   [ { sectionHeader: 'Culture and sights',
+       sectionSubHeader: '',
+       sectionIndex: 216,
+       wordCountBeforeSection: 59903,
+       quote: [ 'It has already featured musicians like Miles Davis, B.' ] } ] }

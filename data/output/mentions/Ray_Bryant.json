@@ -1,0 +1,13 @@
+{ name: 'Ray Bryant',
+  href: 'http://en.wikipedia.org/wiki/Ray_Bryant',
+  mentions: 
+   [ { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 896,
+       quote: [ 'He was house pianist at the Blue Note club in Philadelphia from 1953 to 1956, accompanying many other leading players such as Lester Young, Jo Jones, Charlie Parker, Miles Davis, and Sonny Stitt.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 4041,
+       quote: [ 'With Miles Davis' ] } ] }

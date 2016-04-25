@@ -1,0 +1,8 @@
+{ name: 'Grahame Bond',
+  href: 'http://en.wikipedia.org/wiki/Grahame_Bond',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 8777,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

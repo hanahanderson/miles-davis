@@ -1,0 +1,18 @@
+{ name: 'Monterey Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Monterey_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Performers',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 5176,
+       quote: [ 'Carmen McRae, Miles Davis Quintet, Dizzy Gillespie Quintet, Dave Brubeck Quartet, Herbie Hancock, Thelonious Monk Quartet, Jon Hendricks, Harry James Orchestra, Jimmy Witherspoon, The Andrews Sisters & the Gospel Song, and Helen Merrill, Joe Sullivan' ] },
+     { sectionHeader: 'Performers',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 5430,
+       quote: [ 'Duke Ellington Orchestra, Dizzy Gillespie Quintet, Miles Davis Quintet w/ Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams, Gerry Mulligan, Thelonious Monk Quartet, Lou Rawls, Joe Williams, Woody Herman, Art Farmer Quartet, and Big Mama Thornton.' ] },
+     { sectionHeader: 'Performers',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 6694,
+       quote: [ 'Miles Davis Quintet w/ Wayne Shorter, Chick Corea, Dave Holland & Jack DeJohnette, Thelonious Monk Quartet, Sarah Vaughan, Joe Williams, Cannonball Adderley Quintet, Roberta Flack & Her Trio, Sly and the Family Stone, and Buddy Rich Band' ] } ] }

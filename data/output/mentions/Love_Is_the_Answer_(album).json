@@ -1,0 +1,8 @@
+{ name: 'Love Is the Answer (album)',
+  href: 'http://en.wikipedia.org/wiki/Love_Is_the_Answer_(album)',
+  mentions: 
+   [ { sectionHeader: 'Promotion',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1467,
+       quote: [ 'To promote the album, Streisand performed for one night only on September 26 at the Village Vanguard some forty-eight years after she opened for Miles Davis at the same venue.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:Mylifeisought',
+  href: 'http://en.wikipedia.org/wiki/User:Mylifeisought',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1221,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

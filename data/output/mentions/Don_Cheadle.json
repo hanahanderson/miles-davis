@@ -1,0 +1,18 @@
+{ name: 'Don Cheadle',
+  href: 'http://en.wikipedia.org/wiki/Don_Cheadle',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 385,
+       quote: [ 'Cheadle co-wrote, directed and starred in Miles Ahead, based on the life of jazz musician Miles Davis (2015).' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 7914,
+       quote: [ 'In the summer of 2014, Cheadle directed and starred in the film Miles Ahead, based on the life of jazz musician Miles Davis.' ] },
+     { sectionHeader: 'Filmography',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 9363,
+       quote: [ 'Miles Davis' ] } ] }

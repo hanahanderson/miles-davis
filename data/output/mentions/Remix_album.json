@@ -1,0 +1,8 @@
+{ name: 'Remix album',
+  href: 'http://en.wikipedia.org/wiki/Remix_album',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1248,
+       quote: [ 'Miles Davis, whom Coltrane once performed with, recorded his own remix album called Evolution of the Groove, and though it was also released as a posthumous album like Infinity, it had to wait until 2007.' ] } ] }

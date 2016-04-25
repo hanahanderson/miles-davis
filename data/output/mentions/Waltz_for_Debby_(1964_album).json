@@ -1,0 +1,8 @@
+{ name: 'Waltz for Debby (1964 album)',
+  href: 'http://en.wikipedia.org/wiki/Waltz_for_Debby_(1964_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 2365,
+       quote: [ 'Miles Davis' ] } ] }

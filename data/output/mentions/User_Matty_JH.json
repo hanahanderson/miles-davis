@@ -1,0 +1,13 @@
+{ name: 'User:Matty/JH',
+  href: 'http://en.wikipedia.org/wiki/User:Matty/JH',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: 'Death',
+       sectionIndex: 122,
+       wordCountBeforeSection: 62930,
+       quote: [ 'Miles Davis was also deeply impressed by Hendrix and compared his improvisational skills with those of saxophonist John Coltrane, and Davis would later want guitarists in his bands to emulate Hendrix.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'Posthumous studio albums',
+       sectionIndex: 160,
+       wordCountBeforeSection: 73573,
+       quote: [] } ] }

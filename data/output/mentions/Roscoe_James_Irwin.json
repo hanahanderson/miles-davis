@@ -1,0 +1,8 @@
+{ name: 'Roscoe James Irwin',
+  href: 'http://en.wikipedia.org/wiki/Roscoe_James_Irwin',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 629,
+       quote: [ 'Influenced by the greats like Miles Davis, Clifford Brown and Louis Armstrong.' ] } ] }

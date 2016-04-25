@@ -1,0 +1,13 @@
+{ name: '1985 in music',
+  href: 'http://en.wikipedia.org/wiki/1985_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 10321,
+       quote: [] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 10321,
+       quote: [ 'Miles Davis' ] } ] }

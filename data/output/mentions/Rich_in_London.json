@@ -1,0 +1,8 @@
+{ name: 'Rich in London',
+  href: 'http://en.wikipedia.org/wiki/Rich_in_London',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1712,
+       quote: [ '"Milestones" (Miles Davis) – 5:26' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Concord Bicycle Music',
+  href: 'http://en.wikipedia.org/wiki/Concord_Bicycle_Music',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 223,
+       quote: [ 'The company’s master catalog recordings includes John Coltrane, John Fogerty, Frank Sinatra, Creedence Clearwater Revival, Ray Charles, Miles Davis, Little Richard, Otis Redding, Thelonious Monk, Isaac Hayes, Ella Fitzgerald, Tony Bennett and Albert King.' ] } ] }

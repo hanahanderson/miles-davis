@@ -1,0 +1,8 @@
+{ name: 'David Sánchez (musician)',
+  href: 'http://en.wikipedia.org/wiki/David_S%C3%A1nchez_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 754,
+       quote: [ 'At 12 Sanchez attended La Escuela Libre de Musica, which emphasized formal musical studies and classical European styles and was much taken with a Miles Davis album, Basic Miles, featuring John Coltrane, as well as Lady in Satin, a 1958 album by Billie Holiday with strings, arranged and conducted by Ray Ellis.' ] } ] }

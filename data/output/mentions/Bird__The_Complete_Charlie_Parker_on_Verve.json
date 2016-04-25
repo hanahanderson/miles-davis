@@ -1,0 +1,8 @@
+{ name: 'Bird: The Complete Charlie Parker on Verve',
+  href: 'http://en.wikipedia.org/wiki/Bird:_The_Complete_Charlie_Parker_on_Verve',
+  mentions: 
+   [ { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 7421,
+       quote: [ 'Miles Davis (Trumpet)' ] } ] }

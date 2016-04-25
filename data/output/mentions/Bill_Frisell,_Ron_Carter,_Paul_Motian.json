@@ -1,0 +1,8 @@
+{ name: 'Bill Frisell, Ron Carter, Paul Motian',
+  href: 'http://en.wikipedia.org/wiki/Bill_Frisell,_Ron_Carter,_Paul_Motian',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1408,
+       quote: [] } ] }

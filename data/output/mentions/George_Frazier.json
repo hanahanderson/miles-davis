@@ -1,0 +1,8 @@
+{ name: 'George Frazier',
+  href: 'http://en.wikipedia.org/wiki/George_Frazier',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1290,
+       quote: [ 'Miles Davis\' Greatest Hits' ] } ] }

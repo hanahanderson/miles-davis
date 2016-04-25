@@ -1,0 +1,8 @@
+{ name: 'Tenderly: An Informal Session',
+  href: 'http://en.wikipedia.org/wiki/Tenderly:_An_Informal_Session',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2712,
+       quote: [ 'Miles Davis' ] } ] }

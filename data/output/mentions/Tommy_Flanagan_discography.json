@@ -1,0 +1,8 @@
+{ name: 'Tommy Flanagan discography',
+  href: 'http://en.wikipedia.org/wiki/Tommy_Flanagan_discography',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 4059,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Umbria Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Umbria_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Artists who have performed at Umbria Jazz',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1906,
+       quote: [ 'Miles Davis (1985)' ] } ] }

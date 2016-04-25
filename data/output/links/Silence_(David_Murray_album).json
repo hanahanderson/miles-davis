@@ -1,0 +1,106 @@
+{ name: 'Silence (David Murray album)',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Silence_(David_Murray_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '66.56666666666666' } ],
+     'dbo:abstract': [ { value: 'Silence is an album of duets by saxophonist David Murray and pianist Mal Waldron recorded in Brussels and released on the Canadian Justin Time label. Recorded in 2001 but not released until 2008, six years after Waldron\'s death, the album features some of his last recorded performances. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:David_Murray_(saxophonist)',
+          href: 'http://dbpedia.org/resource/David_Murray_(saxophonist)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Yonn-Dé',
+          href: 'http://dbpedia.org/resource/Yonn-Dé' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:David_Murray_(saxophonist)',
+          href: 'http://dbpedia.org/resource/David_Murray_(saxophonist)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Justin_Time_Records',
+          href: 'http://dbpedia.org/resource/Justin_Time_Records' } ],
+     'dbo:runtime': [ { value: '3994.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Waltz_Again',
+          href: 'http://dbpedia.org/resource/Waltz_Again' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '43251473 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '646914997 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Mal_Waldron',
+          href: 'http://dbpedia.org/resource/Mal_Waldron' },
+        { value: 'dbr:David_Murray_(saxophonist)',
+          href: 'http://dbpedia.org/resource/David_Murray_(saxophonist)' } ],
+     'dbp:cover': [ { value: 'Silence .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Justin_Time_Records',
+          href: 'http://dbpedia.org/resource/Justin_Time_Records' },
+        { value: 'JUST 186-2 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Yonn-Dé (en)' } ],
+     'dbp:length': [ { value: '3994.0' } ],
+     'dbp:name': [ { value: 'Silence (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Waltz Again (en)' } ],
+     'dbp:producer': [ { value: 'David Murray (en)' } ],
+     'dbp:recorded': [ { value: '--10-05' }, { value: 'Brussels, Belgium (en)' } ],
+     'dbp:released': [ { value: '2008 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Silence (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Mal_Waldron_albums',
+          href: 'http://dbpedia.org/resource/Category:Mal_Waldron_albums' },
+        { value: 'dbc:David_Murray_(saxophonist)_albums',
+          href: 'http://dbpedia.org/resource/Category:David_Murray_(saxophonist)_albums' },
+        { value: 'dbc:2008_albums',
+          href: 'http://dbpedia.org/resource/Category:2008_albums' },
+        { value: 'dbc:Justin_Time_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Justin_Time_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Silence is an album of duets by saxophonist David Murray and pianist Mal Waldron recorded in Brussels and released on the Canadian Justin Time label. Recorded in 2001 but not released until 2008, six years after Waldron\'s death, the album features some of his last recorded performances. (en)' } ],
+     'rdfs:label': [ { value: 'Silence (David Murray album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Silence (David Murray album)',
+          href: 'http://rdf.freebase.com/ns/m.0114dpsl' },
+        { value: 'wikidata:Silence (David Murray album)',
+          href: 'http://www.wikidata.org/entity/Q17508980' },
+        { value: 'dbpedia-wikidata:Silence (David Murray album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17508980' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Silence_(David_Murray_album)?oldid=646914997',
+          href: 'http://en.wikipedia.org/wiki/Silence_(David_Murray_album)?oldid=646914997' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Silence_(David_Murray_album)',
+          href: 'http://en.wikipedia.org/wiki/Silence_(David_Murray_album)' } ],
+     'foaf:name': [ { value: 'Silence (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Now_Is_Another_Time',
+          href: 'http://dbpedia.org/resource/Now_Is_Another_Time' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Sacred_Ground_(David_Murray_album)',
+          href: 'http://dbpedia.org/resource/Sacred_Ground_(David_Murray_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Silence_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Silence_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Silence_(David_Murray_album)',
+          href: 'http://en.wikipedia.org/wiki/Silence_(David_Murray_album)' } ] } }

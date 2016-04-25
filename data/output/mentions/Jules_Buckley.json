@@ -1,0 +1,8 @@
+{ name: 'Jules Buckley',
+  href: 'http://en.wikipedia.org/wiki/Jules_Buckley',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2747,
+       quote: [ 'Citing Miles Davis and Quincy Jones as his biggest inspirations, Jules will be collaborating with the living legend as part of the BBC\'s The Proms schedule this summer.' ] } ] }

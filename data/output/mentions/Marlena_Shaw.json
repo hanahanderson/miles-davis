@@ -1,0 +1,8 @@
+{ name: 'Marlena Shaw',
+  href: 'http://en.wikipedia.org/wiki/Marlena_Shaw',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1105,
+       quote: [] } ] }

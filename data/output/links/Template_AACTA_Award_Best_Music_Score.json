@@ -1,0 +1,25 @@
+{ name: 'Template:AACTA Award Best Music Score',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:AACTA_Award_Best_Music_Score',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '34622552 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662134489 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q6663001',
+          href: 'http://wikidata.dbpedia.org/resource/Q6663001' },
+        { value: 'wikidata:Q6663001',
+          href: 'http://www.wikidata.org/entity/Q6663001' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:AACTA_Award_Best_Music_Score?oldid=662134489',
+          href: 'http://en.wikipedia.org/wiki/Template:AACTA_Award_Best_Music_Score?oldid=662134489' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbt:AACTAAward_BestMusicScore_1975-1979',
+          href: 'http://dbpedia.org/resource/Template:AACTAAward_BestMusicScore_1975-1979' },
+        { value: 'dbt:AACTAAward_BestMusicScore_1980–1999',
+          href: 'http://dbpedia.org/resource/Template:AACTAAward_BestMusicScore_1980–1999' },
+        { value: 'dbt:AACTAAward_BestMusicScore_2000-2019',
+          href: 'http://dbpedia.org/resource/Template:AACTAAward_BestMusicScore_2000-2019' },
+        { value: 'dbt:AACTAAward_BestMusicScore_1980-1999',
+          href: 'http://dbpedia.org/resource/Template:AACTAAward_BestMusicScore_1980-1999' },
+        { value: 'dbt:AACTAAward_BestMusicScore',
+          href: 'http://dbpedia.org/resource/Template:AACTAAward_BestMusicScore' } ] } }

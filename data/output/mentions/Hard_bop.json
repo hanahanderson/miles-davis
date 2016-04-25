@@ -1,0 +1,18 @@
+{ name: 'Hard bop',
+  href: 'http://en.wikipedia.org/wiki/Hard_bop',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 678,
+       quote: [ 'Rosenthal contends in his book Hard Bop that the genre is, to a large degree, the natural creation of a generation of African-American musicians who grew up at a time when bop and rhythm and blues were the dominant forms of black American music.:24 Prominent hard bop musicians included Horace Silver, Charles Mingus, Art Blakey, Cannonball Adderley, Miles Davis, Thelonious Monk and Tadd Dameron.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4930,
+       quote: [ 'Miles Davis, who had performed the title track of his album Walkin\' at the inaugural Newport Jazz Festival in 1954, would form the Miles Davis Quintet with John Coltrane in 1955, becoming prominent in hard bop before moving on to other styles.' ] },
+     { sectionHeader: 'Noteworthy performances',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 5997,
+       quote: [ 'Walkin\', Miles Davis 1954' ] } ] }

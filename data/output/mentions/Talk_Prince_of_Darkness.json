@@ -1,0 +1,8 @@
+{ name: 'Talk:Prince of Darkness',
+  href: 'http://en.wikipedia.org/wiki/Talk:Prince_of_Darkness',
+  mentions: 
+   [ { sectionHeader: 'People',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2308,
+       quote: [ 'A nickname for Miles Davis, jazz musician' ] } ] }

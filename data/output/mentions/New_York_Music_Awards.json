@@ -1,0 +1,8 @@
+{ name: 'New York Music Awards',
+  href: 'http://en.wikipedia.org/wiki/New_York_Music_Awards',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 2240,
+       quote: [ 'Artists who participated and performed, and were honored over the years include: Miles Davis, Paul Simon, Billy Joel, Laura Nyro, Lou Reed, L.L. Cool J, Suzanne Vega, Public Enemy, Lenny Kravitz, Mariah Carey, Judy Collins, Rubén Blades, Art Garfunkel, Cameo, Meatloaf, Debbie Gibson, Michael Bolton, Carly Simon, Taylor Dayne, Smithereens, Lou Gramm, Lisa Lisa and Cult Jam, Nona Hendryx, Patti Smith, Odetta, Marianne Faithfull, The B-52s, C+C Music Factory, Arlo Guthrie, Mayor Ed Koch, Richie Havens, Darlene Love, Paul Shaffer, Taj Mahal, Roger Daltrey, Bobby Rivers, Marc Cohn, Yoko Ono, John Tesh, Busta Rhymes, De La Soul, Sophie B.' ] } ] }

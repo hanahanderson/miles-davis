@@ -1,0 +1,8 @@
+{ name: 'X5 Music Group',
+  href: 'http://en.wikipedia.org/wiki/X5_Music_Group',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 6465,
+       quote: [ 'Later releases focused on jazz and blues, including artists such as Miles Davis, John Coltrane, and Thelonious Monk.' ] } ] }

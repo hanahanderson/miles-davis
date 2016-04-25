@@ -1,0 +1,17 @@
+{ name: 'Fender Contempo Organ',
+  href: 'http://en.wikipedia.org/wiki/Fender_Contempo_Organ',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1834,
+       quote: 
+        [ 'One of the most famous users is actually Keith Jarrett when he played in Miles Davis group. *Keith Jarrett w.',
+          'Miles Davis The organ can be heard played together with Rhodes piano on the Miles Davis record Live-Evil and by itself on some live recordings with the Miles Davis group, when Chick Corea took over the Rhodes and Jarrett only played the Contempo.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1834,
+       quote: 
+        [ 'One of the most famous users is actually Keith Jarrett when he played in Miles Davis group. *Keith Jarrett w.',
+          'Miles Davis The organ can be heard played together with Rhodes piano on the Miles Davis record Live-Evil and by itself on some live recordings with the Miles Davis group, when Chick Corea took over the Rhodes and Jarrett only played the Contempo.' ] } ] }

@@ -1,0 +1,49 @@
+{ name: 'Music of the United Kingdom (1970s)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Music_of_the_United_Kingdom_(1970s)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Popular music of the United Kingdom in the 1970s built upon the new forms developed of music developed from blues rock towards the end of the 1960s, including folk rock and psychedelic rock. Several important and influential subgenres were created in Britain in this period, by pursuing the limitations of rock music, including electric folk and glam rock, a process that reached its apogee in the development of progressive rock and one of the most enduring subgenres in heavy metal music. Britain also began to be increasingly influenced by aspects of World music, including Jamaican and Indian music, resulting in new music scenes and subgenres. In the middle years of the decade the influence of the pub rock and American punk rock movements led to the British intensification of punk, which swept away much of the existing landscape of popular music, replacing it with much more diverse new wave and post punk bands who mixed different forms of music and influences to dominate rock and pop music into the 1980s. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/PinkFloyd1973.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/PinkFloyd1973.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '432038 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '676027836 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1970s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1970s_in_music' },
+        { value: 'dbc:British_music_history',
+          href: 'http://dbpedia.org/resource/Category:British_music_history' },
+        { value: 'dbc:1970s_in_the_United_Kingdom',
+          href: 'http://dbpedia.org/resource/Category:1970s_in_the_United_Kingdom' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'Popular music of the United Kingdom in the 1970s built upon the new forms developed of music developed from blues rock towards the end of the 1960s, including folk rock and psychedelic rock. Several important and influential subgenres were created in Britain in this period, by pursuing the limitations of rock music, including electric folk and glam rock, a process that reached its apogee in the development of progressive rock and one of the most enduring subgenres in heavy metal music. (en)' } ],
+     'rdfs:label': [ { value: 'Music of the United Kingdom (1970s) (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:British_rock',
+          href: 'http://dbpedia.org/resource/British_rock' },
+        { value: 'dbr:The_1970s',
+          href: 'http://dbpedia.org/resource/The_1970s' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Music of the United Kingdom (1970s)',
+          href: 'http://rdf.freebase.com/ns/m.0119mkf5' },
+        { value: 'wikidata:Music of the United Kingdom (1970s)',
+          href: 'http://www.wikidata.org/entity/Q6942409' },
+        { value: 'dbpedia-wikidata:Music of the United Kingdom (1970s)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6942409' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Music_of_the_United_Kingdom_(1970s)?oldid=676027836',
+          href: 'http://en.wikipedia.org/wiki/Music_of_the_United_Kingdom_(1970s)?oldid=676027836' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/PinkFloyd1973.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/PinkFloyd1973.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Music_of_the_United_Kingdom_(1970s)',
+          href: 'http://en.wikipedia.org/wiki/Music_of_the_United_Kingdom_(1970s)' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:1970s_in_music',
+          href: 'http://dbpedia.org/resource/1970s_in_music' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Music_of_the_United_Kingdom_(1970s)',
+          href: 'http://en.wikipedia.org/wiki/Music_of_the_United_Kingdom_(1970s)' } ] } }

@@ -1,0 +1,105 @@
+{ name: 'Underground Memoirs',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Underground_Memoirs',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '53.71666666666667' } ],
+     'dbo:abstract': [ { value: 'Underground Memoirs is a solo album by pianist Cedar Walton which was recorded in 2005 and released on the Highnote label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Cedar_Walton',
+          href: 'http://dbpedia.org/resource/Cedar_Walton' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Latin_Tinge',
+          href: 'http://dbpedia.org/resource/Latin_Tinge' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Don_Sickler',
+          href: 'http://dbpedia.org/resource/Don_Sickler' } ],
+     'dbo:recordDate': [ { value: '2005-01-11 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:HighNote_Records',
+          href: 'http://dbpedia.org/resource/HighNote_Records' } ],
+     'dbo:releaseDate': [ { value: '2005-05-24 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3223.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Midnight_Waltz',
+          href: 'http://dbpedia.org/resource/Midnight_Waltz' } ],
+     'dbo:wikiPageID': [ { value: '45487949 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '648559418 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Cedar_Walton',
+          href: 'http://dbpedia.org/resource/Cedar_Walton' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Cedar_Walton',
+          href: 'http://dbpedia.org/resource/Cedar_Walton' } ],
+     'dbp:cover': [ { value: 'Underground Memoirs.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:HighNote_Records',
+          href: 'http://dbpedia.org/resource/HighNote_Records' },
+        { value: 'HCD 7119 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Latin Tinge (en)' } ],
+     'dbp:length': [ { value: '3223.0' } ],
+     'dbp:name': [ { value: 'Underground Memoirs (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Midnight Waltz (en)' } ],
+     'dbp:producer': [ { value: 'Don Sickler & Cedar Walton (en)' } ],
+     'dbp:recorded': 
+      [ { value: '2005-01-11 (xsd:date)' },
+        { value: 'The Studio, NYC (en)' } ],
+     'dbp:released': [ { value: '2005-05-24 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'Underground Memoirs (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2005_albums',
+          href: 'http://dbpedia.org/resource/Category:2005_albums' },
+        { value: 'dbc:Cedar_Walton_albums',
+          href: 'http://dbpedia.org/resource/Category:Cedar_Walton_albums' },
+        { value: 'dbc:HighNote_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:HighNote_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Underground Memoirs is a solo album by pianist Cedar Walton which was recorded in 2005 and released on the Highnote label. (en)' } ],
+     'rdfs:label': [ { value: 'Underground Memoirs (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Underground Memoirs',
+          href: 'http://rdf.freebase.com/ns/m.012x4xn3' },
+        { value: 'dbpedia-wikidata:Underground Memoirs',
+          href: 'http://wikidata.dbpedia.org/resource/Q19898120' },
+        { value: 'wikidata:Underground Memoirs',
+          href: 'http://www.wikidata.org/entity/Q19898120' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Underground_Memoirs?oldid=648559418',
+          href: 'http://en.wikipedia.org/wiki/Underground_Memoirs?oldid=648559418' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Underground_Memoirs',
+          href: 'http://en.wikipedia.org/wiki/Underground_Memoirs' } ],
+     'foaf:name': [ { value: 'Underground Memoirs (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Midnight_Waltz',
+          href: 'http://dbpedia.org/resource/Midnight_Waltz' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Latin_Tinge',
+          href: 'http://dbpedia.org/resource/Latin_Tinge' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Underground_Memoirs',
+          href: 'http://en.wikipedia.org/wiki/Underground_Memoirs' } ] } }

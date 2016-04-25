@@ -1,0 +1,8 @@
+{ name: 'Björk',
+  href: 'http://en.wikipedia.org/wiki/Bj%C3%B6rk',
+  mentions: 
+   [ { sectionHeader: 'Artistry',
+       sectionSubHeader: '',
+       sectionIndex: 89,
+       wordCountBeforeSection: 58708,
+       quote: [ 'And I find it very sad when you find a record, and it says on : "this record was inspired by Miles Davis." Because it\'s like making...' ] } ] }

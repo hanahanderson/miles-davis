@@ -1,0 +1,8 @@
+{ name: 'Booker Little (album)',
+  href: 'http://en.wikipedia.org/wiki/Booker_Little_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1119,
+       quote: [ '"Tune Up" (Miles Davis) - 5:21 (Max Roach New Quintet) Bonus track on CD reissue' ] } ] }

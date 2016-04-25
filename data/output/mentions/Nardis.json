@@ -1,0 +1,8 @@
+{ name: 'Nardis',
+  href: 'http://en.wikipedia.org/wiki/Nardis',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Nardis (composition), a 1958 modal jazz composition by Miles Davis associated with Bill Evans' ] } ] }

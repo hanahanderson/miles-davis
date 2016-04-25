@@ -1,0 +1,8 @@
+{ name: 'Eight Mile Road (album)',
+  href: 'http://en.wikipedia.org/wiki/Eight_Mile_Road_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1532,
+       quote: [ 'In addition to the same rhythm section from Prism, Kawasaki has invited saxophonist Sam Morrison (who was the last saxophonist with Miles Davis band until Davis\' retirement during 1975) and pianist Andy Laverne (from Stan Getz\'s band at that time) to add jazzy acoustic flavor over his jazz funk-oriented compositions and electric sound.' ] } ] }

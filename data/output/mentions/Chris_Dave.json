@@ -1,0 +1,8 @@
+{ name: 'Chris Dave',
+  href: 'http://en.wikipedia.org/wiki/Chris_Dave',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1217,
+       quote: [ 'As a teenager, he was exposed to jazz legends like Miles Davis and John Coltrane when listening to music with his father.' ] } ] }

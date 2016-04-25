@@ -1,0 +1,20 @@
+{ name: 'Omar Hakim',
+  href: 'http://en.wikipedia.org/wiki/Omar_Hakim',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 290,
+       quote: [ 'Miles Davis, Marcus Miller, Weather Report, Sting, Daft Punk, Michael Jackson, Madonna, Kate Bush, Dire Straits, Journey, David Bowie' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2157,
+       quote: [ 'Meanwhile, he continued his work as a jazz fusion drummer; just a partial list of his credits over the 1980s and \'90s includes work with Miles Davis, David Sanborn, Roy Ayers, George Benson, Joe Sample, John Scofield, Lee Ritenour, and Najee.' ] },
+     { sectionHeader: 'Notable work',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4421,
+       quote: 
+        [ 'Notable artists he has played with are Michael Jackson, Anita Baker, Sting, Dire Straits, Kate Bush, Weather Report, Mariah Carey, Madonna, David Bowie, Miles Davis, Chic, Bryan Ferry, Aziza Mustafa Zadeh, Everything but the Girl, Marcus Miller, Kazumi Watanabe, Miwa Yoshida, Lee Ritenour, Chieli Minucci, The Rippingtons, Bobby McFerrin, Daft Punk, Journey, Sophie B.',
+          'Hawkins and Miles Davis alumni/tribute band Miles Smiles among others.' ] } ] }

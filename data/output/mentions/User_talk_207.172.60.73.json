@@ -1,0 +1,27 @@
+{ name: 'User talk:207.172.60.73',
+  href: 'http://en.wikipedia.org/wiki/User_talk:207.172.60.73',
+  mentions: 
+   [ { sectionHeader: 'December 2010',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 7301,
+       quote: 
+        [ 'If you continue to vandalize Wikipedia, as you did at Miles Davis, you will be blocked from editing.',
+          'The following is the log entry regarding this vandalism: Miles Davis was changed by 207.172.60.73 (u) (t) ANN scored at 0.969116 on 2010-12-08T17:18:48+00:00 .' ] },
+     { sectionHeader: 'December 2010',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 7301,
+       quote: 
+        [ 'If you continue to vandalize Wikipedia, as you did at Miles Davis, you will be blocked from editing.',
+          'The following is the log entry regarding this vandalism: Miles Davis was changed by 207.172.60.73 (u) (t) ANN scored at 0.969116 on 2010-12-08T17:18:48+00:00 .' ] },
+     { sectionHeader: 'December 2010',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 7749,
+       quote: [] },
+     { sectionHeader: 'December 2010',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 7749,
+       quote: [ 'You will be blocked from editing the next time you vandalize a page, as you did with this edit to Miles Davis.' ] } ] }

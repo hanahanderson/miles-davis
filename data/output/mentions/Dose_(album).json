@@ -1,0 +1,8 @@
+{ name: 'Dose (album)',
+  href: 'http://en.wikipedia.org/wiki/Dose_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 363,
+       quote: [ 'The songs "Thelonius Beck" and "Birth of the Mule" were tributes to jazz musicians Thelonious Monk and Miles Davis, respectively.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'So What (George Russell album)',
+  href: 'http://en.wikipedia.org/wiki/So_What_(George_Russell_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1023,
+       quote: [ '"So What" (Miles Davis) - 7:57' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Theme Time Radio Hour (season 1)',
+  href: 'http://en.wikipedia.org/wiki/Theme_Time_Radio_Hour_(season_1)',
+  mentions: 
+   [ { sectionHeader: 'Season 1 - Episodes 1 to 50',
+       sectionSubHeader: '',
+       sectionIndex: 147,
+       wordCountBeforeSection: 33322,
+       quote: [ '"Blue Xmas" — Bob Dorough & Miles Davis (1962)' ] } ] }

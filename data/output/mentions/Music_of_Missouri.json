@@ -1,0 +1,13 @@
+{ name: 'Music of Missouri',
+  href: 'http://en.wikipedia.org/wiki/Music_of_Missouri',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3213,
+       quote: [ 'Jazz club Peacock Alley was the site of Miles Davis\' recording Miles Davis Quintet at Peacock Alley in 1956.' ] },
+     { sectionHeader: 'Jazz',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3213,
+       quote: [ 'Miles Davis Quintet at Peacock Alley' ] } ] }

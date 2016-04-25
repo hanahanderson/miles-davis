@@ -1,0 +1,8 @@
+{ name: 'Newman Taylor Baker',
+  href: 'http://en.wikipedia.org/wiki/Newman_Taylor_Baker',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1266,
+       quote: [ 'Nelson Baker, III, was Newman\'s source for recordings of Max Roach and Clifford Brown, Horace Silver, Miles Davis, Cannonball Adderley, Ella Fitzgerald, Art Blakey, and many others.' ] } ] }

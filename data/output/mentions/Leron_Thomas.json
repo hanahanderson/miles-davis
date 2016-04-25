@@ -1,0 +1,8 @@
+{ name: 'Leron Thomas',
+  href: 'http://en.wikipedia.org/wiki/Leron_Thomas',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: '2011-2016',
+       sectionIndex: 20,
+       wordCountBeforeSection: 9500,
+       quote: [ 'His tone on the trumpet has been referred to as pure, warm and broad, his vocals linked with raw emotion, at times with bedroom-eyed delivery in croons and yelps Thomas has mentioned many artists that offer him inspiration including Frank Zappa, David Bowie, George Clinton, James Brown, Wayne Shorter, Miles Davis, Herbie Nichols and Frankie Beverly.' ] } ] }

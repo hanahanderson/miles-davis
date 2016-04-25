@@ -1,0 +1,8 @@
+{ name: 'Tommy Muellner',
+  href: 'http://en.wikipedia.org/wiki/Tommy_Muellner',
+  mentions: 
+   [ { sectionHeader: 'Early life and family',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1813,
+       quote: [ 'In later years, Tommy\'s musical influences were gleaned from the likes of Evans, Charlie Parker, John Coltrane, Miles Davis, and Dexter Gordon.' ] } ] }

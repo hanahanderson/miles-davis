@@ -1,0 +1,8 @@
+{ name: 'Fatty Finn (film)',
+  href: 'http://en.wikipedia.org/wiki/Fatty_Finn_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Awards',
+       sectionIndex: 25,
+       wordCountBeforeSection: 4346,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

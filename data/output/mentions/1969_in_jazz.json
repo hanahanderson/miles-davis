@@ -1,0 +1,18 @@
+{ name: '1969 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1969_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Events',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 750,
+       quote: [ 'Trumpeter Miles Davis uses a wah-wah pedal on Bitches Brew.' ] },
+     { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 834,
+       quote: [ 'Miles Davis: Bitches Brew' ] },
+     { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 834,
+       quote: [ 'Miles Davis: In a Silent Way' ] } ] }

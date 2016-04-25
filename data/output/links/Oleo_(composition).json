@@ -1,0 +1,59 @@
+{ name: 'Oleo (composition)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Oleo_(composition)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Oleo" is a hard bop composition by Sonny Rollins, written in 1954. It is one of the most popular pieces to feature rhythm changes, one of many contrafacts of George Gershwin\'s "I Got Rhythm". The performer is expected to improvise the B section, as only the A section is transcribed.An early version of the song, featuring Rollins, was recorded by Miles Davis in 1954 on the album Bags\' Groove, and again in 1956 on Relaxin\'. A live version recorded in 1958, with John Coltrane instead of Rollins on saxophone, appears on two separate Davis albums: 1958 Miles, which was released in late 1958, and Jazz at the Plaza (1973).Other artists who have made notable recordings of the piece include Bill Evans, Eric Dolphy, Lee Konitz, Jeff Sipe, Pat Martino, and Larry Coryell. (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.jazzstandards.com/compositions-2/oleo.htm',
+          href: 'http://www.jazzstandards.com/compositions-2/oleo.htm' } ],
+     'dbo:wikiPageID': [ { value: '6714345 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682407163 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1954_songs',
+          href: 'http://dbpedia.org/resource/Category:1954_songs' },
+        { value: 'dbc:Jazz_songs',
+          href: 'http://dbpedia.org/resource/Category:Jazz_songs' },
+        { value: 'dbc:1950s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1950s_jazz_standards' },
+        { value: 'dbc:Bebop_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Bebop_jazz_standards' },
+        { value: 'dbc:Hard_bop_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Hard_bop_jazz_standards' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: '"Oleo" is a hard bop composition by Sonny Rollins, written in 1954. It is one of the most popular pieces to feature rhythm changes, one of many contrafacts of George Gershwin\'s "I Got Rhythm". The performer is expected to improvise the B section, as only the A section is transcribed.An early version of the song, featuring Rollins, was recorded by Miles Davis in 1954 on the album Bags\' Groove, and again in 1956 on Relaxin\'. (en)' } ],
+     'rdfs:label': [ { value: 'Oleo (composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Oleo (composition)',
+          href: 'http://rdf.freebase.com/ns/m.0gjwt1' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Oleo_(composition)?oldid=682407163',
+          href: 'http://en.wikipedia.org/wiki/Oleo_(composition)?oldid=682407163' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Oleo_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Oleo_(composition)' } ],
+     'is dbo:wikiPageDisambiguates\n of': [ { value: 'dbr:Oleo', href: 'http://dbpedia.org/resource/Oleo' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Oleo_(song)',
+          href: 'http://dbpedia.org/resource/Oleo_(song)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Give_and_Take_(Mike_Stern_album)',
+          href: 'http://dbpedia.org/resource/Give_and_Take_(Mike_Stern_album)' },
+        { value: 'dbr:The_Complete_Live_at_the_Plugged_Nickel_1965',
+          href: 'http://dbpedia.org/resource/The_Complete_Live_at_the_Plugged_Nickel_1965' },
+        { value: 'dbr:The_Legendary_Prestige_Quintet_Sessions',
+          href: 'http://dbpedia.org/resource/The_Legendary_Prestige_Quintet_Sessions' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Oleo_(composition)',
+          href: 'http://en.wikipedia.org/wiki/Oleo_(composition)' } ] } }

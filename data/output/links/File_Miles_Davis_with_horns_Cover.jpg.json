@@ -1,0 +1,12 @@
+{ name: 'File:Miles Davis with horns Cover.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Miles_Davis_with_horns_Cover.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '16219673 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '519023701 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Miles_Davis_with_horns_Cover.jpg?oldid=519023701',
+          href: 'http://en.wikipedia.org/wiki/File:Miles_Davis_with_horns_Cover.jpg?oldid=519023701' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Miles_Davis_with_horns_Cover.jpg',
+          href: 'http://dbpedia.org/resource/File:Miles_Davis_with_horns_Cover.jpg' } ] } }

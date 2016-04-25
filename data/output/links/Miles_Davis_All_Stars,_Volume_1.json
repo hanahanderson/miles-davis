@@ -1,0 +1,108 @@
+{ name: 'Miles Davis All Stars, Volume 1',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Miles_Davis_All_Stars,_Volume_1',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '21.9' } ],
+     'dbo:abstract': [ { value: 'Miles Davis All Stars, Volume 1 (PRLP 196) is a 10 inch LP album by Miles Davis, released in 1955 by Prestige Records. The two side-long tracks on this LP, and two others, were recorded at Rudy Van Gelder\'s Studio, Hackensack, New Jersey, on December 24, 1954. This was the first of two 10" LPs sourced from the same session, which featured major be-bop contemporaries Milt Jackson and Thelonious Monk, along with the same rhythm section that had been used on Davis\' other recent albums. Jackson, Heath, and Clarke were at the time of recording three quarters of the Modern Jazz Quartet.After the 10" LP format was discontinued, the track "Bags\' Groove" was reissued on side 1 of the 12" LP Bags\' Groove (PRLP 7109), paired with an alternate take. "Swing Spring" would reappear on the 12" album Miles Davis and the Modern Jazz Giants (PRLP 7150), alongside the two other songs recorded at the same session. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Miles_Davis_with_Sonny_Rollins',
+          href: 'http://dbpedia.org/resource/Miles_Davis_with_Sonny_Rollins' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': [ { value: '1954-12-24 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' },
+        { value: 'dbr:Hackensack,_New_Jersey',
+          href: 'http://dbpedia.org/resource/Hackensack,_New_Jersey' } ],
+     'dbo:runtime': [ { value: '1314.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Miles_Davis_All_Stars,_Volume_2',
+          href: 'http://dbpedia.org/resource/Miles_Davis_All_Stars,_Volume_2' } ],
+     'dbo:wikiPageID': [ { value: '42890487 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '620977279 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'MilesAllStarsVol1.jpg (en)' } ],
+     'dbp:genre': [ { value: 'Jazz (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Miles Davis with Sonny Rollins (en)' } ],
+     'dbp:length': [ { value: '1314.0' } ],
+     'dbp:name': [ { value: 'Miles Davis All Stars, Volume 1 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Miles DavisAll Stars,Volume 2 (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '1954-12-24 (xsd:date)' },
+        { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' },
+        { value: 'dbr:Hackensack,_New_Jersey',
+          href: 'http://dbpedia.org/resource/Hackensack,_New_Jersey' } ],
+     'dbp:released': [ { value: '1955 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Miles Davis All Stars, Volume 1 (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1955_albums',
+          href: 'http://dbpedia.org/resource/Category:1955_albums' },
+        { value: 'dbc:Miles_Davis_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Miles Davis All Stars, Volume 1 (PRLP 196) is a 10 inch LP album by Miles Davis, released in 1955 by Prestige Records. The two side-long tracks on this LP, and two others, were recorded at Rudy Van Gelder\'s Studio, Hackensack, New Jersey, on December 24, 1954. This was the first of two 10" LPs sourced from the same session, which featured major be-bop contemporaries Milt Jackson and Thelonious Monk, along with the same rhythm section that had been used on Davis\' other recent albums. (en)' } ],
+     'rdfs:label': [ { value: 'Miles Davis All Stars, Volume 1 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Miles Davis All Stars, Volume 1',
+          href: 'http://rdf.freebase.com/ns/m.010qjkx4' },
+        { value: 'wikidata:Miles Davis All Stars, Volume 1',
+          href: 'http://www.wikidata.org/entity/Q17041432' },
+        { value: 'dbpedia-wikidata:Miles Davis All Stars, Volume 1',
+          href: 'http://wikidata.dbpedia.org/resource/Q17041432' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Miles_Davis_All_Stars,_Volume_1?oldid=620977279',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_All_Stars,_Volume_1?oldid=620977279' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Miles_Davis_All_Stars,_Volume_1',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_All_Stars,_Volume_1' } ],
+     'foaf:name': [ { value: 'Miles Davis All Stars, Volume 1 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Miles_Davis_All_Stars,_Volume_2',
+          href: 'http://dbpedia.org/resource/Miles_Davis_All_Stars,_Volume_2' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Miles_Davis_with_Sonny_Rollins',
+          href: 'http://dbpedia.org/resource/Miles_Davis_with_Sonny_Rollins' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Miles_Davis_All_Stars,_Volume_1',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_All_Stars,_Volume_1' } ] } }

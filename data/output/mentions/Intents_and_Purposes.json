@@ -1,0 +1,8 @@
+{ name: 'Intents and Purposes',
+  href: 'http://en.wikipedia.org/wiki/Intents_and_Purposes',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1409,
+       quote: [ 'In his review for All About Jazz, Troy collins states "Intents And Purposes has long been revered as Bill Dixon\'s singular masterpiece...The reissue allows the record to finally take its rightful place alongside such masterpieces as Ornette Coleman\'s Free Jazz, John Coltrane\'s Ascension and Miles Davis\' Bitches Brew.' ] } ] }

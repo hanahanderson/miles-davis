@@ -1,0 +1,8 @@
+{ name: 'Of Love and Peace',
+  href: 'http://en.wikipedia.org/wiki/Of_Love_and_Peace',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1002,
+       quote: [ '"Seven Steps To Heaven" (Miles Davis/Victor Feldman) - 10:17' ] } ] }

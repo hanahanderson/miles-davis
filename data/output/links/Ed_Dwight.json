@@ -1,0 +1,123 @@
+{ name: 'Ed Dwight',
+  entityType: 'agent',
+  href: 'http://dbpedia.org/page/Ed_Dwight',
+  values: 
+   { 'dbo:abstract': [ { value: 'Edward Joseph (Ed) Dwight, Jr. (born September 9, 1933) is an American sculptor and former test pilot who was the first African American to be trained as an astronaut. (en)' } ],
+     'dbo:birthDate': [ { value: '1933-09-09 (xsd:date)' } ],
+     'dbo:birthPlace': 
+      [ { value: 'dbr:Kansas',
+          href: 'http://dbpedia.org/resource/Kansas' },
+        { value: 'dbr:Kansas_City,_Kansas',
+          href: 'http://dbpedia.org/resource/Kansas_City,_Kansas' } ],
+     'dbo:birthYear': [ { value: '1933-01-01 (xsd:date)' } ],
+     'dbo:field': 
+      [ { value: 'dbr:Sculpture',
+          href: 'http://dbpedia.org/resource/Sculpture' } ],
+     'dbo:nationality': 
+      [ { value: 'dbr:Americans',
+          href: 'http://dbpedia.org/resource/Americans' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Captain_Edward_J._Dwight_Jr._in_US_Air_Force.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Captain_Edward_J._Dwight_Jr._in_US_Air_Force.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://thememorypalace.us/2015/08/the-ballad-of-captain-dwight/',
+          href: 'http://thememorypalace.us/2015/08/the-ballad-of-captain-dwight/' },
+        { value: 'http://www.eddwight.com',
+          href: 'http://www.eddwight.com' } ],
+     'dbo:wikiPageID': [ { value: '47333661 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679049128 (xsd:integer)' } ],
+     'dbp:almaMater': 
+      [ { value: 'dbr:Arizona_State_University',
+          href: 'http://dbpedia.org/resource/Arizona_State_University' },
+        { value: 'dbr:University_of_Denver',
+          href: 'http://dbpedia.org/resource/University_of_Denver' } ],
+     'dbp:birthDate': [ { value: '1933-09-09 (xsd:date)' } ],
+     'dbp:birthPlace': 
+      [ { value: 'dbr:Kansas_City,_Kansas',
+          href: 'http://dbpedia.org/resource/Kansas_City,_Kansas' } ],
+     'dbp:caption': [ { value: 'Dwight while serving as a Captain in the United States Air Force (en)' } ],
+     'dbp:dateOfBirth': [ { value: '1933-09-09 (xsd:date)' } ],
+     'dbp:field': 
+      [ { value: 'dbr:Sculpture',
+          href: 'http://dbpedia.org/resource/Sculpture' } ],
+     'dbp:name': 
+      [ { value: 'Edward Joseph Dwight, Jr. (en)' },
+        { value: 'Dwight, Edward (en)' } ],
+     'dbp:nationality': 
+      [ { value: 'dbr:Americans',
+          href: 'http://dbpedia.org/resource/Americans' } ],
+     'dbp:placeOfBirth': [ { value: 'Kansas City, Kansas (en)' } ],
+     'dbp:shortDescription': [ { value: 'American sculptor and test pilot (en)' } ],
+     'dc:description': 
+      [ { value: 'American sculptor and test pilot (en)' },
+        { value: 'American sculptor and test pilot' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1933_births',
+          href: 'http://dbpedia.org/resource/Category:1933_births' },
+        { value: 'dbc:20th-century_American_sculptors',
+          href: 'http://dbpedia.org/resource/Category:20th-century_American_sculptors' },
+        { value: 'dbc:Living_people',
+          href: 'http://dbpedia.org/resource/Category:Living_people' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'foaf:Person',
+          href: 'http://xmlns.com/foaf/0.1/Person' },
+        { value: 'dbo:Person',
+          href: 'http://dbpedia.org/ontology/Person' },
+        { value: 'dul:Agent',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent' },
+        { value: 'dul:NaturalPerson',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson' },
+        { value: 'wikidata:Q215627',
+          href: 'http://www.wikidata.org/entity/Q215627' },
+        { value: 'wikidata:Q483501',
+          href: 'http://www.wikidata.org/entity/Q483501' },
+        { value: 'wikidata:Q5',
+          href: 'http://www.wikidata.org/entity/Q5' },
+        { value: 'dbo:Agent',
+          href: 'http://dbpedia.org/ontology/Agent' },
+        { value: 'dbo:Artist',
+          href: 'http://dbpedia.org/ontology/Artist' },
+        { value: 'schema:Person', href: 'http://schema.org/Person' } ],
+     'rdfs:comment': [ { value: 'Edward Joseph (Ed) Dwight, Jr. (born September 9, 1933) is an American sculptor and former test pilot who was the first African American to be trained as an astronaut. (en)' } ],
+     'rdfs:label': [ { value: 'Ed Dwight (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:Ed Dwight',
+          href: 'http://www.wikidata.org/entity/Q20730310' },
+        { value: 'dbpedia-wikidata:Ed Dwight',
+          href: 'http://wikidata.dbpedia.org/resource/Q20730310' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Ed_Dwight?oldid=679049128',
+          href: 'http://en.wikipedia.org/wiki/Ed_Dwight?oldid=679049128' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Captain_Edward_J._Dwight_Jr._in_US_Air_Force.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Captain_Edward_J._Dwight_Jr._in_US_Air_Force.jpg' } ],
+     'foaf:givenName': [ { value: 'Edward (en)' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.eddwight.com',
+          href: 'http://www.eddwight.com' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Ed_Dwight',
+          href: 'http://en.wikipedia.org/wiki/Ed_Dwight' } ],
+     'foaf:name': 
+      [ { value: 'Edward Dwight (en)' },
+        { value: 'Edward Joseph Dwight, Jr. (en)' },
+        { value: 'Dwight, Edward (en)' } ],
+     'foaf:surname': [ { value: 'Dwight (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Edward_Dwight',
+          href: 'http://dbpedia.org/resource/Edward_Dwight' },
+        { value: 'dbr:Edward_Dwight,_Jr.',
+          href: 'http://dbpedia.org/resource/Edward_Dwight,_Jr.' },
+        { value: 'dbr:Edward_J._Dwight',
+          href: 'http://dbpedia.org/resource/Edward_J._Dwight' },
+        { value: 'dbr:Edward_J._Dwight,_Jr.',
+          href: 'http://dbpedia.org/resource/Edward_J._Dwight,_Jr.' },
+        { value: 'dbr:Edward_Joseph_Dwight',
+          href: 'http://dbpedia.org/resource/Edward_Joseph_Dwight' },
+        { value: 'dbr:Edward_Joseph_Dwight,_Jr.',
+          href: 'http://dbpedia.org/resource/Edward_Joseph_Dwight,_Jr.' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Ed_Dwight',
+          href: 'http://en.wikipedia.org/wiki/Ed_Dwight' } ] } }

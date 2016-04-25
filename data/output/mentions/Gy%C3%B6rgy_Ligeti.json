@@ -1,0 +1,8 @@
+{ name: 'György Ligeti',
+  href: 'http://en.wikipedia.org/wiki/Gy%C3%B6rgy_Ligeti',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'After Le Grand Macabre',
+       sectionIndex: 97,
+       wordCountBeforeSection: 38631,
+       quote: [ 'Miles Davis (1984)' ] } ] }

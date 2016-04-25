@@ -1,0 +1,8 @@
+{ name: 'Tabarka Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Tabarka_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 30,
+       quote: [ 'Artists who have appeared over the years include Al Jarreau, Billy Paul, Barbara Hendricks, Kool & The Gang, Lucky Peterson, Bernard Allison, Diana Krall, Miles Davis, Manu Dibango, Léo Ferré, Dizzy Gillespie, Johnny Van Dyke, Randy Weston, Keith Jarrett, Michel Jonasz, Miriam Makeba, Charles Mingus, Claude Nougaro, Ahmad Jamal, The Temptations and Al Di Meola.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Earnest Woodall',
+  href: 'http://en.wikipedia.org/wiki/Earnest_Woodall',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 289,
+       quote: [ 'A local teacher Peter Rogine introduced him to the music of Philip Glass, Steve Reich and John Adams, as well as Miles Davis, John Coltrane, and Thelonious Monk and coming of age with the progressive music of Yes, Emerson, Lake & Palmer, and Pink Floyd which sparked a lifelong love of both 20th-century classical music, progressive rock and jazz.' ] } ] }

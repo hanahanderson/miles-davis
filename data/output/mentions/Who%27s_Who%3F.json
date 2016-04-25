@@ -1,0 +1,8 @@
+{ name: 'Who\'s Who?',
+  href: 'http://en.wikipedia.org/wiki/Who%27s_Who%3F',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2224,
+       quote: [ 'Miles Davis' ] } ] }

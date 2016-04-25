@@ -1,0 +1,8 @@
+{ name: 'The Picture Show Man',
+  href: 'http://en.wikipedia.org/wiki/The_Picture_Show_Man',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Home Media',
+       sectionIndex: 23,
+       wordCountBeforeSection: 3744,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

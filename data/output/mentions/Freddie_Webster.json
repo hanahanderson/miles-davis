@@ -1,0 +1,8 @@
+{ name: 'Freddie Webster',
+  href: 'http://en.wikipedia.org/wiki/Freddie_Webster',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Freddie Webster (June 8, 1916 – April 1, 1947) was a jazz trumpeter who, Dizzy Gillespie once said, "had the best sound on trumpet since the trumpet was invented--just alive and full of life." He is perhaps best known for being cited by Miles Davis as an early influence.' ] } ] }

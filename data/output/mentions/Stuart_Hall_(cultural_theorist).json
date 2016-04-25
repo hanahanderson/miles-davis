@@ -1,0 +1,8 @@
+{ name: 'Stuart Hall (cultural theorist)',
+  href: 'http://en.wikipedia.org/wiki/Stuart_Hall_(cultural_theorist)',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 20337,
+       quote: [ 'The Stuart Hall Project was composed of clips drawn from more than 100 hours of archival footage of Hall woven together over the music of jazz artist Miles Davis, who was an inspiration to both Hall and Akomfrah.' ] } ] }

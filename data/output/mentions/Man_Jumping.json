@@ -1,0 +1,8 @@
+{ name: 'Man Jumping',
+  href: 'http://en.wikipedia.org/wiki/Man_Jumping',
+  mentions: 
+   [ { sectionHeader: 'Style and work',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2636,
+       quote: [ 'Less organic than its predecessor and more obviously electronic, it is stylistically similar to The Penguin Cafe Orchestra (of imagined ethnic music from the Tropics and Eastern Europe) and to Miles Davis\' 80s electric work with Marcus Miller.' ] } ] }

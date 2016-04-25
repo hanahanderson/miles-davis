@@ -1,0 +1,33 @@
+{ name: 'User talk:Tassedethe/Archive 3',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Tassedethe/Archive_3',
+  mentions: 
+   [ { sectionHeader: 'Quiet Nights',
+       sectionSubHeader: 'Tim Tams',
+       sectionIndex: 334,
+       wordCountBeforeSection: 88742,
+       quote: [] },
+     { sectionHeader: 'Quiet Nights',
+       sectionSubHeader: 'Tim Tams',
+       sectionIndex: 335,
+       wordCountBeforeSection: 89709,
+       quote: 
+        [ 'The article as you had it is still in the history:  I could have added your changes to the Quiet Nights (Miles Davis and Gil Evans album) page but I feel it\'s better if you do it - they\'re your changes so the edit history should reflect that you made them not me.',
+          'However last month more people visited the Diana Krall album than the Miles Davis one.',
+          'Obviously, not the one by Django Bates, who does not have the international stature of Miles Davis or Diana Krall.',
+          'But Miles Davis is one of the most important figures in the history of jazz, and virtually anything he did, especially from the years 1949 to 1975, is "primary" - of primary importance both artistically and historically.' ] },
+     { sectionHeader: 'Quiet Nights',
+       sectionSubHeader: 'Tim Tams',
+       sectionIndex: 335,
+       wordCountBeforeSection: 89709,
+       quote: 
+        [ 'The article as you had it is still in the history:  I could have added your changes to the Quiet Nights (Miles Davis and Gil Evans album) page but I feel it\'s better if you do it - they\'re your changes so the edit history should reflect that you made them not me.',
+          'However last month more people visited the Diana Krall album than the Miles Davis one.',
+          'Obviously, not the one by Django Bates, who does not have the international stature of Miles Davis or Diana Krall.',
+          'But Miles Davis is one of the most important figures in the history of jazz, and virtually anything he did, especially from the years 1949 to 1975, is "primary" - of primary importance both artistically and historically.' ] },
+     { sectionHeader: 'Quiet Nights',
+       sectionSubHeader: 'Tim Tams',
+       sectionIndex: 335,
+       wordCountBeforeSection: 89709,
+       quote: 
+        [ 'Obviously, not the one by Django Bates, who does not have the international stature of Miles Davis or Diana Krall.',
+          'But Miles Davis is one of the most important figures in the history of jazz, and virtually anything he did, especially from the years 1949 to 1975, is "primary" - of primary importance both artistically and historically.' ] } ] }

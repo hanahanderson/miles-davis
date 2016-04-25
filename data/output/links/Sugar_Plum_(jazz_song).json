@@ -1,0 +1,47 @@
+{ name: 'Sugar Plum (jazz song)',
+  entityType: 'AuditoryCommunication107109019',
+  href: 'http://dbpedia.org/page/Sugar_Plum_(jazz_song)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Sugar Plum" is a jazz song by American jazz pianist Bill Evans (1929–1980). It features on The Bill Evans Album (1971). Evans reportedly wrote the song for his wife Nenette Evans.  The form of the song is an extension of the typical jazz standard. The song has no melody, but instead is defined by a set of 8-bar chord changes that ultimately cycles through the circle of fourths; in this case, all twelve major keys (via ii-V-I progressions).  Evans creates his own improvised melodies over each chorus.  It begins in G major, then C major, F major, B-flat major, E-flat major, etc.  The chord progression as described by Roman numerals is as follows:     /  I  / repeat /  bVII  / repeat /  I  / repeat (ii—V--) /  I  / (of new key)          This translates to:          /Gmaj7/    /Fmaj7/    /Gmaj7/    /Dm7/ /G7/  /Cmaj7/ = new key (en)' } ],
+     'dbo:wikiPageID': [ { value: '8051997 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682693445 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1971_songs',
+          href: 'http://dbpedia.org/resource/Category:1971_songs' },
+        { value: 'dbc:Jazz_songs',
+          href: 'http://dbpedia.org/resource/Category:Jazz_songs' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:AuditoryCommunication107109019',
+          href: 'http://dbpedia.org/class/yago/AuditoryCommunication107109019' },
+        { value: 'yago:Communication100033020',
+          href: 'http://dbpedia.org/class/yago/Communication100033020' },
+        { value: 'yago:Music107020895',
+          href: 'http://dbpedia.org/class/yago/Music107020895' },
+        { value: 'yago:MusicalComposition107037465',
+          href: 'http://dbpedia.org/class/yago/MusicalComposition107037465' },
+        { value: 'yago:Song107048000',
+          href: 'http://dbpedia.org/class/yago/Song107048000' },
+        { value: 'yago:JazzSongs',
+          href: 'http://dbpedia.org/class/yago/JazzSongs' } ],
+     'rdfs:comment': [ { value: '"Sugar Plum" is a jazz song by American jazz pianist Bill Evans (1929–1980). It features on The Bill Evans Album (1971). Evans reportedly wrote the song for his wife Nenette Evans.  The form of the song is an extension of the typical jazz standard. The song has no melody, but instead is defined by a set of 8-bar chord changes that ultimately cycles through the circle of fourths; in this case, all twelve major keys (via ii-V-I progressions). (en)' } ],
+     'rdfs:label': [ { value: 'Sugar Plum (jazz song) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Sugar Plum (jazz song)',
+          href: 'http://rdf.freebase.com/ns/m.026pt_w' },
+        { value: 'dbpedia-wikidata:Sugar Plum (jazz song)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7634888' },
+        { value: 'wikidata:Sugar Plum (jazz song)',
+          href: 'http://www.wikidata.org/entity/Q7634888' },
+        { value: 'yago-res:Sugar Plum (jazz song)',
+          href: 'http://yago-knowledge.org/resource/Sugar_Plum_(jazz_song)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Sugar_Plum_(jazz_song)?oldid=682693445',
+          href: 'http://en.wikipedia.org/wiki/Sugar_Plum_(jazz_song)?oldid=682693445' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Sugar_Plum_(jazz_song)',
+          href: 'http://en.wikipedia.org/wiki/Sugar_Plum_(jazz_song)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Sugar_Plum_(jazz_song)',
+          href: 'http://en.wikipedia.org/wiki/Sugar_Plum_(jazz_song)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'User:Brinkost/Musical-acts-that-I-like',
+  href: 'http://en.wikipedia.org/wiki/User:Brinkost/Musical-acts-that-I-like',
+  mentions: 
+   [ { sectionHeader: 'Musical acts that I like',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 30,
+       quote: [ 'Miles Davis' ] } ] }

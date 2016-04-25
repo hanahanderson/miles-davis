@@ -1,0 +1,8 @@
+{ name: 'Clyde Reasinger',
+  href: 'http://en.wikipedia.org/wiki/Clyde_Reasinger',
+  mentions: 
+   [ { sectionHeader: 'Selected filmography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1303,
+       quote: [ 'Miles Davis, John Coltrane, Wynton Kelly, Paul Chambers, Jimmy Cobb' ] } ] }

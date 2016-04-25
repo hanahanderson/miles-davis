@@ -1,0 +1,13 @@
+{ name: 'List of concept albums',
+  href: 'http://en.wikipedia.org/wiki/List_of_concept_albums',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 10712,
+       quote: [ 'Miles Davis - Aura' ] },
+     { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 10712,
+       quote: [] } ] }

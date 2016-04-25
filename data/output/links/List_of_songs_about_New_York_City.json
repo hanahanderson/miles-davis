@@ -1,0 +1,46 @@
+{ name: 'List of songs about New York City',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_songs_about_New_York_City',
+  values: 
+   { 'dbo:abstract': [ { value: 'This article lists songs about New York City, set there, or named after a location or feature of the city.It is not intended to include songs where New York is simply "name-checked" along with various other cities. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://newpinkfloyd.bandcamp.com/track/new-new-york',
+          href: 'http://newpinkfloyd.bandcamp.com/track/new-new-york' },
+        { value: 'http://newpinkfloyd.bandcamp.com/track/test-test',
+          href: 'http://newpinkfloyd.bandcamp.com/track/test-test' } ],
+     'dbo:wikiPageID': [ { value: '1248038 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683911865 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Songs_about_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Songs_about_the_United_States' },
+        { value: 'dbc:New_York_City_in_popular_culture',
+          href: 'http://dbpedia.org/resource/Category:New_York_City_in_popular_culture' },
+        { value: 'dbc:New_York_City-related_lists',
+          href: 'http://dbpedia.org/resource/Category:New_York_City-related_lists' },
+        { value: 'dbc:Songs_about_New_York',
+          href: 'http://dbpedia.org/resource/Category:Songs_about_New_York' },
+        { value: 'dbc:Lists_of_songs_about_a_city',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_songs_about_a_city' } ],
+     'rdfs:comment': [ { value: 'This article lists songs about New York City, set there, or named after a location or feature of the city.It is not intended to include songs where New York is simply "name-checked" along with various other cities. (en)' } ],
+     'rdfs:label': [ { value: 'List of songs about New York City (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of songs about New York City',
+          href: 'http://wikidata.dbpedia.org/resource/Q6639827' },
+        { value: 'wikidata:List of songs about New York City',
+          href: 'http://www.wikidata.org/entity/Q6639827' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_songs_about_New_York_City?oldid=683911865',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_about_New_York_City?oldid=683911865' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_songs_about_New_York_City',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_about_New_York_City' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_songs_about_new_york',
+          href: 'http://dbpedia.org/resource/List_of_songs_about_new_york' },
+        { value: 'dbr:List_of_songs_about_new_york_city',
+          href: 'http://dbpedia.org/resource/List_of_songs_about_new_york_city' },
+        { value: 'dbr:List_of_songs_about_nyc',
+          href: 'http://dbpedia.org/resource/List_of_songs_about_nyc' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_songs_about_New_York_City',
+          href: 'http://en.wikipedia.org/wiki/List_of_songs_about_New_York_City' } ] } }

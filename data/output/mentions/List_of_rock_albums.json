@@ -1,0 +1,8 @@
+{ name: 'List of rock albums',
+  href: 'http://en.wikipedia.org/wiki/List_of_rock_albums',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 3142,
+       quote: [ 'Miles Davis - Bitches Brew (2)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Congregation (album)',
+  href: 'http://en.wikipedia.org/wiki/Congregation_(album)',
+  mentions: 
+   [ { sectionHeader: 'Recording',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 5578,
+       quote: [ 'After the album\'s sessions were done, Dulli was inspired to write and record an additional track on the day of Miles Davis\' death, September 28, 1991.' ] } ] }

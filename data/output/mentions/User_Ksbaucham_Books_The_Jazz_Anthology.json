@@ -1,0 +1,8 @@
+{ name: 'User:Ksbaucham/Books/The Jazz Anthology',
+  href: 'http://en.wikipedia.org/wiki/User:Ksbaucham/Books/The_Jazz_Anthology',
+  mentions: 
+   [ { sectionHeader: 'The Jazz Anthology',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 603,
+       quote: [ 'Miles Davis' ] } ] }

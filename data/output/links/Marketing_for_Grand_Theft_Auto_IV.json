@@ -1,0 +1,50 @@
+{ name: 'Marketing for Grand Theft Auto IV',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Marketing_for_Grand_Theft_Auto_IV',
+  values: 
+   { 'dbo:abstract': [ { value: 'Grand Theft Auto IV is the first title in the third generation of the best-selling Grand Theft Auto video game franchise developed by Rockstar North which was released on 29 April 2008. As the release date approached, Rockstar had been marketing the game heavily. Rockstar\'s marketing has come in many forms, including television ads, internet video, viral marketing, and a redesigned web site. There was even a mural of a prostitute named Lola painted on the side of a building in SoHo, New York. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Mural_ad_GTA_IV_NYC.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mural_ad_GTA_IV_NYC.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://rockstargames.com/IV/',
+          href: 'http://rockstargames.com/IV/' } ],
+     'dbo:wikiPageID': [ { value: '15876793 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663933458 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Video_game_marketing',
+          href: 'http://dbpedia.org/resource/Category:Video_game_marketing' },
+        { value: 'dbc:Grand_Theft_Auto_IV',
+          href: 'http://dbpedia.org/resource/Category:Grand_Theft_Auto_IV' } ],
+     'rdfs:comment': [ { value: 'Grand Theft Auto IV is the first title in the third generation of the best-selling Grand Theft Auto video game franchise developed by Rockstar North which was released on 29 April 2008. As the release date approached, Rockstar had been marketing the game heavily. Rockstar\'s marketing has come in many forms, including television ads, internet video, viral marketing, and a redesigned web site. There was even a mural of a prostitute named Lola painted on the side of a building in SoHo, New York. (en)' } ],
+     'rdfs:label': [ { value: 'Marketing for Grand Theft Auto IV (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Marketing for Grand Theft Auto IV',
+          href: 'http://rdf.freebase.com/ns/m.011btncf' },
+        { value: 'dbpedia-wikidata:Marketing for Grand Theft Auto IV',
+          href: 'http://wikidata.dbpedia.org/resource/Q6770909' },
+        { value: 'wikidata:Marketing for Grand Theft Auto IV',
+          href: 'http://www.wikidata.org/entity/Q6770909' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Marketing_for_Grand_Theft_Auto_IV?oldid=663933458',
+          href: 'http://en.wikipedia.org/wiki/Marketing_for_Grand_Theft_Auto_IV?oldid=663933458' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Mural_ad_GTA_IV_NYC.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Mural_ad_GTA_IV_NYC.jpg' } ],
+     'foaf:homepage': 
+      [ { value: 'http://rockstargames.com/IV/',
+          href: 'http://rockstargames.com/IV/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Marketing_for_Grand_Theft_Auto_IV',
+          href: 'http://en.wikipedia.org/wiki/Marketing_for_Grand_Theft_Auto_IV' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Marketing_for_GTA_IV',
+          href: 'http://dbpedia.org/resource/Marketing_for_GTA_IV' },
+        { value: 'dbr:Promotion_of_Grand_Theft_Auto_IV',
+          href: 'http://dbpedia.org/resource/Promotion_of_Grand_Theft_Auto_IV' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Grand_Theft_Auto_IV',
+          href: 'http://dbpedia.org/resource/Grand_Theft_Auto_IV' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Marketing_for_Grand_Theft_Auto_IV',
+          href: 'http://en.wikipedia.org/wiki/Marketing_for_Grand_Theft_Auto_IV' } ] } }

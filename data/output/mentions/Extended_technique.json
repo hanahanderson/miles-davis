@@ -1,0 +1,8 @@
+{ name: 'Extended technique',
+  href: 'http://en.wikipedia.org/wiki/Extended_technique',
+  mentions: 
+   [ { sectionHeader: 'Notable performers',
+       sectionSubHeader: '',
+       sectionIndex: 62,
+       wordCountBeforeSection: 9608,
+       quote: [ 'Miles Davis' ] } ] }

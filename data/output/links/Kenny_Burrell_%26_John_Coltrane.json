@@ -1,0 +1,4 @@
+{ name: 'Kenny Burrell & John Coltrane',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Kenny_Burrell_%26_John_Coltrane',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

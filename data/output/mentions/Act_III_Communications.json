@@ -1,0 +1,8 @@
+{ name: 'Act III Communications',
+  href: 'http://en.wikipedia.org/wiki/Act_III_Communications',
+  mentions: 
+   [ { sectionHeader: 'Concord Music Group',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 4107,
+       quote: [ 'Other artists on Concord\'s labels include Ray Charles, Ella Fitzgerald, Thelonious Monk, Chick Corea, John Coltrane, Miles Davis, Sergio Mendes and Creedence Clearwater Revival.' ] } ] }

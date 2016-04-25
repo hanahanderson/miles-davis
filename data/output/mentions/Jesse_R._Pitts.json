@@ -1,0 +1,8 @@
+{ name: 'Jesse R. Pitts',
+  href: 'http://en.wikipedia.org/wiki/Jesse_R._Pitts',
+  mentions: 
+   [ { sectionHeader: 'Harvard and World War II',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2211,
+       quote: [ 'While he found the job unsatisfying, his roommate Jim Chapin introduced him to Jazz which was thriving in New York City and he truly enjoyed (later he would often start his classes with Miles Davis recordings.) Once the U.S. declared war, he enlisted in the US Air Corps and went into pilot training then sent to England in 1943, to the Base in Kimbolton as part of the 379th Bombardment Group (heavy).' ] } ] }

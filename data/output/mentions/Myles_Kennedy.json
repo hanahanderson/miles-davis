@@ -1,0 +1,8 @@
+{ name: 'Myles Kennedy',
+  href: 'http://en.wikipedia.org/wiki/Myles_Kennedy',
+  mentions: 
+   [ { sectionHeader: 'Artistry and influences',
+       sectionSubHeader: 'Other session work: 2001–present',
+       sectionIndex: 47,
+       wordCountBeforeSection: 23948,
+       quote: [ 'He has also cited other jazz players John Coltrane, Al Green, Mike Stern, Miles Davis, Otis Redding, Frank Gambale, Pat Metheny, Lyle Mays, and Curtis Mayfield as early influences.' ] } ] }

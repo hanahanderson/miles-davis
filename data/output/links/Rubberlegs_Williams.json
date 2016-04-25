@@ -1,0 +1,42 @@
+{ name: 'Rubberlegs Williams',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Rubberlegs_Williams',
+  values: 
+   { 'dbo:abstract': [ { value: 'Henry "Rubberlegs" Williams (14 July 1907 in Atlanta - 17 October 1962 in New York City) was an American blues and jazz singer, dancer and occasional female impersonator. A star of Vaudeville, he is probably best remembered for his singing work with Charlie Parker and Dizzy Gillespie, although it was for his dancing that he was renowned for in New York City and Boston. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.youtube.com/watch?v=_L5J3044W6s',
+          href: 'http://www.youtube.com/watch?v=_L5J3044W6s' },
+        { value: 'http://www.discogs.com/artist/Rubberlegs+Williams',
+          href: 'http://www.discogs.com/artist/Rubberlegs+Williams' } ],
+     'dbo:wikiPageID': [ { value: '41287975 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662708166 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_blues_singers',
+          href: 'http://dbpedia.org/resource/Category:American_blues_singers' },
+        { value: 'dbc:American_jazz_singers',
+          href: 'http://dbpedia.org/resource/Category:American_jazz_singers' },
+        { value: 'dbc:American_male_dancers',
+          href: 'http://dbpedia.org/resource/Category:American_male_dancers' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'Henry "Rubberlegs" Williams (14 July 1907 in Atlanta - 17 October 1962 in New York City) was an American blues and jazz singer, dancer and occasional female impersonator. A star of Vaudeville, he is probably best remembered for his singing work with Charlie Parker and Dizzy Gillespie, although it was for his dancing that he was renowned for in New York City and Boston. (en)' } ],
+     'rdfs:label': [ { value: 'Rubberlegs Williams (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Rubberlegs Williams',
+          href: 'http://rdf.freebase.com/ns/m.01tqcw7' },
+        { value: 'dbpedia-de:Rubberlegs Williams',
+          href: 'http://de.dbpedia.org/resource/Rubberlegs_Williams' },
+        { value: 'dbpedia-wikidata:Rubberlegs Williams',
+          href: 'http://wikidata.dbpedia.org/resource/Q1375231' },
+        { value: 'wikidata:Rubberlegs Williams',
+          href: 'http://www.wikidata.org/entity/Q1375231' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Rubberlegs_Williams?oldid=662708166',
+          href: 'http://en.wikipedia.org/wiki/Rubberlegs_Williams?oldid=662708166' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Rubberlegs_Williams',
+          href: 'http://en.wikipedia.org/wiki/Rubberlegs_Williams' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Rubberlegs_Williams',
+          href: 'http://en.wikipedia.org/wiki/Rubberlegs_Williams' } ] } }

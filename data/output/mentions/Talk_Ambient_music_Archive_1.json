@@ -1,0 +1,13 @@
+{ name: 'Talk:Ambient music/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:Ambient_music/Archive_1',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 205,
+       quote: [ '10 Miles Davis\' In A Silent Way' ] },
+     { sectionHeader: 'Miles Davis\' In A Silent Way',
+       sectionSubHeader: 'Ambient in Electronic styles list',
+       sectionIndex: 47,
+       wordCountBeforeSection: 8621,
+       quote: [ 'The list and history is missing Miles Davis\' ambient jazz album In A Silent Way  (1969).' ] } ] }

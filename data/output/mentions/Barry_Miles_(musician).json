@@ -1,0 +1,8 @@
+{ name: 'Barry Miles (musician)',
+  href: 'http://en.wikipedia.org/wiki/Barry_Miles_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 805,
+       quote: [ 'He joined the musicians union at age nine in 1956 as a child prodigy drummer/pianist/vibist appearing with Miles Davis and John Coltrane among other talents of the day live and on TV shows including To Tell The Truth, Dick Van Dyke\'s variety show, and The Andy Williams Show.' ] } ] }

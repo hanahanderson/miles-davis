@@ -1,0 +1,8 @@
+{ name: 'The Bottom Line (venue)',
+  href: 'http://en.wikipedia.org/wiki/The_Bottom_Line_(venue)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1019,
+       quote: [ 'Among the thousands who performed on its stage were Eric Clapton, Carl Perkins, Linda Ronstadt, The Police, Richard Marx, Prince, Daryl Hall & John Oates, Van Morrison, The Stone Poneys, Chuck Mangione, Emmylou Harris, Clinn Rippy, Neil Young, Barry Manilow, Laura Nyro, Loudon Wainwright III, New York Dolls, Lyle Lovett, The Electric Flag, Pat Martino, Todd Rundgren, Graham Parker, Grayson Hugh, Stan Ridgway, Horslips, Dire Straits, Chris Hillman, Hawkwind, Dolly Parton, George Jones, Tracy Nelson, The Pointer Sisters, Betty Carter, Ravi Shankar, Ramones, Miles Davis, Gato Barbieri, Bill Evans, Charles Mingus, Mose Allison, Muddy Waters, Mike Bloomfield, Paul Butterfield, Ray Barretto, Peter Gabriel, Al Kooper, Tom Waits, Melvin Van Peebles, Neil Sedaka, Billy Joel, Suzi Quatro, Patti Smith, Flo & Eddie, Toots and the Maytals, Cheech & Chong, Tower of Power, Tim Hardin, Roger McGuinn, JJ Cale, The Meters, Greg Kihn Band, Ry Cooder, Southside Johnny & The Asbury Jukes, Sam & Dave, Asım Can Gündüz, The Ronettes, John Cale, Richard Barone and The Bongos, Gong, Peter Bardens, The Violent Femmes and Michael Hedges.' ] } ] }

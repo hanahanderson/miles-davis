@@ -1,0 +1,13 @@
+{ name: 'List of jazz musicians',
+  href: 'http://en.wikipedia.org/wiki/List_of_jazz_musicians',
+  mentions: 
+   [ { sectionHeader: 'Giants of jazz',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1255,
+       quote: [ 'Miles Davis (1926–1991)' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis (1926–1991)' ] } ] }

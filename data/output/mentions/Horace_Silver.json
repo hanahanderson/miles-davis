@@ -1,0 +1,13 @@
+{ name: 'Horace Silver',
+  href: 'http://en.wikipedia.org/wiki/Horace_Silver',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Art Blakey, Junior Cook, Miles Davis, Art Farmer, Joe Henderson, Blue Mitchell, Hank Mobley' ] },
+     { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 5972,
+       quote: [ 'In 1953, he was pianist on sessions led by Sonny Stitt, Howard McGhee, and Al Cohn, and, the following year, he played on albums by Art Farmer, Miles Davis, Milt Jackson and others.' ] } ] }

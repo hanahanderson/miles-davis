@@ -1,0 +1,8 @@
+{ name: 'East St. Louis Senior High School',
+  href: 'http://en.wikipedia.org/wiki/East_St._Louis_Senior_High_School',
+  mentions: 
+   [ { sectionHeader: 'Notable alumni',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1515,
+       quote: [ 'Miles Davis, class of 1944, jazz musician.' ] } ] }

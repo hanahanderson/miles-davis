@@ -1,0 +1,8 @@
+{ name: 'The Man from Snowy River (soundtrack)',
+  href: 'http://en.wikipedia.org/wiki/The_Man_from_Snowy_River_(soundtrack)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Track listing',
+       sectionIndex: 24,
+       wordCountBeforeSection: 2416,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

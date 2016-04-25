@@ -1,0 +1,13 @@
+{ name: 'Portal:New York City',
+  href: 'http://en.wikipedia.org/wiki/Portal:New_York_City',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ ' Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis (2005-09-28)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Charlie Parker\'s Savoy and Dial sessions',
+  href: 'http://en.wikipedia.org/wiki/Charlie_Parker%27s_Savoy_and_Dial_sessions',
+  mentions: 
+   [ { sectionHeader: 'Session 1',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1676,
+       quote: [ 'Charlie Parker (alto sax), Miles Davis (trumpet, 1,3,4), Dizzy Gillespie (trumpet, 6; piano, 1,3,5,6), Sadik Hakim (piano, 2,4), Curley Russell (bass), Max Roach (drums)' ] } ] }

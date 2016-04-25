@@ -1,0 +1,8 @@
+{ name: 'Timeline of music in the United States (1970–present)',
+  href: 'http://en.wikipedia.org/wiki/Timeline_of_music_in_the_United_States_(1970%E2%80%93present)',
+  mentions: 
+   [ { sectionHeader: '1970',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 728,
+       quote: [ 'Miles Davis\' Bitches Brew is an important part of the origin of jazz-rock.' ] } ] }

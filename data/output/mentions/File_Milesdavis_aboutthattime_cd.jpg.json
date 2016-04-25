@@ -1,0 +1,8 @@
+{ name: 'File:Milesdavis aboutthattime cd.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:Milesdavis_aboutthattime_cd.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is the front cover (specifically: a plastic slipcase revealing booklet\'s cover photo) for the CD Live at the Fillmore East, March 7, 1970: It\'s About that Time by the artist Miles Davis.' ] } ] }

@@ -1,0 +1,112 @@
+{ name: 'Sonic Explorations',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Sonic_Explorations',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '44.96666666666667' }, { value: '54.75' } ],
+     'dbo:abstract': [ { value: 'Sonic Explorations is the debut album by American jazz pianist Matthew Shipp and alto saxophonist Rob Brown, originally issued on LP in 1988 on Cadence Jazz. Both musicians played together for about 5 years before. "Sonic Explorations" is a suite in 6 sections (including a piano solo and a sax solo section). The duo also plays jazz standards Oleo by Sonny Rollins and Blue in Green (credited to Miles Davis on Kind of Blue, but Shipp believes that Bill Evans wrote the piece). "I love Bill Evans even though a lot of people don\'t connect my playing with him at all. I learned a lot from him about phrasing, harmonic possibilities of the piano", Shipp says. The 2000 CD reissue adds additional takes of both standards. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Matthew_Shipp',
+          href: 'http://dbpedia.org/resource/Matthew_Shipp' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Rob_Brown_(saxophonist)',
+          href: 'http://dbpedia.org/resource/Rob_Brown_(saxophonist)' },
+        { value: 'dbr:Matthew_Shipp',
+          href: 'http://dbpedia.org/resource/Matthew_Shipp' } ],
+     'dbo:recordDate': 
+      [ { value: '1987-11-19 (xsd:date)' },
+        { value: '2014-02-10 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Cadence_Jazz_Records',
+          href: 'http://dbpedia.org/resource/Cadence_Jazz_Records' } ],
+     'dbo:runtime': 
+      [ { value: '2698.000000 (xsd:double)' },
+        { value: '3285.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Points_(Matthew_Shipp_album)',
+          href: 'http://dbpedia.org/resource/Points_(Matthew_Shipp_album)' } ],
+     'dbo:wikiPageID': [ { value: '41911580 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '618896255 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Rob_Brown_(saxophonist)',
+          href: 'http://dbpedia.org/resource/Rob_Brown_(saxophonist)' },
+        { value: 'dbr:Matthew_Shipp',
+          href: 'http://dbpedia.org/resource/Matthew_Shipp' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Matthew_Shipp',
+          href: 'http://dbpedia.org/resource/Matthew_Shipp' } ],
+     'dbp:cover': [ { value: 'Sonic_Explorations_Cover.jpeg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Cadence_Jazz_Records',
+          href: 'http://dbpedia.org/resource/Cadence_Jazz_Records' } ],
+     'dbp:length': [ { value: '2698.0' }, { value: '3285.0' } ],
+     'dbp:name': [ { value: 'Sonic Explorations (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Points (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Rob_Brown_(saxophonist)',
+          href: 'http://dbpedia.org/resource/Rob_Brown_(saxophonist)' },
+        { value: 'dbr:Matthew_Shipp',
+          href: 'http://dbpedia.org/resource/Matthew_Shipp' } ],
+     'dbp:recorded': 
+      [ { value: '1987-11-19 (xsd:date)' },
+        { value: 'Evergreen Studio, New York (en)' } ],
+     'dbp:released': [ { value: '1988 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:The_Penguin_Guide_to_Jazz',
+          href: 'http://dbpedia.org/resource/The_Penguin_Guide_to_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'Sonic Explorations (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Cadence_Jazz_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Cadence_Jazz_Records_albums' },
+        { value: 'dbc:Matthew_Shipp_albums',
+          href: 'http://dbpedia.org/resource/Category:Matthew_Shipp_albums' },
+        { value: 'dbc:Rob_Brown_(saxophonist)_albums',
+          href: 'http://dbpedia.org/resource/Category:Rob_Brown_(saxophonist)_albums' },
+        { value: 'dbc:1988_debut_albums',
+          href: 'http://dbpedia.org/resource/Category:1988_debut_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Sonic Explorations is the debut album by American jazz pianist Matthew Shipp and alto saxophonist Rob Brown, originally issued on LP in 1988 on Cadence Jazz. Both musicians played together for about 5 years before. "Sonic Explorations" is a suite in 6 sections (including a piano solo and a sax solo section). The duo also plays jazz standards Oleo by Sonny Rollins and Blue in Green (credited to Miles Davis on Kind of Blue, but Shipp believes that Bill Evans wrote the piece). (en)' } ],
+     'rdfs:label': [ { value: 'Sonic Explorations (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Sonic Explorations',
+          href: 'http://rdf.freebase.com/ns/m.0_qkt8h' },
+        { value: 'wikidata:Sonic Explorations',
+          href: 'http://www.wikidata.org/entity/Q17061506' },
+        { value: 'dbpedia-wikidata:Sonic Explorations',
+          href: 'http://wikidata.dbpedia.org/resource/Q17061506' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Sonic_Explorations?oldid=618896255',
+          href: 'http://en.wikipedia.org/wiki/Sonic_Explorations?oldid=618896255' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Sonic_Explorations',
+          href: 'http://en.wikipedia.org/wiki/Sonic_Explorations' } ],
+     'foaf:name': [ { value: 'Sonic Explorations (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Points_(Matthew_Shipp_album)',
+          href: 'http://dbpedia.org/resource/Points_(Matthew_Shipp_album)' },
+        { value: 'dbr:Breath_Rhyme',
+          href: 'http://dbpedia.org/resource/Breath_Rhyme' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Sonic_Explorations',
+          href: 'http://en.wikipedia.org/wiki/Sonic_Explorations' } ] } }

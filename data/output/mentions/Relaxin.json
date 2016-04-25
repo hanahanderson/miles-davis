@@ -1,0 +1,13 @@
+{ name: 'Relaxin',
+  href: 'http://en.wikipedia.org/wiki/Relaxin',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'For the Miles Davis album, see Relaxin\' with the Miles Davis Quintet.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'For the Miles Davis album, see Relaxin\' with the Miles Davis Quintet.' ] } ] }

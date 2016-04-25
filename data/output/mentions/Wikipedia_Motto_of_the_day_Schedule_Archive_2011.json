@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Motto of the day/Schedule/Archive 2011',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Motto_of_the_day/Schedule/Archive_2011',
+  mentions: 
+   [ { sectionHeader: '2011',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 21077,
+       quote: [] } ] }

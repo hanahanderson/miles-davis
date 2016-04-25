@@ -1,0 +1,8 @@
+{ name: 'Embryonic',
+  href: 'http://en.wikipedia.org/wiki/Embryonic',
+  mentions: 
+   [ { sectionHeader: 'Sound and influence',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3538,
+       quote: [ 'The style of the tracks on Embryonic differs from the styles of previous albums, Yoshimi Battles the Pink Robots and At War with the Mystics, and has been reported to be similar to the style of Joy Division, Miles Davis, and John Lennon.' ] } ] }

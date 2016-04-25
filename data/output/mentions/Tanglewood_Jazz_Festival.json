@@ -1,0 +1,8 @@
+{ name: 'Tanglewood Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Tanglewood_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1087,
+       quote: [ 'Artists who appeared include Miles Davis, Diana Krall, Wynton Marsalis, Natalie Cole, Ahmad Jamal, Donal Fox, Nancy Wilson, Roy Haynes, Roy Hargrove, Jimmy Smith, Freddie Hubbard, Ray Charles, Hiromi Uehara, and many more.' ] } ] }

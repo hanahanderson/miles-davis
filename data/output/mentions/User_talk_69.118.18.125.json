@@ -1,0 +1,13 @@
+{ name: 'User talk:69.118.18.125',
+  href: 'http://en.wikipedia.org/wiki/User_talk:69.118.18.125',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis 01:46, 27 March 2007 (UTC)' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 44,
+       quote: [ 'Welcome, and thank you for experimenting with the page Miles Davis on Wikipedia.' ] } ] }

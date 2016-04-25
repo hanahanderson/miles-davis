@@ -1,0 +1,8 @@
+{ name: 'Life (band)',
+  href: 'http://en.wikipedia.org/wiki/Life_(band)',
+  mentions: 
+   [ { sectionHeader: 'R.U.D.W.N.? EP',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2971,
+       quote: [ 'Finally, the drummer on Kill The Messenger was another legend Omar Hakim who was a particular hero to Foolish Prophet due to his wide ranging work with Miles Davis, Sting, Madonna, Daft Punk etc.' ] } ] }

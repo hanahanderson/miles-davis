@@ -1,0 +1,8 @@
+{ name: 'Gyratory System',
+  href: 'http://en.wikipedia.org/wiki/Gyratory_System',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 914,
+       quote: [ 'His trumpet-playing style, which involves the heavy use of electronic treatments, has been likened to \'Miles Davis circa On The Corner, Andy Diagram or Jon Hassell\'.' ] } ] }

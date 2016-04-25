@@ -1,0 +1,8 @@
+{ name: 'Billy Straus',
+  href: 'http://en.wikipedia.org/wiki/Billy_Straus',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 584,
+       quote: [ 'While enrolled at Brown University in 1978, Straus started working as a recording engineer, recording live albums and broadcasts for artists such as George Jones, Miles Davis, Grateful Dead and Joni Mitchell.' ] } ] }

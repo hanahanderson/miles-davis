@@ -1,0 +1,8 @@
+{ name: 'Rafael Kubelík',
+  href: 'http://en.wikipedia.org/wiki/Rafael_Kubel%C3%ADk',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Compositions',
+       sectionIndex: 40,
+       wordCountBeforeSection: 15764,
+       quote: [ 'Miles Davis (1984)' ] } ] }

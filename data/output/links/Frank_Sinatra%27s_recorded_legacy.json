@@ -1,0 +1,28 @@
+{ name: 'Frank Sinatra\'s recorded legacy',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Frank_Sinatra%27s_recorded_legacy',
+  values: 
+   { 'dbo:abstract': [ { value: 'Frank Sinatra\'s musical career begin in the swing era in 1935, and ended in 1995. (en)' } ],
+     'dbo:wikiPageID': [ { value: '11891515 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '668717978 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Frank_Sinatra',
+          href: 'http://dbpedia.org/resource/Category:Frank_Sinatra' } ],
+     'rdfs:comment': [ { value: 'Frank Sinatra\'s musical career begin in the swing era in 1935, and ended in 1995. (en)' } ],
+     'rdfs:label': [ { value: 'Frank Sinatra\'s recorded legacy (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Frank Sinatra\'s recorded legacy',
+          href: 'http://rdf.freebase.com/ns/m.02rx07j' },
+        { value: 'dbpedia-wikidata:Frank Sinatra\'s recorded legacy',
+          href: 'http://wikidata.dbpedia.org/resource/Q5489597' },
+        { value: 'wikidata:Frank Sinatra\'s recorded legacy',
+          href: 'http://www.wikidata.org/entity/Q5489597' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Frank_Sinatra\'s_recorded_legacy?oldid=668717978',
+          href: 'http://en.wikipedia.org/wiki/Frank_Sinatra\'s_recorded_legacy?oldid=668717978' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Frank_Sinatra\'s_recorded_legacy',
+          href: 'http://en.wikipedia.org/wiki/Frank_Sinatra\'s_recorded_legacy' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Frank_Sinatra\'s_recorded_legacy',
+          href: 'http://en.wikipedia.org/wiki/Frank_Sinatra\'s_recorded_legacy' } ] } }

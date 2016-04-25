@@ -1,0 +1,115 @@
+{ name: 'Within a Song',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Within_a_Song',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '61.18333333333333' } ],
+     'dbo:abstract': [ { value: 'Within a Song is an album by guitarist John Abercrombie\'s Quartet with saxophonist Joe Lovano, bassist Drew Gress, and drummer Joey Baron recorded in 2012 and released on the ECM label (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Abercrombie_(guitarist)',
+          href: 'http://dbpedia.org/resource/John_Abercrombie_(guitarist)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Wait_Till_You_See_Her_(album)',
+          href: 'http://dbpedia.org/resource/Wait_Till_You_See_Her_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Avatar_Studios',
+          href: 'http://dbpedia.org/resource/Avatar_Studios' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:releaseDate': [ { value: '2012-04-27 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3671.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:39_Steps_(album)',
+          href: 'http://dbpedia.org/resource/39_Steps_(album)' } ],
+     'dbo:wikiPageID': [ { value: '41312680 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '647126264 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Abercrombie_(guitarist)',
+          href: 'http://dbpedia.org/resource/John_Abercrombie_(guitarist)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:John_Abercrombie_(guitarist)',
+          href: 'http://dbpedia.org/resource/John_Abercrombie_(guitarist)' } ],
+     'dbp:cover': [ { value: 'Within a Song.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' },
+        { value: 'ECM 2254 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Wait Till You See Her (en)' } ],
+     'dbp:length': [ { value: '3671.0' } ],
+     'dbp:name': [ { value: 'Within a Song (en)' } ],
+     'dbp:nextAlbum': [ { value: '39 (xsd:integer)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbp:recorded': 
+      [ { value: 'September 2011 (en)' },
+        { value: 'Avatar Studios, New York City (en)' } ],
+     'dbp:released': [ { value: '2012-04-27 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'The Guardian (en)' },
+        { value: 'The Australian (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Within a Song (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_recorded_at_Avatar_Studios',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Avatar_Studios' },
+        { value: 'dbc:John_Abercrombie_(guitarist)_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Abercrombie_(guitarist)_albums' },
+        { value: 'dbc:2012_albums',
+          href: 'http://dbpedia.org/resource/Category:2012_albums' },
+        { value: 'dbc:Albums_produced_by_Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Manfred_Eicher' },
+        { value: 'dbc:ECM_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:ECM_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Within a Song is an album by guitarist John Abercrombie\'s Quartet with saxophonist Joe Lovano, bassist Drew Gress, and drummer Joey Baron recorded in 2012 and released on the ECM label (en)' } ],
+     'rdfs:label': [ { value: 'Within a Song (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Within a Song',
+          href: 'http://rdf.freebase.com/ns/m.0qbj9n9' },
+        { value: 'dbpedia-nl:Within a Song',
+          href: 'http://nl.dbpedia.org/resource/Within_a_song' },
+        { value: 'dbpedia-wikidata:Within a Song',
+          href: 'http://wikidata.dbpedia.org/resource/Q15710499' },
+        { value: 'wikidata:Within a Song',
+          href: 'http://www.wikidata.org/entity/Q15710499' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Within_a_Song?oldid=647126264',
+          href: 'http://en.wikipedia.org/wiki/Within_a_Song?oldid=647126264' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Within_a_Song',
+          href: 'http://en.wikipedia.org/wiki/Within_a_Song' } ],
+     'foaf:name': [ { value: 'Within a Song (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:39_Steps_(album)',
+          href: 'http://dbpedia.org/resource/39_Steps_(album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Wait_Till_You_See_Her_(album)',
+          href: 'http://dbpedia.org/resource/Wait_Till_You_See_Her_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Within_a_Song',
+          href: 'http://en.wikipedia.org/wiki/Within_a_Song' } ] } }

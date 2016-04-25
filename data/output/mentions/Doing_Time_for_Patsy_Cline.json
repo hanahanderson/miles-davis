@@ -1,0 +1,8 @@
+{ name: 'Doing Time for Patsy Cline',
+  href: 'http://en.wikipedia.org/wiki/Doing_Time_for_Patsy_Cline',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Awards',
+       sectionIndex: 22,
+       wordCountBeforeSection: 4320,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

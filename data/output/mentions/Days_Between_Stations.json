@@ -1,0 +1,8 @@
+{ name: 'Days Between Stations',
+  href: 'http://en.wikipedia.org/wiki/Days_Between_Stations',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3080,
+       quote: [ 'The band cite as influences progressive rock (Pink Floyd, Marillion, Peter Gabriel, Genesis, King Crimson) to post-rock (Sigur Rós, Godspeed You Black Emperor!), ambient music (Brian Eno, early Tangerine Dram), jazz-rock (Miles Davis\' early 1970s output), post-punk (Sonic Youth, The Melvins, The Jesus Lizard) and contemporary classical (Philip Glass, Steve Reich, John Adams).' ] } ] }

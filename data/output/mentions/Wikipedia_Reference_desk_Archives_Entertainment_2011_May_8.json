@@ -1,0 +1,10 @@
+{ name: 'Wikipedia:Reference desk/Archives/Entertainment/2011 May 8',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Entertainment/2011_May_8',
+  mentions: 
+   [ { sectionHeader: 'Name of jazz song',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 3379,
+       quote: 
+        [ 'I\'ve not heard that song before, bit is has a strong feel like some of Miles Davis/John Coltrane\'s collaborations, like something from Kind of Blue.',
+          'It is NOT one of the songs on Kind of Blue, but I would check into songs from Miles Davis done between 1950-1960 or so (i.e. when he was still doing "cool jazz" and before he got heavy into the Jazz Fusion stuff like Bitches Brew).' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Draft:Eclipse Jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Draft:Eclipse_Jazz',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

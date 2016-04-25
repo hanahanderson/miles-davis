@@ -1,0 +1,8 @@
+{ name: 'Peter Sculthorpe',
+  href: 'http://en.wikipedia.org/wiki/Peter_Sculthorpe',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Recordings',
+       sectionIndex: 47,
+       wordCountBeforeSection: 11045,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

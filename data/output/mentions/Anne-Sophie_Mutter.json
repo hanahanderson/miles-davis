@@ -1,0 +1,8 @@
+{ name: 'Anne-Sophie Mutter',
+  href: 'http://en.wikipedia.org/wiki/Anne-Sophie_Mutter',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 10666,
+       quote: [ 'Miles Davis (1984)' ] } ] }

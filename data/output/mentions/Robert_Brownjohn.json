@@ -1,0 +1,8 @@
+{ name: 'Robert Brownjohn',
+  href: 'http://en.wikipedia.org/wiki/Robert_Brownjohn',
+  mentions: 
+   [ { sectionHeader: 'New York career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1260,
+       quote: [ 'Brownjohn\'s effusive personality and fondness for jazz music allowed friendships with Miles Davis and Charlie Parker, among others, to blossom as he became a part of the social scene in the city.' ] } ] }

@@ -1,0 +1,48 @@
+{ name: 'Music of Denver',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Music_of_Denver',
+  values: 
+   { 'dbo:abstract': [ { value: 'While Denver may not be as recognized for historical musical prominence like such cities as  Los Angeles, Detroit, Chicago or New York City, it still manages to have a very active popular, jazz, and classical music scene, which has nurtured many artists and genres to regional, national, and even international attention. Though nearby Boulder, Colorado has its own very distinct music scene, they are intertwined and often artists based there also play in Denver. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/RedRocksAMP.png?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/RedRocksAMP.png?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.denvermusic.com',
+          href: 'http://www.denvermusic.com' },
+        { value: 'http://www.bing.com/local/default.aspx?what=Music+Venue&where=Denver%2c+Colorado&s_cid=ansPhBkYp01&mkt=en-us&ac=false&q=Denver+Music+Venue&qpvt=Denver+Music+Venue&FORM=LARE',
+          href: 'http://www.bing.com/local/default.aspx?what=Music+Venue&where=Denver%2c+Colorado&s_cid=ansPhBkYp01&mkt=en-us&ac=false&q=Denver+Music+Venue&qpvt=Denver+Music+Venue&FORM=LARE' },
+        { value: 'http://www.denverbrass.org/',
+          href: 'http://www.denverbrass.org/' },
+        { value: 'http://www.clubzone.com/c1/Denver/Live_Music_Venue.html',
+          href: 'http://www.clubzone.com/c1/Denver/Live_Music_Venue.html' } ],
+     'dbo:wikiPageID': [ { value: '4066012 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '670760086 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_of_Denver,_Colorado',
+          href: 'http://dbpedia.org/resource/Category:Music_of_Denver,_Colorado' } ],
+     'rdfs:comment': [ { value: 'While Denver may not be as recognized for historical musical prominence like such cities as  Los Angeles, Detroit, Chicago or New York City, it still manages to have a very active popular, jazz, and classical music scene, which has nurtured many artists and genres to regional, national, and even international attention. Though nearby Boulder, Colorado has its own very distinct music scene, they are intertwined and often artists based there also play in Denver. (en)' } ],
+     'rdfs:label': [ { value: 'Music of Denver (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Music of Denver',
+          href: 'http://rdf.freebase.com/ns/m.0118msm3' },
+        { value: 'dbpedia-wikidata:Music of Denver',
+          href: 'http://wikidata.dbpedia.org/resource/Q6942063' },
+        { value: 'wikidata:Music of Denver',
+          href: 'http://www.wikidata.org/entity/Q6942063' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Music_of_Denver?oldid=670760086',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Denver?oldid=670760086' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/RedRocksAMP.png',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/RedRocksAMP.png' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Music_of_Denver',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Denver' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Music_in_Denver',
+          href: 'http://dbpedia.org/resource/Music_in_Denver' },
+        { value: 'dbr:Musicians_from_Denver',
+          href: 'http://dbpedia.org/resource/Musicians_from_Denver' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Music_of_Denver',
+          href: 'http://en.wikipedia.org/wiki/Music_of_Denver' } ] } }

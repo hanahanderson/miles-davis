@@ -1,0 +1,11 @@
+{ name: 'Wikipedia:Vital articles/Expanded/People',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Vital_articles/Expanded/People',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'dbpedia-el:Βικιπαίδεια:Λήμματα_ζωτικής_σημασίας/Εκτεταμένα/Πρόσωπα',
+          href: 'http://el.dbpedia.org/resource/Βικιπαίδεια:Λήμματα_ζωτικής_σημασίας/Εκτεταμένα/Πρόσωπα' },
+        { value: 'dbpedia-wikidata:Q6173639',
+          href: 'http://wikidata.dbpedia.org/resource/Q6173639' },
+        { value: 'wikidata:Q6173639',
+          href: 'http://www.wikidata.org/entity/Q6173639' } ] } }

@@ -1,0 +1,13 @@
+{ name: 'The Antidote (Ronny Jordan album)',
+  href: 'http://en.wikipedia.org/wiki/The_Antidote_(Ronny_Jordan_album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 548,
+       quote: [ 'The album followed the release of the Miles Davis composition So What as a single, which was popularised by London DJs and went on to become a classic of the 1990s acid jazz genre.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 902,
+       quote: [ 'Miles Davis' ] } ] }

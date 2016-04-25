@@ -1,0 +1,8 @@
+{ name: 'User:IbLeo/Concerts',
+  href: 'http://en.wikipedia.org/wiki/User:IbLeo/Concerts',
+  mentions: 
+   [ { sectionHeader: 'Live concerts I have lent my ears to',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 8034,
+       quote: [ 'Miles Davis' ] } ] }

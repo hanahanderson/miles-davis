@@ -1,0 +1,8 @@
+{ name: 'Garth Porter',
+  href: 'http://en.wikipedia.org/wiki/Garth_Porter',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Personal life',
+       sectionIndex: 32,
+       wordCountBeforeSection: 13946,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

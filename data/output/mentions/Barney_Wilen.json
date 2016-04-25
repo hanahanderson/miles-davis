@@ -1,0 +1,13 @@
+{ name: 'Barney Wilen',
+  href: 'http://en.wikipedia.org/wiki/Barney_Wilen',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 199,
+       quote: [ 'His career was boosted in 1957 when he worked with Miles Davis on the soundtrack Ascenseur pour l\'Échafaud.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2357,
+       quote: [ 'With Miles Davis' ] } ] }

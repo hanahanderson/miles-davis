@@ -1,0 +1,8 @@
+{ name: 'Fresh (Sly and the Family Stone album)',
+  href: 'http://en.wikipedia.org/wiki/Fresh_(Sly_and_the_Family_Stone_album)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2540,
+       quote: [ 'Jazz legend Miles Davis was so impressed by the song "In Time" from the album that he made his band listen to the track repeatedly for a full 30 minutes.' ] } ] }

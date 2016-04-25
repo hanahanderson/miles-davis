@@ -1,0 +1,8 @@
+{ name: 'Michael Nyman',
+  href: 'http://en.wikipedia.org/wiki/Michael_Nyman',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 51,
+       wordCountBeforeSection: 26938,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Zodiac (soundtrack)',
+  href: 'http://en.wikipedia.org/wiki/Zodiac_(soundtrack)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1337,
+       quote: [ 'Miles Davis – "Solar"' ] } ] }

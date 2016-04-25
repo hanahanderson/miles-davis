@@ -1,0 +1,8 @@
+{ name: 'The Bill Evans Album',
+  href: 'http://en.wikipedia.org/wiki/The_Bill_Evans_Album',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 2089,
+       quote: [ 'Miles Davis' ] } ] }

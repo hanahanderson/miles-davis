@@ -1,0 +1,8 @@
+{ name: '2001 (Dr. Dre album)',
+  href: 'http://en.wikipedia.org/wiki/2001_(Dr._Dre_album)',
+  mentions: 
+   [ { sectionHeader: 'Critical reception',
+       sectionSubHeader: 'Lyrics',
+       sectionIndex: 32,
+       wordCountBeforeSection: 11975,
+       quote: [ 'PopMatters writer Chris Massey declared that "Musically, 2001 is about as close to brilliant as any one gangsta rap album might possibly get." Christopher John Farley of Time stated that "The beats are fresh and involving, and Dr\'s collaborations with Eminem and Snoop Dogg have ferocity and wit." Although he was ambivalent towards the album\'s subject matter and guest rappers, Greg Tate of Spin was pleasantly surprised by "the most memorable MC\'ing on this album com from Dr himself, Eminem notwithstanding" and stated, "Whatever one\'s opinion of the sexual politics and gun lust of Dr\'s canon, his ongoing commitment to formal excellence and sonic innovation in this art form may one day earn him a place next to George Clinton, if not Stevie Wonder, Duke Ellington, or Miles Davis."' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Miami Nice Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Miami_Nice_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 3121,
+       quote: [ 'Notable artists were: Ella Fitzgerald, Helen Humes, Pharoah Sanders, T-Bone Walker, Stéphane Grappelli, Django Reinhardt, the Herbie Hancock Quintet, the Oscar Peterson Trio, Roy Eldridge, John Lewis, Al Grey, Percy Heath, Connie Key, Dizzy Gillespie, NHOP, Daniel Humair, Sonny Stitt, Canonball Adderley, the Modern Jazz Quartet, Charlie Mingus, the Max Roach Trio and Miles Davis.' ] } ] }

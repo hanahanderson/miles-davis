@@ -1,0 +1,18 @@
+{ name: 'Nine to the Universe',
+  href: 'http://en.wikipedia.org/wiki/Nine_to_the_Universe',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1254,
+       quote: [ 'It was recorded during a later part of the session on March 25, that also featured Dave Holland (an English jazz musician who was then mostly known as Miles Davis\' regular acoustic and electric bass player and his contribution to Davis\' seminal post-bop/fusion albums between 1968 and 1970 - e.g. "Filles de Kilimanjaro", "In a Silent Way" and "Bitches\' Brew") and Buddy Miles on drums.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 3084,
+       quote: [ 'These jams were recorded at a time when Hendrix had become acquainted with Miles Davis (Hendrix\' girlfriend Devon Wilson had a close friendship with Miles\' wife Betty Davis a funk, rock and soul artist), who had begun to "cross over" to jazz fusion with In a Silent Way (recorded February 18, 1969) which featured the English electric jazz guitar player John McLaughlin as well as bassist Dave Holland.' ] },
+     { sectionHeader: 'Critical reception',
+       sectionSubHeader: 'Musicians',
+       sectionIndex: 22,
+       wordCountBeforeSection: 11688,
+       quote: [ 'According to music scholar Craig Hansen Werner, along with Miles Davis\' "Right Off" (1971) and the Sonny Sharrock albums Guitar (1986) and Seize the Rainbow (1987), Nine to the Universe was one of the few works that suggested the direction Hendrix and Davis would have explored had they worked together.' ] } ] }

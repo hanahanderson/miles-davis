@@ -1,0 +1,8 @@
+{ name: 'The Hobo Code',
+  href: 'http://en.wikipedia.org/wiki/The_Hobo_Code',
+  mentions: 
+   [ { sectionHeader: 'Cultural references',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3806,
+       quote: [ 'The beatniks listen to the album Sketches of Spain by Miles Davis while getting high.' ] } ] }

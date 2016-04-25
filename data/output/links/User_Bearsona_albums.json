@@ -1,0 +1,4 @@
+{ name: 'User:Bearsona/albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Bearsona/albums',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

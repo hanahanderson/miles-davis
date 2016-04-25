@@ -1,0 +1,8 @@
+{ name: 'Steve Davis (trombonist)',
+  href: 'http://en.wikipedia.org/wiki/Steve_Davis_(trombonist)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 369,
+       quote: [ 'Johnson, Curtis Fuller, Slide Hampton, Jackie McLean, Freddie Hubbard, Dexter Gordon, Miles Davis, Hank Jones, Cedar Walton, McCoy Tyner and John Coltrane.' ] } ] }

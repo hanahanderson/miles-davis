@@ -1,0 +1,8 @@
+{ name: 'Kielce',
+  href: 'http://en.wikipedia.org/wiki/Kielce',
+  mentions: 
+   [ { sectionHeader: 'Twin Towns - Sister Cities',
+       sectionSubHeader: '',
+       sectionIndex: 86,
+       wordCountBeforeSection: 27321,
+       quote: [ 'Statue of Miles Davis in Kielce' ] } ] }

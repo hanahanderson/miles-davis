@@ -1,0 +1,8 @@
+{ name: 'Krystian Zimerman',
+  href: 'http://en.wikipedia.org/wiki/Krystian_Zimerman',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Video releases',
+       sectionIndex: 26,
+       wordCountBeforeSection: 9962,
+       quote: [ 'Miles Davis (1984)' ] } ] }

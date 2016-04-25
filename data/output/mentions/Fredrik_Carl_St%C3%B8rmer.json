@@ -1,0 +1,8 @@
+{ name: 'Fredrik Carl Størmer',
+  href: 'http://en.wikipedia.org/wiki/Fredrik_Carl_St%C3%B8rmer',
+  mentions: 
+   [ { sectionHeader: 'Music and business',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2980,
+       quote: [ 'Austin about the groundbreaking 1959 recording of Miles Davis\' Kind of Blue.' ] } ] }

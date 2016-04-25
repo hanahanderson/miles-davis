@@ -1,0 +1,13 @@
+{ name: 'Milt Jackson',
+  href: 'http://en.wikipedia.org/wiki/Milt_Jackson',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 49,
+       quote: [ 'John Coltrane, Ray Charles, Miles Davis, Dizzy Gillespie, The Modern Jazz Quartet, Thelonious Monk, Wes Montgomery' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 9948,
+       quote: [ 'With Miles Davis' ] } ] }

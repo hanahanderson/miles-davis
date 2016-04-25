@@ -1,0 +1,8 @@
+{ name: 'Arnold Fishkind',
+  href: 'http://en.wikipedia.org/wiki/Arnold_Fishkind',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3968,
+       quote: [ 'Miles Davis, Various Artists' ] } ] }

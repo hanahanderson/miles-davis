@@ -1,0 +1,8 @@
+{ name: 'Art rock',
+  href: 'http://en.wikipedia.org/wiki/Art_rock',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 8823,
+       quote: [ 'the Who\'s rock opera Tommy; Pink Floyd\'s technologically advanced concept album Dark Side of the Moon; and Miles Davis\'s jazz/rock fusion.' ] } ] }

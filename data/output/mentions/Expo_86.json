@@ -1,0 +1,8 @@
+{ name: 'Expo 86',
+  href: 'http://en.wikipedia.org/wiki/Expo_86',
+  mentions: 
+   [ { sectionHeader: 'Entertainment and famous visitors',
+       sectionSubHeader: 'Theatres',
+       sectionIndex: 42,
+       wordCountBeforeSection: 10323,
+       quote: [ 'Concerts: Einstürzende Neubauten, Harry Belafonte, Anne Murray, Billy Ocean, Bruce Cockburn, Miles Davis, Wynton Marsalis, Annie Lennox - Eurythmics, Julio Iglesias, Amy Grant, Loverboy, A-ha, Liberace, Mormon Tabernacle Choir, Gowan, Parachute Club, Joan Baez with Don McLean, Kenny Loggins, Lou Rawls & The 5th Dimension, Idle Eyes, Honeymoon Suite, Kim Mitchell, Johnny Cash, Depeche Mode, Joe Jackson, George Thorogood + the Delaware Destroyers, Smokey Robinson, George Benson, John Denver, The Beach Boys, Air Supply, Peter, Paul & Mary, The Manhattan Transfer, The Temptations, René Simard, k.d. lang (opening for Rockin\' Ronnie Hawkins), Peter Allen, Sheena Easton, Trooper, Bryan Adams, The Romaniacs, Tangerine Dram, Youssou N\'Dour, Rolf Harris, Kool & The Gang, Roy Orbison, Fats Domino with Jerry Lee Lewis, Donovan Leilehua High School, Layton High School Lancer Marching Band, Alta Loma High School (Chamber Singers), Rancho Cucamonga, CA College Park High School Marching Band from Pleasant Hill, CA, Gustine High School Marching, Concert and Jazz Band from Gustine, CA, Siuslaw High School Band and Jazz Band, from Florence, Oregon at Oregon Pavilion, World Drms concert (led by John Wyre), Shannon Gunn, Skywalk, Kent-Meridian Jazz Ensemble, Images In Vogue, Peter Noone, Alvin Lee opened for Steppenwolf.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'At Shelly\'s Manne-Hole',
+  href: 'http://en.wikipedia.org/wiki/At_Shelly%27s_Manne-Hole',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 2757,
+       quote: [ 'Miles Davis' ] } ] }

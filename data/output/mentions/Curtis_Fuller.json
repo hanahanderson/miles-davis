@@ -1,0 +1,8 @@
+{ name: 'Curtis Fuller',
+  href: 'http://en.wikipedia.org/wiki/Curtis_Fuller',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1237,
+       quote: [ 'Alfred Lion of Blue Note Records first heard Fuller playing with Miles Davis in the late 1950s, and featured him as a sideman on record dates led by Sonny Clark and John Coltrane; Fuller\'s work on the latter\'s Blue Train album is probably his best-known recorded performance.' ] } ] }

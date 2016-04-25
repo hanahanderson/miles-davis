@@ -1,0 +1,8 @@
+{ name: 'Chris Botti in Boston',
+  href: 'http://en.wikipedia.org/wiki/Chris_Botti_in_Boston',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 795,
+       quote: [ 'Miles Davis, Bill Evans' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Santana (1971 album)',
+  href: 'http://en.wikipedia.org/wiki/Santana_(1971_album)',
+  mentions: 
+   [ { sectionHeader: 'Legacy Edition (2006)',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 4148,
+       quote: [ '(Joe Zawinul, Miles Davis)' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Version 0.5/NorthAmericaTree',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Version_0.5/NorthAmericaTree',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

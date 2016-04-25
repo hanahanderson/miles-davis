@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject Missing encyclopedic articles/DNB Epitome 14',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_Missing_encyclopedic_articles/DNB_Epitome_14',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Sue Cassidy Clark',
+  href: 'http://en.wikipedia.org/wiki/Sue_Cassidy_Clark',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 237,
+       quote: [ 'Over the course of her life, Clark has interviewed many notable musicians, including Ray Charles, James Brown, Ashford and Simpson, John Coltrane, Creedence Clearwater Revival, Miles Davis, The Doors, Duke Ellington, Aretha Franklin, Marvin Gaye, Dizzy Gillespie, The Grateful Dead, Al Green, Dick Gregory, Isaac Hayes, Jimi Hendrix, The Isley Brothers, Jackson 5, Etta James, Jefferson Airplane, B.' ] } ] }

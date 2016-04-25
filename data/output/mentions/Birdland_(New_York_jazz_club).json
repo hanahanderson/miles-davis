@@ -1,0 +1,18 @@
+{ name: 'Birdland (New York jazz club)',
+  href: 'http://en.wikipedia.org/wiki/Birdland_(New_York_jazz_club)',
+  mentions: 
+   [ { sectionHeader: 'The original Birdland (1949–65)',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2530,
+       quote: [ 'Dizzy Gillespie, Thelonious Monk, Miles Davis, Louie Bellson, Bud Powell, Johnny Smith, Stan Getz, Lester Young, and many others made appearances.' ] },
+     { sectionHeader: 'Pop culture references',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 7436,
+       quote: [ 'The club, along with several artists such as Miles Davis, Ella Fitzgerald, and James Moody, are mentioned in Quincy Jones song "Jazz Corner of the World" .' ] },
+     { sectionHeader: 'Notable performers',
+       sectionSubHeader: '',
+       sectionIndex: 43,
+       wordCountBeforeSection: 8970,
+       quote: [ 'Miles Davis' ] } ] }

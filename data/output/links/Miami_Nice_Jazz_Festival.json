@@ -1,0 +1,35 @@
+{ name: 'Miami Nice Jazz Festival',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Miami_Nice_Jazz_Festival',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Miami Nice Jazz Festival is a jazz festival scheduled in the city of Miami which is aimed at linking the city of Nice\'s and Miami\'s common love of jazz. It is a continuation of the original festival which started in 1948 in Nice, France and is considered to be one of the oldest international festivals of its kind and an important musical reference in jazz. The Nice Jazz Festival has been a true landmark and a powerful cultural asset, promoting the city of Nice internationally.In 1986, Miami and Nice came together as sister cities.  Because of this relation, in the summer of 2011 Philippe Pautesta-Herder had the idea to export this musical event to Miami.One aim of the Miami Nice Jazz Festival was to develop their kinship through cultural exchanges between museums and universities in both cities and also through educational exchanges. Because of the bonds between the cities, the Miami Nice Jazz Festival has received the support from the city of Nice, its mayor, Christian Estrosi, and the city of Miami. The Miami Nice Jazz Festival has been scheduled to be held at The Olympia Theater at the Gusman Center in downtown Miami on Friday 26th 2012 and Saturday 27th 2012. Artist Dee Dee Bridgewater will be the ambassador of the first edition of the Miami Nice Jazz Festival. One of the particularity of the Miami Nice Jazz Festival was that the jazz ensembles from Florida International University school of music and University of Miami school of music has been decided to be presented during the festival preceding the headlining performances. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.miaminicejazzfestival.com',
+          href: 'http://www.miaminicejazzfestival.com' } ],
+     'dbo:wikiPageID': [ { value: '36298487 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '641423927 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_festivals_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Jazz_festivals_in_the_United_States' },
+        { value: 'dbc:Visitor_attractions_in_Miami,_Florida',
+          href: 'http://dbpedia.org/resource/Category:Visitor_attractions_in_Miami,_Florida' },
+        { value: 'dbc:Music_festivals_in_Florida',
+          href: 'http://dbpedia.org/resource/Category:Music_festivals_in_Florida' } ],
+     'rdfs:comment': [ { value: 'The Miami Nice Jazz Festival is a jazz festival scheduled in the city of Miami which is aimed at linking the city of Nice\'s and Miami\'s common love of jazz. It is a continuation of the original festival which started in 1948 in Nice, France and is considered to be one of the oldest international festivals of its kind and an important musical reference in jazz. (en)' } ],
+     'rdfs:label': [ { value: 'Miami Nice Jazz Festival (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Miami Nice Jazz Festival',
+          href: 'http://rdf.freebase.com/ns/m.0k2b_jr' },
+        { value: 'wikidata:Miami Nice Jazz Festival',
+          href: 'http://www.wikidata.org/entity/Q6827374' },
+        { value: 'dbpedia-wikidata:Miami Nice Jazz Festival',
+          href: 'http://wikidata.dbpedia.org/resource/Q6827374' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Miami_Nice_Jazz_Festival?oldid=641423927',
+          href: 'http://en.wikipedia.org/wiki/Miami_Nice_Jazz_Festival?oldid=641423927' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Miami_Nice_Jazz_Festival',
+          href: 'http://en.wikipedia.org/wiki/Miami_Nice_Jazz_Festival' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Miami_Nice_Jazz_Festival',
+          href: 'http://en.wikipedia.org/wiki/Miami_Nice_Jazz_Festival' } ] } }

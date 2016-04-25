@@ -1,0 +1,8 @@
+{ name: 'Mstislav Rostropovich',
+  href: 'http://en.wikipedia.org/wiki/Mstislav_Rostropovich',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 72,
+       wordCountBeforeSection: 26819,
+       quote: [ 'Miles Davis (1984)' ] } ] }

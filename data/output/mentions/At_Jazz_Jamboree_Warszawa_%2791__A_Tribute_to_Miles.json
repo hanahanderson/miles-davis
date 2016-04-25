@@ -1,0 +1,8 @@
+{ name: 'At Jazz Jamboree Warszawa \'91: A Tribute to Miles',
+  href: 'http://en.wikipedia.org/wiki/At_Jazz_Jamboree_Warszawa_%2791:_A_Tribute_to_Miles',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 952,
+       quote: [ '"All Blues" (Miles Davis) - 17:10' ] } ] }

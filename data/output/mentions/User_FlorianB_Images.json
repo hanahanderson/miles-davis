@@ -1,0 +1,8 @@
+{ name: 'User:FlorianB/Images',
+  href: 'http://en.wikipedia.org/wiki/User:FlorianB/Images',
+  mentions: 
+   [ { sectionHeader: 'Images I uploaded',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 52,
+       quote: [ 'Miles Davis albums: Birth of the Cool, Somethin\' Else' ] } ] }

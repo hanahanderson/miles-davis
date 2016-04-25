@@ -1,0 +1,13 @@
+{ name: '1972 in music',
+  href: 'http://en.wikipedia.org/wiki/1972_in_music',
+  mentions: 
+   [ { sectionHeader: 'Events',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1390,
+       quote: [ 'September 29 - Miles Davis unveils his new nine-piece band at the Lincoln Center Philharmonic Hall.' ] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 18462,
+       quote: [ 'Miles Davis' ] } ] }

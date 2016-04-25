@@ -1,0 +1,8 @@
+{ name: 'User:Danaimband/Opinions',
+  href: 'http://en.wikipedia.org/wiki/User:Danaimband/Opinions',
+  mentions: 
+   [ { sectionHeader: 'Personal Favorites',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2051,
+       quote: [ 'Miles Davis - Water Babies, Bitches Brew' ] } ] }

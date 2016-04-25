@@ -1,0 +1,8 @@
+{ name: 'Jimmy Woode',
+  href: 'http://en.wikipedia.org/wiki/Jimmy_Woode',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 454,
+       quote: [ 'He played and/or recorded in bands with Flip Phillips, Sarah Vaughan, Ella Fitzgerald, Charlie Parker, Nat Pierce, Sidney Bechet, Billie Holiday, Jaki Byard, Earl Hines, Jimmy Witherspoon and Miles Davis.' ] } ] }

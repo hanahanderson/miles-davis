@@ -1,0 +1,8 @@
+{ name: 'Helen Merrill',
+  href: 'http://en.wikipedia.org/wiki/Helen_Merrill',
+  mentions: 
+   [ { sectionHeader: 'Youth and early career',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2319,
+       quote: [ 'His arrangements on Merrill\'s laid the musical foundations for his work in following years with Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jazz at the Plaza Vol. II',
+  href: 'http://en.wikipedia.org/wiki/Jazz_at_the_Plaza_Vol._II',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 265,
+       quote: [ 'The Miles Davis Sextet was also recorded at the same event and released as the first volume of Jazz at the Plaza.' ] } ] }

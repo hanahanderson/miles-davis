@@ -1,0 +1,8 @@
+{ name: 'Vancouver International Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Vancouver_International_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 92,
+       quote: [ 'The inaugural festival included performances by Miles Davis, Wynton Marsalis, Bobby McFerrin, Tito Puente, Tony Williams, Albert Collins, and John Mayall and the Bluesbreakers.' ] } ] }

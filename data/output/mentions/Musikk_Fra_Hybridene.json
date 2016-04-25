@@ -1,0 +1,8 @@
+{ name: 'Musikk Fra Hybridene',
+  href: 'http://en.wikipedia.org/wiki/Musikk_Fra_Hybridene',
+  mentions: 
+   [ { sectionHeader: 'Title references',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 895,
+       quote: [ 'Kind of Blues is a reference to Kind of Blue, an album by Miles Davis.' ] } ] }

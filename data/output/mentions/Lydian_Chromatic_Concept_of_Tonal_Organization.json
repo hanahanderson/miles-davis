@@ -1,0 +1,10 @@
+{ name: 'Lydian Chromatic Concept of Tonal Organization',
+  href: 'http://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization',
+  mentions: 
+   [ { sectionHeader: 'Influence',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2042,
+       quote: 
+        [ 'Art Farmer said that it "opens the door to countless means of melodic expression" and critic Joachim-Ernst Berendt described it as "the first work deriving a theory of jazz harmony from the immanent laws of jazz" and as "the pathbreaker for Miles Davis\' and John Coltrane\'s \'modality\'".',
+          'Bill Evans and Miles Davis utilized the theory and used it to record modal jazz, such as the album Kind of Blue.' ] } ] }

@@ -1,0 +1,12 @@
+{ name: 'File:CompleteBitchesBrewBoxSetReissue.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:CompleteBitchesBrewBoxSetReissue.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '3770417 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517922341 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:CompleteBitchesBrewBoxSetReissue.jpg?oldid=517922341',
+          href: 'http://en.wikipedia.org/wiki/File:CompleteBitchesBrewBoxSetReissue.jpg?oldid=517922341' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:CompleteBitchesBrewBoxSetReissue.jpg',
+          href: 'http://dbpedia.org/resource/File:CompleteBitchesBrewBoxSetReissue.jpg' } ] } }

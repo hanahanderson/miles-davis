@@ -1,0 +1,8 @@
+{ name: 'Paris Encounter',
+  href: 'http://en.wikipedia.org/wiki/Paris_Encounter',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 882,
+       quote: [ '"Blue in Green" (Miles Davis, Bill Evans) - 3:39' ] } ] }

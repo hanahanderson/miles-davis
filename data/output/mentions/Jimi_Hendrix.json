@@ -1,0 +1,8 @@
+{ name: 'Jimi Hendrix',
+  href: 'http://en.wikipedia.org/wiki/Jimi_Hendrix',
+  mentions: 
+   [ { sectionHeader: 'Death, post-mortem, and burial',
+       sectionSubHeader: 'Canadian drug charges and trial',
+       sectionIndex: 120,
+       wordCountBeforeSection: 61160,
+       quote: [ 'Hendrix\'s family and friends traveled in twenty-four limousines and more than two hundred people attended the funeral, including several notable musicians such as original Experience members Mitch Mitchell and Noel Redding, as well as Miles Davis, John Hammond, and Johnny Winter.' ] } ] }

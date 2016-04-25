@@ -1,0 +1,34 @@
+{ name: '1970s in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1970s_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'In the 1970s in jazz, jazz become increasingly influenced by Latin jazz, combining rhythms from African and Latin American countries, often played on instruments such as conga, timbale, güiro, and claves, with jazz and classical harmonies played on typical jazz instruments (piano, double bass, etc.). Artists such as Chick Corea, John McLaughlin and Al Di Meola increasingly influenced the genre with jazz fusion, a hybrid form of jazz-rock fusion which was developed by combining jazz improvisation with rock rhythms, electric instruments, and the highly amplified stage sound of rock musicians such as Jimi Hendrix. All Music Guide states that "..until around 1967, the worlds of jazz and rock were nearly completely separate." However, "...as rock became more creative and its musicianship improved, and as some in the jazz world became bored with hard bop and did not want to play strictly avant-garde music, the two different idioms began to trade ideas and occasionally combine forces."Miles Davis made the breakthrough into fusion in the 1970s with his album Bitches Brew. Musicians who worked with Davis formed the four most influential fusion groups: Weather Report and Mahavishnu Orchestra emerged in 1971 and were soon followed by Return to Forever and The Headhunters. Although jazz purists protested the blend of jazz and rock, some of jazz\'s significant innovators crossed over from the contemporary hard bop scene into fusion. Jazz fusion music often uses mixed meters, odd time signatures, syncopation, and complex chords and harmonies. In addition to using the electric instruments of rock, such as the electric guitar, electric bass, electric piano, and synthesizer keyboards, fusion also used the powerful amplification, "fuzz" pedals, wah-wah pedals, and other effects used by 1970s-era rock bands. Notable performers of jazz fusion included Miles Davis, keyboardists Joe Zawinul, Chick Corea, Herbie Hancock, vibraphonist Gary Burton, drummer Tony Williams, violinist Jean-Luc Ponty, guitarists Larry Coryell, Al Di Meola, John McLaughlin and Frank Zappa, saxophonist Wayne Shorter, and bassists Jaco Pastorius and Stanley Clarke. Jazz fusion was also popular in Japan where the band Casiopea released over thirty albums praising Jazz Fusion.In the mid-1970s, jazz funk became popular, characterized by a strong back beat (groove), electrified sounds, and often, the presence of the first electronic analog synthesizers.  The integration of Funk, Soul, and R&B music and styles into jazz resulted in the creation of a genre whose spectrum is indeed quite wide and ranges from strong jazz improvisation to soul, funk or disco with jazz arrangements, jazz riffs, and jazz solos, and sometimes soul vocals. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Art_Blakey_1973.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Art_Blakey_1973.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '29786526 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '641824756 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1970s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1970s_in_music' },
+        { value: 'dbc:20th_century_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_jazz' } ],
+     'rdfs:comment': [ { value: 'In the 1970s in jazz, jazz become increasingly influenced by Latin jazz, combining rhythms from African and Latin American countries, often played on instruments such as conga, timbale, güiro, and claves, with jazz and classical harmonies played on typical jazz instruments (piano, double bass, etc.). (en)' } ],
+     'rdfs:label': [ { value: '1970s in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1970s in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4574299' },
+        { value: 'wikidata:1970s in jazz',
+          href: 'http://www.wikidata.org/entity/Q4574299' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1970s_in_jazz?oldid=641824756',
+          href: 'http://en.wikipedia.org/wiki/1970s_in_jazz?oldid=641824756' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Art_Blakey_1973.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Art_Blakey_1973.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1970s_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1970s_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1970s_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1970s_in_jazz' } ] } }

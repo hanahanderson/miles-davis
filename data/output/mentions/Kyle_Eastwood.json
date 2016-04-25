@@ -1,0 +1,8 @@
+{ name: 'Kyle Eastwood',
+  href: 'http://en.wikipedia.org/wiki/Kyle_Eastwood',
+  mentions: 
+   [ { sectionHeader: 'Musical background',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1534,
+       quote: [ 'According to his biography with Hopper Management, Eastwood grew up listening to records by jazz legends such as Miles Davis, Dave Brubeck, Thelonious Monk, and the Stan Kenton Big Band with his parents, both jazz lovers.' ] } ] }

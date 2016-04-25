@@ -1,0 +1,8 @@
+{ name: 'Miles Mosley',
+  href: 'http://en.wikipedia.org/wiki/Miles_Mosley',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 476,
+       quote: [ 'He was named after Miles Davis.' ] } ] }

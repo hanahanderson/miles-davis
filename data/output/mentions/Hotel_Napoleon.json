@@ -1,0 +1,8 @@
+{ name: 'Hotel Napoleon',
+  href: 'http://en.wikipedia.org/wiki/Hotel_Napoleon',
+  mentions: 
+   [ { sectionHeader: 'A hotel appreciated by celebrities',
+       sectionSubHeader: 'Taking in American soldiers after the liberation of Paris',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2413,
+       quote: [ 'Among these were Ernest Hemingway, John Steinbeck, Salvador Dalí, Errol Flynn, Orson Welles, Miles Davis, Josephine Baker, Ella Fitzgerald, all of whom, as well as many others, signed its Golden Book.' ] } ] }

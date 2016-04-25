@@ -1,0 +1,8 @@
+{ name: 'Carolyn Leonhart',
+  href: 'http://en.wikipedia.org/wiki/Carolyn_Leonhart',
+  mentions: 
+   [ { sectionHeader: 'Style',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3931,
+       quote: [ 'She says that other influences include Wayne Shorter, Woody Shaw, Ahmad Jamal, Herbie Hancock, Miles Davis and John Coltrane.' ] } ] }

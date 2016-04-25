@@ -1,0 +1,47 @@
+{ name: 'Prestige Records discography',
+  entityType: 'Medium106254669',
+  href: 'http://dbpedia.org/page/Prestige_Records_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is the discography for jazz record label Prestige Records. Not all original releases are included. Others are listed by the Jazz Discography Project. The earlier New Jazz/Prestige 78rpm releases and the 100/200 (10" LP) series, (among others) are omitted. Prestige also released albums on several subsidiary labels including the New Jazz, Bluesville, Moodsville and Swingsville labels.The Prestige Recordings or The Complete Prestige Recordings CD box sets have been released for Davis, Coltrane, Dolphy, Monk, Rollins, Gordon, and others. (en)' } ],
+     'dbo:wikiPageID': [ { value: '29437354 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683589365 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Record_label_discographies',
+          href: 'http://dbpedia.org/resource/Category:Record_label_discographies' } ],
+     'rdf:type': 
+      [ { value: 'yago:Album106591815',
+          href: 'http://dbpedia.org/class/yago/Album106591815' },
+        { value: 'yago:Artifact100021939',
+          href: 'http://dbpedia.org/class/yago/Artifact100021939' },
+        { value: 'yago:Medium106254669',
+          href: 'http://dbpedia.org/class/yago/Medium106254669' },
+        { value: 'yago:Object100002684',
+          href: 'http://dbpedia.org/class/yago/Object100002684' },
+        { value: 'yago:Whole100003553',
+          href: 'http://dbpedia.org/class/yago/Whole100003553' },
+        { value: 'yago:PrestigeRecordsAlbums',
+          href: 'http://dbpedia.org/class/yago/PrestigeRecordsAlbums' },
+        { value: 'yago:Instrumentality103575240',
+          href: 'http://dbpedia.org/class/yago/Instrumentality103575240' },
+        { value: 'yago:PhysicalEntity100001930',
+          href: 'http://dbpedia.org/class/yago/PhysicalEntity100001930' } ],
+     'rdfs:comment': [ { value: 'This is the discography for jazz record label Prestige Records. Not all original releases are included. Others are listed by the Jazz Discography Project. The earlier New Jazz/Prestige 78rpm releases and the 100/200 (10" LP) series, (among others) are omitted. (en)' } ],
+     'rdfs:label': [ { value: 'Prestige Records discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Prestige Records discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q7241783' },
+        { value: 'wikidata:Prestige Records discography',
+          href: 'http://www.wikidata.org/entity/Q7241783' },
+        { value: 'yago-res:Prestige Records discography',
+          href: 'http://yago-knowledge.org/resource/Prestige_Records_discography' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Prestige_Records_discography?oldid=683589365',
+          href: 'http://en.wikipedia.org/wiki/Prestige_Records_discography?oldid=683589365' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Prestige_Records_discography',
+          href: 'http://en.wikipedia.org/wiki/Prestige_Records_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Prestige_Records_discography',
+          href: 'http://en.wikipedia.org/wiki/Prestige_Records_discography' } ] } }

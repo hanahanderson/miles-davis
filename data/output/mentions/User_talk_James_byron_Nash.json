@@ -1,0 +1,13 @@
+{ name: 'User talk:James byron Nash',
+  href: 'http://en.wikipedia.org/wiki/User_talk:James_byron_Nash',
+  mentions: 
+   [ { sectionHeader: 'May 2014',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 14,
+       quote: [ 'This is a message letting you know that one or more of your recent edits to Miles Davis has been undone by an automated computer program called ClueBot NG.' ] },
+     { sectionHeader: 'May 2014',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 202,
+       quote: [ 'The following is the log entry regarding this message: Miles Davis was changed by James byron Nash (u) (t) ANN scored at 0.876378 on 2014-05-31T12:48:27+00:00 .' ] } ] }

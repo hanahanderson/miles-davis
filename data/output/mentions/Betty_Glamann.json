@@ -1,0 +1,8 @@
+{ name: 'Betty Glamann',
+  href: 'http://en.wikipedia.org/wiki/Betty_Glamann',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 123,
+       quote: [ 'In 1958 she was involved in a Michel Legrand recording session with John Coltrane and Miles Davis; she played with Eddie Costa in 1958 and with the Modern Jazz Quartet in 1960.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Automatic Man',
+  href: 'http://en.wikipedia.org/wiki/Automatic_Man',
+  mentions: 
+   [ { sectionHeader: 'Afterward',
+       sectionSubHeader: '',
+       sectionIndex: 58,
+       wordCountBeforeSection: 13120,
+       quote: [ 'Watt, Assistant Principal French horn with the Los Angeles Philharmonic, commissioned Todd Cochran to write a musical composition in memory of Miles Davis.' ] } ] }

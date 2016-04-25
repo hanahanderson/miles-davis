@@ -1,0 +1,8 @@
+{ name: 'The Railway Man (film)',
+  href: 'http://en.wikipedia.org/wiki/The_Railway_Man_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Box office',
+       sectionIndex: 30,
+       wordCountBeforeSection: 9504,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

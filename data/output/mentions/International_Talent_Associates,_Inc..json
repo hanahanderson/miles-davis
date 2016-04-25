@@ -1,0 +1,8 @@
+{ name: 'International Talent Associates, Inc.',
+  href: 'http://en.wikipedia.org/wiki/International_Talent_Associates,_Inc.',
+  mentions: 
+   [ { sectionHeader: 'Selected artist represented',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1097,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Regal Theater, Chicago',
+  href: 'http://en.wikipedia.org/wiki/Regal_Theater,_Chicago',
+  mentions: 
+   [ { sectionHeader: 'Performers',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 774,
+       quote: [ 'Nat "King" Cole, Cab Calloway, Louis Armstrong, Ella Fitzgerald, Sarah Vaughan, Lena Horne, Dinah Washington, Miles Davis, Sammy Davis Jr., Lionel Hampton, Dizzy Gillespie, and Duke Ellington performed frequently.' ] } ] }

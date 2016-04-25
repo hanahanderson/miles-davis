@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:Administrators\' noticeboard/IncidentArchive787',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Administrators%27_noticeboard/IncidentArchive787',
+  mentions: 
+   [ { sectionHeader: 'Return of the Wikihounding Sock',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 11173,
+       quote: [ 'Also that having the effrontery to propose addding Miles Davis to WP:VITAL two weeks after GabeMc proposed adding Jimi Hendrix is not harrassment ans not evidence of socking. --Elen of the Roads (talk) 11:56, 18 February 2013 (UTC)\n\nWhile there seem to be similar topics editing in, the edit summaries look similar, and he seems keen to get a few articles up to GA status, I\'m loathe to comment any further without shutting up and showing you all a bunch of relevant diffs that I don\'t have.' ] },
+     { sectionHeader: 'Return of the Wikihounding Sock',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 11173,
+       quote: [ 'GeezerB hasnt even interacted with you, except that you took enormous exception to him nominating Miles Davis and Led Zeppelin as vital articles, as you felt it was a direct threat to your nomination of Jimi Hendrix.' ] } ] }

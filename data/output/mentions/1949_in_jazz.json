@@ -1,0 +1,8 @@
+{ name: '1949 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1949_in_jazz',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 702,
+       quote: [ 'Miles Davis makes the first recordings with other artists of what will be known as Cool Jazz.' ] } ] }

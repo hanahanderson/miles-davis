@@ -1,0 +1,8 @@
+{ name: 'User:Freshgavin/Sandbox/Featured articles',
+  href: 'http://en.wikipedia.org/wiki/User:Freshgavin/Sandbox/Featured_articles',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 12982,
+       quote: [ 'Miles Davis' ] } ] }

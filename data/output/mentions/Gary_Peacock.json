@@ -1,0 +1,13 @@
+{ name: 'Gary Peacock',
+  href: 'http://en.wikipedia.org/wiki/Gary_Peacock',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 291,
+       quote: [ 'Keith Jarrett, Jack DeJohnette, Paul Bley, Albert Ayler, Don Pullen, Ralph Towner, Tony Williams, Miles Davis, Bill Evans, Bill Connors, Marilyn Crispell, Peter Erskine, Bill Frisell, Mal Waldron, John Surman, Jan Garbarek, Barney Kessel, Bud Shank, Art Pepper, Sunny Murray, Paul Motian, Art Lande, Eliot Zigmund, Tomasz Stanko, Palle Mikkelborg' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1285,
+       quote: [ 'There were also some live dates with Miles Davis, as a temporary substitute for Ron Carter.' ] } ] }

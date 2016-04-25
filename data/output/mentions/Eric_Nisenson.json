@@ -1,0 +1,10 @@
+{ name: 'Eric Nisenson',
+  href: 'http://en.wikipedia.org/wiki/Eric_Nisenson',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 387,
+       quote: 
+        [ 'Nisenson became a lifelong lover of jazz at the age of 15, when he listened to trumpeter Miles Davis\'s 1959 album Kind of Blue.',
+          'By the time Round About Midnight: A Portrait of Miles Davis was published in 1982, however, the friendship had ended (Davis was not easy to get along with, though Nisenson wrote in a second revision of the biography, that Miles had deserted him as Cicely Tyson was determined for Miles to start a new lifestyle and cut his ties with the past).' ] } ] }

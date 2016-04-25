@@ -1,0 +1,8 @@
+{ name: 'Norman Amadio',
+  href: 'http://en.wikipedia.org/wiki/Norman_Amadio',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1432,
+       quote: [ 'Among the American jazz greats who came to work with Norm Amadio\'s Trio in Toronto were Roy Eldridge, Stan Getz, Bill Harris, Coleman Hawkins, Zoot Sims, Ben Webster, Lester Young, Chet Baker, Anita O\'Day, Bud Johnson, Lee Konitz, Sonny Stitt, Clark Terry, Howard McGee, Jimmy Witherspoon, Max Roach, Miles Davis, Carmen McRae, Joe Williams, Carol Sloane, Mel Torme, Dinah Washington, Red Mitchell, Phip Phillips, Maxine Sullivan, Irene Krall and "Bud Freeman quite alot" according to Norm.' ] } ] }

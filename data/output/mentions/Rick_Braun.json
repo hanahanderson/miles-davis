@@ -1,0 +1,8 @@
+{ name: 'Rick Braun',
+  href: 'http://en.wikipedia.org/wiki/Rick_Braun',
+  mentions: 
+   [ { sectionHeader: 'Education and career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 662,
+       quote: [ 'With that band, they won a competition and worked with Miles Davis producer Teo Macero for two albums.' ] } ] }

@@ -1,0 +1,37 @@
+{ name: 'I See Your Face Before Me',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/I_See_Your_Face_Before_Me',
+  values: 
+   { 'dbo:abstract': [ { value: 'I See Your Face Before Me is a popular song composed by Arthur Schwartz, with lyrics by Howard Dietz. It was introduced by Evelyn Laye and Adele Dixon in the 1937 Broadway musical Between the Devil. Two recordings of the song made the charts shortly after the show\'s debut: Guy Lombardo & His Royal Canadians reached number 12, and Glen Gray & The Casa Loma Orchestra made it to number 13.Johnny Hartman\'s 1980 recording was part of the soundtrack for the 1995 film, The Bridges of Madison County. Hartman\'s recording accompanies a key scene where the characters Robert and Francesca dance and kiss for the first time. The song was also the first composition that Nelson Riddle wrote an arrangement for, in 1938. Riddle would later arrange "I See Your Face Before Me" for Frank Sinatra\'s 1955 album, In the Wee Small Hours. (en)' } ],
+     'dbo:wikiPageID': [ { value: '38700027 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681059196 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1937_songs',
+          href: 'http://dbpedia.org/resource/Category:1937_songs' },
+        { value: 'dbc:Songs_with_lyrics_by_Howard_Dietz',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_lyrics_by_Howard_Dietz' },
+        { value: 'dbc:Songs_with_music_by_Arthur_Schwartz',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_music_by_Arthur_Schwartz' } ],
+     'rdfs:comment': [ { value: 'I See Your Face Before Me is a popular song composed by Arthur Schwartz, with lyrics by Howard Dietz. It was introduced by Evelyn Laye and Adele Dixon in the 1937 Broadway musical Between the Devil. Two recordings of the song made the charts shortly after the show\'s debut: Guy Lombardo & His Royal Canadians reached number 12, and Glen Gray & The Casa Loma Orchestra made it to number 13.Johnny Hartman\'s 1980 recording was part of the soundtrack for the 1995 film, The Bridges of Madison County. (en)' } ],
+     'rdfs:label': [ { value: 'I See Your Face Before Me (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:I See Your Face Before Me',
+          href: 'http://rdf.freebase.com/ns/m.0rfdzl8' },
+        { value: 'dbpedia-wikidata:I See Your Face Before Me',
+          href: 'http://wikidata.dbpedia.org/resource/Q16386197' },
+        { value: 'wikidata:I See Your Face Before Me',
+          href: 'http://www.wikidata.org/entity/Q16386197' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:I_See_Your_Face_Before_Me?oldid=681059196',
+          href: 'http://en.wikipedia.org/wiki/I_See_Your_Face_Before_Me?oldid=681059196' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:I_See_Your_Face_Before_Me',
+          href: 'http://en.wikipedia.org/wiki/I_See_Your_Face_Before_Me' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Quiet_Nights_(Diana_Krall_album)',
+          href: 'http://dbpedia.org/resource/Quiet_Nights_(Diana_Krall_album)' },
+        { value: 'dbr:In_the_Wee_Small_Hours',
+          href: 'http://dbpedia.org/resource/In_the_Wee_Small_Hours' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:I_See_Your_Face_Before_Me',
+          href: 'http://en.wikipedia.org/wiki/I_See_Your_Face_Before_Me' } ] } }

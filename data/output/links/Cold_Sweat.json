@@ -1,0 +1,164 @@
+{ name: 'Cold Sweat',
+  entityType: 'single',
+  href: 'http://dbpedia.org/page/Cold_Sweat',
+  values: 
+   { 'dbo:Work/runtime': 
+      [ { value: '3.9166666666666665' },
+        { value: '2.9166666666666665' },
+        { value: '7.5' } ],
+     'dbo:abstract': [ { value: '"Cold Sweat" is a song performed by James Brown and written with his bandleader Alfred "Pee Wee" Ellis. Brown recorded it in May 1967. An edited version of "Cold Sweat" released as a two-part single on King Records was a #1 R&B hit, and reached number seven on the Pop Singles chart. The complete recording, over 7 minutes long, was included on an album of the same name.Brown\'s lyrics describe how his woman\'s affections make him "break out in a cold sweat." (en)' } ],
+     'dbo:album': 
+      [ { value: 'dbr:Perspiration',
+          href: 'http://dbpedia.org/resource/Perspiration' } ],
+     'dbo:bSide': [ { value: '"Cold Sweat - Part 2"' } ],
+     'dbo:format': 
+      [ { value: 'dbr:Gramophone_record',
+          href: 'http://dbpedia.org/resource/Gramophone_record' } ],
+     'dbo:genre': [ { value: 'dbr:Funk', href: 'http://dbpedia.org/resource/Funk' } ],
+     'dbo:musicalArtist': 
+      [ { value: 'dbr:James_Brown',
+          href: 'http://dbpedia.org/resource/James_Brown' } ],
+     'dbo:musicalBand': 
+      [ { value: 'dbr:James_Brown',
+          href: 'http://dbpedia.org/resource/James_Brown' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Let_Yourself_Go_(James_Brown_song)',
+          href: 'http://dbpedia.org/resource/Let_Yourself_Go_(James_Brown_song)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:James_Brown',
+          href: 'http://dbpedia.org/resource/James_Brown' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:King_Records_(United_States)',
+          href: 'http://dbpedia.org/resource/King_Records_(United_States)' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Cincinnati',
+          href: 'http://dbpedia.org/resource/Cincinnati' } ],
+     'dbo:runtime': 
+      [ { value: '175.000000 (xsd:double)' },
+        { value: '235.000000 (xsd:double)' },
+        { value: '450.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Get_It_Together_(James_Brown_song)',
+          href: 'http://dbpedia.org/resource/Get_It_Together_(James_Brown_song)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.the-breaks.com/search.php?term=Cold+Sweat&type=4',
+          href: 'http://www.the-breaks.com/search.php?term=Cold+Sweat&type=4' } ],
+     'dbo:wikiPageID': [ { value: '8426981 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '642705370 (xsd:integer)' } ],
+     'dbo:writer': 
+      [ { value: 'dbr:Alfred_"Pee_Wee"_Ellis',
+          href: 'http://dbpedia.org/resource/Alfred_%22Pee_Wee%22_Ellis' } ],
+     'dbp:after': [ { value: '"Funky Broadway" by Wilson Pickett (en)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:James_Brown',
+          href: 'http://dbpedia.org/resource/James_Brown' } ],
+     'dbp:bSide': [ { value: '2.0' } ],
+     'dbp:before': [ { value: '"Baby I Love You" by Aretha Franklin (en)' } ],
+     'dbp:caption': [ { value: 'Cover of the Cold Sweat album (en)' } ],
+     'dbp:chronology': [ { value: 'James Brown charting singles (en)' } ],
+     'dbp:cover': [ { value: 'ColdSweatAlbum.jpg (en)' } ],
+     'dbp:format': [ { value: '7" (en)' } ],
+     'dbp:fromAlbum': [ { value: 'Cold Sweat (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Funk', href: 'http://dbpedia.org/resource/Funk' } ],
+     'dbp:label': 
+      [ { value: 'dbr:King_Records_(United_States)',
+          href: 'http://dbpedia.org/resource/King_Records_(United_States)' },
+        { value: '(6110) (en)' } ],
+     'dbp:lastSingle': [ { value: '"Let Yourself Go" (en)' } ],
+     'dbp:length': [ { value: '*  \n*  \n* (en)' } ],
+     'dbp:name': [ { value: 'Cold Sweat - Part 1 (en)' } ],
+     'dbp:nextSingle': [ { value: '"Get It Together (Part 1)" (en)' } ],
+     'dbp:producer': [ { value: 'James Brown (en)' } ],
+     'dbp:recorded': [ { value: 'May 1967, King Studios, Cincinnati, Ohio (en)' } ],
+     'dbp:thisSingle': [ { value: '1.0' } ],
+     'dbp:title': [ { value: 'Billboard Hot R&B Singles number-one single (en)' } ],
+     'dbp:wordnet_type': 
+      [ { value: 'http://www.w3.org/2006/03/wn/wn20/instances/synset-phonograph_record-noun-1',
+          href: 'http://www.w3.org/2006/03/wn/wn20/instances/synset-phonograph_record-noun-1' } ],
+     'dbp:writer': [ { value: '* James Brown\n* Alfred Ellis (en)' } ],
+     'dbp:years': [ { value: '--09-09' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1967_singles',
+          href: 'http://dbpedia.org/resource/Category:1967_singles' },
+        { value: 'dbc:James_Brown_songs',
+          href: 'http://dbpedia.org/resource/Category:James_Brown_songs' },
+        { value: 'dbc:Billboard_Hot_R&B/Hip-Hop_Songs_number-one_singles',
+          href: 'http://dbpedia.org/resource/Category:Billboard_Hot_R&B/Hip-Hop_Songs_number-one_singles' },
+        { value: 'dbc:Songs_written_by_James_Brown',
+          href: 'http://dbpedia.org/resource/Category:Songs_written_by_James_Brown' },
+        { value: 'dbc:Songs_written_by_Alfred_"Pee_Wee"_Ellis',
+          href: 'http://dbpedia.org/resource/Category:Songs_written_by_Alfred_%22Pee_Wee%22_Ellis' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q134556',
+          href: 'http://www.wikidata.org/entity/Q134556' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Single',
+          href: 'http://dbpedia.org/ontology/Single' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: '"Cold Sweat" is a song performed by James Brown and written with his bandleader Alfred "Pee Wee" Ellis. Brown recorded it in May 1967. An edited version of "Cold Sweat" released as a two-part single on King Records was a #1 R&B hit, and reached number seven on the Pop Singles chart. The complete recording, over 7 minutes long, was included on an album of the same name.Brown\'s lyrics describe how his woman\'s affections make him "break out in a cold sweat." (en)' } ],
+     'rdfs:label': [ { value: 'Cold Sweat (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Cold Sweat',
+          href: 'http://rdf.freebase.com/ns/m.02731fx' },
+        { value: 'dbpedia-wikidata:Cold Sweat',
+          href: 'http://wikidata.dbpedia.org/resource/Q5142393' },
+        { value: 'wikidata:Cold Sweat',
+          href: 'http://www.wikidata.org/entity/Q5142393' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Cold_Sweat?oldid=642705370',
+          href: 'http://en.wikipedia.org/wiki/Cold_Sweat?oldid=642705370' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Cold_Sweat',
+          href: 'http://en.wikipedia.org/wiki/Cold_Sweat' } ],
+     'foaf:name': [ { value: 'Cold Sweat - Part 1 (en)' } ],
+     'is dbo:associatedBand\n of': 
+      [ { value: 'dbr:Bernie_Shaw',
+          href: 'http://dbpedia.org/resource/Bernie_Shaw' } ],
+     'is dbo:associatedMusicalArtist\n of': 
+      [ { value: 'dbr:Bernie_Shaw',
+          href: 'http://dbpedia.org/resource/Bernie_Shaw' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Get_It_Together_(James_Brown_song)',
+          href: 'http://dbpedia.org/resource/Get_It_Together_(James_Brown_song)' } ],
+     'is dbo:recordLabel\n of': 
+      [ { value: 'dbr:Becky_Stark',
+          href: 'http://dbpedia.org/resource/Becky_Stark' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Let_Yourself_Go_(James_Brown_song)',
+          href: 'http://dbpedia.org/resource/Let_Yourself_Go_(James_Brown_song)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Cold_sweat',
+          href: 'http://dbpedia.org/resource/Cold_sweat' } ],
+     'is dbp:associatedActs\n of': 
+      [ { value: 'dbr:Bernie_Shaw',
+          href: 'http://dbpedia.org/resource/Bernie_Shaw' } ],
+     'is dbp:label\n of': 
+      [ { value: 'dbr:Becky_Stark',
+          href: 'http://dbpedia.org/resource/Becky_Stark' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Live_in_New_York_(James_Brown_album)',
+          href: 'http://dbpedia.org/resource/Live_in_New_York_(James_Brown_album)' },
+        { value: 'dbr:Live_at_the_Apollo,_Volume_II',
+          href: 'http://dbpedia.org/resource/Live_at_the_Apollo,_Volume_II' },
+        { value: 'dbr:Live_at_the_Apollo_1995',
+          href: 'http://dbpedia.org/resource/Live_at_the_Apollo_1995' },
+        { value: 'dbr:Get_on_the_Good_Foot_(album)',
+          href: 'http://dbpedia.org/resource/Get_on_the_Good_Foot_(album)' },
+        { value: 'dbr:Ain\'t_It_Funky',
+          href: 'http://dbpedia.org/resource/Ain\'t_It_Funky' },
+        { value: 'dbr:Live_at_Chastain_Park',
+          href: 'http://dbpedia.org/resource/Live_at_Chastain_Park' },
+        { value: 'dbr:Soul_Session_Live',
+          href: 'http://dbpedia.org/resource/Soul_Session_Live' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Cold_Sweat',
+          href: 'http://en.wikipedia.org/wiki/Cold_Sweat' } ] } }

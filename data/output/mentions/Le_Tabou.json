@@ -1,0 +1,8 @@
+{ name: 'Le Tabou',
+  href: 'http://en.wikipedia.org/wiki/Le_Tabou',
+  mentions: 
+   [ { sectionHeader: 'Jazz at Le Tabou',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1067,
+       quote: [ 'Boris Vian was a regular at Le Tabou, as were Jean Cocteau and the legendary jazz trumpet-player Miles Davis.' ] } ] }

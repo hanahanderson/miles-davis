@@ -1,0 +1,8 @@
+{ name: 'The Unfinished Conversation',
+  href: 'http://en.wikipedia.org/wiki/The_Unfinished_Conversation',
+  mentions: 
+   [ { sectionHeader: 'The project',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3255,
+       quote: [ 'With reference to identity, race and memory, The Unfinished Conversation re-imagines the nature of memory itself through an individual\'s personal archive, marked with the music of Miles Davis, one of Hall\'s much loved musicians, as Hall\'s remarkable archive triggers the world events that were unfolding.' ] } ] }

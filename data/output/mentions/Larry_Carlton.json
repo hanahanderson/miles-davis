@@ -1,0 +1,8 @@
+{ name: 'Larry Carlton',
+  href: 'http://en.wikipedia.org/wiki/Larry_Carlton',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1299,
+       quote: [ 'Saxophonist John Coltrane has also made a notable impression on Carlton, and Carlton\'s live albums have featured cuts from Miles Davis\' Kind of Blue.' ] } ] }

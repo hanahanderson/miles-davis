@@ -1,0 +1,8 @@
+{ name: 'T. M. Stevens',
+  href: 'http://en.wikipedia.org/wiki/T._M._Stevens',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2173,
+       quote: [ 'His early jazz years brought him to play with the legendary jazz trumpeter, songwriter and bandleader Miles Davis.' ] } ] }

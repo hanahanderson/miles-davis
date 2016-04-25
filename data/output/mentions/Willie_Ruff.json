@@ -1,0 +1,18 @@
+{ name: 'Willie Ruff',
+  href: 'http://en.wikipedia.org/wiki/Willie_Ruff',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 33,
+       wordCountBeforeSection: 5730,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 5746,
+       quote: [] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 5746,
+       quote: [ 'Miles Davis & Gil Evans: The Complete Columbia Studio Recordings' ] } ] }

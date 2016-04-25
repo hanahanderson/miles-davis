@@ -1,0 +1,8 @@
+{ name: 'Culture of Pittsburgh',
+  href: 'http://en.wikipedia.org/wiki/Culture_of_Pittsburgh',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 55,
+       wordCountBeforeSection: 12815,
+       quote: [ 'Bassist Paul Chambers, also born in Pittsburgh, played on two of the most important albums in jazz history: Miles Davis\' Kind of Blue (1959) and John Coltrane\'s Giant Steps (1960).' ] } ] }

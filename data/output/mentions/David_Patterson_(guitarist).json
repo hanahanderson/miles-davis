@@ -1,0 +1,8 @@
+{ name: 'David Patterson (guitarist)',
+  href: 'http://en.wikipedia.org/wiki/David_Patterson_(guitarist)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1564,
+       quote: [ 'Patterson\'s influences include: Jimmy Page, John McLaughlin, Julian Bream, John Williams, Miles Davis, Jeff Beck, Paco de Lucia, Beethoven, Bach, and Heitor Villa-Lobos.' ] } ] }

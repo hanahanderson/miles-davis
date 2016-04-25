@@ -1,0 +1,8 @@
+{ name: 'List of Nattjazz artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_Nattjazz_artists',
+  mentions: 
+   [ { sectionHeader: 'Selected bands and artists',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 69868,
+       quote: [ 'Al Foster’s tribute to Miles Davis, at Sardinen, USF Verftet' ] } ] }

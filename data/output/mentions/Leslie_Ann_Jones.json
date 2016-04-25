@@ -1,0 +1,8 @@
+{ name: 'Leslie Ann Jones',
+  href: 'http://en.wikipedia.org/wiki/Leslie_Ann_Jones',
+  mentions: 
+   [ { sectionHeader: 'Credits',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 5278,
+       quote: [ 'Miles Davis and Quincy Jones Miles & Quincy Live at Montreux (1991)' ] } ] }

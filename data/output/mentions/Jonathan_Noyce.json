@@ -1,0 +1,8 @@
+{ name: 'Jonathan Noyce',
+  href: 'http://en.wikipedia.org/wiki/Jonathan_Noyce',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: 'Later Career',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4893,
+       quote: [ '• J.S. Bach, The Beatles, Miles Davis, Aphex Twin, Squarepusher and Tom Petty & The Heartbreakers' ] } ] }

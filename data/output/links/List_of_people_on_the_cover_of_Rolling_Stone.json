@@ -1,0 +1,58 @@
+{ name: 'List of people on the cover of Rolling Stone',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_on_the_cover_of_Rolling_Stone',
+  values: 
+   { 'dbo:abstract': [ { value: 'The list of people on the cover of Rolling Stone magazine, besides musicians, whom Rolling Stone primarily covers, includes politicians, movie and TV stars, comedians, sports figures, among others, including some fictional characters. The Beatles, as individuals or as the band, have appeared over 30 times. Madonna has appeared on more covers than any other female, either alone or in a "collage" cover.↑ 1.0 1.1 (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.rollingstone.com/news/story/10224178/our_1000th_issue',
+          href: 'http://www.rollingstone.com/news/story/10224178/our_1000th_issue' },
+        { value: 'http://www.usatoday.com/life/columnist/mediamix/2006-05-01-media-mix_x.htm',
+          href: 'http://www.usatoday.com/life/columnist/mediamix/2006-05-01-media-mix_x.htm' },
+        { value: 'http://www.rollingstone.com/photos/covers',
+          href: 'http://www.rollingstone.com/photos/covers' } ],
+     'dbo:wikiPageID': [ { value: '7092878 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682380825 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_people_by_magazine_appearance',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_by_magazine_appearance' },
+        { value: 'dbc:Lists_of_actors',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_actors' },
+        { value: 'dbc:Lists_of_celebrities',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_celebrities' },
+        { value: 'dbc:Lists_of_entertainers',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_entertainers' },
+        { value: 'dbc:Lists_of_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians' },
+        { value: 'dbc:American_music_magazines',
+          href: 'http://dbpedia.org/resource/Category:American_music_magazines' },
+        { value: 'dbc:Rolling_Stone',
+          href: 'http://dbpedia.org/resource/Category:Rolling_Stone' } ],
+     'rdfs:comment': [ { value: 'The list of people on the cover of Rolling Stone magazine, besides musicians, whom Rolling Stone primarily covers, includes politicians, movie and TV stars, comedians, sports figures, among others, including some fictional characters. The Beatles, as individuals or as the band, have appeared over 30 times. Madonna has appeared on more covers than any other female, either alone or in a "collage" cover.↑ 1.0 1.1 (en)' } ],
+     'rdfs:label': [ { value: 'List of people on the cover of Rolling Stone (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of people on the cover of Rolling Stone',
+          href: 'http://wikidata.dbpedia.org/resource/Q6633180' },
+        { value: 'wikidata:List of people on the cover of Rolling Stone',
+          href: 'http://www.wikidata.org/entity/Q6633180' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_on_the_cover_of_Rolling_Stone?oldid=682380825',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_on_the_cover_of_Rolling_Stone?oldid=682380825' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.rollingstone.com/photos/covers',
+          href: 'http://www.rollingstone.com/photos/covers' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_on_the_cover_of_Rolling_Stone',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_on_the_cover_of_Rolling_Stone' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_celebrities_who_have_appeared_on_the_cover_of_Rolling_Stone_magazine',
+          href: 'http://dbpedia.org/resource/List_of_celebrities_who_have_appeared_on_the_cover_of_Rolling_Stone_magazine' },
+        { value: 'dbr:List_of_people_who_have_appeared_on_the_cover_of_Rolling_Stone',
+          href: 'http://dbpedia.org/resource/List_of_people_who_have_appeared_on_the_cover_of_Rolling_Stone' },
+        { value: 'dbr:List_of_celebrities_who_have_appeared_on_the_cover_of_Rolling_Stone',
+          href: 'http://dbpedia.org/resource/List_of_celebrities_who_have_appeared_on_the_cover_of_Rolling_Stone' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Rolling_Stone',
+          href: 'http://dbpedia.org/resource/Rolling_Stone' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_on_the_cover_of_Rolling_Stone',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_on_the_cover_of_Rolling_Stone' } ] } }

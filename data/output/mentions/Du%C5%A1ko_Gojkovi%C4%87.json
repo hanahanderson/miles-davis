@@ -1,0 +1,8 @@
+{ name: 'Duško Gojković',
+  href: 'http://en.wikipedia.org/wiki/Du%C5%A1ko_Gojkovi%C4%87',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2040,
+       quote: [ 'In the years to follow he played with Miles Davis, Dizzy Gillespie, Oscar Pettiford, Gerry Mulligan, Sonny Rollins, Duke Jordan, Slide Hampton etc.' ] } ] }

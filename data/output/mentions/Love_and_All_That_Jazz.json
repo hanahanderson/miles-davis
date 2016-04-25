@@ -1,0 +1,8 @@
+{ name: 'Love and All That Jazz',
+  href: 'http://en.wikipedia.org/wiki/Love_and_All_That_Jazz',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1160,
+       quote: [ '"No Blues" (Miles Davis) - 5:15' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:AquinasProtocol',
+  href: 'http://en.wikipedia.org/wiki/User:AquinasProtocol',
+  mentions: 
+   [ { sectionHeader: 'My userbox farm',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 5386,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

@@ -1,0 +1,98 @@
+{ name: 'The Paris Concert: Edition Two',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/The_Paris_Concert:_Edition_Two',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Paris Concert: Edition Two is a live album by jazz pianist Bill Evans with Marc Johnson and Joe LaBarbera recorded in Paris, France in 1979 and originally released on the Elektra Musician label. Additional recordings from this concert were released as The Paris Concert: Edition One. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Paris_Concert:_Edition_One',
+          href: 'http://dbpedia.org/resource/The_Paris_Concert:_Edition_One' } ],
+     'dbo:recordDate': [ { value: '1979-11-26 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Elektra/Musician',
+          href: 'http://dbpedia.org/resource/Elektra/Musician' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:You_Must_Believe_in_Spring',
+          href: 'http://dbpedia.org/resource/You_Must_Believe_in_Spring' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '26667158 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '672927313 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'The Paris Concert Edition Two.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Elektra/Musician',
+          href: 'http://dbpedia.org/resource/Elektra/Musician' } ],
+     'dbp:lastAlbum': [ { value: 'The Paris Concert: Edition One (en)' } ],
+     'dbp:name': [ { value: 'The Paris Concert: Edition One (en)' } ],
+     'dbp:nextAlbum': [ { value: 'You Must Believe in Spring (en)' } ],
+     'dbp:recorded': [ { value: '1979-11-26 (xsd:date)' } ],
+     'dbp:released': [ { value: '1984 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Paris Concert: Edition Two (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bill_Evans_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_live_albums' },
+        { value: 'dbc:Elektra_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Elektra_Records_live_albums' },
+        { value: 'dbc:1984_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1984_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Paris Concert: Edition Two is a live album by jazz pianist Bill Evans with Marc Johnson and Joe LaBarbera recorded in Paris, France in 1979 and originally released on the Elektra Musician label. Additional recordings from this concert were released as The Paris Concert: Edition One. (en)' } ],
+     'rdfs:label': [ { value: 'The Paris Concert: Edition Two (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Paris Concert: Edition Two',
+          href: 'http://rdf.freebase.com/ns/m.0bmhl3w' },
+        { value: 'wikidata:The Paris Concert: Edition Two',
+          href: 'http://www.wikidata.org/entity/Q7756112' },
+        { value: 'dbpedia-wikidata:The Paris Concert: Edition Two',
+          href: 'http://wikidata.dbpedia.org/resource/Q7756112' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Paris_Concert:_Edition_Two?oldid=672927313',
+          href: 'http://en.wikipedia.org/wiki/The_Paris_Concert:_Edition_Two?oldid=672927313' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Paris_Concert:_Edition_Two',
+          href: 'http://en.wikipedia.org/wiki/The_Paris_Concert:_Edition_Two' } ],
+     'foaf:name': [ { value: 'The Paris Concert: Edition One (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings',
+          href: 'http://dbpedia.org/resource/Turn_Out_the_Stars:_The_Final_Village_Vanguard_Recordings' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Paris_Concert:_Edition_One',
+          href: 'http://dbpedia.org/resource/The_Paris_Concert:_Edition_One' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:The_Paris_Concert',
+          href: 'http://dbpedia.org/resource/The_Paris_Concert' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Paris_Concert:_Edition_Two',
+          href: 'http://en.wikipedia.org/wiki/The_Paris_Concert:_Edition_Two' } ] } }

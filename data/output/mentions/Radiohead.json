@@ -1,0 +1,18 @@
+{ name: 'Radiohead',
+  href: 'http://en.wikipedia.org/wiki/Radiohead',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 13173,
+       quote: [ 'The recording sessions were relaxed, with the band playing at all hours of the day, recording songs in different rooms, and listening to the Beatles, DJ Shadow, Ennio Morricone and Miles Davis for inspiration.' ] },
+     { sectionHeader: 'Style and songwriting',
+       sectionSubHeader: '2012–present: Hiatus, further solo work, and ninth album',
+       sectionIndex: 70,
+       wordCountBeforeSection: 39537,
+       quote: [ 'Other influences on the group have been Miles Davis and Ennio Morricone, 1960s rock groups such as the Beatles and the Beach Boys, and Phil Spector\'s "wall of sound" productions for girl groups.' ] },
+     { sectionHeader: 'Style and songwriting',
+       sectionSubHeader: '2012–present: Hiatus, further solo work, and ninth album',
+       sectionIndex: 71,
+       wordCountBeforeSection: 40323,
+       quote: [ 'The jazz of Charles Mingus, Alice Coltrane, and Miles Davis, and 1970s krautrock bands such as Can and Neu!, were other major influences during this period.' ] } ] }

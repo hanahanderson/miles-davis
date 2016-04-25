@@ -1,0 +1,8 @@
+{ name: 'So What chord',
+  href: 'http://en.wikipedia.org/wiki/So_What_chord',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 37,
+       quote: [ 'It was employed by Bill Evans in the "\'amen\' response figure" to the head of the Miles Davis tune "So What".' ] } ] }

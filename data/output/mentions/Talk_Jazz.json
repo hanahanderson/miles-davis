@@ -1,0 +1,8 @@
+{ name: 'Talk:Jazz',
+  href: 'http://en.wikipedia.org/wiki/Talk:Jazz',
+  mentions: 
+   [ { sectionHeader: 'Edit to "Smooth Jazz"',
+       sectionSubHeader: 'Screw it I changed it anyway',
+       sectionIndex: 116,
+       wordCountBeforeSection: 59003,
+       quote: [ 'In Stanley Crouch\'s, Newsweek article "The Problem With Jazz Criticism"  Crouch accused Miles Davis\'s selling out of jazz, in playing fusion, as a turning point that created smooth jazz.' ] } ] }

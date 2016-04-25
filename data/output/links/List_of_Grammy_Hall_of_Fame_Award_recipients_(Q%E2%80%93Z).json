@@ -1,0 +1,36 @@
+{ name: 'List of Grammy Hall of Fame Award recipients (Q–Z)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '198444 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '656640808 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_award_winners',
+          href: 'http://dbpedia.org/resource/Category:Music_award_winners' },
+        { value: 'dbc:Grammy_Hall_of_Fame_Award_recipients',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Hall_of_Fame_Award_recipients' } ],
+     'rdfs:label': [ { value: 'List of Grammy Hall of Fame Award recipients (Q–Z) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-es:List of Grammy Hall of Fame Award recipients (Q–Z)',
+          href: 'http://es.dbpedia.org/resource/Anexo:Galardonados_con_el_Premio_del_Salón_de_la_Fama_de_los_Grammy_Q-Z' },
+        { value: 'dbpedia-wikidata:List of Grammy Hall of Fame Award recipients (Q–Z)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6572288' },
+        { value: 'wikidata:List of Grammy Hall of Fame Award recipients (Q–Z)',
+          href: 'http://www.wikidata.org/entity/Q6572288' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Grammy_Hall_of_Fame_Award_recipients_(Q–Z)?oldid=656640808',
+          href: 'http://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q–Z)?oldid=656640808' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Grammy_Hall_of_Fame_Award_recipients_(Q–Z)',
+          href: 'http://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q–Z)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Grammy_Hall_of_Fame_Award_recipients_Q-Z',
+          href: 'http://dbpedia.org/resource/List_of_Grammy_Hall_of_Fame_Award_recipients_Q-Z' },
+        { value: 'dbr:List_of_Grammy_Hall_of_Fame_Award_recipients_Q–Z',
+          href: 'http://dbpedia.org/resource/List_of_Grammy_Hall_of_Fame_Award_recipients_Q–Z' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:List of Grammy Hall of Fame Award recipients (Q–Z)',
+          href: 'http://dbpedia.org/resource/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q%E2%80%93Z)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Grammy_Hall_of_Fame_Award_recipients_(Q–Z)',
+          href: 'http://en.wikipedia.org/wiki/List_of_Grammy_Hall_of_Fame_Award_recipients_(Q–Z)' } ] } }

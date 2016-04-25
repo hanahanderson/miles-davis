@@ -1,0 +1,8 @@
+{ name: 'Eddie Gómez',
+  href: 'http://en.wikipedia.org/wiki/Eddie_G%C3%B3mez',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1127,
+       quote: [ 'His résumé includes performances with jazz giants such as Miles Davis, Dizzy Gillespie, Gerry Mulligan, John Coltrane, New York Art Quartet, Benny Goodman, Buck Clayton, Ahmad Jamal, Bill Bruford, Scott LaFaro, Marian McPartland, Paul Bley, Michael Brecker, Wayne Shorter, Steps Ahead, Steve Gadd, Ron Carter, Jeremy Steig, Herbie Hancock, Tony Williams, Al Foster, Chick Corea, Eugenio Toussaint and Carli Muñoz.' ] } ] }

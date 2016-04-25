@@ -1,0 +1,8 @@
+{ name: 'User:SelectionBot/0.7/M-7',
+  href: 'http://en.wikipedia.org/wiki/User:SelectionBot/0.7/M-7',
+  mentions: 
+   [ { sectionHeader: 'Missouri',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2234,
+       quote: [ 'Miles Davis :' ] } ] }

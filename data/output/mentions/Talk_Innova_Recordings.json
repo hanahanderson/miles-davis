@@ -1,0 +1,8 @@
+{ name: 'Talk:Innova Recordings',
+  href: 'http://en.wikipedia.org/wiki/Talk:Innova_Recordings',
+  mentions: 
+   [ { sectionHeader: 'Composers',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 2278,
+       quote: [ 'Miles Davis' ] } ] }

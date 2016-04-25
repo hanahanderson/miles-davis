@@ -1,0 +1,8 @@
+{ name: 'Hampton Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Hampton_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1227,
+       quote: [ '1970 - Gene Ammons and Sonny Stitt, Kenny Burrell, Miles Davis, Roberta Flack, Eddie Harris, Herbie Mann, Les McCann, Mongo Santamaria, Jimmy Smith, Sarah Vaughan' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'James Buffington',
+  href: 'http://en.wikipedia.org/wiki/James_Buffington',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 718,
+       quote: [ 'He is perhaps best known for his work with Miles Davis on some of his Gil Evans sessions for Columbia Records.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 1876,
+       quote: [ 'With Miles Davis' ] } ] }

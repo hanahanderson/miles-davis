@@ -1,0 +1,37 @@
+{ name: 'Good Bait',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Good_Bait',
+  values: 
+   { 'dbo:abstract': [ { value: '"Good Bait" is a jazz composition written by American jazz piano player and composer Tadd Dameron and by  band leader Count Basie. It was introduced in 1944 and was popular in the 1940s and 1950s. (en)' } ],
+     'dbo:wikiPageID': [ { value: '35964288 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662389649 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1944_songs',
+          href: 'http://dbpedia.org/resource/Category:1944_songs' },
+        { value: 'dbc:Songs_with_music_by_Tadd_Dameron',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_music_by_Tadd_Dameron' },
+        { value: 'dbc:1940s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1940s_jazz_standards' },
+        { value: 'dbc:Bebop_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Bebop_jazz_standards' } ],
+     'rdfs:comment': [ { value: '"Good Bait" is a jazz composition written by American jazz piano player and composer Tadd Dameron and by  band leader Count Basie. It was introduced in 1944 and was popular in the 1940s and 1950s. (en)' } ],
+     'rdfs:label': [ { value: 'Good Bait (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Good Bait',
+          href: 'http://rdf.freebase.com/ns/m.0j_4grk' },
+        { value: 'wikidata:Good Bait',
+          href: 'http://www.wikidata.org/entity/Q5582440' },
+        { value: 'dbpedia-wikidata:Good Bait',
+          href: 'http://wikidata.dbpedia.org/resource/Q5582440' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Good_Bait?oldid=662389649',
+          href: 'http://en.wikipedia.org/wiki/Good_Bait?oldid=662389649' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Good_Bait',
+          href: 'http://en.wikipedia.org/wiki/Good_Bait' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Soultrane',
+          href: 'http://dbpedia.org/resource/Soultrane' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Good_Bait',
+          href: 'http://en.wikipedia.org/wiki/Good_Bait' } ] } }

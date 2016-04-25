@@ -1,0 +1,18 @@
+{ name: 'The Cellar Door',
+  href: 'http://en.wikipedia.org/wiki/The_Cellar_Door',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 180,
+       quote: [] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1525,
+       quote: [ 'Miles Davis (whose concerts there were the basis for the critically acclaimed Live-Evil, later expanded into a box set comprising the entire unedited performances "The Cellar Door Sessions")' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1525,
+       quote: [] } ] }

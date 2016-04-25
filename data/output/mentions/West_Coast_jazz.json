@@ -1,0 +1,13 @@
+{ name: 'West Coast jazz',
+  href: 'http://en.wikipedia.org/wiki/West_Coast_jazz',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2448,
+       quote: [ 'In 1949-1950 baritone saxophonist Gerry Mulligan participated in the Miles Davis band, contributing arrangements to the recordings that were later compiled as Birth of the Cool (1957).' ] },
+     { sectionHeader: 'Reception',
+       sectionSubHeader: 'California Hard',
+       sectionIndex: 29,
+       wordCountBeforeSection: 7514,
+       quote: [ 'As it often refers to Gerry Mulligan and his associates in California, "West Coast" merely becomes synonymous with "cool jazz", although Lester Young, Claude Thornhill, and Miles Davis were based in New York.' ] } ] }

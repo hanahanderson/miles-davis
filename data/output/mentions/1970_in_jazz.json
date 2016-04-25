@@ -1,0 +1,8 @@
+{ name: '1970 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1970_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 836,
+       quote: [ 'Miles Davis: Bitches\' Brew' ] } ] }

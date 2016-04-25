@@ -1,0 +1,118 @@
+{ name: 'Miles Davis Volume 2',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Miles_Davis_Volume_2',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '39.61666666666667' } ],
+     'dbo:abstract': [ { value: 'Miles Davis Volume 2 is the title of a Miles Davis album released by Blue Note Records as a 10 inch LP, a 12 inch LP, and as a CD, each with a different track listing.The original ten inch LP (BLP 5022) contained music from Davis\' second session for Blue Note, recorded April 20, 1953. The recording was made at a point in Davis\' life when he was struggling with heroin addiction, and in his autobiography Davis remembers that he, Jimmy Heath, and Art Blakey were all very high in the studio. Davis also states that the song title "C.T.A." was named after Heath\'s girlfriend Connie Theresa Ann.The twelve inch LP (BLP 1502) was originally  released in 1956 (following Miles Davis Volume 1 (BLP 1501)) after Davis won the Down Beat readers poll as best trumpeter. The two volumes of repackaged Miles Davis material were the first releases in Blue Note\'s new 1500 series of 12"LPs. The music compiled on the two volumes was from three separate recording sessions made over 1952–1954, some of which had been previously issued as singles, and as three now discontinued 10" LPs. Volume 2 contained material from all three sessions, and some previously unreleased alternate takes. The master takes of the March 6, 1954 session, which made up the bulk of the 12"LP, had originally been issued  in 10"LP format under the title Miles Davis, Volume 3 (BLP 5040), and the May 9, 1952 material had been previously released the 10"LP Young Man with a Horn (BLP 5013).The 2001 CD remastered by Rudy Van Gelder again contained the music recorded at the April 20, 1953 session, including all of the original 10"LP, along with alternate takes from the same session. Davis\' other recordings for Blue Note (in 1952 and 1954) are collected on the RVG CD edition of Miles Davis Volume 1. Some Japanese CD versions reproduce the original 12"LP running order. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Miles_Davis_Volume_1',
+          href: 'http://dbpedia.org/resource/Miles_Davis_Volume_1' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Alfred_Lion',
+          href: 'http://dbpedia.org/resource/Alfred_Lion' } ],
+     'dbo:recordDate': [ { value: '1953-04-20 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '2377.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Quintet/Sextet',
+          href: 'http://dbpedia.org/resource/Quintet/Sextet' } ],
+     'dbo:wikiPageID': [ { value: '3336331 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678120817 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'miles Davis Volume 2.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Blue_Note_Records',
+          href: 'http://dbpedia.org/resource/Blue_Note_Records' },
+        { value: 'BLP 1502 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Miles Davis Volume 1 (en)' } ],
+     'dbp:length': [ { value: '2377.0' } ],
+     'dbp:name': [ { value: 'Miles Davis Volume 2 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Quintet / Sextet (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Alfred_Lion',
+          href: 'http://dbpedia.org/resource/Alfred_Lion' } ],
+     'dbp:recorded': 
+      [ { value: '1953-04-20 (xsd:date)' },
+        { value: 'WOR Studios, New York City (en)' } ],
+     'dbp:released': 
+      [ { value: 'Early 1956 (en)' },
+        { value: 'Early October 1953 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Miles Davis Volume 2 (en)' } ],
+     'dbp:type': [ { value: 'Compilation (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Michael_Cuscuna' },
+        { value: 'dbc:1956_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:1956_compilation_albums' },
+        { value: 'dbc:Miles_Davis_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_compilation_albums' },
+        { value: 'dbc:Blue_Note_Records_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Blue_Note_Records_compilation_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Miles Davis Volume 2 is the title of a Miles Davis album released by Blue Note Records as a 10 inch LP, a 12 inch LP, and as a CD, each with a different track listing.The original ten inch LP (BLP 5022) contained music from Davis\' second session for Blue Note, recorded April 20, 1953. The recording was made at a point in Davis\' life when he was struggling with heroin addiction, and in his autobiography Davis remembers that he, Jimmy Heath, and Art Blakey were all very high in the studio. (en)' } ],
+     'rdfs:label': [ { value: 'Miles Davis Volume 2 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Miles Davis Volume 2',
+          href: 'http://rdf.freebase.com/ns/m.096gs6' },
+        { value: 'dbpedia-fr:Miles Davis Volume 2',
+          href: 'http://fr.dbpedia.org/resource/Miles_Davis_Volume_2' },
+        { value: 'dbpedia-it:Miles Davis Volume 2',
+          href: 'http://it.dbpedia.org/resource/Miles_Davis_Volume_2' },
+        { value: 'dbpedia-pl:Miles Davis Volume 2',
+          href: 'http://pl.dbpedia.org/resource/Miles_Davis_Volume_2' },
+        { value: 'dbpedia-pt:Miles Davis Volume 2',
+          href: 'http://pt.dbpedia.org/resource/Miles_Davis_Volume_2' },
+        { value: 'dbpedia-wikidata:Miles Davis Volume 2',
+          href: 'http://wikidata.dbpedia.org/resource/Q3314081' },
+        { value: 'wikidata:Miles Davis Volume 2',
+          href: 'http://www.wikidata.org/entity/Q3314081' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Miles_Davis_Volume_2?oldid=678120817',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_Volume_2?oldid=678120817' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Miles_Davis_Volume_2',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_Volume_2' } ],
+     'foaf:name': [ { value: 'Miles Davis Volume 2 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Miles_Davis,_Volume_3',
+          href: 'http://dbpedia.org/resource/Miles_Davis,_Volume_3' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Miles_Davis_Volume_1',
+          href: 'http://dbpedia.org/resource/Miles_Davis_Volume_1' },
+        { value: 'dbr:The_Compositions_Of_Al_Cohn',
+          href: 'http://dbpedia.org/resource/The_Compositions_Of_Al_Cohn' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Miles_Davis_Volume_2',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_Volume_2' } ] } }

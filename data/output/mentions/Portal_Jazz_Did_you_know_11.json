@@ -1,0 +1,8 @@
+{ name: 'Portal:Jazz/Did you know/11',
+  href: 'http://en.wikipedia.org/wiki/Portal:Jazz/Did_you_know/11',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'that Bill Barber (pictured) played tuba on a number of Miles Davis albums including Birth of the Cool, Miles Ahead and Sketches of Spain?' ] } ] }

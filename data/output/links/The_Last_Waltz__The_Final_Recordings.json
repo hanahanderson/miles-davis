@@ -1,0 +1,109 @@
+{ name: 'The Last Waltz: The Final Recordings',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/The_Last_Waltz:_The_Final_Recordings',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Last Waltz: The Final Recordings is an 8-CD box set live album by jazz pianist Bill Evans with Marc Johnson and Joe LaBarbera recorded during a nine night residency at Keystone Korner in San Francisco in 1980 and released on the Milestone label in 2000. Additional recordings from this concert series were released as Consecration: The Final Recordings Part 2 released in 2002. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Homecoming_(Bill_Evans_album)',
+          href: 'http://dbpedia.org/resource/Homecoming_(Bill_Evans_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Todd_Barkan',
+          href: 'http://dbpedia.org/resource/Todd_Barkan' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Milestone_Records',
+          href: 'http://dbpedia.org/resource/Milestone_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Tenderly:_An_Informal_Session',
+          href: 'http://dbpedia.org/resource/Tenderly:_An_Informal_Session' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '27330701 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671015028 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'The Last Waltz The Final Recordings.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Milestone_Records',
+          href: 'http://dbpedia.org/resource/Milestone_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Homecoming (en)' } ],
+     'dbp:name': [ { value: 'The Last Waltz: The Final Recordings (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Tenderly: An Informal Session (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Todd_Barkan',
+          href: 'http://dbpedia.org/resource/Todd_Barkan' } ],
+     'dbp:recorded': [ { value: '--08-31' } ],
+     'dbp:released': [ { value: '2000 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Last Waltz: The Final Recordings (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bill_Evans_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_live_albums' },
+        { value: 'dbc:Albums_recorded_at_Keystone_Korner',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Keystone_Korner' },
+        { value: 'dbc:1980_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:1980_compilation_albums' },
+        { value: 'dbc:1980_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1980_live_albums' },
+        { value: 'dbc:Milestone_Records_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Milestone_Records_compilation_albums' },
+        { value: 'dbc:Milestone_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Milestone_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Last Waltz: The Final Recordings is an 8-CD box set live album by jazz pianist Bill Evans with Marc Johnson and Joe LaBarbera recorded during a nine night residency at Keystone Korner in San Francisco in 1980 and released on the Milestone label in 2000. Additional recordings from this concert series were released as Consecration: The Final Recordings Part 2 released in 2002. (en)' } ],
+     'rdfs:label': [ { value: 'The Last Waltz: The Final Recordings (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Last Waltz: The Final Recordings',
+          href: 'http://rdf.freebase.com/ns/m.01lkqf9' },
+        { value: 'wikidata:The Last Waltz: The Final Recordings',
+          href: 'http://www.wikidata.org/entity/Q7746165' },
+        { value: 'dbpedia-wikidata:The Last Waltz: The Final Recordings',
+          href: 'http://wikidata.dbpedia.org/resource/Q7746165' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Last_Waltz:_The_Final_Recordings?oldid=671015028',
+          href: 'http://en.wikipedia.org/wiki/The_Last_Waltz:_The_Final_Recordings?oldid=671015028' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Last_Waltz:_The_Final_Recordings',
+          href: 'http://en.wikipedia.org/wiki/The_Last_Waltz:_The_Final_Recordings' } ],
+     'foaf:name': [ { value: 'The Last Waltz: The Final Recordings (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Tenderly:_An_Informal_Session',
+          href: 'http://dbpedia.org/resource/Tenderly:_An_Informal_Session' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Homecoming_(Bill_Evans_album)',
+          href: 'http://dbpedia.org/resource/Homecoming_(Bill_Evans_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:The_Last_Waltz_(disambiguation)',
+          href: 'http://dbpedia.org/resource/The_Last_Waltz_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Last_Waltz:_The_Final_Recordings',
+          href: 'http://en.wikipedia.org/wiki/The_Last_Waltz:_The_Final_Recordings' } ] } }

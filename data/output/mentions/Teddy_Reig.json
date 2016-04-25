@@ -1,0 +1,8 @@
+{ name: 'Teddy Reig',
+  href: 'http://en.wikipedia.org/wiki/Teddy_Reig',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Charlie Parker, Miles Davis, Stan Getz, Dizzy Gillespie, Sarah Vaughan, Don Byas, Erroll Garner, Dexter Gordon, J.J. Johnson, Lester Young, Bud Powell, Quincy Jones, Sonny Stitt, Maynard Ferguson, Paul Williams, Billy Eckstine, Count Basie, Harry "Sweets" Edison, others' ] } ] }

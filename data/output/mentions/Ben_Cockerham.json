@@ -1,0 +1,8 @@
+{ name: 'Ben Cockerham',
+  href: 'http://en.wikipedia.org/wiki/Ben_Cockerham',
+  mentions: 
+   [ { sectionHeader: 'Bandleader',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2892,
+       quote: [ 'Later that year Cockerham debuted an EP of instrumental jazz recordings as bandleader, pianist, composer, and arranger of his 9-piece troupe Savoy In Color, titled The World You’re in Is Perfect, heavily influenced by the Gil Evans-Miles Davis collaborations of the 1950s & \'60s.' ] } ] }

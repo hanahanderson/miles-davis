@@ -1,0 +1,8 @@
+{ name: 'Deaths in June 2007',
+  href: 'http://en.wikipedia.org/wiki/Deaths_in_June_2007',
+  mentions: 
+   [ { sectionHeader: 'June 2007',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 10502,
+       quote: [ 'Bill Barber, 87, American jazz tuba player, played with Miles Davis and John Coltrane, heart failure. ' ] } ] }

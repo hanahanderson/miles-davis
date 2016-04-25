@@ -1,0 +1,43 @@
+{ name: 'Café Bohemia',
+  href: 'http://en.wikipedia.org/wiki/Caf%C3%A9_Bohemia',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1065,
+       quote: 
+        [ 'Among the bands that played the club were the first Miles Davis Quintet, Art Blakey\'s original Jazz Messengers, and Kenny Dorham\'s Jazz Prophets.',
+          'Miles Davis\'s Prestige recordings Workin\', Relaxin\', Steamin\', and Cookin\' were meant to convey the spirit of the group\'s performances at the Bohemia.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1065,
+       quote: 
+        [ 'Among the bands that played the club were the first Miles Davis Quintet, Art Blakey\'s original Jazz Messengers, and Kenny Dorham\'s Jazz Prophets.',
+          'Miles Davis\'s Prestige recordings Workin\', Relaxin\', Steamin\', and Cookin\' were meant to convey the spirit of the group\'s performances at the Bohemia.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1065,
+       quote: 
+        [ 'Among the bands that played the club were the first Miles Davis Quintet, Art Blakey\'s original Jazz Messengers, and Kenny Dorham\'s Jazz Prophets.',
+          'Miles Davis\'s Prestige recordings Workin\', Relaxin\', Steamin\', and Cookin\' were meant to convey the spirit of the group\'s performances at the Bohemia.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1065,
+       quote: 
+        [ 'Among the bands that played the club were the first Miles Davis Quintet, Art Blakey\'s original Jazz Messengers, and Kenny Dorham\'s Jazz Prophets.',
+          'Miles Davis\'s Prestige recordings Workin\', Relaxin\', Steamin\', and Cookin\' were meant to convey the spirit of the group\'s performances at the Bohemia.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1065,
+       quote: 
+        [ 'Among the bands that played the club were the first Miles Davis Quintet, Art Blakey\'s original Jazz Messengers, and Kenny Dorham\'s Jazz Prophets.',
+          'Miles Davis\'s Prestige recordings Workin\', Relaxin\', Steamin\', and Cookin\' were meant to convey the spirit of the group\'s performances at the Bohemia.' ] },
+     { sectionHeader: 'Live recordings',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3246,
+       quote: [ 'Miles Davis Quintet with John Coltrane - "The Unissued Café Bohemia Broadcasts" (Domino, 2013)' ] } ] }

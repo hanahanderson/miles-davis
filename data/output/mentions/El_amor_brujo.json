@@ -1,0 +1,8 @@
+{ name: 'El amor brujo',
+  href: 'http://en.wikipedia.org/wiki/El_amor_brujo',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: 'Symphonic version',
+       sectionIndex: 33,
+       wordCountBeforeSection: 6600,
+       quote: [ 'The section "Cancion del Fuego Fatuo" was recorded in 1960 by jazz musician Miles Davis as "Will O\' the Wisp" in an arrangement by Gil Evans for their album Sketches of Spain.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Loose Blues',
+  href: 'http://en.wikipedia.org/wiki/Loose_Blues',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2900,
+       quote: [ 'Miles Davis' ] } ] }

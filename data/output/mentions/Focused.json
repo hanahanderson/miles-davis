@@ -1,0 +1,18 @@
+{ name: 'Focused',
+  href: 'http://en.wikipedia.org/wiki/Focused',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1290,
+       quote: [ 'with Miles Davis' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1290,
+       quote: [] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1290,
+       quote: [] } ] }

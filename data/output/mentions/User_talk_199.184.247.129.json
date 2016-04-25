@@ -1,0 +1,13 @@
+{ name: 'User talk:199.184.247.129',
+  href: 'http://en.wikipedia.org/wiki/User_talk:199.184.247.129',
+  mentions: 
+   [ { sectionHeader: 'October 2014',
+       sectionSubHeader: '',
+       sectionIndex: 70,
+       wordCountBeforeSection: 13513,
+       quote: [ 'This is a message letting you know that one or more of your recent edits to Miles Davis has been undone by an automated computer program called ClueBot NG.' ] },
+     { sectionHeader: 'October 2014',
+       sectionSubHeader: '',
+       sectionIndex: 72,
+       wordCountBeforeSection: 13701,
+       quote: [ 'The following is the log entry regarding this message: Miles Davis was changed by 199.184.247.129 (u) (t) ANN scored at 0.980637 on 2014-10-06T15:22:57+00:00 .' ] } ] }

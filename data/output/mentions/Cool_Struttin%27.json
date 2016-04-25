@@ -1,0 +1,13 @@
+{ name: 'Cool Struttin\'',
+  href: 'http://en.wikipedia.org/wiki/Cool_Struttin%27',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 475,
+       quote: [ 'Described as an "enduring hard-bop classic" by The New York Times, the album features alto saxophonist Jackie McLean, trumpeter Art Farmer and two members of the Miles Davis Quintet, drummer Philly Joe Jones and bassist Paul Chambers.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1372,
+       quote: [ '"Sippin\' at Bells" (Miles Davis) – 8:18' ] } ] }

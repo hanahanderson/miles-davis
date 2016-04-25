@@ -1,0 +1,8 @@
+{ name: 'School\'s Out (song)',
+  href: 'http://en.wikipedia.org/wiki/School%27s_Out_(song)',
+  mentions: 
+   [ { sectionHeader: 'Inspiration and writing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1664,
+       quote: [ 'On his radio show, "Nights with Alice Cooper", he joked that the main riff of the song was inspired by a song by Miles Davis.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Branford Marsalis',
+  href: 'http://en.wikipedia.org/wiki/Branford_Marsalis',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1770,
+       quote: [ 'He continued to work with Wynton until 1985, a period that also saw the release of his own first recording, Scenes in the City, as well as guest appearances with other artists including Miles Davis and Dizzy Gillespie.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 43,
+       wordCountBeforeSection: 15547,
+       quote: [ '1984 Decoy – Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Peter Gabriel',
+  href: 'http://en.wikipedia.org/wiki/Peter_Gabriel',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Solo albums',
+       sectionIndex: 150,
+       wordCountBeforeSection: 63119,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

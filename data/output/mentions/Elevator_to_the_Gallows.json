@@ -1,0 +1,13 @@
+{ name: 'Elevator to the Gallows',
+  href: 'http://en.wikipedia.org/wiki/Elevator_to_the_Gallows',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 1180,
+       quote: [ 'The score by Miles Davis has been described by jazz critic Phil Johnson as, "The loneliest trumpet sound you will ever hear, and the model for sad-core music ever since.' ] } ] }

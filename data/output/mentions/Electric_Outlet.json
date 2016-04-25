@@ -1,0 +1,8 @@
+{ name: 'Electric Outlet',
+  href: 'http://en.wikipedia.org/wiki/Electric_Outlet',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1026,
+       quote: [ 'Miles Davis' ] } ] }

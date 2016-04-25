@@ -1,0 +1,8 @@
+{ name: 'Jay Landesman',
+  href: 'http://en.wikipedia.org/wiki/Jay_Landesman',
+  mentions: 
+   [ { sectionHeader: 'Death',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4923,
+       quote: [ 'The couple are survived by their two sons, The Sunday Times film critic Cosmo, formerly married to the journalist Julie Burchill, and Miles Davis Landesman, named after the jazz trumpeter whom the couple had known.' ] } ] }

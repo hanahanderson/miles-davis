@@ -1,0 +1,28 @@
+{ name: 'Bibliography of jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Bibliography_of_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'A bibliography of books about jazz music, biographies and related content: (en)' } ],
+     'dbo:wikiPageID': [ { value: '44153405 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662749051 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_books',
+          href: 'http://dbpedia.org/resource/Category:Jazz_books' },
+        { value: 'dbc:Music_bibliographies',
+          href: 'http://dbpedia.org/resource/Category:Music_bibliographies' } ],
+     'rdfs:comment': [ { value: 'A bibliography of books about jazz music, biographies and related content: (en)' } ],
+     'rdfs:label': [ { value: 'Bibliography of jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Bibliography of jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q18357949' },
+        { value: 'wikidata:Bibliography of jazz',
+          href: 'http://www.wikidata.org/entity/Q18357949' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Bibliography_of_jazz?oldid=662749051',
+          href: 'http://en.wikipedia.org/wiki/Bibliography_of_jazz?oldid=662749051' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Bibliography_of_jazz',
+          href: 'http://en.wikipedia.org/wiki/Bibliography_of_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Bibliography_of_jazz',
+          href: 'http://en.wikipedia.org/wiki/Bibliography_of_jazz' } ] } }

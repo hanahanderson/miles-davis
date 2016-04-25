@@ -1,0 +1,8 @@
+{ name: 'It Could Happen to You (song)',
+  href: 'http://en.wikipedia.org/wiki/It_Could_Happen_to_You_(song)',
+  mentions: 
+   [ { sectionHeader: 'Other notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 687,
+       quote: [ 'The song has also been recorded by Dorothy Lamour, Anita O\'Day, Eydie Gormé, Frankie Vaughan, Julie London, Lena Horne, Lita Roza, Peggy Lee, Perry Como, Sarah Vaughan, Tony Bennett, Vera Lynn, Shirley Bassey, Miles Davis, Sonny Rollins, Chet Baker, Red Garland, Erroll Garner, Bud Powell, Ahmad Jamal, Art Garfunkel, Frank Sinatra, Doris Day, Rosemary Clooney, Michael Feinstein, June Christy, Larry Coryell, Four Freshmen, Robert Palmer, Keith Jarrett, Diana Krall, Barry Manilow, Johnny Mathis, Nat King Cole, Susannah McCorkle, Dinah Washington, Barbra Streisand, Kiri Te Kanawa, Dave Brubeck, Bob Dorough, Andy Williams, Maynard Ferguson, Roseanna Vitro and Monica Zetterlund.' ] } ] }

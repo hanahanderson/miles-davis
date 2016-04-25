@@ -1,0 +1,43 @@
+{ name: '1949 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1949_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'In 1949 in jazz, Bebop dominates the scene, but Dixieland is still being played. Miles Davis makes the first recordings with other artists of what will be known as Cool Jazz. The first LPs are issued, as are the first 45s. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Satchmo_Messuhallissa.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Satchmo_Messuhallissa.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25655323 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '623916469 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1950 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'Satchmo plays the trumpet in Töölö Sports Hall between two Finnish musicians, October 1949 (en)' } ],
+     'dbp:prioryear': [ { value: '1948 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1949_in_music',
+          href: 'http://dbpedia.org/resource/Category:1949_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'In 1949 in jazz, Bebop dominates the scene, but Dixieland is still being played. Miles Davis makes the first recordings with other artists of what will be known as Cool Jazz. The first LPs are issued, as are the first 45s. (en)' } ],
+     'rdfs:label': [ { value: '1949 in jazz (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_1940s_jazz_standards',
+          href: 'http://dbpedia.org/resource/List_of_1940s_jazz_standards' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1949 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4566688' },
+        { value: 'wikidata:1949 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4566688' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1949_in_jazz?oldid=623916469',
+          href: 'http://en.wikipedia.org/wiki/1949_in_jazz?oldid=623916469' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Satchmo_Messuhallissa.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Satchmo_Messuhallissa.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1949_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1949_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1949_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1949_in_jazz' } ] } }

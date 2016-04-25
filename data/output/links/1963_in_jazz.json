@@ -1,0 +1,56 @@
+{ name: '1963 in jazz',
+  entityType: 'populated place',
+  href: 'http://dbpedia.org/page/1963_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1963 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Joe_Darensbourg.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joe_Darensbourg.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25654569 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '596829761 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1964 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'Joe Darensbourg playing clarinet with the Louis Armstrong combo at the Palais Royal in South Bend, IN, 1963 (en)' } ],
+     'dbp:prioryear': [ { value: '1962 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1963_in_music',
+          href: 'http://dbpedia.org/resource/Category:1963_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Place',
+          href: 'http://dbpedia.org/ontology/Place' },
+        { value: 'dbo:Location',
+          href: 'http://dbpedia.org/ontology/Location' },
+        { value: 'wikidata:Q486972',
+          href: 'http://www.wikidata.org/entity/Q486972' },
+        { value: 'dbo:PopulatedPlace',
+          href: 'http://dbpedia.org/ontology/PopulatedPlace' },
+        { value: 'schema:Place', href: 'http://schema.org/Place' } ],
+     'rdfs:comment': [ { value: '1963 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1963 in jazz (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_post-1950_jazz_standards',
+          href: 'http://dbpedia.org/resource/List_of_post-1950_jazz_standards' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1963 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4571303' },
+        { value: 'wikidata:1963 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4571303' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1963_in_jazz?oldid=596829761',
+          href: 'http://en.wikipedia.org/wiki/1963_in_jazz?oldid=596829761' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Joe_Darensbourg.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Joe_Darensbourg.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1963_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1963_in_jazz' } ],
+     'is dbo:recordedIn\n of': 
+      [ { value: 'dbr:Ugetsu_(album)',
+          href: 'http://dbpedia.org/resource/Ugetsu_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1963_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1963_in_jazz' } ] } }

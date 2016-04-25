@@ -1,0 +1,8 @@
+{ name: 'Portal:Music/Featured articles',
+  href: 'http://en.wikipedia.org/wiki/Portal:Music/Featured_articles',
+  mentions: 
+   [ { sectionHeader: 'Musicians and bands',
+       sectionSubHeader: '',
+       sectionIndex: 44,
+       wordCountBeforeSection: 11610,
+       quote: [ 'Miles Davis' ] } ] }

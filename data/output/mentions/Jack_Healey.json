@@ -1,0 +1,8 @@
+{ name: 'Jack Healey',
+  href: 'http://en.wikipedia.org/wiki/Jack_Healey',
+  mentions: 
+   [ { sectionHeader: 'Media Projects',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 4428,
+       quote: [ 'This two week tour for human rights included musicians Peter Gabriel, U2, Lou Reed, Joan Baez, Bryan Adams, Miles Davis, Bob Dylan, The Police, Jackson Browne, Santana, the Hooters, Third World and Bob Geldof.' ] } ] }

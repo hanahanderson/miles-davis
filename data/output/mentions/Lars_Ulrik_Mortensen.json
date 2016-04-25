@@ -1,0 +1,8 @@
+{ name: 'Lars Ulrik Mortensen',
+  href: 'http://en.wikipedia.org/wiki/Lars_Ulrik_Mortensen',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 2995,
+       quote: [ 'Miles Davis (1984)' ] } ] }

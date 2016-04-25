@@ -1,0 +1,8 @@
+{ name: 'Sly Stone',
+  href: 'http://en.wikipedia.org/wiki/Sly_Stone',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 45,
+       wordCountBeforeSection: 14267,
+       quote: [ 'One Stone-penned demo called "Coming Back for More" appears to be autobiographical and includes the verse: "Been so high, I touched the sky and the sky says \'Sly, why you tryin\' to get by?\' Comin\' back for more." His son, Sylvester Jr., told People Magazine in 1997 that his father had composed an album\'s worth of material, including a tribute to Miles Davis called "Miles and Miles."' ] } ] }

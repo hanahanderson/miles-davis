@@ -1,0 +1,8 @@
+{ name: 'Steven Baigelman',
+  href: 'http://en.wikipedia.org/wiki/Steven_Baigelman',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2065,
+       quote: [ 'Baigelman, along with Don Cheadle, co-wrote the screenplay for the upcoming biographical film Miles Ahead, depicting the life of musician Miles Davis.' ] } ] }

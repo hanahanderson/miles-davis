@@ -1,0 +1,8 @@
+{ name: 'The Great Gatsby (2013 film)',
+  href: 'http://en.wikipedia.org/wiki/The_Great_Gatsby_(2013_film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Accolades',
+       sectionIndex: 79,
+       wordCountBeforeSection: 42882,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

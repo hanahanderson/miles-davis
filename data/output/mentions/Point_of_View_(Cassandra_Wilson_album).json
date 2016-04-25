@@ -1,0 +1,8 @@
+{ name: 'Point of View (Cassandra Wilson album)',
+  href: 'http://en.wikipedia.org/wiki/Point_of_View_(Cassandra_Wilson_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1046,
+       quote: [ '"Blue in Green" (Miles Davis, Bill Evans, Wilson) – 4:10' ] } ] }

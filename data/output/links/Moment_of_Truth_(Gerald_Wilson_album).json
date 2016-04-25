@@ -1,0 +1,4 @@
+{ name: 'Moment of Truth (Gerald Wilson album)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Moment_of_Truth_(Gerald_Wilson_album)',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

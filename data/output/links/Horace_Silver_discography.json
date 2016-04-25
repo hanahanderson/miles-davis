@@ -1,0 +1,48 @@
+{ name: 'Horace Silver discography',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Horace_Silver_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'Horace Silver was a hard bop jazz pianist. His major discography consists of 36 studio albums, 3 live albums and 7 compilations.Silver worked as a sideman and leader starting in the 1950\'s. He was a founding member and co-leader of The Jazz Messengers with Art Blakey. After leaving the Messengers he led a five-piece combo of his own into the 1980\'s. The vast majority of Silver\'s recordings as a leader were for the Blue Note label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Horace_Silver',
+          href: 'http://dbpedia.org/resource/Horace_Silver' } ],
+     'dbo:wikiPageID': [ { value: '44420045 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681000620 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Horace Silver (en)' } ],
+     'dbp:compilation': [ { value: '7 (xsd:integer)' } ],
+     'dbp:imageSize': [ { value: '225 (xsd:integer)' } ],
+     'dbp:live': [ { value: '3 (xsd:integer)' } ],
+     'dbp:studio': [ { value: '36 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' },
+        { value: 'dbc:Horace_Silver_albums',
+          href: 'http://dbpedia.org/resource/Category:Horace_Silver_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:ArtistDiscography',
+          href: 'http://dbpedia.org/ontology/ArtistDiscography' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: 'Horace Silver was a hard bop jazz pianist. His major discography consists of 36 studio albums, 3 live albums and 7 compilations.Silver worked as a sideman and leader starting in the 1950\'s. He was a founding member and co-leader of The Jazz Messengers with Art Blakey. After leaving the Messengers he led a five-piece combo of his own into the 1980\'s. The vast majority of Silver\'s recordings as a leader were for the Blue Note label. (en)' } ],
+     'rdfs:label': [ { value: 'Horace Silver discography (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Horace_Silver_discography?oldid=681000620',
+          href: 'http://en.wikipedia.org/wiki/Horace_Silver_discography?oldid=681000620' } ],
+     'foaf:homepage': [ { value: 'http://jazzdisco.org', href: 'http://jazzdisco.org' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Horace_Silver_discography',
+          href: 'http://en.wikipedia.org/wiki/Horace_Silver_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Horace_Silver_discography',
+          href: 'http://en.wikipedia.org/wiki/Horace_Silver_discography' } ] } }

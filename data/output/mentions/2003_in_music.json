@@ -1,0 +1,8 @@
+{ name: '2003 in music',
+  href: 'http://en.wikipedia.org/wiki/2003_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 23791,
+       quote: [ 'Miles Davis' ] } ] }

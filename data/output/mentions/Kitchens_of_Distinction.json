@@ -1,0 +1,8 @@
+{ name: 'Kitchens of Distinction',
+  href: 'http://en.wikipedia.org/wiki/Kitchens_of_Distinction',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4362,
+       quote: [ 'The band went back into the studio in 1992, again with Jones at the helm, and their third album The Death of Cool came out in August that year; it was named in honour of the passing of Miles Davis, who had released an influential album titled The Birth of the Cool in 1950.' ] } ] }

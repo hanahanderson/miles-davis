@@ -1,0 +1,8 @@
+{ name: 'Bang! Zoom',
+  href: 'http://en.wikipedia.org/wiki/Bang!_Zoom',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 443,
+       quote: [ 'Miles Davis' ] } ] }

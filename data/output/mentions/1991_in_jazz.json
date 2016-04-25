@@ -1,0 +1,8 @@
+{ name: '1991 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1991_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Deaths',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2391,
+       quote: [ 'Miles Davis (May 26, 1926 – September 28) American trumpeter, bandleader and composer' ] } ] }

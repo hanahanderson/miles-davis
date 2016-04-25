@@ -1,0 +1,112 @@
+{ name: 'The Solo Sessions, Vol. 1',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Solo_Sessions,_Vol._1',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '42.06666666666667' } ],
+     'dbo:abstract': [ { value: 'The Solo Sessions, Vol. 1 is an album by jazz pianist Bill Evans, released in 1989. Evans recorded The Solo Sessions, Vol. 1 and Vol. 2 at the same session, on January 10, 1963 and the tracks were originally released as part of Bill Evans: The Complete Riverside Recordings in 1984. The Bill Evans Memorial Library states these sessions were never intended for release. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Re:_Person_I_Knew',
+          href: 'http://dbpedia.org/resource/Re:_Person_I_Knew' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbo:recordDate': [ { value: '1963-01-10 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Milestone_Records',
+          href: 'http://dbpedia.org/resource/Milestone_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '2524.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Solo_Sessions,_Vol._2',
+          href: 'http://dbpedia.org/resource/The_Solo_Sessions,_Vol._2' } ],
+     'dbo:wikiPageID': [ { value: '21171129 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '638000738 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:border': [ { value: 'yes (en)' } ],
+     'dbp:cover': [ { value: 'Billevanssolosessions1.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Milestone_Records',
+          href: 'http://dbpedia.org/resource/Milestone_Records' },
+        { value: 'M-9170 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Re: Person I Knew (en)' } ],
+     'dbp:length': [ { value: '2524.0' } ],
+     'dbp:name': [ { value: 'The Solo Sessions, Vol. 1 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Solo Sessions, Vol. 2 (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbp:recorded': 
+      [ { value: '1963-01-10 (xsd:date)' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbp:released': [ { value: '1989 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'The Solo Sessions, Vol. 1 (en)' } ],
+     'dbp:type': [ { value: 'album (en)' }, { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1989_albums',
+          href: 'http://dbpedia.org/resource/Category:1989_albums' },
+        { value: 'dbc:Bill_Evans_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_albums' },
+        { value: 'dbc:Albums_produced_by_Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Orrin_Keepnews' },
+        { value: 'dbc:Milestone_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Milestone_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Solo Sessions, Vol. 1 is an album by jazz pianist Bill Evans, released in 1989. Evans recorded The Solo Sessions, Vol. 1 and Vol. 2 at the same session, on January 10, 1963 and the tracks were originally released as part of Bill Evans: The Complete Riverside Recordings in 1984. The Bill Evans Memorial Library states these sessions were never intended for release. (en)' } ],
+     'rdfs:label': [ { value: 'The Solo Sessions, Vol. 1 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Solo Sessions, Vol. 1',
+          href: 'http://rdf.freebase.com/ns/m.05c1swy' },
+        { value: 'dbpedia-fr:The Solo Sessions, Vol. 1',
+          href: 'http://fr.dbpedia.org/resource/The_Solo_Sessions_:_Volume_1_(album_de_Bill_Evans)' },
+        { value: 'dbpedia-es:The Solo Sessions, Vol. 1',
+          href: 'http://es.dbpedia.org/resource/The_Solo_Sessions,_Vol._1' },
+        { value: 'dbpedia-wikidata:The Solo Sessions, Vol. 1',
+          href: 'http://wikidata.dbpedia.org/resource/Q1189024' },
+        { value: 'wikidata:The Solo Sessions, Vol. 1',
+          href: 'http://www.wikidata.org/entity/Q1189024' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Solo_Sessions,_Vol._1?oldid=638000738',
+          href: 'http://en.wikipedia.org/wiki/The_Solo_Sessions,_Vol._1?oldid=638000738' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Solo_Sessions,_Vol._1',
+          href: 'http://en.wikipedia.org/wiki/The_Solo_Sessions,_Vol._1' } ],
+     'foaf:name': [ { value: 'The Solo Sessions, Vol. 1 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Solo_Sessions,_Vol._2',
+          href: 'http://dbpedia.org/resource/The_Solo_Sessions,_Vol._2' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Re:_Person_I_Knew',
+          href: 'http://dbpedia.org/resource/Re:_Person_I_Knew' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Solo_Sessions,_Vol._1',
+          href: 'http://en.wikipedia.org/wiki/The_Solo_Sessions,_Vol._1' } ] } }

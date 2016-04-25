@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Recent additions 151',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Recent_additions_151',
+  mentions: 
+   [ { sectionHeader: 'Did you know...',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 2408,
+       quote: [ '...that Bill Barber played tuba on a number of Miles Davis albums including Birth of the Cool, Miles Ahead and Sketches of Spain?' ] } ] }

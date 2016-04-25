@@ -1,0 +1,103 @@
+{ name: 'The New Sounds',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_New_Sounds',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '23.583333333333332' } ],
+     'dbo:abstract': [ { value: 'The New Sounds (PRLP 124) is a 1951 10 inch LP album by Miles Davis. It is his debut album as leader, and his first complete album for Prestige Records. Davis had previously contributed three tracks to the various artists LP Modern Jazz Trumpets (PRLP 113), and performed as a sideman on Lee Konitz: The New Sounds (PRLP 116).Prestige would be Davis\' label for the next five years, with occasional recordings for Blue Note and Debut, until he signed with Columbia in 1955. His previous label, Capitol, had been disappointed with the sales of the nonet recordings released in 1949/50, and they had not offered Davis more work, when he was contacted by Prestige\'s Bob Weinstock. Weinstock had just started his new jazz specialty record label, and wanted Davis on his label so bad he tracked him across the country, to Chicago where he was performing with Billie Holiday, and offered him a one year contract.The  four tracks on this album were recorded at New York\'s Apex Studio on October 5, 1951, along with two tracks ("Bluing" and "Out of the Blue") that would later be used on his next Prestige album, Blue Period, (PRLP 140), and a seventh track, "Denial", which would later appear on the 12"LP Dig  (PRLP 7012). Davis\' friends Charlie Parker and Charles Mingus both attended this recording session, with Mingus contributing an uncredited bass part to "Conception". Parker watched from the engineering booth, and his presence is said to have unnerved alto saxophonist Jackie McLean, for whom this was his first ever recording session. Sonny Rollins, Davis\' favoured tenor saxophonist during this period, was again used for this recording session. Ira Gitler\'s liner notes stress the advantage of the 10" LP in allowing a jazz musician to stretch out. "This album gives Miles more freedom than he has ever had on record for time limits were not strictly enforced. There is opportunity to build ideas into a definite cumulative effect. These ideas sound much more like air-shots than studio recordings."  For Davis, this was his first recording to use the new microgroove technology, and he was eager to transcend the 78rpm format\'s three minute limit and stretch out his solos like he could while playing in the clubs. Weinstock assured him he would be one of the first jazz musicians to take advantage of the potential of microgroove technology.After the 10" LP format was discontinued in 1956, the tracks "Dig" and "It\'s Only A Paper Moon" would reappear on the 12" album Dig (PRLP 7012), and "Conception" and "My Old Flame" on the various artists compilation Conception (PRLP 7013). (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Modern_Jazz_Trumpets',
+          href: 'http://dbpedia.org/resource/Modern_Jazz_Trumpets' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': [ { value: '1951-10-05 (xsd:date)' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Apex_Studios',
+          href: 'http://dbpedia.org/resource/Apex_Studios' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '1415.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Young_Man_with_a_Horn_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Young_Man_with_a_Horn_(Miles_Davis_album)' } ],
+     'dbo:wikiPageID': [ { value: '42726733 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '656342778 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'MilesNewSounds.jpg (en)' } ],
+     'dbp:genre': [ { value: 'Jazz (en)' } ],
+     'dbp:label': [ { value: 'Prestige (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Modern Jazz Trumpets (en)' } ],
+     'dbp:length': [ { value: '1415.0' } ],
+     'dbp:name': [ { value: 'The New Sounds (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Young Man with a Horn (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '1951-10-05 (xsd:date)' },
+        { value: 'Apex Studio, New York City (en)' } ],
+     'dbp:released': [ { value: '1951 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'The New Sounds (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1951_albums',
+          href: 'http://dbpedia.org/resource/Category:1951_albums' },
+        { value: 'dbc:Miles_Davis_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The New Sounds (PRLP 124) is a 1951 10 inch LP album by Miles Davis. It is his debut album as leader, and his first complete album for Prestige Records. Davis had previously contributed three tracks to the various artists LP Modern Jazz Trumpets (PRLP 113), and performed as a sideman on Lee Konitz: The New Sounds (PRLP 116).Prestige would be Davis\' label for the next five years, with occasional recordings for Blue Note and Debut, until he signed with Columbia in 1955. (en)' } ],
+     'rdfs:label': [ { value: 'The New Sounds (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-it:The New Sounds',
+          href: 'http://it.dbpedia.org/resource/The_New_Sounds' },
+        { value: 'freebase:The New Sounds',
+          href: 'http://rdf.freebase.com/ns/m.010lzhvs' },
+        { value: 'dbpedia-wikidata:The New Sounds',
+          href: 'http://wikidata.dbpedia.org/resource/Q3988482' },
+        { value: 'wikidata:The New Sounds',
+          href: 'http://www.wikidata.org/entity/Q3988482' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_New_Sounds?oldid=656342778',
+          href: 'http://en.wikipedia.org/wiki/The_New_Sounds?oldid=656342778' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_New_Sounds',
+          href: 'http://en.wikipedia.org/wiki/The_New_Sounds' } ],
+     'foaf:name': [ { value: 'The New Sounds (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Young_Man_with_a_Horn_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Young_Man_with_a_Horn_(Miles_Davis_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Subconscious-Lee',
+          href: 'http://dbpedia.org/resource/Subconscious-Lee' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:The_New_Sounds_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/The_New_Sounds_(Miles_Davis_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_New_Sounds',
+          href: 'http://en.wikipedia.org/wiki/The_New_Sounds' } ] } }

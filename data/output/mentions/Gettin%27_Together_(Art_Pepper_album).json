@@ -1,0 +1,8 @@
+{ name: 'Gettin\' Together (Art Pepper album)',
+  href: 'http://en.wikipedia.org/wiki/Gettin%27_Together_(Art_Pepper_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 431,
+       quote: [ 'The sleeve notes (by Martin Williams) describe the album as \'a sort of sequel to the earlier Art Pepper Meets the Rhythm Section\' which also featured Miles Davis rhythm section of its time.' ] } ] }

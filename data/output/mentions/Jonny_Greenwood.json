@@ -1,0 +1,8 @@
+{ name: 'Jonny Greenwood',
+  href: 'http://en.wikipedia.org/wiki/Jonny_Greenwood',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: 'Solo and orchestral work',
+       sectionIndex: 30,
+       wordCountBeforeSection: 11251,
+       quote: [ 'His jazz favourites include Lee Morgan and Miles Davis.' ] } ] }

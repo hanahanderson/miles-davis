@@ -1,0 +1,8 @@
+{ name: 'Lucky Thompson',
+  href: 'http://en.wikipedia.org/wiki/Lucky_Thompson',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1383,
+       quote: [ 'After playing with the swing orchestras of Lionel Hampton, Don Redman, Billy Eckstine (alongside Dizzy Gillespie and Charlie Parker), Lucky Millinder, and Count Basie, he worked in rhythm and blues and then established a career in bebop and hard bop, working with Kenny Clarke, Miles Davis, Gillespie and Milt Jackson.' ] } ] }

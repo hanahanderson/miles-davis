@@ -1,0 +1,8 @@
+{ name: 'Brown Betty (Fringe)',
+  href: 'http://en.wikipedia.org/wiki/Brown_Betty_(Fringe)',
+  mentions: 
+   [ { sectionHeader: 'Production',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 13976,
+       quote: [ 'Miles Davis\' "Freddie Freeloader", played at the Peter house ' ] } ] }

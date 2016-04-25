@@ -1,0 +1,8 @@
+{ name: 'List of 1960s musical artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_1960s_musical_artists',
+  mentions: 
+   [ { sectionHeader: 'K-N',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 7180,
+       quote: [ 'Miles Davis' ] } ] }

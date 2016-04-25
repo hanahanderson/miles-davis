@@ -1,0 +1,13 @@
+{ name: 'I Could Write a Book',
+  href: 'http://en.wikipedia.org/wiki/I_Could_Write_a_Book',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 471,
+       quote: [ 'Miles Davis - Relaxin\' with The Miles Davis Quintet (1956)' ] },
+     { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 471,
+       quote: [ 'Relaxin\' with The Miles Davis Quintet' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Keith Mars',
+  href: 'http://en.wikipedia.org/wiki/Keith_Mars',
+  mentions: 
+   [ { sectionHeader: 'Interests',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4140,
+       quote: [ 'His favorite musicians are The Beatles, Louis Armstrong, Miles Davis, Thelonious Monk, Aretha Franklin, The Beach Boys, The Everly Brothers, Blue Öyster Cult and Fleetwood Mac.' ] } ] }

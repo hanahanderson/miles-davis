@@ -1,0 +1,52 @@
+{ name: 'Grammy Award for Best R&B Instrumental Performance',
+  entityType: 'AwardsDisestablishedIn1993',
+  href: 'http://dbpedia.org/page/Grammy_Award_for_Best_R%26B_Instrumental_Performance',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Grammy Award for Best R&B Instrumental Performance was awarded from 1970 to 1990 and in 1993.  The award had several minor name changes:From 1970 to 1985 the award was known as Best R&B Instrumental PerformanceFrom 1986 to 1989 it was awarded as Best R&B Instrumental Performance (Orchestra, Group or Soloist)In 1990 and 1993 it was awarded as Best R&B Instrumental PerformanceYears reflect the year in which the Grammy Awards were presented, for works released in the previous year. (en)' } ],
+     'dbo:wikiPageID': [ { value: '594408 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '557773669 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Awards_disestablished_in_1993',
+          href: 'http://dbpedia.org/resource/Category:Awards_disestablished_in_1993' },
+        { value: 'dbc:Grammy_Awards_for_rhythm_and_blues',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Awards_for_rhythm_and_blues' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Award106696483',
+          href: 'http://dbpedia.org/class/yago/Award106696483' },
+        { value: 'yago:AwardsDisestablishedIn1993',
+          href: 'http://dbpedia.org/class/yago/AwardsDisestablishedIn1993' },
+        { value: 'yago:Communication100033020',
+          href: 'http://dbpedia.org/class/yago/Communication100033020' },
+        { value: 'yago:Signal106791372',
+          href: 'http://dbpedia.org/class/yago/Signal106791372' },
+        { value: 'yago:Symbol106806469',
+          href: 'http://dbpedia.org/class/yago/Symbol106806469' },
+        { value: 'yago:GrammyAwards',
+          href: 'http://dbpedia.org/class/yago/GrammyAwards' },
+        { value: 'yago:GrammyAwardsForRhythmAndBlues',
+          href: 'http://dbpedia.org/class/yago/GrammyAwardsForRhythmAndBlues' } ],
+     'rdfs:comment': [ { value: 'The Grammy Award for Best R&B Instrumental Performance was awarded from 1970 to 1990 and in 1993.  The award had several minor name changes:From 1970 to 1985 the award was known as Best R&B Instrumental PerformanceFrom 1986 to 1989 it was awarded as Best R&B Instrumental Performance (Orchestra, Group or Soloist)In 1990 and 1993 it was awarded as Best R&B Instrumental PerformanceYears reflect the year in which the Grammy Awards were presented, for works released in the previous year. (en)' } ],
+     'rdfs:label': [ { value: 'Grammy Award for Best R&B Instrumental Performance (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Grammy Award for Best R&B Instrumental Performance',
+          href: 'http://rdf.freebase.com/ns/m.02tj96' },
+        { value: 'dbpedia-wikidata:Grammy Award for Best R&B Instrumental Performance',
+          href: 'http://wikidata.dbpedia.org/resource/Q5593862' },
+        { value: 'wikidata:Grammy Award for Best R&B Instrumental Performance',
+          href: 'http://www.wikidata.org/entity/Q5593862' },
+        { value: 'yago-res:Grammy Award for Best R&B Instrumental Performance',
+          href: 'http://yago-knowledge.org/resource/Grammy_Award_for_Best_R&B_Instrumental_Performance' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_R&B_Instrumental_Performance?oldid=557773669',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_R&B_Instrumental_Performance?oldid=557773669' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_R&B_Instrumental_Performance',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_R&B_Instrumental_Performance' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Best_R&B_Instrumental_Performance',
+          href: 'http://dbpedia.org/resource/Best_R&B_Instrumental_Performance' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_R&B_Instrumental_Performance',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_R&B_Instrumental_Performance' } ] } }

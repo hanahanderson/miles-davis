@@ -1,0 +1,8 @@
+{ name: 'Romina Daniele',
+  href: 'http://en.wikipedia.org/wiki/Romina_Daniele',
+  mentions: 
+   [ { sectionHeader: 'Life and works',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 7843,
+       quote: [ 'The Daniele\'s thesis is focused on the relationship between music and image in the cinema, conducted through the detailed analysis of the French movie Ascenseur pour l\'échafaud (1959) by Louis Malle, with soundtrack by Miles Davis.' ] } ] }

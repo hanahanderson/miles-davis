@@ -1,0 +1,10 @@
+{ name: 'Cry of Jazz',
+  href: 'http://en.wikipedia.org/wiki/Cry_of_Jazz',
+  mentions: 
+   [ { sectionHeader: 'Jazz in 1959',
+       sectionSubHeader: 'Sequel',
+       sectionIndex: 34,
+       wordCountBeforeSection: 12252,
+       quote: 
+        [ 'In contrast to the claim made in The Cry of Jazz that "jazz is dead", 1959 is widely considered a landmark year of innovation in jazz due to the release of four groundbreaking albums: Kind of Blue by Miles Davis, Time Out by The Dave Brubeck Quartet, Mingus Ah Um by Charles Mingus, and The Shape of Jazz to Come by Ornette Coleman.',
+          'With Kind of Blue, Miles Davis established a previously developing style of jazz, called modal jazz, which uses fewer chords and melodic improvisation based on scales.' ] } ] }

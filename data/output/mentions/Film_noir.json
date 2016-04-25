@@ -1,0 +1,8 @@
+{ name: 'Film noir',
+  href: 'http://en.wikipedia.org/wiki/Film_noir',
+  mentions: 
+   [ { sectionHeader: 'Outside the United States',
+       sectionSubHeader: 'Directors and the business of noir',
+       sectionIndex: 48,
+       wordCountBeforeSection: 31338,
+       quote: [ 'The moody, evocative music improvised by jazz trumpeter Miles Davis\'s quintet for Ascenseur pour l\'échafaud (1958) is regarded as one of the definitive noir scores.' ] } ] }

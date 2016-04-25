@@ -1,0 +1,13 @@
+{ name: 'Crazy Rhythm',
+  href: 'http://en.wikipedia.org/wiki/Crazy_Rhythm',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 38,
+       quote: [ 'Roger Wolfe Kahn and His Orchestra, Whispering Jack Smith, Harry James, Chet Atkins, Bix Beiderbecke, Ben Bernie, Miles Davis, Stan Getz, Stephane Grappelli, Lionel Hampton, Woody Herman, Mark Murphy, Les Paul, Hank Penny, Django Reinhardt, Nellie McKay, Bing Crosby, Frank Sinatra, Doris Day and Gene Nelson, Benny Carter with Coleman Hawkins' ] },
+     { sectionHeader: 'Performances',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1702,
+       quote: [ 'Harry James, Shirley Bassey, The King Cole Trio, Bob Wills & His Texas Playboys, Chet Atkins, Bix Beiderbecke, Ben Bernie, Miles Davis, Stan Getz, Erroll Garner, Stephane Grappelli, Lionel Hampton, Woody Herman, Herman\'s Norwegian Jazz Group Soloist: Ragnar Robertsen (Recorded on October 27, 1954 and re-released on the extended play Odeon GEON 2), Mark Murphy, Les Paul, Hank Penny, Django Reinhardt, Nellie McKay, Bing Crosby, and Frank Sinatra have all recorded this catchy tune.' ] } ] }

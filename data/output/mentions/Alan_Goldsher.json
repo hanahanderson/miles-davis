@@ -1,0 +1,8 @@
+{ name: 'Alan Goldsher',
+  href: 'http://en.wikipedia.org/wiki/Alan_Goldsher',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1856,
+       quote: [ '"Miles Davis FAQ" – Hal Leonard, 2013' ] } ] }

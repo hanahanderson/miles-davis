@@ -1,0 +1,8 @@
+{ name: 'Music for Two',
+  href: 'http://en.wikipedia.org/wiki/Music_for_Two',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 428,
+       quote: [ 'Bach, an arrangement of a sonata by Henry Eccles, and piece by Miles Davis.' ] } ] }

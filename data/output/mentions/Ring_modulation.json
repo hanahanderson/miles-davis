@@ -1,0 +1,8 @@
+{ name: 'Ring modulation',
+  href: 'http://en.wikipedia.org/wiki/Ring_modulation',
+  mentions: 
+   [ { sectionHeader: 'Use in music',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 8736,
+       quote: [ 'On Miles Davis\' 1975 live album Agharta, guitarist Pete Cosey ran the sounds he played through a ring modulator.' ] } ] }

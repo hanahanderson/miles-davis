@@ -1,0 +1,108 @@
+{ name: 'Chet Baker in New York',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Chet_Baker_in_New_York',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '51.46666666666667' } ],
+     'dbo:abstract': [ { value: 'Chet Baker in New York is an album by trumpeter Chet Baker recorded in 1958 and released on the Riverside label early the following year. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:picture': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:(Chet_Baker_Sings)_It_Could_Happen_to_You',
+          href: 'http://dbpedia.org/resource/(Chet_Baker_Sings)_It_Could_Happen_to_You' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' } ],
+     'dbo:runtime': [ { value: '3088.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Chet_Baker_Introduces_Johnny_Pace',
+          href: 'http://dbpedia.org/resource/Chet_Baker_Introduces_Johnny_Pace' } ],
+     'dbo:wikiPageID': [ { value: '40225919 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '568305303 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbp:cover': [ { value: 'Chet Baker in New York.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' },
+        { value: 'RLP 12-281 (en)' } ],
+     'dbp:lastAlbum': [ { value: '(Chet Baker Sings) It Could Happen to You (en)' } ],
+     'dbp:length': [ { value: '3088.0' } ],
+     'dbp:name': [ { value: 'Chet Baker in New York (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Chet Baker Introduces Johnny Pace (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbp:recorded': 
+      [ { value: 'Reeves Sound Studios, New York City (en)' },
+        { value: 'September, 1958 (en)' } ],
+     'dbp:released': [ { value: '1959 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Chet Baker in New York (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Chet_Baker_albums',
+          href: 'http://dbpedia.org/resource/Category:Chet_Baker_albums' },
+        { value: 'dbc:1959_albums',
+          href: 'http://dbpedia.org/resource/Category:1959_albums' },
+        { value: 'dbc:Albums_produced_by_Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Orrin_Keepnews' },
+        { value: 'dbc:Riverside_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Riverside_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Chet Baker in New York is an album by trumpeter Chet Baker recorded in 1958 and released on the Riverside label early the following year. (en)' } ],
+     'rdfs:label': [ { value: 'Chet Baker in New York (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Chet Baker in New York',
+          href: 'http://rdf.freebase.com/ns/m.01jrn2f' },
+        { value: 'dbpedia-wikidata:Chet Baker in New York',
+          href: 'http://wikidata.dbpedia.org/resource/Q16245637' },
+        { value: 'wikidata:Chet Baker in New York',
+          href: 'http://www.wikidata.org/entity/Q16245637' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Chet_Baker_in_New_York?oldid=568305303',
+          href: 'http://en.wikipedia.org/wiki/Chet_Baker_in_New_York?oldid=568305303' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Chet_Baker_in_New_York',
+          href: 'http://en.wikipedia.org/wiki/Chet_Baker_in_New_York' } ],
+     'foaf:name': [ { value: 'Chet Baker in New York (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Chet_Baker_Introduces_Johnny_Pace',
+          href: 'http://dbpedia.org/resource/Chet_Baker_Introduces_Johnny_Pace' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:(Chet_Baker_Sings)_It_Could_Happen_to_You',
+          href: 'http://dbpedia.org/resource/(Chet_Baker_Sings)_It_Could_Happen_to_You' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Chet_Baker_in_New_York',
+          href: 'http://en.wikipedia.org/wiki/Chet_Baker_in_New_York' } ] } }

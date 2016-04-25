@@ -1,0 +1,8 @@
+{ name: 'Lester Young',
+  href: 'http://en.wikipedia.org/wiki/Lester_Young',
+  mentions: 
+   [ { sectionHeader: 'Struggle and revival',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 8473,
+       quote: [ 'In January 1956 he recorded two Granz-produced sessions including a reunion with pianist Teddy Wilson, trumpet player Roy Eldridge, trombonist Vic Dickenson, bassist Gene Ramey, and drummer Jo Jones – which were issued as The Jazz Giants \'56 and Pres and Teddy albums. 1956 was a relatively good year for Lester Young, including a tour of Europe with Miles Davis and the Modern Jazz Quartet and a successful residency at Olivia Davis\' Patio Lounge in Washington, DC, with the Bill Potts Trio.' ] } ] }

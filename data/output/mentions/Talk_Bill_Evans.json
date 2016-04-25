@@ -1,0 +1,13 @@
+{ name: 'Talk:Bill Evans',
+  href: 'http://en.wikipedia.org/wiki/Talk:Bill_Evans',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 2837,
+       quote: [ '9 Bill Evans During His time With Miles Davis-His Cold reception from African-Americans' ] },
+     { sectionHeader: 'Incomplete sencente',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 7200,
+       quote: [ '"In 1958, Evans joined Miles Davis\'s sextet, where was to have a profound influence.' ] } ] }

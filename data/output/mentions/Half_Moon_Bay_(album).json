@@ -1,0 +1,8 @@
+{ name: 'Half Moon Bay (album)',
+  href: 'http://en.wikipedia.org/wiki/Half_Moon_Bay_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2005,
+       quote: [ 'Miles Davis' ] } ] }

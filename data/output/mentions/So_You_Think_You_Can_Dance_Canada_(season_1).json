@@ -1,0 +1,8 @@
+{ name: 'So You Think You Can Dance Canada (season 1)',
+  href: 'http://en.wikipedia.org/wiki/So_You_Think_You_Can_Dance_Canada_(season_1)',
+  mentions: 
+   [ { sectionHeader: 'Top 20 Finalists',
+       sectionSubHeader: '',
+       sectionIndex: 58,
+       wordCountBeforeSection: 13876,
+       quote: [ '"Four"—Miles Davis' ] } ] }

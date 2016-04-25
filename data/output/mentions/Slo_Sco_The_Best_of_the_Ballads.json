@@ -1,0 +1,8 @@
+{ name: 'Slo Sco:The Best of the Ballads',
+  href: 'http://en.wikipedia.org/wiki/Slo_Sco:The_Best_of_the_Ballads',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1431,
+       quote: [ 'Miles Davis' ] } ] }

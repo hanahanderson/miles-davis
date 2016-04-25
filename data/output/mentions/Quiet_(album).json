@@ -1,0 +1,8 @@
+{ name: 'Quiet (album)',
+  href: 'http://en.wikipedia.org/wiki/Quiet_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1647,
+       quote: [ 'Miles Davis' ] } ] }

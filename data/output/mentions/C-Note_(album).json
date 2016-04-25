@@ -1,0 +1,8 @@
+{ name: 'C-Note (album)',
+  href: 'http://en.wikipedia.org/wiki/C-Note_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2167,
+       quote: [ 'contains a portion of Miles Davis\' "Jean-Pierre"' ] } ] }

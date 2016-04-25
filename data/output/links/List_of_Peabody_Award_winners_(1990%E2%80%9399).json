@@ -1,0 +1,42 @@
+{ name: 'List of Peabody Award winners (1990–99)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Peabody_Award_winners_(1990%E2%80%9399)',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a list of Peabody Award winners and honorable mentions from the years 1990 to 1999. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://peabodyawards.com/past-winners/peabody-search/?pb_query=199*&pb_year=1&pb_search=1&submit=Search+Now',
+          href: 'http://peabodyawards.com/past-winners/peabody-search/?pb_query=199*&pb_year=1&pb_search=1&submit=Search+Now' } ],
+     'dbo:wikiPageID': [ { value: '16742512 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '672184836 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_award_winners',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_award_winners' },
+        { value: 'dbc:Peabody_Award_winners',
+          href: 'http://dbpedia.org/resource/Category:Peabody_Award_winners' } ],
+     'rdfs:comment': [ { value: 'The following is a list of Peabody Award winners and honorable mentions from the years 1990 to 1999. (en)' } ],
+     'rdfs:label': [ { value: 'List of Peabody Award winners (1990–99) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of Peabody Award winners (1990–99)',
+          href: 'http://www.wikidata.org/entity/Q6593670' },
+        { value: 'dbpedia-wikidata:List of Peabody Award winners (1990–99)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6593670' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Peabody_Award_winners_(1990–99)?oldid=672184836',
+          href: 'http://en.wikipedia.org/wiki/List_of_Peabody_Award_winners_(1990–99)?oldid=672184836' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Peabody_Award_winners_(1990–99)',
+          href: 'http://en.wikipedia.org/wiki/List_of_Peabody_Award_winners_(1990–99)' } ],
+     'is dbo:award\n of': 
+      [ { value: 'dbr:Richard_Rodriguez',
+          href: 'http://dbpedia.org/resource/Richard_Rodriguez' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Peabody_Award_winners_(1990-1999)',
+          href: 'http://dbpedia.org/resource/List_of_Peabody_Award_winners_(1990-1999)' },
+        { value: 'dbr:List_of_Peabody_Award_winners_(1990–1999)',
+          href: 'http://dbpedia.org/resource/List_of_Peabody_Award_winners_(1990–1999)' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:List of Peabody Award winners (1990–99)',
+          href: 'http://dbpedia.org/resource/List_of_Peabody_Award_winners_(1990%E2%80%9399)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Peabody_Award_winners_(1990–99)',
+          href: 'http://en.wikipedia.org/wiki/List_of_Peabody_Award_winners_(1990–99)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Juan Martín',
+  href: 'http://en.wikipedia.org/wiki/Juan_Mart%C3%ADn',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 323,
+       quote: [ 'He recorded with Herbie Hancock in 1987 and has played on stage with Miles Davis.' ] } ] }

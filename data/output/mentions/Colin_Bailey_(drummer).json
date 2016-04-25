@@ -1,0 +1,8 @@
+{ name: 'Colin Bailey (drummer)',
+  href: 'http://en.wikipedia.org/wiki/Colin_Bailey_(drummer)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 92,
+       quote: [ 'Settling in California, Bailey worked with Clare Fischer (1962–64), Victor Feldman (1964), Winifred Atwell, Joe Pass (1963–64), and Miles Davis (1963).' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'File:DavisPangaea.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:DavisPangaea.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Album cover to Miles Davis\' 1976 live album Pangaea.' ] },
+     { sectionHeader: 'File history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 4014,
+       quote: [ 'Album cover to Miles Davis\' 1976 live album Pangaea.' ] } ] }

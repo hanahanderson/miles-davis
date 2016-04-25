@@ -1,0 +1,8 @@
+{ name: 'Jimmy Forrest',
+  href: 'http://en.wikipedia.org/wiki/Jimmy_Forrest',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1239,
+       quote: [ 'He also played with Miles Davis, in early 1952 at The Barrel Club.' ] } ] }

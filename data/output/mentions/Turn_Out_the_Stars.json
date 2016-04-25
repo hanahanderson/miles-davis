@@ -1,0 +1,8 @@
+{ name: 'Turn Out the Stars',
+  href: 'http://en.wikipedia.org/wiki/Turn_Out_the_Stars',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1588,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Thomas Heberer (musician)',
+  href: 'http://en.wikipedia.org/wiki/Thomas_Heberer_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Harald Schmidt',
+       sectionSubHeader: 'Sideman',
+       sectionIndex: 28,
+       wordCountBeforeSection: 5340,
+       quote: [ 'He was also featured as a guest several times including for the Miles Davis episode on November 22, 2002.' ] } ] }

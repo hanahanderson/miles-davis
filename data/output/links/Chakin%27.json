@@ -1,0 +1,4 @@
+{ name: 'Chakin\'',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Chakin%27',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

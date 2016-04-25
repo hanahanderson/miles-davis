@@ -1,0 +1,8 @@
+{ name: 'Symphony Sid',
+  href: 'http://en.wikipedia.org/wiki/Symphony_Sid',
+  mentions: 
+   [ { sectionHeader: 'Early radio career',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3934,
+       quote: [ 'Thanks to his work on the fledgling ABC Radio Network, he was heard in more than 30 states. (Barlow, 158) And as a result of his network show, jazz, especially the music of artists like Miles Davis and Charlie Parker, gained wider exposure with a national audience.' ] } ] }

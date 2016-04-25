@@ -1,0 +1,13 @@
+{ name: 'User:SelectionBot/0.7/W-2',
+  href: 'http://en.wikipedia.org/wiki/User:SelectionBot/0.7/W-2',
+  mentions: 
+   [ { sectionHeader: 'WikiProject Illinois',
+       sectionSubHeader: '',
+       sectionIndex: 68,
+       wordCountBeforeSection: 15771,
+       quote: [ 'Miles Davis :' ] },
+     { sectionHeader: 'WikiProject Los Angeles',
+       sectionSubHeader: 'Tazewell County, Illinois to Wyatt Earp',
+       sectionIndex: 74,
+       wordCountBeforeSection: 18938,
+       quote: [ 'Miles Davis :' ] } ] }

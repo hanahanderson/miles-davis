@@ -1,0 +1,10 @@
+{ name: 'Jazz guitarist',
+  href: 'http://en.wikipedia.org/wiki/Jazz_guitarist',
+  mentions: 
+   [ { sectionHeader: '1970s and 1980s',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 13206,
+       quote: 
+        [ 'Mike Stern, who came to prominence with Miles Davis during the 1980s, has a unique take on fusing blues rock guitar with be-bop lines in extended improvisations.',
+          'John Scofield played and collaborated with performers such as Miles Davis, and Billy Cobham, and groups such as Medeski Martin & Wood.' ] } ] }

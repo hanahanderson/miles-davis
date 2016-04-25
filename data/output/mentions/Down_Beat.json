@@ -1,0 +1,8 @@
+{ name: 'Down Beat',
+  href: 'http://en.wikipedia.org/wiki/Down_Beat',
+  mentions: 
+   [ { sectionHeader: 'Awards',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2620,
+       quote: [ 'Miles Davis' ] } ] }

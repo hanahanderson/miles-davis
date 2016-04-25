@@ -1,0 +1,8 @@
+{ name: 'User:G.AC',
+  href: 'http://en.wikipedia.org/wiki/User:G.AC',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Favourite Musicians include (Buckley aside) Bob Dylan, Jimi Hendrix, The Beatles, Nina Simone, SRV, Van Morrison, Sam Cooke, Led Zeppelin, Boubacer Traore, Miles Davis and...more.' ] } ] }

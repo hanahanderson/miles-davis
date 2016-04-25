@@ -1,0 +1,18 @@
+{ name: 'Gil Coggins',
+  href: 'http://en.wikipedia.org/wiki/Gil_Coggins',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 563,
+       quote: [ 'In 1946, Coggins met Miles Davis while stationed at Jefferson Barracks in Missuri.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1472,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1488,
+       quote: [ 'Miles Davis Volume 2' ] } ] }

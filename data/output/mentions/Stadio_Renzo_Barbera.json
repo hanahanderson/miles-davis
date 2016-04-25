@@ -1,0 +1,8 @@
+{ name: 'Stadio Renzo Barbera',
+  href: 'http://en.wikipedia.org/wiki/Stadio_Renzo_Barbera',
+  mentions: 
+   [ { sectionHeader: 'Concerts',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3763,
+       quote: [ 'Miles Davis; Herbie Hancock with Branford Marsalis; Pat Metheny Trio; Wayne Shorter Quartet; and others' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Tata Güines',
+  href: 'http://en.wikipedia.org/wiki/Tata_G%C3%BCines',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 808,
+       quote: [ 'Güines moved to New York City in 1957, playing there with great jazz players such as Dizzy Gillespie, Maynard Ferguson, and Miles Davis at Birdland.' ] } ] }

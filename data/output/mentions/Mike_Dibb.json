@@ -1,0 +1,13 @@
+{ name: 'Mike Dibb',
+  href: 'http://en.wikipedia.org/wiki/Mike_Dibb',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'James, Astor Piazzolla, Miles Davis, Keith Jarrett, Barbara Thompson and other notable subjects.' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3059,
+       quote: [ 'The Miles Davis Story' ] } ] }

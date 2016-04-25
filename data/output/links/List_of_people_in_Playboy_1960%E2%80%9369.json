@@ -1,0 +1,51 @@
+{ name: 'List of people in Playboy 1960–69',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_in_Playboy_1960%E2%80%9369',
+  values: 
+   { 'dbo:abstract': [ { value: 'This list of people in Playboy 1960–69 is a catalog of women and men who appeared in Playboy magazine in the years 1960 through 1969. Note that not all of the people featured in the magazine are pictured in the nude.While every month included a centerfold, interviews and cover models did not become an almost-regular feature until autumn 1962. The interviews would occasionally be replaced by panel discussions such as the two-part "Panel on 1984 and Beyond" published in 1963.Entries in blue indicate that the issue marks the original appearance of that year\'s Playmate of the Year (PMOY). (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.playboywiki.com/CC+Playmates+of+the+Month#pm1960',
+          href: 'http://www.playboywiki.com/CC+Playmates+of+the+Month#pm1960' },
+        { value: 'http://www.playboywiki.com/',
+          href: 'http://www.playboywiki.com/' } ],
+     'dbo:wikiPageID': [ { value: '1566751 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683475820 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1960s_in_media',
+          href: 'http://dbpedia.org/resource/Category:1960s_in_media' },
+        { value: 'dbc:Lists_of_people_by_period',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_by_period' },
+        { value: 'dbc:Playboy_lists',
+          href: 'http://dbpedia.org/resource/Category:Playboy_lists' } ],
+     'rdfs:comment': [ { value: 'This list of people in Playboy 1960–69 is a catalog of women and men who appeared in Playboy magazine in the years 1960 through 1969. Note that not all of the people featured in the magazine are pictured in the nude.While every month included a centerfold, interviews and cover models did not become an almost-regular feature until autumn 1962. (en)' } ],
+     'rdfs:label': [ { value: 'List of people in Playboy 1960–69 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:List of people in Playboy 1960–69',
+          href: 'http://fr.dbpedia.org/resource/Liste_des_«_Playmates_»_des_années_1960' },
+        { value: 'dbpedia-ja:List of people in Playboy 1960–69',
+          href: 'http://ja.dbpedia.org/resource/プレイメイト一覧_1960年代' },
+        { value: 'dbpedia-nl:List of people in Playboy 1960–69',
+          href: 'http://nl.dbpedia.org/resource/Lijst_van_Amerikaanse_Playmates_(1960-1969)' },
+        { value: 'dbpedia-it:List of people in Playboy 1960–69',
+          href: 'http://it.dbpedia.org/resource/Playboy_Playmate_1960-1969' },
+        { value: 'dbpedia-wikidata:List of people in Playboy 1960–69',
+          href: 'http://wikidata.dbpedia.org/resource/Q2260835' },
+        { value: 'wikidata:List of people in Playboy 1960–69',
+          href: 'http://www.wikidata.org/entity/Q2260835' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_in_Playboy_1960–69?oldid=683475820',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_in_Playboy_1960–69?oldid=683475820' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_in_Playboy_1960–69',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_in_Playboy_1960–69' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_people_in_Playboy_1960-1969',
+          href: 'http://dbpedia.org/resource/List_of_people_in_Playboy_1960-1969' },
+        { value: 'dbr:List_of_people_in_Playboy_1960–1969',
+          href: 'http://dbpedia.org/resource/List_of_people_in_Playboy_1960–1969' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:List of people in Playboy 1960–69',
+          href: 'http://dbpedia.org/resource/List_of_people_in_Playboy_1960%E2%80%9369' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_in_Playboy_1960–69',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_in_Playboy_1960–69' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Red Garland Revisited!',
+  href: 'http://en.wikipedia.org/wiki/Red_Garland_Revisited!',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 739,
+       quote: [ '"Four" (Miles Davis) - 5:17' ] } ] }

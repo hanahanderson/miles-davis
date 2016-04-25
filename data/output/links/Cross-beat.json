@@ -1,0 +1,54 @@
+{ name: 'Cross-beat',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Cross-beat',
+  values: 
+   { 'dbo:abstract': [ { value: 'In music, a cross-beat or cross-rhythm is a specific form of polyrhythm. The term cross rhythm  was introduced in 1934 by the musicologist Arthur Morris Jones (1889–1980).Cross-rhythm. A rhythm in which the regular pattern of accents of the prevailing meter is contradicted by a conflicting pattern and not merely a momentary displacement that leaves the prevailing meter fundamentally unchallenged—New Harvard Dictionary of Music (1986: 216). (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Niger-Congo-en.svg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Niger-Congo-en.svg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.youtube.com/watch?v=c6LEW9W0HDU',
+          href: 'http://www.youtube.com/watch?v=c6LEW9W0HDU' } ],
+     'dbo:wikiPageID': [ { value: '26805457 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682727882 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Articles_containing_video_clips',
+          href: 'http://dbpedia.org/resource/Category:Articles_containing_video_clips' },
+        { value: 'dbc:Jazz_terminology',
+          href: 'http://dbpedia.org/resource/Category:Jazz_terminology' },
+        { value: 'dbc:Musical_terminology',
+          href: 'http://dbpedia.org/resource/Category:Musical_terminology' },
+        { value: 'dbc:Rhythm_and_meter',
+          href: 'http://dbpedia.org/resource/Category:Rhythm_and_meter' } ],
+     'rdfs:comment': [ { value: 'In music, a cross-beat or cross-rhythm is a specific form of polyrhythm. The term cross rhythm  was introduced in 1934 by the musicologist Arthur Morris Jones (1889–1980).Cross-rhythm. A rhythm in which the regular pattern of accents of the prevailing meter is contradicted by a conflicting pattern and not merely a momentary displacement that leaves the prevailing meter fundamentally unchallenged—New Harvard Dictionary of Music (1986: 216). (en)' } ],
+     'rdfs:label': [ { value: 'Cross-beat (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Cross-beat',
+          href: 'http://rdf.freebase.com/ns/m.0bmbgl_' },
+        { value: 'dbpedia-de:Cross-beat',
+          href: 'http://de.dbpedia.org/resource/Cross-rhythm' },
+        { value: 'dbpedia-es:Cross-beat',
+          href: 'http://es.dbpedia.org/resource/Rítmica_en_cruz' },
+        { value: 'dbpedia-wikidata:Cross-beat',
+          href: 'http://wikidata.dbpedia.org/resource/Q1141117' },
+        { value: 'wikidata:Cross-beat',
+          href: 'http://www.wikidata.org/entity/Q1141117' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Cross-beat?oldid=682727882',
+          href: 'http://en.wikipedia.org/wiki/Cross-beat?oldid=682727882' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Niger-Congo-en.svg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Niger-Congo-en.svg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Cross-beat',
+          href: 'http://en.wikipedia.org/wiki/Cross-beat' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Cross-rhythm',
+          href: 'http://dbpedia.org/resource/Cross-rhythm' },
+        { value: 'dbr:Cross_beat',
+          href: 'http://dbpedia.org/resource/Cross_beat' },
+        { value: 'dbr:Cross_rhythm',
+          href: 'http://dbpedia.org/resource/Cross_rhythm' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Cross-beat',
+          href: 'http://en.wikipedia.org/wiki/Cross-beat' } ] } }

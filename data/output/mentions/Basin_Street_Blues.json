@@ -1,0 +1,8 @@
+{ name: 'Basin Street Blues',
+  href: 'http://en.wikipedia.org/wiki/Basin_Street_Blues',
+  mentions: 
+   [ { sectionHeader: 'Other recordings',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1909,
+       quote: [ 'An instrumental version of this song was recorded by Miles Davis and was released as the opening track of his 1963 album Seven Steps to Heaven.' ] } ] }

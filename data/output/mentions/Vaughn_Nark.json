@@ -1,0 +1,8 @@
+{ name: 'Vaughn Nark',
+  href: 'http://en.wikipedia.org/wiki/Vaughn_Nark',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 663,
+       quote: [ 'At seven, he was exposed to Dizzy Gillespie, Miles Davis, Maynard Ferguson, and Doc Severinsen.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Chuck Stewart',
+  href: 'http://en.wikipedia.org/wiki/Chuck_Stewart',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Charles Stewart (born 1927) is an American photographer best known for his portraits of jazz singers and musicians such as Louis Armstrong, Count Basie, John Coltrane, Ella Fitzgerald, and Miles Davis, as well as artists in the R&B and salsa genres.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 929,
+       quote: [ 'His clients would include Impulse, Mercury, Reprise and Verve, for whom he took cover photos of artists such jazz and R&B icons as Louis Armstrong, Count Basie, Ray Charles, Miles Davis, Ella Fitzgerald, Lionel Hampton, Rahsaan Roland Kirk, Charles Mingus, Max Roach, Sonny Rollins, Sarah Vaughan and Dinah Washington, appearing on more than 2,000 albums and in publications including Esquire, Paris Match and The New York Times, as well as in the Encyclopedia of Jazz by jazz journalist Leonard Feather.' ] } ] }

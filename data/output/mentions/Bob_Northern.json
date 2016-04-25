@@ -1,0 +1,8 @@
+{ name: 'Bob Northern',
+  href: 'http://en.wikipedia.org/wiki/Bob_Northern',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 114,
+       quote: [ 'He also worked with Don Cherry, Thelonious Monk, Freddie Hubbard, Miles Davis, Dizzy Gillespie, Eric Dolphy, Charlie Haden, and John Lewis.' ] } ] }

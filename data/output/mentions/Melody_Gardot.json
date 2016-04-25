@@ -1,0 +1,8 @@
+{ name: 'Melody Gardot',
+  href: 'http://en.wikipedia.org/wiki/Melody_Gardot',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 393,
+       quote: [ 'She has been influenced by such blues and jazz artists as Judy Garland, Janis Joplin, Miles Davis, Duke Ellington, Stan Getz and George Gershwin as well as Latin music artists such as Caetano Veloso.' ] } ] }

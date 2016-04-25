@@ -1,0 +1,8 @@
+{ name: 'The Fillmore',
+  href: 'http://en.wikipedia.org/wiki/The_Fillmore',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2845,
+       quote: [ 'Besides rock, Graham also featured non-rock acts such as Lenny Bruce, Miles Davis, Rahsaan Roland Kirk, Charles Lloyd, Aretha Franklin, and Otis Redding as well as poetry readings.' ] } ] }

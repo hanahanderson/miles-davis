@@ -1,0 +1,13 @@
+{ name: 'The Mars Volta',
+  href: 'http://en.wikipedia.org/wiki/The_Mars_Volta',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 9012,
+       quote: [ 'He used a method that Miles Davis used to evoke great performances from bandmates: refusing to let the other members hear each other\'s parts, or the context of their own part, thereby forcing them to play each part as if it were a self-sufficient song.' ] },
+     { sectionHeader: 'Musical style and influences',
+       sectionSubHeader: 'Hiatus and breakup (2012–2014)',
+       sectionIndex: 84,
+       wordCountBeforeSection: 29910,
+       quote: [ 'They cited artists/bands such as King Crimson, Can, Led Zeppelin, Captain Beefheart, Frank Zappa, Pink Floyd, Larry Harlow, Miles Davis, Fela Kuti, Ennio Morricone, Pearl Jam , Throbbing Gristle, Black Flag, Brainiac, Björk, Roni Size, Jaga Jazzist and Aphex Twin as their influences.' ] } ] }

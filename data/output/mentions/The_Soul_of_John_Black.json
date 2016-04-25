@@ -1,0 +1,13 @@
+{ name: 'The Soul of John Black',
+  href: 'http://en.wikipedia.org/wiki/The_Soul_of_John_Black',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Fishbone\nMiles Davis\nEverlast\nJoshua Redman\nBetty Carter' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 483,
+       quote: [ 'John Bigham was previously a member of the band Fishbone and also worked with Miles Davis and Everlast, while Christopher Thomas had played with Joshua Redman and Betty Carter.' ] } ] }

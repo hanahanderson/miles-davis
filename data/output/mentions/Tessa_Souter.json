@@ -1,0 +1,8 @@
+{ name: 'Tessa Souter',
+  href: 'http://en.wikipedia.org/wiki/Tessa_Souter',
+  mentions: 
+   [ { sectionHeader: 'Musical influences and style',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 4039,
+       quote: [ 'Souter\'s musical influences include Miles Davis, Wayne Shorter, Milton Nascimento, Billie Holiday, Carmen Jones, Captain Beefheart, Sandy Denny, Fairport Convention, Pentangle, Sarah Vaughan, Ella Fitzgerald, Mark Murphy, Andy Bey, Sheila Jordan, Nancy Wilson, Dianne Reeves among many others.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:WikiProject Classical music/Contemporary music task force/Archive 6',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Classical_music/Contemporary_music_task_force/Archive_6',
+  mentions: 
+   [ { sectionHeader: 'Articles marked as ours?',
+       sectionSubHeader: 'I\'m back: any further thoughts?',
+       sectionIndex: 57,
+       wordCountBeforeSection: 23649,
+       quote: [ 'Miles Davis' ] } ] }

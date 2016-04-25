@@ -1,0 +1,8 @@
+{ name: 'A Molde Concert',
+  href: 'http://en.wikipedia.org/wiki/A_Molde_Concert',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 457,
+       quote: [ '"Dual Mr Tillman Anthony" (Miles Davis) - 4:40 Bonus track on CD reissue' ] } ] }

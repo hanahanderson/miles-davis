@@ -1,0 +1,13 @@
+{ name: 'Black Hawk (nightclub)',
+  href: 'http://en.wikipedia.org/wiki/Black_Hawk_(nightclub)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 780,
+       quote: [ 'A number of musicians recorded albums at the club, including Miles Davis, Cal Tjader, Thelonious Monk, Shelly Manne and Mongo Santamaría.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2965,
+       quote: [ 'Still standing is the adjacent building on Hyde Street (now housing The Basement) where tape recorders were set up to record the Miles Davis album.' ] } ] }

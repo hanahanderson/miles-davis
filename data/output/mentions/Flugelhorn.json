@@ -1,0 +1,8 @@
+{ name: 'Flugelhorn',
+  href: 'http://en.wikipedia.org/wiki/Flugelhorn',
+  mentions: 
+   [ { sectionHeader: 'Famous players',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4137,
+       quote: [ 'Miles Davis further popularized the instrument in jazz on the albums Miles Ahead and Sketches of Spain, (both arranged by Gil Evans) though he did not use it much on later projects.' ] } ] }

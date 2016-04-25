@@ -1,0 +1,8 @@
+{ name: 'Cigarettes After Sex',
+  href: 'http://en.wikipedia.org/wiki/Cigarettes_After_Sex',
+  mentions: 
+   [ { sectionHeader: 'Musical Style and Influences',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 1620,
+       quote: [ 'In a feature for Noisey by Vice, Christina Cacouris describes Cigarettes After Sex as "elemental, hazy and romantic, but with a noir edge underneath Gonzalez’s androgynous voice" as well as "sweet and sentimental". "As the band’s name suggests, it’s reminiscent of lying in bed, but its ambient qualities don’t prevent it from being music you can dance to." Gonzalez cites Francoise Hardy as his favorite singer and Miles Davis as having great impact.' ] } ] }

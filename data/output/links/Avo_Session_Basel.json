@@ -1,0 +1,57 @@
+{ name: 'Avo Session Basel',
+  entityType: 'TimePeriod115113229',
+  href: 'http://dbpedia.org/page/Avo_Session_Basel',
+  values: 
+   { 'dbo:abstract': [ { value: 'AVO SESSION Basel is an indoor music festival, which takes place every October/November in Basel, Switzerland. The festival features international as well as national artists of diverse music genres in an intimate club setting. In 2010 the festival celebrated its 25th jubilee, and in 2013 the name of the event was changed to Baloise Session.. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Club_seating_at_AVO_SESSION_Basel.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Club_seating_at_AVO_SESSION_Basel.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': [ { value: 'http://www.avo.ch', href: 'http://www.avo.ch' } ],
+     'dbo:wikiPageID': [ { value: '19024379 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674386947 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_festivals_in_Switzerland',
+          href: 'http://dbpedia.org/resource/Category:Music_festivals_in_Switzerland' },
+        { value: 'dbc:Blues_festivals_in_Switzerland',
+          href: 'http://dbpedia.org/resource/Category:Blues_festivals_in_Switzerland' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Festival115162388',
+          href: 'http://dbpedia.org/class/yago/Festival115162388' },
+        { value: 'yago:TimePeriod115113229',
+          href: 'http://dbpedia.org/class/yago/TimePeriod115113229' },
+        { value: 'yago:MusicFestivalsInSwitzerland',
+          href: 'http://dbpedia.org/class/yago/MusicFestivalsInSwitzerland' },
+        { value: 'yago:FundamentalQuantity113575869',
+          href: 'http://dbpedia.org/class/yago/FundamentalQuantity113575869' },
+        { value: 'yago:Measure100033615',
+          href: 'http://dbpedia.org/class/yago/Measure100033615' } ],
+     'rdfs:comment': [ { value: 'AVO SESSION Basel is an indoor music festival, which takes place every October/November in Basel, Switzerland. The festival features international as well as national artists of diverse music genres in an intimate club setting. In 2010 the festival celebrated its 25th jubilee, and in 2013 the name of the event was changed to Baloise Session.. (en)' } ],
+     'rdfs:label': [ { value: 'Avo Session Basel (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:Avo Session Basel',
+          href: 'http://de.dbpedia.org/resource/Baloise_Session' },
+        { value: 'dbpedia-wikidata:Avo Session Basel',
+          href: 'http://wikidata.dbpedia.org/resource/Q791228' },
+        { value: 'freebase:Avo Session Basel',
+          href: 'http://rdf.freebase.com/ns/m.04jfk4v' },
+        { value: 'wikidata:Avo Session Basel',
+          href: 'http://www.wikidata.org/entity/Q791228' },
+        { value: 'yago-res:Avo Session Basel',
+          href: 'http://yago-knowledge.org/resource/Avo_Session_Basel' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Avo_Session_Basel?oldid=674386947',
+          href: 'http://en.wikipedia.org/wiki/Avo_Session_Basel?oldid=674386947' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Club_seating_at_AVO_SESSION_Basel.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Club_seating_at_AVO_SESSION_Basel.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Avo_Session_Basel',
+          href: 'http://en.wikipedia.org/wiki/Avo_Session_Basel' } ],
+     'is dbp:header\n of': 
+      [ { value: 'dbr:Inedito_World_Tour',
+          href: 'http://dbpedia.org/resource/Inedito_World_Tour' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Avo_Session_Basel',
+          href: 'http://en.wikipedia.org/wiki/Avo_Session_Basel' } ] } }

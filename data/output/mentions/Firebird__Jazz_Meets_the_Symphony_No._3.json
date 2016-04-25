@@ -1,0 +1,8 @@
+{ name: 'Firebird: Jazz Meets the Symphony No. 3',
+  href: 'http://en.wikipedia.org/wiki/Firebird:_Jazz_Meets_the_Symphony_No._3',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1408,
+       quote: [ '"Donna Lee" (Miles Davis) - 0:23' ] } ] }

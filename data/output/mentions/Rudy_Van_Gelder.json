@@ -1,0 +1,8 @@
+{ name: 'Rudy Van Gelder',
+  href: 'http://en.wikipedia.org/wiki/Rudy_Van_Gelder',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 244,
+       quote: [ 'Van Gelder has recorded many of the great names in the genre, including Miles Davis, Thelonious Monk, Sonny Rollins, Joe Henderson, Grant Green, Wayne Shorter, John Coltrane, Lee Morgan, Freddie Hubbard, Horace Silver, Donald Byrd, Kenny Burrell, Ike Quebec and many others.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Charlie Parker Memorial, Vol. 2',
+  href: 'http://en.wikipedia.org/wiki/Charlie_Parker_Memorial,_Vol._2',
+  mentions: 
+   [ { sectionHeader: 'Tracklist',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2994,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3423,
+       quote: [ 'Miles Davis - trumpet' ] } ] }

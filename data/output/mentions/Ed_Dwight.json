@@ -1,0 +1,8 @@
+{ name: 'Ed Dwight',
+  href: 'http://en.wikipedia.org/wiki/Ed_Dwight',
+  mentions: 
+   [ { sectionHeader: 'Sculpting',
+       sectionSubHeader: 'Astronaut training',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2691,
+       quote: [ 'The series, "Jazz: An American Art Form", depicts the evolution of jazz and features jazz performers such as Louis Armstrong, Miles Davis, Duke Ellington, Ella Fitzgerald, Benny Goodman, and Charlie Parker.' ] } ] }

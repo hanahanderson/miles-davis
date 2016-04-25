@@ -1,0 +1,8 @@
+{ name: 'Generation (Dexter Gordon album)',
+  href: 'http://en.wikipedia.org/wiki/Generation_(Dexter_Gordon_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 885,
+       quote: [ '"Milestones" (Miles Davis) - 8:56' ] } ] }

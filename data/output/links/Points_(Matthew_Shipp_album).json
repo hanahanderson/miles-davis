@@ -1,0 +1,108 @@
+{ name: 'Points (Matthew Shipp album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Points_(Matthew_Shipp_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '70.8' } ],
+     'dbo:abstract': [ { value: 'Points is an album by American jazz pianist Matthew Shipp recorded in 1990 and released on the Swedish Silkheart label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Matthew_Shipp',
+          href: 'http://dbpedia.org/resource/Matthew_Shipp' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Sonic_Explorations',
+          href: 'http://dbpedia.org/resource/Sonic_Explorations' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Whit_Dickey',
+          href: 'http://dbpedia.org/resource/Whit_Dickey' } ],
+     'dbo:recordDate': [ { value: '1990-03-18 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Silkheart_Records',
+          href: 'http://dbpedia.org/resource/Silkheart_Records' } ],
+     'dbo:runtime': [ { value: '4248.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Circular_Temple',
+          href: 'http://dbpedia.org/resource/Circular_Temple' } ],
+     'dbo:wikiPageID': [ { value: '42120632 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '655664003 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Matthew_Shipp',
+          href: 'http://dbpedia.org/resource/Matthew_Shipp' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Matthew_Shipp',
+          href: 'http://dbpedia.org/resource/Matthew_Shipp' } ],
+     'dbp:cover': [ { value: 'Points_Matthew_Shipp_Cover.jpeg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Silkheart_Records',
+          href: 'http://dbpedia.org/resource/Silkheart_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Sonic Explorations (en)' } ],
+     'dbp:length': [ { value: '4248.0' } ],
+     'dbp:name': [ { value: 'Points (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Circular Temple (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Whit_Dickey',
+          href: 'http://dbpedia.org/resource/Whit_Dickey' } ],
+     'dbp:recorded': 
+      [ { value: '--01-14' },
+        { value: 'East Side Sound, New York (en)' } ],
+     'dbp:released': [ { value: '1992 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:The_Penguin_Guide_to_Jazz',
+          href: 'http://dbpedia.org/resource/The_Penguin_Guide_to_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'Points (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1992_albums',
+          href: 'http://dbpedia.org/resource/Category:1992_albums' },
+        { value: 'dbc:Matthew_Shipp_albums',
+          href: 'http://dbpedia.org/resource/Category:Matthew_Shipp_albums' },
+        { value: 'dbc:Silkheart_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Silkheart_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Points is an album by American jazz pianist Matthew Shipp recorded in 1990 and released on the Swedish Silkheart label. (en)' } ],
+     'rdfs:label': [ { value: 'Points (Matthew Shipp album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Points (Matthew Shipp album)',
+          href: 'http://rdf.freebase.com/ns/m.0_x5qbk' },
+        { value: 'dbpedia-wikidata:Points (Matthew Shipp album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17064596' },
+        { value: 'wikidata:Points (Matthew Shipp album)',
+          href: 'http://www.wikidata.org/entity/Q17064596' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Points_(Matthew_Shipp_album)?oldid=655664003',
+          href: 'http://en.wikipedia.org/wiki/Points_(Matthew_Shipp_album)?oldid=655664003' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Points_(Matthew_Shipp_album)',
+          href: 'http://en.wikipedia.org/wiki/Points_(Matthew_Shipp_album)' } ],
+     'foaf:name': [ { value: 'Points (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Circular_Temple',
+          href: 'http://dbpedia.org/resource/Circular_Temple' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Sonic_Explorations',
+          href: 'http://dbpedia.org/resource/Sonic_Explorations' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Point',
+          href: 'http://dbpedia.org/resource/Point' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Points_(Matthew_Shipp_album)',
+          href: 'http://en.wikipedia.org/wiki/Points_(Matthew_Shipp_album)' } ] } }

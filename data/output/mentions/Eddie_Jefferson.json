@@ -1,0 +1,8 @@
+{ name: 'Eddie Jefferson',
+  href: 'http://en.wikipedia.org/wiki/Eddie_Jefferson',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 946,
+       quote: [ 'One of his most notable recordings, "So What", combined the lyrics of artist Christopher Acemandese Hall with the music of Miles Davis to highlight his skills, and enabled him to turn a phrase, into his style he calls jazz vocalese.' ] } ] }

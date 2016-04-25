@@ -1,0 +1,8 @@
+{ name: 'Lofty Fake Anagram',
+  href: 'http://en.wikipedia.org/wiki/Lofty_Fake_Anagram',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 473,
+       quote: [ 'The Allmusic review by Scott Yanow awarded the album 4½ stars stating "it is the interplay between Burton and the rockish Coryell in this early fusion group (predating Miles Davis\' Bitches Brew by two years) that makes this session most notable".' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Lenny Kravitz',
+  href: 'http://en.wikipedia.org/wiki/Lenny_Kravitz',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3996,
+       quote: [ 'His father, who was also a jazz promoter, was friends with Duke Ellington, Sarah Vaughan, Count Basie, Ella Fitzgerald, Bobby Short, Miles Davis and other jazz greats.' ] },
+     { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 5141,
+       quote: [ 'Kravitz\'s other musical influences at the time included Fela Kuti, Bill Withers, Marvin Gaye, Pharoah Sanders and Miles Davis; John Lennon and Bob Marley proved later to be influential as well.' ] } ] }

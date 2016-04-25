@@ -1,0 +1,13 @@
+{ name: 'Prince of Darkness',
+  href: 'http://en.wikipedia.org/wiki/Prince_of_Darkness',
+  mentions: 
+   [ { sectionHeader: 'People',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 249,
+       quote: [ 'Miles Davis, jazz musician' ] },
+     { sectionHeader: 'Music',
+       sectionSubHeader: 'Television',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1845,
+       quote: [ '"Prince of Darkness", a song by Miles Davis from Sorcerer' ] } ] }

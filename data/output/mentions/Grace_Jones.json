@@ -1,0 +1,13 @@
+{ name: 'Grace Jones',
+  href: 'http://en.wikipedia.org/wiki/Grace_Jones',
+  mentions: 
+   [ { sectionHeader: 'Biography and career',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 14181,
+       quote: [ 'Jones was among the many stars to promote the Honda Scooter; other artists included Lou Reed, Adam Ant, and Miles Davis.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'Tours',
+       sectionIndex: 73,
+       wordCountBeforeSection: 33228,
+       quote: [ '"LOU REED, MILES DAVIS AND GRACE JONES SELLING HONDA SCOOTERS AND TDK TAPE IN THE 1980S".' ] } ] }

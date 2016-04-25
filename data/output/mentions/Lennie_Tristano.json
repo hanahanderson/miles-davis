@@ -1,0 +1,8 @@
+{ name: 'Lennie Tristano',
+  href: 'http://en.wikipedia.org/wiki/Lennie_Tristano',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '1960s and 1970s',
+       sectionIndex: 49,
+       wordCountBeforeSection: 20443,
+       quote: [ 'Elements of Tristano\'s early playing – counterpoint, reharmonizing, and strict time – influenced Miles Davis\' Birth of the Cool, and the playing of saxophonist Gerry Mulligan and pianist Dave Brubeck.' ] } ] }

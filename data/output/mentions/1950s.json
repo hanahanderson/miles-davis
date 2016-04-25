@@ -1,0 +1,18 @@
+{ name: '1950s',
+  href: 'http://en.wikipedia.org/wiki/1950s',
+  mentions: 
+   [ { sectionHeader: 'Popular culture',
+       sectionSubHeader: '',
+       sectionIndex: 67,
+       wordCountBeforeSection: 23445,
+       quote: [ 'Jazz stars in the 1950s who came into prominence in their genres called bebop, hard bop, cool jazz and the blues, at this time included Lester Young, Ben Webster, Charlie Parker, Dizzy Gillespie, Miles Davis, John Coltrane, Thelonious Monk, Charles Mingus, Art Tatum, Bill Evans, Ahmad Jamal, Oscar Peterson, Gil Evans, Jerry Mulligan, Cannonball Adderley, Stan Getz, Chet Baker, Dave Brubeck, Art Blakey, Max Roach, the Miles Davis Quintet, the Modern Jazz Quartet, Ella Fitzgerald, Ray Charles, Sarah Vaughan, Dinah Washington, Nina Simone, and Billie Holiday.' ] },
+     { sectionHeader: 'Popular culture',
+       sectionSubHeader: '',
+       sectionIndex: 67,
+       wordCountBeforeSection: 23445,
+       quote: [ 'Jazz stars in the 1950s who came into prominence in their genres called bebop, hard bop, cool jazz and the blues, at this time included Lester Young, Ben Webster, Charlie Parker, Dizzy Gillespie, Miles Davis, John Coltrane, Thelonious Monk, Charles Mingus, Art Tatum, Bill Evans, Ahmad Jamal, Oscar Peterson, Gil Evans, Jerry Mulligan, Cannonball Adderley, Stan Getz, Chet Baker, Dave Brubeck, Art Blakey, Max Roach, the Miles Davis Quintet, the Modern Jazz Quartet, Ella Fitzgerald, Ray Charles, Sarah Vaughan, Dinah Washington, Nina Simone, and Billie Holiday.' ] },
+     { sectionHeader: 'People',
+       sectionSubHeader: '',
+       sectionIndex: 100,
+       wordCountBeforeSection: 35413,
+       quote: [ 'Miles Davis' ] } ] }

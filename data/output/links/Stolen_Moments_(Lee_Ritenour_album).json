@@ -1,0 +1,115 @@
+{ name: 'Stolen Moments (Lee Ritenour album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Stolen_Moments_(Lee_Ritenour_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '46.1' } ],
+     'dbo:abstract': [ { value: 'Stolen Moments is an album by American guitarist Lee Ritenour released in 1990, recorded for the GRP label. The album reached #3 on Billboard\'s Jazz chart. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Lee_Ritenour',
+          href: 'http://dbpedia.org/resource/Lee_Ritenour' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Color_Rit',
+          href: 'http://dbpedia.org/resource/Color_Rit' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Lee_Ritenour',
+          href: 'http://dbpedia.org/resource/Lee_Ritenour' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:GRP_Records',
+          href: 'http://dbpedia.org/resource/GRP_Records' } ],
+     'dbo:runtime': [ { value: '2766.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Collection_(Lee_Ritenour_album)',
+          href: 'http://dbpedia.org/resource/Collection_(Lee_Ritenour_album)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://leeritenour.com/',
+          href: 'http://leeritenour.com/' },
+        { value: 'http://www.discogs.com/Lee-Ritenour-Stolen-Moments/release/2858455',
+          href: 'http://www.discogs.com/Lee-Ritenour-Stolen-Moments/release/2858455' } ],
+     'dbo:wikiPageID': [ { value: '42356072 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '602639103 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Lee_Ritenour',
+          href: 'http://dbpedia.org/resource/Lee_Ritenour' } ],
+     'dbp:cover': [ { value: 'Lee_Ritenour_Stolen_Moments_1990_Album.png (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:GRP_Records',
+          href: 'http://dbpedia.org/resource/GRP_Records' } ],
+     'dbp:lastAlbum': 
+      [ { value: 'dbr:Color_Rit',
+          href: 'http://dbpedia.org/resource/Color_Rit' } ],
+     'dbp:length': [ { value: '2766.0' } ],
+     'dbp:name': [ { value: 'Stolen Moments (en)' } ],
+     'dbp:nextAlbum': 
+      [ { value: 'dbr:Collection_(Lee_Ritenour_album)',
+          href: 'http://dbpedia.org/resource/Collection_(Lee_Ritenour_album)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Lee_Ritenour',
+          href: 'http://dbpedia.org/resource/Lee_Ritenour' } ],
+     'dbp:recorded': [ { value: '1990 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1990 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Stolen Moments (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1990_albums',
+          href: 'http://dbpedia.org/resource/Category:1990_albums' },
+        { value: 'dbc:GRP_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:GRP_Records_albums' },
+        { value: 'dbc:Lee_Ritenour_albums',
+          href: 'http://dbpedia.org/resource/Category:Lee_Ritenour_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Stolen Moments is an album by American guitarist Lee Ritenour released in 1990, recorded for the GRP label. The album reached #3 on Billboard\'s Jazz chart. (en)' } ],
+     'rdfs:label': [ { value: 'Stolen Moments (Lee Ritenour album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Stolen Moments (Lee Ritenour album)',
+          href: 'http://rdf.freebase.com/ns/m.01lsfk3' },
+        { value: 'dbpedia-wikidata:Stolen Moments (Lee Ritenour album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17038849' },
+        { value: 'wikidata:Stolen Moments (Lee Ritenour album)',
+          href: 'http://www.wikidata.org/entity/Q17038849' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Stolen_Moments_(Lee_Ritenour_album)?oldid=602639103',
+          href: 'http://en.wikipedia.org/wiki/Stolen_Moments_(Lee_Ritenour_album)?oldid=602639103' } ],
+     'foaf:homepage': 
+      [ { value: 'http://leeritenour.com/',
+          href: 'http://leeritenour.com/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Stolen_Moments_(Lee_Ritenour_album)',
+          href: 'http://en.wikipedia.org/wiki/Stolen_Moments_(Lee_Ritenour_album)' } ],
+     'foaf:name': [ { value: 'Stolen Moments (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Collection_(Lee_Ritenour_album)',
+          href: 'http://dbpedia.org/resource/Collection_(Lee_Ritenour_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Color_Rit',
+          href: 'http://dbpedia.org/resource/Color_Rit' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Stolen_Moments',
+          href: 'http://dbpedia.org/resource/Stolen_Moments' } ],
+     'is dbp:lastAlbum\n of': 
+      [ { value: 'dbr:Collection_(Lee_Ritenour_album)',
+          href: 'http://dbpedia.org/resource/Collection_(Lee_Ritenour_album)' } ],
+     'is dbp:nextAlbum\n of': 
+      [ { value: 'dbr:Color_Rit',
+          href: 'http://dbpedia.org/resource/Color_Rit' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Stolen_Moments_(Lee_Ritenour_album)',
+          href: 'http://en.wikipedia.org/wiki/Stolen_Moments_(Lee_Ritenour_album)' } ] } }

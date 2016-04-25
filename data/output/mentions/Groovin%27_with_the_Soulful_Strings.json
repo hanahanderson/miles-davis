@@ -1,0 +1,8 @@
+{ name: 'Groovin\' with the Soulful Strings',
+  href: 'http://en.wikipedia.org/wiki/Groovin%27_with_the_Soulful_Strings',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3573,
+       quote: [ '"All Blues" (Miles Davis) – 2:53' ] } ] }

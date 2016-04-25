@@ -1,0 +1,8 @@
+{ name: 'Celluloid Records',
+  href: 'http://en.wikipedia.org/wiki/Celluloid_Records',
+  mentions: 
+   [ { sectionHeader: 'Expansion',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2531,
+       quote: [ 'At the same time he was asked to remix Fela Kuti\'s Army Arrangement for Celluloid, the first of many such ventures (he would later remix Bob Marley, Miles Davis and Carlos Santana for major labels).' ] } ] }

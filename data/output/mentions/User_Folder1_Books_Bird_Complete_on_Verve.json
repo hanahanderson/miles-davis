@@ -1,0 +1,8 @@
+{ name: 'User:Folder1/Books/Bird Complete on Verve',
+  href: 'http://en.wikipedia.org/wiki/User:Folder1/Books/Bird_Complete_on_Verve',
+  mentions: 
+   [ { sectionHeader: 'The Complete Charlie Parker On Verve',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 597,
+       quote: [ 'Miles Davis' ] } ] }

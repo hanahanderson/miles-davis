@@ -1,0 +1,8 @@
+{ name: 'Farfisa',
+  href: 'http://en.wikipedia.org/wiki/Farfisa',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 4749,
+       quote: [ 'Another famous recording is the 1970 A Tribute to Jack Johnson by Miles Davis, where Herbie Hancock plays spontaneous licks on a broken Farfisa.' ] } ] }

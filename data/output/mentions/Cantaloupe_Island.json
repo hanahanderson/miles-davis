@@ -1,0 +1,8 @@
+{ name: 'Cantaloupe Island',
+  href: 'http://en.wikipedia.org/wiki/Cantaloupe_Island',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 236,
+       quote: [ '"Cantaloupe Island" is a jazz standard composed by Herbie Hancock and recorded for his 1964 album Empyrean Isles during his early years as one of the members of Miles Davis\' 1960s quintet.' ] } ] }

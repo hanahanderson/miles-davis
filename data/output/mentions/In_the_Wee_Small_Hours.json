@@ -1,0 +1,8 @@
+{ name: 'In the Wee Small Hours',
+  href: 'http://en.wikipedia.org/wiki/In_the_Wee_Small_Hours',
+  mentions: 
+   [ { sectionHeader: 'Critical reception',
+       sectionSubHeader: 'Relationship troubles',
+       sectionIndex: 25,
+       wordCountBeforeSection: 6924,
+       quote: [ 'being one place behind it), with Kind of Blue by Miles Davis and Elvis Presley\'s self titled début album in front.' ] } ] }

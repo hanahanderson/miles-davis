@@ -1,0 +1,14 @@
+{ name: 'Template:Herbie Hancock',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:Herbie_Hancock',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '32694393 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675074571 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q20332043',
+          href: 'http://wikidata.dbpedia.org/resource/Q20332043' },
+        { value: 'wikidata:Q20332043',
+          href: 'http://www.wikidata.org/entity/Q20332043' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Herbie_Hancock?oldid=675074571',
+          href: 'http://en.wikipedia.org/wiki/Template:Herbie_Hancock?oldid=675074571' } ] } }

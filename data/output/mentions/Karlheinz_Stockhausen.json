@@ -1,0 +1,8 @@
+{ name: 'Karlheinz Stockhausen',
+  href: 'http://en.wikipedia.org/wiki/Karlheinz_Stockhausen',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 91,
+       wordCountBeforeSection: 45411,
+       quote: [ 'Jazz musicians such as Miles Davis (Bergstein 1992), Cecil Taylor, Charles Mingus, Herbie Hancock, Yusef Lateef (Feather 1964; Tsahar 2006), and Anthony Braxton (Radano 1993, 110) cite Stockhausen as an influence.' ] } ] }

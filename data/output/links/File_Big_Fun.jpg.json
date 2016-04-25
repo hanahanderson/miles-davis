@@ -1,0 +1,12 @@
+{ name: 'File:Big Fun.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Big_Fun.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '31379887 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '669119393 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Big_Fun.jpg?oldid=669119393',
+          href: 'http://en.wikipedia.org/wiki/File:Big_Fun.jpg?oldid=669119393' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Big_Fun.jpg',
+          href: 'http://dbpedia.org/resource/File:Big_Fun.jpg' } ] } }

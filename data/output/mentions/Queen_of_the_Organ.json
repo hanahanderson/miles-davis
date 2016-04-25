@@ -1,0 +1,8 @@
+{ name: 'Queen of the Organ',
+  href: 'http://en.wikipedia.org/wiki/Queen_of_the_Organ',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 915,
+       quote: [ '"The Theme" (Miles Davis) - 1:08' ] } ] }

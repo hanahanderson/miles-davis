@@ -1,0 +1,13 @@
+{ name: 'List of nicknames of jazz musicians',
+  href: 'http://en.wikipedia.org/wiki/List_of_nicknames_of_jazz_musicians',
+  mentions: 
+   [ { sectionHeader: 'List of jazz nicknames',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 8013,
+       quote: [ 'Miles: Miles Davis' ] },
+     { sectionHeader: 'List of jazz nicknames',
+       sectionSubHeader: '',
+       sectionIndex: 36,
+       wordCountBeforeSection: 9040,
+       quote: [ 'Prince of Darkness: Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'San Remo Cafe',
+  href: 'http://en.wikipedia.org/wiki/San_Remo_Cafe',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Burroughs, Gregory Corso, Miles Davis, Allen Ginsberg, Frank O\'Hara, Jack Kerouac, Jackson Pollock, William Styron, Dylan Thomas, Gore Vidal, Judith Malina and many others.' ] } ] }

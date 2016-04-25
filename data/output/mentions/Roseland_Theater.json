@@ -1,0 +1,8 @@
+{ name: 'Roseland Theater',
+  href: 'http://en.wikipedia.org/wiki/Roseland_Theater',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6205,
+       quote: [ 'Performers have included Ray Charles, the Dan Reed Network, Bob Dylan, Medeski Martin & Wood, Miles Davis, the Misfits, the Pixies, Bonnie Raitt, and the Red Hot Chili Peppers.' ] } ] }

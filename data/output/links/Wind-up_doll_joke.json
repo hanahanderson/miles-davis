@@ -1,0 +1,41 @@
+{ name: 'Wind-up doll joke',
+  entityType: 'TimeInterval115269513',
+  href: 'http://dbpedia.org/page/Wind-up_doll_joke',
+  values: 
+   { 'dbo:abstract': [ { value: 'Wind-up doll jokes (or simply doll jokes) is a series of jokes in which an imagined wind-up doll of a well known person (a show business or sports celebrity or a politician) acts in a way supposedly peculiar to this person. An example is given in the biography of Miles Davis by John Szwed. Miles had a habit to walk to the back of the band after finishing his solo, which was called "turning his back on the audience" by press. George Crater of the Down Beat magazine cracked the following joke: "Question: What does a Miles Davis doll do if you wind it up? - Answer: It turns its back on you!"These jokes are among relatively few examples of American folklore recorded by folklorists close to the time of their origination. They started to be transmitted orally in fall 1960 in the Los Angeles area, and in two years they have found their way to major popular periodicals as a new fad. They were  variously called "Living Dolls", "Topical Dolls", but the "wind-up doll" was the most common term.This fad produced a book, Dolls My Mother Never Gave Me, by Jack Wohl & Stan Rice (1962). (en)' } ],
+     'dbo:wikiPageID': [ { value: '31956797 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '632353060 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Joke_cycles',
+          href: 'http://dbpedia.org/resource/Category:Joke_cycles' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:TimeInterval115269513',
+          href: 'http://dbpedia.org/class/yago/TimeInterval115269513' },
+        { value: 'yago:Cycle115287830',
+          href: 'http://dbpedia.org/class/yago/Cycle115287830' },
+        { value: 'yago:JokeCycles',
+          href: 'http://dbpedia.org/class/yago/JokeCycles' },
+        { value: 'yago:Measure100033615',
+          href: 'http://dbpedia.org/class/yago/Measure100033615' } ],
+     'rdfs:comment': [ { value: 'Wind-up doll jokes (or simply doll jokes) is a series of jokes in which an imagined wind-up doll of a well known person (a show business or sports celebrity or a politician) acts in a way supposedly peculiar to this person. An example is given in the biography of Miles Davis by John Szwed. Miles had a habit to walk to the back of the band after finishing his solo, which was called "turning his back on the audience" by press. (en)' } ],
+     'rdfs:label': [ { value: 'Wind-up doll joke (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Wind-up doll joke',
+          href: 'http://rdf.freebase.com/ns/m.0gvsyr_' },
+        { value: 'dbpedia-wikidata:Wind-up doll joke',
+          href: 'http://wikidata.dbpedia.org/resource/Q8023904' },
+        { value: 'wikidata:Wind-up doll joke',
+          href: 'http://www.wikidata.org/entity/Q8023904' },
+        { value: 'yago-res:Wind-up doll joke',
+          href: 'http://yago-knowledge.org/resource/Wind-up_doll_joke' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Wind-up_doll_joke?oldid=632353060',
+          href: 'http://en.wikipedia.org/wiki/Wind-up_doll_joke?oldid=632353060' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Wind-up_doll_joke',
+          href: 'http://en.wikipedia.org/wiki/Wind-up_doll_joke' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Wind-up_doll_joke',
+          href: 'http://en.wikipedia.org/wiki/Wind-up_doll_joke' } ] } }

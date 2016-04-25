@@ -1,0 +1,8 @@
+{ name: 'The Warped Ones',
+  href: 'http://en.wikipedia.org/wiki/The_Warped_Ones',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 8516,
+       quote: [ 'He stated, " a wrecking ball to what can be considered the indulgencies of the  genre, an exhibition of the horrors of uninhibited youth taken to its carnal extremes and matched by a visual accompaniment akin to the abstract and improvised style of a Miles Davis score." Tim Lucas of Video Watchdog magazine called the film "an important rediscovery on many fronts...' ] } ] }

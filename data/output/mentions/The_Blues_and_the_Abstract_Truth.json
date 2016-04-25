@@ -1,0 +1,8 @@
+{ name: 'The Blues and the Abstract Truth',
+  href: 'http://en.wikipedia.org/wiki/The_Blues_and_the_Abstract_Truth',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1551,
+       quote: [ 'In this regard, it may be seen as a continuation of the trend towards greater harmonic simplicity and subtlety via reimagined versions of the blues that was instigated by Miles Davis\'s Kind of Blue in 1959 (Evans and Chambers played on both albums).' ] } ] }

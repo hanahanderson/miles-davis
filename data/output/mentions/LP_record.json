@@ -1,0 +1,8 @@
+{ name: 'LP record',
+  href: 'http://en.wikipedia.org/wiki/LP_record',
+  mentions: 
+   [ { sectionHeader: 'Playing time',
+       sectionSubHeader: '',
+       sectionIndex: 48,
+       wordCountBeforeSection: 17174,
+       quote: [ 'Other notably long albums included the UK version of The Rolling Stones\' Aftermath, with each side exceeding 26 minutes in length; Genesis\' Duke, with each side exceeding 27 minutes; Bob Dylan\'s 1976 album Desire, with side two being just shy of thirty minutes; Brian Eno\'s 1975 album Discreet Music, whose A-side exceeded 30 minutes; Miles Davis\' 1972 album Get Up with It, totalling 124:15 min over four sides; Todd Rundgren\'s 1975 album Initiation, totaling 67:32 min over two sides, and his 1973 album A Wizard, A True Star, whose second side reaches almost thirty minutes; La Monte Young\'s Dram House 78\' 17", whose two sides were each just under 40 minutes (the running time of the album is indeed 78:17 min); and André Previn\'s Previn Plays Gershwin,, with the London Symphony Orchestra, whose sides each exceeded 30 minutes.' ] } ] }

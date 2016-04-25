@@ -1,0 +1,12 @@
+{ name: 'File:RoundAboutMidnightMilesDavis.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:RoundAboutMidnightMilesDavis.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '17147455 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '519358263 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:RoundAboutMidnightMilesDavis.jpg?oldid=519358263',
+          href: 'http://en.wikipedia.org/wiki/File:RoundAboutMidnightMilesDavis.jpg?oldid=519358263' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:RoundAboutMidnightMilesDavis.jpg',
+          href: 'http://dbpedia.org/resource/File:RoundAboutMidnightMilesDavis.jpg' } ] } }

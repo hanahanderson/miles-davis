@@ -1,0 +1,8 @@
+{ name: 'Living Time',
+  href: 'http://en.wikipedia.org/wiki/Living_Time',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2709,
+       quote: [ 'Miles Davis' ] } ] }

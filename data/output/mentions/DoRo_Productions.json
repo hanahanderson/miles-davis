@@ -1,0 +1,8 @@
+{ name: 'DoRo Productions',
+  href: 'http://en.wikipedia.org/wiki/DoRo_Productions',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 268,
+       quote: [ 'Dolezal and Rossacher gained international acclaim and won several awards for their music videos for artists such as Queen, The Rolling Stones, David Bowie, Miles Davis, Michael Jackson, Bon Jovi, Whitney Houston, Bruce Springsteen, Falco and Frank Zappa, as well as several German and Austrian acts such as Trio, Marius Müller-Westernhagen, and Herbert Grönemeyer.' ] } ] }

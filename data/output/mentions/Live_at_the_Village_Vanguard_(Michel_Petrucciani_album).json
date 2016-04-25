@@ -1,0 +1,8 @@
+{ name: 'Live at the Village Vanguard (Michel Petrucciani album)',
+  href: 'http://en.wikipedia.org/wiki/Live_at_the_Village_Vanguard_(Michel_Petrucciani_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1203,
+       quote: [ '"Nardis" (Miles Davis) – 11:12' ] } ] }

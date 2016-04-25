@@ -1,0 +1,8 @@
+{ name: 'Constellation (composition)',
+  href: 'http://en.wikipedia.org/wiki/Constellation_(composition)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 258,
+       quote: [ 'The composition has been covered by numerous artists, including notable recordings by Miles Davis and Sonny Stitt' ] } ] }

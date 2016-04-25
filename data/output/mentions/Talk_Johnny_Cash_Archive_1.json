@@ -1,0 +1,8 @@
+{ name: 'Talk:Johnny Cash/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:Johnny_Cash/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'Wikipedia:Manual of Style (headings)',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3670,
+       quote: [ 'Looking at other articles with good descriptive headings (Bob Dylan, Jimmy Hendrix, Frank Sinatra, Willie Nelson, Neil Young, John Coltrane, Led Zeppelin, Nirvana, Miles Davis, etc.) shows me that a song or album title is only appropriate when it has particular importance in the career of the musician.' ] } ] }

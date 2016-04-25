@@ -1,0 +1,8 @@
+{ name: 'List of Sony/ATV Music Publishing artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_Sony/ATV_Music_Publishing_artists',
+  mentions: 
+   [ { sectionHeader: 'M',
+       sectionSubHeader: '',
+       sectionIndex: 39,
+       wordCountBeforeSection: 6564,
+       quote: [ 'Miles Davis' ] } ] }

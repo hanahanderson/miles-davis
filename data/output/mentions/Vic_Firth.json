@@ -1,0 +1,8 @@
+{ name: 'Vic Firth',
+  href: 'http://en.wikipedia.org/wiki/Vic_Firth',
+  mentions: 
+   [ { sectionHeader: 'Famous endorsers/users',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3685,
+       quote: [ 'Jack DeJohnette (Miles Davis)' ] } ] }

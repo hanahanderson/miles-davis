@@ -1,0 +1,8 @@
+{ name: 'Svengali (album)',
+  href: 'http://en.wikipedia.org/wiki/Svengali_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1245,
+       quote: [ '"Eleven" (Miles Davis, Gil Evans) - 1:42' ] } ] }

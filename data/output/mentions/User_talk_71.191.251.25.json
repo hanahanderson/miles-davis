@@ -1,0 +1,13 @@
+{ name: 'User talk:71.191.251.25',
+  href: 'http://en.wikipedia.org/wiki/User_talk:71.191.251.25',
+  mentions: 
+   [ { sectionHeader: 'February 2014',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1186,
+       quote: [ 'I have automatically detected that your edit to Miles Davis may have broken the syntax by modifying 2 "[]"s.' ] },
+     { sectionHeader: 'February 2014',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1186,
+       quote: [ 'I have automatically detected that your edit to Miles Davis may have broken the syntax by modifying 2 "[]"s.' ] } ] }

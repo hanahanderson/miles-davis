@@ -1,0 +1,8 @@
+{ name: 'It\'s Only a Paper Moon',
+  href: 'http://en.wikipedia.org/wiki/It%27s_Only_a_Paper_Moon',
+  mentions: 
+   [ { sectionHeader: 'Recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1627,
+       quote: [ 'Miles Davis' ] } ] }

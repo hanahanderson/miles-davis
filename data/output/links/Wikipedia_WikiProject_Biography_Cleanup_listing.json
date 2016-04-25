@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject Biography/Cleanup listing',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_Biography/Cleanup_listing',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

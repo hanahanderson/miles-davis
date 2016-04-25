@@ -1,0 +1,8 @@
+{ name: 'Raymond Harry Brown',
+  href: 'http://en.wikipedia.org/wiki/Raymond_Harry_Brown',
+  mentions: 
+   [ { sectionHeader: 'Selected discography',
+       sectionSubHeader: '',
+       sectionIndex: 44,
+       wordCountBeforeSection: 11554,
+       quote: [ 'Miles Davis & Michel Legrand: Dingo (film) (film soundtrack), 1990' ] } ] }

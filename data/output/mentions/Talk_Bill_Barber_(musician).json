@@ -1,0 +1,8 @@
+{ name: 'Talk:Bill Barber (musician)',
+  href: 'http://en.wikipedia.org/wiki/Talk:Bill_Barber_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 2529,
+       quote: [ '...that Bill Barber played tuba on a number of Miles Davis albums including Birth of the Cool, Miles Ahead and Sketches of Spain?"' ] } ] }

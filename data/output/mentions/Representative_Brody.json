@@ -1,0 +1,8 @@
+{ name: 'Representative Brody',
+  href: 'http://en.wikipedia.org/wiki/Representative_Brody',
+  mentions: 
+   [ { sectionHeader: 'Production',
+       sectionSubHeader: 'Deceased',
+       sectionIndex: 16,
+       wordCountBeforeSection: 4242,
+       quote: [ 'The featured songs are All Blues and My Funny Valentine both by Miles Davis.' ] } ] }

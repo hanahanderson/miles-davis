@@ -1,0 +1,8 @@
+{ name: 'Post (Björk album)',
+  href: 'http://en.wikipedia.org/wiki/Post_(Bj%C3%B6rk_album)',
+  mentions: 
+   [ { sectionHeader: 'Composition',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 13200,
+       quote: [ 'And I find it very sad when you find a record, and it says on : "this record was inspired by Miles Davis." Because it\'s like making...' ] } ] }

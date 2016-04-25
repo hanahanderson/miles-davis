@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:0.7/0.7index/Music by genre and region',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:0.7/0.7index/Music_by_genre_and_region',
+  mentions: 
+   [ { sectionHeader: 'Contemporary music',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 11224,
+       quote: [ 'John Adams (composer) ·  Leonard Bernstein ·  Pierre Boulez ·  Benjamin Britten ·  Béla Bartók ·  John Cage ·  Ornette Coleman ·  John Coltrane ·  Contemporary classical music ·  Aaron Copland ·  Miles Davis ·  Brian Eno ·  Experimental music ·  Frank Zappa ·  George Gershwin ·  Philip Glass ·  Elliot Goldenthal ·  Paul Hindemith ·  Jazz ·  Bradley Joseph ·  György Ligeti ·  Witold Lutosławski ·  Merzbow ·  Olivier Messiaen ·  Noise music ·  Yoko Ono ·  Sergei Prokofiev ·  Steve Reich ·  Alexander Scriabin ·  Serialism ·  Dmitri Shostakovich ·  Karlheinz Stockhausen ·  Igor Stravinsky ·  Tōru Takemitsu ·  Twelve-tone technique ·  Tristan Tzara ·  Edgard Varèse ·  Minimalist music' ] } ] }

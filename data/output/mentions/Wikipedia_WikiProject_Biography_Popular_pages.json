@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject Biography/Popular pages',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Biography/Popular_pages',
+  mentions: 
+   [ { sectionHeader: 'List',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 537,
+       quote: [ 'Miles Davis' ] } ] }

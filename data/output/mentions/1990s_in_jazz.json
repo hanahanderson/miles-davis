@@ -1,0 +1,13 @@
+{ name: '1990s in jazz',
+  href: 'http://en.wikipedia.org/wiki/1990s_in_jazz',
+  mentions: 
+   [ { sectionHeader: '1991',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 5344,
+       quote: [ 'Miles Davis (May 26, 1926 – September 28, 1991) American trumpeter, bandleader and composer' ] },
+     { sectionHeader: '1998',
+       sectionSubHeader: '',
+       sectionIndex: 57,
+       wordCountBeforeSection: 13625,
+       quote: [ 'Selim Sivad: a Tribute to Miles Davis' ] } ] }

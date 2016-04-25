@@ -1,0 +1,8 @@
+{ name: 'Fame in the 20th Century',
+  href: 'http://en.wikipedia.org/wiki/Fame_in_the_20th_Century',
+  mentions: 
+   [ { sectionHeader: 'Celebrities portrayed in the series',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 17252,
+       quote: [ 'Liberace, Lucille Ball, Dezi Arnaz, Edmund Hillary, Tenzing Norgay, Roger Bannister, Elizabeth II, Richard Nixon, Joseph McCarthy, Edward Murrow, Paul Robeson, Richard Burton, Gene Kelly, Sophia Loren, Dean Martin and Jerry Lewis, Marilyn Monroe, Joe Dimaggio, Arthur Miller, Jack Lemmon, Tony Curtis, Brigitte Bardot, Billy Graham, Diana Dors, Guy Gibson, Richard Todd, Kenneth More, Alec Guinness, Grace Kelly, Rainier III, Hugh Hefner, Doris Day, Rock Hudson, Miles Davis, Farouk I, Aga Khan III, Prince Aly Khan, Juan Manuel Fangio, Stirling Moss, Charlton Heston, Aristotle Onassis, Maria Callas, Evita Peron, Marlon Brando, James Dean, Bill Haley, Elvis Presley, Colonel Tom Parker, Pele, Nikita Khrushchev, Fidel Castro ' ] } ] }

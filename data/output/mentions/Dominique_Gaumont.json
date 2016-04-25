@@ -1,0 +1,18 @@
+{ name: 'Dominique Gaumont',
+  href: 'http://en.wikipedia.org/wiki/Dominique_Gaumont',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Dominique Gaumont (8 January 1953 – 10 November 1983) was a French jazz guitarist who played with Miles Davis, the Art Ensemble of Chicago and Michel Portal.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 157,
+       quote: [ '2.1 With Miles Davis' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 505,
+       quote: [ 'In 1974, he was invited by the trumpeter Miles Davis to tour the United States and appeared at Carnegie Hall, New York.' ] } ] }

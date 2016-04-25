@@ -1,0 +1,13 @@
+{ name: 'Trumpet',
+  href: 'http://en.wikipedia.org/wiki/Trumpet',
+  mentions: 
+   [ { sectionHeader: 'Players',
+       sectionSubHeader: 'Instruction and method books',
+       sectionIndex: 78,
+       wordCountBeforeSection: 21995,
+       quote: [ 'Miles Davis is widely considered one of the most influential musicians of the 20th century—his style was distinctive and widely imitated.' ] },
+     { sectionHeader: 'Trumpets in art',
+       sectionSubHeader: 'Solos',
+       sectionIndex: 89,
+       wordCountBeforeSection: 25756,
+       quote: [ 'Miles Davis statue in Kielce, Poland' ] } ] }

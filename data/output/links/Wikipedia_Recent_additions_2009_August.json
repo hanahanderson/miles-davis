@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Recent additions/2009/August',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Recent_additions/2009/August',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Addison Farmer',
+  href: 'http://en.wikipedia.org/wiki/Addison_Farmer',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1136,
+       quote: [ 'He also played with Mose Allison, Jay McShann, Charlie Parker, and Miles Davis.' ] } ] }

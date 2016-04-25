@@ -1,0 +1,4 @@
+{ name: 'Live at the Lighthouse \'66',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Live_at_the_Lighthouse_%2766',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

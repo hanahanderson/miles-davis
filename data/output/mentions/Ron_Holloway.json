@@ -1,0 +1,8 @@
+{ name: 'Ron Holloway',
+  href: 'http://en.wikipedia.org/wiki/Ron_Holloway',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2267,
+       quote: [ 'Holloway\'s father favored the saxophone and trumpet-led albums and particularly enjoyed the great horn soloists.R&B-influenced Willis Gator Jackson was easiest to grasp at first, but soon he identified the sounds of Sonny Rollins, John Coltrane and Miles Davis as his principle influences.' ] } ] }

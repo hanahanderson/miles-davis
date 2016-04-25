@@ -1,0 +1,8 @@
+{ name: 'Jerry Moss',
+  href: 'http://en.wikipedia.org/wiki/Jerry_Moss',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3765,
+       quote: [ 'Miles Davis' ] } ] }

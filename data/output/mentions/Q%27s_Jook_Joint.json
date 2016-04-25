@@ -1,0 +1,8 @@
+{ name: 'Q\'s Jook Joint',
+  href: 'http://en.wikipedia.org/wiki/Q%27s_Jook_Joint',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 876,
+       quote: [ 'Kid Capri, Funkmaster Flex, LL Cool J, James Moody, Coko, Stevie Wonder, Lester Young, Brandy, Billy Eckstine, Dizzy Gillespie, Marlon Brando, Charlie Wilson, Barry White, Chaka Khan, Töne Löc, Queen Latifah, Ray Charles, Greg Phillinganes, Siedah Garrett, Patti Austin, Will Wheaton, Mervyn Warren, Sarah Vaughan, Miles Davis, Gloria Estefan, Lelee, Charlie Parker, Shaquille O\'Neal, Bono' ] } ] }

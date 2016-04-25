@@ -1,0 +1,8 @@
+{ name: 'Industrial hip hop',
+  href: 'http://en.wikipedia.org/wiki/Industrial_hip_hop',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1503,
+       quote: [ 'The industrial group 23 Skidoo, Miles Davis\'s album On the Corner, and the Nine Inch Nails single Down In It are also important precedents for the style.' ] } ] }

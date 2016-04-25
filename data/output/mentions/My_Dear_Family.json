@@ -1,0 +1,8 @@
+{ name: 'My Dear Family',
+  href: 'http://en.wikipedia.org/wiki/My_Dear_Family',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 759,
+       quote: [ '"Jean-Pierre" (Miles Davis) — 6:30' ] } ] }

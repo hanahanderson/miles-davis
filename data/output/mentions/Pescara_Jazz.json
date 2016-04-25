@@ -1,0 +1,8 @@
+{ name: 'Pescara Jazz',
+  href: 'http://en.wikipedia.org/wiki/Pescara_Jazz',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 519,
+       quote: [ 'The festival has hosted all the greatest names of jazz music: Pescara\'s audience have had the pleasure to listen at the music of, among others, Philly Joe Jones, Larry Vuckovich, Duke Ellington, Miles Davis, Ella Fitzgerald, Louis Armstrong, Sarah Vaughan, Charles Mingus, Woody Herman, Oscar Peterson, Dave Brubeck, Chet Baker, Wayne Shorter until the most recent performances of Natalie Cole, Chick Corea, Keith Jarrett, Herbie Hancock, Pat Metheny, Stan Getz.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User talk:John Reid',
+  href: 'http://en.wikipedia.org/wiki/User_talk:John_Reid',
+  mentions: 
+   [ { sectionHeader: 'Source grading',
+       sectionSubHeader: '',
+       sectionIndex: 233,
+       wordCountBeforeSection: 65915,
+       quote: [ 'Miles Davis' ] } ] }

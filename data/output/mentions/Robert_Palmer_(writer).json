@@ -1,0 +1,8 @@
+{ name: 'Robert Palmer (writer)',
+  href: 'http://en.wikipedia.org/wiki/Robert_Palmer_(writer)',
+  mentions: 
+   [ { sectionHeader: 'Later period',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3305,
+       quote: [ 'Throughout his life, Palmer published scholarly liner notes for albums by dozens of top jazz, blues, rock and roll and world music artists, including Sam Rivers, Charles Mingus, Miles Davis, Yoko Ono, John Lee Hooker, Albert King, Bo Diddley, Ray Charles, Ornette Coleman, the Master Musicians of Jajouka, La Monte Young, and many more.' ] } ] }

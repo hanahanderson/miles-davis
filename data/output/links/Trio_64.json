@@ -1,0 +1,126 @@
+{ name: 'Trio 64',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Trio_64',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '35.666666666666664' } ],
+     'dbo:abstract': [ { value: 'Trio 64 is an album by American jazz musician Bill Evans, released in 1964.All the tracks can be found on the 18-volume The Complete Bill Evans on Verve box set. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:At_Shelly\'s_Manne-Hole',
+          href: 'http://dbpedia.org/resource/At_Shelly\'s_Manne-Hole' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Creed_Taylor' } ],
+     'dbo:recordDate': [ { value: '1963-12-18 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Webster_Hall',
+          href: 'http://dbpedia.org/resource/Webster_Hall' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '2140.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Trio_Live',
+          href: 'http://dbpedia.org/resource/Trio_Live' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.jazzdisco.org/bill-evans/catalog/',
+          href: 'http://www.jazzdisco.org/bill-evans/catalog/' } ],
+     'dbo:wikiPageID': [ { value: '18474491 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '543409672 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Trio64.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' },
+        { value: 'V6-8578 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'At Shelly\'s Manne-Hole (en)' } ],
+     'dbp:length': [ { value: '2140.0' } ],
+     'dbp:name': [ { value: 'Trio 64 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Trio Live (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Creed_Taylor' } ],
+     'dbp:recorded': 
+      [ { value: '1963-12-18 (xsd:date)' },
+        { value: 'dbr:Webster_Hall',
+          href: 'http://dbpedia.org/resource/Webster_Hall' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbp:released': [ { value: '1964 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Trio 64 (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Creed_Taylor' },
+        { value: 'dbc:1964_albums',
+          href: 'http://dbpedia.org/resource/Category:1964_albums' },
+        { value: 'dbc:Bill_Evans_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_albums' },
+        { value: 'dbc:Verve_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Trio 64 is an album by American jazz musician Bill Evans, released in 1964.All the tracks can be found on the 18-volume The Complete Bill Evans on Verve box set. (en)' } ],
+     'rdfs:label': [ { value: 'Trio 64 (en)' } ],
+     'owl:differentFrom': 
+      [ { value: 'dbr:S3_Trio',
+          href: 'http://dbpedia.org/resource/S3_Trio' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Trio 64',
+          href: 'http://fr.dbpedia.org/resource/Trio_\'64' },
+        { value: 'dbpedia-pl:Trio 64',
+          href: 'http://pl.dbpedia.org/resource/Trio_64' },
+        { value: 'dbpedia-wikidata:Trio 64',
+          href: 'http://wikidata.dbpedia.org/resource/Q690643' },
+        { value: 'freebase:Trio 64',
+          href: 'http://rdf.freebase.com/ns/m.01kbvr5' },
+        { value: 'wikidata:Trio 64',
+          href: 'http://www.wikidata.org/entity/Q690643' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Trio_64?oldid=543409672',
+          href: 'http://en.wikipedia.org/wiki/Trio_64?oldid=543409672' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Trio_64',
+          href: 'http://en.wikipedia.org/wiki/Trio_64' } ],
+     'foaf:name': [ { value: 'Trio 64 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Trio_Live',
+          href: 'http://dbpedia.org/resource/Trio_Live' },
+        { value: 'dbr:Stan_Getz_&_Bill_Evans',
+          href: 'http://dbpedia.org/resource/Stan_Getz_&_Bill_Evans' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:At_Shelly\'s_Manne-Hole',
+          href: 'http://dbpedia.org/resource/At_Shelly\'s_Manne-Hole' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Trio_\'64',
+          href: 'http://dbpedia.org/resource/Trio_\'64' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Trio_64',
+          href: 'http://en.wikipedia.org/wiki/Trio_64' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Romper Stomper',
+  href: 'http://en.wikipedia.org/wiki/Romper_Stomper',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Crew',
+       sectionIndex: 41,
+       wordCountBeforeSection: 12390,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

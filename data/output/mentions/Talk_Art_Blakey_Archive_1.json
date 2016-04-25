@@ -1,0 +1,13 @@
+{ name: 'Talk:Art Blakey/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:Art_Blakey/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'New article for The Jazz Messengers',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2938,
+       quote: [ 'There are currently articles for Count Basie and Count Basie Orchestra, as well as Miles Davis and Miles Davis Quintet.' ] },
+     { sectionHeader: 'New article for The Jazz Messengers',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2938,
+       quote: [ 'There are currently articles for Count Basie and Count Basie Orchestra, as well as Miles Davis and Miles Davis Quintet.' ] } ] }

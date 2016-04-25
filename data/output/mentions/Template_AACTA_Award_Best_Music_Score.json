@@ -1,0 +1,8 @@
+{ name: 'Template:AACTA Award Best Music Score',
+  href: 'http://en.wikipedia.org/wiki/Template:AACTA_Award_Best_Music_Score',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'On Green Dolphin Street (novel)',
+  href: 'http://en.wikipedia.org/wiki/On_Green_Dolphin_Street_(novel)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 77,
+       quote: [ 'The title comes from a 1947 composition by Bronislau Kaper and Ned Washington—written for the Hollywood film Green Dolphin Street—and later recorded by jazz musicians Miles Davis (1958), and Bill Evans (1959), among others.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'User:Cosmicmeat',
+  href: 'http://en.wikipedia.org/wiki/User:Cosmicmeat',
+  mentions: 
+   [ { sectionHeader: 'Cosmicmeat\'s User Page',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 28,
+       quote: [ 'Hi I really like music such as Neutral Milk Hotel, Kanye West, Andrew Jackson Jihad, and Miles Davis.' ] },
+     { sectionHeader: 'Cosmicmeat\'s User Page',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 148,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

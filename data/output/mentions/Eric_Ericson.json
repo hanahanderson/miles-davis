@@ -1,0 +1,8 @@
+{ name: 'Eric Ericson',
+  href: 'http://en.wikipedia.org/wiki/Eric_Ericson',
+  mentions: 
+   [ { sectionHeader: 'See also',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 2991,
+       quote: [ 'Miles Davis (1984)' ] } ] }

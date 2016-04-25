@@ -1,0 +1,8 @@
+{ name: 'The Private Collection (Charlie Haden album)',
+  href: 'http://en.wikipedia.org/wiki/The_Private_Collection_(Charlie_Haden_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1156,
+       quote: [ '"Nardis" (Miles Davis) - 13:00' ] } ] }

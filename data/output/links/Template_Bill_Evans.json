@@ -1,0 +1,16 @@
+{ name: 'Template:Bill Evans',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:Bill_Evans',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '27008335 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '658967002 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Modèle:Palette_Albums_de_Bill_Evans',
+          href: 'http://fr.dbpedia.org/resource/Modèle:Palette_Albums_de_Bill_Evans' },
+        { value: 'dbpedia-wikidata:Q6718497',
+          href: 'http://wikidata.dbpedia.org/resource/Q6718497' },
+        { value: 'wikidata:Q6718497',
+          href: 'http://www.wikidata.org/entity/Q6718497' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Bill_Evans?oldid=658967002',
+          href: 'http://en.wikipedia.org/wiki/Template:Bill_Evans?oldid=658967002' } ] } }

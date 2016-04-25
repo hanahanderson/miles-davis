@@ -1,0 +1,8 @@
+{ name: 'Live at Montreux',
+  href: 'http://en.wikipedia.org/wiki/Live_at_Montreux',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis & Quincy Jones: Miles & Quincy Live at Montreux' ] } ] }

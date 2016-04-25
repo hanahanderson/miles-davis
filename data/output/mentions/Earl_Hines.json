@@ -1,0 +1,8 @@
+{ name: 'Earl Hines',
+  href: 'http://en.wikipedia.org/wiki/Earl_Hines',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 41,
+       wordCountBeforeSection: 16276,
+       quote: [ 'Parker\'s discographer, among others, has argued that "Yardbird Suite", which Parker recorded with Miles Davis in March 1946, was in fact based on Hines\' "Rosetta", which nightly served as the Hines band theme-tune.' ] } ] }

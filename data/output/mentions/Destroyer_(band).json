@@ -1,0 +1,8 @@
+{ name: 'Destroyer (band)',
+  href: 'http://en.wikipedia.org/wiki/Destroyer_(band)',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 4993,
+       quote: [ 'Bejar cited influences such as Miles Davis and Roxy Music for his new jazz-infused, lounge music-inspired, sophisti-pop direction.' ] } ] }

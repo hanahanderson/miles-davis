@@ -1,0 +1,8 @@
+{ name: 'Lana Del Rey',
+  href: 'http://en.wikipedia.org/wiki/Lana_Del_Rey',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 20640,
+       quote: [ 'She revealed that the album would contain fourteen tracks, describing the songs with "a muddy trap energy and some inspired by late-night Miles Davis drives".' ] } ] }

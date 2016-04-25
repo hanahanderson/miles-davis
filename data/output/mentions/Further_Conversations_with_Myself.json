@@ -1,0 +1,8 @@
+{ name: 'Further Conversations with Myself',
+  href: 'http://en.wikipedia.org/wiki/Further_Conversations_with_Myself',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1698,
+       quote: [ 'Miles Davis' ] } ] }

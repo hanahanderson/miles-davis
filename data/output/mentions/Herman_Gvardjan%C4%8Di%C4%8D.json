@@ -1,0 +1,8 @@
+{ name: 'Herman Gvardjančič',
+  href: 'http://en.wikipedia.org/wiki/Herman_Gvardjan%C4%8Di%C4%8D',
+  mentions: 
+   [ { sectionHeader: 'Important periods, paintings and exhibitions',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 5151,
+       quote: [ 'In the same year he drew a picture entitled Solea and Saita (the theme music Miles Davis).' ] } ] }

@@ -1,0 +1,92 @@
+{ name: 'Wheelin\' and Dealin\'',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wheelin%27_and_Dealin%27',
+  values: 
+   { 'dbo:abstract': [ { value: 'Wheelin\' and Dealin\' is an album by drummer Frank Butler which was recorded in 1978 and released on the Xanadu label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Frank_Butler_(musician)',
+          href: 'http://dbpedia.org/resource/Frank_Butler_(musician)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Stepper',
+          href: 'http://dbpedia.org/resource/The_Stepper' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Don_Schlitten' } ],
+     'dbo:recordDate': [ { value: '1978-10-22 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Xanadu_Records',
+          href: 'http://dbpedia.org/resource/Xanadu_Records' } ],
+     'dbo:wikiPageID': [ { value: '14816923 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '610913604 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Frank_Butler_(musician)',
+          href: 'http://dbpedia.org/resource/Frank_Butler_(musician)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Frank_Butler_(musician)',
+          href: 'http://dbpedia.org/resource/Frank_Butler_(musician)' } ],
+     'dbp:cover': [ { value: 'Wheelin\' and Dealin\'.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: '169 (xsd:integer)' },
+        { value: 'dbr:Xanadu_Records',
+          href: 'http://dbpedia.org/resource/Xanadu_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Stepper (en)' } ],
+     'dbp:name': [ { value: 'Wheelin\' and Dealin\' (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Don_Schlitten' } ],
+     'dbp:recorded': [ { value: '--10-22' } ],
+     'dbp:released': [ { value: '1978 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Wheelin\' and Dealin\' (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1978_albums',
+          href: 'http://dbpedia.org/resource/Category:1978_albums' },
+        { value: 'dbc:Frank_Butler_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:Frank_Butler_(musician)_albums' },
+        { value: 'dbc:Albums_produced_by_Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Don_Schlitten' },
+        { value: 'dbc:Xanadu_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Xanadu_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Wheelin\' and Dealin\' is an album by drummer Frank Butler which was recorded in 1978 and released on the Xanadu label. (en)' } ],
+     'rdfs:label': [ { value: 'Wheelin\' and Dealin\' (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Wheelin\' and Dealin\'',
+          href: 'http://rdf.freebase.com/ns/m.010gp491' },
+        { value: 'dbpedia-wikidata:Wheelin\' and Dealin\'',
+          href: 'http://wikidata.dbpedia.org/resource/Q17151653' },
+        { value: 'wikidata:Wheelin\' and Dealin\'',
+          href: 'http://www.wikidata.org/entity/Q17151653' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Wheelin\'_and_Dealin\'?oldid=610913604',
+          href: 'http://en.wikipedia.org/wiki/Wheelin\'_and_Dealin\'?oldid=610913604' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Wheelin\'_and_Dealin\'',
+          href: 'http://en.wikipedia.org/wiki/Wheelin\'_and_Dealin\'' } ],
+     'foaf:name': [ { value: 'Wheelin\' and Dealin\' (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Stepper',
+          href: 'http://dbpedia.org/resource/The_Stepper' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Wheelin\'_and_Dealin\'',
+          href: 'http://en.wikipedia.org/wiki/Wheelin\'_and_Dealin\'' } ] } }

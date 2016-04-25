@@ -1,0 +1,13 @@
+{ name: 'User:Gfusco/Keystone Korner',
+  href: 'http://en.wikipedia.org/wiki/User:Gfusco/Keystone_Korner',
+  mentions: 
+   [ { sectionHeader: 'Todd Barkan Conversation',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 173,
+       quote: [ 'A partial list of those who have played Keystone: Miles Davis, Cannonball Adderley, George Benson, Chick Corea, Herbie Hancock, Elvin Jones, McCoy Tyner, Grover Washington, Jr., Rahsaan Roland Kirk, Cecil Taylor, Anthony Braxton, the Chicago Art Ensemble, Betty Carter, Stan Getz, Airto Moreira, Flora Purim, Charles Mingus, Horace Silver, Art Blakey & The Jazz Messengers, Max Roach, Joe Henderson, Jackie McLean, Bobby Hutcherson, Woody Shaw, Freddie Hubbard, Stanley Turrentine, Ron Carter, Tony Williams, Jack DeJohnette, Hubert Laws, and many, many others.' ] },
+     { sectionHeader: 'Todd Barkan Conversation',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 2368,
+       quote: [ '"So much of the jazz-rock thing is tiring, but Miles Davis can play his music better than any of his imitators, with more surprises -- he maintains his integrity.' ] } ] }

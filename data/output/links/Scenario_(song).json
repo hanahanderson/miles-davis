@@ -1,0 +1,158 @@
+{ name: 'Scenario (song)',
+  entityType: 'single',
+  href: 'http://dbpedia.org/page/Scenario_(song)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '4.166666666666667' } ],
+     'dbo:abstract': [ { value: '"Scenario" is the third single from A Tribe Called Quest\'s second album The Low End Theory. The song features members of Leaders of the New School. Matt Cibula of PopMatters called the track hip hop\'s greatest posse cut. The song is commonly considered a breakout moment for LONS member Busta Rhymes.The music video, directed by Jim Swaffield, plays on an interactive desktop, and features cameo appearances by Spike Lee, De La Soul, Brand Nubian, Fab 5 Freddy and Redman.Time included the song on its list of the All-TIME 100 Songs.A remixed version of "Scenario" appeared on the B-side of the 12" single and cassette single as well as the limited edition release of the group\'s final album, The Love Movement (1998). The remix also features Leaders of the New School and newcomer Kid Hood, who was murdered three days after recording his verse. Blender magazine ranked the remix at number 216 in its list of "The 500 Greatest Songs Since You Were Born". (en)' } ],
+     'dbo:album': 
+      [ { value: 'dbr:The_Low_End_Theory',
+          href: 'http://dbpedia.org/resource/The_Low_End_Theory' } ],
+     'dbo:bSide': [ { value: '"Butter"' } ],
+     'dbo:format': 
+      [ { value: 'dbr:12-inch_single',
+          href: 'http://dbpedia.org/resource/12-inch_single' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Alternative_hip_hop',
+          href: 'http://dbpedia.org/resource/Alternative_hip_hop' } ],
+     'dbo:musicalArtist': 
+      [ { value: 'dbr:A_Tribe_Called_Quest',
+          href: 'http://dbpedia.org/resource/A_Tribe_Called_Quest' } ],
+     'dbo:musicalBand': 
+      [ { value: 'dbr:A_Tribe_Called_Quest',
+          href: 'http://dbpedia.org/resource/A_Tribe_Called_Quest' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Jazz_(We\'ve_Got)',
+          href: 'http://dbpedia.org/resource/Jazz_(We\'ve_Got)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:A_Tribe_Called_Quest',
+          href: 'http://dbpedia.org/resource/A_Tribe_Called_Quest' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Jive_Records',
+          href: 'http://dbpedia.org/resource/Jive_Records' } ],
+     'dbo:releaseDate': [ { value: '1992-03-13 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '250.000000 (xsd:double)' } ],
+     'dbo:soundRecording': 
+      [ { value: 'dbr:Scenario_(song)__1',
+          href: 'http://dbpedia.org/resource/Scenario_(song)__1' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Hot_Sex',
+          href: 'http://dbpedia.org/resource/Hot_Sex' } ],
+     'dbo:wikiPageID': [ { value: '4938643 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679561308 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'A Tribe Called Quest featuring Leaders of the New School (en)' } ],
+     'dbp:bSide': [ { value: '"Butter" (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:A_Tribe_Called_Quest',
+          href: 'http://dbpedia.org/resource/A_Tribe_Called_Quest' } ],
+     'dbp:cover': [ { value: 'Scenario.jpg (en)' } ],
+     'dbp:description': [ { value: 'From the Tribe\'s 2nd album The Low End Theory. (en)' } ],
+     'dbp:filename': [ { value: 'Scenario.ogg (en)' } ],
+     'dbp:format': 
+      [ { value: 'dbr:Ogg', href: 'http://dbpedia.org/resource/Ogg' },
+        { value: '12.0' } ],
+     'dbp:fromAlbum': 
+      [ { value: 'dbr:The_Low_End_Theory',
+          href: 'http://dbpedia.org/resource/The_Low_End_Theory' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Alternative_hip_hop',
+          href: 'http://dbpedia.org/resource/Alternative_hip_hop' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Jive_Records',
+          href: 'http://dbpedia.org/resource/Jive_Records' } ],
+     'dbp:lastSingle': [ { value: '"Jazz (We\'ve Got)" (en)' } ],
+     'dbp:length': [ { value: '250.0' } ],
+     'dbp:name': [ { value: 'Scenario (en)' } ],
+     'dbp:nextSingle': [ { value: '"Hot Sex" (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:A_Tribe_Called_Quest',
+          href: 'http://dbpedia.org/resource/A_Tribe_Called_Quest' } ],
+     'dbp:recorded': [ { value: '1991 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1992-03-13 (xsd:date)' } ],
+     'dbp:thisSingle': [ { value: '"Scenario" (en)' } ],
+     'dbp:title': [ { value: 'Scenario (en)' } ],
+     'dbp:wordnet_type': 
+      [ { value: 'http://www.w3.org/2006/03/wn/wn20/instances/synset-phonograph_record-noun-1',
+          href: 'http://www.w3.org/2006/03/wn/wn20/instances/synset-phonograph_record-noun-1' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1991_songs',
+          href: 'http://dbpedia.org/resource/Category:1991_songs' },
+        { value: 'dbc:1992_singles',
+          href: 'http://dbpedia.org/resource/Category:1992_singles' },
+        { value: 'dbc:A_Tribe_Called_Quest_songs',
+          href: 'http://dbpedia.org/resource/Category:A_Tribe_Called_Quest_songs' },
+        { value: 'dbc:Songs_written_by_Q-Tip_(musician)',
+          href: 'http://dbpedia.org/resource/Category:Songs_written_by_Q-Tip_(musician)' },
+        { value: 'dbc:Songs_written_by_Busta_Rhymes',
+          href: 'http://dbpedia.org/resource/Category:Songs_written_by_Busta_Rhymes' },
+        { value: 'dbc:Jive_Records_singles',
+          href: 'http://dbpedia.org/resource/Category:Jive_Records_singles' } ],
+     'rdf:type': 
+      [ { value: 'yago:1992Singles',
+          href: 'http://dbpedia.org/class/yago/1992Singles' },
+        { value: 'yago:Artifact100021939',
+          href: 'http://dbpedia.org/class/yago/Artifact100021939' },
+        { value: 'yago:Medium106254669',
+          href: 'http://dbpedia.org/class/yago/Medium106254669' },
+        { value: 'yago:Object100002684',
+          href: 'http://dbpedia.org/class/yago/Object100002684' },
+        { value: 'yago:Whole100003553',
+          href: 'http://dbpedia.org/class/yago/Whole100003553' },
+        { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q134556',
+          href: 'http://www.wikidata.org/entity/Q134556' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Single',
+          href: 'http://dbpedia.org/ontology/Single' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'umbel-rc:MusicSingle',
+          href: 'http://umbel.org/umbel/rc/MusicSingle' },
+        { value: 'yago:Instrumentality103575240',
+          href: 'http://dbpedia.org/class/yago/Instrumentality103575240' },
+        { value: 'yago:PhysicalEntity100001930',
+          href: 'http://dbpedia.org/class/yago/PhysicalEntity100001930' } ],
+     'rdfs:comment': [ { value: '"Scenario" is the third single from A Tribe Called Quest\'s second album The Low End Theory. The song features members of Leaders of the New School. Matt Cibula of PopMatters called the track hip hop\'s greatest posse cut. (en)' } ],
+     'rdfs:label': [ { value: 'Scenario (song) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Scenario (song)',
+          href: 'http://rdf.freebase.com/ns/m.0bb82cb' },
+        { value: 'dbpedia-pt:Scenario (song)',
+          href: 'http://pt.dbpedia.org/resource/Scenario' },
+        { value: 'dbpedia-wikidata:Scenario (song)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7430723' },
+        { value: 'wikidata:Scenario (song)',
+          href: 'http://www.wikidata.org/entity/Q7430723' },
+        { value: 'yago-res:Scenario (song)',
+          href: 'http://yago-knowledge.org/resource/Scenario_(song)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Scenario_(song)?oldid=679561308',
+          href: 'http://en.wikipedia.org/wiki/Scenario_(song)?oldid=679561308' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Scenario_(song)',
+          href: 'http://en.wikipedia.org/wiki/Scenario_(song)' } ],
+     'foaf:name': [ { value: 'Scenario (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Hot_Sex',
+          href: 'http://dbpedia.org/resource/Hot_Sex' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Jazz_(We\'ve_Got)',
+          href: 'http://dbpedia.org/resource/Jazz_(We\'ve_Got)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Scenario_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Scenario_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Scenario_(A_Tribe_Called_Quest)',
+          href: 'http://dbpedia.org/resource/Scenario_(A_Tribe_Called_Quest)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:The_Low_End_Theory',
+          href: 'http://dbpedia.org/resource/The_Low_End_Theory' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Scenario_(song)',
+          href: 'http://en.wikipedia.org/wiki/Scenario_(song)' } ] } }

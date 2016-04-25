@@ -1,0 +1,94 @@
+{ name: 'Jazz (Tenacious D album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Jazz_(Tenacious_D_album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Jazz is the second extended play by American comedy rock band Tenacious D. Released in 2012, the EP consists of a single, 11 minute jazz composition with vocals. The EP was released as a digital download and a limited edition vinyl record. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Tenacious_D',
+          href: 'http://dbpedia.org/resource/Tenacious_D' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Comedy_music',
+          href: 'http://dbpedia.org/resource/Comedy_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Rize_of_the_Fenix',
+          href: 'http://dbpedia.org/resource/Rize_of_the_Fenix' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:releaseDate': [ { value: '2012-11-23 (xsd:date)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.discogs.com/Tenacious-D-Jazz/release/4053592',
+          href: 'http://www.discogs.com/Tenacious-D-Jazz/release/4053592' } ],
+     'dbo:wikiPageID': [ { value: '38567164 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681461723 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Tenacious_D',
+          href: 'http://dbpedia.org/resource/Tenacious_D' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Comedy_music',
+          href: 'http://dbpedia.org/resource/Comedy_music' } ],
+     'dbp:headline': [ { value: 'Side A (en)' }, { value: 'Side B (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Rize of the Fenix (en)' } ],
+     'dbp:length': [ { value: '57.0' }, { value: '687.0' } ],
+     'dbp:name': [ { value: 'Jazz (en)' } ],
+     'dbp:released': [ { value: '2012-11-23 (xsd:date)' } ],
+     'dbp:thisAlbum': [ { value: 'Jazz (en)' } ],
+     'dbp:title': 
+      [ { value: 'Nothing On Side B (en)' },
+        { value: 'Simply Jazz (en)' } ],
+     'dbp:totalLength': [ { value: '744.0' } ],
+     'dbp:type': [ { value: 'EP (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Columbia_Records_EPs',
+          href: 'http://dbpedia.org/resource/Category:Columbia_Records_EPs' },
+        { value: 'dbc:Jazz_EPs',
+          href: 'http://dbpedia.org/resource/Category:Jazz_EPs' },
+        { value: 'dbc:Tenacious_D_albums',
+          href: 'http://dbpedia.org/resource/Category:Tenacious_D_albums' },
+        { value: 'dbc:2012_EPs',
+          href: 'http://dbpedia.org/resource/Category:2012_EPs' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Jazz is the second extended play by American comedy rock band Tenacious D. Released in 2012, the EP consists of a single, 11 minute jazz composition with vocals. The EP was released as a digital download and a limited edition vinyl record. (en)' } ],
+     'rdfs:label': [ { value: 'Jazz (Tenacious D album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Jazz (Tenacious D album)',
+          href: 'http://rdf.freebase.com/ns/m.0wh48hz' },
+        { value: 'dbpedia-wikidata:Jazz (Tenacious D album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q16947739' },
+        { value: 'wikidata:Jazz (Tenacious D album)',
+          href: 'http://www.wikidata.org/entity/Q16947739' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jazz_(Tenacious_D_album)?oldid=681461723',
+          href: 'http://en.wikipedia.org/wiki/Jazz_(Tenacious_D_album)?oldid=681461723' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jazz_(Tenacious_D_album)',
+          href: 'http://en.wikipedia.org/wiki/Jazz_(Tenacious_D_album)' } ],
+     'foaf:name': [ { value: 'Jazz (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Rize_of_the_Fenix',
+          href: 'http://dbpedia.org/resource/Rize_of_the_Fenix' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jazz_(Tenacious_D_album)',
+          href: 'http://en.wikipedia.org/wiki/Jazz_(Tenacious_D_album)' } ] } }

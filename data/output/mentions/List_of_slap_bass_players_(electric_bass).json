@@ -1,0 +1,8 @@
+{ name: 'List of slap bass players (electric bass)',
+  href: 'http://en.wikipedia.org/wiki/List_of_slap_bass_players_(electric_bass)',
+  mentions: 
+   [ { sectionHeader: 'M',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 2141,
+       quote: [ 'Marcus Miller (solo artist, Miles Davis, David Sanborn, Luther Vandross)' ] } ] }

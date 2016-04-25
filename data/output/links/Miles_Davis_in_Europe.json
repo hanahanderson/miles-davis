@@ -1,0 +1,4 @@
+{ name: 'Miles Davis in Europe',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Miles_Davis_in_Europe',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

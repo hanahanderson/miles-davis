@@ -1,0 +1,8 @@
+{ name: 'Saetia',
+  href: 'http://en.wikipedia.org/wiki/Saetia',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 552,
+       quote: [ 'Their name originates from a misspelling of the Miles Davis track "Saeta", from his album Sketches of Spain, which, in turn, was named after the saeta, a religious tradition of flamenco music. (This is similar to fellow screamo band Joshua Fit For Battle, whose name was a corruption of the traditional American spiritual song "Joshua Fit the Battle of Jericho"; other members of Saetia later formed Off Minor, which is the title of a Thelonious Monk composition.) Saetia use elements of new wave and indie rock in their songs.' ] } ] }

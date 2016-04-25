@@ -1,0 +1,10 @@
+{ name: 'Wind-up doll joke',
+  href: 'http://en.wikipedia.org/wiki/Wind-up_doll_joke',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: 
+        [ 'An example is given in the biography of Miles Davis by John Szwed.',
+          'George Crater of the Down Beat magazine cracked the following joke: "Question: What does a Miles Davis doll do if you wind it up? - Answer: It turns its back on you!"' ] } ] }

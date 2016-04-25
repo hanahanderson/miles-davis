@@ -1,0 +1,8 @@
+{ name: 'Cezary Skubiszewski',
+  href: 'http://en.wikipedia.org/wiki/Cezary_Skubiszewski',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'APRA-AGSC Awards',
+       sectionIndex: 35,
+       wordCountBeforeSection: 10665,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

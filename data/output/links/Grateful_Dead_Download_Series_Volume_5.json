@@ -1,0 +1,83 @@
+{ name: 'Grateful Dead Download Series Volume 5',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Grateful_Dead_Download_Series_Volume_5',
+  values: 
+   { 'dbo:abstract': [ { value: 'Volume 5 is the fifth in a series of live digital downloads of the band the Grateful Dead released by The Grateful Dead Productions. It was released on September 6, 2005 and is a three disc set featuring all of the March 27, 1988 show from the Hampton Coliseum in Hampton, VA. Except for the first two songs being from an "Ultra-Matrix" soundboard/audience tape hybrid, the concert is from the soundboard master.The show included one of only eight times the Grateful Dead played Bob Dylan\'s "Ballad Of A Thin Man". The show also features the only time the band performed Miles Davis\' "So What".Volume 5 was mastered in HDCD by Jeffrey Norman. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Grateful_Dead',
+          href: 'http://dbpedia.org/resource/Grateful_Dead' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Grateful_Dead_Download_Series_Volume_4',
+          href: 'http://dbpedia.org/resource/Grateful_Dead_Download_Series_Volume_4' } ],
+     'dbo:recordDate': [ { value: '1988-03-27 (xsd:date)' } ],
+     'dbo:releaseDate': [ { value: '2005-09-06 (xsd:date)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Grateful_Dead_Download_Series_Volume_6',
+          href: 'http://dbpedia.org/resource/Grateful_Dead_Download_Series_Volume_6' } ],
+     'dbo:wikiPageID': [ { value: '5042260 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '649148476 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Grateful Dead (en)' } ],
+     'dbp:cover': [ { value: 'Grateful Dead - Grateful Dead Download Series Volume 5.jpg (en)' } ],
+     'dbp:genre': [ { value: 'Rock (en)' } ],
+     'dbp:label': [ { value: 'Grateful Dead Productions (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Grateful Dead Download Series Volume 4 (en)' } ],
+     'dbp:name': 
+      [ { value: 'Grateful Dead (en)' },
+        { value: 'Download Series Volume 5 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Grateful Dead Download Series Volume 6 (en)' } ],
+     'dbp:recorded': [ { value: '1988-03-27 (xsd:date)' } ],
+     'dbp:released': [ { value: '2005-09-06 (xsd:date)' } ],
+     'dbp:thisAlbum': [ { value: 'Grateful Dead Download Series Volume 5 (en)' } ],
+     'dbp:type': [ { value: 'Live Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2005_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2005_live_albums' },
+        { value: 'dbc:Grateful_Dead_Download_Series',
+          href: 'http://dbpedia.org/resource/Category:Grateful_Dead_Download_Series' },
+        { value: 'dbc:English-language_live_albums',
+          href: 'http://dbpedia.org/resource/Category:English-language_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Volume 5 is the fifth in a series of live digital downloads of the band the Grateful Dead released by The Grateful Dead Productions. It was released on September 6, 2005 and is a three disc set featuring all of the March 27, 1988 show from the Hampton Coliseum in Hampton, VA. (en)' } ],
+     'rdfs:label': [ { value: 'Grateful Dead Download Series Volume 5 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Grateful Dead Download Series Volume 5',
+          href: 'http://rdf.freebase.com/ns/m.0d04jf' },
+        { value: 'dbpedia-wikidata:Grateful Dead Download Series Volume 5',
+          href: 'http://wikidata.dbpedia.org/resource/Q16148850' },
+        { value: 'wikidata:Grateful Dead Download Series Volume 5',
+          href: 'http://www.wikidata.org/entity/Q16148850' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Grateful_Dead_Download_Series_Volume_5?oldid=649148476',
+          href: 'http://en.wikipedia.org/wiki/Grateful_Dead_Download_Series_Volume_5?oldid=649148476' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Grateful_Dead_Download_Series_Volume_5',
+          href: 'http://en.wikipedia.org/wiki/Grateful_Dead_Download_Series_Volume_5' } ],
+     'foaf:name': 
+      [ { value: 'Grateful Dead (en)' },
+        { value: 'Download Series Volume 5 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Grateful_Dead_Download_Series_Volume_6',
+          href: 'http://dbpedia.org/resource/Grateful_Dead_Download_Series_Volume_6' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Grateful_Dead_Download_Series_Volume_4',
+          href: 'http://dbpedia.org/resource/Grateful_Dead_Download_Series_Volume_4' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Grateful_Dead_Download_Series_Volume_5',
+          href: 'http://en.wikipedia.org/wiki/Grateful_Dead_Download_Series_Volume_5' } ] } }

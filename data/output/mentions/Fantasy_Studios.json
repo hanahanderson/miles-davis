@@ -1,0 +1,8 @@
+{ name: 'Fantasy Studios',
+  href: 'http://en.wikipedia.org/wiki/Fantasy_Studios',
+  mentions: 
+   [ { sectionHeader: 'Today',
+       sectionSubHeader: 'Studio D',
+       sectionIndex: 35,
+       wordCountBeforeSection: 8941,
+       quote: [ 'Joe Tarantino has mastered albums by artists such as Stan Getz, Sonny Rollins, Dave Brubeck, Charlie Parker and Miles Davis.' ] } ] }

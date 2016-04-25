@@ -1,0 +1,8 @@
+{ name: 'List of Moldejazz celebrety artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_Moldejazz_celebrety_artists',
+  mentions: 
+   [ { sectionHeader: 'Celebrety Moldejazz Artists',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 173,
+       quote: [ 'Miles Davis (1984/85),' ] } ] }

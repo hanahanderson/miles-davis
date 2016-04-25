@@ -1,0 +1,8 @@
+{ name: 'David Amram',
+  href: 'http://en.wikipedia.org/wiki/David_Amram',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 942,
+       quote: [ 'In the early 1950s, he was encouraged to pursue his unique path by mentors Charlie Parker, Thelonious Monk, the New York Philharmonic\'s conductor Dimitri Mitropoulos, Miles Davis, Aaron Copland, Gunther Schuller, and visual artists Jackson Pollock, Joan Mitchell, Willem de Kooning and Franz Kline.' ] } ] }

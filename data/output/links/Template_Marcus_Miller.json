@@ -1,0 +1,14 @@
+{ name: 'Template:Marcus Miller',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:Marcus_Miller',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '38970683 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '547956850 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q20365807',
+          href: 'http://wikidata.dbpedia.org/resource/Q20365807' },
+        { value: 'wikidata:Q20365807',
+          href: 'http://www.wikidata.org/entity/Q20365807' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Marcus_Miller?oldid=547956850',
+          href: 'http://en.wikipedia.org/wiki/Template:Marcus_Miller?oldid=547956850' } ] } }

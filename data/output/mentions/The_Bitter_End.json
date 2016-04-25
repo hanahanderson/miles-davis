@@ -1,0 +1,8 @@
+{ name: 'The Bitter End',
+  href: 'http://en.wikipedia.org/wiki/The_Bitter_End',
+  mentions: 
+   [ { sectionHeader: 'Performances',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2233,
+       quote: [ 'Miles Davis' ] } ] }

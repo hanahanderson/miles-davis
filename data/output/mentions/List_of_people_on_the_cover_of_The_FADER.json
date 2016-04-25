@@ -1,0 +1,8 @@
+{ name: 'List of people on the cover of The FADER',
+  href: 'http://en.wikipedia.org/wiki/List_of_people_on_the_cover_of_The_FADER',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 234,
+       quote: [ 'Miles Davis (#30, May/June 2005)' ] } ] }

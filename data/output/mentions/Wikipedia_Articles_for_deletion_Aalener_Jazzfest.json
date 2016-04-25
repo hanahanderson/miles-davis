@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Articles for deletion/Aalener Jazzfest',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Aalener_Jazzfest',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Keep Miles Davis (arguably the most important figure in the history of jazz), Dave Brubeck, Herbie Hancock, Fats Domino, B.B King, Buddy Guy, Al Jarreau, Van Morrison...' ] } ] }

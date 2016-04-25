@@ -1,0 +1,13 @@
+{ name: 'Enrico Rava',
+  href: 'http://en.wikipedia.org/wiki/Enrico_Rava',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 237,
+       quote: [ 'He originally played trombone, changing to the trumpet after hearing Miles Davis.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1278,
+       quote: [ 'With trumpeter Paolo Fresu, Rava recorded a series of four CDs on the influence of Bix Beiderbecke, Louis Armstrong, Chet Baker, and Miles Davis (Bix, Pop, Shades of Chet, Play Miles Davis).' ] } ] }

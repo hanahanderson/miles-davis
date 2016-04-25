@@ -1,0 +1,13 @@
+{ name: 'Back on the Block',
+  href: 'http://en.wikipedia.org/wiki/Back_on_the_Block',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 586,
+       quote: [ 'The album features legendary musicians and singers from across three generations, including Ella Fitzgerald, Miles Davis, Joe Zawinul, Ice-T, Big Daddy Kane, Sarah Vaughan, Dizzy Gillespie, George Benson, Luther Vandross, Dionne Warwick, Barry White, Chaka Khan, Take 6, Bobby McFerrin, Al Jarreau, Al B.' ] },
+     { sectionHeader: 'Credits',
+       sectionSubHeader: 'Weekly Charts',
+       sectionIndex: 27,
+       wordCountBeforeSection: 5113,
+       quote: [ 'Miles Davis - Trumpet Solo (Tracks 8-9)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Rubberlegs Williams',
+  href: 'http://en.wikipedia.org/wiki/Rubberlegs_Williams',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1388,
+       quote: [ 'On Williams\' April 24, 1945 Savoy studio session, Miles Davis played the trumpet for the first time on a recording.' ] } ] }

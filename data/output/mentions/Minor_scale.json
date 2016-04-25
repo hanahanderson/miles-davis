@@ -1,0 +1,8 @@
+{ name: 'Minor scale',
+  href: 'http://en.wikipedia.org/wiki/Minor_scale',
+  mentions: 
+   [ { sectionHeader: 'Harmonic minor scale',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 6588,
+       quote: [ 'This scale is sometimes also referred to as "Gypsy Run", or alternatively "Egyptian Minor Scale", as mentioned by jazz legend Miles Davis who describes it in his autobiography as "something that I\'d learned at Juilliard".' ] } ] }

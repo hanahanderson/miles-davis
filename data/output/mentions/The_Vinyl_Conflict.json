@@ -1,0 +1,8 @@
+{ name: 'The Vinyl Conflict',
+  href: 'http://en.wikipedia.org/wiki/The_Vinyl_Conflict',
+  mentions: 
+   [ { sectionHeader: 'Conception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 754,
+       quote: [ 'Blabbermouth.net noted that they are "treating the albums the way they would treat a great jazz, classical, Bob Dylan or Miles Davis record, something that isn\'t normally done for metal records." To increase quality, Lacquers were cut several times, and the original albums were remastered.' ] } ] }

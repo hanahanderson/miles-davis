@@ -1,0 +1,8 @@
+{ name: 'Eugene Gregan',
+  href: 'http://en.wikipedia.org/wiki/Eugene_Gregan',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 716,
+       quote: [ 'Notable collectors of Gregan\'s paintings include John Lennon and Yoko Ono, Miles Davis, John Steinbeck, John Simon, Robert Mitchum and Ram Dass.' ] } ] }

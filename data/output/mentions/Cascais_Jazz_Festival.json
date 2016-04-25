@@ -1,0 +1,8 @@
+{ name: 'Cascais Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Cascais_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 112,
+       quote: [ 'Miles Davis performed at it—making his first appearance in Portugal—as did Dexter Gordon, Phil Woods, and The Giants of Jazz (Thelonious Monk, Kai Winding, Art Blakey, Sonny Stitt, Al McKibbon and Dizzy Gillespie).' ] } ] }

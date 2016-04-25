@@ -1,0 +1,8 @@
+{ name: 'David Sanford (composer)',
+  href: 'http://en.wikipedia.org/wiki/David_Sanford_(composer)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 553,
+       quote: [ 'In 1991, Supported partly by a Guggenheim Fellowship and partly by a job in the financial services industry, he undertook doctoral studies at Princeton, where he completed his dissertation on Miles Davis in 1998.' ] } ] }

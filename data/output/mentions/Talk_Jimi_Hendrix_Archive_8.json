@@ -1,0 +1,8 @@
+{ name: 'Talk:Jimi Hendrix/Archive 8',
+  href: 'http://en.wikipedia.org/wiki/Talk:Jimi_Hendrix/Archive_8',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'It seems to be the WP practice to use Template:Infobox musical artist for persons known primarily as musicians (Miles Davis, Ray Charles, James Brown, et al.) Hendrix wasn\'t also an actor, businessman, or known for his high-profile public persona or relationships (Elvis Presley, Frank Sinatra, John Lennon, et al.) There is a section about his death in the article (accessable through the TOC) with a note about a separate Death of Jimi Hendrix article.' ] } ] }

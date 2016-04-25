@@ -1,0 +1,8 @@
+{ name: 'Wiley Reed',
+  href: 'http://en.wikipedia.org/wiki/Wiley_Reed',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1177,
+       quote: [ 'He became well known for his deep soulful style and his generosity, helping many musicians over the years in the style of great mentors such as Miles Davis.' ] } ] }

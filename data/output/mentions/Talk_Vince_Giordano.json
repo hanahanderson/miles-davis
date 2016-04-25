@@ -1,0 +1,8 @@
+{ name: 'Talk:Vince Giordano',
+  href: 'http://en.wikipedia.org/wiki/Talk:Vince_Giordano',
+  mentions: 
+   [ { sectionHeader: 'His instrument',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 3567,
+       quote: [ 'It was almost like coming across an article on Miles Davis which didn\'t bother to say that Miles played the trumpet.' ] } ] }

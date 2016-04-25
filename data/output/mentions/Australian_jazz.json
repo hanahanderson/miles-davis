@@ -1,0 +1,13 @@
+{ name: 'Australian jazz',
+  href: 'http://en.wikipedia.org/wiki/Australian_jazz',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 989,
+       quote: [ 'It was not until after World War II that Australian jazz scene began to diversify as local musicians were finally able to get access to recordings by leading African-American jazz musicians like Charlie Parker, Dizzy Gillespie, Miles Davis and Thelonious Monk, and bebop, cool jazz and free jazz exerting a strong influence on Australian musicians in the late 1950s and beyond.' ] },
+     { sectionHeader: 'Post-World War II jazz',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 9316,
+       quote: [ 'They worked on the same bill as names like Miles Davis, Count Basie, Gerry Mulligan, Dave Brubeck and the Modern Jazz Quartet; backed singers Billie Holiday and Carmen McRae; and played at top venues such as Carnegie Hall and Birdland.' ] } ] }

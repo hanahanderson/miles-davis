@@ -1,0 +1,47 @@
+{ name: 'List of people on the postage stamps of the United States',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_on_the_postage_stamps_of_the_United_States',
+  values: 
+   { 'dbo:abstract': [ { value: 'This article lists people who have been featured on United States postage stamps, listed by their name, the year they were first featured on a stamp, and a very short description of their notability. Since the United States Post Office issued its first stamp in 1847, over 4,000 stamps have been issued and over 800 people featured. Many of these people (especially the earlier Presidents) have been featured on multiple stamps. For the purpose of this list, "featured" may mean: The likeness of a person, The name of a person, or People who have neither their likeness nor name on a stamp, but are documented by the United States Postal Service as being the subject of a stamp (see Reference). (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Stamp.usa.adams.594pix.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Stamp.usa.adams.594pix.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '145252 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '676057252 (xsd:integer)' } ],
+     'dbp:refs': [ { value: 'yes (en)' } ],
+     'dbp:seealso': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_people_on_postage_stamps',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_on_postage_stamps' },
+        { value: 'dbc:United_States-related_lists',
+          href: 'http://dbpedia.org/resource/Category:United_States-related_lists' },
+        { value: 'dbc:Postage_stamps_of_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Postage_stamps_of_the_United_States' } ],
+     'rdfs:comment': [ { value: 'This article lists people who have been featured on United States postage stamps, listed by their name, the year they were first featured on a stamp, and a very short description of their notability. Since the United States Post Office issued its first stamp in 1847, over 4,000 stamps have been issued and over 800 people featured. Many of these people (especially the earlier Presidents) have been featured on multiple stamps. (en)' } ],
+     'rdfs:label': [ { value: 'List of people on the postage stamps of the United States (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of people on the postage stamps of the United States',
+          href: 'http://wikidata.dbpedia.org/resource/Q6633142' },
+        { value: 'wikidata:List of people on the postage stamps of the United States',
+          href: 'http://www.wikidata.org/entity/Q6633142' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_on_the_postage_stamps_of_the_United_States?oldid=676057252',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_on_the_postage_stamps_of_the_United_States?oldid=676057252' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Stamp.usa.adams.594pix.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Stamp.usa.adams.594pix.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_on_the_postage_stamps_of_the_United_States',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_on_the_postage_stamps_of_the_United_States' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:People_on_stamps_of_the_United_States',
+          href: 'http://dbpedia.org/resource/People_on_stamps_of_the_United_States' },
+        { value: 'dbr:List_of_people_on_stamps_of_Guam',
+          href: 'http://dbpedia.org/resource/List_of_people_on_stamps_of_Guam' },
+        { value: 'dbr:List_of_people_on_stamps_of_the_Confederate_States',
+          href: 'http://dbpedia.org/resource/List_of_people_on_stamps_of_the_Confederate_States' },
+        { value: 'dbr:List_of_people_on_stamps_of_the_United_States',
+          href: 'http://dbpedia.org/resource/List_of_people_on_stamps_of_the_United_States' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_on_the_postage_stamps_of_the_United_States',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_on_the_postage_stamps_of_the_United_States' } ] } }

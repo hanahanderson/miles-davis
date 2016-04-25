@@ -1,0 +1,8 @@
+{ name: 'Fromuz',
+  href: 'http://en.wikipedia.org/wiki/Fromuz',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3625,
+       quote: [ 'The members of Fromuz have told in their interviews that their music was inspired by various musicians such as King Crimson, Pink Floyd, Yes, Jethro Tull, Miles Davis, Led Zeppelin and Jeff Beck.' ] } ] }

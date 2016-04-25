@@ -1,0 +1,8 @@
+{ name: 'Quartets: Live at the Village Vanguard',
+  href: 'http://en.wikipedia.org/wiki/Quartets:_Live_at_the_Village_Vanguard',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1477,
+       quote: [ '"Little Willie Leaps"  (Miles Davis) - 9:22' ] } ] }

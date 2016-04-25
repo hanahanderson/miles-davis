@@ -1,0 +1,13 @@
+{ name: 'The Teddy Charles Tentet',
+  href: 'http://en.wikipedia.org/wiki/The_Teddy_Charles_Tentet',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2612,
+       quote: [ 'Writing in The Essential Jazz Records: Modernism to Postmodernism, Stuart Nicholson suggests that several compositions on the album offer early examples of evolutionary jazz techniques. "Lydian M-1" is singled out by 2000\'s The Essential Jazz Records: Modernism to Postmodernism for its experimentation with modes (scale patterns other than major and minor), several years before the release of Miles Davis\'s Milestones, often cited as a pioneer of the form.' ] },
+     { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2612,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Paul Whiteman',
+  href: 'http://en.wikipedia.org/wiki/Paul_Whiteman',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 951,
+       quote: [ 'Later, Whiteman\'s work on Symphonic Jazz influenced many jazz musicians either way - directly or indirectly - as diverse as Miles Davis, Gil Evans, the Modern Jazz Quartet, Wynton Marsalis and other modern artists.' ] } ] }

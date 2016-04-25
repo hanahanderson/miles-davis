@@ -1,0 +1,8 @@
+{ name: 'Randy Sandke',
+  href: 'http://en.wikipedia.org/wiki/Randy_Sandke',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 380,
+       quote: [] } ] }

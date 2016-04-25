@@ -1,0 +1,8 @@
+{ name: 'Somersault (film)',
+  href: 'http://en.wikipedia.org/wiki/Somersault_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Accolades',
+       sectionIndex: 29,
+       wordCountBeforeSection: 10309,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

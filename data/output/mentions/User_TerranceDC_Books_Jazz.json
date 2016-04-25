@@ -1,0 +1,8 @@
+{ name: 'User:TerranceDC/Books/Jazz',
+  href: 'http://en.wikipedia.org/wiki/User:TerranceDC/Books/Jazz',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 608,
+       quote: [ 'Miles Davis' ] } ] }

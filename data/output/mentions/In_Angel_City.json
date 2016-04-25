@@ -1,0 +1,8 @@
+{ name: 'In Angel City',
+  href: 'http://en.wikipedia.org/wiki/In_Angel_City',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 883,
+       quote: [ '"Blue in Green" (Miles Davis, Bill Evans) - 7:16' ] } ] }

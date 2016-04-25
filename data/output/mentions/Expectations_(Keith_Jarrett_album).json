@@ -1,0 +1,8 @@
+{ name: 'Expectations (Keith Jarrett album)',
+  href: 'http://en.wikipedia.org/wiki/Expectations_(Keith_Jarrett_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 862,
+       quote: [ 'Jarrett had been a member of Miles Davis\' band, which recorded for Columbia, until shortly before making Expectations; the label subsequently signed him to his own contract, but subsequently broke the contract by dropping Jarrett after the record\'s release.' ] } ] }

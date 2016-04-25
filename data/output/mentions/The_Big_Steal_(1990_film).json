@@ -1,0 +1,8 @@
+{ name: 'The Big Steal (1990 film)',
+  href: 'http://en.wikipedia.org/wiki/The_Big_Steal_(1990_film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Bibliography',
+       sectionIndex: 33,
+       wordCountBeforeSection: 5902,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

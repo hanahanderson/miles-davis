@@ -1,0 +1,8 @@
+{ name: 'Claude Nobs',
+  href: 'http://en.wikipedia.org/wiki/Claude_Nobs',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2438,
+       quote: [ 'During the 1990s, Nobs shared the directorship of the festival with Quincy Jones, and made Miles Davis an honorary host.' ] } ] }

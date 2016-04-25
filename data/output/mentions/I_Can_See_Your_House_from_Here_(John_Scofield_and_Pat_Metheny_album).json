@@ -1,0 +1,8 @@
+{ name: 'I Can See Your House from Here (John Scofield and Pat Metheny album)',
+  href: 'http://en.wikipedia.org/wiki/I_Can_See_Your_House_from_Here_(John_Scofield_and_Pat_Metheny_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1520,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Sitar in jazz',
+  href: 'http://en.wikipedia.org/wiki/Sitar_in_jazz',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Later jazz recordings containing sitar music include albums by Miles Davis, Alice Coltrane, Yusef Lateef, Joe Harriott (in collaboration with composer John Mayer), and Ornette Coleman.' ] },
+     { sectionHeader: 'Early uses',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2126,
+       quote: [ 'Coltrane\'s name is inextricably linked to the emergence of modal Jazz in 1958 on Miles Davis\' album Milestones and it is believed that modal Jazz was inspired by Indian music.' ] } ] }

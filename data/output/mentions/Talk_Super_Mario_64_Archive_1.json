@@ -1,0 +1,10 @@
+{ name: 'Talk:Super Mario 64/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:Super_Mario_64/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'POV statment',
+       sectionSubHeader: '',
+       sectionIndex: 74,
+       wordCountBeforeSection: 20140,
+       quote: 
+        [ 'Have a look at our article on Miles Davis.',
+          'Is that Miles Davis-centric fanboyism?' ] } ] }

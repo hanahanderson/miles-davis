@@ -1,0 +1,8 @@
+{ name: 'Eiko Ishioka',
+  href: 'http://en.wikipedia.org/wiki/Eiko_Ishioka',
+  mentions: 
+   [ { sectionHeader: 'Awards',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3655,
+       quote: [ 'Eiko won a Grammy Award for her artwork for Miles Davis\' album Tutu in 1987 and an Academy Award for Best Costume Design for Bram Stoker\'s Drcula in 1992.' ] } ] }

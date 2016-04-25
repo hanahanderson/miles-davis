@@ -1,0 +1,13 @@
+{ name: 'Provision (album)',
+  href: 'http://en.wikipedia.org/wiki/Provision_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1073,
+       quote: [ 'The track "Oh Patti (Don\'t Feel Sorry for Loverboy)" features Miles Davis on trumpet, whose 1986 album Tutu included a cover of Scritti Politti\'s "Perfect Way" from Cupid & Psyche 85.' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2635,
+       quote: [ 'Miles Davis – trumpet' ] } ] }

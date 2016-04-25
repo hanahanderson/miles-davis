@@ -1,0 +1,8 @@
+{ name: 'Count Basie',
+  href: 'http://en.wikipedia.org/wiki/Count_Basie',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 16419,
+       quote: [ 'Basie\'s band was sharing Birdland with such bebop greats as Charlie Parker, Dizzy Gillespie, and Miles Davis.' ] } ] }

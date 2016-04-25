@@ -1,0 +1,8 @@
+{ name: 'Jessica Williams (musician)',
+  href: 'http://en.wikipedia.org/wiki/Jessica_Williams_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1029,
+       quote: [ 'She moved to Philadelphia, Pennsylvania during her teens and began playing with the quintet of Philly Joe Jones, the former Miles Davis drummer.' ] } ] }

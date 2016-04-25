@@ -1,0 +1,4 @@
+{ name: 'User:Dominic/YouTube links',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Dominic/YouTube_links',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

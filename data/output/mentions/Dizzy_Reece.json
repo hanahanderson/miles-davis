@@ -1,0 +1,8 @@
+{ name: 'Dizzy Reece',
+  href: 'http://en.wikipedia.org/wiki/Dizzy_Reece',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1357,
+       quote: [ 'Winning praise from the likes of Miles Davis and Sonny Rollins, the trumpeter emigrated to New York City in 1959 and recorded with several of Davis\' bandmates, but found New York in the 1960s a struggle.' ] } ] }

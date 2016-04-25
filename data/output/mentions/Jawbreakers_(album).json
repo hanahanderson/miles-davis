@@ -1,0 +1,8 @@
+{ name: 'Jawbreakers (album)',
+  href: 'http://en.wikipedia.org/wiki/Jawbreakers_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1173,
+       quote: [ '"Four" (Miles Davis) - 3:36' ] } ] }

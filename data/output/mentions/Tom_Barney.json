@@ -1,0 +1,13 @@
+{ name: 'Tom Barney',
+  href: 'http://en.wikipedia.org/wiki/Tom_Barney',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 291,
+       quote: [ 'Miles Davis, Steely Dan, David Sanborn, Dizzy Gillespie' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 566,
+       quote: [ 'Barney first came to prominence in the late 1970s, when he appeared on different Jazz albums by Turk Mauro and Walter Davis Jr., following to appear on records by such artists as Chaka Khan, Judy Collins, Miles Davis, Bob Mintzer, Terumasa Hino, Jane Fonda, Dizzy Gillespie and Lonnie Liston Smith in the early 80s.' ] } ] }

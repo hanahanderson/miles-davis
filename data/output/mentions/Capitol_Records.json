@@ -1,0 +1,8 @@
+{ name: 'Capitol Records',
+  href: 'http://en.wikipedia.org/wiki/Capitol_Records',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 7507,
+       quote: [ 'Capitol also developed a noted jazz catalog that included the Capitol Jazz Men and issued the Miles Davis-led sessions, "Birth of the Cool".' ] } ] }

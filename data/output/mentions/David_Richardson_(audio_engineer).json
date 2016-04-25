@@ -1,0 +1,8 @@
+{ name: 'David Richardson (audio engineer)',
+  href: 'http://en.wikipedia.org/wiki/David_Richardson_(audio_engineer)',
+  mentions: 
+   [ { sectionHeader: 'Present',
+       sectionSubHeader: 'Mastering',
+       sectionIndex: 18,
+       wordCountBeforeSection: 8319,
+       quote: [ 'Recent restoration work has included masters of classic standard repertoire from Quincy Jones to Frank Sinatra, as well as jazz artists including Miles Davis.' ] } ] }

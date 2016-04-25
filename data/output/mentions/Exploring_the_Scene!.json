@@ -1,0 +1,13 @@
+{ name: 'Exploring the Scene!',
+  href: 'http://en.wikipedia.org/wiki/Exploring_the_Scene!',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 974,
+       quote: [ '"So What" (Miles Davis) - 5:28' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 974,
+       quote: [ '"So What" (Miles Davis) - 5:28' ] } ] }

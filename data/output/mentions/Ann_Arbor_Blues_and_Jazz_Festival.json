@@ -1,0 +1,13 @@
+{ name: 'Ann Arbor Blues and Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Ann_Arbor_Blues_and_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 776,
+       quote: [ 'Jazz stars like Miles Davis, Count Basie, Sun Ra, the Art Ensemble of Chicago, Pharoah Sanders, Archie Shepp, Yusef Lateef, Ornette Coleman, and Cecil Taylor have played the festival, as well as headliners like Ray Charles, Maceo Parker, Etta James, James Brown, Booker T. & the MG\'s, Taj Mahal, Dr John, Bonnie Raitt, and Al Green.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 33,
+       wordCountBeforeSection: 8433,
+       quote: [ 'The addition of some headline acts like Ray Charles, Miles Davis, and others drew more people.' ] } ] }

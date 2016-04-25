@@ -1,0 +1,8 @@
+{ name: 'Spiritual Dimensions',
+  href: 'http://en.wikipedia.org/wiki/Spiritual_Dimensions',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1031,
+       quote: [ 'In his review for AllMusic, arwulf arwulf notes that "Both ensembles combine swirling currents of ethereal mystery with funk tropes descended directly from the achievements of Miles Davis during the last 25 years of his life."' ] } ] }

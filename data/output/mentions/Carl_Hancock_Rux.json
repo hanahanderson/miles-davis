@@ -1,0 +1,8 @@
+{ name: 'Carl Hancock Rux',
+  href: 'http://en.wikipedia.org/wiki/Carl_Hancock_Rux',
+  mentions: 
+   [ { sectionHeader: 'Early life and influences',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2433,
+       quote: [ 'Exposed to jazz music by his adoptive parents, including the work of Oscar Brown Jr., John Coltrane, Billie Holiday, Miles Davis, Max Roach and Abbey Lincoln, Rux also became a member of the Harlem Writers Workshop, a summer journalism training program for inner city youth founded by African-American journalists, sponsored by Columbia University and The Xerox Corporation.' ] } ] }

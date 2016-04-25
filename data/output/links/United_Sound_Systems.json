@@ -1,0 +1,69 @@
+{ name: 'United Sound Systems',
+  entityType: 'populated place',
+  href: 'http://dbpedia.org/page/United_Sound_Systems',
+  values: 
+   { 'dbo:abstract': [ { value: 'United Sound Systems is a recording studio in Detroit, Michigan, United States. Many popular music artists over the last seventy years have recorded there, including blues musicians like John Lee Hooker (he recorded "Boogie Chillen\'" there), rock musicians like the Rolling Stones, and funk bands like Funkadelic. The studio was also the site of the first recording for Berry Gordy\'s Tamla label in 1959, starting what would become Motown Records. The building is threatened by a planned highway service drive expansion by the Michigan Department of Transportation. The studio was bought in 2009 and is currently being reopened. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Dsc-USS-30-may-2012.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dsc-USS-30-may-2012.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://unitedsoundsystemsrecordingstudios.com/',
+          href: 'http://unitedsoundsystemsrecordingstudios.com/' } ],
+     'dbo:wikiPageID': [ { value: '42102950 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682782422 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Buildings_and_structures_in_Detroit,_Michigan',
+          href: 'http://dbpedia.org/resource/Category:Buildings_and_structures_in_Detroit,_Michigan' },
+        { value: 'dbc:Recording_studios_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Recording_studios_in_the_United_States' },
+        { value: 'dbc:Motown',
+          href: 'http://dbpedia.org/resource/Category:Motown' } ],
+     'georss:point': [ { value: '42.36235 -83.07236' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Place',
+          href: 'http://dbpedia.org/ontology/Place' },
+        { value: 'dbo:Location',
+          href: 'http://dbpedia.org/ontology/Location' },
+        { value: 'wikidata:Q486972',
+          href: 'http://www.wikidata.org/entity/Q486972' },
+        { value: 'dbo:PopulatedPlace',
+          href: 'http://dbpedia.org/ontology/PopulatedPlace' },
+        { value: 'geo:SpatialThing',
+          href: 'http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing' },
+        { value: 'schema:Place', href: 'http://schema.org/Place' } ],
+     'rdfs:comment': [ { value: 'United Sound Systems is a recording studio in Detroit, Michigan, United States. Many popular music artists over the last seventy years have recorded there, including blues musicians like John Lee Hooker (he recorded "Boogie Chillen\'" there), rock musicians like the Rolling Stones, and funk bands like Funkadelic. The studio was also the site of the first recording for Berry Gordy\'s Tamla label in 1959, starting what would become Motown Records. (en)' } ],
+     'rdfs:label': [ { value: 'United Sound Systems (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:United Sound Systems',
+          href: 'http://rdf.freebase.com/ns/m.01295vnm' },
+        { value: 'dbpedia-wikidata:United Sound Systems',
+          href: 'http://wikidata.dbpedia.org/resource/Q18763633' },
+        { value: 'wikidata:United Sound Systems',
+          href: 'http://www.wikidata.org/entity/Q18763633' } ],
+     'geo:geometry': [ { value: 'POINT(-83.072357177734 42.362350463867)' } ],
+     'geo:lat': [ { value: '42.362350 (xsd:float)' } ],
+     'geo:long': [ { value: '-83.072357 (xsd:float)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:United_Sound_Systems?oldid=682782422',
+          href: 'http://en.wikipedia.org/wiki/United_Sound_Systems?oldid=682782422' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Dsc-USS-30-may-2012.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Dsc-USS-30-may-2012.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:United_Sound_Systems',
+          href: 'http://en.wikipedia.org/wiki/United_Sound_Systems' } ],
+     'is dbo:recordedIn\n of': 
+      [ { value: 'dbr:...For_the_Whole_World_to_See',
+          href: 'http://dbpedia.org/resource/...For_the_Whole_World_to_See' },
+        { value: 'dbr:Sisters_Are_Doin\'_It_for_Themselves',
+          href: 'http://dbpedia.org/resource/Sisters_Are_Doin\'_It_for_Themselves' } ],
+     'is dbp:recorded\n of': 
+      [ { value: 'dbr:...For_the_Whole_World_to_See',
+          href: 'http://dbpedia.org/resource/...For_the_Whole_World_to_See' },
+        { value: 'dbr:Sisters_Are_Doin\'_It_for_Themselves',
+          href: 'http://dbpedia.org/resource/Sisters_Are_Doin\'_It_for_Themselves' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:United_Sound_Systems',
+          href: 'http://en.wikipedia.org/wiki/United_Sound_Systems' } ] } }

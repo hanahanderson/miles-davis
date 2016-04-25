@@ -1,0 +1,13 @@
+{ name: 'User talk:69.122.0.105',
+  href: 'http://en.wikipedia.org/wiki/User_talk:69.122.0.105',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis 21:18, 29 March 2007 (UTC)' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 44,
+       quote: [ 'Please do not add unhelpful and unconstructive information to Wikipedia, as you did to Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Lamborghini Miura',
+  href: 'http://en.wikipedia.org/wiki/Lamborghini_Miura',
+  mentions: 
+   [ { sectionHeader: 'Production history',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 6027,
+       quote: [ 'Miles Davis also owned one, which he crashed in October 1972 under the influence of cocaine, breaking both ankles.' ] } ] }

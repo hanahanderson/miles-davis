@@ -1,0 +1,8 @@
+{ name: 'Jacques-Louis Monod',
+  href: 'http://en.wikipedia.org/wiki/Jacques-Louis_Monod',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4098,
+       quote: [ 'Under the direction of Leibowitz, Monod performed and recorded the piano part of Berg\'s Chamber Concerto and Schoenberg\'s Ode to Napoleon Bonaparte, Op. 41; and more importantly, Monod also performed on historic recordings of chamber music by Webern for the Dial Records label in the early 1950s (a label founded by Ross Russell, who also produced historic jazz recordings of Charlie Parker, Max Roach and Miles Davis), including the earliest recordings of Webern\'s Symphony, Op. 21, conducted by Leibowitz with the Paris Chamber Orchestra; the Concerto for nine instruments, Op. 24; the Variations for Piano, Op. 27, performed by Monod; the Four Songs, Op. 12, performed by the American virtuosic soprano Bethany Beardslee with Monod on piano; and the Quartet for tenor saxophone, clarinet, violin, and piano, Op. 22.' ] } ] }

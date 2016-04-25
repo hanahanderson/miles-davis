@@ -1,0 +1,8 @@
+{ name: 'Lazy Highways',
+  href: 'http://en.wikipedia.org/wiki/Lazy_Highways',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 591,
+       quote: [ 'The sleeve artwork is very similar in design to the Miles Davis album Bitches Brew.' ] } ] }

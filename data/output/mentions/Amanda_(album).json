@@ -1,0 +1,8 @@
+{ name: 'Amanda (album)',
+  href: 'http://en.wikipedia.org/wiki/Amanda_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 901,
+       quote: [ 'Miles Davis' ] } ] }

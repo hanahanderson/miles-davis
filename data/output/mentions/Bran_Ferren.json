@@ -1,0 +1,8 @@
+{ name: 'Bran Ferren',
+  href: 'http://en.wikipedia.org/wiki/Bran_Ferren',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1445,
+       quote: [ 'Ferren\'s uncles came from the worlds of engineering and technology: Roy Ferren served as director of flight test for North American Aviation (later North American Rockwell), and Stanley Tonkel, a noted senior recording engineer for Columbia Records, engineered recordings for artists such as Miles Davis.' ] } ] }

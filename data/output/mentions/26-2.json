@@ -1,0 +1,8 @@
+{ name: '26-2',
+  href: 'http://en.wikipedia.org/wiki/26-2',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 201,
+       quote: [ 'The composition itself is a contrafact of Charlie Parker\'s tune "Confirmation", with harmonic alterations to the original chord changes used by Coltrane in a number of his composition—this harmonic modification is commonly known as Coltrane Changes—most notably used in Coltrane\'s "Giant Steps". "26-2" is one of several contrafacts by Coltrane, others including "Countdown" (off of Giant Steps—a contrafact of Miles Davis\'s "Tune Up", and "Satellite" off of the same album of Coltrane\'s Sound—based upon the original harmonic changes of Charlie Parker\'s "Ornithology" (which itself is a contrafact of the American Songbook composition "How High the Moon)".' ] } ] }

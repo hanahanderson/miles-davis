@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:Featured article candidates/archive1',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Featured_article_candidates/archive1',
+  mentions: 
+   [ { sectionHeader: 'Featured article candidates idea',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 4417,
+       quote: [ 'Regulars: please glace at, say, Bob Dylan, Gram Parsons, Neil Young or Miles Davis.' ] } ] }

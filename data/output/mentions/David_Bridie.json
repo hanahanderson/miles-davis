@@ -1,0 +1,8 @@
+{ name: 'David Bridie',
+  href: 'http://en.wikipedia.org/wiki/David_Bridie',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Soundtracks',
+       sectionIndex: 20,
+       wordCountBeforeSection: 3629,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

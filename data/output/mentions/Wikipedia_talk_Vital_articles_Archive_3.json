@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:Vital articles/Archive 3',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Vital_articles/Archive_3',
+  mentions: 
+   [ { sectionHeader: 'More suggestions',
+       sectionSubHeader: 'Technology merge',
+       sectionIndex: 388,
+       wordCountBeforeSection: 104053,
+       quote: [ 'I\'d give up Aaron Sorkin and Christina Applegate for Alban Berg and Miles Davis.' ] } ] }

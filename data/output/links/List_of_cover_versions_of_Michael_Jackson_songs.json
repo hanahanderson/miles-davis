@@ -1,0 +1,41 @@
+{ name: 'List of cover versions of Michael Jackson songs',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_cover_versions_of_Michael_Jackson_songs',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of recording music artists who have covered one or more songs originally recorded by American pop singer Michael Jackson. A cover is a new performance or recording of a previously recorded, commercially released song.Artists who have covered songs from The Jackson 5 career are not included. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.whosampled.com/sampled/Michael%20Jackson/?sp=1',
+          href: 'http://www.whosampled.com/sampled/Michael%20Jackson/?sp=1' },
+        { value: 'http://www.whosampled.com/covers/Michael%20Jackson/',
+          href: 'http://www.whosampled.com/covers/Michael%20Jackson/' } ],
+     'dbo:wikiPageID': [ { value: '30909744 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '669384754 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_songs',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_songs' },
+        { value: 'dbc:Michael_Jackson',
+          href: 'http://dbpedia.org/resource/Category:Michael_Jackson' } ],
+     'rdfs:comment': [ { value: 'This is a list of recording music artists who have covered one or more songs originally recorded by American pop singer Michael Jackson. A cover is a new performance or recording of a previously recorded, commercially released song.Artists who have covered songs from The Jackson 5 career are not included. (en)' } ],
+     'rdfs:label': [ { value: 'List of cover versions of Michael Jackson songs (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of cover versions of Michael Jackson songs',
+          href: 'http://wikidata.dbpedia.org/resource/Q6614444' },
+        { value: 'wikidata:List of cover versions of Michael Jackson songs',
+          href: 'http://www.wikidata.org/entity/Q6614444' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_cover_versions_of_Michael_Jackson_songs?oldid=669384754',
+          href: 'http://en.wikipedia.org/wiki/List_of_cover_versions_of_Michael_Jackson_songs?oldid=669384754' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_cover_versions_of_Michael_Jackson_songs',
+          href: 'http://en.wikipedia.org/wiki/List_of_cover_versions_of_Michael_Jackson_songs' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Michael_Jackson_covers',
+          href: 'http://dbpedia.org/resource/Michael_Jackson_covers' },
+        { value: 'dbr:List_of_artists_who_have_covered_Michael_Jackson',
+          href: 'http://dbpedia.org/resource/List_of_artists_who_have_covered_Michael_Jackson' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Man_in_the_Mirror',
+          href: 'http://dbpedia.org/resource/Man_in_the_Mirror' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_cover_versions_of_Michael_Jackson_songs',
+          href: 'http://en.wikipedia.org/wiki/List_of_cover_versions_of_Michael_Jackson_songs' } ] } }

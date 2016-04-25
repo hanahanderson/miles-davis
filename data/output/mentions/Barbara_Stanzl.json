@@ -1,0 +1,8 @@
+{ name: 'Barbara Stanzl',
+  href: 'http://en.wikipedia.org/wiki/Barbara_Stanzl',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 227,
+       quote: [ 'Her influences include Tom Waits, Nina Simone, Sahra Vaughn, Miles Davis, John Coltrain, Portishead and Massive Attack.' ] } ] }

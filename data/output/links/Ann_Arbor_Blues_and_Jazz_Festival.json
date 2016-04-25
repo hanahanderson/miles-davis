@@ -1,0 +1,67 @@
+{ name: 'Ann Arbor Blues and Jazz Festival',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Ann_Arbor_Blues_and_Jazz_Festival',
+  values: 
+   { 'dbo:abstract': [ { value: 'In August 1969, several thousand blues lovers gathered in a small athletic field in Ann Arbor, Michigan for the first Ann Arbor Blues Festival. B.B. King closed the show. The festival continues to this day. In 1972, the festival was expanded to include jazz and it became the Ann Arbor Blues and Jazz Festival. Jazz stars like Miles Davis, Count Basie, Sun Ra, the Art Ensemble of Chicago, Pharoah Sanders, Archie Shepp, Yusef Lateef, Ornette Coleman, and Cecil Taylor have played the festival, as well as headliners like Ray Charles, Maceo Parker, Etta James, James Brown, Booker T. & the MG\'s, Taj Mahal, Dr. John, Bonnie Raitt, and Al Green.Although started with the support of the University of Michigan, the Ann Arbor Blues and Jazz Festival has, over the years, become an all-volunteer, non-profit 501(c) event, supported by community volunteers working with the city administration. What began as an outdoor concert has become a full weekend of blues and jazz events. In addition to the daytime festival, evenings offer festival goers a choice of indoor (seated) concerts and live jazz in a club setting.The festival organization has been expanded to include activities for children, educational outreach programs, and the "Meet the Artist" program, which gives the audience a chance to meet and speak with performers. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.press.umich.edu/titleDetailDesc.do?id=876689',
+          href: 'http://www.press.umich.edu/titleDetailDesc.do?id=876689' } ],
+     'dbo:wikiPageID': [ { value: '6142320 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678755366 (xsd:integer)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Blues',
+          href: 'http://dbpedia.org/resource/Blues' },
+        { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:location': 
+      [ { value: 'dbr:Ann_Arbor,_Michigan',
+          href: 'http://dbpedia.org/resource/Ann_Arbor,_Michigan' } ],
+     'dbp:name': [ { value: 'Ann Arbor Blues and Jazz Festival (en)' } ],
+     'dbp:sign': 
+      [ { value: '--10-12' },
+        { value: 'The New York Times, Sept. 9, 1973 (en)' } ],
+     'dbp:text': 
+      [ { value: '...in which about two dozen blues and jazz artists played for crowds estimated at times to be as high as 16,000. (en)' },
+        { value: 'Silver-haired Count Basie stepped up to the microphone Friday night, smiled a beneficent smile and welcomed 14,000 cheering young people to the 1973 Ann Arbor Blues and Jazz festival… By last night more than 20,000 young people had streamed into this college town from all over the country… (en)' } ],
+     'dbp:yearsActive': [ { value: '1969 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_festivals_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Jazz_festivals_in_the_United_States' },
+        { value: 'dbc:Folk_festivals_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Folk_festivals_in_the_United_States' },
+        { value: 'dbc:Festivals_in_Michigan',
+          href: 'http://dbpedia.org/resource/Category:Festivals_in_Michigan' },
+        { value: 'dbc:Music_festivals_established_in_1969',
+          href: 'http://dbpedia.org/resource/Category:Music_festivals_established_in_1969' },
+        { value: 'dbc:Visitor_attractions_in_Ann_Arbor,_Michigan',
+          href: 'http://dbpedia.org/resource/Category:Visitor_attractions_in_Ann_Arbor,_Michigan' },
+        { value: 'dbc:Music_of_Ann_Arbor,_Michigan',
+          href: 'http://dbpedia.org/resource/Category:Music_of_Ann_Arbor,_Michigan' },
+        { value: 'dbc:Blues_festivals_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Blues_festivals_in_the_United_States' },
+        { value: 'dbc:1969_establishments_in_Michigan',
+          href: 'http://dbpedia.org/resource/Category:1969_establishments_in_Michigan' } ],
+     'rdfs:comment': [ { value: 'In August 1969, several thousand blues lovers gathered in a small athletic field in Ann Arbor, Michigan for the first Ann Arbor Blues Festival. B.B. King closed the show. The festival continues to this day. In 1972, the festival was expanded to include jazz and it became the Ann Arbor Blues and Jazz Festival. (en)' } ],
+     'rdfs:label': [ { value: 'Ann Arbor Blues and Jazz Festival (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Ann Arbor Blues and Jazz Festival',
+          href: 'http://rdf.freebase.com/ns/m.0fsbzw' },
+        { value: 'dbpedia-de:Ann Arbor Blues and Jazz Festival',
+          href: 'http://de.dbpedia.org/resource/Ann_Arbor_Blues_and_Jazz_Festival' },
+        { value: 'dbpedia-wikidata:Ann Arbor Blues and Jazz Festival',
+          href: 'http://wikidata.dbpedia.org/resource/Q558076' },
+        { value: 'wikidata:Ann Arbor Blues and Jazz Festival',
+          href: 'http://www.wikidata.org/entity/Q558076' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Ann_Arbor_Blues_and_Jazz_Festival?oldid=678755366',
+          href: 'http://en.wikipedia.org/wiki/Ann_Arbor_Blues_and_Jazz_Festival?oldid=678755366' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Ann_Arbor_Blues_and_Jazz_Festival',
+          href: 'http://en.wikipedia.org/wiki/Ann_Arbor_Blues_and_Jazz_Festival' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Ann_Arbor_Blues_Festival',
+          href: 'http://dbpedia.org/resource/Ann_Arbor_Blues_Festival' },
+        { value: 'dbr:Ann_arbor_blues_and_jazz_festival',
+          href: 'http://dbpedia.org/resource/Ann_arbor_blues_and_jazz_festival' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Ann_Arbor_Blues_and_Jazz_Festival',
+          href: 'http://en.wikipedia.org/wiki/Ann_Arbor_Blues_and_Jazz_Festival' } ] } }

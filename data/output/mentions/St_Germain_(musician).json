@@ -1,0 +1,8 @@
+{ name: 'St Germain (musician)',
+  href: 'http://en.wikipedia.org/wiki/St_Germain_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 581,
+       quote: [ 'Bob Marley, Toots & the Maytals, Miles Davis and Kool and the Gang are among Ludovic\'s early influences.' ] } ] }

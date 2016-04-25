@@ -1,0 +1,8 @@
+{ name: 'Sketches of Japan',
+  href: 'http://en.wikipedia.org/wiki/Sketches_of_Japan',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 342,
+       quote: [ 'The title and red/yellow-themed cover are references to the Miles Davis album Sketches of Spain.' ] } ] }

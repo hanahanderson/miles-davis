@@ -1,0 +1,8 @@
+{ name: 'Bass clarinet',
+  href: 'http://en.wikipedia.org/wiki/Bass_clarinet',
+  mentions: 
+   [ { sectionHeader: 'Uses',
+       sectionSubHeader: '',
+       sectionIndex: 40,
+       wordCountBeforeSection: 15117,
+       quote: [ 'Bennie Maupin emerged in the late 1960s as a primary player of the instrument, playing on Miles Davis\'s seminal record Bitches Brew as well as several records with Herbie Hancock\'s Mwandishi group.' ] } ] }

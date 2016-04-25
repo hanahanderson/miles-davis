@@ -1,0 +1,10 @@
+{ name: 'Nils Petter Molvær',
+  href: 'http://en.wikipedia.org/wiki/Nils_Petter_Molv%C3%A6r',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 948,
+       quote: 
+        [ 'Masqualero (named after a Wayne Shorter composition originally recorded by Miles Davis) recorded several albums for ECM Records, and Molvær recorded with other ECM artists before his 1997 debut solo album, Khmer.',
+          'Molvær\'s muted trumpet sound, sometimes electronically processed, had an obvious debt to Miles Davis\'s work of the 1970s and 1980s, but without being a slavish copy.' ] } ] }

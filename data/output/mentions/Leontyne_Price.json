@@ -1,0 +1,8 @@
+{ name: 'Leontyne Price',
+  href: 'http://en.wikipedia.org/wiki/Leontyne_Price',
+  mentions: 
+   [ { sectionHeader: 'Critical appreciation',
+       sectionSubHeader: 'Post-operatic career',
+       sectionIndex: 67,
+       wordCountBeforeSection: 25887,
+       quote: [ 'Miles Davis, in Miles: The Autobiography, wrote: "Man, I love her as an artist.' ] } ] }

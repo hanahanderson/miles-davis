@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:Replies to common objections',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Replies_to_common_objections',
+  mentions: 
+   [ { sectionHeader: 'Discussion of the article as text (changes, improvements, etc.)',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3810,
+       quote: [ 'What? (Of course, we don\'t have Louis Armstrong or Miles Davis either, who one can far more reasonably make these claim about)' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'St. Albans, Queens',
+  href: 'http://en.wikipedia.org/wiki/St._Albans,_Queens',
+  mentions: 
+   [ { sectionHeader: 'Notable people',
+       sectionSubHeader: 'Later development',
+       sectionIndex: 38,
+       wordCountBeforeSection: 8987,
+       quote: [ 'Miles Davis, jazz musician' ] },
+     { sectionHeader: 'Notable people',
+       sectionSubHeader: '',
+       sectionIndex: 46,
+       wordCountBeforeSection: 15054,
+       quote: [ 'Coltrane had just met tremendous critical success after his collaborations with Thelonious Monk and Miles Davis.' ] } ] }

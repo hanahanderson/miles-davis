@@ -1,0 +1,8 @@
+{ name: 'Steady Groovin\'',
+  href: 'http://en.wikipedia.org/wiki/Steady_Groovin%27',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1784,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,107 @@
+{ name: 'Milestones (instrumental composition)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Milestones_(instrumental_composition)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '5.75' } ],
+     'dbo:abstract': [ { value: '"Milestones" is a jazz composition written by Miles Davis. It appears on the album of the same name in 1958. It has since become a jazz standard. "Milestones" is the first example of Miles composing in a modal style and experimentation in this piece led to the writing of "So What" from the 1959 album Kind of Blue. The song\'s modes consist of G Dorian for 16 bars, A Aeolian for 16, and then back to G Dorian for the last 8 measures, then the progression repeats.It was originally called "Miles" on the album, and led off the B-side of the record.  Since people began referring to the tune as "Milestones" rather than "Miles," in later editions of the album the name was changed.The musicians on the original 1958 recording of "Milestones" are:Miles Davis - trumpetCannonball Adderley - alto saxophoneJohn Coltrane - tenor saxophoneRed Garland - pianoPaul Chambers - double bassPhilly Joe Jones - drums"Milestones" is also the name of another tune credited to Miles Davis that John Lewis had written for him while playing with Charlie Parker.  Musically it is not related to the more famous tune."Milestones" has been performed by Barry AdamsonJan AkkermanChet BakerElek BacsikAnthony BraxtonPhil Collins Big BandMiles DavisThe DeadCharles EarlandBill EvansJerry GarciaDexter GordonHerbie HancockRoy HargroveJoe HendersonBobby JasparWynton KellyPhil Lesh and FriendsDave LiebmanLittle FeatWes MontgomeryMark MurphyOliver NelsonJoe PassEnrico RavaBuddy RichJimmy SmithRené Thomas Turtle Island String QuartetBob Weir & RatdogGerald Wilson (en)' } ],
+     'dbo:album': 
+      [ { value: 'dbr:Milestones_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Milestones_(Miles_Davis_album)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:composer': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:George_Avakian',
+          href: 'http://dbpedia.org/resource/George_Avakian' } ],
+     'dbo:recordDate': [ { value: '1958-02-04 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:releaseDate': [ { value: '1958-09-02 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '345.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '3583225 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '642664043 (xsd:integer)' } ],
+     'dbp:album': 
+      [ { value: 'dbr:Milestones_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/Milestones_(Miles_Davis_album)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:composer': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:length': [ { value: '345.0' } ],
+     'dbp:name': [ { value: 'Milestones (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:George_Avakian',
+          href: 'http://dbpedia.org/resource/George_Avakian' } ],
+     'dbp:recorded': [ { value: '1958-02-04 (xsd:date)' } ],
+     'dbp:released': [ { value: '1958-09-02 (xsd:date)' } ],
+     'dbp:tracks': [ { value: '#"Dr. Jackle"\n#"Sid\'s Ahead"\n#"Two Bass Hit"\n#"Milestones"\n#"Billy Boy"\n#"Straight, No Chaser" (en)' } ],
+     'dbp:type': [ { value: 'Composition (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_compositions',
+          href: 'http://dbpedia.org/resource/Category:Jazz_compositions' },
+        { value: 'dbc:1950s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1950s_jazz_standards' },
+        { value: 'dbc:Modal_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Modal_jazz_standards' },
+        { value: 'dbc:Compositions_by_Miles_Davis',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_Miles_Davis' },
+        { value: 'dbc:1958_compositions',
+          href: 'http://dbpedia.org/resource/Category:1958_compositions' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Song', href: 'http://dbpedia.org/ontology/Song' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicRecording',
+          href: 'http://schema.org/MusicRecording' } ],
+     'rdfs:comment': [ { value: '"Milestones" is a jazz composition written by Miles Davis. It appears on the album of the same name in 1958. It has since become a jazz standard. "Milestones" is the first example of Miles composing in a modal style and experimentation in this piece led to the writing of "So What" from the 1959 album Kind of Blue. (en)' } ],
+     'rdfs:label': [ { value: 'Milestones (instrumental composition) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Milestones (instrumental composition)',
+          href: 'http://rdf.freebase.com/ns/m.09n0c7' },
+        { value: 'dbpedia-de:Milestones (instrumental composition)',
+          href: 'http://de.dbpedia.org/resource/Milestones_(Jazz-Titel)' },
+        { value: 'dbpedia-wikidata:Milestones (instrumental composition)',
+          href: 'http://wikidata.dbpedia.org/resource/Q1934679' },
+        { value: 'wikidata:Milestones (instrumental composition)',
+          href: 'http://www.wikidata.org/entity/Q1934679' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Milestones_(instrumental_composition)?oldid=642664043',
+          href: 'http://en.wikipedia.org/wiki/Milestones_(instrumental_composition)?oldid=642664043' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Milestones_(instrumental_composition)',
+          href: 'http://en.wikipedia.org/wiki/Milestones_(instrumental_composition)' } ],
+     'foaf:name': [ { value: 'Milestones (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Milestone_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Milestone_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Milestones_(composition)',
+          href: 'http://dbpedia.org/resource/Milestones_(composition)' },
+        { value: 'dbr:Milestones_(song)',
+          href: 'http://dbpedia.org/resource/Milestones_(song)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:The_Complete_Live_at_the_Plugged_Nickel_1965',
+          href: 'http://dbpedia.org/resource/The_Complete_Live_at_the_Plugged_Nickel_1965' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Milestones_(instrumental_composition)',
+          href: 'http://en.wikipedia.org/wiki/Milestones_(instrumental_composition)' } ] } }

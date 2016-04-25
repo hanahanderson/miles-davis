@@ -1,0 +1,13 @@
+{ name: 'Blue Note Records',
+  href: 'http://en.wikipedia.org/wiki/Blue_Note_Records',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4260,
+       quote: [ 'Johnson and trumpeter Miles Davis both recorded several sessions for Blue Note between 1952 and 1954, but by then the musicians who had created bebop were starting to explore other styles.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6939,
+       quote: [ 'John Coltrane\'s Blue Train, and Cannonball Adderley\'s Somethin\' Else (featuring Miles Davis in one of his last supporting roles) were guest appearances on the label.' ] } ] }

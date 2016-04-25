@@ -1,0 +1,8 @@
+{ name: 'User:Unkle Grimace',
+  href: 'http://en.wikipedia.org/wiki/User:Unkle_Grimace',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'I enjoy all types of music ranging from the stylings of Ween, Devo, The Skatalites Miles Davis, John Coltrane, Charles Mingus to The Doors, The Specials, Madness, Linton Kwesi Johnson, Fela Kuti, Trombone Shorty, Black Sabbath, Junior Brown, Buck Owens and all things in between.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Love for Sale (song)',
+  href: 'http://en.wikipedia.org/wiki/Love_for_Sale_(song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1784,
+       quote: [ 'Notable recordings since include Hal Kemp in 1939, Billie Holiday in 1945, Stan Kenton in 1950 (arranged by Pete Rugolo), Joyce Bryant in 1952, Eartha Kitt in the 1950s, Ella Fitzgerald in 1956, and again in 1972 on her Ella Loves Cole album, Tony Bennett in 1957, Miles Davis and Cannonball Adderley for 1958 Miles and Somethin\' Else, Anita O\'Day in 1959, Julie London in 1961, Dexter Gordon in 1962, Al Hirt on his 1965 album, Live at Carnegie Hall, The Manhattan Transfer in 1976, the German disco group Boney M.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Kris Defoort',
+  href: 'http://en.wikipedia.org/wiki/Kris_Defoort',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 209,
+       quote: [ 'They toured in France, Belgium and the Netherlands in 1991 and then released a CD called "Sketches of Belgium" the next year, a reference to Miles Davis\'s "Sketches of Spain".' ] } ] }

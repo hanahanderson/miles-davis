@@ -1,0 +1,13 @@
+{ name: 'What\'s New (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/What%27s_New_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 486,
+       quote: [ '"So What" (Christopher Hall, Miles Davis) – 9:06' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1171,
+       quote: [ 'Miles Davis' ] } ] }

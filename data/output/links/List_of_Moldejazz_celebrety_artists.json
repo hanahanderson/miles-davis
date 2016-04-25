@@ -1,0 +1,26 @@
+{ name: 'List of Moldejazz celebrety artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Moldejazz_celebrety_artists',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of well-known artistic performers that have visited the international festival Moldejazz in Molde through the years. (en)' } ],
+     'dbo:wikiPageID': [ { value: '46508752 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664473629 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:Jazz_musicians' },
+        { value: 'dbc:Molde',
+          href: 'http://dbpedia.org/resource/Category:Molde' },
+        { value: 'dbc:Culture_in_Møre_og_Romsdal',
+          href: 'http://dbpedia.org/resource/Category:Culture_in_Møre_og_Romsdal' } ],
+     'rdfs:comment': [ { value: 'This is a list of well-known artistic performers that have visited the international festival Moldejazz in Molde through the years. (en)' } ],
+     'rdfs:label': [ { value: 'List of Moldejazz celebrety artists (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Moldejazz_celebrety_artists?oldid=664473629',
+          href: 'http://en.wikipedia.org/wiki/List_of_Moldejazz_celebrety_artists?oldid=664473629' } ],
+     'foaf:homepage': [ { value: 'http://moldejazz.no', href: 'http://moldejazz.no' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Moldejazz_celebrety_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Moldejazz_celebrety_artists' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Moldejazz_celebrety_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Moldejazz_celebrety_artists' } ] } }

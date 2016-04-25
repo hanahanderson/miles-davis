@@ -1,0 +1,8 @@
+{ name: 'At Fillmore East',
+  href: 'http://en.wikipedia.org/wiki/At_Fillmore_East',
+  mentions: 
+   [ { sectionHeader: 'Composition',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 9009,
+       quote: [ 'The performance begins with a "long, laconic intro" by Betts employing volume swells, reminiscent of the "dreamy trumpet" used to open songs on Miles Davis\' Kind of Blue (1959).' ] } ] }

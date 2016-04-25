@@ -1,0 +1,8 @@
+{ name: 'List of funk musicians',
+  href: 'http://en.wikipedia.org/wiki/List_of_funk_musicians',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2055,
+       quote: [ 'Miles Davis' ] } ] }

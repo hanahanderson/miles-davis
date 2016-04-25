@@ -1,0 +1,8 @@
+{ name: 'Emerald Tears',
+  href: 'http://en.wikipedia.org/wiki/Emerald_Tears',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 853,
+       quote: [ '"Solar" (Miles Davis) - 6:17' ] } ] }

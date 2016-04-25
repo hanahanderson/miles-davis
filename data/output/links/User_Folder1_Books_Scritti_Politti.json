@@ -1,0 +1,4 @@
+{ name: 'User:Folder1/Books/Scritti Politti',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Folder1/Books/Scritti_Politti',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

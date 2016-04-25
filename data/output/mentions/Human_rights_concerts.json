@@ -1,0 +1,8 @@
+{ name: 'Human rights concerts',
+  href: 'http://en.wikipedia.org/wiki/Human_rights_concerts',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 527,
+       quote: [ 'Solo Artists: Sting, Bruce Springsteen, Peter Gabriel, Jackson Browne, Lou Reed, Bryan Adams, Joan Baez, Wynton Marsalis, Sinéad O\'Connor, Alanis Morissette, Shania Twain, Little Steven, Bob Geldof, Joan Armatrading, Carlos Santana, Yoko Ono, Miles Davis, Joni Mitchell, Tracy Chapman, Bono, Ruben Blades, Fela, Youssou N\'Dour, k.d. lang, Pat Metheney' ] } ] }

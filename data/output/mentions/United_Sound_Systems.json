@@ -1,0 +1,8 @@
+{ name: 'United Sound Systems',
+  href: 'http://en.wikipedia.org/wiki/United_Sound_Systems',
+  mentions: 
+   [ { sectionHeader: 'Selected recordings',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3071,
+       quote: [ 'The group also featured Miles Davis, Duke Jordan, Tommy Potter, and Max Roach.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Version 1.0 Editorial Team/FAs first',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Version_1.0_Editorial_Team/FAs_first',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

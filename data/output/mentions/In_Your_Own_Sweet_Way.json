@@ -1,0 +1,8 @@
+{ name: 'In Your Own Sweet Way',
+  href: 'http://en.wikipedia.org/wiki/In_Your_Own_Sweet_Way',
+  mentions: 
+   [ { sectionHeader: 'Legacy and renditions',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2637,
+       quote: [ 'Miles Davis recorded it twice with his quintet in 1956—once in March with Sonny Rollins as the quintet\'s saxophonist, and in May with John Coltrane in the band.' ] } ] }

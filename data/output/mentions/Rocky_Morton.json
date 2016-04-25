@@ -1,0 +1,8 @@
+{ name: 'Rocky Morton',
+  href: 'http://en.wikipedia.org/wiki/Rocky_Morton',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 95,
+       quote: [ 'Various music videos by Rush, Tom Tom Club, Talking Heads, Led Zeppelin, Cathy Dennis, Gravity Kills, Orgy and Miles Davis are credited to Morton.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Bill Evans at Town Hall',
+  href: 'http://en.wikipedia.org/wiki/Bill_Evans_at_Town_Hall',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2061,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Pete Cosey',
+  href: 'http://en.wikipedia.org/wiki/Pete_Cosey',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis, Burnt Sugar' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 344,
+       quote: [ 'Pete Cosey (born Peter Palus Cosey, October 9, 1943 – May 30, 2012) was an American guitarist most famous for playing with Miles Davis\' band between 1973 and 1975.' ] } ] }

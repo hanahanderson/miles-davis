@@ -1,0 +1,8 @@
+{ name: 'Glenn Miller',
+  href: 'http://en.wikipedia.org/wiki/Glenn_Miller',
+  mentions: 
+   [ { sectionHeader: 'Band alumni',
+       sectionSubHeader: 'Motion pictures',
+       sectionIndex: 58,
+       wordCountBeforeSection: 31130,
+       quote: [ 'He is featured as "Junior" Collins on the Miles Davis Birth of the Cool recordings of 1949–50.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Matt Johnson (keyboardist)',
+  href: 'http://en.wikipedia.org/wiki/Matt_Johnson_(keyboardist)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 500,
+       quote: [ 'His influences range from Herbie Hancock and Miles Davis through to Squarepusher.' ] } ] }

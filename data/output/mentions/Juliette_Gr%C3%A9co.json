@@ -1,0 +1,13 @@
+{ name: 'Juliette Gréco',
+  href: 'http://en.wikipedia.org/wiki/Juliette_Gr%C3%A9co',
+  mentions: 
+   [ { sectionHeader: 'Bohemian lifestyle',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1897,
+       quote: [ 'As a regular figure at music and poetry venues like Le Tabou on Rue Dauphine, Gréco became acquainted with Miles Davis and Jean Cocteau, even being given a role in Cocteau’s film Orphée in 1949.' ] },
+     { sectionHeader: 'Sources',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 8890,
+       quote: [] } ] }

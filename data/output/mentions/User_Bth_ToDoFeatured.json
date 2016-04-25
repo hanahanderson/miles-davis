@@ -1,0 +1,8 @@
+{ name: 'User:Bth/ToDoFeatured',
+  href: 'http://en.wikipedia.org/wiki/User:Bth/ToDoFeatured',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 3324,
+       quote: [ 'Concept album -- Miles Davis -- Donegal fiddle tradition -- Bob Dylan -- Heavy metal music -- Charles Ives -- Jazz -- Madonna -- Roy Orbison -- Gram Parsons -- Punk rock -- Saxophone -- Sex Pistols -- Simon and Garfunkel' ] } ] }

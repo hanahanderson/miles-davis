@@ -1,0 +1,13 @@
+{ name: 'Portal:Jazz/Selected article/12',
+  href: 'http://en.wikipedia.org/wiki/Portal:Jazz/Selected_article/12',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Birth of the Cool is a compilation album by American jazz musician Miles Davis, released in 1957 on Capitol Records.' ] } ] }

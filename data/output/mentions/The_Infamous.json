@@ -1,0 +1,8 @@
+{ name: 'The Infamous',
+  href: 'http://en.wikipedia.org/wiki/The_Infamous',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: 'Retrospect',
+       sectionIndex: 26,
+       wordCountBeforeSection: 10944,
+       quote: [ '"Party Over" contains samples from "Lonely Fire" performed by Miles Davis, and "Outside Love" performed by Brethren.' ] } ] }

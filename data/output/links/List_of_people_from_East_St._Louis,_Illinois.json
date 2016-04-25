@@ -1,0 +1,36 @@
+{ name: 'List of people from East St. Louis, Illinois',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_from_East_St._Louis,_Illinois',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following list includes notable people who were born or have lived in East St. Louis, Illinois. For a similar list organized alphabetically by last name, see the category page People from East St. Louis, Illinois. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Walter_Boyne_B47_Pilot.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Walter_Boyne_B47_Pilot.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '29480783 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679648492 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_people_from_Illinois',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_from_Illinois' },
+        { value: 'dbc:Lists_of_people_by_city_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_by_city_in_the_United_States' },
+        { value: 'dbc:People_from_East_St._Louis,_Illinois',
+          href: 'http://dbpedia.org/resource/Category:People_from_East_St._Louis,_Illinois' } ],
+     'rdfs:comment': [ { value: 'The following list includes notable people who were born or have lived in East St. Louis, Illinois. For a similar list organized alphabetically by last name, see the category page People from East St. Louis, Illinois. (en)' } ],
+     'rdfs:label': [ { value: 'List of people from East St. Louis, Illinois (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of people from East St. Louis, Illinois',
+          href: 'http://wikidata.dbpedia.org/resource/Q6632394' },
+        { value: 'wikidata:List of people from East St. Louis, Illinois',
+          href: 'http://www.wikidata.org/entity/Q6632394' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_from_East_St._Louis,_Illinois?oldid=679648492',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_East_St._Louis,_Illinois?oldid=679648492' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Walter_Boyne_B47_Pilot.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Walter_Boyne_B47_Pilot.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_from_East_St._Louis,_Illinois',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_East_St._Louis,_Illinois' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_from_East_St._Louis,_Illinois',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_East_St._Louis,_Illinois' } ] } }

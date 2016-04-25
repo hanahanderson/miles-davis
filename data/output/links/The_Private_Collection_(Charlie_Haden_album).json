@@ -1,0 +1,99 @@
+{ name: 'The Private Collection (Charlie Haden album)',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/The_Private_Collection_(Charlie_Haden_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '146.45' } ],
+     'dbo:abstract': [ { value: 'The Private Collection is a live album by the American jazz bassist Charlie Haden\'s Quartet West recorded at performances in 1988 and 1989 and released on the Naim label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Charlie_Haden',
+          href: 'http://dbpedia.org/resource/Charlie_Haden' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Silence_(Charlie_Haden_album)',
+          href: 'http://dbpedia.org/resource/Silence_(Charlie_Haden_album)' } ],
+     'dbo:recordDate': 
+      [ { value: '1987-08-06 (xsd:date)' },
+        { value: '1988-04-04 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Naim_Edge',
+          href: 'http://dbpedia.org/resource/Naim_Edge' } ],
+     'dbo:releaseDate': [ { value: '2000-01-01 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '8787.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:In_Angel_City',
+          href: 'http://dbpedia.org/resource/In_Angel_City' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '43411565 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '618790838 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Charlie_Haden',
+          href: 'http://dbpedia.org/resource/Charlie_Haden' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Charlie_Haden',
+          href: 'http://dbpedia.org/resource/Charlie_Haden' } ],
+     'dbp:cover': [ { value: 'The Private Collection .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Naim_Edge',
+          href: 'http://dbpedia.org/resource/Naim_Edge' },
+        { value: 'naimcd108 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Silence (en)' } ],
+     'dbp:length': [ { value: '8787.0' } ],
+     'dbp:name': [ { value: 'The Private Collection (en)' } ],
+     'dbp:nextAlbum': [ { value: 'In Angel City (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--08-06' },
+        { value: 'At My Place, Santa Monica, CA and Webster University, St. Louis, MO (en)' } ],
+     'dbp:released': [ { value: '2000-01-01 (xsd:date)' } ],
+     'dbp:thisAlbum': [ { value: 'The Private Collection (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2000_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2000_live_albums' },
+        { value: 'dbc:Charlie_Haden_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Charlie_Haden_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Private Collection is a live album by the American jazz bassist Charlie Haden\'s Quartet West recorded at performances in 1988 and 1989 and released on the Naim label. (en)' } ],
+     'rdfs:label': [ { value: 'The Private Collection (Charlie Haden album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Private Collection (Charlie Haden album)',
+          href: 'http://rdf.freebase.com/ns/m.011f2sbz' },
+        { value: 'dbpedia-wikidata:The Private Collection (Charlie Haden album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q17508751' },
+        { value: 'wikidata:The Private Collection (Charlie Haden album)',
+          href: 'http://www.wikidata.org/entity/Q17508751' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Private_Collection_(Charlie_Haden_album)?oldid=618790838',
+          href: 'http://en.wikipedia.org/wiki/The_Private_Collection_(Charlie_Haden_album)?oldid=618790838' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Private_Collection_(Charlie_Haden_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Private_Collection_(Charlie_Haden_album)' } ],
+     'foaf:name': [ { value: 'The Private Collection (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:In_Angel_City',
+          href: 'http://dbpedia.org/resource/In_Angel_City' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Silence_(Charlie_Haden_album)',
+          href: 'http://dbpedia.org/resource/Silence_(Charlie_Haden_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Private_Collection_(Charlie_Haden_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Private_Collection_(Charlie_Haden_album)' } ] } }

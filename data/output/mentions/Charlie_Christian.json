@@ -1,0 +1,8 @@
+{ name: 'Charlie Christian',
+  href: 'http://en.wikipedia.org/wiki/Charlie_Christian',
+  mentions: 
+   [ { sectionHeader: 'Style and influences',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 9957,
+       quote: [ 'Other musicians, such as trumpeter Miles Davis, cite Christian as an early influence.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Beltone Studios',
+  href: 'http://en.wikipedia.org/wiki/Beltone_Studios',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis\'s album Miles Davis and Horns was partly recorded here in 1953, and The Crows 1954 hit "Gee" was also recorded here, the same year.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis and Horns' ] } ] }

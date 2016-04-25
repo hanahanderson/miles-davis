@@ -1,0 +1,8 @@
+{ name: 'J. J. Johnson',
+  href: 'http://en.wikipedia.org/wiki/J._J._Johnson',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2698,
+       quote: [ 'Johnson admitted later he was still thinking of nothing but music during that time, and indeed, his classic Blue Note recordings as both a leader and with Miles Davis date from this period.' ] } ] }

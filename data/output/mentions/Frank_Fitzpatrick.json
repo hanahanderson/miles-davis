@@ -1,0 +1,8 @@
+{ name: 'Frank Fitzpatrick',
+  href: 'http://en.wikipedia.org/wiki/Frank_Fitzpatrick',
+  mentions: 
+   [ { sectionHeader: 'Early career',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 10322,
+       quote: [ 'While attending the University of Michigan\'s music and business schools, he worked for Eclipse Jazz and Major Events, producers of live shows for the likes of Miles Davis, Ella Fitzgerald, Al Jarreau, Sarah Vaughan, Ray Charles and Prince.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Ntozake Shange',
+  href: 'http://en.wikipedia.org/wiki/Ntozake_Shange',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1930,
+       quote: [ 'Among the guests at their home were Dizzy Gillespie, Miles Davis, Chuck Berry, and W.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Tom Varner',
+  href: 'http://en.wikipedia.org/wiki/Tom_Varner',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1030,
+       quote: [ 'He has performed and recorded with Steve Lacy, Dave Liebman, George Gruntz, John Zorn, Bobby Watson, La Monte Young, Miles Davis with Quincy Jones, Bobby Previte, Jim McNeely, McCoy Tyner, Reggie Workman, the Mingus Orchestra, Franz Koglmann, and appears on over 70 albums.' ] } ] }

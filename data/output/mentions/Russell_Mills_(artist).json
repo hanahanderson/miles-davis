@@ -1,0 +1,8 @@
+{ name: 'Russell Mills (artist)',
+  href: 'http://en.wikipedia.org/wiki/Russell_Mills_(artist)',
+  mentions: 
+   [ { sectionHeader: 'Advent of digital design',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 5458,
+       quote: [ 'Miles Davis, Panthalassa (reinterpretations)' ] } ] }

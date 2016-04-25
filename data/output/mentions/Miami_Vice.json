@@ -1,0 +1,13 @@
+{ name: 'Miami Vice',
+  href: 'http://en.wikipedia.org/wiki/Miami_Vice',
+  mentions: 
+   [ { sectionHeader: 'Production',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 8721,
+       quote: [ 'Several artists even guest-starred in episodes, including Collins, Miles Davis, Power Station, Frey, Suicidal Tendencies, Willie Nelson, Nugent, Frank Zappa, The Fat Boys, Sheena Easton, and Gene Simmons.' ] },
+     { sectionHeader: 'Cast',
+       sectionSubHeader: '',
+       sectionIndex: 72,
+       wordCountBeforeSection: 31778,
+       quote: [ 'Notable musicians include Sheena Easton, Willie Nelson, Gene Simmons, and Ted Nugent Additionally Glenn Frey, Frank Zappa, Phil Collins, Miles Davis, Frankie Valli, Little Richard, James Brown, Leonard Cohen, the band Power Station, Coati Mundi, and Eartha Kitt.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Thomas Newman',
+  href: 'http://en.wikipedia.org/wiki/Thomas_Newman',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'American Film Institute',
+       sectionIndex: 52,
+       wordCountBeforeSection: 26555,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

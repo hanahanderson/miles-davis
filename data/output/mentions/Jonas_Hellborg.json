@@ -1,0 +1,8 @@
+{ name: 'Jonas Hellborg',
+  href: 'http://en.wikipedia.org/wiki/Jonas_Hellborg',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 58,
+       wordCountBeforeSection: 7703,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'List of jazz trumpeters',
+  href: 'http://en.wikipedia.org/wiki/List_of_jazz_trumpeters',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1450,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Dietrich Fischer-Dieskau',
+  href: 'http://en.wikipedia.org/wiki/Dietrich_Fischer-Dieskau',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'As conductor',
+       sectionIndex: 48,
+       wordCountBeforeSection: 26173,
+       quote: [ 'Miles Davis (1984)' ] } ] }

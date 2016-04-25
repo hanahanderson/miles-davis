@@ -1,0 +1,18 @@
+{ name: 'Timeline of musical events',
+  href: 'http://en.wikipedia.org/wiki/Timeline_of_musical_events',
+  mentions: 
+   [ { sectionHeader: '1990s',
+       sectionSubHeader: 'List of 10 best-selling albums of the 2000s',
+       sectionIndex: 15,
+       wordCountBeforeSection: 10577,
+       quote: [ 'Death of Miles Davis, Freddie Mercury, Eric Carr, Steve Clark.' ] },
+     { sectionHeader: '1950s',
+       sectionSubHeader: 'List of 10 best-selling albums of the 1990s',
+       sectionIndex: 29,
+       wordCountBeforeSection: 29743,
+       quote: [ 'Miles Davis releases Kind of Blue.' ] },
+     { sectionHeader: '1920s',
+       sectionSubHeader: 'List of 10 best-selling albums of the 1990s',
+       sectionIndex: 36,
+       wordCountBeforeSection: 37883,
+       quote: [ '1926 in music - Tapiola by Jean Sibelius; Birth of Marilyn Monroe, Joan Sutherland, John Coltrane, Miles Davis, Chuck Berry, Tony Bennett, Big Mama Thornton; Turandot by Giacomo Puccini premieres in Milan' ] } ] }

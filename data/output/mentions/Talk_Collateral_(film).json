@@ -1,0 +1,8 @@
+{ name: 'Talk:Collateral (film)',
+  href: 'http://en.wikipedia.org/wiki/Talk:Collateral_(film)',
+  mentions: 
+   [ { sectionHeader: 'Revised/shortened plot summary',
+       sectionSubHeader: '',
+       sectionIndex: 74,
+       wordCountBeforeSection: 18984,
+       quote: [ 'After the club closes, Max witnesses Vincent callously execute Baker when he incorrectly answers a question about jazz legend Miles Davis.' ] } ] }

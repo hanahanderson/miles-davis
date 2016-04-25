@@ -1,0 +1,13 @@
+{ name: 'Lighthouse Café',
+  href: 'http://en.wikipedia.org/wiki/Lighthouse_Caf%C3%A9',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 902,
+       quote: [ 'While the club also hosted visiting groups, the Lighthouse All-Stars became a noted ensemble in its own right, which had among its guest musicians Chet Baker, Gerry Mulligan and Miles Davis.' ] },
+     { sectionHeader: 'Recordings made at the Lighthouse',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2270,
+       quote: [ '1953: Miles Davis and the Lighthouse All-Stars – At Last! (Contemporary, 1985), same day as with Baker, playing one track together' ] } ] }

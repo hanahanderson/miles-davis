@@ -1,0 +1,13 @@
+{ name: 'Eugene Haynes',
+  href: 'http://en.wikipedia.org/wiki/Eugene_Haynes',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 338,
+       quote: [ 'After graduation from Lincoln High School in 1944, where he played piano to classmate Miles Davis\' trombone., he studied music at the Juilliard School in New York and with Nadia Boulanger in Paris from 1951 to 1954.' ] },
+     { sectionHeader: 'On Karen Blixen',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6428,
+       quote: [ 'On the difficulties of achieving a break through as a classical pianist, Eugene Haynes wrote in one of his letters home that for his high school classmate and friend, the Black jazz musician Miles Davis, the situation was different.' ] } ] }

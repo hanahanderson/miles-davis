@@ -1,0 +1,32 @@
+{ name: 'List of NME covers',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_NME_covers',
+  values: 
+   { 'dbo:abstract': [ { value: 'Full list of NME cover images and featured artists. (en)' } ],
+     'dbo:wikiPageID': [ { value: '8585434 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681693365 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:British_music-related_lists',
+          href: 'http://dbpedia.org/resource/Category:British_music-related_lists' },
+        { value: 'dbc:New_Musical_Express',
+          href: 'http://dbpedia.org/resource/Category:New_Musical_Express' } ],
+     'rdfs:comment': [ { value: 'Full list of NME cover images and featured artists. (en)' } ],
+     'rdfs:label': [ { value: 'List of NME covers (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of NME covers',
+          href: 'http://wikidata.dbpedia.org/resource/Q6591209' },
+        { value: 'wikidata:List of NME covers',
+          href: 'http://www.wikidata.org/entity/Q6591209' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_NME_covers?oldid=681693365',
+          href: 'http://en.wikipedia.org/wiki/List_of_NME_covers?oldid=681693365' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_NME_covers',
+          href: 'http://en.wikipedia.org/wiki/List_of_NME_covers' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_NME_Covers',
+          href: 'http://dbpedia.org/resource/List_of_NME_Covers' } ],
+     'is rdfs:seeAlso\n of': [ { value: 'dbr:NME', href: 'http://dbpedia.org/resource/NME' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_NME_covers',
+          href: 'http://en.wikipedia.org/wiki/List_of_NME_covers' } ] } }

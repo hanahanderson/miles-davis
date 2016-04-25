@@ -1,0 +1,8 @@
+{ name: 'Melissa van der Schyff',
+  href: 'http://en.wikipedia.org/wiki/Melissa_van_der_Schyff',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 812,
+       quote: [ 'Born in South Africa and raised in Canada, during her younger years, van der Shyff aspired to become a jazz singer, noting Miles Davis and John Coltrane as inspirations to her.' ] } ] }

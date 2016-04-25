@@ -1,0 +1,13 @@
+{ name: 'Doudou N\'Diaye Rose',
+  href: 'http://en.wikipedia.org/wiki/Doudou_N%27Diaye_Rose',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 603,
+       quote: [ 'He also collaborated with Miles Davis and the Rolling Stones.' ] },
+     { sectionHeader: 'Recorded work',
+       sectionSubHeader: 'Family of drummers',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2322,
+       quote: [ 'Ndiaye Rose performed with Dizzy Gillespie, Alan Stivell ("Again"), Miles Davis, the Rolling Stones, Peter Gabriel, Kodo and Bill Bruford.' ] } ] }

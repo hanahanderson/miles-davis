@@ -1,0 +1,8 @@
+{ name: 'Intermodulation (album)',
+  href: 'http://en.wikipedia.org/wiki/Intermodulation_(album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 2315,
+       quote: [ 'Miles Davis' ] } ] }

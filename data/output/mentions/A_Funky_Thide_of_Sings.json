@@ -1,0 +1,18 @@
+{ name: 'A Funky Thide of Sings',
+  href: 'http://en.wikipedia.org/wiki/A_Funky_Thide_of_Sings',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1837,
+       quote: [ 'with Miles Davis' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1837,
+       quote: [] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1837,
+       quote: [] } ] }

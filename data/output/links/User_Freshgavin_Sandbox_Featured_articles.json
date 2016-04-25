@@ -1,0 +1,4 @@
+{ name: 'User:Freshgavin/Sandbox/Featured articles',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Freshgavin/Sandbox/Featured_articles',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

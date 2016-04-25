@@ -1,0 +1,8 @@
+{ name: 'Lennie Sogoloff',
+  href: 'http://en.wikipedia.org/wiki/Lennie_Sogoloff',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 510,
+       quote: [ 'Live musical acts included Duke Ellington, Buddy Rich, Kris Kristofferson, Miles Davis, Dizzie Gillespie, and Stan Kenton.' ] } ] }

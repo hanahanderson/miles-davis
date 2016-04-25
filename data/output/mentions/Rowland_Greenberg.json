@@ -1,0 +1,8 @@
+{ name: 'Rowland Greenberg',
+  href: 'http://en.wikipedia.org/wiki/Rowland_Greenberg',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1666,
+       quote: [ 'Greenberg took part in the "All-Star Trumpets session" (Paris Jazz Festival, 1949) with Miles Davis, Bill Coleman, Jimmy McPartland and Aime Barelli.' ] } ] }

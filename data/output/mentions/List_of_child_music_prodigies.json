@@ -1,0 +1,8 @@
+{ name: 'List of child music prodigies',
+  href: 'http://en.wikipedia.org/wiki/List_of_child_music_prodigies',
+  mentions: 
+   [ { sectionHeader: 'Non-classical genres',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 16844,
+       quote: [ 'Tony Williams: Drmmer, performed professionally at age 13, released debut at age 18, performed with Miles Davis at age 17, was a key pioneer in jazz-fusion at age 23.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:Webgeek007/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:Webgeek007/sandbox',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3188,
+       quote: [ 'Artists such as John Coltrane, Miles Davis, Herbie Hancock and Roy Ayers not only affected the way he listened to music at the time, but would shape the sound of Photek years later.' ] } ] }

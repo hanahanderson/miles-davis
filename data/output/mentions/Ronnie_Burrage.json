@@ -1,0 +1,8 @@
+{ name: 'Ronnie Burrage',
+  href: 'http://en.wikipedia.org/wiki/Ronnie_Burrage',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 1355,
+       quote: [ 'Louis Metropolitan Jazz Quintet from 1975 to 1977 and was considered a child prodigy to be playing with standing members of this particular quintet such as John Mixon, who played bass with Grant Green and Miles Davis, James "Iron Head" Matthews piano, Freddie Washington, Willie Akins saxophone and Ben Jones trumpet.' ] } ] }

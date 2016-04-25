@@ -1,0 +1,8 @@
+{ name: 'Jazz rap',
+  href: 'http://en.wikipedia.org/wiki/Jazz_rap',
+  mentions: 
+   [ { sectionHeader: 'Jazz artists come to hip hop',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3701,
+       quote: [ 'Though jazz rap had achieved little mainstream success, jazz legend Miles Davis\' final album (released posthumously in 1992), Doo-Bop, featured hip hop beats and collaborations with producer Easy Mo Bee.' ] } ] }

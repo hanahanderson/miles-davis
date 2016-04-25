@@ -1,0 +1,98 @@
+{ name: 'Re: Person I Knew',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Re:_Person_I_Knew',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '41.18333333333333' } ],
+     'dbo:abstract': [ { value: 'Re: Person I Knew is a live album by jazz pianist Bill Evans with Eddie Gómez and Marty Morell recorded at the Village Vanguard in New York City in 1974 and released on the Fantasy label in 1981. Additional recordings from Evans\' 1974 Village Vanguard performances were also issued on the album Since We Met (1974). The name of the album (and its title-track) is an anagram on the name of Orrin Keepnews, who produced for Evans while he was signed with Riverside Records, and who was one of his earliest champions. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:You_Must_Believe_in_Spring',
+          href: 'http://dbpedia.org/resource/You_Must_Believe_in_Spring' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Fantasy_Records',
+          href: 'http://dbpedia.org/resource/Fantasy_Records' } ],
+     'dbo:runtime': [ { value: '2471.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Solo_Sessions,_Vol._1',
+          href: 'http://dbpedia.org/resource/The_Solo_Sessions,_Vol._1' } ],
+     'dbo:wikiPageID': [ { value: '26649584 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662766705 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Re Person I Knew.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Fantasy_Records',
+          href: 'http://dbpedia.org/resource/Fantasy_Records' } ],
+     'dbp:lastAlbum': [ { value: 'You Must Believe in Spring (en)' } ],
+     'dbp:length': [ { value: '2471.0' } ],
+     'dbp:name': [ { value: 'Re: Person I Knew (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Solo Sessions, Vol. 1 (en)' } ],
+     'dbp:recorded': [ { value: '--01-11' } ],
+     'dbp:released': [ { value: '1981 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Re: Person I Knew (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bill_Evans_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_live_albums' },
+        { value: 'dbc:Albums_recorded_at_the_Village_Vanguard',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_the_Village_Vanguard' },
+        { value: 'dbc:1981_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1981_live_albums' },
+        { value: 'dbc:Fantasy_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Fantasy_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Re: Person I Knew is a live album by jazz pianist Bill Evans with Eddie Gómez and Marty Morell recorded at the Village Vanguard in New York City in 1974 and released on the Fantasy label in 1981. Additional recordings from Evans\' 1974 Village Vanguard performances were also issued on the album Since We Met (1974). (en)' } ],
+     'rdfs:label': [ { value: 'Re: Person I Knew (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Re: Person I Knew',
+          href: 'http://rdf.freebase.com/ns/m.03f_k7j' },
+        { value: 'dbpedia-es:Re: Person I Knew',
+          href: 'http://es.dbpedia.org/resource/Re:_Person_I_Knew' },
+        { value: 'dbpedia-wikidata:Re: Person I Knew',
+          href: 'http://wikidata.dbpedia.org/resource/Q1188968' },
+        { value: 'wikidata:Re: Person I Knew',
+          href: 'http://www.wikidata.org/entity/Q1188968' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Re:_Person_I_Knew?oldid=662766705',
+          href: 'http://en.wikipedia.org/wiki/Re:_Person_I_Knew?oldid=662766705' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Re:_Person_I_Knew',
+          href: 'http://en.wikipedia.org/wiki/Re:_Person_I_Knew' } ],
+     'foaf:name': [ { value: 'Re: Person I Knew (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Solo_Sessions,_Vol._1',
+          href: 'http://dbpedia.org/resource/The_Solo_Sessions,_Vol._1' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:You_Must_Believe_in_Spring',
+          href: 'http://dbpedia.org/resource/You_Must_Believe_in_Spring' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Re:_Person_I_Knew',
+          href: 'http://en.wikipedia.org/wiki/Re:_Person_I_Knew' } ] } }

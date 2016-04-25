@@ -1,0 +1,8 @@
+{ name: 'Sergiu Celibidache',
+  href: 'http://en.wikipedia.org/wiki/Sergiu_Celibidache',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Performance style and criticism',
+       sectionIndex: 35,
+       wordCountBeforeSection: 22816,
+       quote: [ 'Miles Davis (1984)' ] } ] }

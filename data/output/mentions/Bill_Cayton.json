@@ -1,0 +1,8 @@
+{ name: 'Bill Cayton',
+  href: 'http://en.wikipedia.org/wiki/Bill_Cayton',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'These films featured such legendary boxers as Jim Corbett, Jack Johnson (with a soundtrack by Miles Davis), Jack Dempsey, Joe Louis, Rocky Marciano, Sugar Ray Robinson, Muhammad Ali, George Foreman, Wilfred Benítez, and Kid Gavilan.' ] } ] }

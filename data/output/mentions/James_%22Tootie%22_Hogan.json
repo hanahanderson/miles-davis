@@ -1,0 +1,8 @@
+{ name: 'James "Tootie" Hogan',
+  href: 'http://en.wikipedia.org/wiki/James_%22Tootie%22_Hogan',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 1080,
+       quote: [ 'While working with Roberta, Hogan also appeared on The Tonight Show Starring Johnny Carson; opened for jazz trumpet player Miles Davis in the Madison Square Garden in New York City, and shared the stage with The Spinners, Lou Rawls, Little Richard, Clarence Carter, the Platters, Major Lance, the Coasters, Lynn White, Joe Tex, Mary Wells, Martha & the Vandellas, and Betty Wright.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The In Sound',
+  href: 'http://en.wikipedia.org/wiki/The_In_Sound',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 306,
+       quote: [ 'The album features Harris\' first recording of "Freedom Jazz Dance" which would become a jazz standard after featuring on Miles Davis\' album Miles Smiles (Columbia, 1966).' ] } ] }

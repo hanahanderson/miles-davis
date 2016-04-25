@@ -1,0 +1,13 @@
+{ name: 'New Bottle Old Wine',
+  href: 'http://en.wikipedia.org/wiki/New_Bottle_Old_Wine',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 272,
+       quote: [ 'The album is a suite of songs written by and/or associated with major jazz musicians and composers, in original arrangements by Gil Evans, featuring Cannonball Adderley as the only soloist (like the albums Evans made with Miles Davis including Miles Ahead, Porgy and Bess, and Sketches of Spain).' ] },
+     { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 932,
+       quote: [ 'The Allmusic review by Scott Yanow awarded the album 4½ stars and states "This is near-classic music that showed that Gil Evans did not need Miles Davis as a soloist to inspire him to greatness"  and The Penguin Guide to Jazz described the album as "one of  finest hours".' ] } ] }

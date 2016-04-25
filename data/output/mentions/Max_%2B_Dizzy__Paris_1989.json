@@ -1,0 +1,8 @@
+{ name: 'Max + Dizzy: Paris 1989',
+  href: 'http://en.wikipedia.org/wiki/Max_%2B_Dizzy:_Paris_1989',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1999,
+       quote: [ '"The Theme" (Art Blakey, Miles Davis, Kenny Dorham) - 0:52' ] } ] }

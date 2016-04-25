@@ -1,0 +1,8 @@
+{ name: 'User:100B Class/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:100B_Class/sandbox',
+  mentions: 
+   [ { sectionHeader: 'Influence',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2972,
+       quote: [ 'Influential artists like Miles Davis, Janice Joplin, Led Zeppelin, Mercedes Sosa, and Ramon Ayala.' ] } ] }

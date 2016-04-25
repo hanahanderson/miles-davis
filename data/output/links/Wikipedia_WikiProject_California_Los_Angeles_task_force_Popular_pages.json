@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject California/Los Angeles task force/Popular pages',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_California/Los_Angeles_task_force/Popular_pages',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

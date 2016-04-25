@@ -1,0 +1,4 @@
+{ name: 'Incident at Neshabur',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Incident_at_Neshabur',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

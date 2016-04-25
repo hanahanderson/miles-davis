@@ -1,0 +1,13 @@
+{ name: 'Joint issue',
+  href: 'http://en.wikipedia.org/wiki/Joint_issue',
+  mentions: 
+   [ { sectionHeader: 'France',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 17614,
+       quote: [ 'Miles Davis and Edith Piaf' ] },
+     { sectionHeader: 'United States',
+       sectionSubHeader: '',
+       sectionIndex: 146,
+       wordCountBeforeSection: 52961,
+       quote: [ 'Miles Davis and Edith Piaf' ] } ] }

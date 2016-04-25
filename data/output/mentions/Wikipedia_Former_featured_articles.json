@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Former featured articles',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Former_featured_articles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

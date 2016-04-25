@@ -1,0 +1,8 @@
+{ name: 'Nature Boy',
+  href: 'http://en.wikipedia.org/wiki/Nature_Boy',
+  mentions: 
+   [ { sectionHeader: 'Other versions',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 15301,
+       quote: [ 'In 1955, Miles Davis recorded the song with Charles Mingus as bassist.' ] } ] }

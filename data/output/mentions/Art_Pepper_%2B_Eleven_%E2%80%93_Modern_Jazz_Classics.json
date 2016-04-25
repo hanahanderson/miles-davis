@@ -1,0 +1,13 @@
+{ name: 'Art Pepper + Eleven – Modern Jazz Classics',
+  href: 'http://en.wikipedia.org/wiki/Art_Pepper_%2B_Eleven_%E2%80%93_Modern_Jazz_Classics',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1154,
+       quote: [ '"Donna Lee"  (Miles Davis) –3:23' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1154,
+       quote: [ '"Donna Lee"  (Miles Davis) –3:22' ] } ] }

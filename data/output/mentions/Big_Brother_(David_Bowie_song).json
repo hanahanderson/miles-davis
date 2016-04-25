@@ -1,0 +1,8 @@
+{ name: 'Big Brother (David Bowie song)',
+  href: 'http://en.wikipedia.org/wiki/Big_Brother_(David_Bowie_song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1018,
+       quote: [ 'The opening trumpet line, played on a Chamberlin, has been compared to Miles Davis\' Sketches of Spain.' ] } ] }

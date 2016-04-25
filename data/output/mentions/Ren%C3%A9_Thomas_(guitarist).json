@@ -1,0 +1,8 @@
+{ name: 'René Thomas (guitarist)',
+  href: 'http://en.wikipedia.org/wiki/Ren%C3%A9_Thomas_(guitarist)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 962,
+       quote: [ 'In the United States, René played with the best jazz musicians of that era: Stan Getz, Miles Davis, Toshiko Akiyoshi and Jackie McLean.' ] } ] }

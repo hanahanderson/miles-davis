@@ -1,0 +1,8 @@
+{ name: 'Talk:Swung note',
+  href: 'http://en.wikipedia.org/wiki/Talk:Swung_note',
+  mentions: 
+   [ { sectionHeader: 'Merge: Rosanna shuffle',
+       sectionSubHeader: 'Shuffle',
+       sectionIndex: 45,
+       wordCountBeforeSection: 8206,
+       quote: [ 'He did play with Miles Davis on occasion, but his influence is solidly in pop and rock.' ] } ] }

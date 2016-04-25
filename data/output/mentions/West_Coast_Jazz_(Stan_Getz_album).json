@@ -1,0 +1,8 @@
+{ name: 'West Coast Jazz (Stan Getz album)',
+  href: 'http://en.wikipedia.org/wiki/West_Coast_Jazz_(Stan_Getz_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1986,
+       quote: [ '"Four" (Miles Davis) - 7:32' ] } ] }

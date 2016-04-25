@@ -1,0 +1,4 @@
+{ name: 'Talk:La Santa Cecilia',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Talk:La_Santa_Cecilia',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

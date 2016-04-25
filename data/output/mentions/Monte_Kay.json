@@ -1,0 +1,13 @@
+{ name: 'Monte Kay',
+  href: 'http://en.wikipedia.org/wiki/Monte_Kay',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis, Herbie Mann, Stan Getz, Sonny Rollins, Modern Jazz Quartet, Flip Wilson' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 401,
+       quote: [ 'As the artistic director of the Royal Roost (a jazz venue on 52nd Street) he succeeded in persuading the owner, Ralph Watkins, to hire Miles Davis\' nonet - sometimes called the "Tuba Band" - with which Davis was pursuing a project that later was to be called Birth of the Cool, and which started the cool jazz movement.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Wynton Kelly!',
+  href: 'http://en.wikipedia.org/wiki/Wynton_Kelly!',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 612,
+       quote: [ 'Working a similar niche to some of the piano trio work of Red Garland and Ahmad Jamal — two pianists with their own associations with Miles Davis — Kelly takes a selection of well-known standards and energizes them with tasteful, sophisticated, snappy performances, blending in a group of original tunes along the way".' ] } ] }

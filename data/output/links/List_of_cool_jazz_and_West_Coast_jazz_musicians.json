@@ -1,0 +1,35 @@
+{ name: 'List of cool jazz and West Coast jazz musicians',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_cool_jazz_and_West_Coast_jazz_musicians',
+  values: 
+   { 'dbo:abstract': [ { value: 'List of cool jazz and West Coast jazz musicians and vocalists. (en)' } ],
+     'dbo:wikiPageID': [ { value: '12041460 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683837003 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_jazz_musicians' },
+        { value: 'dbc:Cool_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:Cool_jazz_musicians' },
+        { value: 'dbc:West_Coast_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:West_Coast_jazz_musicians' },
+        { value: 'dbc:West_Coast_jazz',
+          href: 'http://dbpedia.org/resource/Category:West_Coast_jazz' } ],
+     'rdfs:comment': [ { value: 'List of cool jazz and West Coast jazz musicians and vocalists. (en)' } ],
+     'rdfs:label': [ { value: 'List of cool jazz and West Coast jazz musicians (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of cool jazz and West Coast jazz musicians',
+          href: 'http://wikidata.dbpedia.org/resource/Q6613653' },
+        { value: 'wikidata:List of cool jazz and West Coast jazz musicians',
+          href: 'http://www.wikidata.org/entity/Q6613653' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_cool_jazz_and_West_Coast_jazz_musicians?oldid=683837003',
+          href: 'http://en.wikipedia.org/wiki/List_of_cool_jazz_and_West_Coast_jazz_musicians?oldid=683837003' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_cool_jazz_and_West_Coast_jazz_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_cool_jazz_and_West_Coast_jazz_musicians' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Cool_jazz_and_West_Coast_jazz_musicians',
+          href: 'http://dbpedia.org/resource/List_of_Cool_jazz_and_West_Coast_jazz_musicians' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_cool_jazz_and_West_Coast_jazz_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_cool_jazz_and_West_Coast_jazz_musicians' } ] } }

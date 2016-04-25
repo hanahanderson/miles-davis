@@ -1,0 +1,8 @@
+{ name: 'Music of Scotland',
+  href: 'http://en.wikipedia.org/wiki/Music_of_Scotland',
+  mentions: 
+   [ { sectionHeader: 'Pop, rock and fusion',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 16297,
+       quote: [ 'Bruce, as a member of Tony Williams Lifetime (along with John McLaughlin and Larry Young) on Emergency!, similarly contributed to a seminal jazz-rock work that predated Bitches Brew by Miles Davis.' ] } ] }

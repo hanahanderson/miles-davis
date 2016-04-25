@@ -1,0 +1,8 @@
+{ name: 'Rick Vandivier',
+  href: 'http://en.wikipedia.org/wiki/Rick_Vandivier',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2855,
+       quote: [ 'One of their musical pairings solidified into a group called Threesome with the well known bassist Benny Rietveld, best known for his work with Santana and Miles Davis.' ] } ] }

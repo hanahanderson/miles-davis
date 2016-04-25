@@ -1,0 +1,8 @@
+{ name: 'Led Zeppelin II',
+  href: 'http://en.wikipedia.org/wiki/Led_Zeppelin_II',
+  mentions: 
+   [ { sectionHeader: 'Packaging',
+       sectionSubHeader: 'Recording',
+       sectionIndex: 24,
+       wordCountBeforeSection: 9843,
+       quote: [ 'Other faces added, according to Juniper, were either Miles Davis or Blind Willie Johnson, a friend of Andy Warhol (possibly Mary Woronov) and astronaut Neil Armstrong, although it is actually fellow astronaut Frank Borman.' ] } ] }

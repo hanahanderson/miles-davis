@@ -1,0 +1,101 @@
+{ name: 'The Great Jazz Piano of Phineas Newborn Jr.',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '41.833333333333336' } ],
+     'dbo:abstract': [ { value: 'The Great Jazz Piano of Phineas Newborn Jr. is an album by American jazz pianist Phineas Newborn, Jr. recorded in 1961 and 1962 and released on the Contemporary label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Phineas_Newborn,_Jr.',
+          href: 'http://dbpedia.org/resource/Phineas_Newborn,_Jr.' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:A_World_of_Piano!',
+          href: 'http://dbpedia.org/resource/A_World_of_Piano!' } ],
+     'dbo:recordDate': 
+      [ { value: '1961-11-21 (xsd:date)' },
+        { value: '1962-09-12 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Contemporary_Records',
+          href: 'http://dbpedia.org/resource/Contemporary_Records' } ],
+     'dbo:runtime': [ { value: '2510.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Newborn_Touch',
+          href: 'http://dbpedia.org/resource/The_Newborn_Touch' } ],
+     'dbo:wikiPageID': [ { value: '3682454 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664416658 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Phineas_Newborn,_Jr.',
+          href: 'http://dbpedia.org/resource/Phineas_Newborn,_Jr.' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Phineas_Newborn,_Jr.',
+          href: 'http://dbpedia.org/resource/Phineas_Newborn,_Jr.' } ],
+     'dbp:cover': [ { value: 'The Great Jazz Piano of Phineas Newborn Jr.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Contemporary( M3611/S7611) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'A World of Piano! (en)' } ],
+     'dbp:length': [ { value: '2510.0' } ],
+     'dbp:name': [ { value: 'The Great Jazz Piano of Phineas Newborn Jr. (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Newborn Touch (en)' } ],
+     'dbp:producer': [ { value: 'Lester Koenig (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--11-21' },
+        { value: 'Contemporary Records Studio, Hollywood, CA (en)' } ],
+     'dbp:released': [ { value: '1962 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Great Jazz Piano of Phineas Newborn Jr. (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Phineas_Newborn,_Jr._albums',
+          href: 'http://dbpedia.org/resource/Category:Phineas_Newborn,_Jr._albums' },
+        { value: 'dbc:1963_albums',
+          href: 'http://dbpedia.org/resource/Category:1963_albums' },
+        { value: 'dbc:Contemporary_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Contemporary_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Great Jazz Piano of Phineas Newborn Jr. is an album by American jazz pianist Phineas Newborn, Jr. recorded in 1961 and 1962 and released on the Contemporary label. (en)' } ],
+     'rdfs:label': [ { value: 'The Great Jazz Piano of Phineas Newborn Jr. (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Great Jazz Piano of Phineas Newborn Jr.',
+          href: 'http://rdf.freebase.com/ns/m.024lm2z' },
+        { value: 'wikidata:The Great Jazz Piano of Phineas Newborn Jr.',
+          href: 'http://www.wikidata.org/entity/Q7737815' },
+        { value: 'dbpedia-wikidata:The Great Jazz Piano of Phineas Newborn Jr.',
+          href: 'http://wikidata.dbpedia.org/resource/Q7737815' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.?oldid=664416658',
+          href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.?oldid=664416658' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.',
+          href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.' } ],
+     'foaf:name': [ { value: 'The Great Jazz Piano of Phineas Newborn Jr. (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Newborn_Touch',
+          href: 'http://dbpedia.org/resource/The_Newborn_Touch' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:A_World_of_Piano!',
+          href: 'http://dbpedia.org/resource/A_World_of_Piano!' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:The_Great_Jazz_Piano_of_Phineas_Newborn,_Jr',
+          href: 'http://dbpedia.org/resource/The_Great_Jazz_Piano_of_Phineas_Newborn,_Jr' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.',
+          href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.' } ] } }

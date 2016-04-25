@@ -1,0 +1,13 @@
+{ name: 'User:Zsasnow/plus 4',
+  href: 'http://en.wikipedia.org/wiki/User:Zsasnow/plus_4',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3695,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3695,
+       quote: [] } ] }

@@ -1,0 +1,8 @@
+{ name: 'No More Mr. Nice Guy (Gang Starr album)',
+  href: 'http://en.wikipedia.org/wiki/No_More_Mr._Nice_Guy_(Gang_Starr_album)',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1747,
+       quote: [ '"A Night in Tunisia" by Charlie Parker and Miles Davis' ] } ] }

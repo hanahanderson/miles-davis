@@ -1,0 +1,28 @@
+{ name: 'Space Harp',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Space_Harp',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Space Harp, also known as a Frankiphone, is an electrified lamellophone invented by Phil Cohran as part of a musicological experiment exploring his African roots. He named it after his mother, Frankie. It was first recorded during his tenure with Sun Ra on his album "Angels and Demons at Play".Later recordings of the Frankiphone include his work in the 1960s with The Artistic Heritage Ensemble, now available on the album entitled On the Beach. This album consists of recordings of The Artistic Heritage Ensemble, which included a number of well known musicians including Don Myrick (horn player with Earth, Wind and Fire), Pete Cosey (guitarist with Miles Davis) and "Master" Henry Gibson (studio percussionist for Motown). Released in 2007, the entire album revolves around the rhythmic and harmonic stylings of the Frankiphone. (en)' } ],
+     'dbo:wikiPageID': [ { value: '18731587 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '550336538 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lamellophones',
+          href: 'http://dbpedia.org/resource/Category:Lamellophones' } ],
+     'rdfs:comment': [ { value: 'The Space Harp, also known as a Frankiphone, is an electrified lamellophone invented by Phil Cohran as part of a musicological experiment exploring his African roots. He named it after his mother, Frankie. It was first recorded during his tenure with Sun Ra on his album "Angels and Demons at Play".Later recordings of the Frankiphone include his work in the 1960s with The Artistic Heritage Ensemble, now available on the album entitled On the Beach. (en)' } ],
+     'rdfs:label': [ { value: 'Space Harp (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Space Harp',
+          href: 'http://rdf.freebase.com/ns/m.04gnk1f' },
+        { value: 'dbpedia-wikidata:Space Harp',
+          href: 'http://wikidata.dbpedia.org/resource/Q7572372' },
+        { value: 'wikidata:Space Harp',
+          href: 'http://www.wikidata.org/entity/Q7572372' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Space_Harp?oldid=550336538',
+          href: 'http://en.wikipedia.org/wiki/Space_Harp?oldid=550336538' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Space_Harp',
+          href: 'http://en.wikipedia.org/wiki/Space_Harp' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Space_Harp',
+          href: 'http://en.wikipedia.org/wiki/Space_Harp' } ] } }

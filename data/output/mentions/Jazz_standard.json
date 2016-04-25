@@ -1,0 +1,8 @@
+{ name: 'Jazz standard',
+  href: 'http://en.wikipedia.org/wiki/Jazz_standard',
+  mentions: 
+   [ { sectionHeader: '1950s and later',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 8133,
+       quote: [ 'Modal jazz recordings, such as Miles Davis\'s Kind of Blue, became popular in the late 1950s.' ] } ] }

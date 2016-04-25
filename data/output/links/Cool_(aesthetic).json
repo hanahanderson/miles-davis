@@ -1,0 +1,63 @@
+{ name: 'Cool (aesthetic)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Cool_(aesthetic)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Coolness is an admired aesthetic of attitude, behavior, comportment, appearance and style, influenced by and a product of the Zeitgeist. Because of the varied and changing connotations of cool, as well as its subjective nature, the word has no single meaning. It has associations of composure and self-control (cf. the OED definition) and often is used as an expression of admiration or approval.  Although commonly regarded as slang, it is widely used among disparate social groups, and has endured in usage for generations. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Timeline_of_cool.svg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Timeline_of_cool.svg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '18994400 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677365764 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Cultural_appropriation',
+          href: 'http://dbpedia.org/resource/Category:Cultural_appropriation' },
+        { value: 'dbc:Popular_culture',
+          href: 'http://dbpedia.org/resource/Category:Popular_culture' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'Coolness is an admired aesthetic of attitude, behavior, comportment, appearance and style, influenced by and a product of the Zeitgeist. Because of the varied and changing connotations of cool, as well as its subjective nature, the word has no single meaning. It has associations of composure and self-control (cf. the OED definition) and often is used as an expression of admiration or approval. (en)' } ],
+     'rdfs:label': [ { value: 'Cool (aesthetic) (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:Planned_obsolescence',
+          href: 'http://dbpedia.org/resource/Planned_obsolescence' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Cool (aesthetic)',
+          href: 'http://rdf.freebase.com/ns/m.071j9r' },
+        { value: 'dbpedia-fr:Cool (aesthetic)',
+          href: 'http://fr.dbpedia.org/resource/Cool_(attitude)' },
+        { value: 'dbpedia-de:Cool (aesthetic)',
+          href: 'http://de.dbpedia.org/resource/Cool' },
+        { value: 'dbpedia-wikidata:Cool (aesthetic)',
+          href: 'http://wikidata.dbpedia.org/resource/Q687900' },
+        { value: 'wikidata:Cool (aesthetic)',
+          href: 'http://www.wikidata.org/entity/Q687900' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Cool_(aesthetic)?oldid=677365764',
+          href: 'http://en.wikipedia.org/wiki/Cool_(aesthetic)?oldid=677365764' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Timeline_of_cool.svg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Timeline_of_cool.svg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Cool_(aesthetic)',
+          href: 'http://en.wikipedia.org/wiki/Cool_(aesthetic)' } ],
+     'is dbo:wikiPageDisambiguates\n of': [ { value: 'dbr:Cool', href: 'http://dbpedia.org/resource/Cool' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Cool_(slang)',
+          href: 'http://dbpedia.org/resource/Cool_(slang)' },
+        { value: 'dbr:Cool_people',
+          href: 'http://dbpedia.org/resource/Cool_people' },
+        { value: 'dbr:Coolest',
+          href: 'http://dbpedia.org/resource/Coolest' },
+        { value: 'dbr:Coolly',
+          href: 'http://dbpedia.org/resource/Coolly' },
+        { value: 'dbr:Coolness',
+          href: 'http://dbpedia.org/resource/Coolness' },
+        { value: 'dbr:Pretty_cool,_huh?',
+          href: 'http://dbpedia.org/resource/Pretty_cool,_huh%3F' },
+        { value: 'dbr:Uncool',
+          href: 'http://dbpedia.org/resource/Uncool' },
+        { value: 'dbr:🆒', href: 'http://dbpedia.org/resource/🆒' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Cool_(aesthetic)',
+          href: 'http://en.wikipedia.org/wiki/Cool_(aesthetic)' } ] } }

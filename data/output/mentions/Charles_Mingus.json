@@ -1,0 +1,13 @@
+{ name: 'Charles Mingus',
+  href: 'http://en.wikipedia.org/wiki/Charles_Mingus',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Pepper Adams, Jaki Byard, Miles Davis, Eric Dolphy, Duke Ellington, Jimmy Knepper, Charlie Parker, Don Pullen, Dannie Richmond, Max Roach, Jack Walrath' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 26,
+       wordCountBeforeSection: 13233,
+       quote: [ 'Even in a year of standout masterpieces, including Dave Brubeck\'s Time Out, Miles Davis\'s Kind of Blue, and Ornette Coleman\'s prophetic The Shape of Jazz to Come, this was a major achievement, featuring such classic Mingus compositions as "Goodbye Pork Pie Hat" (an elegy to Lester Young) and the vocal-less version of "Fables of Faubus" (a protest against segregationist Arkansas governor Orval E.' ] } ] }

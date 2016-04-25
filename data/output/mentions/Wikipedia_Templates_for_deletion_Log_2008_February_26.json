@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:Templates for deletion/Log/2008 February 26',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Templates_for_deletion/Log/2008_February_26',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 10830,
+       quote: [ 'Otherwise templates would proliferate on Jimi Hendrix and Miles Davis, and some templates will be disputed (or removed) as insufficiently relevant to the article topic. / edg ☺ ☭ 20:49, 26 February 2008 (UTC)\n\nCategories are not a good way to handle award-winners; there\'s a strong consensus that it is overcategorization to include all award-winners.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 10830,
+       quote: [ 'Comment - During my research of a mechanism that would meet Jazz artists\' articles readers and researchers as well as the Wikipedia architecture community, I came across a situation involving Miles Davis, a well recognized Jazz artist, that made me decide to bring it as an example for discussion here.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Frank Sinatra\'s recorded legacy',
+  href: 'http://en.wikipedia.org/wiki/Frank_Sinatra%27s_recorded_legacy',
+  mentions: 
+   [ { sectionHeader: 'Genres',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 5792,
+       quote: [ 'It is no accident that he would be Lester Young\'s ideal singer in the band Young had hoped to lead, nor that Miles Davis identified Sinatra\'s phrasing as an influence on his own.' ] } ] }

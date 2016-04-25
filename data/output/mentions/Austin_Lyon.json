@@ -1,0 +1,8 @@
+{ name: 'Austin Lyon',
+  href: 'http://en.wikipedia.org/wiki/Austin_Lyon',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 801,
+       quote: [ 'In 2014 it was announced that Lyon was joining the cast of the upcoming American biographical film Miles Ahead, directed by Don Cheadle and based on the life of jazz musician Miles Davis.' ] } ] }

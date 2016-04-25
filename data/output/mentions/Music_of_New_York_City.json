@@ -1,0 +1,8 @@
+{ name: 'Music of New York City',
+  href: 'http://en.wikipedia.org/wiki/Music_of_New_York_City',
+  mentions: 
+   [ { sectionHeader: 'Popular music',
+       sectionSubHeader: '',
+       sectionIndex: 56,
+       wordCountBeforeSection: 27441,
+       quote: [ 'The West Coast became a home for cool jazz, though the style\'s major innovator was New York-based Miles Davis.' ] } ] }

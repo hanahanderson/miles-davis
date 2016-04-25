@@ -1,0 +1,8 @@
+{ name: 'Shlomo Bar',
+  href: 'http://en.wikipedia.org/wiki/Shlomo_Bar',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1695,
+       quote: [ 'Bar\'s musical influences are broad, including Bob Dylan and Miles Davis on the one hand, and classical Indian music and Jewish liturgy on the other.' ] } ] }

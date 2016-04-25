@@ -1,0 +1,8 @@
+{ name: 'Three Pieces for Blues Band and Symphony Orchestra',
+  href: 'http://en.wikipedia.org/wiki/Three_Pieces_for_Blues_Band_and_Symphony_Orchestra',
+  mentions: 
+   [ { sectionHeader: 'Critical reception',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3697,
+       quote: [ 'If you like blues music, Leonard Bernstein\'s Mass, even something a bit more remote like the Sketches of Spain by Miles Davis, you will love these pieces blending the upbeat sound of a blues band with a symphony orchestra.' ] } ] }

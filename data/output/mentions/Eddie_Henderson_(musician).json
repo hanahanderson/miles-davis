@@ -1,0 +1,13 @@
+{ name: 'Eddie Henderson (musician)',
+  href: 'http://en.wikipedia.org/wiki/Eddie_Henderson_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 292,
+       quote: [ 'Henderson\'s influences include Booker Little, Clifford Brown, Woody Shaw and Miles Davis.' ] },
+     { sectionHeader: 'Family influence and early music history',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1470,
+       quote: [ 'Henderson was influenced by the early fusion work of jazz musician Miles Davis, who was a friend of his parents.' ] } ] }

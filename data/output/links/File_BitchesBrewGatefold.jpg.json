@@ -1,0 +1,12 @@
+{ name: 'File:BitchesBrewGatefold.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:BitchesBrewGatefold.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '2811190 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517753259 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:BitchesBrewGatefold.jpg?oldid=517753259',
+          href: 'http://en.wikipedia.org/wiki/File:BitchesBrewGatefold.jpg?oldid=517753259' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:BitchesBrewGatefold.jpg',
+          href: 'http://dbpedia.org/resource/File:BitchesBrewGatefold.jpg' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Winston E. Willis',
+  href: 'http://en.wikipedia.org/wiki/Winston_E._Willis',
+  mentions: 
+   [ { sectionHeader: 'Business Career (1958–1963)',
+       sectionSubHeader: '',
+       sectionIndex: 23,
+       wordCountBeforeSection: 9583,
+       quote: [ 'Willis approached such legendary jazz artists as Miles Davis, John Coltrane, Dizzie Gillespie, Herbie Hancock, Cannonball Adderley, The Ramsey Lewis Trio, and Dinah Washington and convinced them to come to Cleveland to appear at his club.' ] } ] }

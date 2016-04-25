@@ -1,0 +1,8 @@
+{ name: 'Pete Levin',
+  href: 'http://en.wikipedia.org/wiki/Pete_Levin',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2121,
+       quote: [ 'He has worked with a wide range of artists including Carla Bley, Brubeck Brothers, Hiram Bullock, Jimmy Cobb, Billy Cobham, Willie Colón, Miles Davis, Rachelle Farrell, Bryan Ferry, Gregory Hines, Thad Jones/Mel Lewis Band, Annie Lennox, Chuck Mangione, Charles Mingus, Gerry Mulligan, Jaco Pastorius, Robbie Robertson, Salt-n-Pepa, David Sanborn, John Scofield, Wayne Shorter, Paul Simon, Lew Soloff, Vanessa Williams, and Lenny White.' ] } ] }

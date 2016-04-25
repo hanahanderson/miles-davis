@@ -1,0 +1,44 @@
+{ name: 'List of deaths in rock and roll',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_deaths_in_rock_and_roll',
+  values: 
+   { 'dbo:abstract': [ { value: 'In the history of rock and roll  and rock music, there have been many notable deaths, many quite young but still leaving their mark on music. The following is a list of the names of many such figures, who have been associated with the genre as performers, producers, songwriters and other occupations, along with the date, cause of death, location, and age at time of death. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/HollyMonument.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/HollyMonument.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://thedeadrockstarsclub.com/deadrock.html',
+          href: 'http://thedeadrockstarsclub.com/deadrock.html' } ],
+     'dbo:wikiPageID': [ { value: '6596541 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683871741 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians' } ],
+     'rdfs:comment': [ { value: 'In the history of rock and roll  and rock music, there have been many notable deaths, many quite young but still leaving their mark on music. The following is a list of the names of many such figures, who have been associated with the genre as performers, producers, songwriters and other occupations, along with the date, cause of death, location, and age at time of death. (en)' } ],
+     'rdfs:label': [ { value: 'List of deaths in rock and roll (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-cs:List of deaths in rock and roll',
+          href: 'http://cs.dbpedia.org/resource/Seznam_úmrtí_v_rock_and_rollu' },
+        { value: 'dbpedia-wikidata:List of deaths in rock and roll',
+          href: 'http://wikidata.dbpedia.org/resource/Q129928' },
+        { value: 'wikidata:List of deaths in rock and roll',
+          href: 'http://www.wikidata.org/entity/Q129928' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_deaths_in_rock_and_roll?oldid=683871741',
+          href: 'http://en.wikipedia.org/wiki/List_of_deaths_in_rock_and_roll?oldid=683871741' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/HollyMonument.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/HollyMonument.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_deaths_in_rock_and_roll',
+          href: 'http://en.wikipedia.org/wiki/List_of_deaths_in_rock_and_roll' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_rock_and_roll_deaths',
+          href: 'http://dbpedia.org/resource/List_of_rock_and_roll_deaths' },
+        { value: 'dbr:List_of_Deaths_in_Rock_&_Roll',
+          href: 'http://dbpedia.org/resource/List_of_Deaths_in_Rock_&_Roll' },
+        { value: 'dbr:List_of_deaths_in_rock_n_roll',
+          href: 'http://dbpedia.org/resource/List_of_deaths_in_rock_n_roll' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_deaths_in_rock_and_roll',
+          href: 'http://en.wikipedia.org/wiki/List_of_deaths_in_rock_and_roll' } ] } }

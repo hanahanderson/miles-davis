@@ -1,0 +1,8 @@
+{ name: 'Ann Baker (singer)',
+  href: 'http://en.wikipedia.org/wiki/Ann_Baker_(singer)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 159,
+       quote: [ 'She is best known for her time spent as a member of Billy Eckstine\'s band, "The Dram Band" where she performed with Charlie Parker, Dizzy Gillespie, Dexter Gordon, Miles Davis and Art Blakey.' ] } ] }

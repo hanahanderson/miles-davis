@@ -1,0 +1,8 @@
+{ name: 'Gatefold',
+  href: 'http://en.wikipedia.org/wiki/Gatefold',
+  mentions: 
+   [ { sectionHeader: 'Notable gatefold releases',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2236,
+       quote: [ 'Miles Davis - Bitches Brew' ] } ] }

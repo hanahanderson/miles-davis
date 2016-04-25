@@ -1,0 +1,8 @@
+{ name: 'Portrait of Wes',
+  href: 'http://en.wikipedia.org/wiki/Portrait_of_Wes',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 1821,
+       quote: [ '"Freddie Freeloader" (Miles Davis) – 5:16' ] } ] }

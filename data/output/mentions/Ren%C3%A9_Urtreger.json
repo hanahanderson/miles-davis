@@ -1,0 +1,8 @@
+{ name: 'René Urtreger',
+  href: 'http://en.wikipedia.org/wiki/Ren%C3%A9_Urtreger',
+  mentions: 
+   [ { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 956,
+       quote: [ 'Again he collaborated with two jazz masters: Miles Davis and Lester Young.' ] } ] }

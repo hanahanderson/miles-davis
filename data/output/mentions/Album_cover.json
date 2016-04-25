@@ -1,0 +1,8 @@
+{ name: 'Album cover',
+  href: 'http://en.wikipedia.org/wiki/Album_cover',
+  mentions: 
+   [ { sectionHeader: 'Design',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6075,
+       quote: [ 'In addition to the examples mentioned previously, a number of world-renowned graphic artists and illustrators such as Ed Repka (Megadeth), Andy Warhol (The Velvet Underground, The Rolling Stones), Mati Klarwein (Santana, Miles Davis), H.' ] } ] }

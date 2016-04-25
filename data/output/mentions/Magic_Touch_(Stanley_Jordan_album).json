@@ -1,0 +1,8 @@
+{ name: 'Magic Touch (Stanley Jordan album)',
+  href: 'http://en.wikipedia.org/wiki/Magic_Touch_(Stanley_Jordan_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 965,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,105 @@
+{ name: 'Eat the Phikis',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Eat_the_Phikis',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '69.75' } ],
+     'dbo:abstract': [ { value: 'Eat the Phikis is the 1996 album by Italian rock band Elio e le Storie Tese, published after their second place finish at the Sanremo Music Festival 1996 with the song La terra dei cachi, a humorous take on Italian lifestyle.Eat the Phikis had a good commercial success in Italy, by keeping the first place in the best-selling album chart (FIMI) for four consecutive weeks. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Elio_e_le_Storie_Tese',
+          href: 'http://dbpedia.org/resource/Elio_e_le_Storie_Tese' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Rock_music',
+          href: 'http://dbpedia.org/resource/Rock_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Esco_dal_mio_corpo_e_ho_molta_paura:_Gli_inediti_1979–1986',
+          href: 'http://dbpedia.org/resource/Esco_dal_mio_corpo_e_ho_molta_paura:_Gli_inediti_1979–1986' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Sony_BMG',
+          href: 'http://dbpedia.org/resource/Sony_BMG' } ],
+     'dbo:runtime': [ { value: '4185.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Del_meglio_del_nostro_meglio_Vol._1',
+          href: 'http://dbpedia.org/resource/Del_meglio_del_nostro_meglio_Vol._1' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '7764931 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679518339 (xsd:integer)' } ],
+     'dbp:accessdate': [ { value: '2015-08-20 (xsd:date)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Elio_e_le_Storie_Tese',
+          href: 'http://dbpedia.org/resource/Elio_e_le_Storie_Tese' } ],
+     'dbp:class': [ { value: 'album (en)' } ],
+     'dbp:cover': [ { value: 'Eat_the_phikis.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Rock_music',
+          href: 'http://dbpedia.org/resource/Rock_music' } ],
+     'dbp:id': [ { value: 'mw0000423841 (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Sony_BMG',
+          href: 'http://dbpedia.org/resource/Sony_BMG' },
+        { value: 'Aspirine (en)' },
+        { value: 'Eat the Phikis (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Esco dal mio corpo e ho molta paura: Gli inediti 1979–1986 (en)' } ],
+     'dbp:length': [ { value: '4185.0' } ],
+     'dbp:name': [ { value: 'Eat the Phikis (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Del meglio del nostro meglio Vol. 1 (en)' } ],
+     'dbp:producer': [ { value: 'Otar Bolivecic (en)' } ],
+     'dbp:released': [ { value: '1996 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Eat the Phikis (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Italian-language_albums',
+          href: 'http://dbpedia.org/resource/Category:Italian-language_albums' },
+        { value: 'dbc:Elio_e_le_Storie_Tese_albums',
+          href: 'http://dbpedia.org/resource/Category:Elio_e_le_Storie_Tese_albums' },
+        { value: 'dbc:1996_albums',
+          href: 'http://dbpedia.org/resource/Category:1996_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Eat the Phikis is the 1996 album by Italian rock band Elio e le Storie Tese, published after their second place finish at the Sanremo Music Festival 1996 with the song La terra dei cachi, a humorous take on Italian lifestyle.Eat the Phikis had a good commercial success in Italy, by keeping the first place in the best-selling album chart (FIMI) for four consecutive weeks. (en)' } ],
+     'rdfs:label': [ { value: 'Eat the Phikis (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-it:Eat the Phikis',
+          href: 'http://it.dbpedia.org/resource/Eat_the_Phikis' },
+        { value: 'dbpedia-wikidata:Eat the Phikis',
+          href: 'http://wikidata.dbpedia.org/resource/Q3717826' },
+        { value: 'wikidata:Eat the Phikis',
+          href: 'http://www.wikidata.org/entity/Q3717826' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Eat_the_Phikis?oldid=679518339',
+          href: 'http://en.wikipedia.org/wiki/Eat_the_Phikis?oldid=679518339' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Eat_the_Phikis',
+          href: 'http://en.wikipedia.org/wiki/Eat_the_Phikis' } ],
+     'foaf:name': [ { value: 'Eat the Phikis (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Del_meglio_del_nostro_meglio_Vol._1',
+          href: 'http://dbpedia.org/resource/Del_meglio_del_nostro_meglio_Vol._1' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Esco_dal_mio_corpo_e_ho_molta_paura:_Gli_inediti_1979–1986',
+          href: 'http://dbpedia.org/resource/Esco_dal_mio_corpo_e_ho_molta_paura:_Gli_inediti_1979–1986' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Eat_the_phikis',
+          href: 'http://dbpedia.org/resource/Eat_the_phikis' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Eat_the_Phikis',
+          href: 'http://en.wikipedia.org/wiki/Eat_the_Phikis' } ] } }

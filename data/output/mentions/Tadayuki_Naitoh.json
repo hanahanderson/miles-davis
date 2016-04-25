@@ -1,0 +1,8 @@
+{ name: 'Tadayuki Naitoh',
+  href: 'http://en.wikipedia.org/wiki/Tadayuki_Naitoh',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 856,
+       quote: [ 'Outside Japan, Naitoh is perhaps best known for his photographs of Miles Davis, which include those used on the sleeves of the 1976 albums Pangaea and Agharta, and a limited edition CD release of Black Beauty: Live at the Fillmore West.' ] } ] }

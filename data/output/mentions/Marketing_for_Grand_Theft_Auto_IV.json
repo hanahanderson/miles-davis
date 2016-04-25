@@ -1,0 +1,8 @@
+{ name: 'Marketing for Grand Theft Auto IV',
+  href: 'http://en.wikipedia.org/wiki/Marketing_for_Grand_Theft_Auto_IV',
+  mentions: 
+   [ { sectionHeader: 'Trailers',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 6415,
+       quote: [ 'The song played in the TV spot was Miles Davis\'s Move' ] } ] }

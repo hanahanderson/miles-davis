@@ -1,0 +1,8 @@
+{ name: 'Bill Evans Trio with Symphony Orchestra',
+  href: 'http://en.wikipedia.org/wiki/Bill_Evans_Trio_with_Symphony_Orchestra',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2238,
+       quote: [ 'Miles Davis' ] } ] }

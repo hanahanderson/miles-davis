@@ -1,0 +1,8 @@
+{ name: 'User:Asbogle',
+  href: 'http://en.wikipedia.org/wiki/User:Asbogle',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 172,
+       quote: [ 'Jerry Garcia Jorma Kaukonen John Coltrane John Lennon Stevie Ray Vaughn Charlie Parker Miles Davis Bob Dylan Béla Fleck Warren Zevon Leo Kottke Frank Zappa Michael Balzary Widespread Panic Robert Randolph Townes Van Zandt Fleetwood Mac The Beatles Billy Joel' ] } ] }

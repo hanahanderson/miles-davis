@@ -1,0 +1,8 @@
+{ name: 'List of avant-garde artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_avant-garde_artists',
+  mentions: 
+   [ { sectionHeader: 'Avant Garde: Jazz, composers, performance artists',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 4241,
+       quote: [ 'Miles Davis (American jazz musician)' ] } ] }

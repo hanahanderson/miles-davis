@@ -1,0 +1,13 @@
+{ name: 'Sting (musician)',
+  href: 'http://en.wikipedia.org/wiki/Sting_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Musical career',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 8692,
+       quote: [ 'In 1985, Sting provided spoken vocals for the Miles Davis album You\'re Under Arrest, taking the role of a French-speaking police officer.' ] },
+     { sectionHeader: 'Musical career',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 8692,
+       quote: [] } ] }

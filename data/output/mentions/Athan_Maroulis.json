@@ -1,0 +1,8 @@
+{ name: 'Athan Maroulis',
+  href: 'http://en.wikipedia.org/wiki/Athan_Maroulis',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1400,
+       quote: [ 'Maroulis has also completed over 250 compact disc reissues, and has produced and written liner notes on collections such as Orson Welles and The War of the Worlds, as well as compilations from Billie Holiday, Marvin Gaye and Miles Davis.' ] } ] }

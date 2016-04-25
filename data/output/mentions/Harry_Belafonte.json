@@ -1,0 +1,8 @@
+{ name: 'Harry Belafonte',
+  href: 'http://en.wikipedia.org/wiki/Harry_Belafonte',
+  mentions: 
+   [ { sectionHeader: 'Music career',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 5080,
+       quote: [ 'The first time he appeared in front of an audience, he was backed by the Charlie Parker band, which included Charlie Parker himself, Max Roach and Miles Davis, among others.' ] } ] }

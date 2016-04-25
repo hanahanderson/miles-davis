@@ -1,0 +1,35 @@
+{ name: '2013 in poetry',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/2013_in_poetry',
+  values: 
+   { 'dbo:abstract': [ { value: 'This article presents lists of historical events in poetry during 2013. For the historical context see Poetry in the early 21st century.Nationality words link to articles with information on the nation\'s poetry or literature (for instance, Irish or France). (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://prairieschooner.unl.edu/?q=book-prize/current-winners',
+          href: 'http://prairieschooner.unl.edu/?q=book-prize/current-winners' },
+        { value: 'http://alicejamesbooks.org/past-winners/',
+          href: 'http://alicejamesbooks.org/past-winners/' },
+        { value: 'http://kundiman.org/prize/',
+          href: 'http://kundiman.org/prize/' } ],
+     'dbo:wikiPageID': [ { value: '38281128 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682747448 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2010s_in_poetry',
+          href: 'http://dbpedia.org/resource/Category:2010s_in_poetry' },
+        { value: 'dbc:2013_poems',
+          href: 'http://dbpedia.org/resource/Category:2013_poems' } ],
+     'rdfs:comment': [ { value: 'This article presents lists of historical events in poetry during 2013. For the historical context see Poetry in the early 21st century.Nationality words link to articles with information on the nation\'s poetry or literature (for instance, Irish or France). (en)' } ],
+     'rdfs:label': [ { value: '2013 in poetry (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:2013 in poetry',
+          href: 'http://wikidata.dbpedia.org/resource/Q4630153' },
+        { value: 'wikidata:2013 in poetry',
+          href: 'http://www.wikidata.org/entity/Q4630153' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:2013_in_poetry?oldid=682747448',
+          href: 'http://en.wikipedia.org/wiki/2013_in_poetry?oldid=682747448' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:2013_in_poetry',
+          href: 'http://en.wikipedia.org/wiki/2013_in_poetry' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:2013_in_poetry',
+          href: 'http://en.wikipedia.org/wiki/2013_in_poetry' } ] } }

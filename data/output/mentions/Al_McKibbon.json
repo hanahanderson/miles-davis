@@ -1,0 +1,8 @@
+{ name: 'Al McKibbon',
+  href: 'http://en.wikipedia.org/wiki/Al_McKibbon',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 355,
+       quote: [ 'In the 1950s he recorded with the Miles Davis nonet, Earl Hines, Count Basie, Johnny Hodges, Thelonious Monk, George Shearing, Cal Tjader, Herbie Nichols and Hawkins.' ] } ] }

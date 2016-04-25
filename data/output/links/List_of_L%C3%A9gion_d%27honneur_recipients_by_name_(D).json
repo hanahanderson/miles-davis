@@ -1,0 +1,36 @@
+{ name: 'List of Légion d\'honneur recipients by name (D)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_L%C3%A9gion_d%27honneur_recipients_by_name_(D)',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following people are recipients of the Légion d\'honneur (names with "D"): Antoine Thomson d\'Abbadie (1810-1897) French explorer, geographer, and astronomer Leon Dabo (1865–1960), American painter Edouard Daladier (1884–1970), Prime Minister of France Ahmad Hasan Dani (b. 1920), Pakistani archaeologist Barney Danson (b. 1921), Canadian World War II veteran, former Minister of Defense Robert Darnton (b. 1939), American cultural historian Raymond Daudel (1920–2006), French chemist Paul Davenport Athanase David Michel David-Weill Miles Davis Louis Nicolas Davout (1770–1823), Marshal of France Artin Dadyan Paşa    (1830–1901), Ministre of Foreign affairs of Ottoman Saro Dadyan Turkish   Ottoman Historian Marcel Déat Francois Debat (1785-1861) André Debry George W. Deckard (1896–2001), American World War I veteran Reza Deghati (b. 1952), Iranian-French photojournalist. Simone Del Duca Cino Del Duca Percival Alfred Delafield (1897-1999) UK recipient. Royal Engineers. Léon Delagrange, (1873–1910), French aviator Alain Delon Eugène Deloncle Gérard Depardieu Georges Descrières Catherine Destivelle Henri Deutsch de la Meurthe Louis Dewis Douglas Dickerson, World War II 82nd Airborne Veteran Joseph T. Dickman William Didier-Pouget, (1864–1959) French artist, named Chevalier de la Legion d\'Honneur in 1901, Officier de la Legion d\'Honneur in 1933 Celine Dion Walt Disney, American animator and filmmaker Do Cao Tri (1923–1971), General in the Army of the Republic of Vietnam (ARVN) Robert Doisneau (1912–1994), Photographer Douglas Dodds-Parker Arielle Dombasle (b. 1953), French actress,singer,producer Kees van Dongen William J. Donovan (1883–1959), American World War I veteran# Henri Lucien Doucet, French painter Kirk Douglas, American actor Mahmoud Dowlatabadi, Iranian writer Jacques Drabier, Pilot in the Free French Air Force during the Nazi Occupation Alfred Dreyfus Gustave Duclos René Ducourtieux (1924-2013), French NCO Army (1944–1962) Guy DuhouxLegion John Dunmore (b. 1923), New Zealand historian Alexandre Dumas, fils Dr. Allen B. Du Mont François Joseph Dumont, (1918-1997) Free French Air Force Jules Dumont d\'Urville Richard Saunders Dundas Anny Duperey Charles François Dupuis Durga Charan Rakshit, Indian Charles Durning (1923–2012) (en)' } ],
+     'dbo:wikiPageID': [ { value: '10756753 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '647848180 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_Légion_d\'honneur_recipients',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_Légion_d\'honneur_recipients' } ],
+     'rdfs:comment': [ { value: 'The following people are recipients of the Légion d\'honneur (names with "D"): Antoine Thomson d\'Abbadie (1810-1897) French explorer, geographer, and astronomer Leon Dabo (1865–1960), American painter Edouard Daladier (1884–1970), Prime Minister of France Ahmad Hasan Dani (b. 1920), Pakistani archaeologist Barney Danson (b. 1921), Canadian World War II veteran, former Minister of Defense Robert Darnton (b. (en)' } ],
+     'rdfs:label': [ { value: 'List of Légion d\'honneur recipients by name (D) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of Légion d\'honneur recipients by name (D)',
+          href: 'http://www.wikidata.org/entity/Q6577238' },
+        { value: 'dbpedia-wikidata:List of Légion d\'honneur recipients by name (D)',
+          href: 'http://wikidata.dbpedia.org/resource/Q6577238' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Légion_d\'honneur_recipients_by_name_(D)?oldid=647848180',
+          href: 'http://en.wikipedia.org/wiki/List_of_Légion_d\'honneur_recipients_by_name_(D)?oldid=647848180' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Légion_d\'honneur_recipients_by_name_(D)',
+          href: 'http://en.wikipedia.org/wiki/List_of_Légion_d\'honneur_recipients_by_name_(D)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Légion_d\'honneur_recipients_by_name_-_D',
+          href: 'http://dbpedia.org/resource/List_of_Légion_d\'honneur_recipients_by_name_-_D' },
+        { value: 'dbr:List_of_Legion_d\'honneur_recipients_by_name_-_D',
+          href: 'http://dbpedia.org/resource/List_of_Legion_d\'honneur_recipients_by_name_-_D' },
+        { value: 'dbr:List_of_Legion_d\'honneur_recipients_by_name_(D)',
+          href: 'http://dbpedia.org/resource/List_of_Legion_d\'honneur_recipients_by_name_(D)' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:List of Légion d\'honneur recipients by name (D)',
+          href: 'http://dbpedia.org/resource/List_of_L%C3%A9gion_d\'honneur_recipients_by_name_(D)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Légion_d\'honneur_recipients_by_name_(D)',
+          href: 'http://en.wikipedia.org/wiki/List_of_Légion_d\'honneur_recipients_by_name_(D)' } ] } }

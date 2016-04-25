@@ -1,0 +1,12 @@
+{ name: 'File:Birth of the Cool.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Birth_of_the_Cool.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '2187580 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517752480 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Birth_of_the_Cool.jpg?oldid=517752480',
+          href: 'http://en.wikipedia.org/wiki/File:Birth_of_the_Cool.jpg?oldid=517752480' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Birth_of_the_Cool.jpg',
+          href: 'http://dbpedia.org/resource/File:Birth_of_the_Cool.jpg' } ] } }

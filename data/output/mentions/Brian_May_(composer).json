@@ -1,0 +1,8 @@
+{ name: 'Brian May (composer)',
+  href: 'http://en.wikipedia.org/wiki/Brian_May_(composer)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 5374,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

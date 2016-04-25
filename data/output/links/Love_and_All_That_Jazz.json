@@ -1,0 +1,111 @@
+{ name: 'Love and All That Jazz',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Love_and_All_That_Jazz',
+  values: 
+   { 'dbo:abstract': [ { value: 'Love and All That Jazz is the second studio album by saxophonist Eric Kloss. It was recorded in 1966 and released on Prestige Records. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' },
+        { value: 'dbr:Richard_Holmes_(organist)',
+          href: 'http://dbpedia.org/resource/Richard_Holmes_(organist)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Introducing_Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Introducing_Eric_Kloss' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Cal_Lampley' } ],
+     'dbo:recordDate': [ { value: '1966-04-11 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Grits_&_Gravy',
+          href: 'http://dbpedia.org/resource/Grits_&_Gravy' } ],
+     'dbo:wikiPageID': [ { value: '39017192 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '634620400 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Eric Kloss with Don Patterson and Groove Holmes (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbp:cover': [ { value: 'Love and All That Jazz.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 7469 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Introducing Eric Kloss (en)' } ],
+     'dbp:name': [ { value: 'Love and All That Jazz (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Grits & Gravy (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Cal_Lampley' } ],
+     'dbp:recorded': 
+      [ { value: '--03-14' },
+        { value: 'Van Gelder Studio, Englewood Cliffs, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1966 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Love and All That Jazz (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Eric_Kloss_albums',
+          href: 'http://dbpedia.org/resource/Category:Eric_Kloss_albums' },
+        { value: 'dbc:1966_albums',
+          href: 'http://dbpedia.org/resource/Category:1966_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_produced_by_Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Cal_Lampley' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Love and All That Jazz is the second studio album by saxophonist Eric Kloss. It was recorded in 1966 and released on Prestige Records. (en)' } ],
+     'rdfs:label': [ { value: 'Love and All That Jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Love and All That Jazz',
+          href: 'http://rdf.freebase.com/ns/m.0sgh749' },
+        { value: 'wikidata:Love and All That Jazz',
+          href: 'http://www.wikidata.org/entity/Q17035652' },
+        { value: 'dbpedia-wikidata:Love and All That Jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q17035652' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Love_and_All_That_Jazz?oldid=634620400',
+          href: 'http://en.wikipedia.org/wiki/Love_and_All_That_Jazz?oldid=634620400' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Love_and_All_That_Jazz',
+          href: 'http://en.wikipedia.org/wiki/Love_and_All_That_Jazz' } ],
+     'foaf:name': [ { value: 'Love and All That Jazz (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Grits_&_Gravy',
+          href: 'http://dbpedia.org/resource/Grits_&_Gravy' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Introducing_Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Introducing_Eric_Kloss' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:All_That_Jazz',
+          href: 'http://dbpedia.org/resource/All_That_Jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Love_and_All_That_Jazz',
+          href: 'http://en.wikipedia.org/wiki/Love_and_All_That_Jazz' } ] } }

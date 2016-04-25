@@ -1,0 +1,8 @@
+{ name: 'Montreux II',
+  href: 'http://en.wikipedia.org/wiki/Montreux_II',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1838,
+       quote: [ 'Miles Davis' ] } ] }

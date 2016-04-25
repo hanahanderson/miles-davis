@@ -1,0 +1,8 @@
+{ name: 'Jean-Luc Ponty Experience with the George Duke Trio',
+  href: 'http://en.wikipedia.org/wiki/Jean-Luc_Ponty_Experience_with_the_George_Duke_Trio',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 885,
+       quote: [ 'Ponty was inspired by Miles Davis to explore this new fusion form, and is considered the first significant Jazz musician to record on the electric violin.' ] } ] }

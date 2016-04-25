@@ -1,0 +1,8 @@
+{ name: 'Baker\'s Keyboard Lounge',
+  href: 'http://en.wikipedia.org/wiki/Baker%27s_Keyboard_Lounge',
+  mentions: 
+   [ { sectionHeader: 'Notable performers and performances',
+       sectionSubHeader: 'Recent History',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4126,
+       quote: [ 'Many famous musicians, especially jazz musicians, have played in the club during its history, such as Louis Armstrong, John Coltrane, Oscar Peterson, Fats Waller, Meade Lux, Erroll Garner, Art Tatum, Pat Flowers, Nat King Cole, Ella Fitzgerald, Tommy Flanagan, George Shearing, Cab Calloway, Betty Carter, Gerry Mulligan, Sonny Stitt, Kenny Burrell, Barry Harris, Donald Byrd, Earl Klugh, Pepper Adams, and Miles Davis have all performed at the club.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Shack (band)',
+  href: 'http://en.wikipedia.org/wiki/Shack_(band)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3974,
+       quote: [ 'In May 2006 they released the album ...The Corner of Miles and Gil, which is named after two of the Head brothers\' heroes, Miles Davis and Gil Evans.' ] } ] }

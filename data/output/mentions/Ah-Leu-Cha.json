@@ -1,0 +1,13 @@
+{ name: 'Ah-Leu-Cha',
+  href: 'http://en.wikipedia.org/wiki/Ah-Leu-Cha',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Dizzy Gillespie, Miles Davis, Thelonious Monk, Charles Mingus, Archie Shepp, Art Farmer' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 518,
+       quote: [ 'The composition has been covered by numerous artists, including notable recordings by Dizzy Gillespie, Miles Davis, Thelonious Monk, Charles Mingus, Archie Shepp and Art Farmer.' ] } ] }

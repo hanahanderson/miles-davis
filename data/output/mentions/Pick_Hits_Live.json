@@ -1,0 +1,8 @@
+{ name: 'Pick Hits Live',
+  href: 'http://en.wikipedia.org/wiki/Pick_Hits_Live',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1043,
+       quote: [ 'Miles Davis' ] } ] }

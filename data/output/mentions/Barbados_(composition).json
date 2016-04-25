@@ -1,0 +1,8 @@
+{ name: 'Barbados (composition)',
+  href: 'http://en.wikipedia.org/wiki/Barbados_(composition)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Parker first recorded it on 29 August, 1948, with Miles Davis (trumpet), John Lewis (piano), Curly Russell (bass) and Max Roach (drums).' ] } ] }

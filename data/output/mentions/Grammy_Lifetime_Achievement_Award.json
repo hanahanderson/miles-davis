@@ -1,0 +1,8 @@
+{ name: 'Grammy Lifetime Achievement Award',
+  href: 'http://en.wikipedia.org/wiki/Grammy_Lifetime_Achievement_Award',
+  mentions: 
+   [ { sectionHeader: 'Lifetime Achievement Award recipients',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 522,
+       quote: [ 'Nat King Cole, Miles Davis, Vladimir Horowitz, Paul McCartney' ] } ] }

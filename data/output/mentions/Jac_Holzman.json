@@ -1,0 +1,8 @@
+{ name: 'Jac Holzman',
+  href: 'http://en.wikipedia.org/wiki/Jac_Holzman',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3572,
+       quote: [ 'Holzman is the father of Adam Holzman, a jazz-rock keyboardist who has played with Miles Davis; Jaclyn Easton, a writer and Internet entrepreneur; and Marin Sander-Holzman, an editor and filmmaker.' ] } ] }

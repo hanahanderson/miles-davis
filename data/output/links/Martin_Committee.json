@@ -1,0 +1,34 @@
+{ name: 'Martin Committee',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Martin_Committee',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Martin Committee was the premier trumpet of the Martin Band Instrument Company of Elkhart IN.   The firm produced band instruments, including trumpets, cornets, fluegelhorns, trombones, and saxophones beginning in 1908 and through the sixties.  The Martin Committee trumpets and saxophones were favorites of jazz musicians. (en)' } ],
+     'dbo:wikiPageID': [ { value: '3504577 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '665133531 (xsd:integer)' } ],
+     'dbp:auto': [ { value: 'yes (en)' } ],
+     'dbp:date': [ { value: 'December 2009 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Brass_instrument_manufacturing_companies',
+          href: 'http://dbpedia.org/resource/Category:Brass_instrument_manufacturing_companies' } ],
+     'rdfs:comment': [ { value: 'The Martin Committee was the premier trumpet of the Martin Band Instrument Company of Elkhart IN.   The firm produced band instruments, including trumpets, cornets, fluegelhorns, trombones, and saxophones beginning in 1908 and through the sixties.  The Martin Committee trumpets and saxophones were favorites of jazz musicians. (en)' } ],
+     'rdfs:label': [ { value: 'Martin Committee (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Martin Committee',
+          href: 'http://rdf.freebase.com/ns/m.09h44y' },
+        { value: 'dbpedia-de:Martin Committee',
+          href: 'http://de.dbpedia.org/resource/Martin_Committee' },
+        { value: 'dbpedia-it:Martin Committee',
+          href: 'http://it.dbpedia.org/resource/Martin_Committee' },
+        { value: 'dbpedia-wikidata:Martin Committee',
+          href: 'http://wikidata.dbpedia.org/resource/Q1397694' },
+        { value: 'wikidata:Martin Committee',
+          href: 'http://www.wikidata.org/entity/Q1397694' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Martin_Committee?oldid=665133531',
+          href: 'http://en.wikipedia.org/wiki/Martin_Committee?oldid=665133531' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Martin_Committee',
+          href: 'http://en.wikipedia.org/wiki/Martin_Committee' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Martin_Committee',
+          href: 'http://en.wikipedia.org/wiki/Martin_Committee' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Unusual types of gramophone records',
+  href: 'http://en.wikipedia.org/wiki/Unusual_types_of_gramophone_records',
+  mentions: 
+   [ { sectionHeader: 'Unusually long playing times',
+       sectionSubHeader: 'Microgrooved 78s',
+       sectionIndex: 29,
+       wordCountBeforeSection: 19934,
+       quote: [ 'Get Up with It — Miles Davis\' 1974 double album has a playtime of 64:07 on its longer disc (disc two).' ] } ] }

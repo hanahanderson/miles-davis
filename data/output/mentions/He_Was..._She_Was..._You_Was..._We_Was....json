@@ -1,0 +1,8 @@
+{ name: 'He Was... She Was... You Was... We Was...',
+  href: 'http://en.wikipedia.org/wiki/He_Was..._She_Was..._You_Was..._We_Was...',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 779,
+       quote: [ 'Jimi Hendrix / Miles Davis' ] } ] }

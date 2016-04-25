@@ -1,0 +1,8 @@
+{ name: 'Mark Ledford',
+  href: 'http://en.wikipedia.org/wiki/Mark_Ledford',
+  mentions: 
+   [ { sectionHeader: 'Music Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1461,
+       quote: [ 'In 1998, he released a solo album, Miles 2 Go, a tribute to Miles Davis.' ] } ] }

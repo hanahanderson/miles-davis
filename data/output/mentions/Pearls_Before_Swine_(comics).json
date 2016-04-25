@@ -1,0 +1,8 @@
+{ name: 'Pearls Before Swine (comics)',
+  href: 'http://en.wikipedia.org/wiki/Pearls_Before_Swine_(comics)',
+  mentions: 
+   [ { sectionHeader: 'Controversial strips',
+       sectionSubHeader: '',
+       sectionIndex: 73,
+       wordCountBeforeSection: 26815,
+       quote: [ 'The strip for November 9, 2003, featured a "\'Pearls\' Walk Through Alternative History." In it, the parents of musicians Wolfgang Amadeus Mozart, Miles Davis, and Paul McCartney are shown accepting medication for attention deficit hyperactivity disorder to give to their children.' ] } ] }

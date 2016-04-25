@@ -1,0 +1,8 @@
+{ name: 'Scott Henderson',
+  href: 'http://en.wikipedia.org/wiki/Scott_Henderson',
+  mentions: 
+   [ { sectionHeader: 'Early days',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 828,
+       quote: [ 'His formative musical years were spent listening to rock, blues, funk, and soul, while his interest in jazz developed later on, thanks to the music of John Coltrane, Miles Davis, and others.' ] } ] }

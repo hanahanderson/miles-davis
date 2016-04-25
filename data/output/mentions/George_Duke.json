@@ -1,0 +1,13 @@
+{ name: 'George Duke',
+  href: 'http://en.wikipedia.org/wiki/George_Duke',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4077,
+       quote: [ 'Duke served as a record producer and composer on two instrumental tracks on Miles Davis albums: "Backyard Ritual" (from Tutu, 1986) and "Cobra" (from Amandla, 1989).' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 58,
+       wordCountBeforeSection: 12242,
+       quote: [ 'With Miles Davis' ] } ] }

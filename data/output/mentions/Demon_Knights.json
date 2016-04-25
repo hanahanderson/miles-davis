@@ -1,0 +1,8 @@
+{ name: 'Demon Knights',
+  href: 'http://en.wikipedia.org/wiki/Demon_Knights',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 8409,
+       quote: [ 'Popmatters compared Paul Cornell\'s retro-modern style to a DJ, mixing the RZA and Miles Davis.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Traveling Miles',
+  href: 'http://en.wikipedia.org/wiki/Traveling_Miles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 523,
+       quote: [ 'Released on the Blue Note label in 1999, it is a tribute to Miles Davis, taking many of its cues from Davis\' catalog of recordings with Columbia Records.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 860,
+       quote: [ '"Run the Voodoo Down" (Miles Davis, Cassandra Wilson) – 4:36 *' ] } ] }

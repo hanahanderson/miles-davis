@@ -1,0 +1,8 @@
+{ name: 'Tomotaka Imamichi',
+  href: 'http://en.wikipedia.org/wiki/Tomotaka_Imamichi',
+  mentions: 
+   [ { sectionHeader: 'Musical career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1686,
+       quote: [ 'In celebration of what would have been John Lennon\'s 50th birthday, the event was the first large-scale charity event held in Japan and sought to promote environmental awareness through music, featuring various top international artists (including Miles Davis, Natalie Cole, Lenny Kravitz, and Hall & Oates) along with a number of famous Japanese artists such as Kiyoshiro Imawano, Haruomi Hosono and Yukihiro Takahashi, for a total of 29 performances.' ] } ] }

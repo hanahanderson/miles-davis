@@ -1,0 +1,8 @@
+{ name: 'List of minor planets named after people',
+  href: 'http://en.wikipedia.org/wiki/List_of_minor_planets_named_after_people',
+  mentions: 
+   [ { sectionHeader: 'Entertainment',
+       sectionSubHeader: '',
+       sectionIndex: 91,
+       wordCountBeforeSection: 42742,
+       quote: [ '5892 Milesdavis (Miles Davis, musician)' ] } ] }

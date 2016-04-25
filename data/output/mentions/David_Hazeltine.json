@@ -1,0 +1,8 @@
+{ name: 'David Hazeltine',
+  href: 'http://en.wikipedia.org/wiki/David_Hazeltine',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1173,
+       quote: [ 'He is particularly influenced by Parker, Rollins, Bud Powell and early Miles Davis.' ] } ] }

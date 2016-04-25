@@ -1,0 +1,8 @@
+{ name: 'Solar: Live at Sweet Basil',
+  href: 'http://en.wikipedia.org/wiki/Solar:_Live_at_Sweet_Basil',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 933,
+       quote: [] } ] }

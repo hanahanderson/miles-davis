@@ -1,0 +1,8 @@
+{ name: 'Jazz Is Dead',
+  href: 'http://en.wikipedia.org/wiki/Jazz_Is_Dead',
+  mentions: 
+   [ { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2306,
+       quote: [ 'Drms: Billy Cobham (Miles Davis, Mahavishnu Orchestra)' ] } ] }

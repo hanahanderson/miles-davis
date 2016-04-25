@@ -1,0 +1,8 @@
+{ name: 'In Memory of Elizabeth Reed',
+  href: 'http://en.wikipedia.org/wiki/In_Memory_of_Elizabeth_Reed',
+  mentions: 
+   [ { sectionHeader: 'Fillmore East recording',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3753,
+       quote: [ 'Parts of this solo would draw comparison to John Coltrane and his sheets of sound, other parts to Miles Davis\' classic Kind of Blue album.' ] } ] }

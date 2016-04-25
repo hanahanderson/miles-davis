@@ -1,0 +1,10 @@
+{ name: 'Russell family (Passions)',
+  href: 'http://en.wikipedia.org/wiki/Russell_family_(Passions)',
+  mentions: 
+   [ { sectionHeader: 'Minor characters',
+       sectionSubHeader: 'Liz Sanbourne (Amelia Marshall 2001–06)',
+       sectionIndex: 51,
+       wordCountBeforeSection: 21384,
+       quote: 
+        [ 'Miles Davis Harris-Crane is the eldest child of Chad Harris-Crane and Whitney Russell.',
+          'Miles is named after Miles Davis.' ] } ] }

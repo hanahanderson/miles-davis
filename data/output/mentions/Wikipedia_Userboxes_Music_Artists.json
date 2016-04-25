@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Userboxes/Music/Artists',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Userboxes/Music/Artists',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

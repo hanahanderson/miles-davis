@@ -1,0 +1,8 @@
+{ name: 'Kid A',
+  href: 'http://en.wikipedia.org/wiki/Kid_A',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 15450,
+       quote: [ 'Kid A is influenced by 1990s IDM artists Autechre and Aphex Twin, along with others on Warp Records; by Björk, particularly Homogenic, whose song "Unravel" was Yorke\'s favorite and is occasionally performed as an intro to "Everything in Its Right Place"; by 1970s Krautrock bands such as Can, Faust and Neu!; and by the jazz of Charles Mingus, Alice Coltrane and Miles Davis.' ] } ] }

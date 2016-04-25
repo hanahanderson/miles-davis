@@ -1,0 +1,113 @@
+{ name: 'David Geffen Hall',
+  entityType: 'List of concert halls',
+  href: 'http://dbpedia.org/page/David_Geffen_Hall',
+  values: 
+   { 'dbo:abstract': [ { value: 'David Geffen Hall is a concert hall in New York City\'s Lincoln Center for the Performing Arts complex on Manhattan\'s Upper West Side. The  2,738 seat auditorium opened in 1962, and is the home of the New York Philharmonic. The facility, designed by Max Abramovitz, was originally named Philharmonic Hall and was renamed Avery Fisher Hall in honor of philanthropist Avery Fisher, who donated $10.5 million to the orchestra in 1973.  In November 2014, Lincoln Center officials announced Fisher\'s name would be removed from the Hall so that naming rights could be sold to the highest bidder as part of a $500 million fund-raising campaign to refurbish the Hall. David Geffen has donated $100 million US dollars to rename the Hall after him. The facility was renamed David Geffen Hall in 2015. (en)' } ],
+     'dbo:address': [ { value: '10 Lincoln Center Plaza (en)' } ],
+     'dbo:location': 
+      [ { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Avery_Fisher_Hall_photo_D_Ramey_Logan.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Avery_Fisher_Hall_photo_D_Ramey_Logan.jpg?width=300' } ],
+     'dbo:type': 
+      [ { value: 'dbr:List_of_concert_halls',
+          href: 'http://dbpedia.org/resource/List_of_concert_halls' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.lcgreatperformers.org/',
+          href: 'http://www.lcgreatperformers.org/' },
+        { value: 'http://www.lincolncenter.org/venue/david-geffen-hall',
+          href: 'http://www.lincolncenter.org/venue/david-geffen-hall' } ],
+     'dbo:wikiPageID': [ { value: '956552 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683078748 (xsd:integer)' } ],
+     'dbp:address': [ { value: '10 (xsd:integer)' } ],
+     'dbp:formerNames': 
+      [ { value: 'Avery Fisher Hall (en)' },
+        { value: 'Philharmonic Hall (en)' } ],
+     'dbp:imageCaption': [ { value: 'View of the hall from the south (en)' } ],
+     'dbp:imageSize': [ { value: '300 (xsd:integer)' } ],
+     'dbp:location': 
+      [ { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbp:name': [ { value: 'David Geffen Hall (en)' } ],
+     'dbp:owner': 
+      [ { value: 'dbr:Lincoln_Center_for_the_Performing_Arts',
+          href: 'http://dbpedia.org/resource/Lincoln_Center_for_the_Performing_Arts' } ],
+     'dbp:publictransit': [ { value: 'Subway:\n*  to 66th Street – Lincoln Center\nBus:\n* (en)' } ],
+     'dbp:renovated': [ { value: '2019 (xsd:integer)' } ],
+     'dbp:seatingCapacity': [ { value: '2738 (xsd:integer)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:List_of_concert_halls',
+          href: 'http://dbpedia.org/resource/List_of_concert_halls' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Music_venues_in_Manhattan',
+          href: 'http://dbpedia.org/resource/Category:Music_venues_in_Manhattan' },
+        { value: 'dbc:Lincoln_Center',
+          href: 'http://dbpedia.org/resource/Category:Lincoln_Center' },
+        { value: 'dbc:Concert_halls_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Concert_halls_in_the_United_States' } ],
+     'georss:point': [ { value: '40.772777777777776 -73.98305555555555' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Place',
+          href: 'http://dbpedia.org/ontology/Place' },
+        { value: 'dbo:Location',
+          href: 'http://dbpedia.org/ontology/Location' },
+        { value: 'dbo:ArchitecturalStructure',
+          href: 'http://dbpedia.org/ontology/ArchitecturalStructure' },
+        { value: 'dbo:Venue',
+          href: 'http://dbpedia.org/ontology/Venue' },
+        { value: 'geo:SpatialThing',
+          href: 'http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing' },
+        { value: 'schema:Place', href: 'http://schema.org/Place' } ],
+     'rdfs:comment': [ { value: 'David Geffen Hall is a concert hall in New York City\'s Lincoln Center for the Performing Arts complex on Manhattan\'s Upper West Side. The  2,738 seat auditorium opened in 1962, and is the home of the New York Philharmonic. The facility, designed by Max Abramovitz, was originally named Philharmonic Hall and was renamed Avery Fisher Hall in honor of philanthropist Avery Fisher, who donated $10.5 million to the orchestra in 1973. (en)' } ],
+     'rdfs:label': [ { value: 'David Geffen Hall (en)' } ],
+     'geo:geometry': [ { value: 'POINT(-73.983055114746 40.772777557373)' } ],
+     'geo:lat': [ { value: '40.772778 (xsd:float)' } ],
+     'geo:long': [ { value: '-73.983055 (xsd:float)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:David_Geffen_Hall?oldid=683078748',
+          href: 'http://en.wikipedia.org/wiki/David_Geffen_Hall?oldid=683078748' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Avery_Fisher_Hall_photo_D_Ramey_Logan.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Avery_Fisher_Hall_photo_D_Ramey_Logan.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:David_Geffen_Hall',
+          href: 'http://en.wikipedia.org/wiki/David_Geffen_Hall' } ],
+     'foaf:name': 
+      [ { value: 'David Geffen Hall (en)' },
+        { value: 'Avery Fisher Hall (1973-2015) (en)' },
+        { value: 'Philharmonic Hall (1962-1973) (en)' } ],
+     'is dbo:recordedIn\n of': 
+      [ { value: 'dbr:It_Is_Time_for_Peter_Allen',
+          href: 'http://dbpedia.org/resource/It_Is_Time_for_Peter_Allen' },
+        { value: 'dbr:Four_&_More',
+          href: 'http://dbpedia.org/resource/Four_&_More' },
+        { value: 'dbr:To_Be_Young,_Gifted_and_Black',
+          href: 'http://dbpedia.org/resource/To_Be_Young,_Gifted_and_Black' },
+        { value: 'dbr:In_Concert_(Miles_Davis_album)',
+          href: 'http://dbpedia.org/resource/In_Concert_(Miles_Davis_album)' },
+        { value: 'dbr:Black_Gold_(Nina_Simone_album)',
+          href: 'http://dbpedia.org/resource/Black_Gold_(Nina_Simone_album)' },
+        { value: 'dbr:My_Funny_Valentine_(album)',
+          href: 'http://dbpedia.org/resource/My_Funny_Valentine_(album)' },
+        { value: 'dbr:The_Complete_Last_Concert',
+          href: 'http://dbpedia.org/resource/The_Complete_Last_Concert' },
+        { value: 'dbr:In_Concert_1972',
+          href: 'http://dbpedia.org/resource/In_Concert_1972' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Fisher_Hall',
+          href: 'http://dbpedia.org/resource/Fisher_Hall' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Avery_Fisher_Hall',
+          href: 'http://dbpedia.org/resource/Avery_Fisher_Hall' } ],
+     'is dbp:concertHall\n of': 
+      [ { value: 'dbr:New_York_Philharmonic',
+          href: 'http://dbpedia.org/resource/New_York_Philharmonic' } ],
+     'is dbp:knownFor\n of': 
+      [ { value: 'dbr:Avery_Fisher',
+          href: 'http://dbpedia.org/resource/Avery_Fisher' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:David_Geffen_Hall',
+          href: 'http://en.wikipedia.org/wiki/David_Geffen_Hall' } ] } }

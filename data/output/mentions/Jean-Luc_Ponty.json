@@ -1,0 +1,13 @@
+{ name: 'Jean-Luc Ponty',
+  href: 'http://en.wikipedia.org/wiki/Jean-Luc_Ponty',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1976,
+       quote: [ 'A growing interest in the jazz sounds of Miles Davis and John Coltrane compelled him to take up the tenor saxophone.' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'With other artists',
+       sectionIndex: 57,
+       wordCountBeforeSection: 15669,
+       quote: [ 'Miles Davis' ] } ] }

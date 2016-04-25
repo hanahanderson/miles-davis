@@ -1,0 +1,13 @@
+{ name: 'Return to Forever',
+  href: 'http://en.wikipedia.org/wiki/Return_to_Forever',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1514,
+       quote: [ 'After playing on Miles Davis\'s groundbreaking jazz-fusion albums In a Silent Way and Bitches Brew, Corea formed an avant-garde jazz band called Circle with Dave Holland, Anthony Braxton and Barry Altschul.' ] },
+     { sectionHeader: 'Jazz rock era (1973–1976)',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 4633,
+       quote: [ 'Lenny White (who had played with Corea in Miles Davis\'s band) replaced Gadd and Lewis on drums and percussion, and the group\'s third album, Hymn of the Seventh Galaxy (1973), was then rerecorded (the first recording, featuring Gadd on drums, was never released and has since disappeared).' ] } ] }

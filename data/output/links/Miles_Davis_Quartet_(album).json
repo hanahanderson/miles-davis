@@ -1,0 +1,105 @@
+{ name: 'Miles Davis Quartet (album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Miles_Davis_Quartet_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '28.15' } ],
+     'dbo:abstract': [ { value: 'Miles Davis Quartet (PRLP 161) is a 10 inch LP album by Miles Davis, released in 1954 by Prestige Records. The first four tracks that comprise Side 1 were recorded at New York\'s WOR Studios, on May 19, 1953. The last three, heard on Side 2, were recorded nearly a year later, at New York\'s Beltone Studios, on March 15, 1954.The May 19, 1953 session features bassist and composer Charles Mingus on one track, playing piano. This was to be Davis\' final studio session until he finally kicked his heroin habit for good nearly a year later.The March 15, 1954 session Davis was the second of two Davis recorded immediately after successfully quitting his heroin habit. He used exactly the same quartet he had also recorded with seven days earlier for his third Blue Note session, released as Miles Davis Volume 3 (BLP 5040). Davis says in his autobiography that he arranged the two sessions quickly after returning to New York, as he needed money fast, and both Blue Note\'s Alfred Lion and Prestige\'s Bob Weinstock had given him a fair chance earlier when his reputation was in decline. This was the beginning of a new three year contract with Prestige, which Davis would still be committed to when he signed a better deal with Columbia at the end of 1955.After the 10" LP format was discontinued, the seven tracks were all included on the 12" album Blue Haze (PRLP 7054).A vinyl reissue of the album in ten inch format was released for Record Store Day Black Friday, November 25, 2011. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Miles_Davis,_Volume_3',
+          href: 'http://dbpedia.org/resource/Miles_Davis,_Volume_3' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': 
+      [ { value: '1953-05-19 (xsd:date)' },
+        { value: '1954-03-15 (xsd:date)' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Beltone_Studios',
+          href: 'http://dbpedia.org/resource/Beltone_Studios' } ],
+     'dbo:runtime': [ { value: '1689.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Miles_Davis_All-Star_Sextet_(album)',
+          href: 'http://dbpedia.org/resource/Miles_Davis_All-Star_Sextet_(album)' } ],
+     'dbo:wikiPageID': [ { value: '42758571 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '621667876 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Miles_Davis' } ],
+     'dbp:cover': [ { value: 'MilesQuartet.jpg (en)' } ],
+     'dbp:genre': [ { value: 'Jazz (en)' } ],
+     'dbp:label': [ { value: 'Prestige (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Miles Davis Volume 3 (en)' } ],
+     'dbp:length': [ { value: '1689.0' } ],
+     'dbp:name': [ { value: 'Miles Davis Quartet (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Miles Davis All-Star Sextet (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '1953-05-19 (xsd:date)' },
+        { value: '1954-03-15 (xsd:date)' },
+        { value: 'WOR Studios, New York City (en)' },
+        { value: 'Beltone Studios, New York City (en)' } ],
+     'dbp:released': [ { value: '1954 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Miles Davis Quartet (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1954_albums',
+          href: 'http://dbpedia.org/resource/Category:1954_albums' },
+        { value: 'dbc:Miles_Davis_albums',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Miles Davis Quartet (PRLP 161) is a 10 inch LP album by Miles Davis, released in 1954 by Prestige Records. The first four tracks that comprise Side 1 were recorded at New York\'s WOR Studios, on May 19, 1953. The last three, heard on Side 2, were recorded nearly a year later, at New York\'s Beltone Studios, on March 15, 1954.The May 19, 1953 session features bassist and composer Charles Mingus on one track, playing piano. (en)' } ],
+     'rdfs:label': [ { value: 'Miles Davis Quartet (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-it:Miles Davis Quartet (album)',
+          href: 'http://it.dbpedia.org/resource/Miles_Davis_Quartet' },
+        { value: 'dbpedia-wikidata:Miles Davis Quartet (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q3857859' },
+        { value: 'freebase:Miles Davis Quartet (album)',
+          href: 'http://rdf.freebase.com/ns/m.010lr34v' },
+        { value: 'wikidata:Miles Davis Quartet (album)',
+          href: 'http://www.wikidata.org/entity/Q3857859' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Miles_Davis_Quartet_(album)?oldid=621667876',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_Quartet_(album)?oldid=621667876' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Miles_Davis_Quartet_(album)',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_Quartet_(album)' } ],
+     'foaf:name': [ { value: 'Miles Davis Quartet (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Miles_Davis_All-Star_Sextet_(album)',
+          href: 'http://dbpedia.org/resource/Miles_Davis_All-Star_Sextet_(album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Miles_Davis,_Volume_3',
+          href: 'http://dbpedia.org/resource/Miles_Davis,_Volume_3' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Miles_Davis_Quartet',
+          href: 'http://dbpedia.org/resource/Miles_Davis_Quartet' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Miles_Davis_Quartet_(album)',
+          href: 'http://en.wikipedia.org/wiki/Miles_Davis_Quartet_(album)' } ] } }

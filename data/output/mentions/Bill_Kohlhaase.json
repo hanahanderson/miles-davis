@@ -1,0 +1,8 @@
+{ name: 'Bill Kohlhaase',
+  href: 'http://en.wikipedia.org/wiki/Bill_Kohlhaase',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'He is best known for his work over decades for the Los Angeles Times and acquired a good reputation as a jazz journalist, interviewing and reviewing a number of top jazz musicians such as Miles Davis\'s band.' ] } ] }

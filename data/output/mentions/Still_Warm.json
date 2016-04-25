@@ -1,0 +1,13 @@
+{ name: 'Still Warm',
+  href: 'http://en.wikipedia.org/wiki/Still_Warm',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 447,
+       quote: [ 'The album was his second on Gramavision, and was recorded while Scofield was still in Miles Davis\'s band or just leaving it; he used two of the musicians from Davis\'s band, Omar Hakim and Darryl Jones.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1712,
+       quote: [ 'Miles Davis' ] } ] }

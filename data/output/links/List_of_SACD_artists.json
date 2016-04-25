@@ -1,0 +1,28 @@
+{ name: 'List of SACD artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_SACD_artists',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of some artists whose new or back catalog recordings have been released on high-resolution Super Audio CD (SACD). SACD is a high fidelity format that allows four times greater audio bit rate than Compact Disc for stereo recordings, and allows surround sound recordings. According to SA-CD.net, there are over 6200 titles released on SACD, with a little more than half being classical music. (en)' } ],
+     'dbo:wikiPageID': [ { value: '22902285 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '653806705 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians' },
+        { value: 'dbc:Compact_disc',
+          href: 'http://dbpedia.org/resource/Category:Compact_disc' } ],
+     'rdfs:comment': [ { value: 'This is a list of some artists whose new or back catalog recordings have been released on high-resolution Super Audio CD (SACD). SACD is a high fidelity format that allows four times greater audio bit rate than Compact Disc for stereo recordings, and allows surround sound recordings. According to SA-CD.net, there are over 6200 titles released on SACD, with a little more than half being classical music. (en)' } ],
+     'rdfs:label': [ { value: 'List of SACD artists (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of SACD artists',
+          href: 'http://wikidata.dbpedia.org/resource/Q6596136' },
+        { value: 'wikidata:List of SACD artists',
+          href: 'http://www.wikidata.org/entity/Q6596136' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_SACD_artists?oldid=653806705',
+          href: 'http://en.wikipedia.org/wiki/List_of_SACD_artists?oldid=653806705' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_SACD_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_SACD_artists' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_SACD_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_SACD_artists' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Chris Burnett',
+  href: 'http://en.wikipedia.org/wiki/Chris_Burnett',
+  mentions: 
+   [ { sectionHeader: 'Music Education and Artistic Motivations',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 7778,
+       quote: [ 'Initially influenced by the work of saxophonists Charlie Parker, John Coltrane, Cannonball Adderley and the styling’s of trumpeter, Miles Davis; Burnett has also performed and been influenced by many other artists and styles of music beyond the genre of jazz.' ] } ] }

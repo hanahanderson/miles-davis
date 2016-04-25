@@ -1,0 +1,8 @@
+{ name: '1955 in music',
+  href: 'http://en.wikipedia.org/wiki/1955_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 7432,
+       quote: [ 'Blue Moods – Miles Davis' ] } ] }

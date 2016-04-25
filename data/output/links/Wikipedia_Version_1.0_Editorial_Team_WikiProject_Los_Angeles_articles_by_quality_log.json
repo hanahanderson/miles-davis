@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Version 1.0 Editorial Team/WikiProject Los Angeles articles by quality log',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Version_1.0_Editorial_Team/WikiProject_Los_Angeles_articles_by_quality_log',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

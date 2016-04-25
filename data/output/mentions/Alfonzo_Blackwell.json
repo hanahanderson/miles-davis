@@ -1,0 +1,8 @@
+{ name: 'Alfonzo Blackwell',
+  href: 'http://en.wikipedia.org/wiki/Alfonzo_Blackwell',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3933,
+       quote: [ 'Throughout his musical career, Blackwell has always made it a priority to pay tribute to jazz greats who came before him and inspired him by recording his own renditions of such classics as Quincy Jones\' production of "Killer Joe", George Benson\'s "Breezin\'", John Coltrane\'s take on "My Favorite Things" and Miles Davis\' "All Blues".' ] } ] }

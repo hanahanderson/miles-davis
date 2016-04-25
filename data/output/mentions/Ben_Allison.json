@@ -1,0 +1,8 @@
+{ name: 'Ben Allison',
+  href: 'http://en.wikipedia.org/wiki/Ben_Allison',
+  mentions: 
+   [ { sectionHeader: 'Professional career',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 5624,
+       quote: [ 'Previous recipients include Miles Davis, Art Blakey, Pat Metheny, Stefano Bollani, Ray Brown, Ornette Coleman, Sonny Rollins, Christian Scott, Joe Zawinul, Misha Mengelberg, and Han Bennick, among others.' ] } ] }

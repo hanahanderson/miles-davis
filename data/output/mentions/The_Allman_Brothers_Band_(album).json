@@ -1,0 +1,10 @@
+{ name: 'The Allman Brothers Band (album)',
+  href: 'http://en.wikipedia.org/wiki/The_Allman_Brothers_Band_(album)',
+  mentions: 
+   [ { sectionHeader: 'Composition',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 11889,
+       quote: 
+        [ 'Trucks introduced Johnson to the Grateful Dead and the Rolling Stones; Johnson likewise introduced the group to jazz musicians such as Miles Davis and John Coltrane, and Betts did the same with country music and Chuck Berry.',
+          'Duane Allman had previously listened to Davis and Coltrane before Johnson\'s suggestion, and his two favorite songs — Coltrane\'s version of "My Favorite Things" and Miles Davis\' "All Blues" — were the basis for the majority of the band\'s modal jamming, "without a lot of chord changes."' ] } ] }

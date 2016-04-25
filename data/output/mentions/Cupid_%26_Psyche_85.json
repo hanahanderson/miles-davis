@@ -1,0 +1,8 @@
+{ name: 'Cupid & Psyche 85',
+  href: 'http://en.wikipedia.org/wiki/Cupid_%26_Psyche_85',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 912,
+       quote: [ 'Miles Davis covered it on his 1986 album Tutu.' ] } ] }

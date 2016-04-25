@@ -1,0 +1,49 @@
+{ name: 'Lydian Chromatic Concept of Tonal Organization',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Lydian_Chromatic_Concept_of_Tonal_Organization',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Lydian Chromatic Concept of Tonal Organization is a 1953 jazz music theory book written by George Russell. The book is the founding text of the Lydian Chromatic Concept (LCC), or Lydian Chromatic Theory (LCT). Russell\'s work postulates that all music is based on the tonal gravity of the Lydian mode. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Lydian_mode_C.png?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lydian_mode_C.png?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.lydianchromaticconcept.com/main.html',
+          href: 'http://www.lydianchromaticconcept.com/main.html' } ],
+     'dbo:wikiPageID': [ { value: '31424549 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '644066509 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1953_books',
+          href: 'http://dbpedia.org/resource/Category:1953_books' },
+        { value: 'dbc:Jazz_books',
+          href: 'http://dbpedia.org/resource/Category:Jazz_books' },
+        { value: 'dbc:Jazz_music_education',
+          href: 'http://dbpedia.org/resource/Category:Jazz_music_education' } ],
+     'rdfs:comment': [ { value: 'The Lydian Chromatic Concept of Tonal Organization is a 1953 jazz music theory book written by George Russell. The book is the founding text of the Lydian Chromatic Concept (LCC), or Lydian Chromatic Theory (LCT). Russell\'s work postulates that all music is based on the tonal gravity of the Lydian mode. (en)' } ],
+     'rdfs:label': [ { value: 'Lydian Chromatic Concept of Tonal Organization (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Lydian Chromatic Concept of Tonal Organization',
+          href: 'http://rdf.freebase.com/ns/m.0gkxst5' },
+        { value: 'dbpedia-ja:Lydian Chromatic Concept of Tonal Organization',
+          href: 'http://ja.dbpedia.org/resource/リディアン・クロマティック・コンセプト' },
+        { value: 'dbpedia-wikidata:Lydian Chromatic Concept of Tonal Organization',
+          href: 'http://wikidata.dbpedia.org/resource/Q6707707' },
+        { value: 'wikidata:Lydian Chromatic Concept of Tonal Organization',
+          href: 'http://www.wikidata.org/entity/Q6707707' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Lydian_Chromatic_Concept_of_Tonal_Organization?oldid=644066509',
+          href: 'http://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization?oldid=644066509' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Lydian_mode_C.png',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Lydian_mode_C.png' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Lydian_Chromatic_Concept_of_Tonal_Organization',
+          href: 'http://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization' } ],
+     'is dbo:wikiPageDisambiguates\n of': [ { value: 'dbr:LCC', href: 'http://dbpedia.org/resource/LCC' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Lydian_chromatic_concept_of_tonal_organization',
+          href: 'http://dbpedia.org/resource/Lydian_chromatic_concept_of_tonal_organization' },
+        { value: 'dbr:The_Lydian_Chromatic_Concept_of_Tonal_Organization',
+          href: 'http://dbpedia.org/resource/The_Lydian_Chromatic_Concept_of_Tonal_Organization' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Lydian_Chromatic_Concept_of_Tonal_Organization',
+          href: 'http://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization' } ] } }

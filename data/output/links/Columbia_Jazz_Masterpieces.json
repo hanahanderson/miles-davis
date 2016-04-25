@@ -1,0 +1,34 @@
+{ name: 'Columbia Jazz Masterpieces',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Columbia_Jazz_Masterpieces',
+  values: 
+   { 'dbo:abstract': [ { value: 'Columbia Jazz Masterpieces was a series of Jazz CD and LP reissues from Columbia Records circa 1990.   Written inside the blue box used on all the album covers "Digitally Remastered Directly from the Original Analog Tapes." (en)' } ],
+     'dbo:wikiPageID': [ { value: '35717674 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '629583433 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_record_labels',
+          href: 'http://dbpedia.org/resource/Category:American_record_labels' },
+        { value: 'dbc:Columbia_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Columbia_Records_albums' },
+        { value: 'dbc:CBS_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:CBS_Records_albums' },
+        { value: 'dbc:Jazz_record_labels',
+          href: 'http://dbpedia.org/resource/Category:Jazz_record_labels' } ],
+     'rdfs:comment': [ { value: 'Columbia Jazz Masterpieces was a series of Jazz CD and LP reissues from Columbia Records circa 1990.   Written inside the blue box used on all the album covers "Digitally Remastered Directly from the Original Analog Tapes." (en)' } ],
+     'rdfs:label': [ { value: 'Columbia Jazz Masterpieces (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Columbia Jazz Masterpieces',
+          href: 'http://rdf.freebase.com/ns/m.0jt6nd7' },
+        { value: 'wikidata:Columbia Jazz Masterpieces',
+          href: 'http://www.wikidata.org/entity/Q5149742' },
+        { value: 'dbpedia-wikidata:Columbia Jazz Masterpieces',
+          href: 'http://wikidata.dbpedia.org/resource/Q5149742' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Columbia_Jazz_Masterpieces?oldid=629583433',
+          href: 'http://en.wikipedia.org/wiki/Columbia_Jazz_Masterpieces?oldid=629583433' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Columbia_Jazz_Masterpieces',
+          href: 'http://en.wikipedia.org/wiki/Columbia_Jazz_Masterpieces' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Columbia_Jazz_Masterpieces',
+          href: 'http://en.wikipedia.org/wiki/Columbia_Jazz_Masterpieces' } ] } }

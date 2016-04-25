@@ -1,0 +1,8 @@
+{ name: 'The Soulful Strings',
+  href: 'http://en.wikipedia.org/wiki/The_Soulful_Strings',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3376,
+       quote: [ 'Among the other songs on the LP were covers of the Beatles\' Indian-styled "Within You Without You", Miles Davis\'s "All Blues" and the Temptations\' "(I Know) I\'m Losing You".' ] } ] }

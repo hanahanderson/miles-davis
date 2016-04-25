@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject Illinois',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_Illinois',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

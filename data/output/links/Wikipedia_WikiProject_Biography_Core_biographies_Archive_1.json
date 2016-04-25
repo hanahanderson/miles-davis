@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject Biography/Core biographies/Archive 1',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_Biography/Core_biographies/Archive_1',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

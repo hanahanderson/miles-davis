@@ -1,0 +1,13 @@
+{ name: 'Affinity (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Affinity_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1024,
+       quote: [ '"Blue in Green" (Miles Davis, Bill Evans) – 4:09' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 2061,
+       quote: [ 'Miles Davis' ] } ] }

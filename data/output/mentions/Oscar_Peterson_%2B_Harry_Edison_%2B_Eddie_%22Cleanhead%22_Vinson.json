@@ -1,0 +1,8 @@
+{ name: 'Oscar Peterson + Harry Edison + Eddie "Cleanhead" Vinson',
+  href: 'http://en.wikipedia.org/wiki/Oscar_Peterson_%2B_Harry_Edison_%2B_Eddie_%22Cleanhead%22_Vinson',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 843,
+       quote: [ '"This One\'s for Jaws" (Miles Davis, Harry "Sweets" Edison) – 4:53' ] } ] }

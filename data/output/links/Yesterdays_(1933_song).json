@@ -1,0 +1,97 @@
+{ name: 'Yesterdays (1933 song)',
+  entityType: 'musical work',
+  href: 'http://dbpedia.org/page/Yesterdays_(1933_song)',
+  values: 
+   { 'dbo:abstract': [ { value: '"Yesterdays" is a 1933 song composed by Jerome Kern, with lyrics by Otto Harbach.It was written for the show Roberta (1933), where it was introduced by Fay Templeton. The song was soon picked up by jazz musicians and has since gone on to become one of the top jazz standards. JazzStandards.com (see "External links" below) ranks it ninth among all jazz standards, in terms of being "included most often on currently issued CDs by the greatest number of jazz artists."Irene Dunne performed the song in the film version Roberta (1935).Barbra Streisand performed the song in her TV special Color Me Barbra and included a recording on her album Color Me Barbra (1966). (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Jerome_Kern',
+          href: 'http://dbpedia.org/resource/Jerome_Kern' } ],
+     'dbo:composer': 
+      [ { value: 'dbr:Jerome_Kern',
+          href: 'http://dbpedia.org/resource/Jerome_Kern' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.jazzstandards.com/compositions-0/yesterdays.htm',
+          href: 'http://www.jazzstandards.com/compositions-0/yesterdays.htm' } ],
+     'dbo:wikiPageID': [ { value: '12018809 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '661614407 (xsd:integer)' } ],
+     'dbo:writer': 
+      [ { value: 'dbr:Otto_Harbach',
+          href: 'http://dbpedia.org/resource/Otto_Harbach' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Jerome_Kern',
+          href: 'http://dbpedia.org/resource/Jerome_Kern' } ],
+     'dbp:composer': 
+      [ { value: 'dbr:Jerome_Kern',
+          href: 'http://dbpedia.org/resource/Jerome_Kern' } ],
+     'dbp:name': [ { value: 'Yesterdays (en)' } ],
+     'dbp:published': [ { value: '1933 (xsd:integer)' } ],
+     'dbp:writer': 
+      [ { value: 'dbr:Otto_Harbach',
+          href: 'http://dbpedia.org/resource/Otto_Harbach' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1933_songs',
+          href: 'http://dbpedia.org/resource/Category:1933_songs' },
+        { value: 'dbc:1930s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1930s_jazz_standards' },
+        { value: 'dbc:Jazz_compositions_in_C_minor',
+          href: 'http://dbpedia.org/resource/Category:Jazz_compositions_in_C_minor' },
+        { value: 'dbc:Carmen_McRae_songs',
+          href: 'http://dbpedia.org/resource/Category:Carmen_McRae_songs' },
+        { value: 'dbc:Barbra_Streisand_songs',
+          href: 'http://dbpedia.org/resource/Category:Barbra_Streisand_songs' },
+        { value: 'dbc:Songs_with_lyrics_by_Otto_Harbach',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_lyrics_by_Otto_Harbach' },
+        { value: 'dbc:Songs_with_music_by_Jerome_Kern',
+          href: 'http://dbpedia.org/resource/Category:Songs_with_music_by_Jerome_Kern' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Song', href: 'http://dbpedia.org/ontology/Song' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicRecording',
+          href: 'http://schema.org/MusicRecording' } ],
+     'rdfs:comment': [ { value: '"Yesterdays" is a 1933 song composed by Jerome Kern, with lyrics by Otto Harbach.It was written for the show Roberta (1933), where it was introduced by Fay Templeton. The song was soon picked up by jazz musicians and has since gone on to become one of the top jazz standards. (en)' } ],
+     'rdfs:label': [ { value: 'Yesterdays (1933 song) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Yesterdays (1933 song)',
+          href: 'http://rdf.freebase.com/ns/m.02vm32z' },
+        { value: 'dbpedia-de:Yesterdays (1933 song)',
+          href: 'http://de.dbpedia.org/resource/Yesterdays_(Lied)' },
+        { value: 'dbpedia-wikidata:Yesterdays (1933 song)',
+          href: 'http://wikidata.dbpedia.org/resource/Q1509880' },
+        { value: 'wikidata:Yesterdays (1933 song)',
+          href: 'http://www.wikidata.org/entity/Q1509880' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Yesterdays_(1933_song)?oldid=661614407',
+          href: 'http://en.wikipedia.org/wiki/Yesterdays_(1933_song)?oldid=661614407' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Yesterdays_(1933_song)',
+          href: 'http://en.wikipedia.org/wiki/Yesterdays_(1933_song)' } ],
+     'foaf:name': [ { value: 'Yesterdays (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Yesterday',
+          href: 'http://dbpedia.org/resource/Yesterday' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Yesterdays_(Otto_Harbach_and_Jerome_Kern_song)',
+          href: 'http://dbpedia.org/resource/Yesterdays_(Otto_Harbach_and_Jerome_Kern_song)' },
+        { value: 'dbr:Yesterdays_(jazz_standard)',
+          href: 'http://dbpedia.org/resource/Yesterdays_(jazz_standard)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:The_Way_I_Feel_Today_(Stan_Ridgway_album)',
+          href: 'http://dbpedia.org/resource/The_Way_I_Feel_Today_(Stan_Ridgway_album)' },
+        { value: 'dbr:The_Complete_Live_at_the_Plugged_Nickel_1965',
+          href: 'http://dbpedia.org/resource/The_Complete_Live_at_the_Plugged_Nickel_1965' },
+        { value: 'dbr:More_Than_Words_Can_Say_(album)',
+          href: 'http://dbpedia.org/resource/More_Than_Words_Can_Say_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Yesterdays_(1933_song)',
+          href: 'http://en.wikipedia.org/wiki/Yesterdays_(1933_song)' } ] } }

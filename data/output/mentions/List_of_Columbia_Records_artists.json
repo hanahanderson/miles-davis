@@ -1,0 +1,8 @@
+{ name: 'List of Columbia Records artists',
+  href: 'http://en.wikipedia.org/wiki/List_of_Columbia_Records_artists',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 5146,
+       quote: [ 'Miles Davis' ] } ] }

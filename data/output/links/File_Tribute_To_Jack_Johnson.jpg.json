@@ -1,0 +1,12 @@
+{ name: 'File:Tribute To Jack Johnson.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Tribute_To_Jack_Johnson.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '2573306 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664429027 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Tribute_To_Jack_Johnson.jpg?oldid=664429027',
+          href: 'http://en.wikipedia.org/wiki/File:Tribute_To_Jack_Johnson.jpg?oldid=664429027' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Tribute_To_Jack_Johnson.jpg',
+          href: 'http://dbpedia.org/resource/File:Tribute_To_Jack_Johnson.jpg' } ] } }

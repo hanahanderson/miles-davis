@@ -1,0 +1,8 @@
+{ name: 'Ezz-thetics',
+  href: 'http://en.wikipedia.org/wiki/Ezz-thetics',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 2049,
+       quote: [ '"Nardis" (Miles Davis) – 4:34' ] } ] }

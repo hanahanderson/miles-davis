@@ -1,0 +1,8 @@
+{ name: 'Newk\'s Time',
+  href: 'http://en.wikipedia.org/wiki/Newk%27s_Time',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1071,
+       quote: [ '"Tune Up" (Miles Davis) - 5:44' ] } ] }

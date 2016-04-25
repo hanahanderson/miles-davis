@@ -1,0 +1,8 @@
+{ name: 'Legacy Recordings',
+  href: 'http://en.wikipedia.org/wiki/Legacy_Recordings',
+  mentions: 
+   [ { sectionHeader: 'List of notable artists',
+       sectionSubHeader: 'Mission statement',
+       sectionIndex: 17,
+       wordCountBeforeSection: 7230,
+       quote: [ 'Miles Davis' ] } ] }

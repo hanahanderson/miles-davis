@@ -1,0 +1,8 @@
+{ name: 'Onzy Matthews',
+  href: 'http://en.wikipedia.org/wiki/Onzy_Matthews',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 12933,
+       quote: [ 'Working from there as a composer, arranger, and actor, he appeared in the 1991 movie Dingo playing the trumpeter Caesar alongside Miles Davis.' ] } ] }

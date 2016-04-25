@@ -1,0 +1,8 @@
+{ name: 'Grasshopper (musician)',
+  href: 'http://en.wikipedia.org/wiki/Grasshopper_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1777,
+       quote: [ 'Grasshopper was born in upstate New York and was introduced to music by his uncle, an Atlantic Records employee who gave him records by John Coltrane, Ornette Coleman and Miles Davis, as well as novels by Jim Carroll.' ] } ] }

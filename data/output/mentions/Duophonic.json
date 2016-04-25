@@ -1,0 +1,8 @@
+{ name: 'Duophonic',
+  href: 'http://en.wikipedia.org/wiki/Duophonic',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 3153,
+       quote: [ 'As with Capitol, Columbia\'s fake stereo issues included albums by major artists, such as Miles Davis (\'Round About Midnight, CL 949 mono, reissued in stereo as PC 8649).' ] } ] }

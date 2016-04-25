@@ -1,0 +1,42 @@
+{ name: 'List of nicknames of jazz musicians',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_nicknames_of_jazz_musicians',
+  values: 
+   { 'dbo:abstract': [ { value: 'Nicknames are common among jazz musicians. Nicknames and sobriquets can also sometimes become stage names, and there are several cases of performers being known almost exclusively by their nicknames as opposed to their given names. Some of the most notable nicknames and stage names are listed here.Although the term Jazz royalty exists for "Kings" and similar royal or aristocratic nicknames, there is a wide range of other terms, many of them obscure. Where the origin of the nickname is known, this is explained at each artist\'s corresponding article. (en)' } ],
+     'dbo:wikiPageID': [ { value: '18511706 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '665382429 (xsd:integer)' } ],
+     'dbp:center': [ { value: 'yes (en)' } ],
+     'dbp:name': [ { value: 'no (en)' } ],
+     'dbp:x': [ { value: 'X (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_jazz_musicians' },
+        { value: 'dbc:Jazz_culture',
+          href: 'http://dbpedia.org/resource/Category:Jazz_culture' },
+        { value: 'dbc:Lists_of_people_by_nickname',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_by_nickname' } ],
+     'rdfs:comment': [ { value: 'Nicknames are common among jazz musicians. Nicknames and sobriquets can also sometimes become stage names, and there are several cases of performers being known almost exclusively by their nicknames as opposed to their given names. Some of the most notable nicknames and stage names are listed here.Although the term Jazz royalty exists for "Kings" and similar royal or aristocratic nicknames, there is a wide range of other terms, many of them obscure. (en)' } ],
+     'rdfs:label': [ { value: 'List of nicknames of jazz musicians (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:List of nicknames of jazz musicians',
+          href: 'http://de.dbpedia.org/resource/Liste_der_Namensvarianten_von_Jazzmusikern' },
+        { value: 'dbpedia-es:List of nicknames of jazz musicians',
+          href: 'http://es.dbpedia.org/resource/Anexo:Apodos_de_músicos_de_jazz' },
+        { value: 'dbpedia-wikidata:List of nicknames of jazz musicians',
+          href: 'http://wikidata.dbpedia.org/resource/Q1847395' },
+        { value: 'wikidata:List of nicknames of jazz musicians',
+          href: 'http://www.wikidata.org/entity/Q1847395' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_nicknames_of_jazz_musicians?oldid=665382429',
+          href: 'http://en.wikipedia.org/wiki/List_of_nicknames_of_jazz_musicians?oldid=665382429' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_nicknames_of_jazz_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_nicknames_of_jazz_musicians' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Nicknames_of_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Nicknames_of_jazz_musicians' },
+        { value: 'dbr:Jazz_nicknames',
+          href: 'http://dbpedia.org/resource/Jazz_nicknames' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_nicknames_of_jazz_musicians',
+          href: 'http://en.wikipedia.org/wiki/List_of_nicknames_of_jazz_musicians' } ] } }

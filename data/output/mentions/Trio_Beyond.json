@@ -1,0 +1,8 @@
+{ name: 'Trio Beyond',
+  href: 'http://en.wikipedia.org/wiki/Trio_Beyond',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,41 @@
+{ name: 'African Americans in Davenport, Iowa',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/African_Americans_in_Davenport,_Iowa',
+  values: 
+   { 'dbo:abstract': [ { value: 'African Americans in Davenport, Iowa are the third largest black community in Iowa, with a history reaching back before the Civil War. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://blogs.davenportlibrary.com/sc/?p=519',
+          href: 'http://blogs.davenportlibrary.com/sc/?p=519' } ],
+     'dbo:wikiPageID': [ { value: '21911183 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '641265327 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:African-American_history_by_city',
+          href: 'http://dbpedia.org/resource/Category:African-American_history_by_city' },
+        { value: 'dbc:Culture_of_the_Quad_Cities',
+          href: 'http://dbpedia.org/resource/Category:Culture_of_the_Quad_Cities' },
+        { value: 'dbc:African_Americans_by_city',
+          href: 'http://dbpedia.org/resource/Category:African_Americans_by_city' },
+        { value: 'dbc:Davenport,_Iowa',
+          href: 'http://dbpedia.org/resource/Category:Davenport,_Iowa' },
+        { value: 'dbc:History_of_Iowa',
+          href: 'http://dbpedia.org/resource/Category:History_of_Iowa' },
+        { value: 'dbc:African-American_history_of_Iowa',
+          href: 'http://dbpedia.org/resource/Category:African-American_history_of_Iowa' } ],
+     'rdfs:comment': [ { value: 'African Americans in Davenport, Iowa are the third largest black community in Iowa, with a history reaching back before the Civil War. (en)' } ],
+     'rdfs:label': [ { value: 'African Americans in Davenport, Iowa (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:African Americans in Davenport, Iowa',
+          href: 'http://rdf.freebase.com/ns/m.05n048v' },
+        { value: 'dbpedia-wikidata:African Americans in Davenport, Iowa',
+          href: 'http://wikidata.dbpedia.org/resource/Q4689692' },
+        { value: 'wikidata:African Americans in Davenport, Iowa',
+          href: 'http://www.wikidata.org/entity/Q4689692' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:African_Americans_in_Davenport,_Iowa?oldid=641265327',
+          href: 'http://en.wikipedia.org/wiki/African_Americans_in_Davenport,_Iowa?oldid=641265327' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:African_Americans_in_Davenport,_Iowa',
+          href: 'http://en.wikipedia.org/wiki/African_Americans_in_Davenport,_Iowa' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:African_Americans_in_Davenport,_Iowa',
+          href: 'http://en.wikipedia.org/wiki/African_Americans_in_Davenport,_Iowa' } ] } }

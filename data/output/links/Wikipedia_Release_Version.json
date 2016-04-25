@@ -1,0 +1,9 @@
+{ name: 'Wikipedia:Release Version',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Release_Version',
+  values: 
+   { 'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q18601969',
+          href: 'http://wikidata.dbpedia.org/resource/Q18601969' },
+        { value: 'wikidata:Q18601969',
+          href: 'http://www.wikidata.org/entity/Q18601969' } ] } }

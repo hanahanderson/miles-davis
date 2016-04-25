@@ -1,0 +1,8 @@
+{ name: 'Martin Committee',
+  href: 'http://en.wikipedia.org/wiki/Martin_Committee',
+  mentions: 
+   [ { sectionHeader: 'Trumpet',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1945,
+       quote: [ 'Miles Davis played custom-made Committees throughout his career.' ] } ] }

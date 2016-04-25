@@ -1,0 +1,8 @@
+{ name: 'Remembering the Moment',
+  href: 'http://en.wikipedia.org/wiki/Remembering_the_Moment',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1127,
+       quote: [ '"All Blues" (Miles Davis) — 21:34' ] } ] }

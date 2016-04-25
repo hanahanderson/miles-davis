@@ -1,0 +1,13 @@
+{ name: 'Third stream',
+  href: 'http://en.wikipedia.org/wiki/Third_stream',
+  mentions: 
+   [ { sectionHeader: 'Examples',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 6125,
+       quote: [ 'Jazz composer and producer Teo Macero, who went on to produce Miles Davis and Dave Brubeck, was influenced by the Third Stream movement.' ] },
+     { sectionHeader: 'Examples',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 7322,
+       quote: [ 'Examples of recordings that synthesize composed and improvised music are the albums Miles Ahead, Porgy and Bess and Sketches of Spain by Miles Davis and Gil Evans; European Windows and the film soundtrack Music from Odds Against Tomorrow by John Lewis; Extension by Clare Fischer (as well as the orchestral portions of Cal Tjader\'s West Side Story and Cal Tjader Plays Harold Arlen, both arranged by Fischer), Focus and Stan Getz Plays Music from the Soundtrack of Mickey One by Getz and Eddie Sauter; Perceptions by Dizzy Gillespie and J.' ] } ] }

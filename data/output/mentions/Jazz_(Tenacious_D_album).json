@@ -1,0 +1,8 @@
+{ name: 'Jazz (Tenacious D album)',
+  href: 'http://en.wikipedia.org/wiki/Jazz_(Tenacious_D_album)',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 534,
+       quote: [ 'In October 2012, Jack Black announced that Tenacious D would record a jazz album, saying that it would "contain lyrics, but still channel Thelonious Monk, Miles Davis and other instrument-based jazz influences." In 2014, Jack Black recalled that he played the recording for jazz double bass player Charlie Haden and Haden walked out of the room shortly after it began.' ] } ] }

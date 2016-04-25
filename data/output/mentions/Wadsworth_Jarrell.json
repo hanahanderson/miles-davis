@@ -1,0 +1,8 @@
+{ name: 'Wadsworth Jarrell',
+  href: 'http://en.wikipedia.org/wiki/Wadsworth_Jarrell',
+  mentions: 
+   [ { sectionHeader: 'Artistic career',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 30448,
+       quote: [ 'Other works include: Corners of Jazz (1988), a large mural featuring Ray Charles, Lester Young, and Billie Holiday, Shon\'nuf (1989), featuring Ray Charles, At the Three Deuces (1991) with Miles Davis, Charlie Parker and Sam Potter, Basie at the Apollo (1992) with Count Basie\'s orchestra, The Empress (1992) for Bessie Smith, and Lady & Prez #2, showing Holiday and Young performing together.' ] } ] }

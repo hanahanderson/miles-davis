@@ -1,0 +1,118 @@
+{ name: 'Trio \'65',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Trio_%2765',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '37.483333333333334' } ],
+     'dbo:abstract': [ { value: 'Trio \'65 is a studio album by American jazz pianist Bill Evans and his Trio, released in 1965. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Waltz_for_Debby_(1964_album)',
+          href: 'http://dbpedia.org/resource/Waltz_for_Debby_(1964_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Creed_Taylor' } ],
+     'dbo:recordDate': [ { value: '1965-02-03 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbo:runtime': [ { value: '2249.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Bill_Evans_Trio_with_Symphony_Orchestra',
+          href: 'http://dbpedia.org/resource/Bill_Evans_Trio_with_Symphony_Orchestra' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.billevans.net/bill2.html',
+          href: 'http://www.billevans.net/bill2.html' },
+        { value: 'http://www.jazzdisco.org/bill-evans/catalog/',
+          href: 'http://www.jazzdisco.org/bill-evans/catalog/' } ],
+     'dbo:wikiPageID': [ { value: '21183159 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677981082 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Trio65.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Verve_Records',
+          href: 'http://dbpedia.org/resource/Verve_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Waltz for Debby (en)' } ],
+     'dbp:length': [ { value: '2249.0' } ],
+     'dbp:name': [ { value: 'Trio \'65 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Bill Evans Trio with Symphony Orchestra (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Creed_Taylor' } ],
+     'dbp:recorded': 
+      [ { value: '1965-02-03 (xsd:date)' },
+        { value: 'dbr:New_York_City',
+          href: 'http://dbpedia.org/resource/New_York_City' } ],
+     'dbp:released': [ { value: 'June 1965 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Trio \'65 (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Creed_Taylor',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Creed_Taylor' },
+        { value: 'dbc:1965_albums',
+          href: 'http://dbpedia.org/resource/Category:1965_albums' },
+        { value: 'dbc:Bill_Evans_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_albums' },
+        { value: 'dbc:Verve_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Verve_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Trio \'65 is a studio album by American jazz pianist Bill Evans and his Trio, released in 1965. (en)' } ],
+     'rdfs:label': [ { value: 'Trio \'65 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Trio \'65',
+          href: 'http://fr.dbpedia.org/resource/Trio_\'65' },
+        { value: 'dbpedia-wikidata:Trio \'65',
+          href: 'http://wikidata.dbpedia.org/resource/Q3539310' },
+        { value: 'freebase:Trio \'65',
+          href: 'http://rdf.freebase.com/ns/m.01kbwkk' },
+        { value: 'wikidata:Trio \'65',
+          href: 'http://www.wikidata.org/entity/Q3539310' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Trio_\'65?oldid=677981082',
+          href: 'http://en.wikipedia.org/wiki/Trio_\'65?oldid=677981082' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Trio_\'65',
+          href: 'http://en.wikipedia.org/wiki/Trio_\'65' } ],
+     'foaf:name': [ { value: 'Trio \'65 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Bill_Evans_Trio_with_Symphony_Orchestra',
+          href: 'http://dbpedia.org/resource/Bill_Evans_Trio_with_Symphony_Orchestra' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Waltz_for_Debby_(1964_album)',
+          href: 'http://dbpedia.org/resource/Waltz_for_Debby_(1964_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Trio_\'65',
+          href: 'http://en.wikipedia.org/wiki/Trio_\'65' } ] } }

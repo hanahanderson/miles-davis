@@ -1,0 +1,8 @@
+{ name: 'This Is Jazz (album series)',
+  href: 'http://en.wikipedia.org/wiki/This_Is_Jazz_(album_series)',
+  mentions: 
+   [ { sectionHeader: 'Releases',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 931,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,45 @@
+{ name: 'Arts and culture of Washington, D.C.',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Arts_and_culture_of_Washington,_D.C.',
+  values: 
+   { 'dbo:abstract': [ { value: 'Culture is quite varied in Washington, District of Columbia; there are different cultural places, one of the more significant places is the John F. Kennedy Center for the Performing Arts, where artists perform different shows every day; another important institution in the District of Columbia (D.C.) is the Smithsonian Institution, which works with more than 10 public museums in the city. The District of Columbia Public Library has 12 public library branches in and around the district. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Kennedy_Center_at_Dusk.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kennedy_Center_at_Dusk.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '46383382 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '672412415 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Culture_of_Washington,_D.C.',
+          href: 'http://dbpedia.org/resource/Category:Culture_of_Washington,_D.C.' },
+        { value: 'dbc:Washington,_D.C.',
+          href: 'http://dbpedia.org/resource/Category:Washington,_D.C.' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'Culture is quite varied in Washington, District of Columbia; there are different cultural places, one of the more significant places is the John F. Kennedy Center for the Performing Arts, where artists perform different shows every day; another important institution in the District of Columbia (D.C.) is the Smithsonian Institution, which works with more than 10 public museums in the city. The District of Columbia Public Library has 12 public library branches in and around the district. (en)' } ],
+     'rdfs:label': [ { value: 'Arts and culture of Washington, D.C. (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:DC', href: 'http://dbpedia.org/resource/DC' },
+        { value: 'dbr:Washington',
+          href: 'http://dbpedia.org/resource/Washington' },
+        { value: 'dbr:List_of_U.S._National_Historic_Landmarks_by_state',
+          href: 'http://dbpedia.org/resource/List_of_U.S._National_Historic_Landmarks_by_state' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Arts and culture of Washington, D.C.',
+          href: 'http://rdf.freebase.com/ns/m.013337_p' },
+        { value: 'dbpedia-wikidata:Arts and culture of Washington, D.C.',
+          href: 'http://wikidata.dbpedia.org/resource/Q19864774' },
+        { value: 'wikidata:Arts and culture of Washington, D.C.',
+          href: 'http://www.wikidata.org/entity/Q19864774' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Arts_and_culture_of_Washington,_D.C.?oldid=672412415',
+          href: 'http://en.wikipedia.org/wiki/Arts_and_culture_of_Washington,_D.C.?oldid=672412415' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Kennedy_Center_at_Dusk.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Kennedy_Center_at_Dusk.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Arts_and_culture_of_Washington,_D.C.',
+          href: 'http://en.wikipedia.org/wiki/Arts_and_culture_of_Washington,_D.C.' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Arts_and_culture_of_Washington,_D.C.',
+          href: 'http://en.wikipedia.org/wiki/Arts_and_culture_of_Washington,_D.C.' } ] } }

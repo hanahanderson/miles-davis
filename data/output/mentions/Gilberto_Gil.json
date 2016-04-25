@@ -1,0 +1,8 @@
+{ name: 'Gilberto Gil',
+  href: 'http://en.wikipedia.org/wiki/Gilberto_Gil',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 6380,
+       quote: [ 'In addition to involvement in the reggae and rock scenes, Gil attended performances by jazz artists, including Miles Davis and Sun Ra.' ] } ] }

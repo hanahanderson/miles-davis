@@ -1,0 +1,4 @@
+{ name: 'Talk:Pedal point',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Talk:Pedal_point',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

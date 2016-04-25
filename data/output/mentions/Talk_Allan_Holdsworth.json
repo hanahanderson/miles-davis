@@ -1,0 +1,8 @@
+{ name: 'Talk:Allan Holdsworth',
+  href: 'http://en.wikipedia.org/wiki/Talk:Allan_Holdsworth',
+  mentions: 
+   [ { sectionHeader: 'Holdsworth and instrumental rock',
+       sectionSubHeader: '',
+       sectionIndex: 102,
+       wordCountBeforeSection: 28624,
+       quote: [] } ] }

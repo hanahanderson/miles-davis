@@ -1,0 +1,8 @@
+{ name: 'Kenny Dennis',
+  href: 'http://en.wikipedia.org/wiki/Kenny_Dennis',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 489,
+       quote: [ 'His career next took him to New York, where he worked with artists including Miles Davis, Phineas Newborn, Jr., Billy Taylor, Erroll Garner, Charles Mingus and Sonny Rollins.' ] } ] }

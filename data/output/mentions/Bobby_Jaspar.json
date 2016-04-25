@@ -1,0 +1,8 @@
+{ name: 'Bobby Jaspar',
+  href: 'http://en.wikipedia.org/wiki/Bobby_Jaspar',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 754,
+       quote: [ 'Johnson, with Kenny Burrell, Miles Davis, John Coltrane, Toshiko Akiyoshi, Donald Byrd and many others.' ] } ] }

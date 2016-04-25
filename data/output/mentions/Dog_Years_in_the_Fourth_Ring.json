@@ -1,0 +1,8 @@
+{ name: 'Dog Years in the Fourth Ring',
+  href: 'http://en.wikipedia.org/wiki/Dog_Years_in_the_Fourth_Ring',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2575,
+       quote: [ '"Freddie Freeloader" (Miles Davis) - 6:01' ] } ] }

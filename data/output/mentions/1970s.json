@@ -1,0 +1,8 @@
+{ name: '1970s',
+  href: 'http://en.wikipedia.org/wiki/1970s',
+  mentions: 
+   [ { sectionHeader: 'Popular culture',
+       sectionSubHeader: '',
+       sectionIndex: 134,
+       wordCountBeforeSection: 55784,
+       quote: [ 'In the first half of the 1970s many jazz musicians from the Miles Davis school achieve cross-over success through jazz-rock fusion with bands like Weather Report, Return to Forever, The Headhunters and The Mahavishnu Orchestra who also influence this genre and many others.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'The Closer I Get to You',
+  href: 'http://en.wikipedia.org/wiki/The_Closer_I_Get_to_You',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 655,
+       quote: [ 'The song was written by James Mtume and Reggie Lucas, two former members of Miles Davis\' band, who were members of Flack\'s band at the time.' ] } ] }

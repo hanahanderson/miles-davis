@@ -1,0 +1,8 @@
+{ name: 'The Solo Sessions, Vol. 1',
+  href: 'http://en.wikipedia.org/wiki/The_Solo_Sessions,_Vol._1',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1282,
+       quote: [ 'Miles Davis' ] } ] }

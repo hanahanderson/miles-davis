@@ -1,0 +1,16 @@
+{ name: 'Glenn Miller discography',
+  href: 'http://en.wikipedia.org/wiki/Glenn_Miller_discography',
+  mentions: 
+   [ { sectionHeader: 'Selected discography and annotation',
+       sectionSubHeader: '',
+       sectionIndex: 82,
+       wordCountBeforeSection: 41136,
+       quote: [ 'Glenn Miller was the first to record "At Last", reaching number fourteen on the Billboard pop singles chart in 1942 and his version became the first in a long history of popular versions. "At Last" subsequently became a standard covered by Nat King Cole and Etta James in the 1950s and 1960s, the Etta James version reaching number 47 on the Billboard Hot 100 and number two on the R&B chart in 1961, Ray Anthony, who reached number two on Billboard with a remake in 1952, Lou Rawls, Celine Dion, Diana Krall, Eva Cassidy, Miles Davis, Joni Mitchell, Bing Crosby, Aretha Franklin, the Oak Ridge Boys, Cyndi Lauper, Doris Day, Ella Fitzgerald, Chet Baker, Michael Bolton, Dianne Reeves, Stevie Wonder, Christina Aguilera, and Beyoncé in 2008.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'Addenda',
+       sectionIndex: 108,
+       wordCountBeforeSection: 58495,
+       quote: 
+        [ 'The song was covered by Miles Davis in 1950 on his album Birth of the Cool and also appears on "The Complete Birth of the Cool", arranged by Gil Evans.',
+          'Incidentally, Miles Davis did not like Thornhill\'s interpretations of some be-bop songs that Evans arranged, like "Donna Lee", calling them "mannered".',
+          'The Miles Davis Nonet recorded a live performance of "Moon Drams" in 1948 in New York.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Amon Tobin',
+  href: 'http://en.wikipedia.org/wiki/Amon_Tobin',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 5083,
+       quote: [ 'Pitchfork Media acclaimed the use of jazz instrument samples, comparing him to famous composers Quincy Jones and Miles Davis.' ] } ] }

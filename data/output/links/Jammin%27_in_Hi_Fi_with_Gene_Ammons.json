@@ -1,0 +1,114 @@
+{ name: 'Jammin\' in Hi Fi with Gene Ammons',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Jammin%27_in_Hi_Fi_with_Gene_Ammons',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '50.2' } ],
+     'dbo:abstract': [ { value: 'Jammin\' in Hi Fi with Gene Ammons (also rereleased as The Twister) is an album by saxophonist Gene Ammons recorded in 1957 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Gene_Ammons',
+          href: 'http://dbpedia.org/resource/Gene_Ammons' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Funky_(Gene_Ammons_album)',
+          href: 'http://dbpedia.org/resource/Funky_(Gene_Ammons_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': [ { value: '1957-04-12 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:runtime': [ { value: '3012.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Big_Sound',
+          href: 'http://dbpedia.org/resource/The_Big_Sound' } ],
+     'dbo:wikiPageID': [ { value: '37847730 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '657177688 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Gene_Ammons',
+          href: 'http://dbpedia.org/resource/Gene_Ammons' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Gene_Ammons',
+          href: 'http://dbpedia.org/resource/Gene_Ammons' } ],
+     'dbp:cover': [ { value: 'Jammin\' in Hi Fi with Gene Ammons.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PRLP 7110 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Funky (en)' } ],
+     'dbp:length': [ { value: '3012.0' } ],
+     'dbp:name': [ { value: 'Jammin\' in Hi Fi with Gene Ammons (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Big Sound (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '1957-04-12 (xsd:date)' },
+        { value: 'Van Gelder Studio, Hackensack, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1957 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Jammin\' in Hi Fi with Gene Ammons (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Gene_Ammons_albums',
+          href: 'http://dbpedia.org/resource/Category:Gene_Ammons_albums' },
+        { value: 'dbc:1957_albums',
+          href: 'http://dbpedia.org/resource/Category:1957_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Jammin\' in Hi Fi with Gene Ammons (also rereleased as The Twister) is an album by saxophonist Gene Ammons recorded in 1957 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'Jammin\' in Hi Fi with Gene Ammons (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Jammin\' in Hi Fi with Gene Ammons',
+          href: 'http://rdf.freebase.com/ns/m.0n_gcv5' },
+        { value: 'dbpedia-it:Jammin\' in Hi Fi with Gene Ammons',
+          href: 'http://it.dbpedia.org/resource/Jammin\'_in_Hi-Fi_with_Gene_Ammons' },
+        { value: 'dbpedia-wikidata:Jammin\' in Hi Fi with Gene Ammons',
+          href: 'http://wikidata.dbpedia.org/resource/Q6147961' },
+        { value: 'wikidata:Jammin\' in Hi Fi with Gene Ammons',
+          href: 'http://www.wikidata.org/entity/Q6147961' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jammin\'_in_Hi_Fi_with_Gene_Ammons?oldid=657177688',
+          href: 'http://en.wikipedia.org/wiki/Jammin\'_in_Hi_Fi_with_Gene_Ammons?oldid=657177688' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jammin\'_in_Hi_Fi_with_Gene_Ammons',
+          href: 'http://en.wikipedia.org/wiki/Jammin\'_in_Hi_Fi_with_Gene_Ammons' } ],
+     'foaf:name': [ { value: 'Jammin\' in Hi Fi with Gene Ammons (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Big_Sound',
+          href: 'http://dbpedia.org/resource/The_Big_Sound' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Funky_(Gene_Ammons_album)',
+          href: 'http://dbpedia.org/resource/Funky_(Gene_Ammons_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jammin\'_in_Hi_Fi_with_Gene_Ammons',
+          href: 'http://en.wikipedia.org/wiki/Jammin\'_in_Hi_Fi_with_Gene_Ammons' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Osibisa',
+  href: 'http://en.wikipedia.org/wiki/Osibisa',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3551,
+       quote: [ 'The third album, Heads, features a cover by Mati Klarwein, famed for his covers for Santana (Abraxas) and Miles Davis (Bitches Brew).' ] } ] }

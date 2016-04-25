@@ -1,0 +1,68 @@
+{ name: 'Hand jive',
+  entityType: 'SocialEvent107288639',
+  href: 'http://dbpedia.org/page/Hand_jive',
+  values: 
+   { 'dbo:abstract': [ { value: 'The hand jive is a dance particularly associated with music of the 1950s, rhythm and blues in particular. It involves a complicated pattern of hand moves and claps at various parts of the body, following and/or imitating the percussion instruments. It resembles a highly elaborate version of pat-a-cake. Hand moves include thigh slapping, cross-wrist slapping, fist pounding, hand clapping, and hitch hike moves.In 1957 when filmmaker Ken Russell was a freelance photographer, he recorded the teenagers of Soho, London hand-jiving in the basement of The Cat\'s Whisker coffee bar, where the hand-jive was invented. According to an article in the Daily Mirror, "it\'s so crowded the girls hand-jive to the band as there\'s no room for dancing." Russell told interviewer Leo Benedictus of The Guardian that "the place was crowded with young kids... the atmosphere was very jolly. Wholesome... everyone jiving with their hands because there was precious little room to do it with their feet... a bizarre sight. The craze fascinated me. It seemed like a strange novelty; I used to join in." (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.youtube.com/watch?v=HWtL0_FZdqw',
+          href: 'http://www.youtube.com/watch?v=HWtL0_FZdqw' } ],
+     'dbo:wikiPageID': [ { value: '2115278 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683316166 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Novelty_and_fad_dances',
+          href: 'http://dbpedia.org/resource/Category:Novelty_and_fad_dances' },
+        { value: 'dbc:Hand_games',
+          href: 'http://dbpedia.org/resource/Category:Hand_games' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Contest107456188',
+          href: 'http://dbpedia.org/class/yago/Contest107456188' },
+        { value: 'yago:Event100029378',
+          href: 'http://dbpedia.org/class/yago/Event100029378' },
+        { value: 'yago:Game100456199',
+          href: 'http://dbpedia.org/class/yago/Game100456199' },
+        { value: 'yago:SocialEvent107288639',
+          href: 'http://dbpedia.org/class/yago/SocialEvent107288639' },
+        { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'yago:PsychologicalFeature100023100',
+          href: 'http://dbpedia.org/class/yago/PsychologicalFeature100023100' },
+        { value: 'yago:YagoPermanentlyLocatedEntity',
+          href: 'http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity' },
+        { value: 'yago:HandGames',
+          href: 'http://dbpedia.org/class/yago/HandGames' } ],
+     'rdfs:comment': [ { value: 'The hand jive is a dance particularly associated with music of the 1950s, rhythm and blues in particular. It involves a complicated pattern of hand moves and claps at various parts of the body, following and/or imitating the percussion instruments. It resembles a highly elaborate version of pat-a-cake. (en)' } ],
+     'rdfs:label': [ { value: 'Hand jive (en)' } ],
+     'owl:differentFrom': 
+      [ { value: 'dbr:Hand_dancing',
+          href: 'http://dbpedia.org/resource/Hand_dancing' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Hand jive',
+          href: 'http://rdf.freebase.com/ns/m.06n4cj' },
+        { value: 'dbpedia-nl:Hand jive',
+          href: 'http://nl.dbpedia.org/resource/Hand_jive' },
+        { value: 'dbpedia-wikidata:Hand jive',
+          href: 'http://wikidata.dbpedia.org/resource/Q2392517' },
+        { value: 'wikidata:Hand jive',
+          href: 'http://www.wikidata.org/entity/Q2392517' },
+        { value: 'yago-res:Hand jive',
+          href: 'http://yago-knowledge.org/resource/Hand_jive' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Hand_jive?oldid=683316166',
+          href: 'http://en.wikipedia.org/wiki/Hand_jive?oldid=683316166' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Hand_jive',
+          href: 'http://en.wikipedia.org/wiki/Hand_jive' } ],
+     'is dbo:wikiPageDisambiguates\n of': [ { value: 'dbr:Jive', href: 'http://dbpedia.org/resource/Jive' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Hand_Jive',
+          href: 'http://dbpedia.org/resource/Hand_Jive' },
+        { value: 'dbr:Handjive',
+          href: 'http://dbpedia.org/resource/Handjive' } ],
+     'is owl:differentFrom\n of': 
+      [ { value: 'dbr:Hand_dancing',
+          href: 'http://dbpedia.org/resource/Hand_dancing' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Hand_jive',
+          href: 'http://en.wikipedia.org/wiki/Hand_jive' } ] } }

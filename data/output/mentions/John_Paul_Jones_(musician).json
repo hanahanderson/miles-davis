@@ -1,0 +1,8 @@
+{ name: 'John Paul Jones (musician)',
+  href: 'http://en.wikipedia.org/wiki/John_Paul_Jones_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Led Zeppelin',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 8411,
+       quote: [ 'In live performances, Jones\' keyboard showpiece was "No Quarter", often lasting for up to half-an-hour and sometimes including snatches of "Amazing Grace", Joaquín Rodrigo\'s "Concierto de Aranjuez", which had inspired Miles Davis\' Sketches of Spain, and variations of classical pieces by composers such as Rachmaninoff.' ] } ] }

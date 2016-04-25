@@ -1,0 +1,18 @@
+{ name: 'List of jazz bassists',
+  href: 'http://en.wikipedia.org/wiki/List_of_jazz_bassists',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 450,
+       quote: [ 'Ray Brown (1926–2002), known for backing a number of beboppers, including alto virtuoso Charlie Parker; Milt Hinton (1910-2000) and George Duvivier (1920-1985) who are the two most recorded bassists in jazz history, their respective careers spanning many eras and genres; a singular creative force was Wilbur Ware (1923–1979) legendary bassist with Monk and others, hard bop bassist Ron Carter (born 1937); and Paul Chambers (1935–1969), a member of the Miles Davis Quintet.' ] },
+     { sectionHeader: 'G',
+       sectionSubHeader: '',
+       sectionIndex: 32,
+       wordCountBeforeSection: 7785,
+       quote: [ 'He played with the Modern Jazz Quartet and also worked with Miles Davis, Dizzy Gillespie, Charlie Parker, Wes Montgomery and Thelonious Monk.' ] },
+     { sectionHeader: 'L',
+       sectionSubHeader: '',
+       sectionIndex: 46,
+       wordCountBeforeSection: 10931,
+       quote: [ '\n\nMarcus Miller worked with Miles Davis, Herbie Hancock, Wayne Shorter, McCoy Tyner, Frank Sinatra, Aretha Franklin, Grover Washington Jr....' ] } ] }

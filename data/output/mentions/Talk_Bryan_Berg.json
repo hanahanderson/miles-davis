@@ -1,0 +1,8 @@
+{ name: 'Talk:Bryan Berg',
+  href: 'http://en.wikipedia.org/wiki/Talk:Bryan_Berg',
+  mentions: 
+   [ { sectionHeader: 'Promotional tone',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1519,
+       quote: [ 'To say that Herbie Hancock has performed for Miles Davis or on a landmark music video is not promotional.' ] } ] }

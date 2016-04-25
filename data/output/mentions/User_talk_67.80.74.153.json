@@ -1,0 +1,13 @@
+{ name: 'User talk:67.80.74.153',
+  href: 'http://en.wikipedia.org/wiki/User_talk:67.80.74.153',
+  mentions: 
+   [ { sectionHeader: 'May 2008',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 14,
+       quote: [ ' Your recent edit to Miles Davis (diff) was reverted by an automated bot.' ] },
+     { sectionHeader: 'May 2008',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 14,
+       quote: [ ' Your recent edit to Miles Davis (diff) was reverted by an automated bot.' ] } ] }

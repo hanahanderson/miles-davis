@@ -1,0 +1,8 @@
+{ name: 'New Mann at Newport',
+  href: 'http://en.wikipedia.org/wiki/New_Mann_at_Newport',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 747,
+       quote: [ '"All Blues" (Miles Davis) (7:32)' ] } ] }

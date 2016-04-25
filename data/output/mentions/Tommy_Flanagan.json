@@ -1,0 +1,13 @@
+{ name: 'Tommy Flanagan',
+  href: 'http://en.wikipedia.org/wiki/Tommy_Flanagan',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 570,
+       quote: [ 'Within months of moving to New York in 1956, he had recorded with Miles Davis and on Sonny Rollins\' landmark Saxophone Colossus.' ] },
+     { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 4685,
+       quote: [ 'Later the same month he returned to recording, this time with Miles Davis and Sonny Rollins, for tracks released on Collectors\' Items.' ] } ] }

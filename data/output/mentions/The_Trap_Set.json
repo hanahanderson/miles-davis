@@ -1,0 +1,8 @@
+{ name: 'The Trap Set',
+  href: 'http://en.wikipedia.org/wiki/The_Trap_Set',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1286,
+       quote: [ 'Bang!, The Late Late Show), Dale Crover (Melvins, Nirvana), Kliph Scurlock (Flaming Lips), DJ Bonebrake (X), Billy Cobham (Mahavishnu Orchestra, Miles Davis), Hamid Drke (Don Cherry), Jeff "Tain" Watts (Alice Coltrane, Wynton Marsalis), Mike Clark (Herbie Hancock\'s Headhunters), Lori Barbero (Babes In Toyland), Kid Millions (Oneida), Drmbo (Captain Beefheart), Brendan Canty (Fugazi), Sandra Vu (Dum Dum Girls), John Herndon (Tortoise), Sam Fogarino (Interpol), Steven Schick (Bang on a Can All Stars), Dee Plakas (L7), James Gadson (Bill Withers), and Victor DeLorenzo (Violent Femmes).' ] } ] }

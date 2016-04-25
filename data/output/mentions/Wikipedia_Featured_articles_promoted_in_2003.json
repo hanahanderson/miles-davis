@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:Featured articles promoted in 2003',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Featured_articles_promoted_in_2003',
+  mentions: 
+   [ { sectionHeader: 'Promoted in October 2003 and before',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 2881,
+       quote: [ 'Miles Davis' ] } ] }

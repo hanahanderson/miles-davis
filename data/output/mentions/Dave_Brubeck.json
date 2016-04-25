@@ -1,0 +1,8 @@
+{ name: 'Dave Brubeck',
+  href: 'http://en.wikipedia.org/wiki/Dave_Brubeck',
+  mentions: 
+   [ { sectionHeader: 'Recognition',
+       sectionSubHeader: '',
+       sectionIndex: 52,
+       wordCountBeforeSection: 21099,
+       quote: [ 'On July 5, 2010, Brubeck was awarded the Miles Davis Award at the Montreal International Jazz Festival.' ] } ] }

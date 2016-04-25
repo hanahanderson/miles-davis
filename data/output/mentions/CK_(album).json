@@ -1,0 +1,13 @@
+{ name: 'CK (album)',
+  href: 'http://en.wikipedia.org/wiki/CK_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2392,
+       quote: [ 'ck features two recordings of jazz classics that since have become mainstays in Khan\'s live repertoire, "The End of a Love Affair", a tribute to Billie Holiday who first recorded the song on her 1958 album Lady in Satin, and Alec Wilder\'s "I\'ll Be Around", the latter with a guest appearance by another legend in the jazz genre, Miles Davis, who in fact also features on the Prince track "Sticky Wicked".' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3694,
+       quote: [ 'Miles Davis - trumpet tracks: 5, 10' ] } ] }

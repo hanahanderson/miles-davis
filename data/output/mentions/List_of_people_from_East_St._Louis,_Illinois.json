@@ -1,0 +1,13 @@
+{ name: 'List of people from East St. Louis, Illinois',
+  href: 'http://en.wikipedia.org/wiki/List_of_people_from_East_St._Louis,_Illinois',
+  mentions: 
+   [ { sectionHeader: 'Media and arts',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1607,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: 'Media and arts',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1607,
+       quote: [] } ] }

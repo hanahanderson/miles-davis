@@ -1,0 +1,8 @@
+{ name: 'Šarlo Akrobata',
+  href: 'http://en.wikipedia.org/wiki/%C5%A0arlo_Akrobata',
+  mentions: 
+   [ { sectionHeader: 'Musical style',
+       sectionSubHeader: 'Post-breakup',
+       sectionIndex: 30,
+       wordCountBeforeSection: 21604,
+       quote: [ 'In an interview, Kojić also listed James Chance and the Contortions, The Pop Group, Public Image Limited, Miles Davis and Jimi Hendrix among the band favorites.' ] } ] }

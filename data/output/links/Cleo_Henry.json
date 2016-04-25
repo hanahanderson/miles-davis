@@ -1,0 +1,28 @@
+{ name: 'Cleo Henry',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Cleo_Henry',
+  values: 
+   { 'dbo:abstract': [ { value: 'Cleo Henry is a pseudonym of Miles Davis and Gil Evans used on the tune Boplicity on the album Birth of the Cool. (en)' } ],
+     'dbo:wikiPageID': [ { value: '2887697 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '676067629 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Miles_Davis',
+          href: 'http://dbpedia.org/resource/Category:Miles_Davis' } ],
+     'rdfs:comment': [ { value: 'Cleo Henry is a pseudonym of Miles Davis and Gil Evans used on the tune Boplicity on the album Birth of the Cool. (en)' } ],
+     'rdfs:label': [ { value: 'Cleo Henry (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Cleo Henry',
+          href: 'http://rdf.freebase.com/ns/m.0898t6' },
+        { value: 'dbpedia-wikidata:Cleo Henry',
+          href: 'http://wikidata.dbpedia.org/resource/Q5131635' },
+        { value: 'wikidata:Cleo Henry',
+          href: 'http://www.wikidata.org/entity/Q5131635' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Cleo_Henry?oldid=676067629',
+          href: 'http://en.wikipedia.org/wiki/Cleo_Henry?oldid=676067629' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Cleo_Henry',
+          href: 'http://en.wikipedia.org/wiki/Cleo_Henry' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Cleo_Henry',
+          href: 'http://en.wikipedia.org/wiki/Cleo_Henry' } ] } }

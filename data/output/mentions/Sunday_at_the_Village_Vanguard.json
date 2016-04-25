@@ -1,0 +1,13 @@
+{ name: 'Sunday at the Village Vanguard',
+  href: 'http://en.wikipedia.org/wiki/Sunday_at_the_Village_Vanguard',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3175,
+       quote: [ '"Solar" (Miles Davis) – 8:52' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'CD bonus tracks',
+       sectionIndex: 27,
+       wordCountBeforeSection: 4390,
+       quote: [ 'Miles Davis' ] } ] }

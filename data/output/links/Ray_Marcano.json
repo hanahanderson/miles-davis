@@ -1,0 +1,42 @@
+{ name: 'Ray Marcano',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Ray_Marcano',
+  values: 
+   { 'dbo:abstract': [ { value: 'Ray Marcano is an American journalist, music critic, musician and scholar, who was  known for his work as a medical reporter, and later a music critic, for the Dayton Daily News in the 1980s and 1990s. In 2000 he became president of the Society of Professional Journalists (SPJ), the largest journalism organization in the United States, only the second black president of the organization in its history. He was one of the directors of the Cox Media Group, which owns the Dayton Daily News. (en)' } ],
+     'dbo:wikiPageID': [ { value: '47561629 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678756759 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Medical_journalists',
+          href: 'http://dbpedia.org/resource/Category:Medical_journalists' },
+        { value: 'dbc:American_journalists',
+          href: 'http://dbpedia.org/resource/Category:American_journalists' },
+        { value: 'dbc:Wright_State_University_faculty',
+          href: 'http://dbpedia.org/resource/Category:Wright_State_University_faculty' },
+        { value: 'dbc:American_music_critics',
+          href: 'http://dbpedia.org/resource/Category:American_music_critics' },
+        { value: 'dbc:Living_people',
+          href: 'http://dbpedia.org/resource/Category:Living_people' },
+        { value: 'dbc:People_from_Dayton,_Ohio',
+          href: 'http://dbpedia.org/resource/Category:People_from_Dayton,_Ohio' },
+        { value: 'dbc:People_from_the_Bronx',
+          href: 'http://dbpedia.org/resource/Category:People_from_the_Bronx' },
+        { value: 'dbc:Dayton_Daily_News',
+          href: 'http://dbpedia.org/resource/Category:Dayton_Daily_News' },
+        { value: 'dbc:Journalists_from_New_York_City',
+          href: 'http://dbpedia.org/resource/Category:Journalists_from_New_York_City' } ],
+     'rdfs:comment': [ { value: 'Ray Marcano is an American journalist, music critic, musician and scholar, who was  known for his work as a medical reporter, and later a music critic, for the Dayton Daily News in the 1980s and 1990s. In 2000 he became president of the Society of Professional Journalists (SPJ), the largest journalism organization in the United States, only the second black president of the organization in its history. He was one of the directors of the Cox Media Group, which owns the Dayton Daily News. (en)' } ],
+     'rdfs:label': [ { value: 'Ray Marcano (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Ray Marcano',
+          href: 'http://wikidata.dbpedia.org/resource/Q18153434' },
+        { value: 'wikidata:Ray Marcano',
+          href: 'http://www.wikidata.org/entity/Q18153434' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Ray_Marcano?oldid=678756759',
+          href: 'http://en.wikipedia.org/wiki/Ray_Marcano?oldid=678756759' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Ray_Marcano',
+          href: 'http://en.wikipedia.org/wiki/Ray_Marcano' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Ray_Marcano',
+          href: 'http://en.wikipedia.org/wiki/Ray_Marcano' } ] } }

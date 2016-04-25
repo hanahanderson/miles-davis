@@ -1,0 +1,13 @@
+{ name: '75 (album)',
+  href: 'http://en.wikipedia.org/wiki/75_(album)',
+  mentions: 
+   [ { sectionHeader: 'Overview',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1180,
+       quote: [ 'This marked a reunion for Zawinul and Shorter, two original members of Weather Report, both of whom played on the original version of this song from Miles Davis\'s 1969 album of the same name.' ] },
+     { sectionHeader: 'Composition',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2680,
+       quote: [ 'The next track is a recording of Kabungo leading the audience in a chorus of "Happy Birthday" directed at Zawinul. "In a Silent Way", a duet between Shorter and Zawinul originally from Miles Davis\'s album of the same name, follows.' ] } ] }

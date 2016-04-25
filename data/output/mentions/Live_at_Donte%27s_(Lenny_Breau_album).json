@@ -1,0 +1,8 @@
+{ name: 'Live at Donte\'s (Lenny Breau album)',
+  href: 'http://en.wikipedia.org/wiki/Live_at_Donte%27s_(Lenny_Breau_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1038,
+       quote: [ '"All Blues" (Miles Davis) – 4:43' ] } ] }

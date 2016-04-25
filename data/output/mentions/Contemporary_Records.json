@@ -1,0 +1,8 @@
+{ name: 'Contemporary Records',
+  href: 'http://en.wikipedia.org/wiki/Contemporary_Records',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 9552,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Wadada Leo Smith',
+  href: 'http://en.wikipedia.org/wiki/Wadada_Leo_Smith',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2158,
+       quote: [ 'In 1998, Smith and guitarist Henry Kaiser released Yo, Miles!, a tribute to Miles Davis\'s then-lesser-known 1970s electric period.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2158,
+       quote: [ 'In 1998, Smith and guitarist Henry Kaiser released Yo, Miles!, a tribute to Miles Davis\'s then-lesser-known 1970s electric period.' ] } ] }

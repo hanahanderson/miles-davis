@@ -1,0 +1,4 @@
+{ name: 'Miles Davies',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/ex.php?title=Miles_Davies&redirect=no',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

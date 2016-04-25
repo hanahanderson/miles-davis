@@ -1,0 +1,8 @@
+{ name: 'Portal:San Francisco Bay Area/Festivals/Archive',
+  href: 'http://en.wikipedia.org/wiki/Portal:San_Francisco_Bay_Area/Festivals/Archive',
+  mentions: 
+   [ { sectionHeader: '7',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 2525,
+       quote: [ 'The festival was first held in 1967, and featured Miles Davis, The Modern Jazz Quartet, the Bill Evans Trio, and the John Handy Concert Ensemble.' ] } ] }

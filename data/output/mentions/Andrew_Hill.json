@@ -1,0 +1,8 @@
+{ name: 'Andrew Hill',
+  href: 'http://en.wikipedia.org/wiki/Andrew_Hill',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1040,
+       quote: [ 'While a teenager he performed in rhythm and blues bands and with touring jazz musicians, including Charlie Parker and Miles Davis.' ] } ] }

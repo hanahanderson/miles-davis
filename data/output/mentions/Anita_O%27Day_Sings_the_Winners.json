@@ -1,0 +1,8 @@
+{ name: 'Anita O\'Day Sings the Winners',
+  href: 'http://en.wikipedia.org/wiki/Anita_O%27Day_Sings_the_Winners',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 762,
+       quote: [ '"Four" (Miles Davis) - 2:48' ] } ] }

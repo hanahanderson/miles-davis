@@ -1,0 +1,48 @@
+{ name: 'Moment\'s Notice',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Moment%27s_Notice',
+  values: 
+   { 'dbo:abstract': [ { value: '"Moment\'s Notice" is a "classic" jazz standard composed by John Coltrane. The song was featured on Coltrane\'s noted 1957 recording Blue Train. (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:wikiPageID': [ { value: '36651830 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '632540433 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1950s_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:1950s_jazz_standards' },
+        { value: 'dbc:Hard_bop_jazz_standards',
+          href: 'http://dbpedia.org/resource/Category:Hard_bop_jazz_standards' },
+        { value: 'dbc:Compositions_by_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_John_Coltrane' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' } ],
+     'rdfs:comment': [ { value: '"Moment\'s Notice" is a "classic" jazz standard composed by John Coltrane. The song was featured on Coltrane\'s noted 1957 recording Blue Train. (en)' } ],
+     'rdfs:label': [ { value: 'Moment\'s Notice (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Moment\'s Notice',
+          href: 'http://rdf.freebase.com/ns/m.0_783km' },
+        { value: 'dbpedia-wikidata:Moment\'s Notice',
+          href: 'http://wikidata.dbpedia.org/resource/Q6897100' },
+        { value: 'wikidata:Moment\'s Notice',
+          href: 'http://www.wikidata.org/entity/Q6897100' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Moment\'s_Notice?oldid=632540433',
+          href: 'http://en.wikipedia.org/wiki/Moment\'s_Notice?oldid=632540433' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Moment\'s_Notice',
+          href: 'http://en.wikipedia.org/wiki/Moment\'s_Notice' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Blue_Train_(album)',
+          href: 'http://dbpedia.org/resource/Blue_Train_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Moment\'s_Notice',
+          href: 'http://en.wikipedia.org/wiki/Moment\'s_Notice' } ] } }

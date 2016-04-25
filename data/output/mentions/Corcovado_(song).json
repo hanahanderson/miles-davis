@@ -1,0 +1,13 @@
+{ name: 'Corcovado (song)',
+  href: 'http://en.wikipedia.org/wiki/Corcovado_(song)',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 866,
+       quote: [ 'Miles Davis – Quiet Nights (1962)' ] },
+     { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 866,
+       quote: [] } ] }

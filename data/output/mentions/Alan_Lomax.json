@@ -1,0 +1,8 @@
+{ name: 'Alan Lomax',
+  href: 'http://en.wikipedia.org/wiki/Alan_Lomax',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 25,
+       wordCountBeforeSection: 16436,
+       quote: [ 'When Columbia Records producer George Avakian gave jazz arranger Gil Evans a copy of the Spanish World Library LP, Miles Davis and Evans were "struck by the beauty of pieces such as the \'Saeta\', recorded in Seville, and a panpiper\'s tune (\'Alborada de Vigo\') from Galicia, and worked them into the 1960 album, Sketches of Spain."' ] } ] }

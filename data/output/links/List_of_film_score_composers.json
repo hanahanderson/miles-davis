@@ -1,0 +1,40 @@
+{ name: 'List of film score composers',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_film_score_composers',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following is a list of notable people who compose or have composed soundtrack music for films (i.e. film scores), television, video games and radio. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.imdb.com/title/tt0709493/',
+          href: 'http://www.imdb.com/title/tt0709493/' } ],
+     'dbo:wikiPageID': [ { value: '317158 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682480312 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Film_score_composers',
+          href: 'http://dbpedia.org/resource/Category:Film_score_composers' },
+        { value: 'dbc:Lists_of_people_by_filmmaking_occupation',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_by_filmmaking_occupation' },
+        { value: 'dbc:Lists_of_composers',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_composers' } ],
+     'rdfs:comment': [ { value: 'The following is a list of notable people who compose or have composed soundtrack music for films (i.e. film scores), television, video games and radio. (en)' } ],
+     'rdfs:label': [ { value: 'List of film score composers (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:List of film score composers',
+          href: 'http://de.dbpedia.org/resource/Liste_von_Filmmusik-Komponisten' },
+        { value: 'dbpedia-nl:List of film score composers',
+          href: 'http://nl.dbpedia.org/resource/Lijst_van_componisten_van_filmmuziek' },
+        { value: 'dbpedia-wikidata:List of film score composers',
+          href: 'http://wikidata.dbpedia.org/resource/Q1288539' },
+        { value: 'wikidata:List of film score composers',
+          href: 'http://www.wikidata.org/entity/Q1288539' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_film_score_composers?oldid=682480312',
+          href: 'http://en.wikipedia.org/wiki/List_of_film_score_composers?oldid=682480312' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_film_score_composers',
+          href: 'http://en.wikipedia.org/wiki/List_of_film_score_composers' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_soundtrack_composers',
+          href: 'http://dbpedia.org/resource/List_of_soundtrack_composers' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_film_score_composers',
+          href: 'http://en.wikipedia.org/wiki/List_of_film_score_composers' } ] } }

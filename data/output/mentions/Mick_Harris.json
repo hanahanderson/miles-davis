@@ -1,0 +1,8 @@
+{ name: 'Mick Harris',
+  href: 'http://en.wikipedia.org/wiki/Mick_Harris',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: 'Possible Recs.',
+       sectionIndex: 28,
+       wordCountBeforeSection: 9500,
+       quote: [ 'Harris has cited Discharge circa 1979–1984, Disorder, Chaos UK, Siege, Killing Joke, Joy Division, Swans circa 1983–1995, Cocteau Twins, Membranes, Public Image Limited, Zoviet France, Nurse with Wound, Skinny Puppy, Meat Beat Manifesto, old school and darkside jungle, drum & bass circa 1993–1996, early Aphex Twin, Brian Eno, Lee Scratch Perry, Scientist, Jon Hassell, Miles Davis up to 1975, John Coltrane and Alice Coltrane, Moritz Von Oswald and Berlin Dub Experimentalists, Jeff Mills, Robert Hood, minimal and hard techno, John Zorn, electroacoustic and musique concrète, Found Sounds, Japanese hardcore bands Kuro and Gai (also known as Swankys), Celtic Frost, Possessed, Slayer, Metallica, Death Strike, Genocide, Repulsion, Death, Kid Creole and the Coconuts, Showbiz and A.G., A Tribe Called Quest as prominent inspirations.' ] } ] }

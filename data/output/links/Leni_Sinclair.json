@@ -1,0 +1,37 @@
+{ name: 'Leni Sinclair',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Leni_Sinclair',
+  values: 
+   { 'dbo:abstract': [ { value: 'Leni Sinclair, born Magdalene Arndt, is an American photographer and radical political activist who lives in Detroit. She has photographed rock and jazz musicians since the early 1960s. She was the co-founder of the White Panther Party along with John Sinclair and Pun Plamondon. (en)' } ],
+     'dbo:wikiPageID': [ { value: '41812146 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '667149253 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1940_births',
+          href: 'http://dbpedia.org/resource/Category:1940_births' },
+        { value: 'dbc:American_women_photographers',
+          href: 'http://dbpedia.org/resource/Category:American_women_photographers' },
+        { value: 'dbc:German_emigrants_to_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States' },
+        { value: 'dbc:Living_people',
+          href: 'http://dbpedia.org/resource/Category:Living_people' } ],
+     'rdfs:comment': [ { value: 'Leni Sinclair, born Magdalene Arndt, is an American photographer and radical political activist who lives in Detroit. She has photographed rock and jazz musicians since the early 1960s. She was the co-founder of the White Panther Party along with John Sinclair and Pun Plamondon. (en)' } ],
+     'rdfs:label': [ { value: 'Leni Sinclair (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Leni Sinclair',
+          href: 'http://rdf.freebase.com/ns/m.0_lmt5z' },
+        { value: 'wikidata:Leni Sinclair',
+          href: 'http://www.wikidata.org/entity/Q16105483' },
+        { value: 'dbpedia-wikidata:Leni Sinclair',
+          href: 'http://wikidata.dbpedia.org/resource/Q16105483' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Leni_Sinclair?oldid=667149253',
+          href: 'http://en.wikipedia.org/wiki/Leni_Sinclair?oldid=667149253' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Leni_Sinclair',
+          href: 'http://en.wikipedia.org/wiki/Leni_Sinclair' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Magdalene_Arndt',
+          href: 'http://dbpedia.org/resource/Magdalene_Arndt' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Leni_Sinclair',
+          href: 'http://en.wikipedia.org/wiki/Leni_Sinclair' } ] } }

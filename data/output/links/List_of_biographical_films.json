@@ -1,0 +1,35 @@
+{ name: 'List of biographical films',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_biographical_films',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of biographical films. (en)' } ],
+     'dbo:wikiPageID': [ { value: '5426051 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683803896 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Biographical_films',
+          href: 'http://dbpedia.org/resource/Category:Biographical_films' },
+        { value: 'dbc:Lists_of_films_by_genre',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_films_by_genre' } ],
+     'rdfs:comment': [ { value: 'This is a list of biographical films. (en)' } ],
+     'rdfs:label': [ { value: 'List of biographical films (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:List of biographical films',
+          href: 'http://de.dbpedia.org/resource/Liste_von_Filmbiografien_nach_dargestellter_Persönlichkeit' },
+        { value: 'dbpedia-nl:List of biographical films',
+          href: 'http://nl.dbpedia.org/resource/Lijst_van_biopics' },
+        { value: 'dbpedia-wikidata:List of biographical films',
+          href: 'http://wikidata.dbpedia.org/resource/Q2426782' },
+        { value: 'wikidata:List of biographical films',
+          href: 'http://www.wikidata.org/entity/Q2426782' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_biographical_films?oldid=683803896',
+          href: 'http://en.wikipedia.org/wiki/List_of_biographical_films?oldid=683803896' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_biographical_films',
+          href: 'http://en.wikipedia.org/wiki/List_of_biographical_films' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_biopics',
+          href: 'http://dbpedia.org/resource/List_of_biopics' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_biographical_films',
+          href: 'http://en.wikipedia.org/wiki/List_of_biographical_films' } ] } }

@@ -1,0 +1,100 @@
+{ name: 'Katumbo (Dance)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Katumbo_(Dance)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '30.75' } ],
+     'dbo:abstract': [ { value: 'Katumbo (Dance) is an album by American trumpeter Johnny Coles recorded in 1971 for the Mainstream label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Johnny_Coles',
+          href: 'http://dbpedia.org/resource/Johnny_Coles' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Little_Johnny_C',
+          href: 'http://dbpedia.org/resource/Little_Johnny_C' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Shad',
+          href: 'http://dbpedia.org/resource/Bob_Shad' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Mainstream_Records',
+          href: 'http://dbpedia.org/resource/Mainstream_Records' } ],
+     'dbo:runtime': [ { value: '1845.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:New_Morning_(Johnny_Coles_album)',
+          href: 'http://dbpedia.org/resource/New_Morning_(Johnny_Coles_album)' } ],
+     'dbo:wikiPageID': [ { value: '44386330 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '633641589 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Johnny_Coles',
+          href: 'http://dbpedia.org/resource/Johnny_Coles' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Johnny_Coles',
+          href: 'http://dbpedia.org/resource/Johnny_Coles' } ],
+     'dbp:cover': [ { value: 'Katumbo .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Mainstream_Records',
+          href: 'http://dbpedia.org/resource/Mainstream_Records' },
+        { value: 'MRL 346 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Little Johnny C (en)' } ],
+     'dbp:length': [ { value: '1845.0' } ],
+     'dbp:name': [ { value: 'Katumbo (en)' } ],
+     'dbp:nextAlbum': [ { value: 'New Morning (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Shad',
+          href: 'http://dbpedia.org/resource/Bob_Shad' } ],
+     'dbp:recorded': [ { value: '1971 (xsd:integer)' } ],
+     'dbp:released': [ { value: '1971 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Katumbo (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1971_albums',
+          href: 'http://dbpedia.org/resource/Category:1971_albums' },
+        { value: 'dbc:Johnny_Coles_albums',
+          href: 'http://dbpedia.org/resource/Category:Johnny_Coles_albums' },
+        { value: 'dbc:Albums_produced_by_Bob_Shad',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Shad' },
+        { value: 'dbc:Mainstream_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Mainstream_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Katumbo (Dance) is an album by American trumpeter Johnny Coles recorded in 1971 for the Mainstream label. (en)' } ],
+     'rdfs:label': [ { value: 'Katumbo (Dance) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Katumbo (Dance)',
+          href: 'http://rdf.freebase.com/ns/m.0129gdb2' },
+        { value: 'dbpedia-wikidata:Katumbo (Dance)',
+          href: 'http://wikidata.dbpedia.org/resource/Q19893530' },
+        { value: 'wikidata:Katumbo (Dance)',
+          href: 'http://www.wikidata.org/entity/Q19893530' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Katumbo_(Dance)?oldid=633641589',
+          href: 'http://en.wikipedia.org/wiki/Katumbo_(Dance)?oldid=633641589' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Katumbo_(Dance)',
+          href: 'http://en.wikipedia.org/wiki/Katumbo_(Dance)' } ],
+     'foaf:name': [ { value: 'Katumbo (Dance) (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Little_Johnny_C',
+          href: 'http://dbpedia.org/resource/Little_Johnny_C' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Katumbo_(Dance)',
+          href: 'http://en.wikipedia.org/wiki/Katumbo_(Dance)' } ] } }

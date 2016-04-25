@@ -1,0 +1,8 @@
+{ name: 'Darn That Dream',
+  href: 'http://en.wikipedia.org/wiki/Darn_That_Dream',
+  mentions: 
+   [ { sectionHeader: 'Recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1190,
+       quote: [ 'Miles Davis - Birth of the Cool (vocal by Kenny Hagood) (1950)' ] } ] }

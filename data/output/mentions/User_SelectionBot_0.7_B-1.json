@@ -1,0 +1,8 @@
+{ name: 'User:SelectionBot/0.7/B-1',
+  href: 'http://en.wikipedia.org/wiki/User:SelectionBot/0.7/B-1',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 131,
+       wordCountBeforeSection: 60713,
+       quote: [ 'Miles Davis :' ] } ] }

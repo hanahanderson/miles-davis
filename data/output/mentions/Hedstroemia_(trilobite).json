@@ -1,0 +1,8 @@
+{ name: 'Hedstroemia (trilobite)',
+  href: 'http://en.wikipedia.org/wiki/Hedstroemia_(trilobite)',
+  mentions: 
+   [ { sectionHeader: 'Taxonomic history',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 455,
+       quote: [ 'The genus was named after musician Miles Davis, and the type species, Milesdavis eldredgei, was named in honor of the paleontologist Niles Eldredge.' ] } ] }

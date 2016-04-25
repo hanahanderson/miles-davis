@@ -1,0 +1,18 @@
+{ name: 'Brick Fleagle',
+  href: 'http://en.wikipedia.org/wiki/Brick_Fleagle',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 180,
+       quote: [ '\nHoward McGhee, Brick Fleagle and Miles Davis, c.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 180,
+       quote: [ 'Howard McGhee, Brick Fleagle and Miles Davis, c.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 590,
+       quote: [ 'He played during the Golden Age of jazz, performing with leading musicians including Miles Davis.' ] } ] }

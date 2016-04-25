@@ -1,0 +1,8 @@
+{ name: 'Miles (given name)',
+  href: 'http://en.wikipedia.org/wiki/Miles_(given_name)',
+  mentions: 
+   [ { sectionHeader: 'Persons with the name',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 455,
+       quote: [ 'Miles Davis, jazz trumpet player' ] } ] }

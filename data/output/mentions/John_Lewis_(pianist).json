@@ -1,0 +1,10 @@
+{ name: 'John Lewis (pianist)',
+  href: 'http://en.wikipedia.org/wiki/John_Lewis_(pianist)',
+  mentions: 
+   [ { sectionHeader: 'Jazz career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3295,
+       quote: 
+        [ 'Lewis also was part of Miles Davis\'s Birth of the Cool sessions.',
+          'From when he returned to the U.S. in 1948 through 1949, Lewis joined Davis\'s nonet and is considered "one of the more prolific arrangers with the 1949 Miles Davis Nonet".' ] } ] }

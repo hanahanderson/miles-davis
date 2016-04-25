@@ -1,0 +1,13 @@
+{ name: 'So Beautiful or So What',
+  href: 'http://en.wikipedia.org/wiki/So_Beautiful_or_So_What',
+  mentions: 
+   [ { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 12265,
+       quote: [ 'Simon included the line to create a sharp transition from angels in Heaven to a downtown Brooklyn street. "So Beautiful or So What" contains what Simon once admitted is "one of  favorite Bo Diddley rhythms," and the song’s title references Miles Davis\'s "So What".' ] },
+     { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 12265,
+       quote: [ 'Simon included the line to create a sharp transition from angels in Heaven to a downtown Brooklyn street. "So Beautiful or So What" contains what Simon once admitted is "one of  favorite Bo Diddley rhythms," and the song’s title references Miles Davis\'s "So What".' ] } ] }

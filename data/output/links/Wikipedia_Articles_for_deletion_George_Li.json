@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Articles for deletion/George Li',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Articles_for_deletion/George_Li',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

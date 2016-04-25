@@ -1,0 +1,8 @@
+{ name: 'Zoobombs',
+  href: 'http://en.wikipedia.org/wiki/Zoobombs',
+  mentions: 
+   [ { sectionHeader: 'Style and influences',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2072,
+       quote: [ 'The band\'s funk-rock style is influenced by acts such as the Rolling Stones, Jimi Hendrix and Miles Davis.' ] } ] }

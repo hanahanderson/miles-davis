@@ -1,0 +1,8 @@
+{ name: 'Mute (music)',
+  href: 'http://en.wikipedia.org/wiki/Mute_(music)',
+  mentions: 
+   [ { sectionHeader: 'Brass',
+       sectionSubHeader: '',
+       sectionIndex: 51,
+       wordCountBeforeSection: 9510,
+       quote: [ 'Miles Davis often played through a Harmon mute without the stem.' ] } ] }

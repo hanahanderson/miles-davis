@@ -1,0 +1,92 @@
+{ name: 'Grammy Award for Best Music Film',
+  entityType: 'award',
+  href: 'http://dbpedia.org/page/Grammy_Award_for_Best_Music_Film',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Grammy Award for Best Music Film (until 2013 known as Best Long Form Music Video) is an accolade presented at the Grammy Awards, a ceremony that was established in 1958 and originally named the Gramophone Awards, to performers, directors, and producers of quality videos or musical programs. Honors in several categories are presented at the ceremony annually by the National Academy of Recording Arts and Sciences of the United States to "honor artistic achievement, technical proficiency and overall excellence in the recording industry, without regard to album sales or chart position".The category was preceded by the Grammy Award for Video of the Year, which was presented in 1982 and 1983, awarding long form videos (or video albums as they were known back then) in the budding music video market. The category was discontinued after 1983.The Best Music Film category is for concert/performance films or music documentaries. Music-related documentaries must have 51 percent or more music performance-based material. Also eligible are general release theatrical, non-fictional music-related films with 51 percent or more music performance-based material.The Best Music Film category is one of two categories in the Best Music Video/Film Field. The other one is Best Music Video, which recognises stand-alone videos of one song or performance. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Duran_Duran.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Duran_Duran.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.grammy.com/',
+          href: 'http://www.grammy.com/' },
+        { value: 'http://www.grammy.com/nominees/search?artist=&title=&year=All&genre=18',
+          href: 'http://www.grammy.com/nominees/search?artist=&title=&year=All&genre=18' } ],
+     'dbo:wikiPageID': [ { value: '586170 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671270998 (xsd:integer)' } ],
+     'dbp:alt': [ { value: 'A gold gramophone trophy with a plaque set on a table (en)' } ],
+     'dbp:caption': [ { value: 'Gilded gramophone trophy presented to Grammy Award winners (en)' } ],
+     'dbp:country': [ { value: 'United States (en)' } ],
+     'dbp:description': [ { value: 'quality long form music videos (en)' } ],
+     'dbp:imagesize': [ { value: '100 (xsd:integer)' } ],
+     'dbp:name': [ { value: 'Grammy Award for Best Music Film (en)' } ],
+     'dbp:presenter': 
+      [ { value: 'dbr:National_Academy_of_Recording_Arts_and_Sciences',
+          href: 'http://dbpedia.org/resource/National_Academy_of_Recording_Arts_and_Sciences' } ],
+     'dbp:website': 
+      [ { value: 'http://www.grammy.com/',
+          href: 'http://www.grammy.com/' } ],
+     'dbp:year': 
+      [ { value: '1984 (xsd:integer)' },
+        { value: '2015 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Grammy_Award_categories',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Award_categories' },
+        { value: 'dbc:Grammy_Award_for_Best_Long_Form_Music_Video',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Award_for_Best_Long_Form_Music_Video' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q618779',
+          href: 'http://www.wikidata.org/entity/Q618779' },
+        { value: 'dbo:Award',
+          href: 'http://dbpedia.org/ontology/Award' } ],
+     'rdfs:comment': [ { value: 'The Grammy Award for Best Music Film (until 2013 known as Best Long Form Music Video) is an accolade presented at the Grammy Awards, a ceremony that was established in 1958 and originally named the Gramophone Awards, to performers, directors, and producers of quality videos or musical programs. (en)' } ],
+     'rdfs:label': [ { value: 'Grammy Award for Best Music Film (en)' } ],
+     'owl:differentFrom': 
+      [ { value: 'dbr:Grammy_Award_for_Best_Music_Video',
+          href: 'http://dbpedia.org/resource/Grammy_Award_for_Best_Music_Video' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Grammy Award for Best Music Film',
+          href: 'http://rdf.freebase.com/ns/m.02sp_v' },
+        { value: 'dbpedia-de:Grammy Award for Best Music Film',
+          href: 'http://de.dbpedia.org/resource/Grammy_Award_for_Best_Music_Film' },
+        { value: 'dbpedia-es:Grammy Award for Best Music Film',
+          href: 'http://es.dbpedia.org/resource/Anexo:Premio_Grammy_al_mejor_video_musical_de_formato_largo' },
+        { value: 'dbpedia-pt:Grammy Award for Best Music Film',
+          href: 'http://pt.dbpedia.org/resource/Grammy_Award_para_Best_Long_Form_Music_Video' },
+        { value: 'dbpedia-wikidata:Grammy Award for Best Music Film',
+          href: 'http://wikidata.dbpedia.org/resource/Q4992254' },
+        { value: 'wikidata:Grammy Award for Best Music Film',
+          href: 'http://www.wikidata.org/entity/Q4992254' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Music_Film?oldid=671270998',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Music_Film?oldid=671270998' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Duran_Duran.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Duran_Duran.jpg' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.grammy.com/',
+          href: 'http://www.grammy.com/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Music_Film',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Music_Film' } ],
+     'foaf:name': [ { value: 'Grammy Award for Best Music Film (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Best_Long_Form_Music_Video',
+          href: 'http://dbpedia.org/resource/Best_Long_Form_Music_Video' },
+        { value: 'dbr:Best_Music_Film',
+          href: 'http://dbpedia.org/resource/Best_Music_Film' },
+        { value: 'dbr:Best_Music_Video,_Long_Form',
+          href: 'http://dbpedia.org/resource/Best_Music_Video,_Long_Form' },
+        { value: 'dbr:Best_Music_Video_Long_Form',
+          href: 'http://dbpedia.org/resource/Best_Music_Video_Long_Form' },
+        { value: 'dbr:Grammy_Award_for_Best_Long_Form_Music_Video',
+          href: 'http://dbpedia.org/resource/Grammy_Award_for_Best_Long_Form_Music_Video' },
+        { value: 'dbr:Grammy_Award_for_Best_Music_Video,_Long_Form',
+          href: 'http://dbpedia.org/resource/Grammy_Award_for_Best_Music_Video,_Long_Form' } ],
+     'is owl:differentFrom\n of': 
+      [ { value: 'dbr:Grammy_Award_for_Best_Music_Video',
+          href: 'http://dbpedia.org/resource/Grammy_Award_for_Best_Music_Video' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Grammy_Award_for_Best_Music_Film',
+          href: 'http://en.wikipedia.org/wiki/Grammy_Award_for_Best_Music_Film' } ] } }

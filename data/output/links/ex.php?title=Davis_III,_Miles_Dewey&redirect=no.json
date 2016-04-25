@@ -1,0 +1,4 @@
+{ name: 'Davis III, Miles Dewey',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/ex.php?title=Davis_III,_Miles_Dewey&redirect=no',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

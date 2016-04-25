@@ -1,0 +1,41 @@
+{ name: 'Tresillo (rhythm)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Tresillo_(rhythm)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Tresillo is a more basic form of the rhythmic figure known as the habanera. It is the most fundamental duple-pulse rhythmic cell in Cuban and other Latin American musics. Tresillo was introduced in the New World through the Atlantic slave trade during the Colonial period. The pattern is also the most fundamental and most prevalent duple-pulse rhythmic cell in Sub-Saharan African music traditions. Anglicized pronunciation: tray-see-yo.The cinquillo pattern is another common embellishment of tresillo. Cinquillo is used frequently in the Cuban contradanza (the "habanera") and the danzón. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Tresillo_divisive.png?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tresillo_divisive.png?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.youtube.com/watch?v=nVtnoy8aZyA',
+          href: 'http://www.youtube.com/watch?v=nVtnoy8aZyA' } ],
+     'dbo:wikiPageID': [ { value: '34661502 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679735928 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Articles_containing_video_clips',
+          href: 'http://dbpedia.org/resource/Category:Articles_containing_video_clips' },
+        { value: 'dbc:Cuban_music',
+          href: 'http://dbpedia.org/resource/Category:Cuban_music' },
+        { value: 'dbc:Rhythm_and_meter',
+          href: 'http://dbpedia.org/resource/Category:Rhythm_and_meter' } ],
+     'rdfs:comment': [ { value: 'Tresillo is a more basic form of the rhythmic figure known as the habanera. It is the most fundamental duple-pulse rhythmic cell in Cuban and other Latin American musics. Tresillo was introduced in the New World through the Atlantic slave trade during the Colonial period. The pattern is also the most fundamental and most prevalent duple-pulse rhythmic cell in Sub-Saharan African music traditions. (en)' } ],
+     'rdfs:label': [ { value: 'Tresillo (rhythm) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Tresillo (rhythm)',
+          href: 'http://rdf.freebase.com/ns/m.0j240cr' },
+        { value: 'dbpedia-wikidata:Tresillo (rhythm)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7838787' },
+        { value: 'wikidata:Tresillo (rhythm)',
+          href: 'http://www.wikidata.org/entity/Q7838787' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Tresillo_(rhythm)?oldid=679735928',
+          href: 'http://en.wikipedia.org/wiki/Tresillo_(rhythm)?oldid=679735928' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Tresillo_divisive.png',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tresillo_divisive.png' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Tresillo_(rhythm)',
+          href: 'http://en.wikipedia.org/wiki/Tresillo_(rhythm)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Tresillo_(rhythm)',
+          href: 'http://en.wikipedia.org/wiki/Tresillo_(rhythm)' } ] } }

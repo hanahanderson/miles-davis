@@ -1,0 +1,8 @@
+{ name: 'Live from Los Angeles',
+  href: 'http://en.wikipedia.org/wiki/Live_from_Los_Angeles',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1211,
+       quote: [ '"Milestones" (Miles Davis) - 8:32' ] } ] }

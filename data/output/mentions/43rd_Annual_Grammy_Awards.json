@@ -1,0 +1,13 @@
+{ name: '43rd Annual Grammy Awards',
+  href: 'http://en.wikipedia.org/wiki/43rd_Annual_Grammy_Awards',
+  mentions: 
+   [ { sectionHeader: 'Packaging and notes',
+       sectionSubHeader: '',
+       sectionIndex: 53,
+       wordCountBeforeSection: 10493,
+       quote: [ 'Arnold Levine & Frank Harkins (art directors) for Miles Davis & John Coltrane: The Complete Columbia Recordings 1955-1961 performed by Miles Davis & John Coltrane' ] },
+     { sectionHeader: 'Packaging and notes',
+       sectionSubHeader: '',
+       sectionIndex: 53,
+       wordCountBeforeSection: 10493,
+       quote: [ 'Bob Blumenthal (notes writer) for Miles Davis & John Coltrane: The Complete Columbia Recordings 1955-1961 performed by Miles Davis & John Coltrane' ] } ] }

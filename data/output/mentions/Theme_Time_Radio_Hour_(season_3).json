@@ -1,0 +1,8 @@
+{ name: 'Theme Time Radio Hour (season 3)',
+  href: 'http://en.wikipedia.org/wiki/Theme_Time_Radio_Hour_(season_3)',
+  mentions: 
+   [ { sectionHeader: 'Episodes',
+       sectionSubHeader: '',
+       sectionIndex: 71,
+       wordCountBeforeSection: 10178,
+       quote: [ '"Nice Work If You Can Get It – Sarah Vaughan (with Miles Davis) (1950)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Peter Yarrow',
+  href: 'http://en.wikipedia.org/wiki/Peter_Yarrow',
+  mentions: 
+   [ { sectionHeader: 'Social activism',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 13292,
+       quote: [ 'These events raised funds for antiwar political candidates and featured dozens of folk, rock, jazz, and blues stars such as Jimi Hendrix, Janis Joplin, Paul Simon, Miles Davis, Tom Paxton, Creedence Clearwater Revival, and Steppenwolf.' ] } ] }

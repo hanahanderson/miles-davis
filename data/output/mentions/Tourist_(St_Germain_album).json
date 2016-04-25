@@ -1,0 +1,8 @@
+{ name: 'Tourist (St Germain album)',
+  href: 'http://en.wikipedia.org/wiki/Tourist_(St_Germain_album)',
+  mentions: 
+   [ { sectionHeader: 'Credits',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1301,
+       quote: [ 'Miles Davis & John Lee Hooker (excerpts from Elements from \'Harry\'s Philosophy\', from The Hot Spot soundtrack)' ] } ] }

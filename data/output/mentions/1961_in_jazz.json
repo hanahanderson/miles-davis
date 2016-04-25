@@ -1,0 +1,8 @@
+{ name: '1961 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1961_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Awards',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 3789,
+       quote: [ 'Gil Evans & Miles Davis for Sketches of Spain' ] } ] }

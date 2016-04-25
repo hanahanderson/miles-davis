@@ -1,0 +1,8 @@
+{ name: 'Benny Carter',
+  href: 'http://en.wikipedia.org/wiki/Benny_Carter',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 7245,
+       quote: [ 'In 1945, trumpeter Miles Davis made his first recordings with Carter as sideman on album Benny Carter and His Orchestra, and considered him a close friend and mentor.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'The Paris Concert: Edition Two',
+  href: 'http://en.wikipedia.org/wiki/The_Paris_Concert:_Edition_Two',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 997,
+       quote: [ '"Nardis" (Miles Davis) - 17:31' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1372,
+       quote: [ 'Miles Davis' ] } ] }

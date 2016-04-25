@@ -1,0 +1,8 @@
+{ name: 'Talk:John Coltrane/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:John_Coltrane/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'Selected Discography',
+       sectionSubHeader: '',
+       sectionIndex: 50,
+       wordCountBeforeSection: 16041,
+       quote: [ 'The Miles Davis article omits the selected discography, and that might help make the article snappier.' ] } ] }

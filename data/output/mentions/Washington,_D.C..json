@@ -1,0 +1,8 @@
+{ name: 'Washington, D.C.',
+  href: 'http://en.wikipedia.org/wiki/Washington,_D.C.',
+  mentions: 
+   [ { sectionHeader: 'Culture',
+       sectionSubHeader: '',
+       sectionIndex: 115,
+       wordCountBeforeSection: 41120,
+       quote: [ 'The U Street Corridor in Northwest D.C., known as "Washington\'s Black Broadway", is home to institutions like the Howard Theatre, Bohemian Caverns, and the Lincoln Theatre, which hosted music legends such as Washington-native Duke Ellington, John Coltrane, and Miles Davis.' ] } ] }

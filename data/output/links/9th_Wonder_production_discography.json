@@ -1,0 +1,40 @@
+{ name: '9th Wonder production discography',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/9th_Wonder_production_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following songs were produced by 9th Wonder. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.hiphopgalaxy.com/9th-Wonder-hip-hop-1649.html',
+          href: 'http://www.hiphopgalaxy.com/9th-Wonder-hip-hop-1649.html' },
+        { value: 'http://www.discogs.com/artist/9th+Wonder',
+          href: 'http://www.discogs.com/artist/9th+Wonder' } ],
+     'dbo:wikiPageID': [ { value: '24274407 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677463050 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Hip_hop_discographies',
+          href: 'http://dbpedia.org/resource/Category:Hip_hop_discographies' },
+        { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' },
+        { value: 'dbc:Production_discographies',
+          href: 'http://dbpedia.org/resource/Category:Production_discographies' } ],
+     'rdfs:comment': [ { value: 'The following songs were produced by 9th Wonder. (en)' } ],
+     'rdfs:label': [ { value: '9th Wonder production discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:9th Wonder production discography',
+          href: 'http://fr.dbpedia.org/resource/Productions_de_9th_Wonder' },
+        { value: 'dbpedia-wikidata:9th Wonder production discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q211235' },
+        { value: 'wikidata:9th Wonder production discography',
+          href: 'http://www.wikidata.org/entity/Q211235' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:9th_Wonder_production_discography?oldid=677463050',
+          href: 'http://en.wikipedia.org/wiki/9th_Wonder_production_discography?oldid=677463050' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:9th_Wonder_production_discography',
+          href: 'http://en.wikipedia.org/wiki/9th_Wonder_production_discography' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:9th_Wonder_discography',
+          href: 'http://dbpedia.org/resource/9th_Wonder_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:9th_Wonder_production_discography',
+          href: 'http://en.wikipedia.org/wiki/9th_Wonder_production_discography' } ] } }

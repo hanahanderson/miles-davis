@@ -1,0 +1,8 @@
+{ name: 'Saturday Night Live (season 7)',
+  href: 'http://en.wikipedia.org/wiki/Saturday_Night_Live_(season_7)',
+  mentions: 
+   [ { sectionHeader: 'Episodes',
+       sectionSubHeader: 'Cast members',
+       sectionIndex: 24,
+       wordCountBeforeSection: 5020,
+       quote: [ 'Miles Davis' ] } ] }

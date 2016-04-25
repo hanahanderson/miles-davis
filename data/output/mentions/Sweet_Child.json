@@ -1,0 +1,13 @@
+{ name: 'Sweet Child',
+  href: 'http://en.wikipedia.org/wiki/Sweet_Child',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 500,
+       quote: [ 'The melody for the song "I\'ve Got a Feeling" is taken from "All Blues" by Miles Davis, a track on his classic album Kind of Blue.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2195,
+       quote: [] } ] }

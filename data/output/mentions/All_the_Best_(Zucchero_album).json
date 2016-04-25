@@ -1,0 +1,8 @@
+{ name: 'All the Best (Zucchero album)',
+  href: 'http://en.wikipedia.org/wiki/All_the_Best_(Zucchero_album)',
+  mentions: 
+   [ { sectionHeader: 'Overview',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1679,
+       quote: [ 'It includes hits "Diamante" and "Il Volo", as well collaborations "Dune Mosse" with Miles Davis, "Miserere" with Luciano Pavarotti, cover "Everybody\'s Got to Learn Sometime" (Italian version "Indaco Dagli Occhi Del Cielo") feat Vanessa Carlton and Haylie Ecker, "Ali D\'Oro" feat John Lee Hooker, and "Senza Una Donna (Without A Woman)" feat Paul Young.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'The Great Jazz Trio at the Village Vanguard Vol. 2',
+  href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Trio_at_the_Village_Vanguard_Vol._2',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 847,
+       quote: [ 'On All About Jazz John Kelman noted "Carter and Williams had a shared history as part of Miles Davis\' more outward-reaching second quintet in the mid-\'60s, so they had just the right combination of traditionalism and outside-the-box spontaneity to make this set—consisting of one Charlie Parker tune, one standard, a Davis tune, and a Williams original—a potent blend of reverence and liberated musical thinking".' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1559,
+       quote: [ '"Nardis" (Miles Davis) - 11:03' ] } ] }

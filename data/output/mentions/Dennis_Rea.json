@@ -1,0 +1,8 @@
+{ name: 'Dennis Rea',
+  href: 'http://en.wikipedia.org/wiki/Dennis_Rea',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 2222,
+       quote: [ 'He credits King Crimson and Soft Machine with his abiding interest in modern jazz and credits his brother with introducing him to the music of Miles Davis, John Coltrane, Eric Dolphy, Albert Ayler, and Ornette Coleman.' ] } ] }

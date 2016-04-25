@@ -1,0 +1,13 @@
+{ name: '1959 in music',
+  href: 'http://en.wikipedia.org/wiki/1959_in_music',
+  mentions: 
+   [ { sectionHeader: 'Events',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 740,
+       quote: [ 'March 2 & April 22 – The recording sessions for the extremely influential Miles Davis jazz album Kind of Blue take place at the CBS 30th Street Studio in New York City.' ] },
+     { sectionHeader: 'Albums released (in alphabetical order)',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 4774,
+       quote: [ 'Kind of Blue – Miles Davis' ] } ] }

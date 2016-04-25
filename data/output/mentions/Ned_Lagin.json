@@ -1,0 +1,8 @@
+{ name: 'Ned Lagin',
+  href: 'http://en.wikipedia.org/wiki/Ned_Lagin',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2537,
+       quote: [ 'The eclectic nature of his musical skills and interests came as a result of the diversity and depth of his early formative influences, which ranged from Claude Debussy, Maurice Ravel, and Gustav Mahler, to Medieval, Renaissance, and Baroque keyboard and choral music, to Frank Sinatra and Barbra Streisand, to Aaron Copland, Charles Ives and George Gershwin, to Bill Evans, Dave Brubeck, John Coltrane, Miles Davis, and modal and free jazz.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Scritti Politti',
+  href: 'http://en.wikipedia.org/wiki/Scritti_Politti',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 14287,
+       quote: [ 'The roster of session players became even more notable, including contributions from Roger Troutman, Marcus Miller and Miles Davis, who performed on the single "Oh Patti (Don\'t Feel Sorry For Loverboy)", a UK No. 13 hit.' ] } ] }

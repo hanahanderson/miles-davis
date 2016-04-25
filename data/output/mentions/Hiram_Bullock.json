@@ -1,0 +1,8 @@
+{ name: 'Hiram Bullock',
+  href: 'http://en.wikipedia.org/wiki/Hiram_Bullock',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 973,
+       quote: [ 'He also did work for Harry Belafonte, Marcus Miller, Carla Bley, Miles Davis, Ruben Rada (on the album Montevideo) and Gil Evans.' ] } ] }

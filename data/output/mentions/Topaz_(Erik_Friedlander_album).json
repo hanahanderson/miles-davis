@@ -1,0 +1,8 @@
+{ name: 'Topaz (Erik Friedlander album)',
+  href: 'http://en.wikipedia.org/wiki/Topaz_(Erik_Friedlander_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 980,
+       quote: [ '"Tout de Suite" (Miles Davis) - 8:29' ] } ] }

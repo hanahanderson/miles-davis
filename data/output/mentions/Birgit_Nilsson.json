@@ -1,0 +1,8 @@
+{ name: 'Birgit Nilsson',
+  href: 'http://en.wikipedia.org/wiki/Birgit_Nilsson',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Later life',
+       sectionIndex: 74,
+       wordCountBeforeSection: 25551,
+       quote: [ 'Miles Davis (1984)' ] } ] }

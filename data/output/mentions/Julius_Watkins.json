@@ -1,0 +1,8 @@
+{ name: 'Julius Watkins',
+  href: 'http://en.wikipedia.org/wiki/Julius_Watkins',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1072,
+       quote: [ 'Watkins recorded with numerous jazz musicians, including John Coltrane, Freddie Hubbard, Charles Mingus, Miles Davis and Gil Evans, Phil Woods, Clark Terry, Johnny Griffin, Randy Weston, and with the Jazz Composer\'s Orchestra.' ] } ] }

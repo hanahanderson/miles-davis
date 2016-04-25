@@ -1,0 +1,107 @@
+{ name: 'The Mastery of John Coltrane, Vol. 3: Jupiter Variation',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '37.0' } ],
+     'dbo:abstract': [ { value: 'The Mastery of John Coltrane, Vol. III: Jupiter Variation is a compilation album by American saxophonist John Coltrane, which features pieces recorded in 1966 and 1967, but not released until 1978 on Impulse! Records as IA 9360. All tracks were previously unreleased, at the time of release. "Number One" may also be found on the CD reissue of Expression, while "Jupiter (Variation)" and "Leo" may be found on the reissue of Interstellar Space. "Peace on Earth", with posthumous overdubbings, can be found on Infinity. The version here is the original. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Free_jazz',
+          href: 'http://dbpedia.org/resource/Free_jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:recordDate': 
+      [ { value: '1966-02-02 (xsd:date)' },
+        { value: '1967-02-22 (xsd:date)' },
+        { value: '1967-03-07 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Impulse!_Records',
+          href: 'http://dbpedia.org/resource/Impulse!_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' },
+        { value: 'dbr:San_Francisco',
+          href: 'http://dbpedia.org/resource/San_Francisco' },
+        { value: 'dbr:Englewood_Cliffs,_New_Jersey',
+          href: 'http://dbpedia.org/resource/Englewood_Cliffs,_New_Jersey' } ],
+     'dbo:runtime': [ { value: '2220.000000 (xsd:double)' } ],
+     'dbo:wikiPageID': [ { value: '35458304 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681036820 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:cover': [ { value: 'The_Mastery_of_John_Coltrane,_Vol._III_Jupiter_Variation.JPG (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Free_jazz',
+          href: 'http://dbpedia.org/resource/Free_jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Impulse!_Records',
+          href: 'http://dbpedia.org/resource/Impulse!_Records' },
+        { value: 'IA 9360 (en)' } ],
+     'dbp:length': [ { value: '2220.0' } ],
+     'dbp:name': [ { value: 'The Mastery of John Coltrane, Vol. III: Jupiter Variation (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:recorded': 
+      [ { value: '1966-02-02 (xsd:date)' },
+        { value: '1967-02-22 (xsd:date)' },
+        { value: '1967-03-07 (xsd:date)' },
+        { value: '(Van Gelder Studio, Englewood Cliffs) (en)' },
+        { value: 'Coast Recorders, San Francisco (en)' } ],
+     'dbp:released': [ { value: '1978 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'Allmusic (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:type': [ { value: 'compilation (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1978_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:1978_compilation_albums' },
+        { value: 'dbc:John_Coltrane_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Coltrane_compilation_albums' },
+        { value: 'dbc:Compilation_albums_published_posthumously',
+          href: 'http://dbpedia.org/resource/Category:Compilation_albums_published_posthumously' },
+        { value: 'dbc:Impulse!_Records_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Impulse!_Records_compilation_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Mastery of John Coltrane, Vol. III: Jupiter Variation is a compilation album by American saxophonist John Coltrane, which features pieces recorded in 1966 and 1967, but not released until 1978 on Impulse! Records as IA 9360. All tracks were previously unreleased, at the time of release. "Number One" may also be found on the CD reissue of Expression, while "Jupiter (Variation)" and "Leo" may be found on the reissue of Interstellar Space. (en)' } ],
+     'rdfs:label': [ { value: 'The Mastery of John Coltrane, Vol. 3: Jupiter Variation (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Mastery of John Coltrane, Vol. 3: Jupiter Variation',
+          href: 'http://rdf.freebase.com/ns/m.03fznzy' },
+        { value: 'dbpedia-it:The Mastery of John Coltrane, Vol. 3: Jupiter Variation',
+          href: 'http://it.dbpedia.org/resource/The_Mastery_of_John_Coltrane_Vol._3:_Jupiter_Variation' },
+        { value: 'dbpedia-wikidata:The Mastery of John Coltrane, Vol. 3: Jupiter Variation',
+          href: 'http://wikidata.dbpedia.org/resource/Q7750631' },
+        { value: 'wikidata:The Mastery of John Coltrane, Vol. 3: Jupiter Variation',
+          href: 'http://www.wikidata.org/entity/Q7750631' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation?oldid=681036820',
+          href: 'http://en.wikipedia.org/wiki/The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation?oldid=681036820' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation',
+          href: 'http://en.wikipedia.org/wiki/The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation' } ],
+     'foaf:name': [ { value: 'The Mastery of John Coltrane, Vol. III: Jupiter Variation (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation',
+          href: 'http://en.wikipedia.org/wiki/The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation' } ] } }

@@ -1,0 +1,13 @@
+{ name: 'French horn',
+  href: 'http://en.wikipedia.org/wiki/French_horn',
+  mentions: 
+   [ { sectionHeader: 'In jazz',
+       sectionSubHeader: 'Chamber music',
+       sectionIndex: 99,
+       wordCountBeforeSection: 38382,
+       quote: [ 'Notable exponents, however, include composer/arranger Gil Evans who included the horn as an ensemble instrument from the 1940s, first in Claude Thornhill\'s groups, and later with the pioneering cool jazz nonet led by trumpeter Miles Davis, and in many other projects that sometimes also featured Davis, as well as Don Ellis, a trumpet player from Stan Kenton\'s jazz band.' ] },
+     { sectionHeader: 'Notable horn players',
+       sectionSubHeader: 'Chamber music',
+       sectionIndex: 102,
+       wordCountBeforeSection: 39247,
+       quote: [ 'Gunther Schuller – former principal horn of the Cincinnati Symphony Orchestra and Metropolitan Opera Orchestra and played with Miles Davis.' ] } ] }

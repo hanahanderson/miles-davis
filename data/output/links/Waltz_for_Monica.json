@@ -1,0 +1,99 @@
+{ name: 'Waltz for Monica',
+  entityType: 'Q11424',
+  href: 'http://dbpedia.org/page/Waltz_for_Monica',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '111.0' } ],
+     'dbo:abstract': [ { value: 'Waltz for Monica (Monica Z) is a 2013 Swedish biographical film directed by Per Fly. It is based on the true life and career of singer and actress Monica Zetterlund (Edda Magnason). (en)' } ],
+     'dbo:cinematography': 
+      [ { value: 'dbr:Eric_Kress',
+          href: 'http://dbpedia.org/resource/Eric_Kress' } ],
+     'dbo:director': 
+      [ { value: 'dbr:Per_Fly',
+          href: 'http://dbpedia.org/resource/Per_Fly' } ],
+     'dbo:distributor': 
+      [ { value: 'dbr:AB_Svensk_Filmindustri',
+          href: 'http://dbpedia.org/resource/AB_Svensk_Filmindustri' } ],
+     'dbo:language': 
+      [ { value: 'dbr:Cinema_of_Sweden',
+          href: 'http://dbpedia.org/resource/Cinema_of_Sweden' } ],
+     'dbo:runtime': [ { value: '6660.000000 (xsd:double)' } ],
+     'dbo:starring': 
+      [ { value: 'dbr:Edda_Magnason',
+          href: 'http://dbpedia.org/resource/Edda_Magnason' } ],
+     'dbo:wikiPageID': [ { value: '40272815 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '646307628 (xsd:integer)' } ],
+     'dbp:cinematography': 
+      [ { value: 'dbr:Eric_Kress',
+          href: 'http://dbpedia.org/resource/Eric_Kress' } ],
+     'dbp:country': [ { value: 'Sweden (en)' } ],
+     'dbp:director': 
+      [ { value: 'dbr:Per_Fly',
+          href: 'http://dbpedia.org/resource/Per_Fly' } ],
+     'dbp:distributor': 
+      [ { value: 'dbr:AB_Svensk_Filmindustri',
+          href: 'http://dbpedia.org/resource/AB_Svensk_Filmindustri' } ],
+     'dbp:editing': [ { value: 'Åsa Mossberg (en)' } ],
+     'dbp:language': [ { value: 'English (en)' }, { value: 'Swedish (en)' } ],
+     'dbp:music': [ { value: 'Peter Nordahl (en)' } ],
+     'dbp:name': [ { value: 'Waltz for Monica (en)' } ],
+     'dbp:producer': [ { value: 'Lena Rehnberg (en)' } ],
+     'dbp:runtime': [ { value: '6660.0' } ],
+     'dbp:starring': 
+      [ { value: 'dbr:Edda_Magnason',
+          href: 'http://dbpedia.org/resource/Edda_Magnason' } ],
+     'dbp:studio': 
+      [ { value: 'dbr:Film_i_Väst',
+          href: 'http://dbpedia.org/resource/Film_i_Väst' },
+        { value: 'StellaNova Film (en)' } ],
+     'dbp:writer': [ { value: 'Peter Birro (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2010s_drama_films',
+          href: 'http://dbpedia.org/resource/Category:2010s_drama_films' },
+        { value: 'dbc:2010s_biographical_films',
+          href: 'http://dbpedia.org/resource/Category:2010s_biographical_films' },
+        { value: 'dbc:2013_films',
+          href: 'http://dbpedia.org/resource/Category:2013_films' },
+        { value: 'dbc:Films_whose_director_won_the_Best_Director_Guldbagge_Award',
+          href: 'http://dbpedia.org/resource/Category:Films_whose_director_won_the_Best_Director_Guldbagge_Award' },
+        { value: 'dbc:Swedish-language_films',
+          href: 'http://dbpedia.org/resource/Category:Swedish-language_films' },
+        { value: 'dbc:Swedish_films',
+          href: 'http://dbpedia.org/resource/Category:Swedish_films' },
+        { value: 'dbc:Swedish_biographical_films',
+          href: 'http://dbpedia.org/resource/Category:Swedish_biographical_films' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:Film', href: 'http://dbpedia.org/ontology/Film' },
+        { value: 'dbo:Wikidata:Q11424',
+          href: 'http://dbpedia.org/ontology/Wikidata:Q11424' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:Movie', href: 'http://schema.org/Movie' } ],
+     'rdfs:comment': [ { value: 'Waltz for Monica (Monica Z) is a 2013 Swedish biographical film directed by Per Fly. It is based on the true life and career of singer and actress Monica Zetterlund (Edda Magnason). (en)' } ],
+     'rdfs:label': [ { value: 'Waltz for Monica (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Waltz for Monica',
+          href: 'http://rdf.freebase.com/ns/m.0w178g4' },
+        { value: 'dbpedia-fr:Waltz for Monica',
+          href: 'http://fr.dbpedia.org/resource/Valse_pour_Monica' },
+        { value: 'dbpedia-wikidata:Waltz for Monica',
+          href: 'http://wikidata.dbpedia.org/resource/Q10588224' },
+        { value: 'wikidata:Waltz for Monica',
+          href: 'http://www.wikidata.org/entity/Q10588224' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Waltz_for_Monica?oldid=646307628',
+          href: 'http://en.wikipedia.org/wiki/Waltz_for_Monica?oldid=646307628' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Waltz_for_Monica',
+          href: 'http://en.wikipedia.org/wiki/Waltz_for_Monica' } ],
+     'foaf:name': [ { value: 'Waltz for Monica (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Monica_Z',
+          href: 'http://dbpedia.org/resource/Monica_Z' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Waltz_for_Monica',
+          href: 'http://en.wikipedia.org/wiki/Waltz_for_Monica' } ] } }

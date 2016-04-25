@@ -1,0 +1,8 @@
+{ name: 'Alex Haley',
+  href: 'http://en.wikipedia.org/wiki/Alex_Haley',
+  mentions: 
+   [ { sectionHeader: 'Literary career',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4867,
+       quote: [ 'His interview with jazz musician Miles Davis appeared in the September 1962 issue.' ] } ] }

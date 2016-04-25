@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Featured article candidates/Elliott Smith',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Featured_article_candidates/Elliott_Smith',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Camlin Hotel',
+  href: 'http://en.wikipedia.org/wiki/Camlin_Hotel',
+  mentions: 
+   [ { sectionHeader: 'Building Modifications',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 3963,
+       quote: [ 'In the ensuing years, the Cloud Room hosted numerous famous faces, among them Frank Sinatra, Dean Martin, Elvis Presley, Dizzy Gillespie, Miles Davis, Bonnie Raitt, John Lee Hooker, and Elvis Costello.' ] } ] }

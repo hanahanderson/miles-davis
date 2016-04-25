@@ -1,0 +1,46 @@
+{ name: 'All of You (Cole Porter song)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/All_of_You_(Cole_Porter_song)',
+  values: 
+   { 'dbo:abstract': [ { value: '"All of You" is a popular song written by Cole Porter and published in 1954. It was introduced by Don Ameche in the broadway musical Silk Stockings and featured in the film version as well, (musical film Silk Stockings) and been recorded by Fred Astaire, Bobby Darin, Ella Fitzgerald on her 1972 album: Ella Loves Cole, Billie Holiday, Tony Martin, and Anita O\'Day. The jazz pianist Bill Evans featured the song on his live 1961 album Sunday at the Village Vanguard. It has also been performed by Miles Davis (such as on \'Round About Midnight and his 1964 live recording Four and More), Tony Bennett (for instance on his MTV Unplugged album) McCoy Tyner and Keith Jarrett. It was performed on the album of the same name by Ahmad Jamal in 1961, and on the 1955 album "Concorde" by the Modern Jazz Quartet. (en)' } ],
+     'dbo:wikiPageID': [ { value: '1930059 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683291544 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1954_songs',
+          href: 'http://dbpedia.org/resource/Category:1954_songs' },
+        { value: 'dbc:Fred_Astaire_songs',
+          href: 'http://dbpedia.org/resource/Category:Fred_Astaire_songs' },
+        { value: 'dbc:Nancy_Wilson_(jazz_singer)_songs',
+          href: 'http://dbpedia.org/resource/Category:Nancy_Wilson_(jazz_singer)_songs' },
+        { value: 'dbc:Songs_written_by_Cole_Porter',
+          href: 'http://dbpedia.org/resource/Category:Songs_written_by_Cole_Porter' } ],
+     'rdfs:comment': [ { value: '"All of You" is a popular song written by Cole Porter and published in 1954. It was introduced by Don Ameche in the broadway musical Silk Stockings and featured in the film version as well, (musical film Silk Stockings) and been recorded by Fred Astaire, Bobby Darin, Ella Fitzgerald on her 1972 album: Ella Loves Cole, Billie Holiday, Tony Martin, and Anita O\'Day. The jazz pianist Bill Evans featured the song on his live 1961 album Sunday at the Village Vanguard. (en)' } ],
+     'rdfs:label': [ { value: 'All of You (Cole Porter song) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:All of You (Cole Porter song)',
+          href: 'http://rdf.freebase.com/ns/m.066ymw' },
+        { value: 'dbpedia-ja:All of You (Cole Porter song)',
+          href: 'http://ja.dbpedia.org/resource/オール・オブ・ユー_(コール・ポーターの曲)' },
+        { value: 'dbpedia-wikidata:All of You (Cole Porter song)',
+          href: 'http://wikidata.dbpedia.org/resource/Q4730061' },
+        { value: 'wikidata:All of You (Cole Porter song)',
+          href: 'http://www.wikidata.org/entity/Q4730061' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:All_of_You_(Cole_Porter_song)?oldid=683291544',
+          href: 'http://en.wikipedia.org/wiki/All_of_You_(Cole_Porter_song)?oldid=683291544' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:All_of_You_(Cole_Porter_song)',
+          href: 'http://en.wikipedia.org/wiki/All_of_You_(Cole_Porter_song)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:All_of_You',
+          href: 'http://dbpedia.org/resource/All_of_You' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:\'Round_About_Midnight',
+          href: 'http://dbpedia.org/resource/\'Round_About_Midnight' },
+        { value: 'dbr:Stranger_Things_Have_Happened_(Justin_Guarini_album)',
+          href: 'http://dbpedia.org/resource/Stranger_Things_Have_Happened_(Justin_Guarini_album)' },
+        { value: 'dbr:The_Complete_Live_at_the_Plugged_Nickel_1965',
+          href: 'http://dbpedia.org/resource/The_Complete_Live_at_the_Plugged_Nickel_1965' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:All_of_You_(Cole_Porter_song)',
+          href: 'http://en.wikipedia.org/wiki/All_of_You_(Cole_Porter_song)' } ] } }

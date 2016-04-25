@@ -1,0 +1,8 @@
+{ name: 'Millstadt, Illinois',
+  href: 'http://en.wikipedia.org/wiki/Millstadt,_Illinois',
+  mentions: 
+   [ { sectionHeader: 'Notable people',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 6718,
+       quote: [ 'Miles Dewey Davis, Jr., father of jazz trumpeter Miles Davis' ] } ] }

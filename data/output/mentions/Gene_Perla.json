@@ -1,0 +1,8 @@
+{ name: 'Gene Perla',
+  href: 'http://en.wikipedia.org/wiki/Gene_Perla',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 88,
+       quote: [ 'He played with Woody Herman in 1969-70, as well as Thad Jones/Mel Lewis, Sarah Vaughan, Miles Davis, Nina Simone, Jeremy Steig, Elvin Jones (1971–73), and Sonny Rollins.' ] } ] }

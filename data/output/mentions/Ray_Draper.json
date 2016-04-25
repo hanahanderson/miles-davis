@@ -1,0 +1,8 @@
+{ name: 'Ray Draper',
+  href: 'http://en.wikipedia.org/wiki/Ray_Draper',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 737,
+       quote: [ 'This preceded Miles Davis\'s Bitches Brew, which is normally recognized as the first jazz rock fusion group and recording by two years.' ] } ] }

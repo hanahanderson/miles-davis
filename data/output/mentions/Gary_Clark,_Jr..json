@@ -1,0 +1,8 @@
+{ name: 'Gary Clark, Jr.',
+  href: 'http://en.wikipedia.org/wiki/Gary_Clark,_Jr.',
+  mentions: 
+   [ { sectionHeader: 'In popular culture',
+       sectionSubHeader: '',
+       sectionIndex: 33,
+       wordCountBeforeSection: 6603,
+       quote: [ 'Clark was featured in the motion picture Miles Ahead as part of Miles Davis band.' ] } ] }

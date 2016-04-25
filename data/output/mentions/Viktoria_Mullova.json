@@ -1,0 +1,8 @@
+{ name: 'Viktoria Mullova',
+  href: 'http://en.wikipedia.org/wiki/Viktoria_Mullova',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 286,
+       quote: [ 'She is best known for her performances and recordings of a number of violin concerti, compositions by J.S. Bach, and her innovative interpretations of popular and jazz compositions by Miles Davis, Duke Ellington, the Beatles, and others.' ] } ] }

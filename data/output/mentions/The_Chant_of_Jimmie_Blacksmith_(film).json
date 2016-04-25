@@ -1,0 +1,8 @@
+{ name: 'The Chant of Jimmie Blacksmith (film)',
+  href: 'http://en.wikipedia.org/wiki/The_Chant_of_Jimmie_Blacksmith_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 4715,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

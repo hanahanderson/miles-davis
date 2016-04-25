@@ -1,0 +1,8 @@
+{ name: '41st Annual Grammy Awards',
+  href: 'http://en.wikipedia.org/wiki/41st_Annual_Grammy_Awards',
+  mentions: 
+   [ { sectionHeader: 'Award winners',
+       sectionSubHeader: '',
+       sectionIndex: 39,
+       wordCountBeforeSection: 8394,
+       quote: [ 'Bob Belden, Michael Cuscuna & Todd Coolman (notes writers) for Miles Davis Quintet 1965-1968 performed by the Miles Davis Quintet' ] } ] }

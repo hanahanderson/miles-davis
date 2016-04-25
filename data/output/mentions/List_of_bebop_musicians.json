@@ -1,0 +1,8 @@
+{ name: 'List of bebop musicians',
+  href: 'http://en.wikipedia.org/wiki/List_of_bebop_musicians',
+  mentions: 
+   [ { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1336,
+       quote: [ 'Miles Davis - trumpet' ] } ] }

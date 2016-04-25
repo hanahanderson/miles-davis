@@ -1,0 +1,8 @@
+{ name: 'On Green Dolphin Street (album)',
+  href: 'http://en.wikipedia.org/wiki/On_Green_Dolphin_Street_(album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 2955,
+       quote: [ 'Miles Davis' ] } ] }

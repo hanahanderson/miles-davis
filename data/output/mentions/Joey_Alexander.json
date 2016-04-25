@@ -1,0 +1,8 @@
+{ name: 'Joey Alexander',
+  href: 'http://en.wikipedia.org/wiki/Joey_Alexander',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1250,
+       quote: [ 'Alexander considers Monk, John Coltrane, Harry Connick, Jr., Bill Evans and Herbie Hancock among his main musical influences, and also particularly admires Clifford Brown, Miles Davis, Wynton Marsalis, Brad Mehldau, Lee Morgan, Horace Silver and McCoy Tyner.' ] } ] }

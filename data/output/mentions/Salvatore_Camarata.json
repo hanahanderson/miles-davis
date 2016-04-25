@@ -1,0 +1,8 @@
+{ name: 'Salvatore Camarata',
+  href: 'http://en.wikipedia.org/wiki/Salvatore_Camarata',
+  mentions: 
+   [ { sectionHeader: 'Famous clients',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3541,
+       quote: [ 'Miles Davis' ] } ] }

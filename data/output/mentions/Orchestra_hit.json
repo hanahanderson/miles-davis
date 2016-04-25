@@ -1,0 +1,8 @@
+{ name: 'Orchestra hit',
+  href: 'http://en.wikipedia.org/wiki/Orchestra_hit',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2104,
+       quote: [ 'Use in other genres extends to jazz funk, where it was used on the title track of Miles Davis\'s 1986 album Tutu.' ] } ] }

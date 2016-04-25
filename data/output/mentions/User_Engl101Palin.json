@@ -1,0 +1,8 @@
+{ name: 'User:Engl101Palin',
+  href: 'http://en.wikipedia.org/wiki/User:Engl101Palin',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 991,
+       quote: [ 'Miles Davis led the fusion revolution to a musical age of jazz, rock, and the Avant Garde.' ] } ] }

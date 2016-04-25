@@ -1,0 +1,8 @@
+{ name: 'Nirvana (Herbie Mann and the Bill Evans Trio album)',
+  href: 'http://en.wikipedia.org/wiki/Nirvana_(Herbie_Mann_and_the_Bill_Evans_Trio_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 1811,
+       quote: [ 'Miles Davis' ] } ] }

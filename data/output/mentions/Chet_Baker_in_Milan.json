@@ -1,0 +1,8 @@
+{ name: 'Chet Baker in Milan',
+  href: 'http://en.wikipedia.org/wiki/Chet_Baker_in_Milan',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1205,
+       quote: [ '"Tune Up" (Miles Davis) - 5:18' ] } ] }

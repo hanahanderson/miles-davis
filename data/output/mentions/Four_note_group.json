@@ -1,0 +1,8 @@
+{ name: 'Four note group',
+  href: 'http://en.wikipedia.org/wiki/Four_note_group',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 511,
+       quote: [ 'The Miles Davis tune "Donna Lee" is composed almost entirely of four note groups over its chord changes.' ] } ] }

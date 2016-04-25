@@ -1,0 +1,12 @@
+{ name: 'File:Miles Davis - 1958 Miles reissue cover.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Miles_Davis_-_1958_Miles_reissue_cover.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '16768456 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681035602 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Miles_Davis_-_1958_Miles_reissue_cover.jpg?oldid=681035602',
+          href: 'http://en.wikipedia.org/wiki/File:Miles_Davis_-_1958_Miles_reissue_cover.jpg?oldid=681035602' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Miles_Davis_-_1958_Miles_reissue_cover.jpg',
+          href: 'http://dbpedia.org/resource/File:Miles_Davis_-_1958_Miles_reissue_cover.jpg' } ] } }

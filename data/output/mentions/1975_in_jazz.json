@@ -1,0 +1,8 @@
+{ name: '1975 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1975_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 788,
+       quote: [ 'Miles Davis: Pangaea' ] } ] }

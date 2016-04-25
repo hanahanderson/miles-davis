@@ -1,0 +1,4 @@
+{ name: 'Portal:Jazz/Selected picture/Archive',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:Jazz/Selected_picture/Archive',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: '1926',
+  href: 'http://en.wikipedia.org/wiki/1926',
+  mentions: 
+   [ { sectionHeader: 'Births',
+       sectionSubHeader: '',
+       sectionIndex: 70,
+       wordCountBeforeSection: 22021,
+       quote: [ 'May 26 – Miles Davis, American musician (d. 1991)' ] } ] }

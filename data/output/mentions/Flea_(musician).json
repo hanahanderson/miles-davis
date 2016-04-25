@@ -1,0 +1,13 @@
+{ name: 'Flea (musician)',
+  href: 'http://en.wikipedia.org/wiki/Flea_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3596,
+       quote: [ 'He had no interest in rock music at the time; he idolized jazz musicians like Miles Davis, Louis Armstrong and Dizzy Gillespie.' ] },
+     { sectionHeader: 'Musical style',
+       sectionSubHeader: '',
+       sectionIndex: 99,
+       wordCountBeforeSection: 42870,
+       quote: [ 'Flea credits his continued interest in music to jazz performers like Jaco Pastorius, Miles Davis, Duke Ellington, Charlie Parker, Louis Armstrong, John Coltrane and Dizzy Gillespie.' ] } ] }

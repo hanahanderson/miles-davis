@@ -1,0 +1,40 @@
+{ name: 'Arts in Upstate New York',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Arts_in_Upstate_New_York',
+  values: 
+   { 'dbo:abstract': [ { value: 'This article brings together lists of artists, locations, artistic productions and movements associated with upstate New York. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://query.nytimes.com/gst/fullpage.html?res=9C06E1D91E39F930A35750C0A960958260',
+          href: 'http://query.nytimes.com/gst/fullpage.html?res=9C06E1D91E39F930A35750C0A960958260' },
+        { value: 'http://www.filmcritic.com/misc/emporium.nsf/reviews/The-Ten-Best-Upstate-New-York-Movies',
+          href: 'http://www.filmcritic.com/misc/emporium.nsf/reviews/The-Ten-Best-Upstate-New-York-Movies' },
+        { value: 'http://www.steubencony.org/hallfame/tully.html',
+          href: 'http://www.steubencony.org/hallfame/tully.html' } ],
+     'dbo:wikiPageID': [ { value: '22980882 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677556007 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:New_York-related_lists',
+          href: 'http://dbpedia.org/resource/Category:New_York-related_lists' },
+        { value: 'dbc:Upstate_New_York',
+          href: 'http://dbpedia.org/resource/Category:Upstate_New_York' } ],
+     'rdfs:comment': [ { value: 'This article brings together lists of artists, locations, artistic productions and movements associated with upstate New York. (en)' } ],
+     'rdfs:label': [ { value: 'Arts in Upstate New York (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Arts in Upstate New York',
+          href: 'http://rdf.freebase.com/ns/m.064mf62' },
+        { value: 'dbpedia-wikidata:Arts in Upstate New York',
+          href: 'http://wikidata.dbpedia.org/resource/Q7714620' },
+        { value: 'wikidata:Arts in Upstate New York',
+          href: 'http://www.wikidata.org/entity/Q7714620' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Arts_in_Upstate_New_York?oldid=677556007',
+          href: 'http://en.wikipedia.org/wiki/Arts_in_Upstate_New_York?oldid=677556007' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Arts_in_Upstate_New_York',
+          href: 'http://en.wikipedia.org/wiki/Arts_in_Upstate_New_York' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:The_Arts_of_Upstate_New_York',
+          href: 'http://dbpedia.org/resource/The_Arts_of_Upstate_New_York' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Arts_in_Upstate_New_York',
+          href: 'http://en.wikipedia.org/wiki/Arts_in_Upstate_New_York' } ] } }

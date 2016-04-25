@@ -1,0 +1,8 @@
+{ name: 'Barbary Coast, San Francisco',
+  href: 'http://en.wikipedia.org/wiki/Barbary_Coast,_San_Francisco',
+  mentions: 
+   [ { sectionHeader: 'Latter eras of the Pacific Street District',
+       sectionSubHeader: '',
+       sectionIndex: 48,
+       wordCountBeforeSection: 19930,
+       quote: [ 'The Jazz Workshop became the premier club to hear jazz during the 1950s and 1960s when legendary musicians like Miles Davis, Cannonball Adderley, and John Coltrane would perform there.' ] } ] }

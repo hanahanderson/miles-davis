@@ -1,0 +1,8 @@
+{ name: 'Sam Morrison',
+  href: 'http://en.wikipedia.org/wiki/Sam_Morrison',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Sam Morrison (1952) is an American jazz saxophonist, who replaced Sonny Fortune in Miles Davis\' band in 1975.' ] } ] }

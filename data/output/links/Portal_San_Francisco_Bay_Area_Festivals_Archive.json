@@ -1,0 +1,4 @@
+{ name: 'Portal:San Francisco Bay Area/Festivals/Archive',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Portal:San_Francisco_Bay_Area/Festivals/Archive',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

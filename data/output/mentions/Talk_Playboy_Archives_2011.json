@@ -1,0 +1,8 @@
+{ name: 'Talk:Playboy/Archives/2011',
+  href: 'http://en.wikipedia.org/wiki/Talk:Playboy/Archives/2011',
+  mentions: 
+   [ { sectionHeader: 'List of Firsts',
+       sectionSubHeader: '',
+       sectionIndex: 90,
+       wordCountBeforeSection: 20311,
+       quote: [ 'First issue with Playboy Interview: September 1962 (with Miles Davis)' ] } ] }

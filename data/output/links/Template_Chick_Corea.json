@@ -1,0 +1,14 @@
+{ name: 'Template:Chick Corea',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:Chick_Corea',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '32474939 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '633930276 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q6873125',
+          href: 'http://wikidata.dbpedia.org/resource/Q6873125' },
+        { value: 'wikidata:Q6873125',
+          href: 'http://www.wikidata.org/entity/Q6873125' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Chick_Corea?oldid=633930276',
+          href: 'http://en.wikipedia.org/wiki/Template:Chick_Corea?oldid=633930276' } ] } }

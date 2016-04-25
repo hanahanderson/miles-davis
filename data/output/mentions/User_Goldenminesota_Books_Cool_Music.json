@@ -1,0 +1,8 @@
+{ name: 'User:Goldenminesota/Books/Cool Music',
+  href: 'http://en.wikipedia.org/wiki/User:Goldenminesota/Books/Cool_Music',
+  mentions: 
+   [ { sectionHeader: 'Cool Music',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 602,
+       quote: [ 'Miles Davis' ] } ] }

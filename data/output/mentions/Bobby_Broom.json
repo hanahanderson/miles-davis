@@ -1,0 +1,8 @@
+{ name: 'Bobby Broom',
+  href: 'http://en.wikipedia.org/wiki/Bobby_Broom',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2864,
+       quote: [ 'The groundwork laid by his childhood jazz-guitar heroes, Wes Montgomery, early George Benson and Pat Martino and others such as Kenny Burrell and Grant Green, influenced Broom to pursue a career that has included work with Art Blakey, Max Roach, Stanley Turrentine, Kenny Garrett, Miles Davis, Dr Lonnie Smith, Charles Earland, Dr John, Kenny Burrell, saxophonists Ron Blake & Eric Alexander, Ron Carter and Ramsey Lewis, among others.' ] } ] }

@@ -1,0 +1,11 @@
+{ name: 'Wikipedia:Articles for deletion/If I Were A Bell',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/If_I_Were_A_Bell',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: 
+        [ 'The jazz giant Miles Davis has recorded it on several occasions and it was a staple of his stage show for many years.',
+          'If the Frank Loesser article was as good as those for Phil Collins or Stevie Wonder for example, then it would undoubtedly take in this particular song, but I still think the song merits a stand-alone article, as it is a nodal point between jazz and Broadway, Miles Davis and Frank Loesser, Hollywood and various singers.',
+          'Guys and Dolls is for many people one of the most important musicals written, ditto Miles Davis (to say nothing of sidekick John Coltrane) in the canon of jazz.' ] } ] }

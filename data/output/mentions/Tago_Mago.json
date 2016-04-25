@@ -1,0 +1,8 @@
+{ name: 'Tago Mago',
+  href: 'http://en.wikipedia.org/wiki/Tago_Mago',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3310,
+       quote: [ 'On the album, Can took sonic inspiration from sources as diverse as jazz musicians such as Miles Davis and from electronic avant-garde music.' ] } ] }

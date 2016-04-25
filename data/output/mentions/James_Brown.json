@@ -1,0 +1,8 @@
+{ name: 'James Brown',
+  href: 'http://en.wikipedia.org/wiki/James_Brown',
+  mentions: 
+   [ { sectionHeader: 'Music career',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 22152,
+       quote: [ 'Admirers of Brown\'s music, including Miles Davis and other jazz musicians, began to cite Brown as a major influence on their own styles.' ] } ] }

@@ -1,0 +1,45 @@
+{ name: 'List of Sony/ATV Music Publishing artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Sony/ATV_Music_Publishing_artists',
+  values: 
+   { 'dbo:abstract': [ { value: 'Sony/ATV Music Publishing is a music publishing company co-owned by The Michael Jackson Estate and Sony Music. The organisation was originally founded as Associated Television (ATV) in 1955 by Sir Lew Grade. In 1957, ATV acquired Pye Records as a wholly owned subsidiary. At the time, Pye Records was one of the three major record companies in the UK and accounted for the vast majority of music records sold in the country. The Searchers, The Kinks, Donovan, The Moody Blues, Mungo Jerry and Petula Clark were some of the artists whose music Pye Records released. ATV Music Publishing was then created to exploit and publish the catalogue of songs written by artists on the Pye Record label.ATV Music Publishing and Pye Records were both at the forefront of the British music explosion in the 1960s. The businesses held contracts with several US companies, allowing them to manufacture and distribute records in the UK. ATV Music Publishing and Sir Grade acquired the rights to the Lennon–McCartney song catalogue, Northern Songs, in 1968. The catalogue featured every song written by John Lennon and Paul McCartney until The Beatles\' split in 1971. Len Beadle, the company\'s head, signed up many songwriters and bought numerous song catalogues during this time period.Grade\'s fortune began to dwindle as the 1980s approached and by the mid-1980s, ATV Music Publishing and Pye Records were both up for sale. The companies were bought by Australian businessman Robert Holmes à Court, who in turn sold them to Michael Jackson for $47.5 million in 1985. In 1995, Jackson agreed to merge the catalogue with Sony Music for $90 million and renamed it Sony/ATV Music Publishing. The company became the second largest music publisher in the world.  Throughout the 2000s, Sony/ATV continued to purchase several smaller catalogues to expand its repertoire, including the Leiber and Stoller catalogue containing several Elvis songs. Famous Music, a music publishing business with a song catalogue of more than 125,000 songs including "Moon River" and "Footloose", was sold to Sony/ATV Music Publishing in 2007. The deal, sought by Viacom, included the hits of Eminem, Akon, Collective Soul, Jet, Linda Perry, Björk, Shakira and Beck.In 2012, Sony/ATV won the EU approval to acquire EMI\'s catalogue from Citigroup, a deal that currently makes Sony/ATV Music Publishing the largest music catalogue in the world with the copyright to over 2,000,000 songs and annual revenues in excess of $1.26 billion. Estimations of the value of the catalogue range between $1.75 and $8 billion. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Michael_Jackson_1984.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jackson_1984.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.sonyatv.com/',
+          href: 'http://www.sonyatv.com/' },
+        { value: 'http://www.sonyatv.com/index.php/xarpages/writers',
+          href: 'http://www.sonyatv.com/index.php/xarpages/writers' },
+        { value: 'http://www.musicnotes.com/sheetmusic/mtdFPE.asp?ppn=MN0109635&ref=google)',
+          href: 'http://www.musicnotes.com/sheetmusic/mtdFPE.asp?ppn=MN0109635&ref=google)' } ],
+     'dbo:wikiPageID': [ { value: '21792268 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677997947 (xsd:integer)' } ],
+     'dbp:externallinks': [ { value: 'Yes (en)' } ],
+     'dbp:numbers': [ { value: 'Yes (en)' } ],
+     'dbp:seealso': [ { value: 'Yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Sony/ATV_Music_Publishing_artists',
+          href: 'http://dbpedia.org/resource/Category:Sony/ATV_Music_Publishing_artists' } ],
+     'rdfs:comment': [ { value: 'Sony/ATV Music Publishing is a music publishing company co-owned by The Michael Jackson Estate and Sony Music. The organisation was originally founded as Associated Television (ATV) in 1955 by Sir Lew Grade. In 1957, ATV acquired Pye Records as a wholly owned subsidiary. At the time, Pye Records was one of the three major record companies in the UK and accounted for the vast majority of music records sold in the country. (en)' } ],
+     'rdfs:label': [ { value: 'List of Sony/ATV Music Publishing artists (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Sony/ATV Music Publishing artists',
+          href: 'http://wikidata.dbpedia.org/resource/Q6597364' },
+        { value: 'wikidata:List of Sony/ATV Music Publishing artists',
+          href: 'http://www.wikidata.org/entity/Q6597364' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Sony/ATV_Music_Publishing_artists?oldid=677997947',
+          href: 'http://en.wikipedia.org/wiki/List_of_Sony/ATV_Music_Publishing_artists?oldid=677997947' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Michael_Jackson_1984.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jackson_1984.jpg' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.sonyatv.com/',
+          href: 'http://www.sonyatv.com/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Sony/ATV_Music_Publishing_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Sony/ATV_Music_Publishing_artists' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Sony/ATV_Music_Publishing_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Sony/ATV_Music_Publishing_artists' } ] } }

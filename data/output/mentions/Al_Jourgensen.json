@@ -1,0 +1,8 @@
+{ name: 'Al Jourgensen',
+  href: 'http://en.wikipedia.org/wiki/Al_Jourgensen',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1947,
+       quote: [ 'Jourgensen was raised in Chicago, Illinois and Breckenridge, Colorado, and was a fan of artists such as Liberace, The Beatles, Black Sabbath, Hawkwind, Pink Floyd, Can, Kraftwerk, The Rolling Stones, Led Zeppelin, Kitty Wells, Buck Owens, George Jones, Charlie Parker, Charles Mingus, and Miles Davis.' ] } ] }

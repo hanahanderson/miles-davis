@@ -1,0 +1,122 @@
+{ name: 'Steve Remote',
+  entityType: 'musical artist',
+  href: 'http://dbpedia.org/page/Steve_Remote',
+  values: 
+   { 'dbo:abstract': [ { value: 'Steve Remote is an American recording engineer, mixing engineer, music producer, recording studio designer and studio owner from Queens, New York.  He is the founder and chief engineer of Aura Sonic, a mobile and location production company in New York. He has worked on 17 Grammy Award nominated albums, three of which have won. (en)' } ],
+     'dbo:activeYearsStartYear': [ { value: '1976-01-01 (xsd:date)' } ],
+     'dbo:background': [ { value: 'non_performing_personnel' } ],
+     'dbo:hometown': 
+      [ { value: 'dbr:New_York',
+          href: 'http://dbpedia.org/resource/New_York' },
+        { value: 'dbr:Queens',
+          href: 'http://dbpedia.org/resource/Queens' } ],
+     'dbo:occupation': 
+      [ { value: 'dbr:Mixing_engineer',
+          href: 'http://dbpedia.org/resource/Mixing_engineer' },
+        { value: 'dbr:Audio_engineer',
+          href: 'http://dbpedia.org/resource/Audio_engineer' },
+        { value: 'dbr:Record_producer',
+          href: 'http://dbpedia.org/resource/Record_producer' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Steve_Remote.jpeg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Steve_Remote.jpeg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '39006022 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682999928 (xsd:integer)' } ],
+     'dbp:background': [ { value: 'non_performing_personnel (en)' } ],
+     'dbp:name': 
+      [ { value: 'Steve Remote (en)' },
+        { value: 'Remote, Steve (en)' } ],
+     'dbp:occupation': 
+      [ { value: 'dbr:Mixing_engineer',
+          href: 'http://dbpedia.org/resource/Mixing_engineer' },
+        { value: 'dbr:Audio_engineer',
+          href: 'http://dbpedia.org/resource/Audio_engineer' },
+        { value: 'dbr:Record_producer',
+          href: 'http://dbpedia.org/resource/Record_producer' } ],
+     'dbp:origin': 
+      [ { value: 'dbr:New_York',
+          href: 'http://dbpedia.org/resource/New_York' },
+        { value: 'dbr:Queens',
+          href: 'http://dbpedia.org/resource/Queens' } ],
+     'dbp:shortDescription': [ { value: 'American music engineer and studio designer (en)' } ],
+     'dbp:yearsActive': [ { value: '1976 (xsd:integer)' } ],
+     'dc:description': 
+      [ { value: 'American music engineer and studio designer (en)' },
+        { value: 'American music engineer and studio designer' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_audio_engineers',
+          href: 'http://dbpedia.org/resource/Category:American_audio_engineers' },
+        { value: 'dbc:American_record_producers',
+          href: 'http://dbpedia.org/resource/Category:American_record_producers' },
+        { value: 'dbc:Living_people',
+          href: 'http://dbpedia.org/resource/Category:Living_people' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'foaf:Person',
+          href: 'http://xmlns.com/foaf/0.1/Person' },
+        { value: 'dbo:Person',
+          href: 'http://dbpedia.org/ontology/Person' },
+        { value: 'dul:Agent',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent' },
+        { value: 'dul:NaturalPerson',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson' },
+        { value: 'wikidata:Q215627',
+          href: 'http://www.wikidata.org/entity/Q215627' },
+        { value: 'wikidata:Q483501',
+          href: 'http://www.wikidata.org/entity/Q483501' },
+        { value: 'wikidata:Q5',
+          href: 'http://www.wikidata.org/entity/Q5' },
+        { value: 'dbo:Agent',
+          href: 'http://dbpedia.org/ontology/Agent' },
+        { value: 'dbo:Artist',
+          href: 'http://dbpedia.org/ontology/Artist' },
+        { value: 'dbo:MusicalArtist',
+          href: 'http://dbpedia.org/ontology/MusicalArtist' },
+        { value: 'schema:MusicGroup',
+          href: 'http://schema.org/MusicGroup' },
+        { value: 'schema:Person', href: 'http://schema.org/Person' } ],
+     'rdfs:comment': [ { value: 'Steve Remote is an American recording engineer, mixing engineer, music producer, recording studio designer and studio owner from Queens, New York.  He is the founder and chief engineer of Aura Sonic, a mobile and location production company in New York. He has worked on 17 Grammy Award nominated albums, three of which have won. (en)' } ],
+     'rdfs:label': [ { value: 'Steve Remote (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Steve Remote',
+          href: 'http://rdf.freebase.com/ns/m.01x2d_3' },
+        { value: 'wikidata:Steve Remote',
+          href: 'http://www.wikidata.org/entity/Q16735123' },
+        { value: 'dbpedia-wikidata:Steve Remote',
+          href: 'http://wikidata.dbpedia.org/resource/Q16735123' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Steve_Remote?oldid=682999928',
+          href: 'http://en.wikipedia.org/wiki/Steve_Remote?oldid=682999928' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Steve_Remote.jpeg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Steve_Remote.jpeg' } ],
+     'foaf:givenName': [ { value: 'Steve (en)' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Steve_Remote',
+          href: 'http://en.wikipedia.org/wiki/Steve_Remote' } ],
+     'foaf:name': 
+      [ { value: 'Steve Remote (en)' },
+        { value: 'Remote, Steve (en)' } ],
+     'foaf:surname': [ { value: 'Remote (en)' } ],
+     'is dbo:foundedBy\n of': 
+      [ { value: 'dbr:Aura_Sonic',
+          href: 'http://dbpedia.org/resource/Aura_Sonic' } ],
+     'is dbo:keyPerson\n of': 
+      [ { value: 'dbr:Aura_Sonic',
+          href: 'http://dbpedia.org/resource/Aura_Sonic' } ],
+     'is dbo:owner\n of': 
+      [ { value: 'dbr:Aura_Sonic',
+          href: 'http://dbpedia.org/resource/Aura_Sonic' } ],
+     'is dbo:owningCompany\n of': 
+      [ { value: 'dbr:Aura_Sonic',
+          href: 'http://dbpedia.org/resource/Aura_Sonic' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Steven_Remote',
+          href: 'http://dbpedia.org/resource/Steven_Remote' } ],
+     'is dbp:owner\n of': 
+      [ { value: 'dbr:Aura_Sonic',
+          href: 'http://dbpedia.org/resource/Aura_Sonic' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Steve_Remote',
+          href: 'http://en.wikipedia.org/wiki/Steve_Remote' } ] } }

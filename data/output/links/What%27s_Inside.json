@@ -1,0 +1,102 @@
+{ name: 'What\'s Inside',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/What%27s_Inside',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '50.28333333333333' } ],
+     'dbo:abstract': [ { value: 'What\'s Inside is the fourteenth studio album by British singer-songwriter Joan Armatrading. The album was written, arranged and produced by Armatrading, co-produced by David Tickle and recorded at the A&M Recording Studios in Hollywood. The strings were recorded at Abbey Road Studios, London, with the Kronos Quartet\'s contribution recorded at The Plant Recording Studios, Sausalito, California and The Memphis Horns recorded at Kiva Recording Studio, Memphis, Tennessee. The album was released in 1995 by RCA and was Armatrading\'s only album for the label. She had left A&M in 1992 after an eighteen-year association with the company. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Joan_Armatrading',
+          href: 'http://dbpedia.org/resource/Joan_Armatrading' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Pop_music',
+          href: 'http://dbpedia.org/resource/Pop_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Square_the_Circle_(Joan_Armatrading_album)',
+          href: 'http://dbpedia.org/resource/Square_the_Circle_(Joan_Armatrading_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:David_Tickle',
+          href: 'http://dbpedia.org/resource/David_Tickle' },
+        { value: 'dbr:Joan_Armatrading',
+          href: 'http://dbpedia.org/resource/Joan_Armatrading' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:RCA_Records',
+          href: 'http://dbpedia.org/resource/RCA_Records' } ],
+     'dbo:releaseDate': [ { value: '1995-05-30 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3017.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Lovers_Speak',
+          href: 'http://dbpedia.org/resource/Lovers_Speak' } ],
+     'dbo:wikiPageID': [ { value: '41513213 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '651839155 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Joan_Armatrading',
+          href: 'http://dbpedia.org/resource/Joan_Armatrading' } ],
+     'dbp:cover': [ { value: 'What\'s_Inside_.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Pop_music',
+          href: 'http://dbpedia.org/resource/Pop_music' } ],
+     'dbp:label': 
+      [ { value: 'dbr:RCA_Records',
+          href: 'http://dbpedia.org/resource/RCA_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Square the Circle (en)' } ],
+     'dbp:name': [ { value: 'What\'s Inside (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Lovers Speak (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:David_Tickle',
+          href: 'http://dbpedia.org/resource/David_Tickle' },
+        { value: 'dbr:Joan_Armatrading',
+          href: 'http://dbpedia.org/resource/Joan_Armatrading' } ],
+     'dbp:recorded': [ { value: 'A&M Recording Studios (en)' } ],
+     'dbp:released': [ { value: '1995-05-30 (xsd:date)' } ],
+     'dbp:thisAlbum': [ { value: 'What\'s Inside (en)' } ],
+     'dbp:type': [ { value: 'album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1995_albums',
+          href: 'http://dbpedia.org/resource/Category:1995_albums' },
+        { value: 'dbc:RCA_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:RCA_Records_albums' },
+        { value: 'dbc:Joan_Armatrading_albums',
+          href: 'http://dbpedia.org/resource/Category:Joan_Armatrading_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'What\'s Inside is the fourteenth studio album by British singer-songwriter Joan Armatrading. The album was written, arranged and produced by Armatrading, co-produced by David Tickle and recorded at the A&M Recording Studios in Hollywood. The strings were recorded at Abbey Road Studios, London, with the Kronos Quartet\'s contribution recorded at The Plant Recording Studios, Sausalito, California and The Memphis Horns recorded at Kiva Recording Studio, Memphis, Tennessee. (en)' } ],
+     'rdfs:label': [ { value: 'What\'s Inside (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:What\'s Inside',
+          href: 'http://rdf.freebase.com/ns/m.01jkbwy' },
+        { value: 'dbpedia-wikidata:What\'s Inside',
+          href: 'http://wikidata.dbpedia.org/resource/Q17049658' },
+        { value: 'wikidata:What\'s Inside',
+          href: 'http://www.wikidata.org/entity/Q17049658' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:What\'s_Inside?oldid=651839155',
+          href: 'http://en.wikipedia.org/wiki/What\'s_Inside?oldid=651839155' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:What\'s_Inside',
+          href: 'http://en.wikipedia.org/wiki/What\'s_Inside' } ],
+     'foaf:name': [ { value: 'What\'s Inside (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Lovers_Speak',
+          href: 'http://dbpedia.org/resource/Lovers_Speak' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Square_the_Circle_(Joan_Armatrading_album)',
+          href: 'http://dbpedia.org/resource/Square_the_Circle_(Joan_Armatrading_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:What\'s_Inside',
+          href: 'http://en.wikipedia.org/wiki/What\'s_Inside' } ] } }

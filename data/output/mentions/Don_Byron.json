@@ -1,0 +1,8 @@
+{ name: 'Don Byron',
+  href: 'http://en.wikipedia.org/wiki/Don_Byron',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1337,
+       quote: [ 'As well as listening to jazz recordings by Dizzy Gillespie, Miles Davis and others, he was exposed to other styles through trips to the ballet and symphony concerts.' ] } ] }

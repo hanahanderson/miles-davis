@@ -1,0 +1,8 @@
+{ name: 'Paul Jackson (bassist)',
+  href: 'http://en.wikipedia.org/wiki/Paul_Jackson_(bassist)',
+  mentions: 
+   [ { sectionHeader: 'Selected discography',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2543,
+       quote: [ 'Herbie Hancock / George Benson / Freddie Hubbard / Oscar Peterson / Sonny Rollins / Miles Davis / Tony Williams / Steve Gadd / Harvey Mason / Billy Cobham / Alphonse Mouzon / Carlos Santana / John McLaughlin / Al Di Meola / Neil Shawn / George Duke / Al Jarreau / Wayne Shorter / Erroll Garner / Chick Corea / Lenny White / Stomu Yamashta / Stevie Wonder / John Scofield / Sheila E. / Airto Moreira / Flora Purim / Buster Williams / Lee Ritenour / Larry Coryell / Jaco Pastorius / The Pointer Sisters / Tower of Power / Shawn Philips / Patty Labell / Terumasa Hino / Larry Graham / Jan Hammer / Jimmy Smith / Stanley Clarke / Stanley Turrentine / Ray Parker, Jr. / James Gaddson / Pete Escovedo / David Garibaldi / Takehiro Honda / Char / Takayuki Inoue...' ] } ] }

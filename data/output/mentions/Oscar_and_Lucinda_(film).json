@@ -1,0 +1,8 @@
+{ name: 'Oscar and Lucinda (film)',
+  href: 'http://en.wikipedia.org/wiki/Oscar_and_Lucinda_(film)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Awards',
+       sectionIndex: 36,
+       wordCountBeforeSection: 8223,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

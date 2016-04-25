@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:Village pump (idea lab)/Archive 12',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Village_pump_(idea_lab)/Archive_12',
+  mentions: 
+   [ { sectionHeader: 'Need an ORGANIZED Watchlist or separate Reading List',
+       sectionSubHeader: 'Discussion',
+       sectionIndex: 219,
+       wordCountBeforeSection: 133757,
+       quote: [ 'For example, if I favorite the Miles Davis wiki article I want it categorized under "Trumpet Players" under "Jazz Musicians" under "Jazz" under "Music" under "Arts and Entertainment".' ] },
+     { sectionHeader: 'Need an ORGANIZED Watchlist or separate Reading List',
+       sectionSubHeader: 'Discussion',
+       sectionIndex: 220,
+       wordCountBeforeSection: 134149,
+       quote: [ 'You may want Miles Davis categorized as above, others might want it categorized as "African-American musicians," "Grammy Award-winning artists," "Musicians from Illinois," "Rock and Roll Hall of Fame inductees," or even "Burials at Woodlawn Cemetery (Bronx)" or "People with sickle-cell disease." MrZ-man 17:05, 13 December 2013 (UTC)' ] } ] }

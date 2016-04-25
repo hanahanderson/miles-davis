@@ -1,0 +1,8 @@
+{ name: 'Mark Wingfield',
+  href: 'http://en.wikipedia.org/wiki/Mark_Wingfield',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1775,
+       quote: [ 'As a guitarist, Wingfield cites jazz influences such as John Coltrane, Miles Davis, Keith Jarrett and Jan Garbarek, as well as rock players such as Jimi Hendrix as forming part of the foundation of his musical pallet.' ] } ] }

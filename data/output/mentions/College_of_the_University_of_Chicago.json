@@ -1,0 +1,8 @@
+{ name: 'College of the University of Chicago',
+  href: 'http://en.wikipedia.org/wiki/College_of_the_University_of_Chicago',
+  mentions: 
+   [ { sectionHeader: 'Traditions',
+       sectionSubHeader: 'Core curriculum',
+       sectionIndex: 25,
+       wordCountBeforeSection: 7931,
+       quote: [ 'Past musicians who have performed at Summer Breeze include The Roots, Spoon, Wilco, Eminem, Kanye West, Run–D.M.C., Cake, Andrew Bird, They Might Be Giants, Method Man, Moby, Fuel, Nas, Jurassic 5, U2, Miles Davis, Sonic Youth, Talib Kweli, Violent Femmes, OK Go, Mos Def, George Clinton, and recently Santigold and Broken Social Scene.' ] } ] }

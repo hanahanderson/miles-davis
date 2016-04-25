@@ -1,0 +1,8 @@
+{ name: 'John Lamb (musician)',
+  href: 'http://en.wikipedia.org/wiki/John_Lamb_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 123,
+       quote: [ 'Lamb was more of a fan of Miles Davis and Red Garland when he was with Ellington, later saying that “I was very young and very cocky.' ] } ] }

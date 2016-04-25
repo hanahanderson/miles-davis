@@ -1,0 +1,104 @@
+{ name: 'Dave\'s Picks Volume 9',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Dave%27s_Picks_Volume_9',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '181.86666666666667' } ],
+     'dbo:abstract': [ { value: 'Dave\'s Picks Volume 9 is a three-CD live album by the rock band the Grateful Dead. It contains the complete concert from May 14, 1974, at the Harry Adams Field House in Missoula, Montana. It was produced as a limited edition of 14,000 numbered copies, and was released on February 1, 2014.The album documents the only concert performed by the Grateful Dead in Montana. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Grateful_Dead',
+          href: 'http://dbpedia.org/resource/Grateful_Dead' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Rock_music',
+          href: 'http://dbpedia.org/resource/Rock_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Family_Dog_at_the_Great_Highway,_San_Francisco,_CA_4/18/70',
+          href: 'http://dbpedia.org/resource/Family_Dog_at_the_Great_Highway,_San_Francisco,_CA_4/18/70' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Grateful_Dead',
+          href: 'http://dbpedia.org/resource/Grateful_Dead' } ],
+     'dbo:recordDate': [ { value: '1974-05-14 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Rhino_Entertainment',
+          href: 'http://dbpedia.org/resource/Rhino_Entertainment' } ],
+     'dbo:releaseDate': [ { value: '2014-02-01 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '10912.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Live_at_Hampton_Coliseum',
+          href: 'http://dbpedia.org/resource/Live_at_Hampton_Coliseum' } ],
+     'dbo:wikiPageID': [ { value: '41736174 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '676925222 (xsd:integer)' } ],
+     'dbp:alt': [ { value: 'The skeleton of a moose, with pink flowers on it. In the background, black bears dance on a wooded hillside. (en)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Grateful_Dead',
+          href: 'http://dbpedia.org/resource/Grateful_Dead' } ],
+     'dbp:cover': [ { value: 'DavesPicksVolume9.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Rock_music',
+          href: 'http://dbpedia.org/resource/Rock_music' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Rhino_Entertainment',
+          href: 'http://dbpedia.org/resource/Rhino_Entertainment' } ],
+     'dbp:lastAlbum': [ { value: 'Family Dog at the Great Highway, San Francisco, CA 4/18/70 (en)' } ],
+     'dbp:length': [ { value: '10912.0' } ],
+     'dbp:name': [ { value: 'Dave\'s Picks Volume 9 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Live at Hampton Coliseum (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Grateful_Dead',
+          href: 'http://dbpedia.org/resource/Grateful_Dead' } ],
+     'dbp:recorded': [ { value: '--05-14' } ],
+     'dbp:released': [ { value: '2014-02-01 (xsd:date)' } ],
+     'dbp:rev': [ { value: 'Rolling Stone (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Dave\'s Picks Volume 9 (en)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2014_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2014_live_albums' },
+        { value: 'dbc:English-language_live_albums',
+          href: 'http://dbpedia.org/resource/Category:English-language_live_albums' },
+        { value: 'dbc:Rhino_Entertainment_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Rhino_Entertainment_live_albums' },
+        { value: 'dbc:Dave\'s_Picks_albums',
+          href: 'http://dbpedia.org/resource/Category:Dave\'s_Picks_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Dave\'s Picks Volume 9 is a three-CD live album by the rock band the Grateful Dead. It contains the complete concert from May 14, 1974, at the Harry Adams Field House in Missoula, Montana. It was produced as a limited edition of 14,000 numbered copies, and was released on February 1, 2014.The album documents the only concert performed by the Grateful Dead in Montana. (en)' } ],
+     'rdfs:label': [ { value: 'Dave\'s Picks Volume 9 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Dave\'s Picks Volume 9',
+          href: 'http://rdf.freebase.com/ns/m.0_fvbb9' },
+        { value: 'wikidata:Dave\'s Picks Volume 9',
+          href: 'http://www.wikidata.org/entity/Q16154548' },
+        { value: 'dbpedia-wikidata:Dave\'s Picks Volume 9',
+          href: 'http://wikidata.dbpedia.org/resource/Q16154548' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Dave\'s_Picks_Volume_9?oldid=676925222',
+          href: 'http://en.wikipedia.org/wiki/Dave\'s_Picks_Volume_9?oldid=676925222' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Dave\'s_Picks_Volume_9',
+          href: 'http://en.wikipedia.org/wiki/Dave\'s_Picks_Volume_9' } ],
+     'foaf:name': [ { value: 'Dave\'s Picks Volume 9 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Live_at_Hampton_Coliseum',
+          href: 'http://dbpedia.org/resource/Live_at_Hampton_Coliseum' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Family_Dog_at_the_Great_Highway,_San_Francisco,_CA_4/18/70',
+          href: 'http://dbpedia.org/resource/Family_Dog_at_the_Great_Highway,_San_Francisco,_CA_4/18/70' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Dave\'s_Picks_Volume_9',
+          href: 'http://en.wikipedia.org/wiki/Dave\'s_Picks_Volume_9' } ] } }

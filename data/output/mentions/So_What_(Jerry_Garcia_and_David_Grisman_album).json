@@ -1,0 +1,8 @@
+{ name: 'So What (Jerry Garcia and David Grisman album)',
+  href: 'http://en.wikipedia.org/wiki/So_What_(Jerry_Garcia_and_David_Grisman_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 758,
+       quote: [ '"So What" (Miles Davis) – 6:55' ] } ] }

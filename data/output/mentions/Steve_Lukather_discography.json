@@ -1,0 +1,8 @@
+{ name: 'Steve Lukather discography',
+  href: 'http://en.wikipedia.org/wiki/Steve_Lukather_discography',
+  mentions: 
+   [ { sectionHeader: 'Collaborations A-Z',
+       sectionSubHeader: 'Live albums',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1317,
+       quote: [ 'Miles Davis : Munich concert (2005)' ] } ] }

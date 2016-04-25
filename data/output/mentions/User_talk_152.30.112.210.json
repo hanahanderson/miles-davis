@@ -1,0 +1,18 @@
+{ name: 'User talk:152.30.112.210',
+  href: 'http://en.wikipedia.org/wiki/User_talk:152.30.112.210',
+  mentions: 
+   [ { sectionHeader: 'June 2013',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1183,
+       quote: [ 'I have automatically detected that your edit to Miles Davis may have broken the syntax by modifying 1 "()"s.' ] },
+     { sectionHeader: 'June 2013',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1183,
+       quote: [ 'I have automatically detected that your edit to Miles Davis may have broken the syntax by modifying 1 "()"s.' ] },
+     { sectionHeader: 'June 2013',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1691,
+       quote: [ ' Please refrain from making unconstructive edits to Wikipedia, as you did at Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'My Place (album)',
+  href: 'http://en.wikipedia.org/wiki/My_Place_(album)',
+  mentions: 
+   [ { sectionHeader: 'Recording and production',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1122,
+       quote: [ 'The album also features guest appearances by guitarists John Scofield (Miles Davis, Charles Mingus, Herbie Hancock, Pat Metheny), Romero Lubambo and Steve Cardenas, saxophonist Chris Potter and trumpeter Randy Brecker.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Tadd Dameron',
+  href: 'http://en.wikipedia.org/wiki/Tadd_Dameron',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1294,
+       quote: [ 'Also in 1948, Dameron led his own group in New York, which included Fats Navarro; the following year Dameron was at the Paris Jazz Festival with Miles Davis.' ] },
+     { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2667,
+       quote: [ 'In the 1980s, Philly Joe Jones, drummer for the Miles Davis Quintet, and trumpeter Don Sickler founded Dameronia, a tribute band to Dameron.' ] } ] }

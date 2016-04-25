@@ -1,0 +1,13 @@
+{ name: 'The Straight Horn of Steve Lacy',
+  href: 'http://en.wikipedia.org/wiki/The_Straight_Horn_of_Steve_Lacy',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 261,
+       quote: [ 'It features performances of tunes written by Thelonious Monk, Cecil Taylor and Miles Davis by Lacy, Charles Davis, John Ore and Roy Haynes.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1392,
+       quote: [] } ] }

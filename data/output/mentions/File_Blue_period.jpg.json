@@ -1,0 +1,13 @@
+{ name: 'File:Blue period.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:Blue_period.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Album cover of the Miles Davis album Blue Period.' ] },
+     { sectionHeader: 'File history',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 2160,
+       quote: [ '{{Non-free media rationale | Article           = Blue Period (album) | Description       = Album cover of the Miles Davis album Blue Period. | Source            = Derived from a digital capture (photo/scan) of the album cover (' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Reinhold Heil',
+  href: 'http://en.wikipedia.org/wiki/Reinhold_Heil',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1256,
+       quote: [ 'He was also deeply influenced by pioneering jazz and rock musicians such as Miles Davis and Frank Zappa.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jeff Porcaro',
+  href: 'http://en.wikipedia.org/wiki/Jeff_Porcaro',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3218,
+       quote: [ 'He collaborated with many of the biggest names in music, including Boz Scaggs, Paul McCartney, Dire Straits, Donald Fagen, Steely Dan, Rickie Lee Jones, Michael Jackson, Al Jarreau, George Benson, Joe Walsh, Joe Cocker, Stan Getz, Sérgio Mendes, Lee Ritenour, Christopher Cross, James Newton-Howard, Jim Messina, Barbra Streisand, Donna Summer, Diana Ross, Eric Carmen, Eric Clapton, Miles Davis, Bruce Springsteen, Elton John, Larry Carlton, Michael McDonald, Seals & Crofts, and David Gilmour.' ] } ] }

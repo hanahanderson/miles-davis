@@ -1,0 +1,8 @@
+{ name: 'Incunabula (album)',
+  href: 'http://en.wikipedia.org/wiki/Incunabula_(album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1041,
+       quote: [ 'The track "Lowride" samples "The Doo Bop Song" by Miles Davis, which in turn samples Kool & the Gang\'s "Summer Madness".' ] } ] }

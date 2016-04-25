@@ -1,0 +1,72 @@
+{ name: 'Live in Stockholm 1963',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Live_in_Stockholm_1963',
+  values: 
+   { 'dbo:abstract': [ { value: 'Live in Stockholm 1963 is a 1963 album by jazz musician John Coltrane. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:recordDate': [ { value: '1963-10-22 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Charly_Records',
+          href: 'http://dbpedia.org/resource/Charly_Records' } ],
+     'dbo:wikiPageID': [ { value: '11681799 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '483038890 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:cover': [ { value: 'Live in Stockholm 1963.jpeg (en)' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Charly_Records',
+          href: 'http://dbpedia.org/resource/Charly_Records' } ],
+     'dbp:name': [ { value: 'Live in Stockholm 1963 (en)' } ],
+     'dbp:recorded': [ { value: '1963-10-22 (xsd:date)' } ],
+     'dbp:released': [ { value: '1963 (xsd:integer)' } ],
+     'dbp:type': [ { value: 'live (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1963_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1963_live_albums' },
+        { value: 'dbc:John_Coltrane_live_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Coltrane_live_albums' },
+        { value: 'dbc:Charly_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Charly_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Live in Stockholm 1963 is a 1963 album by jazz musician John Coltrane. (en)' } ],
+     'rdfs:label': [ { value: 'Live in Stockholm 1963 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Live in Stockholm 1963',
+          href: 'http://rdf.freebase.com/ns/m.02rnt7x' },
+        { value: 'wikidata:Live in Stockholm 1963',
+          href: 'http://www.wikidata.org/entity/Q6657927' },
+        { value: 'dbpedia-wikidata:Live in Stockholm 1963',
+          href: 'http://wikidata.dbpedia.org/resource/Q6657927' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Live_in_Stockholm_1963?oldid=483038890',
+          href: 'http://en.wikipedia.org/wiki/Live_in_Stockholm_1963?oldid=483038890' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Live_in_Stockholm_1963',
+          href: 'http://en.wikipedia.org/wiki/Live_in_Stockholm_1963' } ],
+     'foaf:name': [ { value: 'Live in Stockholm 1963 (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Live_in_Stockholm',
+          href: 'http://dbpedia.org/resource/Live_in_Stockholm' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Live_in_Stockholm_1963',
+          href: 'http://en.wikipedia.org/wiki/Live_in_Stockholm_1963' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Warren DeMartini',
+  href: 'http://en.wikipedia.org/wiki/Warren_DeMartini',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3974,
+       quote: [ 'Lee, Joe Perry, Frank Zappa, Tommy Bolin, Miles Davis, Eddie Van Halen, George Lynch and Randy Rhoads.' ] } ] }

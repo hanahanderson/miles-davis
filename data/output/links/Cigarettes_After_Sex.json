@@ -1,0 +1,4 @@
+{ name: 'Cigarettes After Sex',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Cigarettes_After_Sex',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

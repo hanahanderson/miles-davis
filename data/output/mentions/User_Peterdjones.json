@@ -1,0 +1,8 @@
+{ name: 'User:Peterdjones',
+  href: 'http://en.wikipedia.org/wiki/User:Peterdjones',
+  mentions: 
+   [ { sectionHeader: 'About Me',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 666,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

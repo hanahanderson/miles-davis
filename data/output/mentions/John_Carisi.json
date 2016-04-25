@@ -1,0 +1,10 @@
+{ name: 'John Carisi',
+  href: 'http://en.wikipedia.org/wiki/John_Carisi',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 378,
+       quote: 
+        [ 'His minor-blues composition "Israel," was quickly recognized as a unique jazz classic after it was recorded by Miles Davis at the sessions which later became known as the Birth of the Cool.',
+          'Another well known Carisi piece, "Springsville", was recorded by Miles Davis as arranged by Gil Evans on the classic album, Miles Ahead.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Mad Max',
+  href: 'http://en.wikipedia.org/wiki/Mad_Max',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Legacy',
+       sectionIndex: 71,
+       wordCountBeforeSection: 28854,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

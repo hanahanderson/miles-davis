@@ -1,0 +1,8 @@
+{ name: 'Rue de Seine',
+  href: 'http://en.wikipedia.org/wiki/Rue_de_Seine',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 766,
+       quote: [ 'The Hotel La Louisiane at 60 rue de Seine is famous for having accommodated many notable jazz musicians and writers, including Miles Davis, Chet Baker, John Coltrane, Ernest Hemingway, Jean-Paul Sartre and Simone de Beauvoir.' ] } ] }

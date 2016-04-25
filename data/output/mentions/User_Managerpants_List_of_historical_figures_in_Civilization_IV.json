@@ -1,0 +1,8 @@
+{ name: 'User:Managerpants/List of historical figures in Civilization IV',
+  href: 'http://en.wikipedia.org/wiki/User:Managerpants/List_of_historical_figures_in_Civilization_IV',
+  mentions: 
+   [ { sectionHeader: 'Great Artists',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 596,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Myles Davies',
+  href: 'http://en.wikipedia.org/wiki/Myles_Davies',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'For the jazz musician, see Miles Davis.' ] } ] }

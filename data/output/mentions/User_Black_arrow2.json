@@ -1,0 +1,8 @@
+{ name: 'User:Black arrow2',
+  href: 'http://en.wikipedia.org/wiki/User:Black_arrow2',
+  mentions: 
+   [ { sectionHeader: 'Some favourites',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 324,
+       quote: [ 'Miles Davis' ] } ] }

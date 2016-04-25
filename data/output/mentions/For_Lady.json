@@ -1,0 +1,13 @@
+{ name: 'For Lady',
+  href: 'http://en.wikipedia.org/wiki/For_Lady',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Webster Young Plays the Miles Davis Songbook' ] },
+     { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 736,
+       quote: [ 'Allmusic awarded the album 3 stars with its review by Jim Todd stating, "While trumpeter Webster Young pays tribute to Billie Holiday on this, his only studio date as a leader, the set is equally a tribute to Young\'s musical role model, Miles Davis".' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Chet Baker',
+  href: 'http://en.wikipedia.org/wiki/Chet_Baker',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3333,
+       quote: [ 'In 1953 and 1954, Baker won the Down Beat and Metronome magazines\' Readers Jazz Polls, beating the era\'s two top trumpeters, Miles Davis and Clifford Brown.' ] } ] }

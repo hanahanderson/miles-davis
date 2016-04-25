@@ -1,0 +1,8 @@
+{ name: 'Ernest Dickerson',
+  href: 'http://en.wikipedia.org/wiki/Ernest_Dickerson',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1458,
+       quote: [ 'After graduating, Dickerson began his career as cinematographer on music videos for Bruce Springsteen, Anita Baker, and Miles Davis, and went on to film John Sayles\' Brother from Another Planet (1984), his first professional film as a director of photography.' ] } ] }

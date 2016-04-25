@@ -1,0 +1,8 @@
+{ name: 'File:MilesDavis MilesInTheSky.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:MilesDavis_MilesInTheSky.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is the cover art for the album Miles in the Sky by the artist Miles Davis.' ] } ] }

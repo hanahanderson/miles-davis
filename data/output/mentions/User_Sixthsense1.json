@@ -1,0 +1,8 @@
+{ name: 'User:Sixthsense1',
+  href: 'http://en.wikipedia.org/wiki/User:Sixthsense1',
+  mentions: 
+   [ { sectionHeader: 'Historical References to Drugs',
+       sectionSubHeader: 'Drugs and the Law',
+       sectionIndex: 27,
+       wordCountBeforeSection: 18646,
+       quote: [ 'In the end, jazz and rock ‘n roll kicked in: Cab Calloway, Louis Armstrong, Billie Holiday, John Coltrane, Miles Davis, Jimi Hendricks, Jefferson Airplane, The Beatles, The Rolling Stones, The Grateful Dead, Kurt Cobain and Mary J.Blige among very many others gave testimonies of personal and societal drug use and drug abuse in music and song.\n(edit)\nIn the 1960’s, concerned that the counterculture had pre-empted the discourse on drugs to the detriment of labor productivity stateside, conformity by youth to middle class morals, their motivation to work and succeed and particularly the fighting morale of U.S. troops in Vietnam and Southeast Asia, the federal government carved out of the National Institutes of Health (NIH) a brand-new, specialized entity, the National Institute on Drg Abuse (NIDA), which has since become the source of funding for 80% percent of drug research undertaken worldwide.' ] } ] }

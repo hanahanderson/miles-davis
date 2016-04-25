@@ -1,0 +1,8 @@
+{ name: 'Cold Sweat',
+  href: 'http://en.wikipedia.org/wiki/Cold_Sweat',
+  mentions: 
+   [ { sectionHeader: 'Creation',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1574,
+       quote: [ 'fter one of the shows, one night somewhere, James called me into the dressing room and grunted a bass line of a rhythmic thing (demonstrates), which turned out to be "Cold Sweat." I was very much influenced by Miles Davis and had been listening to "So What" six or seven years earlier and that crept into the making of "Cold Sweat." You could call it subliminal, but the horn line is based on Miles Davis\' "So What." I wrote that on the bus between New York and Cincinnati.' ] } ] }

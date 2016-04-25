@@ -1,0 +1,8 @@
+{ name: 'A Night in Tunisia',
+  href: 'http://en.wikipedia.org/wiki/A_Night_in_Tunisia',
+  mentions: 
+   [ { sectionHeader: 'Cover versions and adaptations',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3225,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,108 @@
+{ name: 'Face to Face (Oscar Peterson and Freddie Hubbard album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Face_to_Face_(Oscar_Peterson_and_Freddie_Hubbard_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '45.9' } ],
+     'dbo:abstract': [ { value: 'Face to Face is a 1982 album by Oscar Peterson, accompanied by Freddie Hubbard. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Oscar_Peterson',
+          href: 'http://dbpedia.org/resource/Oscar_Peterson' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Freedom_Song_(Oscar_Peterson_album)',
+          href: 'http://dbpedia.org/resource/Freedom_Song_(Oscar_Peterson_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Norman_Granz',
+          href: 'http://dbpedia.org/resource/Norman_Granz' } ],
+     'dbo:recordDate': [ { value: '1982-05-24 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Pablo_Records',
+          href: 'http://dbpedia.org/resource/Pablo_Records' } ],
+     'dbo:runtime': [ { value: '2754.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Two_of_the_Few',
+          href: 'http://dbpedia.org/resource/Two_of_the_Few' } ],
+     'dbo:wikiPageID': [ { value: '21843743 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '615961748 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Oscar_Peterson',
+          href: 'http://dbpedia.org/resource/Oscar_Peterson' } ],
+     'dbp:cover': [ { value: 'Oscarface.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Pablo_Records',
+          href: 'http://dbpedia.org/resource/Pablo_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Freedom Song (en)' } ],
+     'dbp:length': [ { value: '2754.0' } ],
+     'dbp:name': [ { value: 'Face to Face (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Two of the Few (en)' } ],
+     'dbp:noprose': [ { value: 'yes (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Norman_Granz',
+          href: 'http://dbpedia.org/resource/Norman_Granz' } ],
+     'dbp:recorded': [ { value: '1982-05-24 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Face to Face (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Freddie_Hubbard_albums',
+          href: 'http://dbpedia.org/resource/Category:Freddie_Hubbard_albums' },
+        { value: 'dbc:Albums_produced_by_Norman_Granz',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Norman_Granz' },
+        { value: 'dbc:1982_albums',
+          href: 'http://dbpedia.org/resource/Category:1982_albums' },
+        { value: 'dbc:Pablo_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Pablo_Records_albums' },
+        { value: 'dbc:Oscar_Peterson_albums',
+          href: 'http://dbpedia.org/resource/Category:Oscar_Peterson_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Face to Face is a 1982 album by Oscar Peterson, accompanied by Freddie Hubbard. (en)' } ],
+     'rdfs:label': [ { value: 'Face to Face (Oscar Peterson and Freddie Hubbard album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Face to Face (Oscar Peterson and Freddie Hubbard album)',
+          href: 'http://rdf.freebase.com/ns/m.05p52_d' },
+        { value: 'dbpedia-wikidata:Face to Face (Oscar Peterson and Freddie Hubbard album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5428422' },
+        { value: 'wikidata:Face to Face (Oscar Peterson and Freddie Hubbard album)',
+          href: 'http://www.wikidata.org/entity/Q5428422' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Face_to_Face_(Oscar_Peterson_and_Freddie_Hubbard_album)?oldid=615961748',
+          href: 'http://en.wikipedia.org/wiki/Face_to_Face_(Oscar_Peterson_and_Freddie_Hubbard_album)?oldid=615961748' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Face_to_Face_(Oscar_Peterson_and_Freddie_Hubbard_album)',
+          href: 'http://en.wikipedia.org/wiki/Face_to_Face_(Oscar_Peterson_and_Freddie_Hubbard_album)' } ],
+     'foaf:name': [ { value: 'Face to Face (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Two_of_the_Few',
+          href: 'http://dbpedia.org/resource/Two_of_the_Few' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Freedom_Song_(Oscar_Peterson_album)',
+          href: 'http://dbpedia.org/resource/Freedom_Song_(Oscar_Peterson_album)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Face_to_Face',
+          href: 'http://dbpedia.org/resource/Face_to_Face' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Face_to_Face_(Oscar_Peterson_and_Freddy_Hubbard_album)',
+          href: 'http://dbpedia.org/resource/Face_to_Face_(Oscar_Peterson_and_Freddy_Hubbard_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Face_to_Face_(Oscar_Peterson_and_Freddie_Hubbard_album)',
+          href: 'http://en.wikipedia.org/wiki/Face_to_Face_(Oscar_Peterson_and_Freddie_Hubbard_album)' } ] } }

@@ -1,0 +1,39 @@
+{ name: 'List of 1960s one-hit wonders in the United States',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_1960s_one-hit_wonders_in_the_United_States',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of musical artists whose one hit came out in the 1960s.The list contains recording artists who reached the Top 40 of the U.S. pop chart (the Billboard Hot 100) with just one single.Artists in italics have only one Top 40 hit, but eitherhad other songs chart on genre-specific chartshave had success and influence within their genre or the annals of popular music and/ora long-lasting and devoted cult followingwider success in other fields of the music industry, e.g., songwriting, production, etc.are a non-American act who have had wider success in their homeland (en)' } ],
+     'dbo:wikiPageID': [ { value: '1852619 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683731061 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_musicians',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians' },
+        { value: 'dbc:American_music_history',
+          href: 'http://dbpedia.org/resource/Category:American_music_history' },
+        { value: 'dbc:1960s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1960s_in_music' },
+        { value: 'dbc:1960s_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:1960s_in_the_United_States' },
+        { value: 'dbc:Lists_of_record_chart_achievements',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_record_chart_achievements' } ],
+     'rdfs:comment': [ { value: 'This is a list of musical artists whose one hit came out in the 1960s.The list contains recording artists who reached the Top 40 of the U.S. (en)' } ],
+     'rdfs:label': [ { value: 'List of 1960s one-hit wonders in the United States (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of 1960s one-hit wonders in the United States',
+          href: 'http://wikidata.dbpedia.org/resource/Q6559485' },
+        { value: 'wikidata:List of 1960s one-hit wonders in the United States',
+          href: 'http://www.wikidata.org/entity/Q6559485' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_1960s_one-hit_wonders_in_the_United_States?oldid=683731061',
+          href: 'http://en.wikipedia.org/wiki/List_of_1960s_one-hit_wonders_in_the_United_States?oldid=683731061' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_1960s_one-hit_wonders_in_the_United_States',
+          href: 'http://en.wikipedia.org/wiki/List_of_1960s_one-hit_wonders_in_the_United_States' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:1960s_One-hit_wonders_in_the_United_States',
+          href: 'http://dbpedia.org/resource/1960s_One-hit_wonders_in_the_United_States' },
+        { value: 'dbr:List_of_1960s_artists_with_only_one_pop_hit_in_the_United_States',
+          href: 'http://dbpedia.org/resource/List_of_1960s_artists_with_only_one_pop_hit_in_the_United_States' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_1960s_one-hit_wonders_in_the_United_States',
+          href: 'http://en.wikipedia.org/wiki/List_of_1960s_one-hit_wonders_in_the_United_States' } ] } }

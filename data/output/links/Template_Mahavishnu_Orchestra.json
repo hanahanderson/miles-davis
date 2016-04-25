@@ -1,0 +1,16 @@
+{ name: 'Template:Mahavishnu Orchestra',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:Mahavishnu_Orchestra',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '23016642 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677830688 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-cs:Šablona:Mahavishnu_Orchestra',
+          href: 'http://cs.dbpedia.org/resource/Šablona:Mahavishnu_Orchestra' },
+        { value: 'dbpedia-wikidata:Q10623352',
+          href: 'http://wikidata.dbpedia.org/resource/Q10623352' },
+        { value: 'wikidata:Q10623352',
+          href: 'http://www.wikidata.org/entity/Q10623352' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Mahavishnu_Orchestra?oldid=677830688',
+          href: 'http://en.wikipedia.org/wiki/Template:Mahavishnu_Orchestra?oldid=677830688' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Mungolian Jet Set',
+  href: 'http://en.wikipedia.org/wiki/Mungolian_Jet_Set',
+  mentions: 
+   [ { sectionHeader: 'Beauty Came To Us In Stone',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3715,
+       quote: [ 'Initially a commissioned jazz album for Bugge Wesseltoft\'s Jazzland Recordings label, it soon evolved from the tribute to electric era Miles Davis it was intended to be into a densely woven pastiche of innumerable elements.' ] } ] }

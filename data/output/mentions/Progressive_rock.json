@@ -1,0 +1,8 @@
+{ name: 'Progressive rock',
+  href: 'http://en.wikipedia.org/wiki/Progressive_rock',
+  mentions: 
+   [ { sectionHeader: 'Characteristics',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 5375,
+       quote: [ 'Progressive rock originally referred to progressive pop or "classical rock" in which a band performed together with an orchestra, but the term\'s use broadened over time to include Miles Davis-style jazz fusion, some metal and folk rock styles, and experimental German bands.' ] } ] }

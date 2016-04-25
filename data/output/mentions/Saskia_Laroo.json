@@ -1,0 +1,8 @@
+{ name: 'Saskia Laroo',
+  href: 'http://en.wikipedia.org/wiki/Saskia_Laroo',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 343,
+       quote: [ 'Saskia Laroo (born July 31, 1959 in Amsterdam), is a Dutch jazz musician who has been dubbed the "Lady Miles Davis".' ] } ] }

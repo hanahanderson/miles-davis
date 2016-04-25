@@ -1,0 +1,8 @@
+{ name: 'ITunes LP',
+  href: 'http://en.wikipedia.org/wiki/ITunes_LP',
+  mentions: 
+   [ { sectionHeader: 'iTunes LP List',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6464,
+       quote: [ 'Miles Davis – Bitches Brew' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Buddy Collette',
+  href: 'http://en.wikipedia.org/wiki/Buddy_Collette',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 4444,
+       quote: [ 'With Miles Davis and Michel Legrand' ] } ] }

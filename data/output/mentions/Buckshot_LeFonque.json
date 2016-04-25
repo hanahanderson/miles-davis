@@ -1,0 +1,8 @@
+{ name: 'Buckshot LeFonque',
+  href: 'http://en.wikipedia.org/wiki/Buckshot_LeFonque',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 187,
+       quote: [ 'After playing with Sting, Miles Davis and other artists, Marsalis founded this band to create a new sound by merging classical jazz with rock, pop, R&B and hip-hop influences.' ] } ] }

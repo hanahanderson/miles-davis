@@ -1,0 +1,8 @@
+{ name: 'Suddenly (Marcus Miller album)',
+  href: 'http://en.wikipedia.org/wiki/Suddenly_(Marcus_Miller_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1393,
+       quote: [ 'Miles Davis' ] } ] }

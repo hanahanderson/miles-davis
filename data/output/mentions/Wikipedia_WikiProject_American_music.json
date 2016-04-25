@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject American music',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_American_music',
+  mentions: 
+   [ { sectionHeader: 'Recognized content',
+       sectionSubHeader: '',
+       sectionIndex: 55,
+       wordCountBeforeSection: 11549,
+       quote: [ ' Miles Davis' ] } ] }

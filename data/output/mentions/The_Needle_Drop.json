@@ -1,0 +1,8 @@
+{ name: 'The Needle Drop',
+  href: 'http://en.wikipedia.org/wiki/The_Needle_Drop',
+  mentions: 
+   [ { sectionHeader: 'Notable reviews and ratings',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 8621,
+       quote: [ 'Miles Davis' ] } ] }

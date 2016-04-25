@@ -1,0 +1,98 @@
+{ name: 'Music Spoken Here',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Music_Spoken_Here',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '38.516666666666666' } ],
+     'dbo:abstract': [ { value: 'Music Spoken Here is an album by John McLaughlin, released in 1982 through Warner Music Group. The album reached number 24 in the Billboard Jazz Albums chart 1983. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Belo_Horizonte_(album)',
+          href: 'http://dbpedia.org/resource/Belo_Horizonte_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Warner_Music_Group',
+          href: 'http://dbpedia.org/resource/Warner_Music_Group' } ],
+     'dbo:runtime': [ { value: '2311.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Passion,_Grace_and_Fire',
+          href: 'http://dbpedia.org/resource/Passion,_Grace_and_Fire' } ],
+     'dbo:wikiPageID': [ { value: '38094678 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664257477 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_McLaughlin_(musician)',
+          href: 'http://dbpedia.org/resource/John_McLaughlin_(musician)' } ],
+     'dbp:cover': [ { value: 'McLaughlin_Music_Spoken_Here.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' },
+        { value: 'dbr:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Jazz_fusion' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Warner_Music_Group',
+          href: 'http://dbpedia.org/resource/Warner_Music_Group' } ],
+     'dbp:lastAlbum': [ { value: 'Belo Horizonte (en)' } ],
+     'dbp:name': [ { value: 'Music Spoken Here (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Passion, Grace & Fire (en)' } ],
+     'dbp:noprose': [ { value: 'yes (en)' } ],
+     'dbp:producer': [ { value: 'John McLaughlin (en)' } ],
+     'dbp:recorded': [ { value: 'June/July 1982 at Ramses Studios, Paris (en)' } ],
+     'dbp:released': [ { value: '1982 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Music Spoken Here (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1982_albums',
+          href: 'http://dbpedia.org/resource/Category:1982_albums' },
+        { value: 'dbc:John_McLaughlin_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:John_McLaughlin_(musician)_albums' },
+        { value: 'dbc:Warner_Music_Group_albums',
+          href: 'http://dbpedia.org/resource/Category:Warner_Music_Group_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Music Spoken Here is an album by John McLaughlin, released in 1982 through Warner Music Group. The album reached number 24 in the Billboard Jazz Albums chart 1983. (en)' } ],
+     'rdfs:label': [ { value: 'Music Spoken Here (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Music Spoken Here',
+          href: 'http://rdf.freebase.com/ns/m.01l4l4w' },
+        { value: 'dbpedia-wikidata:Music Spoken Here',
+          href: 'http://wikidata.dbpedia.org/resource/Q6941644' },
+        { value: 'wikidata:Music Spoken Here',
+          href: 'http://www.wikidata.org/entity/Q6941644' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Music_Spoken_Here?oldid=664257477',
+          href: 'http://en.wikipedia.org/wiki/Music_Spoken_Here?oldid=664257477' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Music_Spoken_Here',
+          href: 'http://en.wikipedia.org/wiki/Music_Spoken_Here' } ],
+     'foaf:name': [ { value: 'Music Spoken Here (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Music_Spoken_Here',
+          href: 'http://en.wikipedia.org/wiki/Music_Spoken_Here' } ] } }

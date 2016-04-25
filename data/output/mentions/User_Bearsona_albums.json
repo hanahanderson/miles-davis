@@ -1,0 +1,8 @@
+{ name: 'User:Bearsona/albums',
+  href: 'http://en.wikipedia.org/wiki/User:Bearsona/albums',
+  mentions: 
+   [ { sectionHeader: 'M',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 7884,
+       quote: [ 'Miles Davis and Quincy Jones' ] } ] }

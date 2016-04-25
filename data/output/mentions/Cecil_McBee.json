@@ -1,0 +1,13 @@
+{ name: 'Cecil McBee',
+  href: 'http://en.wikipedia.org/wiki/Cecil_McBee',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Dinah Washington, Paul Winter, Miles Davis, Andrew Hill, Sam Rivers, Jackie McLean, Wayne Shorter, Charles Lloyd, Yusef Lateef, Keith Jarrett, Freddie Hubbard, Woody Shaw, Alice Coltrane' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1380,
+       quote: [ 'His jazz career began to take off in the mid-1960s, after he moved to New York, when he began playing and recording with a number of significant musicians including Miles Davis, Andrew Hill, Sam Rivers, Jackie McLean (1964), Wayne Shorter (1965–66), Charles Lloyd (1966), Yusef Lateef (1967–69), Keith Jarrett, Freddie Hubbard and Woody Shaw (1986), and Alice Coltrane (1969–72).' ] } ] }

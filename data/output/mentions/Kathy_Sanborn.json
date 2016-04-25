@@ -1,0 +1,8 @@
+{ name: 'Kathy Sanborn',
+  href: 'http://en.wikipedia.org/wiki/Kathy_Sanborn',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1574,
+       quote: [ 'Her 2011 project, Blues for Breakfast, features a song dedicated to the jazz masters of old, such as innovative trumpeter Miles Davis.' ] } ] }

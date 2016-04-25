@@ -1,0 +1,8 @@
+{ name: 'Talk:Bill Connors',
+  href: 'http://en.wikipedia.org/wiki/Talk:Bill_Connors',
+  mentions: 
+   [ { sectionHeader: 'Bill Connors speaks, others speak on bill',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 3984,
+       quote: [ 'I began listening to people like Bill Evans, Jim Hall, Wes Montgomery,  Scott LaFaro, Miles Davis, John Coltrane -- anyone who had a \'jazz\' label.' ] } ] }

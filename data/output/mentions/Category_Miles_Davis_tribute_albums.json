@@ -1,0 +1,13 @@
+{ name: 'Category:Miles Davis tribute albums',
+  href: 'http://en.wikipedia.org/wiki/Category:Miles_Davis_tribute_albums',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Selim Sivad: A Tribute to Miles Davis' ] } ] }

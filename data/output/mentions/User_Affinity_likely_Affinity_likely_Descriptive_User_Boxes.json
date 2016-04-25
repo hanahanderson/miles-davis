@@ -1,0 +1,8 @@
+{ name: 'User:Affinity likely/Affinity likely Descriptive User Boxes',
+  href: 'http://en.wikipedia.org/wiki/User:Affinity_likely/Affinity_likely_Descriptive_User_Boxes',
+  mentions: 
+   [ { sectionHeader: 'I enjoy',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1486,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

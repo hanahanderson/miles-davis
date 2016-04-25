@@ -1,0 +1,13 @@
+{ name: 'Kenny Hagood',
+  href: 'http://en.wikipedia.org/wiki/Kenny_Hagood',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 138,
+       quote: [ 'He recorded two pieces with Thelonious Monk in 1948 and with Miles Davis on the Birth of the Cool sessions in 1950.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 776,
+       quote: [ 'Miles Davis: Cool Boppin´ - Historic Broadcasts from The Royal Roost 1948/1949 (Fresh Sound; earlier released as LP: Pre-Birth Of The Cool (Cicala Jazz Life))' ] } ] }

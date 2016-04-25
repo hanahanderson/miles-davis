@@ -1,0 +1,14 @@
+{ name: 'Template:2006 Rock and Roll Hall of Fame',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:2006_Rock_and_Roll_Hall_of_Fame',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '41567038 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '675745667 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Q20336722',
+          href: 'http://wikidata.dbpedia.org/resource/Q20336722' },
+        { value: 'wikidata:Q20336722',
+          href: 'http://www.wikidata.org/entity/Q20336722' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:2006_Rock_and_Roll_Hall_of_Fame?oldid=675745667',
+          href: 'http://en.wikipedia.org/wiki/Template:2006_Rock_and_Roll_Hall_of_Fame?oldid=675745667' } ] } }

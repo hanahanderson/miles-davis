@@ -1,0 +1,18 @@
+{ name: 'User talk:204.122.255.186',
+  href: 'http://en.wikipedia.org/wiki/User_talk:204.122.255.186',
+  mentions: 
+   [ { sectionHeader: 'September 2014',
+       sectionSubHeader: '',
+       sectionIndex: 34,
+       wordCountBeforeSection: 6638,
+       quote: [ 'This is a message letting you know that one or more of your recent edits to Miles Davis has been undone by an automated computer program called ClueBot NG.' ] },
+     { sectionHeader: 'September 2014',
+       sectionSubHeader: '',
+       sectionIndex: 36,
+       wordCountBeforeSection: 6826,
+       quote: [ 'The following is the log entry regarding this message: Miles Davis was changed by 204.122.255.186 (u) (t) ANN scored at 0.908003 on 2014-09-15T17:08:33+00:00 .' ] },
+     { sectionHeader: 'September 2014',
+       sectionSubHeader: '',
+       sectionIndex: 38,
+       wordCountBeforeSection: 7308,
+       quote: [ 'If you continue to vandalize Wikipedia, as you did to Miles Davis with this edit, you may be blocked from editing. — MusikAnimal talk 17:09, 15 September 2014 (UTC)' ] } ] }

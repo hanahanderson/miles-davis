@@ -1,0 +1,13 @@
+{ name: 'Debut Records',
+  href: 'http://en.wikipedia.org/wiki/Debut_Records',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 141,
+       quote: [ 'Teo Macero, later a producer with Miles Davis, recorded his first album as a leader as a saxophonist for Debut, an album described by critic Dan Morganstern as an oddball fusion of Lennie Tristano and Anton Webern.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2634,
+       quote: [ 'DEB 120 Miles Davis - Blue Moods' ] } ] }

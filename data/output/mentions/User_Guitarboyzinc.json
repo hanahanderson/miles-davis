@@ -1,0 +1,8 @@
+{ name: 'User:Guitarboyzinc',
+  href: 'http://en.wikipedia.org/wiki/User:Guitarboyzinc',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Rush (band), Phish, Grateful Dead, Led Zeppelin, Gentle Giant, They Might Be Giants, Yes, Mahavishnu Orchestra, Jaco Pastorius, The Who, The Beatles, Weather Report, Velvet Underground, Pink Floyd, Al Di Meola, Allan Holdsworth, Emerson, Lake, and Palmer, Rainbow (band), R.E.M. (band), King Crimson, Nirvana (band), Collective Soul, Miles Davis, U2, King Missle, Stevie Ray Vaughan, Eric Clapton, The Eagles, Billy Cobham.' ] } ] }

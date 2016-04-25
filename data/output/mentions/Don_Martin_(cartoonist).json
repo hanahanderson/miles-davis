@@ -1,0 +1,13 @@
+{ name: 'Don Martin (cartoonist)',
+  href: 'http://en.wikipedia.org/wiki/Don_Martin_(cartoonist)',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1432,
+       quote: [ 'Just prior to his work with Mad, Don Martin illustrated the album covers of a few legendary jazz artists for Prestige Records, including Miles Davis\' 1953 album Miles Davis and Horns (Prestige LP 7025).' ] },
+     { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1432,
+       quote: [ 'Miles Davis and Horns' ] } ] }

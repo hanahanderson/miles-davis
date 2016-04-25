@@ -1,0 +1,8 @@
+{ name: '52nd Street Themes',
+  href: 'http://en.wikipedia.org/wiki/52nd_Street_Themes',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 800,
+       quote: [ 'Miles Davis' ] } ] }

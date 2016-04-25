@@ -1,0 +1,4 @@
+{ name: 'User:Claire van der Meer',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Claire_van_der_Meer',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

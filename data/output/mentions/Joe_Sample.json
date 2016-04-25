@@ -1,0 +1,8 @@
+{ name: 'Joe Sample',
+  href: 'http://en.wikipedia.org/wiki/Joe_Sample',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 754,
+       quote: [ 'Beginning in the 1970s, he enjoyed a successful solo career and guested on many recordings by other performers and groups, including Miles Davis, George Benson, Jimmy Witherspoon, B.' ] } ] }

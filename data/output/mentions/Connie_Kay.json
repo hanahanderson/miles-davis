@@ -1,0 +1,18 @@
+{ name: 'Connie Kay',
+  href: 'http://en.wikipedia.org/wiki/Connie_Kay',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 259,
+       quote: [ 'He was self-taught, and began his career playing with saxophonist Lester Young\'s quintet from 1949 to 1955, and also with Stan Getz, Coleman Hawkins, Charlie Parker, Miles Davis and others.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2813,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2829,
+       quote: [ 'Miles Davis at Newport 1955-1975: The Bootleg Series Vol. 4' ] } ] }

@@ -1,0 +1,115 @@
+{ name: 'Lady Day: The Complete Billie Holiday on Columbia 1933–1944',
+  entityType: 'Box set',
+  href: 'http://dbpedia.org/page/Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933%E2%80%931944',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '681.95' } ],
+     'dbo:abstract': [ { value: 'Lady Day: The Complete Billie Holiday on Columbia 1933–1944 is a box set ten-disc compilation of the complete known studio master recordings, plus alternate takes, of Billie Holiday during the time period indicated, released in 2001 on Columbia/Legacy, CXK 85470. Designed like an album of 78s, the medium in which these recordings initially appeared, the 10.5" × 12" box includes 230 tracks, a 116 page booklet with extensive photos, a song list, discography, essays by Michael Brooks, Gary Giddins, and Farah Jasmine Griffin, and an insert of appreciations for Holiday from a diversity of figures including Tony Bennett, Elvis Costello, Marianne Faithfull, B.B. King, Abbey Lincoln, Jill Scott, and Lucinda Williams. At the 44th Grammy Awards on February 27, 2002, the box set won the Grammy Award for Best Historical Album of the previous year. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Billie_Holiday',
+          href: 'http://dbpedia.org/resource/Billie_Holiday' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Lady_Day:_The_Best_of_Billie_Holiday',
+          href: 'http://dbpedia.org/resource/Lady_Day:_The_Best_of_Billie_Holiday' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Michael_Cuscuna' },
+        { value: 'dbr:Michael_Brooks_(jazz)',
+          href: 'http://dbpedia.org/resource/Michael_Brooks_(jazz)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Legacy_Recordings',
+          href: 'http://dbpedia.org/resource/Legacy_Recordings' } ],
+     'dbo:releaseDate': [ { value: '2001-10-02 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '40917.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:A_Musical_Romance',
+          href: 'http://dbpedia.org/resource/A_Musical_Romance' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Box_set',
+          href: 'http://dbpedia.org/resource/Box_set' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.youtube.com/watch?v=QTT9Su1d-VE',
+          href: 'http://www.youtube.com/watch?v=QTT9Su1d-VE' } ],
+     'dbo:wikiPageID': [ { value: '16284134 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671636356 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Billie_Holiday',
+          href: 'http://dbpedia.org/resource/Billie_Holiday' } ],
+     'dbp:cover': [ { value: 'Ladydaycolumbia19331944.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Legacy_Recordings',
+          href: 'http://dbpedia.org/resource/Legacy_Recordings' } ],
+     'dbp:lastAlbum': [ { value: 'Lady Day: The Best of Billie Holiday (en)' } ],
+     'dbp:length': [ { value: '40917.0' } ],
+     'dbp:name': [ { value: 'Lady Day: The Complete Billie Holiday on Columbia 1933-1944 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'A Musical Romance (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Michael_Cuscuna' },
+        { value: 'dbr:Michael_Brooks_(jazz)',
+          href: 'http://dbpedia.org/resource/Michael_Brooks_(jazz)' } ],
+     'dbp:recorded': 
+      [ { value: 'January 1944 (en)' },
+        { value: 'November 1933 to (en)' } ],
+     'dbp:released': [ { value: '2001-10-02 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Lady Day: The Complete Billie Holiday on Columbia 1933–1944 (en)' } ],
+     'dbp:type': [ { value: 'Box Set (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Michael_Cuscuna',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Michael_Cuscuna' },
+        { value: 'dbc:2001_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:2001_compilation_albums' },
+        { value: 'dbc:Billie_Holiday_albums',
+          href: 'http://dbpedia.org/resource/Category:Billie_Holiday_albums' },
+        { value: 'dbc:Grammy_Award_for_Best_Historical_Album',
+          href: 'http://dbpedia.org/resource/Category:Grammy_Award_for_Best_Historical_Album' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Lady Day: The Complete Billie Holiday on Columbia 1933–1944 is a box set ten-disc compilation of the complete known studio master recordings, plus alternate takes, of Billie Holiday during the time period indicated, released in 2001 on Columbia/Legacy, CXK 85470. (en)' } ],
+     'rdfs:label': [ { value: 'Lady Day: The Complete Billie Holiday on Columbia 1933–1944 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Lady Day: The Complete Billie Holiday on Columbia 1933–1944',
+          href: 'http://rdf.freebase.com/ns/m.03wf_1k' },
+        { value: 'dbpedia-wikidata:Lady Day: The Complete Billie Holiday on Columbia 1933–1944',
+          href: 'http://wikidata.dbpedia.org/resource/Q6470070' },
+        { value: 'wikidata:Lady Day: The Complete Billie Holiday on Columbia 1933–1944',
+          href: 'http://www.wikidata.org/entity/Q6470070' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933–1944?oldid=671636356',
+          href: 'http://en.wikipedia.org/wiki/Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933–1944?oldid=671636356' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933–1944',
+          href: 'http://en.wikipedia.org/wiki/Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933–1944' } ],
+     'foaf:name': [ { value: 'Lady Day: The Complete Billie Holiday on Columbia 1933-1944 (en)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Lady_Day_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Lady_Day_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933-1944',
+          href: 'http://dbpedia.org/resource/Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933-1944' } ],
+     'is owl:sameAs\n of': 
+      [ { value: 'dbr:Lady Day: The Complete Billie Holiday on Columbia 1933–1944',
+          href: 'http://dbpedia.org/resource/Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933%E2%80%931944' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933–1944',
+          href: 'http://en.wikipedia.org/wiki/Lady_Day:_The_Complete_Billie_Holiday_on_Columbia_1933–1944' } ] } }

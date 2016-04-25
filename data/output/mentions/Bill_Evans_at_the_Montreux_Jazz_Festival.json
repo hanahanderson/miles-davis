@@ -1,0 +1,13 @@
+{ name: 'Bill Evans at the Montreux Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Bill_Evans_at_the_Montreux_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1246,
+       quote: [ '"Nardis" (Miles Davis) – 8:23' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2028,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Moose the Mooche',
+  href: 'http://en.wikipedia.org/wiki/Moose_the_Mooche',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 529,
+       quote: [ 'Parker recorded it in Los Angeles for Dial on March 28, 1946, as the Charlie Parker Septet, accompanied by Miles Davis, Lucky Thompson and Dodo Marmarosa, who were performing with Parker at the Finale Club, Vic McMillan (who was brought in at the last minute when the original bassist, Red Callender quit), Arvin Garrison and Roy Porter.' ] } ] }

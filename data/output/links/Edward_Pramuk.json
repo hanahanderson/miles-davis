@@ -1,0 +1,138 @@
+{ name: 'Edward Pramuk',
+  entityType: 'agent',
+  href: 'http://dbpedia.org/page/Edward_Pramuk',
+  values: 
+   { 'dbo:abstract': [ { value: 'Edward Pramuk (born 1936) is an abstract expressionist painter. He has had numerous exhibitions in New York, Texas and Louisiana, and taught painting, drawing, printmaking and design at Louisiana State University for 35 years. (en)' } ],
+     'dbo:birthDate': [ { value: '1936-01-01 (xsd:date)' } ],
+     'dbo:birthName': [ { value: 'Edward Pramuk (en)' } ],
+     'dbo:birthPlace': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' },
+        { value: 'dbr:Akron,_Ohio',
+          href: 'http://dbpedia.org/resource/Akron,_Ohio' } ],
+     'dbo:birthYear': [ { value: '1936-01-01 (xsd:date)' } ],
+     'dbo:field': 
+      [ { value: 'dbr:Painting',
+          href: 'http://dbpedia.org/resource/Painting' } ],
+     'dbo:influencedBy': 
+      [ { value: 'dbr:James_Brooks_(painter)',
+          href: 'http://dbpedia.org/resource/James_Brooks_(painter)' } ],
+     'dbo:movement': 
+      [ { value: 'dbr:Abstract_expressionism',
+          href: 'http://dbpedia.org/resource/Abstract_expressionism' } ],
+     'dbo:nationality': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' } ],
+     'dbo:training': 
+      [ { value: 'dbr:Queens_College,_City_University_of_New_York',
+          href: 'http://dbpedia.org/resource/Queens_College,_City_University_of_New_York' },
+        { value: 'dbr:Kent_State_University',
+          href: 'http://dbpedia.org/resource/Kent_State_University' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.edwardpramuk.com/index.html',
+          href: 'http://www.edwardpramuk.com/index.html' } ],
+     'dbo:wikiPageID': [ { value: '39159016 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671446119 (xsd:integer)' } ],
+     'dbp:birthDate': [ { value: '1936 (xsd:integer)' } ],
+     'dbp:birthName': [ { value: 'Edward Pramuk (en)' } ],
+     'dbp:birthPlace': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' },
+        { value: 'dbr:Akron,_Ohio',
+          href: 'http://dbpedia.org/resource/Akron,_Ohio' } ],
+     'dbp:dateOfBirth': [ { value: '1936 (xsd:integer)' } ],
+     'dbp:field': 
+      [ { value: 'dbr:Painting',
+          href: 'http://dbpedia.org/resource/Painting' } ],
+     'dbp:influencedBy': [ { value: 'James Brooks, John Ferren (en)' } ],
+     'dbp:movement': 
+      [ { value: 'dbr:Abstract_expressionism',
+          href: 'http://dbpedia.org/resource/Abstract_expressionism' } ],
+     'dbp:name': 
+      [ { value: 'Edward Pramuk (en)' },
+        { value: 'Pramuk, Edward (en)' } ],
+     'dbp:nationality': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' } ],
+     'dbp:placeOfBirth': 
+      [ { value: 'dbr:United_States',
+          href: 'http://dbpedia.org/resource/United_States' },
+        { value: 'dbr:Akron,_Ohio',
+          href: 'http://dbpedia.org/resource/Akron,_Ohio' } ],
+     'dbp:training': 
+      [ { value: 'dbr:Queens_College,_City_University_of_New_York',
+          href: 'http://dbpedia.org/resource/Queens_College,_City_University_of_New_York' },
+        { value: 'dbr:Kent_State_University',
+          href: 'http://dbpedia.org/resource/Kent_State_University' } ],
+     'dbp:website': 
+      [ { value: 'http://www.edwardpramuk.com/index.html',
+          href: 'http://www.edwardpramuk.com/index.html' } ],
+     'dct:subject': 
+      [ { value: 'dbc:21st-century_American_painters',
+          href: 'http://dbpedia.org/resource/Category:21st-century_American_painters' },
+        { value: 'dbc:Artists_from_Louisiana',
+          href: 'http://dbpedia.org/resource/Category:Artists_from_Louisiana' },
+        { value: 'dbc:1936_births',
+          href: 'http://dbpedia.org/resource/Category:1936_births' },
+        { value: 'dbc:20th-century_American_painters',
+          href: 'http://dbpedia.org/resource/Category:20th-century_American_painters' },
+        { value: 'dbc:Collage',
+          href: 'http://dbpedia.org/resource/Category:Collage' },
+        { value: 'dbc:Contemporary_painters',
+          href: 'http://dbpedia.org/resource/Category:Contemporary_painters' },
+        { value: 'dbc:Living_people',
+          href: 'http://dbpedia.org/resource/Category:Living_people' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'foaf:Person',
+          href: 'http://xmlns.com/foaf/0.1/Person' },
+        { value: 'dbo:Person',
+          href: 'http://dbpedia.org/ontology/Person' },
+        { value: 'dul:Agent',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent' },
+        { value: 'dul:NaturalPerson',
+          href: 'http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson' },
+        { value: 'wikidata:Q215627',
+          href: 'http://www.wikidata.org/entity/Q215627' },
+        { value: 'wikidata:Q483501',
+          href: 'http://www.wikidata.org/entity/Q483501' },
+        { value: 'wikidata:Q5',
+          href: 'http://www.wikidata.org/entity/Q5' },
+        { value: 'dbo:Agent',
+          href: 'http://dbpedia.org/ontology/Agent' },
+        { value: 'dbo:Artist',
+          href: 'http://dbpedia.org/ontology/Artist' },
+        { value: 'schema:Person', href: 'http://schema.org/Person' } ],
+     'rdfs:comment': [ { value: 'Edward Pramuk (born 1936) is an abstract expressionist painter. He has had numerous exhibitions in New York, Texas and Louisiana, and taught painting, drawing, printmaking and design at Louisiana State University for 35 years. (en)' } ],
+     'rdfs:label': [ { value: 'Edward Pramuk (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Edward Pramuk',
+          href: 'http://rdf.freebase.com/ns/m.0t516z5' },
+        { value: 'dbpedia-wikidata:Edward Pramuk',
+          href: 'http://wikidata.dbpedia.org/resource/Q16104534' },
+        { value: 'wikidata:Edward Pramuk',
+          href: 'http://www.wikidata.org/entity/Q16104534' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Edward_Pramuk?oldid=671446119',
+          href: 'http://en.wikipedia.org/wiki/Edward_Pramuk?oldid=671446119' } ],
+     'foaf:givenName': [ { value: 'Edward (en)' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.edwardpramuk.com/index.html',
+          href: 'http://www.edwardpramuk.com/index.html' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Edward_Pramuk',
+          href: 'http://en.wikipedia.org/wiki/Edward_Pramuk' } ],
+     'foaf:name': 
+      [ { value: 'Edward Pramuk (en)' },
+        { value: 'Pramuk, Edward (en)' } ],
+     'foaf:surname': [ { value: 'Pramuk (en)' } ],
+     'is dbo:influenced\n of': 
+      [ { value: 'dbr:James_Brooks_(painter)',
+          href: 'http://dbpedia.org/resource/James_Brooks_(painter)' } ],
+     'is dbp:influenced\n of': 
+      [ { value: 'dbr:James_Brooks_(painter)',
+          href: 'http://dbpedia.org/resource/James_Brooks_(painter)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Edward_Pramuk',
+          href: 'http://en.wikipedia.org/wiki/Edward_Pramuk' } ] } }

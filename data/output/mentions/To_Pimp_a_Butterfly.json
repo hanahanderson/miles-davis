@@ -1,0 +1,13 @@
+{ name: 'To Pimp a Butterfly',
+  href: 'http://en.wikipedia.org/wiki/To_Pimp_a_Butterfly',
+  mentions: 
+   [ { sectionHeader: 'Recording and production',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 7910,
+       quote: [ 'Lamar professed to having listened often to Miles Davis and Parliament-Funkadelic during the album\'s recording.' ] },
+     { sectionHeader: 'Music and lyrics',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 10332,
+       quote: [ 'Kyle Anderson of Entertainment Weekly described the album as "embracing the entire history of black American music." Dan Weiss of Spin noted "shades of Miles Davis\' On the Corner and free jazz all over , as well as Sly Stone’s There\'s a Riot Goin\' On and Funkadelic and Erykah Badu\'s similarly wah-crazy but comparatively lo-fi New Amerykah (4th World War)," but stated nonetheless that "the sense of this album is vividly contemporary." Greg Kot of Chicago Tribune also noted the album\'s affinities with previous black music, but argued that "Lamar takes familiar musical tropes into new territory." The Atlantic noted the influence of collaborator Flying Lotus, writing that "his signature sound—jazz instrumentation and hip-hop layered into chaotic collages—is all over the album." Steve Mallon of The Quietus noted an "eerily warped psychedelia bursting out of its idiosyncratic arrangements."' ] } ] }

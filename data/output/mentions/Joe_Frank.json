@@ -1,0 +1,8 @@
+{ name: 'Joe Frank',
+  href: 'http://en.wikipedia.org/wiki/Joe_Frank',
+  mentions: 
+   [ { sectionHeader: 'Radio programs',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 4646,
+       quote: [ 'Adding to the atmosphere of Frank\'s monologues are edited loops of instrumental music from sources as diverse as Miles Davis, Steve Reich, Tangerine Dram, Can, Air, and Antonio Carlos Jobim.' ] } ] }

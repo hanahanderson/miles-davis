@@ -1,0 +1,8 @@
+{ name: 'Dmitri Shostakovich',
+  href: 'http://en.wikipedia.org/wiki/Dmitri_Shostakovich',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Criticism',
+       sectionIndex: 131,
+       wordCountBeforeSection: 61841,
+       quote: [ 'Miles Davis (1984)' ] } ] }

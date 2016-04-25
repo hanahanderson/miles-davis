@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Featured articles promoted in 2003',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Featured_articles_promoted_in_2003',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

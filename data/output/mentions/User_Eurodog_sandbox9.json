@@ -1,0 +1,13 @@
+{ name: 'User:Eurodog/sandbox9',
+  href: 'http://en.wikipedia.org/wiki/User:Eurodog/sandbox9',
+  mentions: 
+   [ { sectionHeader: 'Criticism of Panassié, but lasting legacy',
+       sectionSubHeader: '',
+       sectionIndex: 68,
+       wordCountBeforeSection: 16978,
+       quote: [ 'And to that end, he ridiculed Miles Davis for betraying jazz, because he played cool jazz, which, by definition was white music.' ] },
+     { sectionHeader: 'Criticism of Panassié, but lasting legacy',
+       sectionSubHeader: '',
+       sectionIndex: 72,
+       wordCountBeforeSection: 20100,
+       quote: [ 'In a reversal of the irony by a generation that followed Miles and Dizzy, jazz critic Stanley Crouch, in a 1986 essay on Miles Davis, and Wynton Marsalis, first in 1969, expressed contempt for Miles, whom they believe sold-out to crass commercialism.' ] } ] }

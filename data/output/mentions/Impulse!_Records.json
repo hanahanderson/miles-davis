@@ -1,0 +1,10 @@
+{ name: 'Impulse! Records',
+  href: 'http://en.wikipedia.org/wiki/Impulse!_Records',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 5400,
+       quote: 
+        [ 'Other early successes included the album Out of the Cool by composer-arranger Gil Evans, who had risen to prominence through his work with Miles Davis.',
+          'Taylor also set the scene for the label\'s most successful period with his far-sighted signing of another former Atlantic artist, saxophonist and composer John Coltrane, who had also risen to fame during his stint with Miles Davis in the 1950s.' ] } ] }

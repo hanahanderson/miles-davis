@@ -1,0 +1,18 @@
+{ name: '1958 in music',
+  href: 'http://en.wikipedia.org/wiki/1958_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3542,
+       quote: [ 'Ascenseur pour l\'échafaud – Miles Davis' ] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3542,
+       quote: [] },
+     { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3542,
+       quote: [ 'Milestones – Miles Davis' ] } ] }

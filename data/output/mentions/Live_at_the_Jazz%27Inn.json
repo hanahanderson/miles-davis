@@ -1,0 +1,8 @@
+{ name: 'Live at the Jazz\'Inn',
+  href: 'http://en.wikipedia.org/wiki/Live_at_the_Jazz%27Inn',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 478,
+       quote: [ '"Green-Just Blue" (Byard / Miles Davis) - 8:10' ] } ] }

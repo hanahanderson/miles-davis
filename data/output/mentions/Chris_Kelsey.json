@@ -1,0 +1,8 @@
+{ name: 'Chris Kelsey',
+  href: 'http://en.wikipedia.org/wiki/Chris_Kelsey',
+  mentions: 
+   [ { sectionHeader: 'What I Say',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 6029,
+       quote: [ 'In Summer 2011, Kelsey formed What I Say, a quintet dedicated to exploring the 1970s music of Miles Davis.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'A Bronx Tale',
+  href: 'http://en.wikipedia.org/wiki/A_Bronx_Tale',
+  mentions: 
+   [ { sectionHeader: 'Production',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 8571,
+       quote: [ 'Miles Davis' ] } ] }

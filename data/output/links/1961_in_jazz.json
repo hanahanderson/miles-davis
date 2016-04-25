@@ -1,0 +1,49 @@
+{ name: '1961 in jazz',
+  entityType: 'populated place',
+  href: 'http://dbpedia.org/page/1961_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1961 in jazz: (en)' } ],
+     'dbo:wikiPageID': [ { value: '17823758 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678877772 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1962 (xsd:integer)' } ],
+     'dbp:prioryear': [ { value: '1960 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1961_in_music',
+          href: 'http://dbpedia.org/resource/Category:1961_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Place',
+          href: 'http://dbpedia.org/ontology/Place' },
+        { value: 'dbo:Location',
+          href: 'http://dbpedia.org/ontology/Location' },
+        { value: 'wikidata:Q486972',
+          href: 'http://www.wikidata.org/entity/Q486972' },
+        { value: 'dbo:PopulatedPlace',
+          href: 'http://dbpedia.org/ontology/PopulatedPlace' },
+        { value: 'schema:Place', href: 'http://schema.org/Place' } ],
+     'rdfs:comment': [ { value: '1961 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1961 in jazz (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_post-1950_jazz_standards',
+          href: 'http://dbpedia.org/resource/List_of_post-1950_jazz_standards' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1961 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4570546' },
+        { value: 'wikidata:1961 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4570546' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1961_in_jazz?oldid=678877772',
+          href: 'http://en.wikipedia.org/wiki/1961_in_jazz?oldid=678877772' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1961_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1961_in_jazz' } ],
+     'is dbo:recordedIn\n of': 
+      [ { value: 'dbr:Live_in_Stockholm_1961',
+          href: 'http://dbpedia.org/resource/Live_in_Stockholm_1961' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1961_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1961_in_jazz' } ] } }

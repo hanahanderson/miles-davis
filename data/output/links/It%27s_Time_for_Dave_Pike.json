@@ -1,0 +1,102 @@
+{ name: 'It\'s Time for Dave Pike',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/It%27s_Time_for_Dave_Pike',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '37.81666666666667' } ],
+     'dbo:abstract': [ { value: 'It\'s Time for Dave Pike is the debut album led by American jazz vibraphonist Dave Pike which was recorded in 1961 for the Riverside label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Dave_Pike',
+          href: 'http://dbpedia.org/resource/Dave_Pike' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbo:recordDate': [ { value: '1961-02-09 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' } ],
+     'dbo:runtime': [ { value: '2269.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Pike\'s_Peak_(album)',
+          href: 'http://dbpedia.org/resource/Pike\'s_Peak_(album)' } ],
+     'dbo:wikiPageID': [ { value: '37565638 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '586611648 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Dave_Pike',
+          href: 'http://dbpedia.org/resource/Dave_Pike' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Dave_Pike',
+          href: 'http://dbpedia.org/resource/Dave_Pike' } ],
+     'dbp:cover': [ { value: 'It\'s Time for Dave Pike.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' },
+        { value: 'RLP 360 (en)' } ],
+     'dbp:length': [ { value: '2269.0' } ],
+     'dbp:name': [ { value: 'It\'s Time for Dave Pike (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Pike\'s Peak (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Orrin_Keepnews' } ],
+     'dbp:recorded': 
+      [ { value: '--01-30' },
+        { value: 'Plaza Sound Studios, New York City (en)' } ],
+     'dbp:released': [ { value: '1961 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'It\'s Time for Dave Pike (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Orrin_Keepnews',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Orrin_Keepnews' },
+        { value: 'dbc:Riverside_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Riverside_Records_albums' },
+        { value: 'dbc:1961_debut_albums',
+          href: 'http://dbpedia.org/resource/Category:1961_debut_albums' },
+        { value: 'dbc:Dave_Pike_albums',
+          href: 'http://dbpedia.org/resource/Category:Dave_Pike_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'It\'s Time for Dave Pike is the debut album led by American jazz vibraphonist Dave Pike which was recorded in 1961 for the Riverside label. (en)' } ],
+     'rdfs:label': [ { value: 'It\'s Time for Dave Pike (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:It\'s Time for Dave Pike',
+          href: 'http://rdf.freebase.com/ns/m.023hnsq' },
+        { value: 'dbpedia-wikidata:It\'s Time for Dave Pike',
+          href: 'http://wikidata.dbpedia.org/resource/Q6090832' },
+        { value: 'wikidata:It\'s Time for Dave Pike',
+          href: 'http://www.wikidata.org/entity/Q6090832' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:It\'s_Time_for_Dave_Pike?oldid=586611648',
+          href: 'http://en.wikipedia.org/wiki/It\'s_Time_for_Dave_Pike?oldid=586611648' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:It\'s_Time_for_Dave_Pike',
+          href: 'http://en.wikipedia.org/wiki/It\'s_Time_for_Dave_Pike' } ],
+     'foaf:name': [ { value: 'It\'s Time for Dave Pike (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Pike\'s_Peak_(album)',
+          href: 'http://dbpedia.org/resource/Pike\'s_Peak_(album)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:It\'s_Time_For_Dave_Pike',
+          href: 'http://dbpedia.org/resource/It\'s_Time_For_Dave_Pike' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:It\'s_Time_for_Dave_Pike',
+          href: 'http://en.wikipedia.org/wiki/It\'s_Time_for_Dave_Pike' } ] } }

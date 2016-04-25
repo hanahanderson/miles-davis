@@ -1,0 +1,8 @@
+{ name: 'White Rabbit (Jefferson Airplane song)',
+  href: 'http://en.wikipedia.org/wiki/White_Rabbit_(Jefferson_Airplane_song)',
+  mentions: 
+   [ { sectionHeader: 'Lyrics and composition',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3437,
+       quote: [ 'In an interview with The Wall Street Journal Slick mentioned that in addition to Alice in Wonderland her other inspiration for the song was "the bolero used by Miles Davis and Gil Evans on their 1960 album Sketches of Spain." The song is essentially one long crescendo similar to that of Ravel\'s famous Boléro.' ] } ] }

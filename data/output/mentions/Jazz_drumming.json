@@ -1,0 +1,8 @@
+{ name: 'Jazz drumming',
+  href: 'http://en.wikipedia.org/wiki/Jazz_drumming',
+  mentions: 
+   [ { sectionHeader: 'Modern jazz drumming',
+       sectionSubHeader: '',
+       sectionIndex: 55,
+       wordCountBeforeSection: 20315,
+       quote: [ 'Rhythm sections, in particular those of John Coltrane and Miles Davis, the former including Elvin Jones; the latter, Tony Williams, Philly Joe Jones, and Jimmy Cobb, were also exploring new metric and rhythmic possibilities.' ] } ] }

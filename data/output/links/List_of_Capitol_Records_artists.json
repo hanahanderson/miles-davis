@@ -1,0 +1,40 @@
+{ name: 'List of Capitol Records artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Capitol_Records_artists',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of current and former artists for Capitol Records or one of its associated labels. An asterisk (*) denotes an artist who no longer records for the label. (en)' } ],
+     'dbo:wikiPageID': [ { value: '10643067 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681411930 (xsd:integer)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Capitol_Records',
+          href: 'http://dbpedia.org/resource/Category:Capitol_Records' },
+        { value: 'dbc:Lists_of_artists_by_record_label',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_artists_by_record_label' },
+        { value: 'dbc:Capitol_Records_artists',
+          href: 'http://dbpedia.org/resource/Category:Capitol_Records_artists' } ],
+     'rdfs:comment': [ { value: 'This is a list of current and former artists for Capitol Records or one of its associated labels. An asterisk (*) denotes an artist who no longer records for the label. (en)' } ],
+     'rdfs:label': [ { value: 'List of Capitol Records artists (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Capitol Records artists',
+          href: 'http://wikidata.dbpedia.org/resource/Q6566064' },
+        { value: 'wikidata:List of Capitol Records artists',
+          href: 'http://www.wikidata.org/entity/Q6566064' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Capitol_Records_artists?oldid=681411930',
+          href: 'http://en.wikipedia.org/wiki/List_of_Capitol_Records_artists?oldid=681411930' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Capitol_Records_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Capitol_Records_artists' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Capitol_Nashville_artists',
+          href: 'http://dbpedia.org/resource/List_of_Capitol_Nashville_artists' },
+        { value: 'dbr:Capitol_Nashville_Artist\'s',
+          href: 'http://dbpedia.org/resource/Capitol_Nashville_Artist\'s' },
+        { value: 'dbr:Capitol_Nashville_Artists',
+          href: 'http://dbpedia.org/resource/Capitol_Nashville_Artists' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Capitol_Records_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_Capitol_Records_artists' } ] } }

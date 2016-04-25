@@ -1,0 +1,8 @@
+{ name: 'De Wereld Draait Door',
+  href: 'http://en.wikipedia.org/wiki/De_Wereld_Draait_Door',
+  mentions: 
+   [ { sectionHeader: 'DWDD University',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1769,
+       quote: [ 'DWDD Summerschool: Miles Davis' ] } ] }

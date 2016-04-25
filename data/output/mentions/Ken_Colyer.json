@@ -1,0 +1,8 @@
+{ name: 'Ken Colyer',
+  href: 'http://en.wikipedia.org/wiki/Ken_Colyer',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4638,
+       quote: [ 'His approach to jazz lies at the opposite extreme to, say, Miles Davis who varied his styles and settings greatly over time; Ken by contrast kept a single musical ideal before him and pursued it single-mindedly.' ] } ] }

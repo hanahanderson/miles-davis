@@ -1,0 +1,8 @@
+{ name: 'George Benson discography',
+  href: 'http://en.wikipedia.org/wiki/George_Benson_discography',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 36,
+       wordCountBeforeSection: 18280,
+       quote: [ 'Miles Davis' ] } ] }

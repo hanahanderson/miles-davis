@@ -1,0 +1,8 @@
+{ name: 'Bye Bye Blackbird',
+  href: 'http://en.wikipedia.org/wiki/Bye_Bye_Blackbird',
+  mentions: 
+   [ { sectionHeader: 'Recordings',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 4006,
+       quote: [ 'Miles Davis' ] } ] }

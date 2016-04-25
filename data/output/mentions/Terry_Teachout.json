@@ -1,0 +1,8 @@
+{ name: 'Terry Teachout',
+  href: 'http://en.wikipedia.org/wiki/Terry_Teachout',
+  mentions: 
+   [ { sectionHeader: 'Life and writings',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 2864,
+       quote: [ 'An extensively revised version of Satchmo at the Waldorf in which Miles Davis is also briefly portrayed was produced by Shakespeare & Company of Lenox, Mass., in August 2012, with John Douglas Thompson playing Armstrong, Glaser, and Davis.' ] } ] }

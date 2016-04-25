@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:Motto of the day/Nominations/Archive 53',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Motto_of_the_day/Nominations/Archive_53',
+  mentions: 
+   [ { sectionHeader: 'Normal nominations',
+       sectionSubHeader: '',
+       sectionIndex: 299,
+       wordCountBeforeSection: 43655,
+       quote: [] },
+     { sectionHeader: 'Normal nominations',
+       sectionSubHeader: '',
+       sectionIndex: 300,
+       wordCountBeforeSection: 43700,
+       quote: [] } ] }

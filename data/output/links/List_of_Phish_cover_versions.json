@@ -1,0 +1,31 @@
+{ name: 'List of Phish cover versions',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Phish_cover_versions',
+  values: 
+   { 'dbo:abstract': [ { value: 'Phish is an American rock band noted for its musical improvisation, extended jams, and exploration of music across genres.  They consistently vary their set lists while touring extensively. To keep the music fresh and the audiences intrigued, Phish records and performs a number of cover songs from various musical genres.↑ ↑ ↑ (en)' } ],
+     'dbo:wikiPageID': [ { value: '23867293 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '673531517 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_songs',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_songs' },
+        { value: 'dbc:Phish_songs',
+          href: 'http://dbpedia.org/resource/Category:Phish_songs' } ],
+     'rdfs:comment': [ { value: 'Phish is an American rock band noted for its musical improvisation, extended jams, and exploration of music across genres.  They consistently vary their set lists while touring extensively. To keep the music fresh and the audiences intrigued, Phish records and performs a number of cover songs from various musical genres.↑ ↑ ↑ (en)' } ],
+     'rdfs:label': [ { value: 'List of Phish cover versions (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:List of Phish cover versions',
+          href: 'http://www.wikidata.org/entity/Q6594089' },
+        { value: 'dbpedia-wikidata:List of Phish cover versions',
+          href: 'http://wikidata.dbpedia.org/resource/Q6594089' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Phish_cover_versions?oldid=673531517',
+          href: 'http://en.wikipedia.org/wiki/List_of_Phish_cover_versions?oldid=673531517' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Phish_cover_versions',
+          href: 'http://en.wikipedia.org/wiki/List_of_Phish_cover_versions' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_Phish_covers',
+          href: 'http://dbpedia.org/resource/List_of_Phish_covers' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Phish_cover_versions',
+          href: 'http://en.wikipedia.org/wiki/List_of_Phish_cover_versions' } ] } }

@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:WikiProject California',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_California',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ ' Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis (2005-09-28)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jimmie Smith',
+  href: 'http://en.wikipedia.org/wiki/Jimmie_Smith',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1282,
+       quote: [ 'One of Smith\'s most noted collaborations took place at the Montreux International Jazz Festival in 1977, where he played with Benny Carter, Miles Davis, Milt Jackson, Dizzy Gillespie, and Count Basie.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:Silence/Articles',
+  href: 'http://en.wikipedia.org/wiki/User:Silence/Articles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Bush · Hugo Chávez · Jesus · Joan of Arc · Miles Davis · Pablo Picasso · Periyar E.' ] } ] }

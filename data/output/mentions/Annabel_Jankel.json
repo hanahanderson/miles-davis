@@ -1,0 +1,8 @@
+{ name: 'Annabel Jankel',
+  href: 'http://en.wikipedia.org/wiki/Annabel_Jankel',
+  mentions: 
+   [ { sectionHeader: 'Early career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 557,
+       quote: [ 'In this period the duo directed several music videos for performers including Elvis Costello ("Accidents Will Happen"), Talking Heads ("Blind"), Tom Tom Club ("Genius of Love", "Pleasure of Love", "Don\'t Say No"), Donald Fagen ("New Frontier") and Miles Davis ("Decoy").' ] } ] }

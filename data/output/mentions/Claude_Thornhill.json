@@ -1,0 +1,8 @@
+{ name: 'Claude Thornhill',
+  href: 'http://en.wikipedia.org/wiki/Claude_Thornhill',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2386,
+       quote: [ 'The band was popular with both musicians and the public; the Miles Davis Nonet was modeled in part on Thornhill\'s cool sound and use of unconventional instrumentation.' ] } ] }

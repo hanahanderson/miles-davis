@@ -1,0 +1,8 @@
+{ name: 'Fred Plaut',
+  href: 'http://en.wikipedia.org/wiki/Fred_Plaut',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Plaut engineered sessions for what would result in many of Columbia\'s famous albums, including the original cast recordings of South Pacific, My Fair Lady, and West Side Story, jazz LPs Kind of Blue and Sketches of Spain by Miles Davis, Time Out by Dave Brubeck, Mingus Ah Um and Mingus Dynasty by Charles Mingus.' ] } ] }

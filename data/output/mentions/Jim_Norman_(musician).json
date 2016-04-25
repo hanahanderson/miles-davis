@@ -1,0 +1,8 @@
+{ name: 'Jim Norman (musician)',
+  href: 'http://en.wikipedia.org/wiki/Jim_Norman_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Reviews',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 3251,
+       quote: [ '"The album (Time Changes, Times Change) seems like an extension of Miles Davis\' early electric works, early Weather Report and \'70s Euro-fusion from Jan Akkerman and Joachim Kuhn.' ] } ] }

@@ -1,0 +1,102 @@
+{ name: '20 Standards (Quartet) 2003',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/20_Standards_(Quartet)_2003',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '298.26666666666665' } ],
+     'dbo:abstract': [ { value: '20 Standards (Quartet) 2003 is a live album 4CD box set by American composer and saxophonist Anthony Braxton recorded in Europe in 2003 and released on the Leo label in 2005. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Anthony_Braxton',
+          href: 'http://dbpedia.org/resource/Anthony_Braxton' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:23_Standards_(Quartet)_2003',
+          href: 'http://dbpedia.org/resource/23_Standards_(Quartet)_2003' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Anthony_Braxton',
+          href: 'http://dbpedia.org/resource/Anthony_Braxton' } ],
+     'dbo:recordDate': [ { value: '2003-11-20 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Leo_Records',
+          href: 'http://dbpedia.org/resource/Leo_Records' } ],
+     'dbo:releaseDate': [ { value: '2005-08-23 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '17896.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:19_Standards_(Quartet)_2003',
+          href: 'http://dbpedia.org/resource/19_Standards_(Quartet)_2003' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '46229051 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '665942348 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Anthony_Braxton',
+          href: 'http://dbpedia.org/resource/Anthony_Braxton' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Anthony_Braxton',
+          href: 'http://dbpedia.org/resource/Anthony_Braxton' } ],
+     'dbp:cover': [ { value: '20 (xsd:integer)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Leo LR 431/434 (en)' } ],
+     'dbp:lastAlbum': [ { value: '23 (xsd:integer)' } ],
+     'dbp:length': [ { value: '17896.0' } ],
+     'dbp:name': [ { value: '20 (xsd:integer)' } ],
+     'dbp:nextAlbum': [ { value: '19 (xsd:integer)' } ],
+     'dbp:producer': [ { value: 'Anthony Braxton and Leo Feigin (en)' } ],
+     'dbp:recorded': [ { value: '--02-19' } ],
+     'dbp:released': [ { value: '2005-08-23 (xsd:date)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'All About Jazz (en)' } ],
+     'dbp:thisAlbum': [ { value: '20 (xsd:integer)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2005_live_albums',
+          href: 'http://dbpedia.org/resource/Category:2005_live_albums' },
+        { value: 'dbc:Leo_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Leo_Records_live_albums' },
+        { value: 'dbc:Anthony_Braxton_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Anthony_Braxton_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: '20 Standards (Quartet) 2003 is a live album 4CD box set by American composer and saxophonist Anthony Braxton recorded in Europe in 2003 and released on the Leo label in 2005. (en)' } ],
+     'rdfs:label': [ { value: '20 Standards (Quartet) 2003 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:20 Standards (Quartet) 2003',
+          href: 'http://rdf.freebase.com/ns/m.01312243' },
+        { value: 'wikidata:20 Standards (Quartet) 2003',
+          href: 'http://www.wikidata.org/entity/Q19898087' },
+        { value: 'dbpedia-wikidata:20 Standards (Quartet) 2003',
+          href: 'http://wikidata.dbpedia.org/resource/Q19898087' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:20_Standards_(Quartet)_2003?oldid=665942348',
+          href: 'http://en.wikipedia.org/wiki/20_Standards_(Quartet)_2003?oldid=665942348' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:20_Standards_(Quartet)_2003',
+          href: 'http://en.wikipedia.org/wiki/20_Standards_(Quartet)_2003' } ],
+     'foaf:name': [ { value: '20 Standards (Quartet) 2003 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:19_Standards_(Quartet)_2003',
+          href: 'http://dbpedia.org/resource/19_Standards_(Quartet)_2003' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:23_Standards_(Quartet)_2003',
+          href: 'http://dbpedia.org/resource/23_Standards_(Quartet)_2003' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:20_Standards_(Quartet)_2003',
+          href: 'http://en.wikipedia.org/wiki/20_Standards_(Quartet)_2003' } ] } }

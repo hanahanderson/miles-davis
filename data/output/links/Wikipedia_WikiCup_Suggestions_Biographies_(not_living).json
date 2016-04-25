@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiCup/Suggestions/Biographies (not living)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiCup/Suggestions/Biographies_(not_living)',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

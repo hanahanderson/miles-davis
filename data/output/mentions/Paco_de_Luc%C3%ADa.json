@@ -1,0 +1,8 @@
+{ name: 'Paco de Lucía',
+  href: 'http://en.wikipedia.org/wiki/Paco_de_Luc%C3%ADa',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 5735,
+       quote: [ 'According to Gerhard Klingenstein, top jazz musicians who appeared at the festival (i.e. Miles Davis, Thelonious Monk), profoundly influenced de Lucía, and sparked a fascination for jazz that remained with him throughout his life.' ] } ] }

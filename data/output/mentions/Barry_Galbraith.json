@@ -1,0 +1,8 @@
+{ name: 'Barry Galbraith',
+  href: 'http://en.wikipedia.org/wiki/Barry_Galbraith',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 790,
+       quote: [ 'Galbraith did extensive work as a studio musician for NBC and CBS in the 1950s and 1960s; among those he played with were Miles Davis, Michel Legrand, Tal Farlow, Coleman Hawkins, John Lewis, Hal McKusick, Oscar Peterson, Max Roach, George Russell, John Carisi, and Tony Scott.' ] } ] }

@@ -1,0 +1,12 @@
+{ name: 'File:Miles Davis The Man With The Horn.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Miles_Davis_The_Man_With_The_Horn.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '17143259 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683387185 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Miles_Davis_The_Man_With_The_Horn.jpg?oldid=683387185',
+          href: 'http://en.wikipedia.org/wiki/File:Miles_Davis_The_Man_With_The_Horn.jpg?oldid=683387185' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Miles_Davis_The_Man_With_The_Horn.jpg',
+          href: 'http://dbpedia.org/resource/File:Miles_Davis_The_Man_With_The_Horn.jpg' } ] } }

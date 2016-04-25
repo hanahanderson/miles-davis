@@ -1,0 +1,105 @@
+{ name: 'As One (Richard Davis album)',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/As_One_(Richard_Davis_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '42.86666666666667' } ],
+     'dbo:abstract': [ { value: 'As One is a live album by bassist Richard Davis recorded in 1975 and released on the Muse label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Richard_Davis_(bassist)',
+          href: 'http://dbpedia.org/resource/Richard_Davis_(bassist)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Dealin\'',
+          href: 'http://dbpedia.org/resource/Dealin\'' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' } ],
+     'dbo:runtime': [ { value: '2572.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Harvest_(Richard_Davis_album)',
+          href: 'http://dbpedia.org/resource/Harvest_(Richard_Davis_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '40394742 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '671431184 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Richard_Davis_(bassist)',
+          href: 'http://dbpedia.org/resource/Richard_Davis_(bassist)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Richard_Davis_(bassist)',
+          href: 'http://dbpedia.org/resource/Richard_Davis_(bassist)' } ],
+     'dbp:cover': [ { value: 'As One .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' },
+        { value: 'MR 5093 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Dealin\' (en)' } ],
+     'dbp:length': [ { value: '2572.0' } ],
+     'dbp:name': [ { value: 'As One (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Harvest (en)' } ],
+     'dbp:producer': [ { value: 'Elliot Meadow (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--10-19' },
+        { value: 'The Fugue, New York City (en)' } ],
+     'dbp:released': [ { value: '1976 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'As One (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Muse_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Muse_Records_live_albums' },
+        { value: 'dbc:Richard_Davis_(bassist)_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Richard_Davis_(bassist)_live_albums' },
+        { value: 'dbc:1976_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1976_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'As One is a live album by bassist Richard Davis recorded in 1975 and released on the Muse label. (en)' } ],
+     'rdfs:label': [ { value: 'As One (Richard Davis album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:As One (Richard Davis album)',
+          href: 'http://rdf.freebase.com/ns/m.0wyr_4v' },
+        { value: 'dbpedia-wikidata:As One (Richard Davis album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q16242658' },
+        { value: 'wikidata:As One (Richard Davis album)',
+          href: 'http://www.wikidata.org/entity/Q16242658' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:As_One_(Richard_Davis_album)?oldid=671431184',
+          href: 'http://en.wikipedia.org/wiki/As_One_(Richard_Davis_album)?oldid=671431184' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:As_One_(Richard_Davis_album)',
+          href: 'http://en.wikipedia.org/wiki/As_One_(Richard_Davis_album)' } ],
+     'foaf:name': [ { value: 'As One (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Harvest_(Richard_Davis_album)',
+          href: 'http://dbpedia.org/resource/Harvest_(Richard_Davis_album)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Dealin\'',
+          href: 'http://dbpedia.org/resource/Dealin\'' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:As_One_(disambiguation)',
+          href: 'http://dbpedia.org/resource/As_One_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:As_One_(Richard_Davis_album)',
+          href: 'http://en.wikipedia.org/wiki/As_One_(Richard_Davis_album)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'A.R. Kane',
+  href: 'http://en.wikipedia.org/wiki/A.R._Kane',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1178,
+       quote: [ 'The roots of A.R. Kane lay in a joke: at a party in 1986, Tambala was asked how he and Ayuli knew each other; he lied that the two played together in a band, going on to describe their sound as "a bit Velvet Underground, a bit Cocteau Twins, a bit Miles Davis, a bit Joni Mitchell." A week later, the two were contacted to record a demo on the strength of Tambala\'s fabrication.' ] } ] }

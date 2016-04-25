@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:Non-free content/Archive 34',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Non-free_content/Archive_34',
+  mentions: 
+   [ { sectionHeader: 'Band members',
+       sectionSubHeader: '',
+       sectionIndex: 242,
+       wordCountBeforeSection: 110774,
+       quote: [ 'In the jazz world, other than perhaps Miles Davis\' groups there\'s no really need to show the trio, quartet, quintet, septet, etc., part of "the xxxxx 99999".' ] } ] }

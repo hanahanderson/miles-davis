@@ -1,0 +1,8 @@
+{ name: 'User:Kkhemet/Books/1',
+  href: 'http://en.wikipedia.org/wiki/User:Kkhemet/Books/1',
+  mentions: 
+   [ { sectionHeader: 'Blakfacts Volume 4:',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 606,
+       quote: [ 'Miles Davis' ] } ] }

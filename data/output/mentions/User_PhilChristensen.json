@@ -1,0 +1,8 @@
+{ name: 'User:PhilChristensen',
+  href: 'http://en.wikipedia.org/wiki/User:PhilChristensen',
+  mentions: 
+   [ { sectionHeader: 'The Musician',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 18,
+       quote: [ 'His influences are an equally large number of musicians, including (but not limited to) Frank Zappa, Trey Anastasio, Miles Davis, John Scofield, John Medeski, and Jaco Pastorius.' ] } ] }

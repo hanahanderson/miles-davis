@@ -1,0 +1,8 @@
+{ name: 'Nu jazz',
+  href: 'http://en.wikipedia.org/wiki/Nu_jazz',
+  mentions: 
+   [ { sectionHeader: 'Development in the 21st century',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3184,
+       quote: [ 'The resulting amalgam, entitled "High Risk", reminisces the experimental sound of Miles Davis\'s "Bitches Brew" with a psychedelic and chill touch.' ] } ] }

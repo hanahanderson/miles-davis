@@ -1,0 +1,8 @@
+{ name: 'The Cooker',
+  href: 'http://en.wikipedia.org/wiki/The_Cooker',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1143,
+       quote: [ 'The Allmusic review by Scott Yanow awarded the album 3.5 stars, stating: "Morgan plays remarkably well for his age (already ranking just below Dizzy Gillespie and Miles Davis), making this an essential acquisition."' ] } ] }

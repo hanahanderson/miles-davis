@@ -1,0 +1,8 @@
+{ name: 'Electric Tears',
+  href: 'http://en.wikipedia.org/wiki/Electric_Tears',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1151,
+       quote: [] } ] }

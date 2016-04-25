@@ -1,0 +1,8 @@
+{ name: 'Larry Graham',
+  href: 'http://en.wikipedia.org/wiki/Larry_Graham',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3057,
+       quote: [ 'In the mid-1970s, Larry Graham worked with Betty Davis, the second ex-wife of jazz legend Miles Davis.' ] } ] }

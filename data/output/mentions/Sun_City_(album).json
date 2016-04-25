@@ -1,0 +1,18 @@
+{ name: 'Sun City (album)',
+  href: 'http://en.wikipedia.org/wiki/Sun_City_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3643,
+       quote: [ '"Let Me See Your I.D." – Rap and Jazz Artists from Artists United Against Apartheid, featuring Gil Scott-Heron, Miles Davis, Grandmaster Melle Mel, Peter Wolf, Sonny Okosuns, Malopoets, Duke Bootee, Ray Baretto, Peter Garrett – 7:29' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 3643,
+       quote: [ '"The Struggle Continues" – Jazz Artists from Artists United Against Apartheid, featuring Miles Davis, Stanley Jordan, Herbie Hancock, Sonny Okosuns, Ron Carter, Tony Williams, Richard Scher – 7:01' ] },
+     { sectionHeader: 'Personnel',
+       sectionSubHeader: 'Bonus track',
+       sectionIndex: 20,
+       wordCountBeforeSection: 4394,
+       quote: [ 'Miles Davis – trumpet' ] } ] }

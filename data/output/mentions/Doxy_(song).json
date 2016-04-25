@@ -1,0 +1,8 @@
+{ name: 'Doxy (song)',
+  href: 'http://en.wikipedia.org/wiki/Doxy_(song)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'It first appeared on the 1957 Miles Davis album Bags\' Groove, performed by Davis on trumpet, Rollins on tenor saxophone, Horace Silver on piano, Percy Heath on bass, and Kenny Clarke on drums.' ] } ] }

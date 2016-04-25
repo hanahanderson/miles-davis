@@ -1,0 +1,46 @@
+{ name: 'Joint issue',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Joint_issue',
+  values: 
+   { 'dbo:abstract': [ { value: 'A joint issue is the release of stamps or postal stationery by two or more countries to commemorate the same topic, event or person.. Joint issues typically have the same first day of issue and their design is often similar or identical, except for the identification of country and value. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://search.auspost.com.au/cse/auspost/default.asp?q=joint+issue&e=yes&c_41=on&%23%40sysfiletype=%3D&%40sysfiletype=&%23%40sysdate=%3E%3D&%40sysdate=&t=-300&s=',
+          href: 'http://search.auspost.com.au/cse/auspost/default.asp?q=joint+issue&e=yes&c_41=on&%23%40sysfiletype=%3D&%40sysfiletype=&%23%40sysdate=%3E%3D&%40sysdate=&t=-300&s=' },
+        { value: 'http://www.jointstampissues.net/',
+          href: 'http://www.jointstampissues.net/' } ],
+     'dbo:wikiPageID': [ { value: '3179416 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680889719 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Philatelic_terminology',
+          href: 'http://dbpedia.org/resource/Category:Philatelic_terminology' } ],
+     'rdfs:comment': [ { value: 'A joint issue is the release of stamps or postal stationery by two or more countries to commemorate the same topic, event or person.. Joint issues typically have the same first day of issue and their design is often similar or identical, except for the identification of country and value. (en)' } ],
+     'rdfs:label': [ { value: 'Joint issue (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Joint issue',
+          href: 'http://fr.dbpedia.org/resource/Émission_conjointe' },
+        { value: 'dbpedia-de:Joint issue',
+          href: 'http://de.dbpedia.org/resource/Gemeinschaftsausgabe' },
+        { value: 'dbpedia-es:Joint issue',
+          href: 'http://es.dbpedia.org/resource/Emisión_conjunta' },
+        { value: 'dbpedia-it:Joint issue',
+          href: 'http://it.dbpedia.org/resource/Emissione_congiunta' },
+        { value: 'dbpedia-nl:Joint issue',
+          href: 'http://nl.dbpedia.org/resource/Gemeenschappelijke_postzegelemissie' },
+        { value: 'dbpedia-wikidata:Joint issue',
+          href: 'http://wikidata.dbpedia.org/resource/Q1320511' },
+        { value: 'freebase:Joint issue',
+          href: 'http://rdf.freebase.com/ns/m.08xgfk' },
+        { value: 'wikidata:Joint issue',
+          href: 'http://www.wikidata.org/entity/Q1320511' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Joint_issue?oldid=680889719',
+          href: 'http://en.wikipedia.org/wiki/Joint_issue?oldid=680889719' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Joint_issue',
+          href: 'http://en.wikipedia.org/wiki/Joint_issue' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Joint_stamp_issue',
+          href: 'http://dbpedia.org/resource/Joint_stamp_issue' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Joint_issue',
+          href: 'http://en.wikipedia.org/wiki/Joint_issue' } ] } }

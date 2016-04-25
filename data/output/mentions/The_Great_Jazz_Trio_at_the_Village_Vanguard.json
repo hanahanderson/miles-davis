@@ -1,0 +1,8 @@
+{ name: 'The Great Jazz Trio at the Village Vanguard',
+  href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Trio_at_the_Village_Vanguard',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 793,
+       quote: [ 'On All About Jazz John Kelman noted "Perhaps it\'s because, with their shared background as members of Miles Davis\' landmark quintet of the mid-\'60s, Carter and Williams were able to approach this more mainstream affair with just the right combination of unabashed swing and freer interpretation".' ] } ] }

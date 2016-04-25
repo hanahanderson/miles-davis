@@ -1,0 +1,111 @@
+{ name: 'Grits & Gravy',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Grits_%26_Gravy',
+  values: 
+   { 'dbo:abstract': [ { value: 'Grits & Gravy is the third album by saxophonist Eric Kloss which was recorded in 1966 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Love_and_All_That_Jazz',
+          href: 'http://dbpedia.org/resource/Love_and_All_That_Jazz' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Cal_Lampley' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:First_Class_Kloss!',
+          href: 'http://dbpedia.org/resource/First_Class_Kloss!' } ],
+     'dbo:wikiPageID': [ { value: '39018482 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '663957742 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbp:cover': [ { value: 'Grits & Gravy.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 7486 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Love and All That Jazz (en)' } ],
+     'dbp:name': [ { value: 'Grits & Gravy (en)' } ],
+     'dbp:nextAlbum': [ { value: 'First Class Kloss! (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Cal_Lampley' } ],
+     'dbp:recorded': 
+      [ { value: '--12-21' },
+        { value: 'Van Gelder Studio, Englewood Cliffs, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1967 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Grits & Gravy (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Eric_Kloss_albums',
+          href: 'http://dbpedia.org/resource/Category:Eric_Kloss_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_produced_by_Cal_Lampley',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Cal_Lampley' },
+        { value: 'dbc:1967_albums',
+          href: 'http://dbpedia.org/resource/Category:1967_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Grits & Gravy is the third album by saxophonist Eric Kloss which was recorded in 1966 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'Grits & Gravy (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Grits & Gravy',
+          href: 'http://rdf.freebase.com/ns/m.03g5v1x' },
+        { value: 'dbpedia-wikidata:Grits & Gravy',
+          href: 'http://wikidata.dbpedia.org/resource/Q17007988' },
+        { value: 'wikidata:Grits & Gravy',
+          href: 'http://www.wikidata.org/entity/Q17007988' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Grits_&_Gravy?oldid=663957742',
+          href: 'http://en.wikipedia.org/wiki/Grits_&_Gravy?oldid=663957742' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Grits_&_Gravy',
+          href: 'http://en.wikipedia.org/wiki/Grits_&_Gravy' } ],
+     'foaf:name': [ { value: 'Grits & Gravy (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:First_Class_Kloss!',
+          href: 'http://dbpedia.org/resource/First_Class_Kloss!' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Love_and_All_That_Jazz',
+          href: 'http://dbpedia.org/resource/Love_and_All_That_Jazz' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Grits_and_gravy',
+          href: 'http://dbpedia.org/resource/Grits_and_gravy' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Grits_&_Gravy',
+          href: 'http://en.wikipedia.org/wiki/Grits_&_Gravy' } ] } }

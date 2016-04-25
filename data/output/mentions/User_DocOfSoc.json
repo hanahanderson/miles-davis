@@ -1,0 +1,8 @@
+{ name: 'User:DocOfSoc',
+  href: 'http://en.wikipedia.org/wiki/User:DocOfSoc',
+  mentions: 
+   [ { sectionHeader: 'My User Boxes',
+       sectionSubHeader: '',
+       sectionIndex: 53,
+       wordCountBeforeSection: 7084,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

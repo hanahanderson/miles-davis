@@ -1,0 +1,8 @@
+{ name: 'The Reality of My Surroundings',
+  href: 'http://en.wikipedia.org/wiki/The_Reality_of_My_Surroundings',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 850,
+       quote: [ 'It was the first Fishbone album to include former Miles Davis music director John Bigham (guitar, keyboards), who joined in 1989 during the Truth and Soul tour.' ] } ] }

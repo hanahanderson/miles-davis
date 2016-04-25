@@ -1,0 +1,13 @@
+{ name: 'Hilly Kristal',
+  href: 'http://en.wikipedia.org/wiki/Hilly_Kristal',
+  mentions: 
+   [ { sectionHeader: 'Venturing into music',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 976,
+       quote: [ 'He later became the manager of the Village Vanguard, a jazz club in Greenwich Village, where he booked Miles Davis and other musicians.' ] },
+     { sectionHeader: 'Venturing into music',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1330,
+       quote: [ 'The festival took place every year until 1976 in Central Park and featured superstars from all music genres, including The Who, Miles Davis, Chuck Berry, Bob Marley, B.B. King, Led Zeppelin, The Beach Boys, Frank Zappa, Ray Charles, Patti LaBelle, Ike & Tina Turner, Fleetwood Mac, The Allman Brothers, Slade, Kris Kristofferson, Curtis Mayfield, Bruce Springsteen, Aerosmith and The Doors.' ] } ] }

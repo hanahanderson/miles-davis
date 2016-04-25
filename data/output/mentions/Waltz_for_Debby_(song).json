@@ -1,0 +1,8 @@
+{ name: 'Waltz for Debby (song)',
+  href: 'http://en.wikipedia.org/wiki/Waltz_for_Debby_(song)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'By others',
+       sectionIndex: 23,
+       wordCountBeforeSection: 3552,
+       quote: [ 'Miles Davis' ] } ] }

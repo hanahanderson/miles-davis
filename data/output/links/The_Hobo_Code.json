@@ -1,0 +1,103 @@
+{ name: 'The Hobo Code',
+  entityType: 'television episode',
+  href: 'http://dbpedia.org/page/The_Hobo_Code',
+  values: 
+   { 'dbo:abstract': [ { value: '"The Hobo Code" is the eighth episode of the first season of the American television drama series Mad Men. It was written by Chris Provenzano and directed by Phil Abraham. The episode originally aired on September 6, 2007 on the AMC channel in the United States. (en)' } ],
+     'dbo:director': 
+      [ { value: 'dbr:Phil_Abraham',
+          href: 'http://dbpedia.org/resource/Phil_Abraham' } ],
+     'dbo:episodeNumber': [ { value: '8 (xsd:integer)' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Red_in_the_Face',
+          href: 'http://dbpedia.org/resource/Red_in_the_Face' } ],
+     'dbo:releaseDate': [ { value: '2007-09-06 (xsd:date)' } ],
+     'dbo:seasonNumber': [ { value: '1 (xsd:integer)' } ],
+     'dbo:series': 
+      [ { value: 'dbr:Mad_Men',
+          href: 'http://dbpedia.org/resource/Mad_Men' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Shoot_(Mad_Men)',
+          href: 'http://dbpedia.org/resource/Shoot_(Mad_Men)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.amctv.com/shows/mad-men/episodes/season-1/the-hobo-code',
+          href: 'http://www.amctv.com/shows/mad-men/episodes/season-1/the-hobo-code' } ],
+     'dbo:wikiPageID': [ { value: '13819164 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '665540080 (xsd:integer)' } ],
+     'dbo:writer': 
+      [ { value: 'dbr:Chris_Provenzano',
+          href: 'http://dbpedia.org/resource/Chris_Provenzano' } ],
+     'dbp:airdate': [ { value: '2007-09-06 (xsd:date)' } ],
+     'dbp:director': 
+      [ { value: 'dbr:Phil_Abraham',
+          href: 'http://dbpedia.org/resource/Phil_Abraham' } ],
+     'dbp:episode': [ { value: '8 (xsd:integer)' } ],
+     'dbp:episodeList': 
+      [ { value: 'dbr:Mad_Men_(season_1)',
+          href: 'http://dbpedia.org/resource/Mad_Men_(season_1)' },
+        { value: 'dbr:List_of_Mad_Men_episodes',
+          href: 'http://dbpedia.org/resource/List_of_Mad_Men_episodes' } ],
+     'dbp:next': 
+      [ { value: 'dbr:Shoot_(Mad_Men)',
+          href: 'http://dbpedia.org/resource/Shoot_(Mad_Men)' } ],
+     'dbp:prev': 
+      [ { value: 'dbr:Red_in_the_Face',
+          href: 'http://dbpedia.org/resource/Red_in_the_Face' } ],
+     'dbp:season': [ { value: '1 (xsd:integer)' } ],
+     'dbp:series': 
+      [ { value: 'dbr:Mad_Men',
+          href: 'http://dbpedia.org/resource/Mad_Men' } ],
+     'dbp:title': [ { value: 'The Hobo Code (en)' } ],
+     'dbp:writer': 
+      [ { value: 'dbr:Chris_Provenzano',
+          href: 'http://dbpedia.org/resource/Chris_Provenzano' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2007_television_episodes',
+          href: 'http://dbpedia.org/resource/Category:2007_television_episodes' },
+        { value: 'dbc:Mad_Men_episodes',
+          href: 'http://dbpedia.org/resource/Category:Mad_Men_episodes' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'dbo:TelevisionEpisode',
+          href: 'http://dbpedia.org/ontology/TelevisionEpisode' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:TVEpisode',
+          href: 'http://schema.org/TVEpisode' } ],
+     'rdfs:comment': [ { value: '"The Hobo Code" is the eighth episode of the first season of the American television drama series Mad Men. It was written by Chris Provenzano and directed by Phil Abraham. The episode originally aired on September 6, 2007 on the AMC channel in the United States. (en)' } ],
+     'rdfs:label': [ { value: 'The Hobo Code (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Hobo Code',
+          href: 'http://rdf.freebase.com/ns/m.04llp8_' },
+        { value: 'dbpedia-wikidata:The Hobo Code',
+          href: 'http://wikidata.dbpedia.org/resource/Q17183919' },
+        { value: 'wikidata:The Hobo Code',
+          href: 'http://www.wikidata.org/entity/Q17183919' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Hobo_Code?oldid=665540080',
+          href: 'http://en.wikipedia.org/wiki/The_Hobo_Code?oldid=665540080' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Hobo_Code',
+          href: 'http://en.wikipedia.org/wiki/The_Hobo_Code' } ],
+     'foaf:name': [ { value: 'The Hobo Code (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Shoot_(Mad_Men)',
+          href: 'http://dbpedia.org/resource/Shoot_(Mad_Men)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Red_in_the_Face',
+          href: 'http://dbpedia.org/resource/Red_in_the_Face' } ],
+     'is dbp:next\n of': 
+      [ { value: 'dbr:Red_in_the_Face',
+          href: 'http://dbpedia.org/resource/Red_in_the_Face' } ],
+     'is dbp:prev\n of': 
+      [ { value: 'dbr:Shoot_(Mad_Men)',
+          href: 'http://dbpedia.org/resource/Shoot_(Mad_Men)' } ],
+     'is dbp:title\n of': 
+      [ { value: 'dbr:Mad_Men_(season_1)',
+          href: 'http://dbpedia.org/resource/Mad_Men_(season_1)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Hobo_Code',
+          href: 'http://en.wikipedia.org/wiki/The_Hobo_Code' } ] } }

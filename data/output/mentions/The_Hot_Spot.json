@@ -1,0 +1,15 @@
+{ name: 'The Hot Spot',
+  href: 'http://en.wikipedia.org/wiki/The_Hot_Spot',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 558,
+       quote: [ 'It stars Don Johnson, Virginia Madsen, and Jennifer Connelly, and features a score by Jack Nitzsche played by John Lee Hooker, Miles Davis, Taj Mahal, Roy Rogers and drummer Earl Palmer.' ] },
+     { sectionHeader: 'Soundtrack',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 7472,
+       quote: 
+        [ 'The soundtrack for the film is composed by Jack Nitzsche and features an original collaboration between John Lee Hooker, Miles Davis, Taj Mahal and Roy Rogers.',
+          'something listeners should be thankful for, particularly fans of either Miles Davis or John Lee Hooker".' ] } ] }

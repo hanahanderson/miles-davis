@@ -1,0 +1,13 @@
+{ name: 'Rick Laird',
+  href: 'http://en.wikipedia.org/wiki/Rick_Laird',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1618,
+       quote: [ 'The discovery of these historic photos that feature Miles Davis, Chick Corea, Wayne Shorter, the Mahavishnu Orchestra, Elvin Jones, Keith Jarrett and many others led to the formation of an online archive' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2319,
+       quote: [ 'Miles Davis' ] } ] }

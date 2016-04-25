@@ -1,0 +1,8 @@
+{ name: 'Eloquence (Bill Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Eloquence_(Bill_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2975,
+       quote: [ 'Miles Davis' ] } ] }

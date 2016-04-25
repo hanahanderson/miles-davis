@@ -1,0 +1,8 @@
+{ name: 'Neo-bop jazz',
+  href: 'http://en.wikipedia.org/wiki/Neo-bop_jazz',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis called it "warmed over turkey" and others deemed it to be too dependent on the past.' ] } ] }

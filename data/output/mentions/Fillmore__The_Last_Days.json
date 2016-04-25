@@ -1,0 +1,8 @@
+{ name: 'Fillmore: The Last Days',
+  href: 'http://en.wikipedia.org/wiki/Fillmore:_The_Last_Days',
+  mentions: 
+   [ { sectionHeader: 'LP track listing',
+       sectionSubHeader: '',
+       sectionIndex: 30,
+       wordCountBeforeSection: 5829,
+       quote: [ '"In a Silent Way" (Joe Zawinul, Miles Davis) – Santana – 7:58' ] } ] }

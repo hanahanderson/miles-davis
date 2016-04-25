@@ -1,0 +1,8 @@
+{ name: 'Chet (Chet Baker album)',
+  href: 'http://en.wikipedia.org/wiki/Chet_(Chet_Baker_album)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1063,
+       quote: [ 'The Chambers-Evans-Jones rhythm section was known at the time for their work with trumpeter Miles Davis.' ] } ] }

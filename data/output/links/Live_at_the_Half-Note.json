@@ -1,0 +1,111 @@
+{ name: 'Live at the Half-Note',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Live_at_the_Half-Note',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '37.43333333333333' } ],
+     'dbo:abstract': [ { value: 'Live at the Half-Note is an album by Art Farmer\'s Quartet featuring guitarist Jim Hall recorded in 1963 at the Half Note Club and released on the Atlantic label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Art_Farmer',
+          href: 'http://dbpedia.org/resource/Art_Farmer' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Interaction_(album)',
+          href: 'http://dbpedia.org/resource/Interaction_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Arif_Mardin',
+          href: 'http://dbpedia.org/resource/Arif_Mardin' } ],
+     'dbo:recordDate': [ { value: '0006-12-05 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Half_Note_Club',
+          href: 'http://dbpedia.org/resource/Half_Note_Club' } ],
+     'dbo:runtime': [ { value: '2246.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:To_Sweden_with_Love',
+          href: 'http://dbpedia.org/resource/To_Sweden_with_Love' } ],
+     'dbo:wikiPageID': [ { value: '36194260 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '629524424 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'Art Farmer Quartet featuring Jim Hall (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Art_Farmer',
+          href: 'http://dbpedia.org/resource/Art_Farmer' } ],
+     'dbp:cover': [ { value: 'Live at the Half-Note.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Atlantic_Records',
+          href: 'http://dbpedia.org/resource/Atlantic_Records' },
+        { value: 'SD 1421 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Interaction (en)' } ],
+     'dbp:length': [ { value: '2246.0' } ],
+     'dbp:name': [ { value: 'Live at the Half-Note (en)' } ],
+     'dbp:nextAlbum': [ { value: 'To Sweden with Love (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Arif_Mardin',
+          href: 'http://dbpedia.org/resource/Arif_Mardin' } ],
+     'dbp:recorded': 
+      [ { value: '--12-05' },
+        { value: 'Half Note Club, New York City (en)' } ],
+     'dbp:released': [ { value: '1964 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Live at the Half-Note (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Arif_Mardin',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Arif_Mardin' },
+        { value: 'dbc:Atlantic_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Atlantic_Records_albums' },
+        { value: 'dbc:1964_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1964_live_albums' },
+        { value: 'dbc:Jim_Hall_(musician)_albums',
+          href: 'http://dbpedia.org/resource/Category:Jim_Hall_(musician)_albums' },
+        { value: 'dbc:Art_Farmer_albums',
+          href: 'http://dbpedia.org/resource/Category:Art_Farmer_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Live at the Half-Note is an album by Art Farmer\'s Quartet featuring guitarist Jim Hall recorded in 1963 at the Half Note Club and released on the Atlantic label. (en)' } ],
+     'rdfs:label': [ { value: 'Live at the Half-Note (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Live at the Half-Note',
+          href: 'http://rdf.freebase.com/ns/m.0fwmn8f' },
+        { value: 'dbpedia-it:Live at the Half-Note',
+          href: 'http://it.dbpedia.org/resource/Live_at_the_Half-Note_(Art_Farmer)' },
+        { value: 'dbpedia-wikidata:Live at the Half-Note',
+          href: 'http://wikidata.dbpedia.org/resource/Q6656746' },
+        { value: 'wikidata:Live at the Half-Note',
+          href: 'http://www.wikidata.org/entity/Q6656746' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Live_at_the_Half-Note?oldid=629524424',
+          href: 'http://en.wikipedia.org/wiki/Live_at_the_Half-Note?oldid=629524424' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Live_at_the_Half-Note',
+          href: 'http://en.wikipedia.org/wiki/Live_at_the_Half-Note' } ],
+     'foaf:name': [ { value: 'Live at the Half-Note (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:To_Sweden_with_Love',
+          href: 'http://dbpedia.org/resource/To_Sweden_with_Love' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Interaction_(album)',
+          href: 'http://dbpedia.org/resource/Interaction_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Live_at_the_Half-Note',
+          href: 'http://en.wikipedia.org/wiki/Live_at_the_Half-Note' } ] } }

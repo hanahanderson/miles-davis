@@ -1,0 +1,102 @@
+{ name: 'Mainstream 1958',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Mainstream_1958',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '37.516666666666666' } ],
+     'dbo:abstract': [ { value: 'Mainstream 1958: The East Coast Jazz Scene is a 1958 album by jazz musician Wilbur Harden. The session produced several alternate takes; all of them can be found on some compilations, most notably the ones featuring the complete Savoy recordings made by Harden and Coltrane together, The Complete Mainstream 1958 Sessions (2009) and The Complete Savoy Sessions (1999). (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Wilbur_Harden',
+          href: 'http://dbpedia.org/resource/Wilbur_Harden' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_King_and_I_(Wilbur_Harden_album)',
+          href: 'http://dbpedia.org/resource/The_King_and_I_(Wilbur_Harden_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Ozzie_Cadena',
+          href: 'http://dbpedia.org/resource/Ozzie_Cadena' } ],
+     'dbo:recordDate': [ { value: '1958-03-13 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Savoy_Records',
+          href: 'http://dbpedia.org/resource/Savoy_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' },
+        { value: 'dbr:Hackensack,_New_Jersey',
+          href: 'http://dbpedia.org/resource/Hackensack,_New_Jersey' } ],
+     'dbo:runtime': [ { value: '2251.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Jazz_Way_Out',
+          href: 'http://dbpedia.org/resource/Jazz_Way_Out' } ],
+     'dbo:wikiPageID': [ { value: '11677235 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679807381 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Wilbur_Harden',
+          href: 'http://dbpedia.org/resource/Wilbur_Harden' } ],
+     'dbp:cover': [ { value: 'Mainstream 1958.jpeg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Savoy_Records',
+          href: 'http://dbpedia.org/resource/Savoy_Records' },
+        { value: 'MG 12127 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'The King and I (en)' } ],
+     'dbp:length': [ { value: '2251.0' } ],
+     'dbp:name': [ { value: 'Mainstream 1958: The East Coast Jazz Scene (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Jazz Way Out (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Ozzie_Cadena',
+          href: 'http://dbpedia.org/resource/Ozzie_Cadena' } ],
+     'dbp:recorded': 
+      [ { value: '1958-03-13 (xsd:date)' },
+        { value: 'Van Gelder Studio, Hackensack (en)' } ],
+     'dbp:released': [ { value: 'Late May 1958 (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Mainstream 1958: The East Coast Jazz Scene (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1958_albums',
+          href: 'http://dbpedia.org/resource/Category:1958_albums' },
+        { value: 'dbc:Wilbur_Harden_albums',
+          href: 'http://dbpedia.org/resource/Category:Wilbur_Harden_albums' },
+        { value: 'dbc:Savoy_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Savoy_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Mainstream 1958: The East Coast Jazz Scene is a 1958 album by jazz musician Wilbur Harden. The session produced several alternate takes; all of them can be found on some compilations, most notably the ones featuring the complete Savoy recordings made by Harden and Coltrane together, The Complete Mainstream 1958 Sessions (2009) and The Complete Savoy Sessions (1999). (en)' } ],
+     'rdfs:label': [ { value: 'Mainstream 1958 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Mainstream 1958',
+          href: 'http://rdf.freebase.com/ns/m.03g7cdm' },
+        { value: 'dbpedia-de:Mainstream 1958',
+          href: 'http://de.dbpedia.org/resource/Mainstream_1958' },
+        { value: 'dbpedia-wikidata:Mainstream 1958',
+          href: 'http://wikidata.dbpedia.org/resource/Q1885671' },
+        { value: 'wikidata:Mainstream 1958',
+          href: 'http://www.wikidata.org/entity/Q1885671' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Mainstream_1958?oldid=679807381',
+          href: 'http://en.wikipedia.org/wiki/Mainstream_1958?oldid=679807381' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Mainstream_1958',
+          href: 'http://en.wikipedia.org/wiki/Mainstream_1958' } ],
+     'foaf:name': [ { value: 'Mainstream 1958: The East Coast Jazz Scene (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Jazz_Way_Out',
+          href: 'http://dbpedia.org/resource/Jazz_Way_Out' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Mainstream_1958',
+          href: 'http://en.wikipedia.org/wiki/Mainstream_1958' } ] } }

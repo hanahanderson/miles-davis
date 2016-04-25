@@ -1,0 +1,8 @@
+{ name: 'User:Ingridnegron',
+  href: 'http://en.wikipedia.org/wiki/User:Ingridnegron',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 765,
+       quote: [ 'While a student at the prestigious La Escuela Libre de Música in Arecibo he started listening to artist like: Nelson Rangell, David Sanborn, Miles Davis, Ed Calle, Kirk Whalum, Grover Washington, Jr., Euge Groove, Sonny Rollins, Dexter Gordon, John Coltrane, Stan Getz, Michael Brecker, and Paquito D’ Rivera which had the greatest impact on his playing.' ] } ] }

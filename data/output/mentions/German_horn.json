@@ -1,0 +1,8 @@
+{ name: 'German horn',
+  href: 'http://en.wikipedia.org/wiki/German_horn',
+  mentions: 
+   [ { sectionHeader: 'Notable horn players',
+       sectionSubHeader: 'Chamber music',
+       sectionIndex: 82,
+       wordCountBeforeSection: 30897,
+       quote: [ 'Gunther Schuller – former principal horn of the Cincinnati Symphony Orchestra and Metropolitan Opera Orchestra and played with Miles Davis.' ] } ] }

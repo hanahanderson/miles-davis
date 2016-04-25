@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:WikiProject Composers/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Composers/Archive_1',
+  mentions: 
+   [ { sectionHeader: 'Project Page',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 2798,
+       quote: [ 'Looking at previous featured articles, a few composers have been featured: Johnny Cash, Miles Davis, Bob Dylan, Charles Ives, Wolfgang Amadeus Mozart, Roy Orbison, Dmitri Shostakovich, and Igor Stravinsky.' ] } ] }

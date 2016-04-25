@@ -1,0 +1,8 @@
+{ name: 'Lou Jones (photographer)',
+  href: 'http://en.wikipedia.org/wiki/Lou_Jones_(photographer)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 585,
+       quote: [ 'His career ranges from photojournalism covering Central America warfare and humanitarian causes, to sports photography documenting 12 consecutive Olympics, and to jazz portraits including Miles Davis, Milt Jackson, and Charles Mingus.' ] } ] }

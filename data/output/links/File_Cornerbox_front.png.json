@@ -1,0 +1,12 @@
+{ name: 'File:Cornerbox front.png',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Cornerbox_front.png',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '13994452 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517937700 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Cornerbox_front.png?oldid=517937700',
+          href: 'http://en.wikipedia.org/wiki/File:Cornerbox_front.png?oldid=517937700' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Cornerbox_front.png',
+          href: 'http://dbpedia.org/resource/File:Cornerbox_front.png' } ] } }

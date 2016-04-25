@@ -1,0 +1,8 @@
+{ name: 'Vicki Khuzami',
+  href: 'http://en.wikipedia.org/wiki/Vicki_Khuzami',
+  mentions: 
+   [ { sectionHeader: 'Professional career',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2058,
+       quote: [ 'In 2001, she taught mural painting at The New School and did a mural called "Bohemorama", a painting of Greenwich Village\'s most famous bohemians and artists, including Edgar Allan Poe, Mark Twain, Bob Dylan, Miles Davis, Charlie Parker and Andy Warhol.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Jazz Profiles',
+  href: 'http://en.wikipedia.org/wiki/Jazz_Profiles',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 0,
+       quote: [ 'It features hour long retrospectives on the lives of famous jazz musicians, or sometimes on famous albums such as Miles Davis\' Kind of Blue.' ] } ] }

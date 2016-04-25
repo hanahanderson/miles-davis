@@ -1,0 +1,8 @@
+{ name: 'Stewie Speer',
+  href: 'http://en.wikipedia.org/wiki/Stewie_Speer',
+  mentions: 
+   [ { sectionHeader: 'Brian Brown Quintet',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2632,
+       quote: [ 'The Brian Brown Quintet were enthusiastic ambassadors for bop, introducing Melburnians to music which was still largely unheard in Australia including artists like Charlie Parker, Thelonious Monk, Miles Davis and Sonny Rollins.' ] } ] }

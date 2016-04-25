@@ -1,0 +1,8 @@
+{ name: '51st Annual Grammy Awards',
+  href: 'http://en.wikipedia.org/wiki/51st_Annual_Grammy_Awards',
+  mentions: 
+   [ { sectionHeader: 'Awards',
+       sectionSubHeader: '',
+       sectionIndex: 392,
+       wordCountBeforeSection: 21302,
+       quote: [ 'Kind Of Blue: 50th Anniversary Collector\'s Edition – Francis Davis, album notes writer (Miles Davis)' ] } ] }

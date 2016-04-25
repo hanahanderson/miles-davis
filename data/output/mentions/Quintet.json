@@ -1,0 +1,20 @@
+{ name: 'Quintet',
+  href: 'http://en.wikipedia.org/wiki/Quintet',
+  mentions: 
+   [ { sectionHeader: 'Notable quintets',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3298,
+       quote: 
+        [ 'Miles Davis\' First and Second \'great\' Quintets:\n\nThe First Great Quintet (1955–1958) Miles Davis, trumpet; John Coltrane, tenor saxophone; Red Garland, piano; Paul Chambers, bass; Philly Joe Jones, drums.',
+          'The Second Great Quintet (1964–1968) Miles Davis, trumpet; Wayne Shorter, tenor saxophone; Herbie Hancock, piano; Ron Carter, bass; Tony Williams, drums.\n\n' ] },
+     { sectionHeader: 'Notable quintets',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3298,
+       quote: [ 'The First Great Quintet (1955–1958) Miles Davis, trumpet; John Coltrane, tenor saxophone; Red Garland, piano; Paul Chambers, bass; Philly Joe Jones, drums.' ] },
+     { sectionHeader: 'Notable quintets',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3298,
+       quote: [ 'The Second Great Quintet (1964–1968) Miles Davis, trumpet; Wayne Shorter, tenor saxophone; Herbie Hancock, piano; Ron Carter, bass; Tony Williams, drums.' ] } ] }

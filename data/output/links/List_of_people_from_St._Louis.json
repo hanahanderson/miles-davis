@@ -1,0 +1,61 @@
+{ name: 'List of people from St. Louis',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_people_from_St._Louis',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of famous residents of St. Louis or St. Louis County, Missouri. The dates in parentheses signify lifespan, not necessarily dates of actual residence in the city. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wikipedia-en:Special:FilePath/Angeloupoem.jpg?width=300',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.stlouiswalkoffame.org/',
+          href: 'http://www.stlouiswalkoffame.org/' },
+        { value: 'http://previous.slpl.org/libsrc/authors.htm',
+          href: 'http://previous.slpl.org/libsrc/authors.htm' },
+        { value: 'http://previous.slpl.org/libsrc/blkbio.htm',
+          href: 'http://previous.slpl.org/libsrc/blkbio.htm' },
+        { value: 'http://previous.slpl.org/libsrc/stl-wom.htm',
+          href: 'http://previous.slpl.org/libsrc/stl-wom.htm' },
+        { value: 'http://previous.slpl.org/libsrc/stlartistsa.htm',
+          href: 'http://previous.slpl.org/libsrc/stlartistsa.htm' },
+        { value: 'http://previous.slpl.org/libsrc/stlmediaarchive.htm',
+          href: 'http://previous.slpl.org/libsrc/stlmediaarchive.htm' } ],
+     'dbo:wikiPageID': [ { value: '2541646 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682659049 (xsd:integer)' } ],
+     'dbp:num': [ { value: 'yes (en)' } ],
+     'dbp:side': [ { value: 'yes (en)' } ],
+     'dbp:top': [ { value: 'yes (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_people_from_Missouri',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_people_from_Missouri' },
+        { value: 'dbc:St._Louis,_Missouri-related_lists',
+          href: 'http://dbpedia.org/resource/Category:St._Louis,_Missouri-related_lists' },
+        { value: 'dbc:People_from_St._Louis,_Missouri',
+          href: 'http://dbpedia.org/resource/Category:People_from_St._Louis,_Missouri' } ],
+     'rdfs:comment': [ { value: 'This is a list of famous residents of St. Louis or St. Louis County, Missouri. The dates in parentheses signify lifespan, not necessarily dates of actual residence in the city. (en)' } ],
+     'rdfs:label': [ { value: 'List of people from St. Louis (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-de:List of people from St. Louis',
+          href: 'http://de.dbpedia.org/resource/Liste_von_Persönlichkeiten_der_Stadt_St._Louis' },
+        { value: 'dbpedia-wikidata:List of people from St. Louis',
+          href: 'http://wikidata.dbpedia.org/resource/Q1864165' },
+        { value: 'wikidata:List of people from St. Louis',
+          href: 'http://www.wikidata.org/entity/Q1864165' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_people_from_St._Louis?oldid=682659049',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_St._Louis?oldid=682659049' } ],
+     'foaf:depiction': 
+      [ { value: 'wikipedia-en:Special:FilePath/Angeloupoem.jpg',
+          href: 'http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_people_from_St._Louis',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_St._Louis' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_famous_people_from_St._Louis',
+          href: 'http://dbpedia.org/resource/List_of_famous_people_from_St._Louis' },
+        { value: 'dbr:List_of_famous_people_from_Saint_Louis',
+          href: 'http://dbpedia.org/resource/List_of_famous_people_from_Saint_Louis' },
+        { value: 'dbr:List_of_people_from_St._Louis,_Missouri',
+          href: 'http://dbpedia.org/resource/List_of_people_from_St._Louis,_Missouri' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_people_from_St._Louis',
+          href: 'http://en.wikipedia.org/wiki/List_of_people_from_St._Louis' } ] } }

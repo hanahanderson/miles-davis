@@ -1,0 +1,8 @@
+{ name: 'The Piano',
+  href: 'http://en.wikipedia.org/wiki/The_Piano',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 47,
+       wordCountBeforeSection: 22389,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

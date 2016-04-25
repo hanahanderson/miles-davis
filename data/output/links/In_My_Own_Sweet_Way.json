@@ -1,0 +1,89 @@
+{ name: 'In My Own Sweet Way',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/In_My_Own_Sweet_Way',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '62.03333333333333' } ],
+     'dbo:abstract': [ { value: 'In My Own Sweet Way is a live album led by trumpeter Woody Shaw which was recorded in Switzerland in 1987 and released on the German In + Out label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Woody_Shaw',
+          href: 'http://dbpedia.org/resource/Woody_Shaw' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Dr._Chi',
+          href: 'http://dbpedia.org/resource/Dr._Chi' } ],
+     'dbo:runtime': [ { value: '3722.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Eternal_Triangle',
+          href: 'http://dbpedia.org/resource/The_Eternal_Triangle' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '40366181 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '577332962 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Woody_Shaw',
+          href: 'http://dbpedia.org/resource/Woody_Shaw' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Woody_Shaw',
+          href: 'http://dbpedia.org/resource/Woody_Shaw' } ],
+     'dbp:cover': [ { value: 'In My Own Sweet Way.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: '7003 (xsd:integer)' }, { value: 'In + Out (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Dr. Chi (en)' } ],
+     'dbp:length': [ { value: '3722.0' } ],
+     'dbp:name': [ { value: 'In My Own Sweet Way (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Eternal Triangle (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--02-07' },
+        { value: 'Bazillus, Zurich, Switzerland (en)' } ],
+     'dbp:released': [ { value: '1989 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'In My Own Sweet Way (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Woody_Shaw_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Woody_Shaw_live_albums' },
+        { value: 'dbc:1989_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1989_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'In My Own Sweet Way is a live album led by trumpeter Woody Shaw which was recorded in Switzerland in 1987 and released on the German In + Out label. (en)' } ],
+     'rdfs:label': [ { value: 'In My Own Sweet Way (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:In My Own Sweet Way',
+          href: 'http://rdf.freebase.com/ns/m.0wyg6m6' },
+        { value: 'dbpedia-wikidata:In My Own Sweet Way',
+          href: 'http://wikidata.dbpedia.org/resource/Q17013478' },
+        { value: 'wikidata:In My Own Sweet Way',
+          href: 'http://www.wikidata.org/entity/Q17013478' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:In_My_Own_Sweet_Way?oldid=577332962',
+          href: 'http://en.wikipedia.org/wiki/In_My_Own_Sweet_Way?oldid=577332962' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:In_My_Own_Sweet_Way',
+          href: 'http://en.wikipedia.org/wiki/In_My_Own_Sweet_Way' } ],
+     'foaf:name': [ { value: 'In My Own Sweet Way (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Dr._Chi',
+          href: 'http://dbpedia.org/resource/Dr._Chi' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:In_My_Own_Sweet_Way',
+          href: 'http://en.wikipedia.org/wiki/In_My_Own_Sweet_Way' } ] } }

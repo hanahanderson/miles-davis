@@ -1,0 +1,8 @@
+{ name: 'Frank Ténot',
+  href: 'http://en.wikipedia.org/wiki/Frank_T%C3%A9not',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1394,
+       quote: [ 'They produced concerts of Miles Davis, Louis Armstrong, and Sylvie Vartan in Olympia.' ] } ] }

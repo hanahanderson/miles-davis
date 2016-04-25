@@ -1,0 +1,8 @@
+{ name: 'Best of John Scofield',
+  href: 'http://en.wikipedia.org/wiki/Best_of_John_Scofield',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1252,
+       quote: [ 'Miles Davis' ] } ] }

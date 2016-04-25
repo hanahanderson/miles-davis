@@ -1,0 +1,99 @@
+{ name: 'Chet Baker in Milan',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Chet_Baker_in_Milan',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '42.68333333333333' } ],
+     'dbo:abstract': [ { value: 'Chet Baker in Milan is an album by trumpeter Chet Baker which was recorded in Italy in 1959 and released on the Jazzland label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:picture': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Chet_Baker_Plays_the_Best_of_Lerner_and_Loewe',
+          href: 'http://dbpedia.org/resource/Chet_Baker_Plays_the_Best_of_Lerner_and_Loewe' } ],
+     'dbo:recordDate': [ { value: '1959-10-06 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' } ],
+     'dbo:runtime': [ { value: '2561.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Chet_Baker_with_Fifty_Italian_Strings',
+          href: 'http://dbpedia.org/resource/Chet_Baker_with_Fifty_Italian_Strings' } ],
+     'dbo:wikiPageID': [ { value: '40237247 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '638757132 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Chet_Baker',
+          href: 'http://dbpedia.org/resource/Chet_Baker' } ],
+     'dbp:cover': [ { value: 'Chet Baker in Milan.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Riverside_Records',
+          href: 'http://dbpedia.org/resource/Riverside_Records' },
+        { value: 'JLP 18 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Chet Baker Plays the Best of Lerner and Loewe (en)' } ],
+     'dbp:length': [ { value: '2561.0' } ],
+     'dbp:name': [ { value: 'Chet Baker in Milan (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Chet Baker with Fifty Italian Strings (en)' } ],
+     'dbp:recorded': [ { value: '--09-25' }, { value: 'Milan, Italy (en)' } ],
+     'dbp:released': [ { value: '1959 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Chet Baker in Milan (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Chet_Baker_albums',
+          href: 'http://dbpedia.org/resource/Category:Chet_Baker_albums' },
+        { value: 'dbc:1959_albums',
+          href: 'http://dbpedia.org/resource/Category:1959_albums' },
+        { value: 'dbc:Riverside_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Riverside_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Chet Baker in Milan is an album by trumpeter Chet Baker which was recorded in Italy in 1959 and released on the Jazzland label. (en)' } ],
+     'rdfs:label': [ { value: 'Chet Baker in Milan (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Chet Baker in Milan',
+          href: 'http://rdf.freebase.com/ns/m.01jrn77' },
+        { value: 'dbpedia-wikidata:Chet Baker in Milan',
+          href: 'http://wikidata.dbpedia.org/resource/Q16245633' },
+        { value: 'wikidata:Chet Baker in Milan',
+          href: 'http://www.wikidata.org/entity/Q16245633' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Chet_Baker_in_Milan?oldid=638757132',
+          href: 'http://en.wikipedia.org/wiki/Chet_Baker_in_Milan?oldid=638757132' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Chet_Baker_in_Milan',
+          href: 'http://en.wikipedia.org/wiki/Chet_Baker_in_Milan' } ],
+     'foaf:name': [ { value: 'Chet Baker in Milan (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Chet_Baker_with_Fifty_Italian_Strings',
+          href: 'http://dbpedia.org/resource/Chet_Baker_with_Fifty_Italian_Strings' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Chet_Baker_Plays_the_Best_of_Lerner_and_Loewe',
+          href: 'http://dbpedia.org/resource/Chet_Baker_Plays_the_Best_of_Lerner_and_Loewe' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Chet_Baker_in_Milan',
+          href: 'http://en.wikipedia.org/wiki/Chet_Baker_in_Milan' } ] } }

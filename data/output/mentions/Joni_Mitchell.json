@@ -1,0 +1,13 @@
+{ name: 'Joni Mitchell',
+  href: 'http://en.wikipedia.org/wiki/Joni_Mitchell',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 6522,
+       quote: [ 'At 18, she widened her repertoire to include her own personal favorites like Edith Piaf and Miles Davis.' ] },
+     { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 71,
+       wordCountBeforeSection: 39349,
+       quote: [ 'In accepting the award, Hancock paid tribute to Mitchell as well as to Miles Davis and John Coltrane.' ] } ] }

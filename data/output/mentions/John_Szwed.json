@@ -1,0 +1,13 @@
+{ name: 'John Szwed',
+  href: 'http://en.wikipedia.org/wiki/John_Szwed',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Szwed is the author of many books on jazz and American music, including studies of Sun Ra, Miles Davis, Jelly Roll Morton, Alan Lomax and Billie Holiday.' ] },
+     { sectionHeader: 'Publications',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1356,
+       quote: [ 'In 2003, he published a Miles Davis biography, So What: The Life of Miles Davis.' ] } ] }

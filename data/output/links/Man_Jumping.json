@@ -1,0 +1,48 @@
+{ name: 'Man Jumping',
+  entityType: 'Group100031264',
+  href: 'http://dbpedia.org/page/Man_Jumping',
+  values: 
+   { 'dbo:abstract': [ { value: 'Famously described by Brian Eno as \'the most important band in the world\', Man Jumping were a musical ensemble formed in England in the 1983 which included former  members of the group Lost Jockey. The band were variously described as playing \'systems music\' (using repetitive musical loops and themes typically used by such avant garde US composers as Steve Reich, Philip Glass and Terry Riley) or \'systems funk\'. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.billnelsonmusic.com/usarchives/discography/cocteau.htm',
+          href: 'http://www.billnelsonmusic.com/usarchives/discography/cocteau.htm' } ],
+     'dbo:wikiPageID': [ { value: '5803811 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677224889 (xsd:integer)' } ],
+     'dbp:class': [ { value: 'artist (en)' } ],
+     'dbp:id': [ { value: 'p23820 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:British_electronic_music_groups',
+          href: 'http://dbpedia.org/resource/Category:British_electronic_music_groups' },
+        { value: 'dbc:Musical_groups_established_in_1983',
+          href: 'http://dbpedia.org/resource/Category:Musical_groups_established_in_1983' },
+        { value: 'dbc:World_fusion_groups',
+          href: 'http://dbpedia.org/resource/Category:World_fusion_groups' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:BritishElectronicMusicGroups',
+          href: 'http://dbpedia.org/class/yago/BritishElectronicMusicGroups' },
+        { value: 'yago:Group100031264',
+          href: 'http://dbpedia.org/class/yago/Group100031264' },
+        { value: 'yago:WorldFusionGroups',
+          href: 'http://dbpedia.org/class/yago/WorldFusionGroups' } ],
+     'rdfs:comment': [ { value: 'Famously described by Brian Eno as \'the most important band in the world\', Man Jumping were a musical ensemble formed in England in the 1983 which included former  members of the group Lost Jockey. The band were variously described as playing \'systems music\' (using repetitive musical loops and themes typically used by such avant garde US composers as Steve Reich, Philip Glass and Terry Riley) or \'systems funk\'. (en)' } ],
+     'rdfs:label': [ { value: 'Man Jumping (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Man Jumping',
+          href: 'http://rdf.freebase.com/ns/m.0f5sdf' },
+        { value: 'dbpedia-wikidata:Man Jumping',
+          href: 'http://wikidata.dbpedia.org/resource/Q6746198' },
+        { value: 'wikidata:Man Jumping',
+          href: 'http://www.wikidata.org/entity/Q6746198' },
+        { value: 'yago-res:Man Jumping',
+          href: 'http://yago-knowledge.org/resource/Man_Jumping' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Man_Jumping?oldid=677224889',
+          href: 'http://en.wikipedia.org/wiki/Man_Jumping?oldid=677224889' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Man_Jumping',
+          href: 'http://en.wikipedia.org/wiki/Man_Jumping' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Man_Jumping',
+          href: 'http://en.wikipedia.org/wiki/Man_Jumping' } ] } }

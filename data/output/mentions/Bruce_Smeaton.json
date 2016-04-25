@@ -1,0 +1,13 @@
+{ name: 'Bruce Smeaton',
+  href: 'http://en.wikipedia.org/wiki/Bruce_Smeaton',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: 'Television shows',
+       sectionIndex: 21,
+       wordCountBeforeSection: 3228,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'Television shows',
+       sectionIndex: 22,
+       wordCountBeforeSection: 5129,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

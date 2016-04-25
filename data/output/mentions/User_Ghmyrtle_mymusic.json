@@ -1,0 +1,8 @@
+{ name: 'User:Ghmyrtle/mymusic',
+  href: 'http://en.wikipedia.org/wiki/User:Ghmyrtle/mymusic',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 4767,
+       quote: [ 'Bits of jazz as well - Miles Davis, Thelonious Monk, John Coltrane, Joe Harriott.' ] } ] }

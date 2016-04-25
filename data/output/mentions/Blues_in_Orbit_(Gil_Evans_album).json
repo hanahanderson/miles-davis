@@ -1,0 +1,8 @@
+{ name: 'Blues in Orbit (Gil Evans album)',
+  href: 'http://en.wikipedia.org/wiki/Blues_in_Orbit_(Gil_Evans_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1218,
+       quote: [ '"General Assembly" (Miles Davis, Gil Evans) - 7:12' ] } ] }

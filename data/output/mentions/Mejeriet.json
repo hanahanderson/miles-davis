@@ -1,0 +1,8 @@
+{ name: 'Mejeriet',
+  href: 'http://en.wikipedia.org/wiki/Mejeriet',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 450,
+       quote: [ 'The venue has a full service bar and restaurant, a cinema, a theatre company, 13 rehearsal rooms (where 50 bands rehearse) and two stages that since the inauguration has hosted concerts with legends such as Miles Davis, Bo Diddley, Bad Religion, Ramones, Primal Scream, Sun Ra, George Clinton, Massive Attack, Dead Prez, Miriam Makeba, The Stone Roses, Iggy Pop, Elvis Costello, Oasis, My Bloody Valentine, Dinosaur Jr.' ] } ] }

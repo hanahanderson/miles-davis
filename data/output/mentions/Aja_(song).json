@@ -1,0 +1,13 @@
+{ name: 'Aja (song)',
+  href: 'http://en.wikipedia.org/wiki/Aja_(song)',
+  mentions: 
+   [ { sectionHeader: 'Recording',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 9952,
+       quote: [ 'As part of their conscious effort to expand the range of musicians they worked with, Becker and Fagen hoped to have it played by Wayne Shorter, who was revered in the contemporary jazz world as one of the members of Miles Davis\'s Second Great Quintet, which had backed the trumpeter on his pioneering late-1960s fusion albums In A Silent Way and Bitches Brew.' ] },
+     { sectionHeader: 'Recording',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 9952,
+       quote: [ 'As part of their conscious effort to expand the range of musicians they worked with, Becker and Fagen hoped to have it played by Wayne Shorter, who was revered in the contemporary jazz world as one of the members of Miles Davis\'s Second Great Quintet, which had backed the trumpeter on his pioneering late-1960s fusion albums In A Silent Way and Bitches Brew.' ] } ] }

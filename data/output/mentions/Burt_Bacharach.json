@@ -1,0 +1,8 @@
+{ name: 'Burt Bacharach',
+  href: 'http://en.wikipedia.org/wiki/Burt_Bacharach',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 8481,
+       quote: [ 'But one night I had dinner with Miles Davis and he said, \'"Alfie," that\'s a great song.\'" Bacharach songs were adapted by jazz artists of the time, such as Stan Getz, Cal Tjader and Wes Montgomery.' ] } ] }

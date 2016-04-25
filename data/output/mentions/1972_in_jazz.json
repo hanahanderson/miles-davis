@@ -1,0 +1,8 @@
+{ name: '1972 in jazz',
+  href: 'http://en.wikipedia.org/wiki/1972_in_jazz',
+  mentions: 
+   [ { sectionHeader: 'Album releases',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1008,
+       quote: [ 'Miles Davis – On The Corner' ] } ] }

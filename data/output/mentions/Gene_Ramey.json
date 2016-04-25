@@ -1,0 +1,8 @@
+{ name: 'Gene Ramey',
+  href: 'http://en.wikipedia.org/wiki/Gene_Ramey',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 475,
+       quote: [ 'In 1944 he moved to New York City, where he played with Lester Young, Count Basie, Ben Webster, Coleman Hawkins, Charlie Parker, Hot Lips Page, Horace Silver, Thelonious Monk (as a member of Monk’s first trio in 1947, together with drummer Art Blakey), and Miles Davis.' ] } ] }

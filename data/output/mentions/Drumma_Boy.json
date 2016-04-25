@@ -1,0 +1,8 @@
+{ name: 'Drumma Boy',
+  href: 'http://en.wikipedia.org/wiki/Drumma_Boy',
+  mentions: 
+   [ { sectionHeader: 'Production equipment and style',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 9785,
+       quote: [ 'Gholson cites Dr Dr, Quincy Jones, Raphael Saadiq and The Funk Brothers as his signature music production inspirations with other musical influences ranging from European classical composers Ludwig van Beethoven, Jean Sibelius, Wolfgang Amadeus Mozart, and Johann Sebastian Bach to American Jazz icons Dizzy Gillespie and Miles Davis all the way to Academy Award winning hip hop group Three 6 Mafia and Houston rapper, Scarface.' ] } ] }

@@ -1,0 +1,24 @@
+{ name: 'Template:Miles Davis',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Template:Miles_Davis',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '16682115 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '682353868 (xsd:integer)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Modèle:Palette_Miles_Davis',
+          href: 'http://fr.dbpedia.org/resource/Modèle:Palette_Miles_Davis' },
+        { value: 'dbpedia-cs:Šablona:Miles_Davis',
+          href: 'http://cs.dbpedia.org/resource/Šablona:Miles_Davis' },
+        { value: 'dbpedia-it:Template:Miles_Davis',
+          href: 'http://it.dbpedia.org/resource/Template:Miles_Davis' },
+        { value: 'dbpedia-pl:Szablon:Miles_Davis',
+          href: 'http://pl.dbpedia.org/resource/Szablon:Miles_Davis' },
+        { value: 'dbpedia-pt:Predefinição:Miles_Davis',
+          href: 'http://pt.dbpedia.org/resource/Predefinição:Miles_Davis' },
+        { value: 'dbpedia-wikidata:Q14336602',
+          href: 'http://wikidata.dbpedia.org/resource/Q14336602' },
+        { value: 'wikidata:Q14336602',
+          href: 'http://www.wikidata.org/entity/Q14336602' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Template:Miles_Davis?oldid=682353868',
+          href: 'http://en.wikipedia.org/wiki/Template:Miles_Davis?oldid=682353868' } ] } }

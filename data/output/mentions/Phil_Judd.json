@@ -1,0 +1,8 @@
+{ name: 'Phil Judd',
+  href: 'http://en.wikipedia.org/wiki/Phil_Judd',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Schnell Fenster',
+       sectionIndex: 58,
+       wordCountBeforeSection: 12010,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

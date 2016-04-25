@@ -1,0 +1,13 @@
+{ name: 'The Meaning of the Blues',
+  href: 'http://en.wikipedia.org/wiki/The_Meaning_of_the_Blues',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 525,
+       quote: [ 'Miles Davis - Miles Ahead (1957)' ] },
+     { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 525,
+       quote: [ 'Miles Davis - Miles Davis at Carnegie Hall (1961)' ] } ] }

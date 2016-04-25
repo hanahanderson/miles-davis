@@ -1,0 +1,13 @@
+{ name: 'User talk:68.159.195.157',
+  href: 'http://en.wikipedia.org/wiki/User_talk:68.159.195.157',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'The next time you vandalise Wikipedia, as you did to Miles Davis, you will be blocked from editing. -SpuriousQ (talk) 23:03, 9 February 2007 (UTC)' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'The next time you vandalize a page, as you did to Miles Davis, you will be blocked from editing Wikipedia.' ] } ] }

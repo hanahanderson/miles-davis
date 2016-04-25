@@ -1,0 +1,13 @@
+{ name: 'Just Squeeze Me (But Please Don\'t Tease Me)',
+  href: 'http://en.wikipedia.org/wiki/Just_Squeeze_Me_(But_Please_Don%27t_Tease_Me)',
+  mentions: 
+   [ { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 266,
+       quote: [ 'Miles Davis - Miles: The New Miles Davis Quintet (1955)' ] },
+     { sectionHeader: 'Notable recordings',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 266,
+       quote: [ 'Miles: The New Miles Davis Quintet' ] } ] }

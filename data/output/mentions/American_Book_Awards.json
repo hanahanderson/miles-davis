@@ -1,0 +1,8 @@
+{ name: 'American Book Awards',
+  href: 'http://en.wikipedia.org/wiki/American_Book_Awards',
+  mentions: 
+   [ { sectionHeader: 'Recipients',
+       sectionSubHeader: '',
+       sectionIndex: 37,
+       wordCountBeforeSection: 10080,
+       quote: [ 'Miles Davis for Miles' ] } ] }

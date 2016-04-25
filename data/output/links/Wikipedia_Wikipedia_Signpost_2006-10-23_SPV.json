@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Wikipedia Signpost/2006-10-23/SPV',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Wikipedia_Signpost/2006-10-23/SPV',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

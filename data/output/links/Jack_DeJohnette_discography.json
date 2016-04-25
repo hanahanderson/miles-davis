@@ -1,0 +1,23 @@
+{ name: 'Jack DeJohnette discography',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Jack_DeJohnette_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is the discography for American jazz drummer, pianist and composer Jack DeJohnette. (en)' } ],
+     'dbo:wikiPageID': [ { value: '46742898 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680508832 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' } ],
+     'rdfs:comment': [ { value: 'This is the discography for American jazz drummer, pianist and composer Jack DeJohnette. (en)' } ],
+     'rdfs:label': [ { value: 'Jack DeJohnette discography (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Jack_DeJohnette_discography?oldid=680508832',
+          href: 'http://en.wikipedia.org/wiki/Jack_DeJohnette_discography?oldid=680508832' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Jack_DeJohnette_discography',
+          href: 'http://en.wikipedia.org/wiki/Jack_DeJohnette_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Jack_DeJohnette_discography',
+          href: 'http://en.wikipedia.org/wiki/Jack_DeJohnette_discography' } ] } }

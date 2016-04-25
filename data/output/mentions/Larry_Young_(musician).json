@@ -1,0 +1,18 @@
+{ name: 'Larry Young (musician)',
+  href: 'http://en.wikipedia.org/wiki/Larry_Young_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 751,
+       quote: [ 'with the Tony Williams Lifetime (with Tony Williams and John McLaughlin) and also on Miles Davis\'s Bitches Brew.' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 3130,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 22,
+       wordCountBeforeSection: 3146,
+       quote: [] } ] }

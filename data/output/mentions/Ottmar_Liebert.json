@@ -1,0 +1,8 @@
+{ name: 'Ottmar Liebert',
+  href: 'http://en.wikipedia.org/wiki/Ottmar_Liebert',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1477,
+       quote: [ 'Liebert cites musical influences such as "Carlos Santana, Paco de Lucía, John McLaughlin, Robert Fripp, and Jeff Beck, others were horn players like Miles Davis", although he cites "others yet were fine artists who taught me about space and brush strokes and dynamics and contrast".' ] } ] }

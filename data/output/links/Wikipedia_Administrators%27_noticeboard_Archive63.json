@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Administrators\' noticeboard/Archive63',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Administrators%27_noticeboard/Archive63',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

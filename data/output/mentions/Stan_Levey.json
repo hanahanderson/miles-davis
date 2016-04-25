@@ -1,0 +1,13 @@
+{ name: 'Stan Levey',
+  href: 'http://en.wikipedia.org/wiki/Stan_Levey',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Dizzy Gillespie, Charlie Parker, Coleman Hawkins, Art Tatum, Ben Webster, Dexter Gordon, Erroll Garner, Miles Davis, George Shearing, Lester Young, Roy Eldridge, Zoot Sims, Al Cohn, Stan Getz, John Lewis, Ray Brown, Sonny Stitt, Barney Bigard, Gerry Mulligan, Vince Guaraldi, Lee Konitz, Bud Shank, Charlie Ventura, Scott LaFaro, Victor Feldman, Art Pepper, Charlie Barnet, Oscar Peterson, Don Byas, Conte Candoli, Joe Thomas, Billy Taylor, Bob Cooper, Al Haig, Milt Jackson, Lucky Thompson, Chuck Wayne, Richie Kamuca, Norman Granz, Bill Holman, Howard Rumsey, Chet Baker, Frank Rosolino, Joe Mondragon, Herb Ellis, Thelonious Monk, Chris Connor, Allen Eager, Jack Sheldon, Hank Jones, Shorty Rogers, Benny Goodman, Stan Kenton, Woody Herman, Quincy Jones, Georgie Auld, Charlie Ventura, Boyd Raeburn, Nelson Riddle, Billy May, Skitch Henderson and The Tonight Show Band, Ella Fitzgerald, Peggy Lee, Frank Sinatra, Gary Crosby, Pat Boone, Barbra Streisand, The Supremes, Vic Damone, Nancy Wilson, Nat King Cole, Sarah Vaughan, Billie Holiday, Bobby Darin, June Christy, Mel Torme, Lalo Schifrin, Henry Mancini, Nelson Riddle, André Previn, Neil Hefti, Barney Kessel' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2024,
+       quote: [ 'A left-handed drummer, Levey has played on over thousands of recordings, including those with musicians Dizzy Gillespie, Charlie Parker, Miles Davis, Stan Getz, Ella Fitzgerald, Peggy Lee, Frank Sinatra, Nat King Cole and with bands such as that of Quincy Jones, and Skitch Henderson and The Tonight Show Band.' ] } ] }

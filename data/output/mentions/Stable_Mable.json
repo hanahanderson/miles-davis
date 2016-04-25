@@ -1,0 +1,13 @@
+{ name: 'Stable Mable',
+  href: 'http://en.wikipedia.org/wiki/Stable_Mable',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 886,
+       quote: [ '"So What" (Miles Davis) - 8:23' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 886,
+       quote: [ '"So What" (Miles Davis) - 8:23' ] } ] }

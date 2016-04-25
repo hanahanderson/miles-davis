@@ -1,0 +1,8 @@
+{ name: 'John Nzenze',
+  href: 'http://en.wikipedia.org/wiki/John_Nzenze',
+  mentions: 
+   [ { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 808,
+       quote: [ 'Next year the band performed with Miles Davis in Germany, who was impressed with the band arranged them a tour to America.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Chico Freeman',
+  href: 'http://en.wikipedia.org/wiki/Chico_Freeman',
+  mentions: 
+   [ { sectionHeader: 'Early years',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 982,
+       quote: [ 'Freeman began playing, inspired by artists such as Miles Davis.' ] } ] }

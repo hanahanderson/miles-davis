@@ -1,0 +1,8 @@
+{ name: 'Kendrick Lamar',
+  href: 'http://en.wikipedia.org/wiki/Kendrick_Lamar',
+  mentions: 
+   [ { sectionHeader: 'Artistry',
+       sectionSubHeader: '',
+       sectionIndex: 48,
+       wordCountBeforeSection: 22717,
+       quote: [ 'Lamar professed to having been influenced by jazz trumpeter Miles Davis and Parliament-Funkadelic during the recording of To Pimp a Butterfly.' ] } ] }

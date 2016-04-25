@@ -1,0 +1,56 @@
+{ name: 'List of musicians of the 1950s',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_musicians_of_the_1950s',
+  values: 
+   { 'dbo:abstract': [ { value: 'For music from a year in the 1950s, go to 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59This is a partial list of notable active and inactive bands and musicians of the 1950s. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Frankie_Laine_Patti_Page_1950s.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Frankie_Laine_Patti_Page_1950s.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.americanmusicpreservation.com/EARS4.htm',
+          href: 'http://www.americanmusicpreservation.com/EARS4.htm' } ],
+     'dbo:wikiPageID': [ { value: '42166901 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '677865030 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1940s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1940s_in_music' },
+        { value: 'dbc:1950s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1950s_in_music' },
+        { value: 'dbc:1940s_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:1940s_in_the_United_States' },
+        { value: 'dbc:American_music_history',
+          href: 'http://dbpedia.org/resource/Category:American_music_history' },
+        { value: 'dbc:1950s_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:1950s_in_the_United_States' },
+        { value: 'dbc:20th_century_in_music',
+          href: 'http://dbpedia.org/resource/Category:20th_century_in_music' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'For music from a year in the 1950s, go to 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59This is a partial list of notable active and inactive bands and musicians of the 1950s. (en)' } ],
+     'rdfs:label': [ { value: 'List of musicians of the 1950s (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:1950s',
+          href: 'http://dbpedia.org/resource/1950s' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of musicians of the 1950s',
+          href: 'http://wikidata.dbpedia.org/resource/Q17155465' },
+        { value: 'wikidata:List of musicians of the 1950s',
+          href: 'http://www.wikidata.org/entity/Q17155465' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_musicians_of_the_1950s?oldid=677865030',
+          href: 'http://en.wikipedia.org/wiki/List_of_musicians_of_the_1950s?oldid=677865030' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Frankie_Laine_Patti_Page_1950s.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Frankie_Laine_Patti_Page_1950s.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_musicians_of_the_1950s',
+          href: 'http://en.wikipedia.org/wiki/List_of_musicians_of_the_1950s' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:United_States_in_the_1950s',
+          href: 'http://dbpedia.org/resource/United_States_in_the_1950s' },
+        { value: 'dbr:1950s',
+          href: 'http://dbpedia.org/resource/1950s' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_musicians_of_the_1950s',
+          href: 'http://en.wikipedia.org/wiki/List_of_musicians_of_the_1950s' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Billy Paul',
+  href: 'http://en.wikipedia.org/wiki/Billy_Paul',
+  mentions: 
+   [ { sectionHeader: 'Life and career',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 5596,
+       quote: [ 'This led to further opportunities, appearing in concert with Charlie Parker, Dinah Washington, Nina Simone, Miles Davis, The Impressions, Sammy Davis, Jr.' ] } ] }

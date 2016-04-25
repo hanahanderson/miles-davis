@@ -1,0 +1,101 @@
+{ name: 'The Gate (Kurt Elling album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Gate_(Kurt_Elling_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '51.65' } ],
+     'dbo:abstract': [ { value: 'The Gate is a 2011 studio album by Kurt Elling, produced by Don Was. on November 30th 2011, the album received a Nomination in 54th Grammy Awards for Best Jazz Vocal Album. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Kurt_Elling',
+          href: 'http://dbpedia.org/resource/Kurt_Elling' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Vocal_jazz',
+          href: 'http://dbpedia.org/resource/Vocal_jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Dedicated_to_You:_Kurt_Elling_Sings_the_Music_of_Coltrane_and_Hartman',
+          href: 'http://dbpedia.org/resource/Dedicated_to_You:_Kurt_Elling_Sings_the_Music_of_Coltrane_and_Hartman' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Don_Was',
+          href: 'http://dbpedia.org/resource/Don_Was' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Concord_Records',
+          href: 'http://dbpedia.org/resource/Concord_Records' } ],
+     'dbo:releaseDate': [ { value: '2011-02-07 (xsd:date)' } ],
+     'dbo:runtime': [ { value: '3099.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:1619_Broadway_–_The_Brill_Building_Project',
+          href: 'http://dbpedia.org/resource/1619_Broadway_–_The_Brill_Building_Project' } ],
+     'dbo:wikiPageID': [ { value: '31030071 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '679239097 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Kurt_Elling',
+          href: 'http://dbpedia.org/resource/Kurt_Elling' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Kurt_Elling',
+          href: 'http://dbpedia.org/resource/Kurt_Elling' } ],
+     'dbp:cover': [ { value: 'Kurt Elling The Gate.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Vocal_jazz',
+          href: 'http://dbpedia.org/resource/Vocal_jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Concord_Records',
+          href: 'http://dbpedia.org/resource/Concord_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Dedicated to You: Kurt Elling Sings the Music of Coltrane and Hartman (en)' } ],
+     'dbp:length': [ { value: '3099.0' } ],
+     'dbp:name': [ { value: 'The Gate (en)' } ],
+     'dbp:nextAlbum': [ { value: '1619 (xsd:integer)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Don_Was',
+          href: 'http://dbpedia.org/resource/Don_Was' } ],
+     'dbp:recorded': [ { value: '--03-15' } ],
+     'dbp:released': [ { value: '2011-02-07 (xsd:date)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'The Gate (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Don_Was',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Don_Was' },
+        { value: 'dbc:Kurt_Elling_albums',
+          href: 'http://dbpedia.org/resource/Category:Kurt_Elling_albums' },
+        { value: 'dbc:2011_albums',
+          href: 'http://dbpedia.org/resource/Category:2011_albums' },
+        { value: 'dbc:Concord_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Concord_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Gate is a 2011 studio album by Kurt Elling, produced by Don Was. on November 30th 2011, the album received a Nomination in 54th Grammy Awards for Best Jazz Vocal Album. (en)' } ],
+     'rdfs:label': [ { value: 'The Gate (Kurt Elling album) (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Gate_(Kurt_Elling_album)?oldid=679239097',
+          href: 'http://en.wikipedia.org/wiki/The_Gate_(Kurt_Elling_album)?oldid=679239097' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Gate_(Kurt_Elling_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Gate_(Kurt_Elling_album)' } ],
+     'foaf:name': [ { value: 'The Gate (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:1619_Broadway_–_The_Brill_Building_Project',
+          href: 'http://dbpedia.org/resource/1619_Broadway_–_The_Brill_Building_Project' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Dedicated_to_You:_Kurt_Elling_Sings_the_Music_of_Coltrane_and_Hartman',
+          href: 'http://dbpedia.org/resource/Dedicated_to_You:_Kurt_Elling_Sings_the_Music_of_Coltrane_and_Hartman' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:The_Gate',
+          href: 'http://dbpedia.org/resource/The_Gate' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Gate_(Kurt_Elling_album)',
+          href: 'http://en.wikipedia.org/wiki/The_Gate_(Kurt_Elling_album)' } ] } }

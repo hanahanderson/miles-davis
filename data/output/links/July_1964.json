@@ -1,0 +1,41 @@
+{ name: 'July 1964',
+  entityType: 'SpatialThing',
+  href: 'http://dbpedia.org/page/July_1964',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following events occurred in July 1964: (en)' } ],
+     'dbo:wikiPageID': [ { value: '38706705 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683900783 (xsd:integer)' } ],
+     'dbp:month': [ { value: 'July (en)' } ],
+     'dbp:year': [ { value: '1964 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1964',
+          href: 'http://dbpedia.org/resource/Category:1964' },
+        { value: 'dbc:July',
+          href: 'http://dbpedia.org/resource/Category:July' },
+        { value: 'dbc:Months_in_the_1900s',
+          href: 'http://dbpedia.org/resource/Category:Months_in_the_1900s' } ],
+     'georss:point': [ { value: '43.166666666666664 -63.166666666666664' } ],
+     'rdf:type': 
+      [ { value: 'geo:SpatialThing',
+          href: 'http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing' } ],
+     'rdfs:comment': [ { value: 'The following events occurred in July 1964: (en)' } ],
+     'rdfs:label': [ { value: 'July 1964 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:July 1964',
+          href: 'http://www.wikidata.org/entity/Q6310486' },
+        { value: 'dbpedia-fr:July 1964',
+          href: 'http://fr.dbpedia.org/resource/Juillet_1964' },
+        { value: 'dbpedia-wikidata:July 1964',
+          href: 'http://wikidata.dbpedia.org/resource/Q6310486' } ],
+     'geo:geometry': [ { value: 'POINT(-63.166667938232 43.166667938232)' } ],
+     'geo:lat': [ { value: '43.166668 (xsd:float)' } ],
+     'geo:long': [ { value: '-63.166668 (xsd:float)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:July_1964?oldid=683900783',
+          href: 'http://en.wikipedia.org/wiki/July_1964?oldid=683900783' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:July_1964',
+          href: 'http://en.wikipedia.org/wiki/July_1964' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:July_1964',
+          href: 'http://en.wikipedia.org/wiki/July_1964' } ] } }

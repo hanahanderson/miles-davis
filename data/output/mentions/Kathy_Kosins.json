@@ -1,0 +1,13 @@
+{ name: 'Kathy Kosins',
+  href: 'http://en.wikipedia.org/wiki/Kathy_Kosins',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1322,
+       quote: [ 'She was primarily listening to pop and R&B while her brother David (two years younger) was listening to records such as Lester Bowie and the Art Ensemble of Chicago, Bud Powell, Miles Davis, John Coltrane, and Charlie Parker.' ] },
+     { sectionHeader: 'Jazz and painting (1993-present)',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 4614,
+       quote: [ 'She recorded the songs herself for the 1996 release with Schoolkids Records, it featured a collection of nine originals and an arrangement of the Miles Davis composition "Four".' ] } ] }

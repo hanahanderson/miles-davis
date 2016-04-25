@@ -1,0 +1,8 @@
+{ name: 'Cristina Pato',
+  href: 'http://en.wikipedia.org/wiki/Cristina_Pato',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2658,
+       quote: [ 'Miles Davis Miles Español (2010) Bob Belden' ] } ] }

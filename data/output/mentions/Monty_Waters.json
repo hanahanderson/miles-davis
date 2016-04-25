@@ -1,0 +1,8 @@
+{ name: 'Monty Waters',
+  href: 'http://en.wikipedia.org/wiki/Monty_Waters',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 59,
+       quote: [ 'There he came into contact with musicians such as Miles Davis, John Coltrane, Art Blakey, Red Garland and Dexter Gordon, who visited this club after their concerts.' ] } ] }

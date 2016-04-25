@@ -1,0 +1,13 @@
+{ name: 'Metronome magazine',
+  href: 'http://en.wikipedia.org/wiki/Metronome_magazine',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 311,
+       quote: [ 'Notable writers for the magazine were co-editors Leonard Feather and Barry Ulanov; Miles Davis cited them as the only two white music critics in New York to be able to understand Bebop.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1803,
+       quote: [ 'Miles Davis (1989) Autobiography' ] } ] }

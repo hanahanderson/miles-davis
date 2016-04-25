@@ -1,0 +1,104 @@
+{ name: 'In the Land of the Giants',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/In_the_Land_of_the_Giants',
+  values: 
+   { 'dbo:abstract': [ { value: 'In the Land of the Giants is the eighth album by saxophonist Eric Kloss which was recorded in 1968 and released on the Prestige label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Sky_Shadows',
+          href: 'http://dbpedia.org/resource/Sky_Shadows' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Don_Schlitten' } ],
+     'dbo:recordDate': [ { value: '1969-01-02 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:To_Hear_Is_to_See!',
+          href: 'http://dbpedia.org/resource/To_Hear_Is_to_See!' } ],
+     'dbo:wikiPageID': [ { value: '39046630 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664052198 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Eric_Kloss',
+          href: 'http://dbpedia.org/resource/Eric_Kloss' } ],
+     'dbp:cover': [ { value: 'In the Land of the Giants.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PR 7627 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Sky Shadows (en)' } ],
+     'dbp:name': [ { value: 'In the Land of the Giants (en)' } ],
+     'dbp:nextAlbum': [ { value: 'To Hear Is to See! (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Don_Schlitten' } ],
+     'dbp:recorded': 
+      [ { value: '1969-01-02 (xsd:date)' },
+        { value: 'New York City (en)' } ],
+     'dbp:released': [ { value: '1969 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'In the Land of the Giants (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Eric_Kloss_albums',
+          href: 'http://dbpedia.org/resource/Category:Eric_Kloss_albums' },
+        { value: 'dbc:1969_albums',
+          href: 'http://dbpedia.org/resource/Category:1969_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_produced_by_Don_Schlitten',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Don_Schlitten' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'In the Land of the Giants is the eighth album by saxophonist Eric Kloss which was recorded in 1968 and released on the Prestige label. (en)' } ],
+     'rdfs:label': [ { value: 'In the Land of the Giants (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:In the Land of the Giants',
+          href: 'http://rdf.freebase.com/ns/m.03g5v23' },
+        { value: 'wikidata:In the Land of the Giants',
+          href: 'http://www.wikidata.org/entity/Q17013889' },
+        { value: 'dbpedia-wikidata:In the Land of the Giants',
+          href: 'http://wikidata.dbpedia.org/resource/Q17013889' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:In_the_Land_of_the_Giants?oldid=664052198',
+          href: 'http://en.wikipedia.org/wiki/In_the_Land_of_the_Giants?oldid=664052198' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:In_the_Land_of_the_Giants',
+          href: 'http://en.wikipedia.org/wiki/In_the_Land_of_the_Giants' } ],
+     'foaf:name': [ { value: 'In the Land of the Giants (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:To_Hear_Is_to_See!',
+          href: 'http://dbpedia.org/resource/To_Hear_Is_to_See!' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Sky_Shadows',
+          href: 'http://dbpedia.org/resource/Sky_Shadows' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:In_the_Land_of_the_Giants',
+          href: 'http://en.wikipedia.org/wiki/In_the_Land_of_the_Giants' } ] } }

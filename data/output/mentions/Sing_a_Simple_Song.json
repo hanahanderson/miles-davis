@@ -1,0 +1,8 @@
+{ name: 'Sing a Simple Song',
+  href: 'http://en.wikipedia.org/wiki/Sing_a_Simple_Song',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 1170,
+       quote: [ 'The song is one of Sly and the Family Stone\'s signature songs, and has been covered by a number of acts, including Dusty Springfield, Diana Ross & the Supremes, The Temptations, The Jackson 5, The Commodores, Miles Davis (during the Jack Johnson sessions), The Meters, Booker T. & the M.G.\'s, Prince, The Budos Band, Maceo Parker and others.' ] } ] }

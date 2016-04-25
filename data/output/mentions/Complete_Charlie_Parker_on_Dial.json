@@ -1,0 +1,8 @@
+{ name: 'Complete Charlie Parker on Dial',
+  href: 'http://en.wikipedia.org/wiki/Complete_Charlie_Parker_on_Dial',
+  mentions: 
+   [ { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6806,
+       quote: [ 'Miles Davis – trumpet' ] } ] }

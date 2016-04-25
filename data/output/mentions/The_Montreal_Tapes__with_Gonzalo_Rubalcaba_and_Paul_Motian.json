@@ -1,0 +1,8 @@
+{ name: 'The Montreal Tapes: with Gonzalo Rubalcaba and Paul Motian',
+  href: 'http://en.wikipedia.org/wiki/The_Montreal_Tapes:_with_Gonzalo_Rubalcaba_and_Paul_Motian',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1401,
+       quote: [ '"Solar" (Miles Davis) - 10:23' ] } ] }

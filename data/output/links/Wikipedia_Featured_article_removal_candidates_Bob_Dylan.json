@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Featured article removal candidates/Bob Dylan',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Featured_article_removal_candidates/Bob_Dylan',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

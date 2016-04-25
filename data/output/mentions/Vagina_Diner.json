@@ -1,0 +1,8 @@
+{ name: 'Vagina Diner',
+  href: 'http://en.wikipedia.org/wiki/Vagina_Diner',
+  mentions: 
+   [ { sectionHeader: 'Samples',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1494,
+       quote: [ '"Yesternow" by Miles Davis' ] } ] }

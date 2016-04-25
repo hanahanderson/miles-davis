@@ -1,0 +1,8 @@
+{ name: 'User:Maurreen/Biographies',
+  href: 'http://en.wikipedia.org/wiki/User:Maurreen/Biographies',
+  mentions: 
+   [ { sectionHeader: 'Featured biographies',
+       sectionSubHeader: '',
+       sectionIndex: 81,
+       wordCountBeforeSection: 5035,
+       quote: [ '• #Phil Collins • #Rebecca Helferich Clarke • #Miles Davis • #Celine Dion • #Charles Ives • #Witold Lutosławski • #Olivier Messiaen • #Kylie Minogue' ] } ] }

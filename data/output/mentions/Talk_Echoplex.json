@@ -1,0 +1,8 @@
+{ name: 'Talk:Echoplex',
+  href: 'http://en.wikipedia.org/wiki/Talk:Echoplex',
+  mentions: 
+   [ { sectionHeader: 'Jerry Goldsmith',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 772,
+       quote: [ 'Goldsmith and Miles Davis are the most famous musicians for using echoplex and to leave Goldsmith out is just plain silly.' ] } ] }

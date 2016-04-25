@@ -1,0 +1,8 @@
+{ name: 'User:Peacepiece/Bill Evans Trio',
+  href: 'http://en.wikipedia.org/wiki/User:Peacepiece/Bill_Evans_Trio',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Evans had done extensive work as a sideman, most notably on the Miles Davis Kind Of Blue album.' ] } ] }

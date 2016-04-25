@@ -1,0 +1,8 @@
+{ name: 'Swing (jazz performance style)',
+  href: 'http://en.wikipedia.org/wiki/Swing_(jazz_performance_style)',
+  mentions: 
+   [ { sectionHeader: 'Types',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 9614,
+       quote: [ 'Miles Davis varied his swing ratios, frequently delaying the first note of each pair of eighth notes by as much as 100 milliseconds and then synchronizing with the drummers short eighth note (the 3rd triplet).' ] } ] }

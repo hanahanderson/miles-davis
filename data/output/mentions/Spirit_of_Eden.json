@@ -1,0 +1,8 @@
+{ name: 'Spirit of Eden',
+  href: 'http://en.wikipedia.org/wiki/Spirit_of_Eden',
+  mentions: 
+   [ { sectionHeader: 'Background',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1437,
+       quote: [ 'From the start, Hollis cited jazz and classical artists like Miles Davis, John Coltrane, Béla Bartók and Claude Debussy as major influences.' ] } ] }

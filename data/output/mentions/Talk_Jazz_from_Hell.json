@@ -1,0 +1,8 @@
+{ name: 'Talk:Jazz from Hell',
+  href: 'http://en.wikipedia.org/wiki/Talk:Jazz_from_Hell',
+  mentions: 
+   [ { sectionHeader: 'Genre',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 2316,
+       quote: [ 'Jazz Rock doesn\'t fit either, as I wouldn\'t compare this to for example Bitches Brew by Miles Davis.' ] } ] }

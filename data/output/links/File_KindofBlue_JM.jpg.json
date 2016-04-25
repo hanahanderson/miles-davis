@@ -1,0 +1,12 @@
+{ name: 'File:KindofBlue JM.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:KindofBlue_JM.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '18817691 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '518640278 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:KindofBlue_JM.jpg?oldid=518640278',
+          href: 'http://en.wikipedia.org/wiki/File:KindofBlue_JM.jpg?oldid=518640278' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:KindofBlue_JM.jpg',
+          href: 'http://dbpedia.org/resource/File:KindofBlue_JM.jpg' } ] } }

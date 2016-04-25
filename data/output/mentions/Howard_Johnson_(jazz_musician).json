@@ -1,0 +1,8 @@
+{ name: 'Howard Johnson (jazz musician)',
+  href: 'http://en.wikipedia.org/wiki/Howard_Johnson_(jazz_musician)',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2542,
+       quote: [ 'Miles Davis: Miles & Quincy Live at Montreux (Warner, 1991)' ] } ] }

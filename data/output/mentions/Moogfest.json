@@ -1,0 +1,22 @@
+{ name: 'Moogfest',
+  href: 'http://en.wikipedia.org/wiki/Moogfest',
+  mentions: 
+   [ { sectionHeader: 'Festival history',
+       sectionSubHeader: '',
+       sectionIndex: 20,
+       wordCountBeforeSection: 6475,
+       quote: [ 'The Moogfest 2005 at B.B. King\'s on May 31, was a great success and saw the participation of Edgar Winter, Will Calhoun of Living Colour, Brazilian Girls, Jordan Rudess of Dram Theater, Frank Zappa\'s keyboardist Don Preston, Miles Davis\' keyboardist Adam Holzman, Money Mark of the Beastie Boys, Steve Molitz of Particle and DJ Logic, but not Bob Moog, who was sick and died from brain cancer on August 21, 2005.' ] },
+     { sectionHeader: 'Festival history',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 8024,
+       quote: 
+        [ 'I wanted to keep it pure." The Moogfest 2006 at B.B. King on Thursday, June 22, saw Keith Emerson returning to headline, together with Jan Hammer, Roger O\'Donnell of The Cure, Jordan Rudess of Dram Theater, The Mahavishnu Project with Miles Davis\' keyboardist Adam Holzman, The School of Rock, and DJ Logic.',
+          'The Moogfest 2007, once again at B.B. King on Saturday, September 22, included Thomas Dolby, after a 15-year hiatus from the music business, Jordan Rudess of Dram Theater, Miles Davis\' keyboardist Adam Holzman, Spiraling, Frank Zappa\'s keyboardist Don Preston, Gershon Kingsley, Herbert Deutsch, and Erik Norlander, among others.' ] },
+     { sectionHeader: 'Festival history',
+       sectionSubHeader: '',
+       sectionIndex: 21,
+       wordCountBeforeSection: 8024,
+       quote: 
+        [ 'I wanted to keep it pure." The Moogfest 2006 at B.B. King on Thursday, June 22, saw Keith Emerson returning to headline, together with Jan Hammer, Roger O\'Donnell of The Cure, Jordan Rudess of Dram Theater, The Mahavishnu Project with Miles Davis\' keyboardist Adam Holzman, The School of Rock, and DJ Logic.',
+          'The Moogfest 2007, once again at B.B. King on Saturday, September 22, included Thomas Dolby, after a 15-year hiatus from the music business, Jordan Rudess of Dram Theater, Miles Davis\' keyboardist Adam Holzman, Spiraling, Frank Zappa\'s keyboardist Don Preston, Gershon Kingsley, Herbert Deutsch, and Erik Norlander, among others.' ] } ] }

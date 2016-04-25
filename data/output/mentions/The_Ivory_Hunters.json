@@ -1,0 +1,8 @@
+{ name: 'The Ivory Hunters',
+  href: 'http://en.wikipedia.org/wiki/The_Ivory_Hunters',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 2279,
+       quote: [ 'Miles Davis' ] } ] }

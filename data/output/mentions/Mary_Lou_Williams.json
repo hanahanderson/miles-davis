@@ -1,0 +1,8 @@
+{ name: 'Mary Lou Williams',
+  href: 'http://en.wikipedia.org/wiki/Mary_Lou_Williams',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 536,
+       quote: [ 'Williams wrote and arranged for such bandleaders as Duke Ellington and Benny Goodman, and she was friend, mentor, and teacher to Thelonious Monk, Charlie Parker, Miles Davis, Tadd Dameron, Dizzy Gillespie, and many others.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Arts in Upstate New York',
+  href: 'http://en.wikipedia.org/wiki/Arts_in_Upstate_New_York',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 7035,
+       quote: [ 'Teo Macero, producer of the Miles Davis album, Kind of Blue, from Glens Falls' ] } ] }

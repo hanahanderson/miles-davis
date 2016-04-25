@@ -1,0 +1,27 @@
+{ name: 'May 1926',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/May_1926',
+  values: 
+   { 'dbo:abstract': [ { value: 'The following events occurred in May 1926: (en)' } ],
+     'dbo:wikiPageID': [ { value: '44930152 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678654967 (xsd:integer)' } ],
+     'dbp:month': [ { value: 'May (en)' } ],
+     'dbp:year': [ { value: '1926 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1926',
+          href: 'http://dbpedia.org/resource/Category:1926' },
+        { value: 'dbc:May',
+          href: 'http://dbpedia.org/resource/Category:May' },
+        { value: 'dbc:Months_in_the_1900s',
+          href: 'http://dbpedia.org/resource/Category:Months_in_the_1900s' } ],
+     'rdfs:comment': [ { value: 'The following events occurred in May 1926: (en)' } ],
+     'rdfs:label': [ { value: 'May 1926 (en)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:May_1926?oldid=678654967',
+          href: 'http://en.wikipedia.org/wiki/May_1926?oldid=678654967' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:May_1926',
+          href: 'http://en.wikipedia.org/wiki/May_1926' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:May_1926',
+          href: 'http://en.wikipedia.org/wiki/May_1926' } ] } }

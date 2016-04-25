@@ -1,0 +1,8 @@
+{ name: 'Graham Fitkin',
+  href: 'http://en.wikipedia.org/wiki/Graham_Fitkin',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1239,
+       quote: [ 'Fitkin lists his early classical influences as Igor Stravinsky, Anton Webern, Pierre Boulez and the American minimalist Steve Reich, and also acknowledges a broad range of influences outside the field of classical music, from jazz musicians Keith Jarrett, Muggsy Spanier and Miles Davis, and popular singer Frank Sinatra, to modern pop groups such as The Smiths, Wire and the Pet Shop Boys.' ] } ] }

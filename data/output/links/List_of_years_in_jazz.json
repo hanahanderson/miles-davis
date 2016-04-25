@@ -1,0 +1,4 @@
+{ name: 'List of years in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_years_in_jazz',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Michala Petri',
+  href: 'http://en.wikipedia.org/wiki/Michala_Petri',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 3921,
+       quote: [ 'Miles Davis (1984)' ] } ] }

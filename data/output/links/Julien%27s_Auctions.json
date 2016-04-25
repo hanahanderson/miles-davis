@@ -1,0 +1,43 @@
+{ name: 'Julien\'s Auctions',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Julien%27s_Auctions',
+  values: 
+   { 'dbo:abstract': [ { value: 'Julien\'s Auctions is an auction house in Los Angeles, California. The auction house deals with the sale of personal possessions owned by celebrities, including Marilyn Monroe, Elvis Presley and Michael Jackson. Julien\'s often sell obscure items, such as William Shatner\'s kidney stone, for thousands of dollars. The auctions attract hundreds of visitors, and many of their proceeds are donated to charity. The company\'s President and CEO is Darren Julien, a graduate of Reppert School of Auctioneering. The company is rated B- with the Better Business Bureau. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Guns_N_Roses_appetite...ions_Preview_2011-03-08.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Guns_N_Roses_appetite_for_destruction,_Juliens_Auctions_Preview_2011-03-08.jpg?width=300' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.juliensauctions.com/',
+          href: 'http://www.juliensauctions.com/' } ],
+     'dbo:wikiPageID': [ { value: '21987903 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '654935527 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:American_auction_houses',
+          href: 'http://dbpedia.org/resource/Category:American_auction_houses' } ],
+     'rdfs:comment': [ { value: 'Julien\'s Auctions is an auction house in Los Angeles, California. The auction house deals with the sale of personal possessions owned by celebrities, including Marilyn Monroe, Elvis Presley and Michael Jackson. Julien\'s often sell obscure items, such as William Shatner\'s kidney stone, for thousands of dollars. The auctions attract hundreds of visitors, and many of their proceeds are donated to charity. (en)' } ],
+     'rdfs:label': [ { value: 'Julien\'s Auctions (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Julien\'s Auctions',
+          href: 'http://rdf.freebase.com/ns/m.05p5gb0' },
+        { value: 'dbpedia-wikidata:Julien\'s Auctions',
+          href: 'http://wikidata.dbpedia.org/resource/Q6308617' },
+        { value: 'wikidata:Julien\'s Auctions',
+          href: 'http://www.wikidata.org/entity/Q6308617' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Julien\'s_Auctions?oldid=654935527',
+          href: 'http://en.wikipedia.org/wiki/Julien\'s_Auctions?oldid=654935527' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Guns_N_Roses_appetite...liens_Auctions_Preview_2011-03-08.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Guns_N_Roses_appetite_for_destruction,_Juliens_Auctions_Preview_2011-03-08.jpg' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.juliensauctions.com/',
+          href: 'http://www.juliensauctions.com/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Julien\'s_Auctions',
+          href: 'http://en.wikipedia.org/wiki/Julien\'s_Auctions' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Julien',
+          href: 'http://dbpedia.org/resource/Julien' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Julien\'s_Auctions',
+          href: 'http://en.wikipedia.org/wiki/Julien\'s_Auctions' } ] } }

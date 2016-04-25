@@ -1,0 +1,8 @@
+{ name: 'Clarence Tex Walker',
+  href: 'http://en.wikipedia.org/wiki/Clarence_Tex_Walker',
+  mentions: 
+   [ { sectionHeader: 'Vietnam to The Original Drifters',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1703,
+       quote: [ 'In , Walker appeared with the Drfters who worked in the same venues with Sammy Davis, Jr., Frank Sinatra, Dean Martin, Tony Bennett and many major rock, blues and jazz artists including: The Rolling Stones; The Beatles; B.B. King; Aretha Franklin; Louis Armstrong; Count Basie; Herbie Hancock; Miles Davis; Ray Charles and Nat King Cole.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Leonard Bernstein',
+  href: 'http://en.wikipedia.org/wiki/Leonard_Bernstein',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Other music',
+       sectionIndex: 142,
+       wordCountBeforeSection: 73047,
+       quote: [ 'Miles Davis (1984)' ] } ] }

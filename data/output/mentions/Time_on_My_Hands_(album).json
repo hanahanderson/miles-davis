@@ -1,0 +1,8 @@
+{ name: 'Time on My Hands (album)',
+  href: 'http://en.wikipedia.org/wiki/Time_on_My_Hands_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1056,
+       quote: [ 'Miles Davis' ] } ] }

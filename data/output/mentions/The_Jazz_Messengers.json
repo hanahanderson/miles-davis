@@ -1,0 +1,18 @@
+{ name: 'The Jazz Messengers',
+  href: 'http://en.wikipedia.org/wiki/The_Jazz_Messengers',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 6053,
+       quote: [ 'He was only 25, but had already recorded with Miles Davis and Charles Mingus.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 9291,
+       quote: [ 'In September 1964, Wayne Shorter left the Messengers to form Miles Davis\' Second Great Quintet.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 9291,
+       quote: [ 'In September 1964, Wayne Shorter left the Messengers to form Miles Davis\' Second Great Quintet.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:Rain-lola',
+  href: 'http://en.wikipedia.org/wiki/User:Rain-lola',
+  mentions: 
+   [ { sectionHeader: 'Make Art Not War',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 23,
+       quote: [ 'This user listens to Miles Davis.' ] } ] }

@@ -1,0 +1,101 @@
+{ name: 'Joe Williams Live',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Joe_Williams_Live',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '44.1' } ],
+     'dbo:abstract': [ { value: 'Joe Williams Live is a live album by Joe Williams featuring Cannonball Adderley\'s Septet recorded at  Fantasy Studios\' Studio "A" in front of a live audience and released on the Fantasy label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Joe_Williams_(jazz_singer)',
+          href: 'http://dbpedia.org/resource/Joe_Williams_(jazz_singer)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:With_Love_(Joe_Williams_album)',
+          href: 'http://dbpedia.org/resource/With_Love_(Joe_Williams_album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Nat_Adderley',
+          href: 'http://dbpedia.org/resource/Nat_Adderley' },
+        { value: 'dbr:David_Axelrod',
+          href: 'http://dbpedia.org/resource/David_Axelrod' } ],
+     'dbo:recordDate': [ { value: '1973-08-07 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Fantasy_Records',
+          href: 'http://dbpedia.org/resource/Fantasy_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Fantasy_Studios',
+          href: 'http://dbpedia.org/resource/Fantasy_Studios' } ],
+     'dbo:runtime': [ { value: '2646.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Nothin\'_but_the_Blues_(Joe_Williams_album)',
+          href: 'http://dbpedia.org/resource/Nothin\'_but_the_Blues_(Joe_Williams_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '44910159 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '655730102 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Joe_Williams_(jazz_singer)',
+          href: 'http://dbpedia.org/resource/Joe_Williams_(jazz_singer)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Joe_Williams_(jazz_singer)',
+          href: 'http://dbpedia.org/resource/Joe_Williams_(jazz_singer)' } ],
+     'dbp:cover': [ { value: 'Joe Williams Live.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': [ { value: 'Fantasy F 9441 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'With Love (en)' } ],
+     'dbp:length': [ { value: '2646.0' } ],
+     'dbp:name': [ { value: 'Joe Williams Live (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Nothin\' but the Blues (en)' } ],
+     'dbp:producer': [ { value: 'David Axelrod and Nat Adderley (en)' } ],
+     'dbp:recorded': [ { value: '--08-07' } ],
+     'dbp:released': [ { value: '1973 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Joe Williams Live (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1973_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1973_live_albums' },
+        { value: 'dbc:Joe_Williams_(jazz_singer)_albums',
+          href: 'http://dbpedia.org/resource/Category:Joe_Williams_(jazz_singer)_albums' },
+        { value: 'dbc:Fantasy_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Fantasy_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Joe Williams Live is a live album by Joe Williams featuring Cannonball Adderley\'s Septet recorded at  Fantasy Studios\' Studio "A" in front of a live audience and released on the Fantasy label. (en)' } ],
+     'rdfs:label': [ { value: 'Joe Williams Live (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Joe Williams Live',
+          href: 'http://rdf.freebase.com/ns/m.012k_29c' },
+        { value: 'dbpedia-wikidata:Joe Williams Live',
+          href: 'http://wikidata.dbpedia.org/resource/Q19893457' },
+        { value: 'wikidata:Joe Williams Live',
+          href: 'http://www.wikidata.org/entity/Q19893457' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Joe_Williams_Live?oldid=655730102',
+          href: 'http://en.wikipedia.org/wiki/Joe_Williams_Live?oldid=655730102' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Joe_Williams_Live',
+          href: 'http://en.wikipedia.org/wiki/Joe_Williams_Live' } ],
+     'foaf:name': [ { value: 'Joe Williams Live (en)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Joe_Williams_Live',
+          href: 'http://en.wikipedia.org/wiki/Joe_Williams_Live' } ] } }

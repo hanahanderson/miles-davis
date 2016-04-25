@@ -1,0 +1,8 @@
+{ name: 'Lorez Alexandria',
+  href: 'http://en.wikipedia.org/wiki/Lorez_Alexandria',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 17,
+       wordCountBeforeSection: 4338,
+       quote: [ 'Chambers and Cobb had stuck together in the same rhythm section since playing with Miles Davis on his classic 1959 album Kind of Blue.' ] } ] }

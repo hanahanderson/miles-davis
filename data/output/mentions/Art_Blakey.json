@@ -1,0 +1,8 @@
+{ name: 'Art Blakey',
+  href: 'http://en.wikipedia.org/wiki/Art_Blakey',
+  mentions: 
+   [ { sectionHeader: 'Childhood and early career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 3746,
+       quote: [ 'Through this band, Blakey became associated with the bebop movement, along with his fellow band members Miles Davis, Dexter Gordon, Fats Navarro, Dizzy Gillespie, Charlie Parker and Sarah Vaughan among others.' ] } ] }

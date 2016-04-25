@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:Version 0.5 FA Review',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:Version_0.5_FA_Review',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Damp (Norwegian band)',
+  href: 'http://en.wikipedia.org/wiki/Damp_(Norwegian_band)',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 625,
+       quote: [ 'Some musical influences worth mentioning are musicians like Bill Frisell, Miles Davis, Ornette Coleman and Albert Ayler.' ] } ] }

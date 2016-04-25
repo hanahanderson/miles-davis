@@ -1,0 +1,8 @@
+{ name: 'Donald Fagen',
+  href: 'http://en.wikipedia.org/wiki/Donald_Fagen',
+  mentions: 
+   [ { sectionHeader: 'Early life',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2345,
+       quote: [ 'Around age 11, after receiving musical recommendations from a cousin and attending the Newport Jazz Festival, he quickly became a self-declared "jazz snob". "I lost interest in rock \'n\' roll and started developing an anti-social personality." Fagen regularly took the bus to Manhattan to see Charles Mingus, Sonny Rollins, Thelonious Monk, and Miles Davis perform.' ] } ] }

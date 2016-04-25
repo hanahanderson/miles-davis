@@ -1,0 +1,8 @@
+{ name: 'Simon Rattle',
+  href: 'http://en.wikipedia.org/wiki/Simon_Rattle',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 49,
+       wordCountBeforeSection: 21535,
+       quote: [ 'Miles Davis (1984)' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'John Garcia Gensel',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/John_Garcia_Gensel',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'Mad Max: Fury Road',
+  href: 'http://en.wikipedia.org/wiki/Mad_Max:_Fury_Road',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Accolades',
+       sectionIndex: 76,
+       wordCountBeforeSection: 57515,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

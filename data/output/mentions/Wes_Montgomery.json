@@ -1,0 +1,8 @@
+{ name: 'Wes Montgomery',
+  href: 'http://en.wikipedia.org/wiki/Wes_Montgomery',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 2377,
+       quote: [ 'Montgomery recorded with his brothers and various other group members, including the Wynton Kelly Trio which previously backed up Miles Davis.' ] } ] }

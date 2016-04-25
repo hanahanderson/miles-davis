@@ -1,0 +1,8 @@
+{ name: 'Keystone Korner',
+  href: 'http://en.wikipedia.org/wiki/Keystone_Korner',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1715,
+       quote: [ 'Early gigs by men like Sonny Rollins and Art Blakey established the Keystone as one of the best jazz clubs in the nation—a reputation that continued to build as jazz legends like Miles Davis, McCoy Tyner, Bill Evans, and Stan Getz appeared on its stage.' ] } ] }

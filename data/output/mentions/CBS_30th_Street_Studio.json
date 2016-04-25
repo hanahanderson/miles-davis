@@ -1,0 +1,13 @@
+{ name: 'CBS 30th Street Studio',
+  href: 'http://en.wikipedia.org/wiki/CBS_30th_Street_Studio',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 272,
+       quote: [ 'Numerous recordings were made there in all genres, including Ray Conniff\'s \'s Wonderful (1956), Miles Davis\' Kind of Blue (1959), Leonard Bernstein\'s West Side Story (Original Broadway Cast recording, 1957), Percy Faith\'s Theme from A Summer Place (1960), and Pink Floyd\'s The Wall (1979).' ] },
+     { sectionHeader: 'Musical artists',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 3214,
+       quote: [ 'Jazz trumpeter Miles Davis recorded almost exclusively at the 30th Street Studio during his years under contract to Columbia, including his album Kind of Blue (1959).' ] } ] }

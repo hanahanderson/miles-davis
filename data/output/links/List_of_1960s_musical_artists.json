@@ -1,0 +1,41 @@
+{ name: 'List of 1960s musical artists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_1960s_musical_artists',
+  values: 
+   { 'dbo:abstract': [ { value: 'A list of musical groups and artists who were active in the 1960s and associated with music in the decade: (en)' } ],
+     'dbo:wikiPageID': [ { value: '42826231 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683341791 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_musicians_by_decade',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_musicians_by_decade' },
+        { value: 'dbc:1960s_in_music',
+          href: 'http://dbpedia.org/resource/Category:1960s_in_music' },
+        { value: 'dbc:Music-related_lists',
+          href: 'http://dbpedia.org/resource/Category:Music-related_lists' },
+        { value: 'dbc:Rock_music',
+          href: 'http://dbpedia.org/resource/Category:Rock_music' } ],
+     'rdfs:comment': [ { value: 'A list of musical groups and artists who were active in the 1960s and associated with music in the decade: (en)' } ],
+     'rdfs:label': [ { value: 'List of 1960s musical artists (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of 1960s musical artists',
+          href: 'http://wikidata.dbpedia.org/resource/Q17002697' },
+        { value: 'wikidata:List of 1960s musical artists',
+          href: 'http://www.wikidata.org/entity/Q17002697' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_1960s_musical_artists?oldid=683341791',
+          href: 'http://en.wikipedia.org/wiki/List_of_1960s_musical_artists?oldid=683341791' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_1960s_musical_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_1960s_musical_artists' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:1960s_music_groups',
+          href: 'http://dbpedia.org/resource/1960s_music_groups' },
+        { value: 'dbr:60s_music_groups',
+          href: 'http://dbpedia.org/resource/60s_music_groups' },
+        { value: 'dbr:List_of_1960s_music_groups',
+          href: 'http://dbpedia.org/resource/List_of_1960s_music_groups' },
+        { value: 'dbr:List_of_1960s_musical_groups',
+          href: 'http://dbpedia.org/resource/List_of_1960s_musical_groups' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_1960s_musical_artists',
+          href: 'http://en.wikipedia.org/wiki/List_of_1960s_musical_artists' } ] } }

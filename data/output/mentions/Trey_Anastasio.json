@@ -1,0 +1,8 @@
+{ name: 'Trey Anastasio',
+  href: 'http://en.wikipedia.org/wiki/Trey_Anastasio',
+  mentions: 
+   [ { sectionHeader: 'Composition work',
+       sectionSubHeader: 'Phish-related projects',
+       sectionIndex: 43,
+       wordCountBeforeSection: 18492,
+       quote: [ 'Anastasio employs modal improvisation, first made popular by Miles Davis in the late 50’s/early 60’s.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Metro East',
+  href: 'http://en.wikipedia.org/wiki/Metro_East',
+  mentions: 
+   [ { sectionHeader: 'Residents, historic figures, and contributors',
+       sectionSubHeader: 'Light rail',
+       sectionIndex: 46,
+       wordCountBeforeSection: 7665,
+       quote: [ 'Miles Davis, East St.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:0.7/0.7geo/United States',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:0.7/0.7geo/United_States',
+  mentions: 
+   [ { sectionHeader: 'Arts, language, and literature',
+       sectionSubHeader: '',
+       sectionIndex: 78,
+       wordCountBeforeSection: 45013,
+       quote: [ 'Smith ·  Michelle Kwan ·  Michelle Pfeiffer ·  Michigan State Capitol ·  Mick Jagger ·  Mickey Mouse ·  Mike Myers (actor) ·  Mike Patton ·  Mike Shinoda ·  Mikhail Baryshnikov ·  Mila Kunis ·  Miles Davis ·  Miley Cyrus ·  Milla Jovovich ·  Million Dollar Baby ·  Ministry (band) ·  Minor Threat ·  Minority Report (film) ·  Misfits (band) ·  Misson: Impossible (film) ·  Misson: Impossible III ·  Miss Elliott ·  Moby ·  Moby-Dick' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 174,
+       wordCountBeforeSection: 89118,
+       quote: [ 'Smith ·  Michel Foucault ·  Michelle Kwan ·  Michelle Obama ·  Michelle Pfeiffer ·  Mick Foley ·  Mick Jagger ·  Mickey Mantle ·  Mickie James ·  Mike Gravel ·  Mike Huckabee ·  Mike Myers (actor) ·  Mike Patton ·  Mike Shinoda ·  Mike Tyson ·  Mikhail Baryshnikov ·  Mikheil Saakashvili ·  Mila Kunis ·  Miles Davis ·  Miley Cyrus ·  Milla Jovovich ·  Millard Fillmore ·  Milton Friedman ·  Ministry (band)' ] } ] }

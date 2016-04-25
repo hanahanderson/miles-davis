@@ -1,0 +1,8 @@
+{ name: 'Quincy Jones production discography',
+  href: 'http://en.wikipedia.org/wiki/Quincy_Jones_production_discography',
+  mentions: 
+   [ { sectionHeader: 'Albums',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1477,
+       quote: [ 'Miles & Quincy Live at Montreux\n(with Miles Davis)' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Michael Oliva',
+  href: 'http://en.wikipedia.org/wiki/Michael_Oliva',
+  mentions: 
+   [ { sectionHeader: 'Musical style',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2053,
+       quote: [ 'Oliva’s music draws on a wide range of inspirations, from Scriabin, Stockhausen, Takemitsu, Brian Eno, Miles Davis to spectralism.' ] } ] }

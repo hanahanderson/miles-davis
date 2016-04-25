@@ -1,0 +1,13 @@
+{ name: 'User:The Little Blue Frog',
+  href: 'http://en.wikipedia.org/wiki/User:The_Little_Blue_Frog',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '"The Little Blue Frog" is a jazz-funk fusion piece written by trumpeter Miles Davis.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [] } ] }

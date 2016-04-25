@@ -1,0 +1,8 @@
+{ name: 'Bob Cato',
+  href: 'http://en.wikipedia.org/wiki/Bob_Cato',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1209,
+       quote: [ 'During the next 20 years, he designed and oversaw hundreds of albums for dozens of artists, forging lasting relationships with many, including The Band, Johnny Cash, Miles Davis, Bob Dylan, George Harrison, Janis Joplin and Van Morrison.' ] } ] }

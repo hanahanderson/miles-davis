@@ -1,0 +1,8 @@
+{ name: 'La Santa Cecilia',
+  href: 'http://en.wikipedia.org/wiki/La_Santa_Cecilia',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 568,
+       quote: [ 'Influential artists include Janis Joplin, Led Zeppelin, Miles Davis, Mercedes Sosa, and Ramon Ayala.' ] } ] }

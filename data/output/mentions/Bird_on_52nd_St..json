@@ -1,0 +1,8 @@
+{ name: 'Bird on 52nd St.',
+  href: 'http://en.wikipedia.org/wiki/Bird_on_52nd_St.',
+  mentions: 
+   [ { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 1288,
+       quote: [ 'Miles Davis - trumpet' ] } ] }

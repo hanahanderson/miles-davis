@@ -1,0 +1,8 @@
+{ name: 'User:Firstmilast',
+  href: 'http://en.wikipedia.org/wiki/User:Firstmilast',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Mark Elliott is a long-time academic library employee in Richmond, Virginia with broad interests across the humanities, including the recording career of Miles Davis, the defunct Scholastic, Inc.' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Bob Belden',
+  href: 'http://en.wikipedia.org/wiki/Bob_Belden',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 579,
+       quote: [ 'As producer he is mostly associated with the seminal reissue of the recordings by Miles Davis for Columbia Records.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1322,
+       quote: [ 'In 2008, he arranged and produced Miles from India, a world fusion music recording based on the compositions of Miles Davis for which he assembled a group made up of Davis alumni and musicians from India.' ] } ] }

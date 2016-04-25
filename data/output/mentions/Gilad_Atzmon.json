@@ -1,0 +1,8 @@
+{ name: 'Gilad Atzmon',
+  href: 'http://en.wikipedia.org/wiki/Gilad_Atzmon',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 2435,
+       quote: [ 'Atzmon\'s jazz style has been described as bebop/hard bop, with forays into free jazz and swing, and seemingly inspired by John Coltrane and Miles Davis.' ] } ] }

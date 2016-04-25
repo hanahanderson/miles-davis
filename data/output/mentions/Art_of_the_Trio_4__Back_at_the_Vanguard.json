@@ -1,0 +1,8 @@
+{ name: 'Art of the Trio 4: Back at the Vanguard',
+  href: 'http://en.wikipedia.org/wiki/Art_of_the_Trio_4:_Back_at_the_Vanguard',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1583,
+       quote: [ '"Solar" (Miles Davis) - 9:54' ] } ] }

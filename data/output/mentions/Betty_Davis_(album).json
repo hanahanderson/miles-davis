@@ -1,0 +1,8 @@
+{ name: 'Betty Davis (album)',
+  href: 'http://en.wikipedia.org/wiki/Betty_Davis_(album)',
+  mentions: 
+   [ { sectionHeader: 'Content',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1129,
+       quote: [ 'Before the album\'s release, Davis was best known as the second wife of jazz trumpeter Miles Davis, and also as the featured model on the front cover of the jazz legend\'s 1968 album Filles de Kilimanjaro.' ] } ] }

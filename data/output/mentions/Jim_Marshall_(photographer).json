@@ -1,0 +1,8 @@
+{ name: 'Jim Marshall (photographer)',
+  href: 'http://en.wikipedia.org/wiki/Jim_Marshall_(photographer)',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2297,
+       quote: [ 'Marshall also photographed other musical greats such as Thelonious Monk, John Coltrane, Miles Davis and Ray Charles.' ] } ] }

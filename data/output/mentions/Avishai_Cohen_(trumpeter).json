@@ -1,0 +1,8 @@
+{ name: 'Avishai Cohen (trumpeter)',
+  href: 'http://en.wikipedia.org/wiki/Avishai_Cohen_(trumpeter)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1253,
+       quote: [ 'Avishai has stated that he was very heavily influenced by Miles Davis.' ] } ] }

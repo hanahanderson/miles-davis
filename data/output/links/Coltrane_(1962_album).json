@@ -1,0 +1,123 @@
+{ name: 'Coltrane (1962 album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Coltrane_(1962_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '39.916666666666664' } ],
+     'dbo:abstract': [ { value: 'Coltrane is a 1962 studio album by jazz saxophonist John Coltrane. When reissued on CD, it featured a Coltrane composition dedicated to his hero "Big Nick" Nicholas which Coltrane would record later the same year with his Ellington collaboration Duke Ellington & John Coltrane. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Modal_jazz',
+          href: 'http://dbpedia.org/resource/Modal_jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Coltrane_"Live"_at_the_Village_Vanguard',
+          href: 'http://dbpedia.org/resource/Coltrane_%22Live%22_at_the_Village_Vanguard' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Thiele',
+          href: 'http://dbpedia.org/resource/Bob_Thiele' } ],
+     'dbo:recordDate': [ { value: '0020-06-19 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Impulse!_Records',
+          href: 'http://dbpedia.org/resource/Impulse!_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' },
+        { value: 'dbr:Englewood_Cliffs,_New_Jersey',
+          href: 'http://dbpedia.org/resource/Englewood_Cliffs,_New_Jersey' } ],
+     'dbo:runtime': [ { value: '2395.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Duke_Ellington_&_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Duke_Ellington_&_John_Coltrane' } ],
+     'dbo:wikiPageID': [ { value: '9745161 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678346319 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:John_Coltrane',
+          href: 'http://dbpedia.org/resource/John_Coltrane' } ],
+     'dbp:cover': [ { value: 'Coltrane Impulse cover.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Modal_jazz',
+          href: 'http://dbpedia.org/resource/Modal_jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Impulse!_Records',
+          href: 'http://dbpedia.org/resource/Impulse!_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Live! at the Village Vanguard (en)' } ],
+     'dbp:length': [ { value: '2395.0' } ],
+     'dbp:name': [ { value: 'Coltrane (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Duke Ellington & John Coltrane (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Thiele',
+          href: 'http://dbpedia.org/resource/Bob_Thiele' } ],
+     'dbp:recorded': [ { value: '--04-11' } ],
+     'dbp:released': [ { value: 'August 1962 (en)' } ],
+     'dbp:rev': 
+      [ { value: 'Down Beat (en)' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' },
+        { value: 'The Penguin Guide to Jazz (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Coltrane (en)' } ],
+     'dbp:type': [ { value: 'studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_produced_by_Bob_Thiele',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Thiele' },
+        { value: 'dbc:1962_albums',
+          href: 'http://dbpedia.org/resource/Category:1962_albums' },
+        { value: 'dbc:John_Coltrane_albums',
+          href: 'http://dbpedia.org/resource/Category:John_Coltrane_albums' },
+        { value: 'dbc:Impulse!_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Impulse!_Records_albums' },
+        { value: 'dbc:Modal_jazz_albums',
+          href: 'http://dbpedia.org/resource/Category:Modal_jazz_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Coltrane is a 1962 studio album by jazz saxophonist John Coltrane. When reissued on CD, it featured a Coltrane composition dedicated to his hero "Big Nick" Nicholas which Coltrane would record later the same year with his Ellington collaboration Duke Ellington & John Coltrane. (en)' } ],
+     'rdfs:label': [ { value: 'Coltrane (1962 album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Coltrane (1962 album)',
+          href: 'http://rdf.freebase.com/ns/m.01jf58s' },
+        { value: 'dbpedia-de:Coltrane (1962 album)',
+          href: 'http://de.dbpedia.org/resource/Coltrane_(Album)' },
+        { value: 'dbpedia-it:Coltrane (1962 album)',
+          href: 'http://it.dbpedia.org/resource/Coltrane_(album_1962)' },
+        { value: 'dbpedia-pl:Coltrane (1962 album)',
+          href: 'http://pl.dbpedia.org/resource/Coltrane_(Impulse!_album)' },
+        { value: 'dbpedia-pt:Coltrane (1962 album)',
+          href: 'http://pt.dbpedia.org/resource/Coltrane_(álbum_de_1962)' },
+        { value: 'dbpedia-wikidata:Coltrane (1962 album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q1112189' },
+        { value: 'wikidata:Coltrane (1962 album)',
+          href: 'http://www.wikidata.org/entity/Q1112189' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Coltrane_(1962_album)?oldid=678346319',
+          href: 'http://en.wikipedia.org/wiki/Coltrane_(1962_album)?oldid=678346319' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Coltrane_(1962_album)',
+          href: 'http://en.wikipedia.org/wiki/Coltrane_(1962_album)' } ],
+     'foaf:name': [ { value: 'Coltrane (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Coltrane_"Live"_at_the_Village_Vanguard',
+          href: 'http://dbpedia.org/resource/Coltrane_%22Live%22_at_the_Village_Vanguard' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Coltrane_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Coltrane_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Coltrane_(Impulse!_album)',
+          href: 'http://dbpedia.org/resource/Coltrane_(Impulse!_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Coltrane_(1962_album)',
+          href: 'http://en.wikipedia.org/wiki/Coltrane_(1962_album)' } ] } }

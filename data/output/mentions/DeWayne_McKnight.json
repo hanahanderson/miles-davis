@@ -1,0 +1,8 @@
+{ name: 'DeWayne McKnight',
+  href: 'http://en.wikipedia.org/wiki/DeWayne_McKnight',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 741,
+       quote: [ 'He also played briefly with Miles Davis in 1986.' ] } ] }

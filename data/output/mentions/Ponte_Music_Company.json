@@ -1,0 +1,13 @@
+{ name: 'Ponte Music Company',
+  href: 'http://en.wikipedia.org/wiki/Ponte_Music_Company',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'He played with or was a friend of Lester Young, Sonny Rollins, Miles Davis, Harold Gomberg, Samuel Baron and dozens more of the worlds finest musicians from all genres.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Look for his credits everywhere from Sinatra to Steely Dan including notable jazz gigs with Benny Goodman (1955), the Gil Evans Orchestra with Miles Davis (1958), Oliver Nelson (1962), J.J. Johnson (1965–68) and Bill Evans (1974).' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Talk:Brian Eno/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:Brian_Eno/Archive_1',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 0,
+       quote: [ '11 Sourced Miles Davis influence reverted: wiki-stalking?' ] },
+     { sectionHeader: 'Sourced Miles Davis influence reverted: wiki-stalking?',
+       sectionSubHeader: '',
+       sectionIndex: 45,
+       wordCountBeforeSection: 8880,
+       quote: [ 'In 1981, back from Ghana and before On Land, he discovers Miles Davis\' 1974 ambient jazz dirge "He Loved Him Madly": "Teo Macero\'s revolutionary production on that piece seemed to me to have the "spacious" quality I was after, and like "Amarcord", it too became a touchstone to which I returned frequently." ' ] } ] }

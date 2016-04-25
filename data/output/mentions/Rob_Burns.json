@@ -1,0 +1,8 @@
+{ name: 'Rob Burns',
+  href: 'http://en.wikipedia.org/wiki/Rob_Burns',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1954,
+       quote: [ 'Live performances and touring continued with jazz trumpeter Ian Carr (author of biographies of Miles Davis and Keith Jarrett) as a member of Carr\'s band, Nucleus, and an appearance in 1981 with Morrissey-Mullen.' ] } ] }

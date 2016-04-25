@@ -1,0 +1,8 @@
+{ name: 'Bird Gets the Worm',
+  href: 'http://en.wikipedia.org/wiki/Bird_Gets_the_Worm',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This composition appears on Cool Bird, a compilation of 1947 recordings featuring Bird accompanied by Miles Davis (trumpet), Duke Jordan (piano), Tommy Potter (bass) and Max Roach (drums), all of whom have a solo on this track.' ] } ] }

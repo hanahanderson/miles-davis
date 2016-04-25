@@ -1,0 +1,8 @@
+{ name: 'Gil Mellé',
+  href: 'http://en.wikipedia.org/wiki/Gil_Mell%C3%A9',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 129,
+       quote: [ 'In the 1950s, Mellé\'s paintings and sculptures were shown in New York galleries and he created the cover art for albums by Miles Davis, Thelonious Monk and Sonny Rollins.' ] } ] }

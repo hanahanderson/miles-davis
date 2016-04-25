@@ -1,0 +1,99 @@
+{ name: 'Good Vibes (Johnny Lytle album)',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/Good_Vibes_(Johnny_Lytle_album)',
+  values: 
+   { 'dbo:abstract': [ { value: 'Good Vibes is an album by American jazz vibraphonist Johnny Lytle which was recorded in 1981 for the Muse label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Johnny_Lytle',
+          href: 'http://dbpedia.org/resource/Johnny_Lytle' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Fast_Hands',
+          href: 'http://dbpedia.org/resource/Fast_Hands' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Houston_Person',
+          href: 'http://dbpedia.org/resource/Houston_Person' } ],
+     'dbo:recordDate': [ { value: '1981-10-08 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Happy_Ground_(album)',
+          href: 'http://dbpedia.org/resource/Happy_Ground_(album)' } ],
+     'dbo:wikiPageID': [ { value: '46809776 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '664204361 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Johnny_Lytle',
+          href: 'http://dbpedia.org/resource/Johnny_Lytle' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Johnny_Lytle',
+          href: 'http://dbpedia.org/resource/Johnny_Lytle' } ],
+     'dbp:cover': [ { value: 'Good Vibes .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Muse_Records',
+          href: 'http://dbpedia.org/resource/Muse_Records' },
+        { value: 'MR 5271 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Fast Hands (en)' } ],
+     'dbp:name': [ { value: 'Good Vibes (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Happy Ground (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Houston_Person',
+          href: 'http://dbpedia.org/resource/Houston_Person' } ],
+     'dbp:recorded': 
+      [ { value: '1981-10-08 (xsd:date)' },
+        { value: 'Brooklyn, New York (en)' } ],
+     'dbp:released': [ { value: '1982 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Good Vibes (en)' } ],
+     'dbp:type': [ { value: 'Studio (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1982_albums',
+          href: 'http://dbpedia.org/resource/Category:1982_albums' },
+        { value: 'dbc:Muse_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Muse_Records_albums' },
+        { value: 'dbc:Johnny_Lytle_albums',
+          href: 'http://dbpedia.org/resource/Category:Johnny_Lytle_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Good Vibes is an album by American jazz vibraphonist Johnny Lytle which was recorded in 1981 for the Muse label. (en)' } ],
+     'rdfs:label': [ { value: 'Good Vibes (Johnny Lytle album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Good Vibes (Johnny Lytle album)',
+          href: 'http://rdf.freebase.com/ns/m.0139ymkn' },
+        { value: 'wikidata:Good Vibes (Johnny Lytle album)',
+          href: 'http://www.wikidata.org/entity/Q20687114' },
+        { value: 'dbpedia-wikidata:Good Vibes (Johnny Lytle album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q20687114' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Good_Vibes_(Johnny_Lytle_album)?oldid=664204361',
+          href: 'http://en.wikipedia.org/wiki/Good_Vibes_(Johnny_Lytle_album)?oldid=664204361' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Good_Vibes_(Johnny_Lytle_album)',
+          href: 'http://en.wikipedia.org/wiki/Good_Vibes_(Johnny_Lytle_album)' } ],
+     'foaf:name': [ { value: 'Good Vibes (en)' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Fast_Hands',
+          href: 'http://dbpedia.org/resource/Fast_Hands' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Good_Vibes_(Johnny_Lytle_album)',
+          href: 'http://en.wikipedia.org/wiki/Good_Vibes_(Johnny_Lytle_album)' } ] } }

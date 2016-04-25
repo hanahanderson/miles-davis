@@ -1,0 +1,38 @@
+{ name: '1991 in jazz',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/1991_in_jazz',
+  values: 
+   { 'dbo:abstract': [ { value: '1991 in jazz: (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/CarlsbergBandJazzfest91.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/CarlsbergBandJazzfest91.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '25655036 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '604191681 (xsd:integer)' } ],
+     'dbp:afteryear': [ { value: '1992 (xsd:integer)' } ],
+     'dbp:caption': [ { value: 'New Orleans Jazz Fest 1991. Carlsberg Brass Band (en)' } ],
+     'dbp:prioryear': [ { value: '1990 (xsd:integer)' } ],
+     'dbp:standards': [ { value: 'post-1950 (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1991_in_music',
+          href: 'http://dbpedia.org/resource/Category:1991_in_music' },
+        { value: 'dbc:Years_in_jazz',
+          href: 'http://dbpedia.org/resource/Category:Years_in_jazz' } ],
+     'rdfs:comment': [ { value: '1991 in jazz: (en)' } ],
+     'rdfs:label': [ { value: '1991 in jazz (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:1991 in jazz',
+          href: 'http://wikidata.dbpedia.org/resource/Q4587280' },
+        { value: 'wikidata:1991 in jazz',
+          href: 'http://www.wikidata.org/entity/Q4587280' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:1991_in_jazz?oldid=604191681',
+          href: 'http://en.wikipedia.org/wiki/1991_in_jazz?oldid=604191681' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/CarlsbergBandJazzfest91.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/CarlsbergBandJazzfest91.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:1991_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1991_in_jazz' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:1991_in_jazz',
+          href: 'http://en.wikipedia.org/wiki/1991_in_jazz' } ] } }

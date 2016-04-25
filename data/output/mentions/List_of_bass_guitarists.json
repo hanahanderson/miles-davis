@@ -1,0 +1,18 @@
+{ name: 'List of bass guitarists',
+  href: 'http://en.wikipedia.org/wiki/List_of_bass_guitarists',
+  mentions: 
+   [ { sectionHeader: 'B',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2589,
+       quote: [ 'Carles Benavent (Paco de Lucía, Chick Corea, Miles Davis)' ] },
+     { sectionHeader: 'B',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2589,
+       quote: [ 'Harvey Brooks (Miles Davis, Bob Dylan, The Doors, Mike Bloomfield)' ] },
+     { sectionHeader: 'M',
+       sectionSubHeader: '',
+       sectionIndex: 36,
+       wordCountBeforeSection: 22496,
+       quote: [ 'Marcus Miller (Miles Davis, David Sanborn)' ] } ] }

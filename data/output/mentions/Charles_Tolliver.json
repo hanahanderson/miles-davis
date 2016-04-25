@@ -1,0 +1,8 @@
+{ name: 'Charles Tolliver',
+  href: 'http://en.wikipedia.org/wiki/Charles_Tolliver',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 1232,
+       quote: [] } ] }

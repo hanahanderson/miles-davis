@@ -1,0 +1,8 @@
+{ name: 'Drop Trio',
+  href: 'http://en.wikipedia.org/wiki/Drop_Trio',
+  mentions: 
+   [ { sectionHeader: 'Influences',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 4802,
+       quote: [ 'They cite jazz and funk influences such as Bill Evans, Art Tatum, Miles Davis, Medeski Martin & Wood, The Meters, Galactic, Horacio Hernandez, and also influences from the rock genre such as Yes, Rush, Primus, King Crimson and The Beatles.' ] } ] }

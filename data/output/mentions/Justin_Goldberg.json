@@ -1,0 +1,8 @@
+{ name: 'Justin Goldberg',
+  href: 'http://en.wikipedia.org/wiki/Justin_Goldberg',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3315,
+       quote: [ 'Goldberg\'s father, New York City based attorney Jay Goldberg, introduced him to clients in his youth such as Miles Davis, Willie Nelson and Waylon Jennings, who encouraged his interest in the music industry and helped produce his demo tapes.' ] } ] }

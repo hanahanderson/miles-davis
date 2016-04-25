@@ -1,0 +1,8 @@
+{ name: 'Olympia (Paris)',
+  href: 'http://en.wikipedia.org/wiki/Olympia_(Paris)',
+  mentions: 
+   [ { sectionHeader: 'Performers',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 3787,
+       quote: [ 'International stars have included The Beach Boys, The Beatles, Judy Garland, Miles Davis, Jimi Hendrix, Umm Kulthum, Nancy Ajram, Tina Turner, Madonna, Ray Charles, Janet Jackson, Björk, Abdel Halim Hafez, Fairuz, The Jackson 5, Jorge Ben, Maysa, Liza Minnelli, Lara Fabian, Lluís Llach, Amália Rodrigues, Josephine Baker, Celine Dion, Cher, Diana Ross & The Supremes, Nelly Furtado, Tony Carreira, Evanescence, Arctic Monkeys, Lana Del Rey, James Brown & Ahlam, Tereza Kesovija among many others.' ] } ] }

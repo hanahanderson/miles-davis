@@ -1,0 +1,8 @@
+{ name: 'Herbie Phillips',
+  href: 'http://en.wikipedia.org/wiki/Herbie_Phillips',
+  mentions: 
+   [ { sectionHeader: 'Compositions and arrangements',
+       sectionSubHeader: 'Recorded and released posthumously',
+       sectionIndex: 33,
+       wordCountBeforeSection: 10123,
+       quote: [] } ] }

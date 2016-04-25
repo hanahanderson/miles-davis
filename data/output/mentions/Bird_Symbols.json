@@ -1,0 +1,8 @@
+{ name: 'Bird Symbols',
+  href: 'http://en.wikipedia.org/wiki/Bird_Symbols',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 554,
+       quote: [ 'Tracks 1–4: Charlie Parker, alto sax; Miles Davis, trumpet; Lucky Thompson, tenor sax; Dodo Marmarosa, piano; Arvin Garrison, guitar; Vic McMillan, bass; Roy Porter, drums—28 March 1946, Hollywood.' ] } ] }

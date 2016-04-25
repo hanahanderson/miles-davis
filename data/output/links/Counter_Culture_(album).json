@@ -1,0 +1,119 @@
+{ name: 'Counter Culture (album)',
+  entityType: 'Compilation album',
+  href: 'http://dbpedia.org/page/Counter_Culture_(album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '0.1' } ],
+     'dbo:abstract': [ { value: 'Counter Culture is a 2005 compilation double album by English folk/rock singer-songwriter Roy Harper featuring 25 classic Roy Harper songs, cherry picked according to his mood in April 2005. This collection spans 35 years of song writing and is intended as an introduction for anyone who\'s not sure where to start with Harper\'s music. This compilation features a number of guest musicians, including; Jimmy Page, Bill Bruford, Ronnie Lane, David Gilmour, Kate Bush and Nick Harper. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Roy_Harper',
+          href: 'http://dbpedia.org/resource/Roy_Harper' } ],
+     'dbo:genre': 
+      [ { value: 'dbr:Folk_music',
+          href: 'http://dbpedia.org/resource/Folk_music' },
+        { value: 'dbr:Rock_music',
+          href: 'http://dbpedia.org/resource/Rock_music' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Today_Is_Yesterday',
+          href: 'http://dbpedia.org/resource/Today_Is_Yesterday' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Roy_Harper',
+          href: 'http://dbpedia.org/resource/Roy_Harper' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Science_Friction',
+          href: 'http://dbpedia.org/resource/Science_Friction' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Ireland',
+          href: 'http://dbpedia.org/resource/Ireland' } ],
+     'dbo:runtime': [ { value: '6.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:From_Occident_to_Orient',
+          href: 'http://dbpedia.org/resource/From_Occident_to_Orient' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Compilation_album',
+          href: 'http://dbpedia.org/resource/Compilation_album' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://www.royharper.com/',
+          href: 'http://www.royharper.com/' },
+        { value: 'http://www.iki.fi/musicnaut/royharper.html',
+          href: 'http://www.iki.fi/musicnaut/royharper.html' } ],
+     'dbo:wikiPageID': [ { value: '5266617 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '639512143 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Roy_Harper',
+          href: 'http://dbpedia.org/resource/Roy_Harper' } ],
+     'dbp:cover': [ { value: 'Roy_Harpers_Counter_Culture.jpg (en)' } ],
+     'dbp:genre': 
+      [ { value: 'dbr:Folk_music',
+          href: 'http://dbpedia.org/resource/Folk_music' },
+        { value: 'dbr:Rock_music',
+          href: 'http://dbpedia.org/resource/Rock_music' } ],
+     'dbp:label': [ { value: 'Science Friction HUCD039 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Today Is Yesterday (en)' } ],
+     'dbp:length': [ { value: 'Disc.1 76:17 Disc.2 73:38 (en)' } ],
+     'dbp:name': [ { value: 'Counter Culture (en)' } ],
+     'dbp:nextAlbum': [ { value: 'From Occident to Orient (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Roy_Harper',
+          href: 'http://dbpedia.org/resource/Roy_Harper' } ],
+     'dbp:recorded': 
+      [ { value: 'dbr:Ireland',
+          href: 'http://dbpedia.org/resource/Ireland' } ],
+     'dbp:released': [ { value: '2005 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Counter Culture (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Compilation_album',
+          href: 'http://dbpedia.org/resource/Compilation_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:2005_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:2005_compilation_albums' },
+        { value: 'dbc:Roy_Harper_compilation_albums',
+          href: 'http://dbpedia.org/resource/Category:Roy_Harper_compilation_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Counter Culture is a 2005 compilation double album by English folk/rock singer-songwriter Roy Harper featuring 25 classic Roy Harper songs, cherry picked according to his mood in April 2005. This collection spans 35 years of song writing and is intended as an introduction for anyone who\'s not sure where to start with Harper\'s music. This compilation features a number of guest musicians, including; Jimmy Page, Bill Bruford, Ronnie Lane, David Gilmour, Kate Bush and Nick Harper. (en)' } ],
+     'rdfs:label': [ { value: 'Counter Culture (album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Counter Culture (album)',
+          href: 'http://rdf.freebase.com/ns/m.0dbnr9' },
+        { value: 'dbpedia-wikidata:Counter Culture (album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q5176912' },
+        { value: 'wikidata:Counter Culture (album)',
+          href: 'http://www.wikidata.org/entity/Q5176912' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Counter_Culture_(album)?oldid=639512143',
+          href: 'http://en.wikipedia.org/wiki/Counter_Culture_(album)?oldid=639512143' } ],
+     'foaf:homepage': 
+      [ { value: 'http://www.royharper.com/',
+          href: 'http://www.royharper.com/' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Counter_Culture_(album)',
+          href: 'http://en.wikipedia.org/wiki/Counter_Culture_(album)' } ],
+     'foaf:name': [ { value: 'Counter Culture (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:From_Occident_to_Orient',
+          href: 'http://dbpedia.org/resource/From_Occident_to_Orient' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Today_Is_Yesterday',
+          href: 'http://dbpedia.org/resource/Today_Is_Yesterday' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Counter_Culture',
+          href: 'http://dbpedia.org/resource/Counter_Culture' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Counter_Culture_(album)',
+          href: 'http://en.wikipedia.org/wiki/Counter_Culture_(album)' } ] } }

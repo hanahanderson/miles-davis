@@ -1,0 +1,8 @@
+{ name: 'The Chant (album)',
+  href: 'http://en.wikipedia.org/wiki/The_Chant_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 732,
+       quote: [ '"Four" (Miles Davis) - 4:23' ] } ] }

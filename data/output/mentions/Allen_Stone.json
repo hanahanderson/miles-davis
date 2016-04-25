@@ -1,0 +1,8 @@
+{ name: 'Allen Stone',
+  href: 'http://en.wikipedia.org/wiki/Allen_Stone',
+  mentions: 
+   [ { sectionHeader: 'Career',
+       sectionSubHeader: '',
+       sectionIndex: 15,
+       wordCountBeforeSection: 3062,
+       quote: [ 'On this album, he was backed by Raphael Saadiq\'s rhythm section and Miles Davis\' keyboardist Deron Johnson.' ] } ] }

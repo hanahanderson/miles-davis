@@ -1,0 +1,13 @@
+{ name: 'Talk:Earl Hines',
+  href: 'http://en.wikipedia.org/wiki/Talk:Earl_Hines',
+  mentions: 
+   [ { sectionHeader: 'More sources',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 15330,
+       quote: [ 'Oh, and BTW, the only articles about jazz musicians that are featured articles at this point are Louis Armstrong and Miles Davis.' ] },
+     { sectionHeader: 'Pretty much "there" now?',
+       sectionSubHeader: '',
+       sectionIndex: 136,
+       wordCountBeforeSection: 59861,
+       quote: [ 'Louis Armstrong and Miles Davis are featured articles.' ] } ] }

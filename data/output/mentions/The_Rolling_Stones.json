@@ -1,0 +1,8 @@
+{ name: 'The Rolling Stones',
+  href: 'http://en.wikipedia.org/wiki/The_Rolling_Stones',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 104,
+       wordCountBeforeSection: 49678,
+       quote: [ 'Darryl Jones, former sideman of Miles Davis and Sting, was chosen by Charlie Watts as Wyman\'s replacement for 1994\'s Voodoo Lounge (UK 1; US 2).' ] } ] }

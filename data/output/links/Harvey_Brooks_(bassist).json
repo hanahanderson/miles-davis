@@ -1,0 +1,4 @@
+{ name: 'Harvey Brooks (bassist)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Harvey_Brooks_(bassist)',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

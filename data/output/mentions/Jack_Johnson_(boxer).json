@@ -1,0 +1,8 @@
+{ name: 'Jack Johnson (boxer)',
+  href: 'http://en.wikipedia.org/wiki/Jack_Johnson_(boxer)',
+  mentions: 
+   [ { sectionHeader: 'Legacy',
+       sectionSubHeader: '',
+       sectionIndex: 117,
+       wordCountBeforeSection: 41357,
+       quote: [ 'The end of Miles Davis\'s 1971 album titled A Tribute to Jack Johnson features the actor Brock Peters (as Johnson) saying:' ] } ] }

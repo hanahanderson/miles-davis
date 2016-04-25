@@ -1,0 +1,40 @@
+{ name: 'John Lamb (musician)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/John_Lamb_(musician)',
+  values: 
+   { 'dbo:abstract': [ { value: 'John Lamb (born November 29, 1933) is an American Jazz double bassist, who was a member of the Duke Ellington Orchestra.Lamb began playing the bass in 1951, joined Ellington\'s orchestra in 1964, and toured with them for three years. Lamb was more of a fan of Miles Davis and Red Garland when he was with Ellington, later saying that “I was very young and very cocky. I thought I knew more than Duke at that time...I have more time today to reflect on the things that were accomplished back then, and the places we traveled to and all the wonderful people that we met. So one has to be careful what one does in his young years, because if they’re fortunate to live long, it all comes back.” In 1966 Lamb performed with Ellington and Sam Woodyard for artist Joan Miró at the Fondation Maeght in Saint-Paul-de-Vence.Lamb later moved to St. Petersburg, Florida and taught music in public schools as well as St. Petersburg College. Alphonso Johnson was one of Lamb\'s students. Lamb was awarded the Jazz Club of Sarasota’s “Satchmo Award” for service to jazz. (en)' } ],
+     'dbo:wikiPageExternalLink': 
+      [ { value: 'http://jazzbackstory.blogspot.co.uk/2011/07/tales-of-big-bands-ellington.html',
+          href: 'http://jazzbackstory.blogspot.co.uk/2011/07/tales-of-big-bands-ellington.html' } ],
+     'dbo:wikiPageID': [ { value: '39862973 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '564950831 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Duke_Ellington_Orchestra_members',
+          href: 'http://dbpedia.org/resource/Category:Duke_Ellington_Orchestra_members' },
+        { value: 'dbc:1933_births',
+          href: 'http://dbpedia.org/resource/Category:1933_births' },
+        { value: 'dbc:American_jazz_double-bassists',
+          href: 'http://dbpedia.org/resource/Category:American_jazz_double-bassists' },
+        { value: 'dbc:Living_people',
+          href: 'http://dbpedia.org/resource/Category:Living_people' } ],
+     'rdfs:comment': [ { value: 'John Lamb (born November 29, 1933) is an American Jazz double bassist, who was a member of the Duke Ellington Orchestra.Lamb began playing the bass in 1951, joined Ellington\'s orchestra in 1964, and toured with them for three years. Lamb was more of a fan of Miles Davis and Red Garland when he was with Ellington, later saying that “I was very young and very cocky. (en)' } ],
+     'rdfs:label': [ { value: 'John Lamb (musician) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:John Lamb (musician)',
+          href: 'http://rdf.freebase.com/ns/m.03j2v_d' },
+        { value: 'wikidata:John Lamb (musician)',
+          href: 'http://www.wikidata.org/entity/Q16095237' },
+        { value: 'dbpedia-wikidata:John Lamb (musician)',
+          href: 'http://wikidata.dbpedia.org/resource/Q16095237' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:John_Lamb_(musician)?oldid=564950831',
+          href: 'http://en.wikipedia.org/wiki/John_Lamb_(musician)?oldid=564950831' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:John_Lamb_(musician)',
+          href: 'http://en.wikipedia.org/wiki/John_Lamb_(musician)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:John_Lamb',
+          href: 'http://dbpedia.org/resource/John_Lamb' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:John_Lamb_(musician)',
+          href: 'http://en.wikipedia.org/wiki/John_Lamb_(musician)' } ] } }

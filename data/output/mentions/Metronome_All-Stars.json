@@ -1,0 +1,13 @@
+{ name: 'Metronome All-Stars',
+  href: 'http://en.wikipedia.org/wiki/Metronome_All-Stars',
+  mentions: 
+   [ { sectionHeader: 'Participants',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2704,
+       quote: [ 'Metronome All-Stars 1949: "Overtime"/"Victory Ball", recorded by Dizzy Gillespie, Miles Davis, Fats Navarro, Jay Jay Johnson, Kai Winding, Buddy DeFranco, Charlie Parker, Charlie Ventura, Ernie Caceres, Lennie Tristano, Billy Bauer, Eddie Safranski, Shelly Manne, Pete Rugolo.' ] },
+     { sectionHeader: 'Participants',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3200,
+       quote: [ 'Metronome All-Stars 1951/52: "Local 802 Blues" / "Early Spring" recorded by George Shearing, Stan Getz, Miles Davis, Serge Chaloff, Lee Konitz, John LaPorta, Max Roach, Billy Bauer, Terry Gibbs, Eddie Safranski, Kai Winding, Billy Eckstine.' ] } ] }

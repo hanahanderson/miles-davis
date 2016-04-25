@@ -1,0 +1,8 @@
+{ name: 'Wikipedia talk:Version 1.0 Editorial Team/Biographies',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia_talk:Version_1.0_Editorial_Team/Biographies',
+  mentions: 
+   [ { sectionHeader: 'Accepted for Version 0.5',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 1055,
+       quote: [] } ] }

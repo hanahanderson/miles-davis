@@ -1,0 +1,112 @@
+{ name: 'The P.C. Blues',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_P.C._Blues',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '42.95' } ],
+     'dbo:abstract': [ { value: 'The P.C. Blues is an album by pianist Red Garland featuring tracks recorded in 1957 at the sessions that produced Red Garland\'s Piano and Groovy (with one track from Miles Davis\' 1956 album Workin\' with The Miles Davis Quintet added) which were first released on the Prestige label until 1970. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Red_Garland',
+          href: 'http://dbpedia.org/resource/Red_Garland' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Sugan_(album)',
+          href: 'http://dbpedia.org/resource/Sugan_(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbo:recordDate': 
+      [ { value: '1956-05-11 (xsd:date)' },
+        { value: '1957-08-09 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Van_Gelder_Studio' } ],
+     'dbo:runtime': [ { value: '2577.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Groovy_(album)',
+          href: 'http://dbpedia.org/resource/Groovy_(album)' } ],
+     'dbo:wikiPageID': [ { value: '36914147 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '510718200 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Red_Garland',
+          href: 'http://dbpedia.org/resource/Red_Garland' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Red_Garland',
+          href: 'http://dbpedia.org/resource/Red_Garland' } ],
+     'dbp:cover': [ { value: 'The P C Blues.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Prestige_Records',
+          href: 'http://dbpedia.org/resource/Prestige_Records' },
+        { value: 'PRLP 7752 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Sugan (en)' } ],
+     'dbp:length': [ { value: '2577.0' } ],
+     'dbp:name': [ { value: 'The P.C. Blues (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Groovy (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Bob_Weinstock' } ],
+     'dbp:recorded': 
+      [ { value: '--05-11' },
+        { value: 'Van Gelder Studio, Hackensack, New Jersey (en)' } ],
+     'dbp:released': [ { value: '1970 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'The P.C. Blues (en)' } ],
+     'dbp:type': [ { value: 'Album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Red_Garland_albums',
+          href: 'http://dbpedia.org/resource/Category:Red_Garland_albums' },
+        { value: 'dbc:1970_albums',
+          href: 'http://dbpedia.org/resource/Category:1970_albums' },
+        { value: 'dbc:Prestige_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Prestige_Records_albums' },
+        { value: 'dbc:Albums_recorded_at_Van_Gelder_Studio',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_Van_Gelder_Studio' },
+        { value: 'dbc:Albums_produced_by_Bob_Weinstock',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Bob_Weinstock' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The P.C. Blues is an album by pianist Red Garland featuring tracks recorded in 1957 at the sessions that produced Red Garland\'s Piano and Groovy (with one track from Miles Davis\' 1956 album Workin\' with The Miles Davis Quintet added) which were first released on the Prestige label until 1970. (en)' } ],
+     'rdfs:label': [ { value: 'The P.C. Blues (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The P.C. Blues',
+          href: 'http://rdf.freebase.com/ns/m.01lynsd' },
+        { value: 'dbpedia-it:The P.C. Blues',
+          href: 'http://it.dbpedia.org/resource/The_P.C._Blues' },
+        { value: 'dbpedia-wikidata:The P.C. Blues',
+          href: 'http://wikidata.dbpedia.org/resource/Q7755832' },
+        { value: 'wikidata:The P.C. Blues',
+          href: 'http://www.wikidata.org/entity/Q7755832' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_P.C._Blues?oldid=510718200',
+          href: 'http://en.wikipedia.org/wiki/The_P.C._Blues?oldid=510718200' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_P.C._Blues',
+          href: 'http://en.wikipedia.org/wiki/The_P.C._Blues' } ],
+     'foaf:name': [ { value: 'The P.C. Blues (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Groovy_(album)',
+          href: 'http://dbpedia.org/resource/Groovy_(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_P.C._Blues',
+          href: 'http://en.wikipedia.org/wiki/The_P.C._Blues' } ] } }

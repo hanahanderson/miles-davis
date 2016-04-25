@@ -1,0 +1,8 @@
+{ name: 'Warren Smith (jazz percussionist)',
+  href: 'http://en.wikipedia.org/wiki/Warren_Smith_(jazz_percussionist)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 733,
+       quote: [ 'One of his earliest major recording dates was with Miles Davis as a vibraphonist in 1957.' ] } ] }

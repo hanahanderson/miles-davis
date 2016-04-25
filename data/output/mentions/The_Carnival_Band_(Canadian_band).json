@@ -1,0 +1,8 @@
+{ name: 'The Carnival Band (Canadian band)',
+  href: 'http://en.wikipedia.org/wiki/The_Carnival_Band_(Canadian_band)',
+  mentions: 
+   [ { sectionHeader: 'Music',
+       sectionSubHeader: '2007–present',
+       sectionIndex: 25,
+       wordCountBeforeSection: 4567,
+       quote: [ 'Songs performed by the group include originals by members, as well as traditionals from Colombia, France, Suriname, Afghanistan, and Bulgaria, and covers by artists such as Jimi Hendrix, Ennio Morricone, Louis Armstrong, Dizzy Gillespie, Jefferson Airplane, Luiz Bonfá, Miles Davis, and Mongo Santamaría.' ] } ] }

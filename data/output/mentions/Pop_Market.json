@@ -1,0 +1,8 @@
+{ name: 'Pop Market',
+  href: 'http://en.wikipedia.org/wiki/Pop_Market',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 139,
+       quote: [ 'PopMarket is a deal-of-the-day website launched by Relentless Generator in November 2010 that offers 24-hour deep discounts on albums, box sets, and merchandise to its members from major music artists and bands like Santana, Johnny Cash, Miles Davis, and Pearl Jam.' ] } ] }

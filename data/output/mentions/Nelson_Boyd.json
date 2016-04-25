@@ -1,0 +1,8 @@
+{ name: 'Nelson Boyd',
+  href: 'http://en.wikipedia.org/wiki/Nelson_Boyd',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 104,
+       quote: [ 'In 1947, he recorded with Fats Navarro and Charlie Parker, later with Jay Jay Johnson and Miles Davis on Davis\' Birth of the Cool sessions in 1949.' ] } ] }

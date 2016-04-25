@@ -1,0 +1,8 @@
+{ name: 'User:Trevorteusc',
+  href: 'http://en.wikipedia.org/wiki/User:Trevorteusc',
+  mentions: 
+   [ { sectionHeader: 'Interests',
+       sectionSubHeader: '',
+       sectionIndex: 79,
+       wordCountBeforeSection: 20651,
+       quote: [ 'Cannonball Adderley; Louis Armstrong; Chet Baker; Count Basie; Sidney Bechet; Bix Beiderbecke; Art Blakey; Clifford Brown; Dave Brubeck; Edmar Castañeda; Corey Christiansen; Ornette Coleman; John Coltrane; Ravi Coltrane; Harry Connick Jr.; Miles Davis; Jimmy Dorsey; Tommy Dorsey; Duke Ellington; Kevin Eubanks; Maynard Ferguson; Ella Fitzgerald; Stan Getz; Dizzie Gillespie; Benny Goodman; Lionel Hampton; Fletcher Henderson; Joe Henderson; Woody Herman; Billie Holiday; Freddie Hubbard; Norah Jones; Quincy Jones; Stan Kenton; Diana Krall; Branford Marsalis; Delfeayo Marsalis; Ellis Marsalis, Jr.; Jason Marsalis; Wynton Marsalis; Glenn Miller; Thelonius Monk; Lee Morgan; Jelly Roll Morton; Gerry Mulligan; King Oliver; Charlie Parker; John Patitucci; Les Paul; Sun Ra; Joshua Redman; Django Reinhardt; Arturo Sandoval; Doc Severinsen; Artie Shaw; Woody Shaw; Fats Waller; Bill Watrous; Tain Watts; etc.' ] } ] }

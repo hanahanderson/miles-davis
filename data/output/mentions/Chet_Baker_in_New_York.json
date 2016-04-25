@@ -1,0 +1,8 @@
+{ name: 'Chet Baker in New York',
+  href: 'http://en.wikipedia.org/wiki/Chet_Baker_in_New_York',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 811,
+       quote: [ '"Solar" (Miles Davis) - 5:52' ] } ] }

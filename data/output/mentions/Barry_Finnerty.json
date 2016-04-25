@@ -1,0 +1,18 @@
+{ name: 'Barry Finnerty',
+  href: 'http://en.wikipedia.org/wiki/Barry_Finnerty',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 309,
+       quote: [ 'Michael Barry Finnerty (born December 3, 1951) is an American jazz guitarist, keyboardist, singer/songwriter and music arranger, best known for his work as a session musician for artists such as Miles Davis and The Crusaders.' ] },
+     { sectionHeader: 'Finnerty in New York City',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1772,
+       quote: [ 'He played and recorded with Miles Davis in 1981, being featured on much of Davis\'s 1981 album The Man with the Horn, and is mentioned in the Davis autobiography.' ] } ] }

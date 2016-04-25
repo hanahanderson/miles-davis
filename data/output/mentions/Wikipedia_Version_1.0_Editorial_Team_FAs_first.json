@@ -1,0 +1,18 @@
+{ name: 'Wikipedia:Version 1.0 Editorial Team/FAs first',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Version_1.0_Editorial_Team/FAs_first',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 6850,
+       quote: [ 'Miles Davis (Article of concern)' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 6850,
+       quote: [] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 6850,
+       quote: [] } ] }

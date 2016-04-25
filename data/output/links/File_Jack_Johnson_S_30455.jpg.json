@@ -1,0 +1,12 @@
+{ name: 'File:Jack Johnson S 30455.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Jack_Johnson_S_30455.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '39615319 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '558903284 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Jack_Johnson_S_30455.jpg?oldid=558903284',
+          href: 'http://en.wikipedia.org/wiki/File:Jack_Johnson_S_30455.jpg?oldid=558903284' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Jack_Johnson_S_30455.jpg',
+          href: 'http://dbpedia.org/resource/File:Jack_Johnson_S_30455.jpg' } ] } }

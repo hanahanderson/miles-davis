@@ -1,0 +1,8 @@
+{ name: 'Jack Douglas (record producer)',
+  href: 'http://en.wikipedia.org/wiki/Jack_Douglas_(record_producer)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 361,
+       quote: [ 'Soon he was working at the recording desk contributing to projects by Miles Davis, The James Gang, Alice Cooper, Cheap Trick, Montrose, Rough Cutt, Artful Dodger, Moxy, Flipp, and Mountain.' ] } ] }

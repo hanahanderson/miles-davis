@@ -1,0 +1,8 @@
+{ name: 'Yardbird Suite',
+  href: 'http://en.wikipedia.org/wiki/Yardbird_Suite',
+  mentions: 
+   [ { sectionHeader: 'The three Charlie Parker recordings',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 558,
+       quote: [ 'Besides Parker on alto saxophone was Miles Davis on trumpet, Lucky Thompson on tenor saxophone, pianist Dodo Marmarosa, Arvin Garrison on rhythm guitar, bassist Vic McMillan, and Roy Porter on drums.' ] } ] }

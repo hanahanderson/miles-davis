@@ -1,0 +1,8 @@
+{ name: 'Wax Poetics',
+  href: 'http://en.wikipedia.org/wiki/Wax_Poetics',
+  mentions: 
+   [ { sectionHeader: 'Featured artists',
+       sectionSubHeader: '',
+       sectionIndex: 54,
+       wordCountBeforeSection: 7746,
+       quote: [ 'Issue 25: The Eliminators, Céu, Miles Davis, Beastie Boys' ] } ] }

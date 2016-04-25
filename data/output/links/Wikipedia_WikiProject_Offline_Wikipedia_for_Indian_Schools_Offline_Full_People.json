@@ -1,0 +1,4 @@
+{ name: 'Wikipedia:WikiProject Offline Wikipedia for Indian Schools/Offline Full/People',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia:WikiProject_Offline_Wikipedia_for_Indian_Schools/Offline_Full/People',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

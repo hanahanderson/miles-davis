@@ -1,0 +1,8 @@
+{ name: '1969 in music',
+  href: 'http://en.wikipedia.org/wiki/1969_in_music',
+  mentions: 
+   [ { sectionHeader: 'Albums released',
+       sectionSubHeader: '',
+       sectionIndex: 42,
+       wordCountBeforeSection: 23362,
+       quote: [ 'Miles Davis' ] } ] }

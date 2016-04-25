@@ -1,0 +1,8 @@
+{ name: 'Sensory Overdrive',
+  href: 'http://en.wikipedia.org/wiki/Sensory_Overdrive',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 679,
+       quote: [ 'The album was produced by famed record producer Jack Douglas, who has previously worked with Aerosmith, John Lennon, Miles Davis and more.' ] } ] }

@@ -1,0 +1,4 @@
+{ name: 'User:Brinkost/Musical-acts-that-I-like',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User:Brinkost/Musical-acts-that-I-like',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

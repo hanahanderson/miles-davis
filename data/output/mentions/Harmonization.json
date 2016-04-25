@@ -1,0 +1,13 @@
+{ name: 'Harmonization',
+  href: 'http://en.wikipedia.org/wiki/Harmonization',
+  mentions: 
+   [ { sectionHeader: 'Reharmonization',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 2964,
+       quote: [ 'Art Tatum was a pioneer of reharmonization, and later on John Coltrane, Miles Davis and Bill Evans were among the first to seriously explore its possibilities, and since then the technique has become an essential tool for the jazz musician and jazz arranger.' ] },
+     { sectionHeader: 'Reharmonization',
+       sectionSubHeader: '',
+       sectionIndex: 35,
+       wordCountBeforeSection: 8088,
+       quote: [ 'In this example from "Countdown" (which is really a "Coltrane changes" version of "Tune Up", the well-known jazz standard composed by Miles Davis), the long ii-V-I in the key of D major is laced with V-I progressions that resolve to the three tonics of the D augmented triad:' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'User:Igrek/10000/People',
+  href: 'http://en.wikipedia.org/wiki/User:Igrek/10000/People',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ ' Miles Davis' ] } ] }

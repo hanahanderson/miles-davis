@@ -1,0 +1,111 @@
+{ name: 'Piano Improvisations Vol. 1',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Piano_Improvisations_Vol._1',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '42.833333333333336' } ],
+     'dbo:abstract': [ { value: 'Piano Improvisations Vol. 1 is an album recorded by Chick Corea and released in 1971.The album, along with its counterpart Piano Improvisations Vol. 2, was recorded over the course of two days in Oslo, Norway.  The two albums in the Piano Improvisations series serve as a sort of bridge between Corea\'s other works in Circle and Return to Forever.  The only musician featured on the album is Chick Corea on piano.On the back cover of the album Corea writes, "This music was created out of the desire to communicate and share the dream of a better life with people everywhere." (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:A.R.C._(album)',
+          href: 'http://dbpedia.org/resource/A.R.C._(album)' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Oslo', href: 'http://dbpedia.org/resource/Oslo' },
+        { value: 'dbr:Norway',
+          href: 'http://dbpedia.org/resource/Norway' } ],
+     'dbo:runtime': [ { value: '2570.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Piano_Improvisations_Vol._2',
+          href: 'http://dbpedia.org/resource/Piano_Improvisations_Vol._2' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '5535422 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '662456918 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Chick_Corea',
+          href: 'http://dbpedia.org/resource/Chick_Corea' } ],
+     'dbp:cover': [ { value: 'CoreaPianoImprov1.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:ECM_Records',
+          href: 'http://dbpedia.org/resource/ECM_Records' } ],
+     'dbp:lastAlbum': [ { value: 'A.R.C. (en)' } ],
+     'dbp:length': [ { value: '2570.0' } ],
+     'dbp:name': [ { value: 'Piano Improvisations Vol. 1 (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Piano Improvisations Vol. 2 (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Manfred_Eicher' } ],
+     'dbp:recorded': [ { value: '--04-21' } ],
+     'dbp:released': [ { value: '1971 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'The Rolling Stone Jazz Record Guide (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Piano Improvisations Vol. 1 (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1971_albums',
+          href: 'http://dbpedia.org/resource/Category:1971_albums' },
+        { value: 'dbc:Chick_Corea_albums',
+          href: 'http://dbpedia.org/resource/Category:Chick_Corea_albums' },
+        { value: 'dbc:Instrumental_albums',
+          href: 'http://dbpedia.org/resource/Category:Instrumental_albums' },
+        { value: 'dbc:Albums_produced_by_Manfred_Eicher',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Manfred_Eicher' },
+        { value: 'dbc:ECM_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:ECM_Records_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Piano Improvisations Vol. 1 is an album recorded by Chick Corea and released in 1971.The album, along with its counterpart Piano Improvisations Vol. 2, was recorded over the course of two days in Oslo, Norway.  The two albums in the Piano Improvisations series serve as a sort of bridge between Corea\'s other works in Circle and Return to Forever. (en)' } ],
+     'rdfs:label': [ { value: 'Piano Improvisations Vol. 1 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Piano Improvisations Vol. 1',
+          href: 'http://rdf.freebase.com/ns/m.01j94dr' },
+        { value: 'dbpedia-wikidata:Piano Improvisations Vol. 1',
+          href: 'http://wikidata.dbpedia.org/resource/Q7190117' },
+        { value: 'wikidata:Piano Improvisations Vol. 1',
+          href: 'http://www.wikidata.org/entity/Q7190117' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Piano_Improvisations_Vol._1?oldid=662456918',
+          href: 'http://en.wikipedia.org/wiki/Piano_Improvisations_Vol._1?oldid=662456918' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Piano_Improvisations_Vol._1',
+          href: 'http://en.wikipedia.org/wiki/Piano_Improvisations_Vol._1' } ],
+     'foaf:name': [ { value: 'Piano Improvisations Vol. 1 (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Piano_Improvisations_Vol._2',
+          href: 'http://dbpedia.org/resource/Piano_Improvisations_Vol._2' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:A.R.C._(album)',
+          href: 'http://dbpedia.org/resource/A.R.C._(album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Piano_Improvisations_Vol._1',
+          href: 'http://en.wikipedia.org/wiki/Piano_Improvisations_Vol._1' } ] } }

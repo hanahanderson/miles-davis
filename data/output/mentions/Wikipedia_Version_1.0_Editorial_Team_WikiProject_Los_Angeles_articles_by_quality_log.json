@@ -1,0 +1,13 @@
+{ name: 'Wikipedia:Version 1.0 Editorial Team/WikiProject Los Angeles articles by quality log',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:Version_1.0_Editorial_Team/WikiProject_Los_Angeles_articles_by_quality_log',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 865,
+       quote: [ 'Miles Davis (talk) C-Class (High-Class) removed.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 865,
+       quote: [ 'Miles Davis (talk) C-Class (High-Class) removed.' ] } ] }

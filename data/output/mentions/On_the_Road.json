@@ -1,0 +1,8 @@
+{ name: 'On the Road',
+  href: 'http://en.wikipedia.org/wiki/On_the_Road',
+  mentions: 
+   [ { sectionHeader: 'Plot',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 6147,
+       quote: [ 'The narrative takes place in the years 1947 to 1950, is full of Americana, and marks a specific era in jazz history, "somewhere between its Charlie Parker Ornithology period and another period that began with Miles Davis." The novel is largely autobiographical, Sal being the alter ego of the author and Dean standing for Neal Cassady.' ] } ] }

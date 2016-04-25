@@ -1,0 +1,8 @@
+{ name: 'Talk:Music/Archive 1',
+  href: 'http://en.wikipedia.org/wiki/Talk:Music/Archive_1',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This covers music by such notables as Miles Davis, Scott Joplin (who tried to create an opera based on the Ragtime style of Jazz, but failed miserably), and so on. --Fleeb' ] } ] }

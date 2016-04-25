@@ -1,0 +1,8 @@
+{ name: 'Out Louder',
+  href: 'http://en.wikipedia.org/wiki/Out_Louder',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2984,
+       quote: [ 'Miles Davis' ] } ] }

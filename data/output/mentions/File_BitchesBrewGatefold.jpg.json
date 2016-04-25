@@ -1,0 +1,8 @@
+{ name: 'File:BitchesBrewGatefold.jpg',
+  href: 'http://en.wikipedia.org/wiki/File:BitchesBrewGatefold.jpg',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'This is the cover art for the album Bitches Brew by the artist Miles Davis.' ] } ] }

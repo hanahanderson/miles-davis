@@ -1,0 +1,8 @@
+{ name: 'Paramount Theatre (Brooklyn)',
+  href: 'http://en.wikipedia.org/wiki/Paramount_Theatre_(Brooklyn)',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1202,
+       quote: [ 'According to anthropology professor Michael Hittman, "while the Brooklyn Paramount is remembered as a popular movie house and early home of rock ‘n’ roll, it is a little known fact that it helped introduce Brooklyn to jazz, with artists like Dizzy Gillespie, Ella Fitzgerald and Miles Davis." Duke Ellington first played at the Paramount in 1931.' ] } ] }

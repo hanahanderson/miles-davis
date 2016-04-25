@@ -1,0 +1,8 @@
+{ name: 'Live in Amsterdam (Candy Dulfer album)',
+  href: 'http://en.wikipedia.org/wiki/Live_in_Amsterdam_(Candy_Dulfer_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1088,
+       quote: [ '^ Contains elements from "Sexuality" by Ulco Bed / Candy Dulfer, elements from "Funky Stuff" by Kool and The Gang and elements from "The Serpent\'s Tooth" by Miles Davis.' ] } ] }

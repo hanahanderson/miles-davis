@@ -1,0 +1,13 @@
+{ name: 'User talk:81.3.183.98',
+  href: 'http://en.wikipedia.org/wiki/User_talk:81.3.183.98',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis 10:38, 13 February 2007 (UTC)' ] },
+     { sectionHeader: 'Miles Davis 10:38, 13 February 2007 (UTC)',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 47,
+       quote: [ 'However, the external links you added to the page Miles Davis do not comply with our guidelines for external links.' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Colman Andrews',
+  href: 'http://en.wikipedia.org/wiki/Colman_Andrews',
+  mentions: 
+   [ { sectionHeader: 'Magazine life',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2941,
+       quote: [ 'He also wrote liner notes for numerous albums, receiving a Grammy nomination in 1972 for notes on a special edition of Miles Davis reissues.' ] } ] }

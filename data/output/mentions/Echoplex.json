@@ -1,0 +1,8 @@
+{ name: 'Echoplex',
+  href: 'http://en.wikipedia.org/wiki/Echoplex',
+  mentions: 
+   [ { sectionHeader: 'Notable users',
+       sectionSubHeader: 'EP-4',
+       sectionIndex: 23,
+       wordCountBeforeSection: 6152,
+       quote: [ 'Miles Davis' ] } ] }

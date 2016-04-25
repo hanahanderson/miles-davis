@@ -1,0 +1,8 @@
+{ name: 'A Go Go (John Scofield album)',
+  href: 'http://en.wikipedia.org/wiki/A_Go_Go_(John_Scofield_album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1474,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,104 @@
+{ name: 'Bob Brookmeyer and Friends',
+  entityType: 'Album',
+  href: 'http://dbpedia.org/page/Bob_Brookmeyer_and_Friends',
+  values: 
+   { 'dbo:abstract': [ { value: 'Bob Brookmeyer and Friends is a 1964 album by jazz valve trombonist Bob Brookmeyer, recorded for Columbia Records. Reviewer Scott Yanow said that "the young rhythm section (pianist Herbie Hancock, vibraphonist Gary Burton, bassist Ron Carter, and drummer Elvin Jones) uplifts what would have been a fairly conventional (although high quality) bop date."The album was reissued on vinyl LP in 1980 and on CD in 2005.  On the 1980 vinyl LP version, "The Wrinkle" was renamed "Wrinkle Time"; tracks 9 to 11 were released later on the CD.Recording Date:May 26,27 1964 (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bob_Brookmeyer',
+          href: 'http://dbpedia.org/resource/Bob_Brookmeyer' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:picture': 
+      [ { value: 'dbr:Bob_Brookmeyer',
+          href: 'http://dbpedia.org/resource/Bob_Brookmeyer' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Samba_Para_Dos',
+          href: 'http://dbpedia.org/resource/Samba_Para_Dos' } ],
+     'dbo:producer': 
+      [ { value: 'dbr:Teo_Macero',
+          href: 'http://dbpedia.org/resource/Teo_Macero' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Tonight_(Clark_Terry-Bob_Brookmeyer_Quintet_album)',
+          href: 'http://dbpedia.org/resource/Tonight_(Clark_Terry-Bob_Brookmeyer_Quintet_album)' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dbo:wikiPageID': [ { value: '22752234 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '633200813 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bob_Brookmeyer',
+          href: 'http://dbpedia.org/resource/Bob_Brookmeyer' } ],
+     'dbp:cover': [ { value: 'Bob Brookmeyer and Friends.jpeg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Columbia_Records',
+          href: 'http://dbpedia.org/resource/Columbia_Records' } ],
+     'dbp:lastAlbum': [ { value: 'Samba Para Dos (en)' } ],
+     'dbp:name': [ { value: 'Bob Brookmeyer and Friends (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Tonight (en)' } ],
+     'dbp:producer': 
+      [ { value: 'dbr:Teo_Macero',
+          href: 'http://dbpedia.org/resource/Teo_Macero' } ],
+     'dbp:released': [ { value: '1964 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Bob Brookmeyer and Friends (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Album',
+          href: 'http://dbpedia.org/resource/Album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1964_albums',
+          href: 'http://dbpedia.org/resource/Category:1964_albums' },
+        { value: 'dbc:Columbia_Records_albums',
+          href: 'http://dbpedia.org/resource/Category:Columbia_Records_albums' },
+        { value: 'dbc:English-language_albums',
+          href: 'http://dbpedia.org/resource/Category:English-language_albums' },
+        { value: 'dbc:Albums_produced_by_Teo_Macero',
+          href: 'http://dbpedia.org/resource/Category:Albums_produced_by_Teo_Macero' },
+        { value: 'dbc:Bob_Brookmeyer_albums',
+          href: 'http://dbpedia.org/resource/Category:Bob_Brookmeyer_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Bob Brookmeyer and Friends is a 1964 album by jazz valve trombonist Bob Brookmeyer, recorded for Columbia Records. Reviewer Scott Yanow said that "the young rhythm section (pianist Herbie Hancock, vibraphonist Gary Burton, bassist Ron Carter, and drummer Elvin Jones) uplifts what would have been a fairly conventional (although high quality) bop date."The album was reissued on vinyl LP in 1980 and on CD in 2005. (en)' } ],
+     'rdfs:label': [ { value: 'Bob Brookmeyer and Friends (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Bob Brookmeyer and Friends',
+          href: 'http://rdf.freebase.com/ns/m.01pkk3j' },
+        { value: 'dbpedia-it:Bob Brookmeyer and Friends',
+          href: 'http://it.dbpedia.org/resource/Bob_Brookmeyer_and_Friends' },
+        { value: 'dbpedia-wikidata:Bob Brookmeyer and Friends',
+          href: 'http://wikidata.dbpedia.org/resource/Q4931938' },
+        { value: 'wikidata:Bob Brookmeyer and Friends',
+          href: 'http://www.wikidata.org/entity/Q4931938' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Bob_Brookmeyer_and_Friends?oldid=633200813',
+          href: 'http://en.wikipedia.org/wiki/Bob_Brookmeyer_and_Friends?oldid=633200813' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Bob_Brookmeyer_and_Friends',
+          href: 'http://en.wikipedia.org/wiki/Bob_Brookmeyer_and_Friends' } ],
+     'foaf:name': [ { value: 'Bob Brookmeyer and Friends (en)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Bob_brookmeyer_and_friends',
+          href: 'http://dbpedia.org/resource/Bob_brookmeyer_and_friends' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Bob_Brookmeyer_and_Friends',
+          href: 'http://en.wikipedia.org/wiki/Bob_Brookmeyer_and_Friends' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'More Jazz Meets the Symphony',
+  href: 'http://en.wikipedia.org/wiki/More_Jazz_Meets_the_Symphony',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1325,
+       quote: [ 'Sketches of Miles: "All Blues"/"So What"/"Miles"/Concierto de Aranjuez/"On Green Dolphin Street"/"Oleo"/"Four"/"Move" (Miles Davis/Davis/Davis/Joaquin Rodrigo/Bronislaw Kaper/Sonny Rollins/Davis/Denzil Best) - 12:27' ] } ] }

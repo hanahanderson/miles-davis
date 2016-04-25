@@ -1,0 +1,98 @@
+{ name: 'The Great Jazz Trio at the Village Vanguard',
+  entityType: 'album',
+  href: 'http://dbpedia.org/page/The_Great_Jazz_Trio_at_the_Village_Vanguard',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '36.81666666666667' } ],
+     'dbo:abstract': [ { value: 'The Great Jazz Trio at the Village Vanguard is a live album by the Great Jazz Trio; pianist Hank Jones, bassist Buster Williams and drummer Tony Williams, recorded in 1977 for the Japanese East Wind label. (en)' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Bop_Redux',
+          href: 'http://dbpedia.org/resource/Bop_Redux' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:East_Wind_Records',
+          href: 'http://dbpedia.org/resource/East_Wind_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Village_Vanguard',
+          href: 'http://dbpedia.org/resource/Village_Vanguard' } ],
+     'dbo:runtime': [ { value: '2209.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:The_Great_Jazz_Trio_at_the_Village_Vanguard_Vol._2',
+          href: 'http://dbpedia.org/resource/The_Great_Jazz_Trio_at_the_Village_Vanguard_Vol._2' } ],
+     'dbo:wikiPageID': [ { value: '47425279 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674522711 (xsd:integer)' } ],
+     'dbp:artist': [ { value: 'The Great Jazz Trio (en)' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Hank_Jones',
+          href: 'http://dbpedia.org/resource/Hank_Jones' } ],
+     'dbp:cover': [ { value: 'The Great Jazz Trio at the Village Vanguard.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:East_Wind_Records',
+          href: 'http://dbpedia.org/resource/East_Wind_Records' },
+        { value: '(EW-8053) (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Bop Redux (en)' } ],
+     'dbp:length': [ { value: '2209.0' } ],
+     'dbp:name': [ { value: 'The Great Jazz Trio at the Village Vanguard (en)' } ],
+     'dbp:nextAlbum': [ { value: 'The Great Jazz Trio at the Village Vanguard Vol. 2 (en)' } ],
+     'dbp:producer': [ { value: 'Kiyoshi Itoh and Yasohachi Itoh (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--02-19' },
+        { value: '(Village Vanguard, NYC) (en)' } ],
+     'dbp:released': [ { value: '1977 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' },
+        { value: 'dbr:All_About_Jazz',
+          href: 'http://dbpedia.org/resource/All_About_Jazz' } ],
+     'dbp:thisAlbum': [ { value: 'The Great Jazz Trio at the Village Vanguard (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Albums_recorded_at_the_Village_Vanguard',
+          href: 'http://dbpedia.org/resource/Category:Albums_recorded_at_the_Village_Vanguard' },
+        { value: 'dbc:East_Wind_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:East_Wind_Records_live_albums' },
+        { value: 'dbc:1977_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1977_live_albums' },
+        { value: 'dbc:Great_Jazz_Trio_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Great_Jazz_Trio_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'The Great Jazz Trio at the Village Vanguard is a live album by the Great Jazz Trio; pianist Hank Jones, bassist Buster Williams and drummer Tony Williams, recorded in 1977 for the Japanese East Wind label. (en)' } ],
+     'rdfs:label': [ { value: 'The Great Jazz Trio at the Village Vanguard (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:The Great Jazz Trio at the Village Vanguard',
+          href: 'http://wikidata.dbpedia.org/resource/Q20813416' },
+        { value: 'wikidata:The Great Jazz Trio at the Village Vanguard',
+          href: 'http://www.wikidata.org/entity/Q20813416' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Great_Jazz_Trio_at_the_Village_Vanguard?oldid=674522711',
+          href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Trio_at_the_Village_Vanguard?oldid=674522711' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Great_Jazz_Trio_at_the_Village_Vanguard',
+          href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Trio_at_the_Village_Vanguard' } ],
+     'foaf:name': [ { value: 'The Great Jazz Trio at the Village Vanguard (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:The_Great_Jazz_Trio_at_the_Village_Vanguard_Vol._2',
+          href: 'http://dbpedia.org/resource/The_Great_Jazz_Trio_at_the_Village_Vanguard_Vol._2' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Bop_Redux',
+          href: 'http://dbpedia.org/resource/Bop_Redux' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Great_Jazz_Trio_at_the_Village_Vanguard',
+          href: 'http://en.wikipedia.org/wiki/The_Great_Jazz_Trio_at_the_Village_Vanguard' } ] } }

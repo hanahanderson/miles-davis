@@ -1,0 +1,8 @@
+{ name: 'User:EEGal/sandbox',
+  href: 'http://en.wikipedia.org/wiki/User:EEGal/sandbox',
+  mentions: 
+   [ { sectionHeader: 'Early Career',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 936,
+       quote: [ 'He performed with Hoodoo, an Afro-Haitian band, which co-billed various concerts in the Bay Area, including Miles Davis, Weather Report, José Feliciano, Chick Corea, and McCoy Tyner, among others..' ] } ] }

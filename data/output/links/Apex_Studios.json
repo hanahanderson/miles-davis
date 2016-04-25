@@ -1,0 +1,58 @@
+{ name: 'Apex Studios',
+  entityType: 'populated place',
+  href: 'http://dbpedia.org/page/Apex_Studios',
+  values: 
+   { 'dbo:abstract': [ { value: 'Apex Studios was a recording studio in Manhattan, New York City. Tom Dowd was an engineer at the studios. It was noted for its jazz; Miles Davis\'s album Miles Davis and Horns was partly recorded here in 1951. (en)' } ],
+     'dbo:wikiPageID': [ { value: '37985670 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '640750189 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Recording_studios_in_the_United_States',
+          href: 'http://dbpedia.org/resource/Category:Recording_studios_in_the_United_States' },
+        { value: 'dbc:Buildings_and_structures_in_Manhattan',
+          href: 'http://dbpedia.org/resource/Category:Buildings_and_structures_in_Manhattan' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'dbo:Place',
+          href: 'http://dbpedia.org/ontology/Place' },
+        { value: 'dbo:Location',
+          href: 'http://dbpedia.org/ontology/Location' },
+        { value: 'wikidata:Q486972',
+          href: 'http://www.wikidata.org/entity/Q486972' },
+        { value: 'dbo:PopulatedPlace',
+          href: 'http://dbpedia.org/ontology/PopulatedPlace' },
+        { value: 'schema:Place', href: 'http://schema.org/Place' } ],
+     'rdfs:comment': [ { value: 'Apex Studios was a recording studio in Manhattan, New York City. Tom Dowd was an engineer at the studios. It was noted for its jazz; Miles Davis\'s album Miles Davis and Horns was partly recorded here in 1951. (en)' } ],
+     'rdfs:label': [ { value: 'Apex Studios (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Apex Studios',
+          href: 'http://rdf.freebase.com/ns/m.0pb8v6f' },
+        { value: 'dbpedia-wikidata:Apex Studios',
+          href: 'http://wikidata.dbpedia.org/resource/Q4779436' },
+        { value: 'wikidata:Apex Studios',
+          href: 'http://www.wikidata.org/entity/Q4779436' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Apex_Studios?oldid=640750189',
+          href: 'http://en.wikipedia.org/wiki/Apex_Studios?oldid=640750189' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Apex_Studios',
+          href: 'http://en.wikipedia.org/wiki/Apex_Studios' } ],
+     'is dbo:recordLabel\n of': 
+      [ { value: 'dbr:Tom_Dowd',
+          href: 'http://dbpedia.org/resource/Tom_Dowd' } ],
+     'is dbo:recordedIn\n of': 
+      [ { value: 'dbr:Miles_Davis_and_Horns',
+          href: 'http://dbpedia.org/resource/Miles_Davis_and_Horns' },
+        { value: 'dbr:Blue_Period_(album)',
+          href: 'http://dbpedia.org/resource/Blue_Period_(album)' },
+        { value: 'dbr:The_New_Sounds',
+          href: 'http://dbpedia.org/resource/The_New_Sounds' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Apex_Studio',
+          href: 'http://dbpedia.org/resource/Apex_Studio' } ],
+     'is dbp:label\n of': 
+      [ { value: 'dbr:Tom_Dowd',
+          href: 'http://dbpedia.org/resource/Tom_Dowd' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Apex_Studios',
+          href: 'http://en.wikipedia.org/wiki/Apex_Studios' } ] } }

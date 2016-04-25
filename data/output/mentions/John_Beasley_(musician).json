@@ -1,0 +1,18 @@
+{ name: 'John Beasley (musician)',
+  href: 'http://en.wikipedia.org/wiki/John_Beasley_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Queen Latifah, Wall-E, Miles Davis, Chaka Khan, Steely Dan' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 449,
+       quote: [ 'John Beasley (born September 28, 1960) is an American composer, pianist, producer, and arranger who has recorded and performed with musicians such as Miles Davis, Steely Dan, Chaka Khan, James Brown, Spice Girls, Dianne Reeves, Ry Cooder, Chick Corea and Sérgio Mendes, Freddie Hubbard, John Patitucci, Queen Latifah, Lee Ritenour and Mike Stern (The Freeway Jam Band) and Ivan Lins.' ] },
+     { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 3484,
+       quote: [ 'Declining an oboe scholarship from the Juilliard, Beasley went on to tour and record with Miles Davis, Steely Dan, Carly Simon, Barbra Streisand, Baaba Maal, Queen Latifah, Christian McBride and the Los Angeles Philharmonic Orchestra, Chaka Khan, James Brown, and John Pattituci to name a few.' ] } ] }

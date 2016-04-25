@@ -1,0 +1,45 @@
+{ name: 'The Grassy Knoll (band)',
+  entityType: 'TripHopGroups',
+  href: 'http://dbpedia.org/page/The_Grassy_Knoll_(band)',
+  values: 
+   { 'dbo:abstract': [ { value: 'This article is about the musical group. See Dealey Plaza for the "grassy knoll" as related to the assassination of President John F. Kennedy.The Grassy Knoll is an American music group first active in the 1990s and early 2000s, led by composer/multi-instrumentalist Bob Green. Their music was largely instrumental, and drew upon a variety of influences but was rooted in jazz fusion and hip hop rhythms. Their first self-titled album  was released by Canada\'s Nettwerk Records in 1994, and reissued the next year by Polygram. Critical reception was warm: James Chrispell described the album as comprising "a trumpet call right out of Miles Davis, a stab at Hendrix, a bit of Duane Eddy guitar, and loads of eerie electronics which whisper into your ear only to explode your head seconds later,"The band\'s second record, Positive (1996), earned a mixed 3-out-of-five-stars from critic Neg Raggett, who described some material as "flaccid acid jazz", but who stressed that "when Green and cohorts are on, they burn damn well." The album III (1998) was the Grassy Knoll\'s final album for Polygram, and featured saxophonist Ellery Eskelin, keyboardist Nick Sansano and, on several songs, Thurston Moore\'s abstract guitar.In 2014, The Grassy Knoll released "Electric Verdeland, Vol. 1," featuring guitarist Vernon Reid, multi-instrumentalist Brad Houser, guitarist Jesse Dayton, trumpeter Chris Grady, keyboardist Dave Depper, and Austin legend Jon Dee Graham. (en)' } ],
+     'dbo:wikiPageID': [ { value: '29471999 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '642366167 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Trip_hop_groups',
+          href: 'http://dbpedia.org/resource/Category:Trip_hop_groups' },
+        { value: 'dbc:Jazz_fusion',
+          href: 'http://dbpedia.org/resource/Category:Jazz_fusion' } ],
+     'rdf:type': 
+      [ { value: 'yago:Abstraction100002137',
+          href: 'http://dbpedia.org/class/yago/Abstraction100002137' },
+        { value: 'yago:Group100031264',
+          href: 'http://dbpedia.org/class/yago/Group100031264' },
+        { value: 'yago:TripHopGroups',
+          href: 'http://dbpedia.org/class/yago/TripHopGroups' } ],
+     'rdfs:comment': [ { value: 'This article is about the musical group. See Dealey Plaza for the "grassy knoll" as related to the assassination of President John F. Kennedy.The Grassy Knoll is an American music group first active in the 1990s and early 2000s, led by composer/multi-instrumentalist Bob Green. Their music was largely instrumental, and drew upon a variety of influences but was rooted in jazz fusion and hip hop rhythms. (en)' } ],
+     'rdfs:label': [ { value: 'The Grassy Knoll (band) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:The Grassy Knoll (band)',
+          href: 'http://rdf.freebase.com/ns/m.01n7_8j' },
+        { value: 'dbpedia-wikidata:The Grassy Knoll (band)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7737576' },
+        { value: 'wikidata:The Grassy Knoll (band)',
+          href: 'http://www.wikidata.org/entity/Q7737576' },
+        { value: 'yago-res:The Grassy Knoll (band)',
+          href: 'http://yago-knowledge.org/resource/The_Grassy_Knoll_(band)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:The_Grassy_Knoll_(band)?oldid=642366167',
+          href: 'http://en.wikipedia.org/wiki/The_Grassy_Knoll_(band)?oldid=642366167' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:The_Grassy_Knoll_(band)',
+          href: 'http://en.wikipedia.org/wiki/The_Grassy_Knoll_(band)' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Grassy_Knoll_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Grassy_Knoll_(disambiguation)' } ],
+     'is dbp:extra\n of': 
+      [ { value: 'dbr:Hot_Wheels_Turbo_Racing',
+          href: 'http://dbpedia.org/resource/Hot_Wheels_Turbo_Racing' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:The_Grassy_Knoll_(band)',
+          href: 'http://en.wikipedia.org/wiki/The_Grassy_Knoll_(band)' } ] } }

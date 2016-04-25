@@ -1,0 +1,8 @@
+{ name: 'Counter Culture (album)',
+  href: 'http://en.wikipedia.org/wiki/Counter_Culture_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 1692,
+       quote: [] } ] }

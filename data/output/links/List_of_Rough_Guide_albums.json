@@ -1,0 +1,31 @@
+{ name: 'List of Rough Guide albums',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_Rough_Guide_albums',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of World Music Network Rough Guides albums. Items in bold include "Rough Guide" in their title; those without (typically benefit albums) are still designated as part of the series by their catalogue number prefix ("RGNET"). (en)' } ],
+     'dbo:wikiPageID': [ { value: '41632277 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '678696727 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Lists_of_albums',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_albums' },
+        { value: 'dbc:World_Music_Network_Rough_Guide_albums',
+          href: 'http://dbpedia.org/resource/Category:World_Music_Network_Rough_Guide_albums' } ],
+     'rdfs:comment': [ { value: 'This is a list of World Music Network Rough Guides albums. Items in bold include "Rough Guide" in their title; those without (typically benefit albums) are still designated as part of the series by their catalogue number prefix ("RGNET"). (en)' } ],
+     'rdfs:label': [ { value: 'List of Rough Guide albums (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:List of Rough Guide albums',
+          href: 'http://wikidata.dbpedia.org/resource/Q17099012' },
+        { value: 'wikidata:List of Rough Guide albums',
+          href: 'http://www.wikidata.org/entity/Q17099012' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_Rough_Guide_albums?oldid=678696727',
+          href: 'http://en.wikipedia.org/wiki/List_of_Rough_Guide_albums?oldid=678696727' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_Rough_Guide_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_Rough_Guide_albums' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:World_Music_Network',
+          href: 'http://dbpedia.org/resource/World_Music_Network' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_Rough_Guide_albums',
+          href: 'http://en.wikipedia.org/wiki/List_of_Rough_Guide_albums' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Bill Douglas (musician)',
+  href: 'http://en.wikipedia.org/wiki/Bill_Douglas_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 2268,
+       quote: [ 'His heroes in jazz were Bill Evans, Miles Davis, and John Coltrane, and he wrote his first jazz tunes at fourteen.' ] } ] }

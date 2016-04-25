@@ -1,0 +1,68 @@
+{ name: 'List of bass guitarists',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/List_of_bass_guitarists',
+  values: 
+   { 'dbo:abstract': [ { value: 'This is a list of electric bass guitar players that have their own separate article in Wikipedia. The bass guitar is a stringed instrument played primarily with the fingers (either by plucking, slapping, popping, or tapping) or using a pick. Since the 1950s, the electric bass guitar has largely replaced the double bass in popular music. Bass guitarists provide the low-pitched basslines and bass runs in many different styles of music ranging from rock and metal to blues and jazz. Bassists also use the bass guitar as a soloing instrument in jazz, fusion, Latin, funk, and in some rock styles. Musicians known mainly as guitarists are listed separately in the list of guitarists.For double bass players, see: List of contemporary classical double bass players List of jazz bassists, which includes both double bass and electric bass players List of double bassists in popular music, which includes blues, folk, country, etc. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Paul_McCartney_live_in_Dublin.jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Paul_McCartney_live_in_Dublin.jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '1544973 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '683473633 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Bass_guitarists',
+          href: 'http://dbpedia.org/resource/Category:Bass_guitarists' },
+        { value: 'dbc:Lists_of_guitarists',
+          href: 'http://dbpedia.org/resource/Category:Lists_of_guitarists' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' } ],
+     'rdfs:comment': [ { value: 'This is a list of electric bass guitar players that have their own separate article in Wikipedia. The bass guitar is a stringed instrument played primarily with the fingers (either by plucking, slapping, popping, or tapping) or using a pick. Since the 1950s, the electric bass guitar has largely replaced the double bass in popular music. Bass guitarists provide the low-pitched basslines and bass runs in many different styles of music ranging from rock and metal to blues and jazz. (en)' } ],
+     'rdfs:label': [ { value: 'List of bass guitarists (en)' } ],
+     'rdfs:seeAlso': 
+      [ { value: 'dbr:List_of_female_bass_guitarists',
+          href: 'http://dbpedia.org/resource/List_of_female_bass_guitarists' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:List of bass guitarists',
+          href: 'http://fr.dbpedia.org/resource/Liste_de_bassistes_par_pays' },
+        { value: 'dbpedia-cs:List of bass guitarists',
+          href: 'http://cs.dbpedia.org/resource/Seznam_baskytaristů' },
+        { value: 'dbpedia-de:List of bass guitarists',
+          href: 'http://de.dbpedia.org/resource/Liste_von_E-Bassisten' },
+        { value: 'dbpedia-ja:List of bass guitarists',
+          href: 'http://ja.dbpedia.org/resource/ベーシストの一覧' },
+        { value: 'dbpedia-nl:List of bass guitarists',
+          href: 'http://nl.dbpedia.org/resource/Lijst_van_basgitaristen' },
+        { value: 'dbpedia-wikidata:List of bass guitarists',
+          href: 'http://wikidata.dbpedia.org/resource/Q1863361' },
+        { value: 'wikidata:List of bass guitarists',
+          href: 'http://www.wikidata.org/entity/Q1863361' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:List_of_bass_guitarists?oldid=683473633',
+          href: 'http://en.wikipedia.org/wiki/List_of_bass_guitarists?oldid=683473633' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Paul_McCartney_live_in_Dublin.jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Paul_McCartney_live_in_Dublin.jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:List_of_bass_guitarists',
+          href: 'http://en.wikipedia.org/wiki/List_of_bass_guitarists' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:List_of_bass_players',
+          href: 'http://dbpedia.org/resource/List_of_bass_players' },
+        { value: 'dbr:List_of_Bass_guitarists',
+          href: 'http://dbpedia.org/resource/List_of_Bass_guitarists' },
+        { value: 'dbr:List_of_bassists',
+          href: 'http://dbpedia.org/resource/List_of_bassists' },
+        { value: 'dbr:List_of_bass_guitarists_(Blues,_Jazz,_Rock,_Metal)',
+          href: 'http://dbpedia.org/resource/List_of_bass_guitarists_(Blues,_Jazz,_Rock,_Metal)' },
+        { value: 'dbr:Bass_guitar_players',
+          href: 'http://dbpedia.org/resource/Bass_guitar_players' },
+        { value: 'dbr:Bass_guitarists',
+          href: 'http://dbpedia.org/resource/Bass_guitarists' },
+        { value: 'dbr:List_of_bass_guitar_players',
+          href: 'http://dbpedia.org/resource/List_of_bass_guitar_players' } ],
+     'is rdfs:seeAlso\n of': 
+      [ { value: 'dbr:Bassist',
+          href: 'http://dbpedia.org/resource/Bassist' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:List_of_bass_guitarists',
+          href: 'http://en.wikipedia.org/wiki/List_of_bass_guitarists' } ] } }

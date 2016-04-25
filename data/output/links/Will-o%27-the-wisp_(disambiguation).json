@@ -1,0 +1,31 @@
+{ name: 'Will-o\'-the-wisp (disambiguation)',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Will-o%27-the-wisp_(disambiguation)',
+  values: 
+   { 'dbo:wikiPageDisambiguates': 
+      [ { value: 'dbr:Will-o\'-the-wisp',
+          href: 'http://dbpedia.org/resource/Will-o\'-the-wisp' } ],
+     'dbo:wikiPageID': [ { value: '1793106 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '649342702 (xsd:integer)' } ],
+     'rdfs:label': [ { value: 'Will-o\'-the-wisp (disambiguation) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Will-o\'-the-wisp (disambiguation)',
+          href: 'http://fr.dbpedia.org/resource/Feu_follet_(homonymie)' },
+        { value: 'dbpedia-wikidata:Will-o\'-the-wisp (disambiguation)',
+          href: 'http://wikidata.dbpedia.org/resource/Q3070952' },
+        { value: 'wikidata:Will-o\'-the-wisp (disambiguation)',
+          href: 'http://www.wikidata.org/entity/Q3070952' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Will-o\'-the-wisp_(disambiguation)?oldid=649342702',
+          href: 'http://en.wikipedia.org/wiki/Will-o\'-the-wisp_(disambiguation)?oldid=649342702' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Will-o\'-the-wisp_(disambiguation)',
+          href: 'http://en.wikipedia.org/wiki/Will-o\'-the-wisp_(disambiguation)' } ],
+     'is dbo:wikiPageRedirects\n of': 
+      [ { value: 'dbr:Will_o\'_the_wisp_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Will_o\'_the_wisp_(disambiguation)' },
+        { value: 'dbr:Willow-the-wisp',
+          href: 'http://dbpedia.org/resource/Willow-the-wisp' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Will-o\'-the-wisp_(disambiguation)',
+          href: 'http://en.wikipedia.org/wiki/Will-o\'-the-wisp_(disambiguation)' } ] } }

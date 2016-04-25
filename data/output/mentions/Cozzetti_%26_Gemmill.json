@@ -1,0 +1,13 @@
+{ name: 'Cozzetti & Gemmill',
+  href: 'http://en.wikipedia.org/wiki/Cozzetti_%26_Gemmill',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 5634,
+       quote: [ 'Mr Hancock was in town, performing at the Northwest Jazz Spectacular on October 3, 1970, with Miles Davis, Roberta Flack, Bill Evans and Cannonball Adderley, to name a few.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 13338,
+       quote: [ 'Their influences include the immortal John Coltrane, the unique McCoy Tyner, the funky Horace Silver, and the Prince of Darkness himself, the great Miles Davis." Mr Underwood went on to say, "Concerto For Padré marks an auspicious debut for the Cozzetti-Gemmill Quartet.' ] } ] }

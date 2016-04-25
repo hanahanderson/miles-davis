@@ -1,0 +1,36 @@
+{ name: 'Tabarka Jazz Festival',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Tabarka_Jazz_Festival',
+  values: 
+   { 'dbo:abstract': [ { value: 'The Tabarka Jazz Festival (Tunisian Arabic: مهرجان طبرقة للجاز ‎) is an annual festival of jazz held in the coastal town of Tabarka in Tunisia. Established in 1973 for four years, it was revived again in 1997. Since 2006, the festival has faced organizational problems. The Tabarka Jazz Festival is held annually in July at the Basilica of Tabarka.Artists who have appeared over the years include Al Jarreau, Billy Paul, Barbara Hendricks, Kool & The Gang, Lucky Peterson, Bernard Allison, Diana Krall, Miles Davis, Manu Dibango, Léo Ferré, Dizzy Gillespie, Johnny Van Dyke, Randy Weston, Keith Jarrett, Michel Jonasz, Miriam Makeba, Charles Mingus, Claude Nougaro, Ahmad Jamal, The Temptations and Al Di Meola. (en)' } ],
+     'dbo:thumbnail': 
+      [ { value: 'wiki-commons:Special:FilePath/Tabarka,_décembre_2014_(29).jpg?width=300',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tabarka,_décembre_2014_(29).jpg?width=300' } ],
+     'dbo:wikiPageID': [ { value: '46898115 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '680263405 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1973_establishments_in_Tunisia',
+          href: 'http://dbpedia.org/resource/Category:1973_establishments_in_Tunisia' },
+        { value: 'dbc:Jazz_festivals_in_Tunisia',
+          href: 'http://dbpedia.org/resource/Category:Jazz_festivals_in_Tunisia' } ],
+     'rdfs:comment': [ { value: 'The Tabarka Jazz Festival (Tunisian Arabic: مهرجان طبرقة للجاز ‎) is an annual festival of jazz held in the coastal town of Tabarka in Tunisia. Established in 1973 for four years, it was revived again in 1997. Since 2006, the festival has faced organizational problems. (en)' } ],
+     'rdfs:label': [ { value: 'Tabarka Jazz Festival (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-fr:Tabarka Jazz Festival',
+          href: 'http://fr.dbpedia.org/resource/Tabarka_Jazz_Festival' },
+        { value: 'dbpedia-wikidata:Tabarka Jazz Festival',
+          href: 'http://wikidata.dbpedia.org/resource/Q3512718' },
+        { value: 'wikidata:Tabarka Jazz Festival',
+          href: 'http://www.wikidata.org/entity/Q3512718' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Tabarka_Jazz_Festival?oldid=680263405',
+          href: 'http://en.wikipedia.org/wiki/Tabarka_Jazz_Festival?oldid=680263405' } ],
+     'foaf:depiction': 
+      [ { value: 'wiki-commons:Special:FilePath/Tabarka,_décembre_2014_(29).jpg',
+          href: 'http://commons.wikimedia.org/wiki/Special:FilePath/Tabarka,_décembre_2014_(29).jpg' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Tabarka_Jazz_Festival',
+          href: 'http://en.wikipedia.org/wiki/Tabarka_Jazz_Festival' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Tabarka_Jazz_Festival',
+          href: 'http://en.wikipedia.org/wiki/Tabarka_Jazz_Festival' } ] } }

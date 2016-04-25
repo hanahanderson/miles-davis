@@ -1,0 +1,8 @@
+{ name: 'James Purdy',
+  href: 'http://en.wikipedia.org/wiki/James_Purdy',
+  mentions: 
+   [ { sectionHeader: 'Early life, education and early career',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 3421,
+       quote: [ 'This American incarnation of the creative parlour had at the center those who were to become the jazz greats: Percy Heath, Sonny Rollins, Erroll Garner, Dizzie Gillespie, Charlie Parker, Max Roach, Miles Davis and Sarah Vaughan.' ] } ] }

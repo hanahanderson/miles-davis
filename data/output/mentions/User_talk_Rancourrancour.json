@@ -1,0 +1,13 @@
+{ name: 'User talk:Rancourrancour',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Rancourrancour',
+  mentions: 
+   [ { sectionHeader: 'December 2008',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 465,
+       quote: [] },
+     { sectionHeader: 'December 2008',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 465,
+       quote: [ ' The recent edit you made to Miles Davis constitutes vandalism, and has been reverted.' ] } ] }

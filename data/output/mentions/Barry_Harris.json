@@ -1,0 +1,8 @@
+{ name: 'Barry Harris',
+  href: 'http://en.wikipedia.org/wiki/Barry_Harris',
+  mentions: 
+   [ { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 1827,
+       quote: [ 'Harris was based in Detroit through the 1950s and worked with musicians such as Miles Davis, Sonny Stitt and Thad Jones.' ] } ] }

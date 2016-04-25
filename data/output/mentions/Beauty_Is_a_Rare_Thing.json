@@ -1,0 +1,13 @@
+{ name: 'Beauty Is a Rare Thing',
+  href: 'http://en.wikipedia.org/wiki/Beauty_Is_a_Rare_Thing',
+  mentions: 
+   [ { sectionHeader: 'Content',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1742,
+       quote: [ 'The insert booklet contains text by Robert Palmer, forewords by Coleman and trumpeter Don Cherry, as well as various quotes of reaction to Coleman\'s music by Paul Bley, Miles Davis, Roy Eldridge, Gil Evans, Maynard Ferguson, Dizzy Gillespie, Charlie Haden, Herbie Hancock, Joe Henderson, John Lewis, Shelly Manne, Jackie McLean, Charles Mingus, and Thelonious Monk.' ] },
+     { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 2942,
+       quote: [] } ] }

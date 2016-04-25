@@ -1,0 +1,8 @@
+{ name: 'Delmar Loop',
+  href: 'http://en.wikipedia.org/wiki/Delmar_Loop',
+  mentions: 
+   [ { sectionHeader: 'St. Louis Walk of Fame',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2601,
+       quote: [ 'Louisans, including musicians Chuck Berry, Miles Davis and Tina Turner, actor John Goodman, bridge-builder James Eads and sexologists Masters and Johnson.' ] } ] }

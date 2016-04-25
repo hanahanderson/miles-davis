@@ -1,0 +1,8 @@
+{ name: 'Patricia Chica',
+  href: 'http://en.wikipedia.org/wiki/Patricia_Chica',
+  mentions: 
+   [ { sectionHeader: 'Life & Career',
+       sectionSubHeader: '',
+       sectionIndex: 12,
+       wordCountBeforeSection: 3604,
+       quote: [ 'The series featured archival footage as well as original footage and exclusive musical performances from the biggest names in jazz of the past Century: Miles Davis, Louis Armstrong, Dizzy Gillespie, Ella Fitzgerald, Wynton Marsalis, Diana Krall, Tony Bennett, Al Jarreau, and Joshua Redman just to name a few.' ] } ] }

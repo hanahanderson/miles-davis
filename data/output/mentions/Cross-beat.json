@@ -1,0 +1,18 @@
+{ name: 'Cross-beat',
+  href: 'http://en.wikipedia.org/wiki/Cross-beat',
+  mentions: 
+   [ { sectionHeader: 'Jazz',
+       sectionSubHeader: '',
+       sectionIndex: 90,
+       wordCountBeforeSection: 20679,
+       quote: [ 'On the version recorded on Miles Smiles by Miles Davis, the bass switches to 4\n4 at 2:20.' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'Duple-pulse correlative of 3:2',
+       sectionIndex: 97,
+       wordCountBeforeSection: 21563,
+       quote: [ '"Footprints," Miles Davis Quintet' ] },
+     { sectionHeader: 'References',
+       sectionSubHeader: 'Duple-pulse correlative of 3:2',
+       sectionIndex: 97,
+       wordCountBeforeSection: 21563,
+       quote: [ 'Miles Davis (trumpet), Wayne Shorter (tenor sax), Herbie Hancock (piano), Ron Carter (bass), Tony Williams (drums)\n' ] } ] }

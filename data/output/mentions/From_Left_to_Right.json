@@ -1,0 +1,8 @@
+{ name: 'From Left to Right',
+  href: 'http://en.wikipedia.org/wiki/From_Left_to_Right',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1927,
+       quote: [ 'Miles Davis' ] } ] }

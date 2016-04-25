@@ -1,0 +1,8 @@
+{ name: 'High Risk (album)',
+  href: 'http://en.wikipedia.org/wiki/High_Risk_(album)',
+  mentions: 
+   [ { sectionHeader: 'Reception',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 619,
+       quote: [ 'The Allmusic review awarded the album 4 stars out of 5, stating "While the hallucinatory nature of High Risk certainly brings to mind trumpeter Miles Davis\' \'70s and \'80s electric period, Douglas smartly bucks direct comparisons by largely eschewing heavy effects on his own horn.' ] } ] }

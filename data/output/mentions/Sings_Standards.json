@@ -1,0 +1,8 @@
+{ name: 'Sings Standards',
+  href: 'http://en.wikipedia.org/wiki/Sings_Standards',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 611,
+       quote: [ '"Blue in Green" (Miles Davis, Bill Evans) — 4:09' ] } ] }

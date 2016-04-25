@@ -1,0 +1,8 @@
+{ name: 'We Will Meet Again',
+  href: 'http://en.wikipedia.org/wiki/We_Will_Meet_Again',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 24,
+       wordCountBeforeSection: 2453,
+       quote: [ 'Miles Davis' ] } ] }

@@ -1,0 +1,13 @@
+{ name: 'Jacksonville Jazz Festival',
+  href: 'http://en.wikipedia.org/wiki/Jacksonville_Jazz_Festival',
+  mentions: 
+   [ { sectionHeader: 'Past performers',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1450,
+       quote: [ 'Over the years the festival has featured such notable artists as Dizzy Gillespie, Miles Davis, George Benson, Al Jarreau, Michael Bublé, Diane Schuur, Patti Austin, Branford Marsalis, Count Basie Orchestra, Buddy Guy, Robert Cray, Diana Krall, Herbie Hancock, Ramsey Lewis Trio, Chuck Mangione, Chris Botti, Rippingtons, Bela Fleck and the Flecktones, David Sanborn, Pamela Williams, Spyro Gyra, Dianne Reeves, Chick Corea, David Benoit, Boney James, Karrin Allyson, Grover Washington, Jr., Kenny G, Harry Connick, Jr., Natalie Cole, Mavis Staples and Greg Adams, to name a few.' ] },
+     { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 11,
+       wordCountBeforeSection: 2996,
+       quote: [ 'The 1986 festival featured Miles Davis for approximately $25,000, more than three times the cost of the headliner five years earlier.' ] } ] }

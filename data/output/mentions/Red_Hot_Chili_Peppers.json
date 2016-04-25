@@ -1,0 +1,8 @@
+{ name: 'Red Hot Chili Peppers',
+  href: 'http://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers',
+  mentions: 
+   [ { sectionHeader: 'Musical style',
+       sectionSubHeader: '',
+       sectionIndex: 110,
+       wordCountBeforeSection: 69880,
+       quote: [ 'The band\'s influences include Defunkt, Parliament-Funkadelic, Jimi Hendrix, The Misfits, James Brown, Gang of Four, Bob Marley, Big Boys, Bad Brains, Sly and the Family Stone, Ohio Players, Queen, Stevie Wonder, Elvis Presley, Deep Purple, The Beach Boys, Black Flag, Ornette Coleman, Led Zeppelin, Yes, Fugazi, Fishbone, Marvin Gaye, Billie Holiday, Santana, Elvis Costello, The Stooges, The Clash, Siouxsie and the Banshees, Devo, and Miles Davis.' ] } ] }

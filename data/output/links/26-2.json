@@ -1,0 +1,30 @@
+{ name: '26-2',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/26-2',
+  values: 
+   { 'dbo:abstract': [ { value: '"26-2" is a musical composition written by American Jazz musician John Coltrane.The song was recorded by Coltrane in 1960, but released four years later in 1964 on the record label Atlantic Records on an album entitled Coltrane\'s Sound with a rhythm section composed of McCoy Tyner on piano, Steve Davis on bass, and Elvin Jones on drums. The composition itself is a contrafact of Charlie Parker\'s tune "Confirmation", with harmonic alterations to the original chord changes used by Coltrane in a number of his composition—this harmonic modification is commonly known as Coltrane Changes—most notably used in Coltrane\'s "Giant Steps". "26-2" is one of several contrafacts by Coltrane, others including "Countdown" (off of Giant Steps—a contrafact of Miles Davis\'s "Tune Up", and "Satellite" off of the same album of Coltrane\'s Sound—based upon the original harmonic changes of Charlie Parker\'s "Ornithology" (which itself is a contrafact of the American Songbook composition "How High the Moon)". Coltrane plays the first statement of the melody playing tenor saxophone, and switches to soprano saxophone for the last statement of the melody on the recorded version. (en)' } ],
+     'dbo:wikiPageID': [ { value: '45714247 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681889428 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1964_songs',
+          href: 'http://dbpedia.org/resource/Category:1964_songs' },
+        { value: 'dbc:Compositions_by_John_Coltrane',
+          href: 'http://dbpedia.org/resource/Category:Compositions_by_John_Coltrane' } ],
+     'rdfs:comment': [ { value: '"26-2" is a musical composition written by American Jazz musician John Coltrane.The song was recorded by Coltrane in 1960, but released four years later in 1964 on the record label Atlantic Records on an album entitled Coltrane\'s Sound with a rhythm section composed of McCoy Tyner on piano, Steve Davis on bass, and Elvin Jones on drums. (en)' } ],
+     'rdfs:label': [ { value: '26-2 (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:26-2',
+          href: 'http://rdf.freebase.com/ns/m.0130q1cl' },
+        { value: 'wikidata:26-2',
+          href: 'http://www.wikidata.org/entity/Q19870938' },
+        { value: 'dbpedia-wikidata:26-2',
+          href: 'http://wikidata.dbpedia.org/resource/Q19870938' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:26-2?oldid=681889428',
+          href: 'http://en.wikipedia.org/wiki/26-2?oldid=681889428' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:26-2',
+          href: 'http://en.wikipedia.org/wiki/26-2' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:26-2',
+          href: 'http://en.wikipedia.org/wiki/26-2' } ] } }

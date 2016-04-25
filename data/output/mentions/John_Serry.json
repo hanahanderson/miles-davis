@@ -1,0 +1,8 @@
+{ name: 'John Serry',
+  href: 'http://en.wikipedia.org/wiki/John_Serry',
+  mentions: 
+   [ { sectionHeader: 'Early career',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 9164,
+       quote: [ 'The album was co-produced by Miles Davis\' producer, Teo Macero, and the group performed at the 1978 Montreux Jazz Festival.' ] } ] }

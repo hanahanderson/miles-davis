@@ -1,0 +1,8 @@
+{ name: 'Minor Elegance',
+  href: 'http://en.wikipedia.org/wiki/Minor_Elegance',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 615,
+       quote: [ 'All compositions written by Joe Diorio except "Swank Thing" by Robben Ford, "Soul Eyes" by Mal Waldron, and "So What" by Miles Davis.' ] } ] }

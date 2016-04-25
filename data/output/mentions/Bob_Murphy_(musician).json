@@ -1,0 +1,8 @@
+{ name: 'Bob Murphy (musician)',
+  href: 'http://en.wikipedia.org/wiki/Bob_Murphy_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 538,
+       quote: [ 'Murphy\'s musical influences include Bill Evans, Keith Jarrett, Miles Davis, Cannonball Adderley, Chick Corea and John Coltrane.' ] } ] }

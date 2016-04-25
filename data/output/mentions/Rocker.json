@@ -1,0 +1,8 @@
+{ name: 'Rocker',
+  href: 'http://en.wikipedia.org/wiki/Rocker',
+  mentions: 
+   [ { sectionHeader: 'Art, entertainment, and media',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 1863,
+       quote: [ '"Rocker", a song composed by Gerry Mulligan and recorded by Miles Davis and by Charlie Parker' ] } ] }

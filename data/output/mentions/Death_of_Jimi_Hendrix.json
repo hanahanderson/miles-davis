@@ -1,0 +1,8 @@
+{ name: 'Death of Jimi Hendrix',
+  href: 'http://en.wikipedia.org/wiki/Death_of_Jimi_Hendrix',
+  mentions: 
+   [ { sectionHeader: 'Post-mortem',
+       sectionSubHeader: 'Early morning',
+       sectionIndex: 39,
+       wordCountBeforeSection: 20877,
+       quote: [ 'More than two hundred people attended the funeral, including several notable musicians such as the original Experience members Mitch Mitchell and Noel Redding, as well as Miles Davis, John Hammond and Johnny Winter.' ] } ] }

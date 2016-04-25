@@ -1,0 +1,8 @@
+{ name: 'György Kurtág',
+  href: 'http://en.wikipedia.org/wiki/Gy%C3%B6rgy_Kurt%C3%A1g',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 29,
+       wordCountBeforeSection: 10644,
+       quote: [ 'Miles Davis (1984)' ] } ] }

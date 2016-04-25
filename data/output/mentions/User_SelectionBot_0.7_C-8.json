@@ -1,0 +1,8 @@
+{ name: 'User:SelectionBot/0.7/C-8',
+  href: 'http://en.wikipedia.org/wiki/User:SelectionBot/0.7/C-8',
+  mentions: 
+   [ { sectionHeader: 'Contemporary music',
+       sectionSubHeader: 'Windows 7 to Zune',
+       sectionIndex: 32,
+       wordCountBeforeSection: 9470,
+       quote: [ 'Miles Davis :' ] } ] }

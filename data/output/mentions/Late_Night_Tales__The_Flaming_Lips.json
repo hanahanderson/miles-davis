@@ -1,0 +1,8 @@
+{ name: 'Late Night Tales: The Flaming Lips',
+  href: 'http://en.wikipedia.org/wiki/Late_Night_Tales:_The_Flaming_Lips',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1465,
+       quote: [ 'Miles Davis' ] } ] }

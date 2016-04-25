@@ -1,0 +1,12 @@
+{ name: 'File:Bitches Brew Live.jpg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Bitches_Brew_Live.jpg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '33578883 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '517753244 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Bitches_Brew_Live.jpg?oldid=517753244',
+          href: 'http://en.wikipedia.org/wiki/File:Bitches_Brew_Live.jpg?oldid=517753244' } ],
+     'owl:sameAs': 
+      [ { value: 'dbr:File:Bitches_Brew_Live.jpg',
+          href: 'http://dbpedia.org/resource/File:Bitches_Brew_Live.jpg' } ] } }

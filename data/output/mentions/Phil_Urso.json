@@ -1,0 +1,8 @@
+{ name: 'Phil Urso',
+  href: 'http://en.wikipedia.org/wiki/Phil_Urso',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 196,
+       quote: [ 'There he played with Elliot Lawrence (1948–50), Woody Herman (1950-51), Terry Gibbs, Miles Davis (1952), Oscar Pettiford (1953), Jimmy Dorsey, and Bob Brookmeyer (1954).' ] } ] }

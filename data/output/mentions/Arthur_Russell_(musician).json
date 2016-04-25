@@ -1,0 +1,8 @@
+{ name: 'Arthur Russell (musician)',
+  href: 'http://en.wikipedia.org/wiki/Arthur_Russell_(musician)',
+  mentions: 
+   [ { sectionHeader: 'Cultural significance and influence',
+       sectionSubHeader: '1986–1992: Later work, illness, and death',
+       sectionIndex: 36,
+       wordCountBeforeSection: 19788,
+       quote: [ 'In 2004, Stylus described him as "criminally overlooked for far too long" and "a genius—never to be recognized in his own time, but to be enjoyed by generations to come." PopMatters noted "the contributions Russell made to the disparate genres of dance, disco, dub, and experimental music" and wrote that "his absolute fearlessness in lending his own unique style to even the most unlikely sound combinations is peerless." Pitchfork called Russell "a changeling artist whose only parallel might be Miles Davis, constantly placing his individual sound in new contexts, constantly searching."' ] } ] }

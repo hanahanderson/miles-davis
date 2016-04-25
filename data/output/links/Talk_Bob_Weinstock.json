@@ -1,0 +1,4 @@
+{ name: 'Talk:Bob Weinstock',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Talk:Bob_Weinstock',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

@@ -1,0 +1,8 @@
+{ name: 'The Squirrel',
+  href: 'http://en.wikipedia.org/wiki/The_Squirrel',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 108,
+       quote: [ 'The song has been recorded by several notable artists including Miles Davis who first recorded the song in 1951 (released in 2004 on the CD Birdland 1951).' ] } ] }

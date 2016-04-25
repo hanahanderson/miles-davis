@@ -1,0 +1,8 @@
+{ name: 'Rough House (album)',
+  href: 'http://en.wikipedia.org/wiki/Rough_House_(album)',
+  mentions: 
+   [ { sectionHeader: 'References',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 658,
+       quote: [ 'Miles Davis' ] } ] }

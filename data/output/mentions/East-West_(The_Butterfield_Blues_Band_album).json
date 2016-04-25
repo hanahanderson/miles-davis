@@ -1,0 +1,8 @@
+{ name: 'East-West (The Butterfield Blues Band album)',
+  href: 'http://en.wikipedia.org/wiki/East-West_(The_Butterfield_Blues_Band_album)',
+  mentions: 
+   [ { sectionHeader: 'Content',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1518,
+       quote: [ 'Both reflected his love of jazz, as "Work Song" had become a hard bop standard, and the title track "East-West" used elements of modal jazz as introduced by Miles Davis on his ground-breaking Kind of Blue album.' ] } ] }

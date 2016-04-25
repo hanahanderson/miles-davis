@@ -1,0 +1,13 @@
+{ name: 'Apex Studios',
+  href: 'http://en.wikipedia.org/wiki/Apex_Studios',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'It was noted for its jazz; Miles Davis\'s album Miles Davis and Horns was partly recorded here in 1951.' ] },
+     { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Miles Davis and Horns' ] } ] }

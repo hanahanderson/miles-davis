@@ -1,0 +1,8 @@
+{ name: 'That Old Black Magic',
+  href: 'http://en.wikipedia.org/wiki/That_Old_Black_Magic',
+  mentions: 
+   [ { sectionHeader: 'Recorded versions',
+       sectionSubHeader: '',
+       sectionIndex: 31,
+       wordCountBeforeSection: 5536,
+       quote: [ 'Miles Davis' ] } ] }

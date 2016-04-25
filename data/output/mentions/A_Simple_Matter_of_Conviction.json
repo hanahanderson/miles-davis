@@ -1,0 +1,8 @@
+{ name: 'A Simple Matter of Conviction',
+  href: 'http://en.wikipedia.org/wiki/A_Simple_Matter_of_Conviction',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 16,
+       wordCountBeforeSection: 1773,
+       quote: [ 'Miles Davis' ] } ] }

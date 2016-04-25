@@ -1,0 +1,8 @@
+{ name: 'Paul Tingen',
+  href: 'http://en.wikipedia.org/wiki/Paul_Tingen',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 875,
+       quote: [ 'Tingen is best known for his book about the electric music of Miles Davis, Miles Beyond: The Electric Explorations of Miles Davis, 1967–1991, which was published by Watson-Guptill in 2001.' ] } ] }

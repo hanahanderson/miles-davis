@@ -1,0 +1,9 @@
+{ name: 'File:Miles Davis - Prelude.ogg',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/File:Miles_Davis_-_Prelude.ogg',
+  values: 
+   { 'dbo:wikiPageID': [ { value: '39781908 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '573836001 (xsd:integer)' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:File:Miles_Davis_-_Prelude.ogg?oldid=573836001',
+          href: 'http://en.wikipedia.org/wiki/File:Miles_Davis_-_Prelude.ogg?oldid=573836001' } ] } }

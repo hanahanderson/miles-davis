@@ -1,0 +1,107 @@
+{ name: 'Skylark (Shirley Scott album)',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Skylark_(Shirley_Scott_album)',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '59.86666666666667' } ],
+     'dbo:abstract': [ { value: 'Skylark is a live album by the Shirley Scott Trio recorded in 1991 at Birdland and released on the Candid label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Shirley_Scott',
+          href: 'http://dbpedia.org/resource/Shirley_Scott' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Blues_Everywhere',
+          href: 'http://dbpedia.org/resource/Blues_Everywhere' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Candid_Records',
+          href: 'http://dbpedia.org/resource/Candid_Records' } ],
+     'dbo:recordedIn': 
+      [ { value: 'dbr:Birdland_(New_York_jazz_club)',
+          href: 'http://dbpedia.org/resource/Birdland_(New_York_jazz_club)' } ],
+     'dbo:runtime': [ { value: '3592.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:A_Walkin\'_Thing',
+          href: 'http://dbpedia.org/resource/A_Walkin\'_Thing' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '36340110 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '542254572 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Shirley_Scott',
+          href: 'http://dbpedia.org/resource/Shirley_Scott' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Shirley_Scott',
+          href: 'http://dbpedia.org/resource/Shirley_Scott' } ],
+     'dbp:cover': [ { value: 'Skylark .jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Candid_Records',
+          href: 'http://dbpedia.org/resource/Candid_Records' },
+        { value: 'CCD79705 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Blues Everywhere (en)' } ],
+     'dbp:length': [ { value: '3592.0' } ],
+     'dbp:name': [ { value: 'Skylark (en)' } ],
+     'dbp:nextAlbum': [ { value: 'A Walkin\' Thing (en)' } ],
+     'dbp:producer': [ { value: 'Mark Morganelli and Alan Bates (en)' } ],
+     'dbp:recorded': 
+      [ { value: '--11-22' },
+        { value: 'Birdland, New York City (en)' } ],
+     'dbp:released': [ { value: '1991 (xsd:integer)' } ],
+     'dbp:rev': 
+      [ { value: 'dbr:AllMusic',
+          href: 'http://dbpedia.org/resource/AllMusic' } ],
+     'dbp:thisAlbum': [ { value: 'Skylark (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1991_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1991_live_albums' },
+        { value: 'dbc:Candid_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Candid_Records_live_albums' },
+        { value: 'dbc:Shirley_Scott_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Shirley_Scott_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Skylark is a live album by the Shirley Scott Trio recorded in 1991 at Birdland and released on the Candid label. (en)' } ],
+     'rdfs:label': [ { value: 'Skylark (Shirley Scott album) (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Skylark (Shirley Scott album)',
+          href: 'http://rdf.freebase.com/ns/m.0k3m63q' },
+        { value: 'wikidata:Skylark (Shirley Scott album)',
+          href: 'http://www.wikidata.org/entity/Q7537817' },
+        { value: 'dbpedia-wikidata:Skylark (Shirley Scott album)',
+          href: 'http://wikidata.dbpedia.org/resource/Q7537817' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Skylark_(Shirley_Scott_album)?oldid=542254572',
+          href: 'http://en.wikipedia.org/wiki/Skylark_(Shirley_Scott_album)?oldid=542254572' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Skylark_(Shirley_Scott_album)',
+          href: 'http://en.wikipedia.org/wiki/Skylark_(Shirley_Scott_album)' } ],
+     'foaf:name': [ { value: 'Skylark (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:A_Walkin\'_Thing',
+          href: 'http://dbpedia.org/resource/A_Walkin\'_Thing' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Blues_Everywhere',
+          href: 'http://dbpedia.org/resource/Blues_Everywhere' } ],
+     'is dbo:wikiPageDisambiguates\n of': 
+      [ { value: 'dbr:Skylark_(disambiguation)',
+          href: 'http://dbpedia.org/resource/Skylark_(disambiguation)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Skylark_(Shirley_Scott_album)',
+          href: 'http://en.wikipedia.org/wiki/Skylark_(Shirley_Scott_album)' } ] } }

@@ -1,0 +1,8 @@
+{ name: 'Hal Russell',
+  href: 'http://en.wikipedia.org/wiki/Hal_Russell',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 4,
+       wordCountBeforeSection: 1215,
+       quote: [ 'In the \'50s he worked with an incredible chain of legendary players: Miles Davis, Billie Holiday, Sonny Rollins, John Coltrane, Duke Ellington.' ] } ] }

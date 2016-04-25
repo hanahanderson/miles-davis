@@ -1,0 +1,8 @@
+{ name: 'Wikipedia:WikiProject Musicians/Popular pages',
+  href: 'http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Musicians/Popular_pages',
+  mentions: 
+   [ { sectionHeader: 'List',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 542,
+       quote: [ 'Miles Davis' ] } ] }

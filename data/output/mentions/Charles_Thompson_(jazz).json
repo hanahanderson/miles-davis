@@ -1,0 +1,8 @@
+{ name: 'Charles Thompson (jazz)',
+  href: 'http://en.wikipedia.org/wiki/Charles_Thompson_(jazz)',
+  mentions: 
+   [ { sectionHeader: 'Later life and career',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 1183,
+       quote: [ 'Throughout the 1940s he played and recorded with Charlie Parker, Dexter Gordon, Miles Davis and J.C. Heard, among others.' ] } ] }

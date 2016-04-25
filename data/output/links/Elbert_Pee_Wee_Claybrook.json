@@ -1,0 +1,36 @@
+{ name: 'Elbert Pee Wee Claybrook',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Elbert_Pee_Wee_Claybrook',
+  values: 
+   { 'dbo:abstract': [ { value: 'Elbert “Pee  Wee” Claybrook (March 13, 1912- February 25, 1996) was a prominent tenor saxophonist from St. Louis, Missouri. He lived a life of over 50 years playing jazz swing music. He began his musical career in the late 1930s playing with the Fate Marable Mississippi riverboat band.In the 1930s, he was playing with many famous jazz artists such as Jimmy Blanton, Jimmy Forrest, Sid Catlett, Art Blakey, Sweets Edison and Clark Terry. In 1942, Pee Wee and his buddy Clark Terry were inducted into the U.S. Navy, and sent to the Great Lakes Naval Training Station band near Chicago, Illinois. In 1944, he was reassigned to the Navy\'s Pre-Flight School located at St. Mary\'s College in Moraga, California. (en)' } ],
+     'dbo:wikiPageID': [ { value: '47455896 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '681945183 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1912_births',
+          href: 'http://dbpedia.org/resource/Category:1912_births' },
+        { value: 'dbc:1996_deaths',
+          href: 'http://dbpedia.org/resource/Category:1996_deaths' },
+        { value: 'dbc:African-American_jazz_musicians',
+          href: 'http://dbpedia.org/resource/Category:African-American_jazz_musicians' },
+        { value: 'dbc:Musicians_from_Missouri',
+          href: 'http://dbpedia.org/resource/Category:Musicians_from_Missouri' },
+        { value: 'dbc:People_from_St._Louis,_Missouri',
+          href: 'http://dbpedia.org/resource/Category:People_from_St._Louis,_Missouri' },
+        { value: 'dbc:American_jazz_tenor_saxophonists',
+          href: 'http://dbpedia.org/resource/Category:American_jazz_tenor_saxophonists' } ],
+     'rdfs:comment': [ { value: 'Elbert “Pee  Wee” Claybrook (March 13, 1912- February 25, 1996) was a prominent tenor saxophonist from St. Louis, Missouri. He lived a life of over 50 years playing jazz swing music. He began his musical career in the late 1930s playing with the Fate Marable Mississippi riverboat band.In the 1930s, he was playing with many famous jazz artists such as Jimmy Blanton, Jimmy Forrest, Sid Catlett, Art Blakey, Sweets Edison and Clark Terry. (en)' } ],
+     'rdfs:label': [ { value: 'Elbert Pee Wee Claybrook (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'wikidata:Elbert Pee Wee Claybrook',
+          href: 'http://www.wikidata.org/entity/Q20810855' },
+        { value: 'dbpedia-wikidata:Elbert Pee Wee Claybrook',
+          href: 'http://wikidata.dbpedia.org/resource/Q20810855' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Elbert_Pee_Wee_Claybrook?oldid=681945183',
+          href: 'http://en.wikipedia.org/wiki/Elbert_Pee_Wee_Claybrook?oldid=681945183' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Elbert_Pee_Wee_Claybrook',
+          href: 'http://en.wikipedia.org/wiki/Elbert_Pee_Wee_Claybrook' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Elbert_Pee_Wee_Claybrook',
+          href: 'http://en.wikipedia.org/wiki/Elbert_Pee_Wee_Claybrook' } ] } }

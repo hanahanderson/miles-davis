@@ -1,0 +1,13 @@
+{ name: 'Cuíca',
+  href: 'http://en.wikipedia.org/wiki/Cu%C3%ADca',
+  mentions: 
+   [ { sectionHeader: 'In popular music',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 4326,
+       quote: [ 'Miles Davis\'s later work, where it is played by Airto Moreira, such as on the Black Beauty: Live at the Fillmore West, Miles Davis at Fillmore: Live at the Fillmore East, Live at the Fillmore East, March 7, 1970: It\'s About That Time albums and the track "Feio" on the Bitches Brew CD reissue (1999)' ] },
+     { sectionHeader: 'In popular music',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 4326,
+       quote: [ 'Miles Davis at Fillmore: Live at the Fillmore East' ] } ] }

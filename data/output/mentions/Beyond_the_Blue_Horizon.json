@@ -1,0 +1,8 @@
+{ name: 'Beyond the Blue Horizon',
+  href: 'http://en.wikipedia.org/wiki/Beyond_the_Blue_Horizon',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 5,
+       wordCountBeforeSection: 692,
+       quote: [ '"So What" (Miles Davis) – 9:21' ] } ] }

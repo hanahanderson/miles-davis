@@ -1,0 +1,8 @@
+{ name: 'The Complete RCA Victor Recordings',
+  href: 'http://en.wikipedia.org/wiki/The_Complete_RCA_Victor_Recordings',
+  mentions: 
+   [ { sectionHeader: 'Personnel',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 4436,
+       quote: [ 'Benny Bailey (tracks: 1-1, 1-17 to 2-1), Benny Harris (tracks: 2-6 to 2-17), Bill Dillard (tracks: 1-3 to 1-5), Dave Burns (tracks: 1-1, 1-13 to 2-5), Elmon Wright (tracks: 1-1, 1-13 to 2-17), Fats Navarro (tracks: 2-18, 2-19, 2-21), Lammar Wright, Jr. (tracks: 1-1, 1-17 to 2-1), Matthew McKay (tracks: 1-13 to 1-16), Miles Davis (tracks: 2-18, 2-19, 2-21), Ray Orr (tracks: 1-13 to 1-16), Shad Collins (tracks: 1-3 to 1-5), Willie Cook (tracks: 2-2 to 2-17) - trumpet' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'List of people on the cover of Rolling Stone',
+  href: 'http://en.wikipedia.org/wiki/List_of_people_on_the_cover_of_Rolling_Stone',
+  mentions: 
+   [ { sectionHeader: 'Individuals',
+       sectionSubHeader: '',
+       sectionIndex: 14,
+       wordCountBeforeSection: 12960,
+       quote: [ 'Miles Davis – jazz musician (48)' ] } ] }

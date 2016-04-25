@@ -1,0 +1,4 @@
+{ name: 'Wikipedia talk:Requests for comment/MARMOT',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Wikipedia_talk:Requests_for_comment/MARMOT',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

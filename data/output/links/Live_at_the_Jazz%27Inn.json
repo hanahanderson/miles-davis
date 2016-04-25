@@ -1,0 +1,96 @@
+{ name: 'Live at the Jazz\'Inn',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Live_at_the_Jazz%27Inn',
+  values: 
+   { 'dbo:abstract': [ { value: 'Live at the Jazz\'Inn is a live album by pianist Jaki Byard recorded in Paris in 1971 released on the French Futura label. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Jaki_Byard',
+          href: 'http://dbpedia.org/resource/Jaki_Byard' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:Solo_Piano_(Jaki_Byard_album)',
+          href: 'http://dbpedia.org/resource/Solo_Piano_(Jaki_Byard_album)' } ],
+     'dbo:recordDate': [ { value: '1971-07-26 (xsd:date)' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Futura_Records',
+          href: 'http://dbpedia.org/resource/Futura_Records' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Parisian_Solos',
+          href: 'http://dbpedia.org/resource/Parisian_Solos' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '36557206 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '559426090 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Jaki_Byard',
+          href: 'http://dbpedia.org/resource/Jaki_Byard' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Jaki_Byard',
+          href: 'http://dbpedia.org/resource/Jaki_Byard' } ],
+     'dbp:cover': [ { value: 'Live at the Jazz Inn.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Futura_Records',
+          href: 'http://dbpedia.org/resource/Futura_Records' },
+        { value: 'GER 29 (en)' } ],
+     'dbp:lastAlbum': [ { value: 'Solo Piano (en)' } ],
+     'dbp:name': [ { value: 'Live at the Jazz\'Inn (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Parisian Solos (en)' } ],
+     'dbp:producer': [ { value: 'Gérard Terrones (en)' } ],
+     'dbp:recorded': 
+      [ { value: '1971-07-26 (xsd:date)' },
+        { value: 'The Jazz\'Inn, Paris, France (en)' } ],
+     'dbp:released': [ { value: '1971 (xsd:integer)' } ],
+     'dbp:thisAlbum': [ { value: 'Live at the Jazz\'Inn (en)' } ],
+     'dbp:type': [ { value: 'Live album (en)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1971_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1971_live_albums' },
+        { value: 'dbc:Futura_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Futura_Records_live_albums' },
+        { value: 'dbc:Jaki_Byard_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Jaki_Byard_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Live at the Jazz\'Inn is a live album by pianist Jaki Byard recorded in Paris in 1971 released on the French Futura label. (en)' } ],
+     'rdfs:label': [ { value: 'Live at the Jazz\'Inn (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Live at the Jazz\'Inn',
+          href: 'http://rdf.freebase.com/ns/m.0kfw1gl' },
+        { value: 'dbpedia-wikidata:Live at the Jazz\'Inn',
+          href: 'http://wikidata.dbpedia.org/resource/Q6656793' },
+        { value: 'wikidata:Live at the Jazz\'Inn',
+          href: 'http://www.wikidata.org/entity/Q6656793' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Live_at_the_Jazz\'Inn?oldid=559426090',
+          href: 'http://en.wikipedia.org/wiki/Live_at_the_Jazz\'Inn?oldid=559426090' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Live_at_the_Jazz\'Inn',
+          href: 'http://en.wikipedia.org/wiki/Live_at_the_Jazz\'Inn' } ],
+     'foaf:name': [ { value: 'Live at the Jazz\'Inn (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Parisian_Solos',
+          href: 'http://dbpedia.org/resource/Parisian_Solos' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:Solo_Piano_(Jaki_Byard_album)',
+          href: 'http://dbpedia.org/resource/Solo_Piano_(Jaki_Byard_album)' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Live_at_the_Jazz\'Inn',
+          href: 'http://en.wikipedia.org/wiki/Live_at_the_Jazz\'Inn' } ] } }

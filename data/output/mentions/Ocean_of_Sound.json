@@ -1,0 +1,8 @@
+{ name: 'Ocean of Sound',
+  href: 'http://en.wikipedia.org/wiki/Ocean_of_Sound',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 18,
+       wordCountBeforeSection: 6906,
+       quote: [ 'Miles Davis' ] } ] }

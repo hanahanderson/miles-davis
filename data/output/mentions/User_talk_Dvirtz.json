@@ -1,0 +1,8 @@
+{ name: 'User talk:Dvirtz',
+  href: 'http://en.wikipedia.org/wiki/User_talk:Dvirtz',
+  mentions: 
+   [ { sectionHeader: 'April 2009',
+       sectionSubHeader: '',
+       sectionIndex: 6,
+       wordCountBeforeSection: 1670,
+       quote: [ 'If you still want to try this, my suggestion would be a collapsible box placed much lower in the article, the way {{Léonie Sonning Music Prize laureates}} is placed at the bottom of Miles Davis.' ] } ] }

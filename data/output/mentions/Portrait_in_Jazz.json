@@ -1,0 +1,18 @@
+{ name: 'Portrait in Jazz',
+  href: 'http://en.wikipedia.org/wiki/Portrait_in_Jazz',
+  mentions: 
+   [ { sectionHeader: 'History',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 620,
+       quote: [ 'Eight months after his successful collaboration with Miles Davis on the album Kind of Blue, Evans recorded Portrait in Jazz with a new group (the Bill Evans Trio) that helped change the direction of modern jazz.' ] },
+     { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 13,
+       wordCountBeforeSection: 1878,
+       quote: [ '"Blue in Green" (Miles Davis, Evans) – 5:25' ] },
+     { sectionHeader: 'External links',
+       sectionSubHeader: 'Additional personnel',
+       sectionIndex: 24,
+       wordCountBeforeSection: 3055,
+       quote: [ 'Miles Davis' ] } ] }

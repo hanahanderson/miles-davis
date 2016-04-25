@@ -1,0 +1,8 @@
+{ name: 'Dwele',
+  href: 'http://en.wikipedia.org/wiki/Dwele',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 7,
+       wordCountBeforeSection: 862,
+       quote: [ 'He was deeply affected by the fatal shooting of his father outside his home when he was age ten, later stating "I learned to put my emotions into music; it was my therapy." He cites Stevie Wonder, Donny Hathaway, Roy Ayers, Miles Davis, and Freddie Hubbard as favorite artists, and took inspiration from hip hop group A Tribe Called Quest, becoming an MC, and working with Slum Village.' ] } ] }

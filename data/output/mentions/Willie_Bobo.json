@@ -1,0 +1,18 @@
+{ name: 'Willie Bobo',
+  href: 'http://en.wikipedia.org/wiki/Willie_Bobo',
+  mentions: 
+   [ { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 27,
+       wordCountBeforeSection: 3553,
+       quote: [ 'With Miles Davis' ] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 3569,
+       quote: [] },
+     { sectionHeader: 'Discography',
+       sectionSubHeader: '',
+       sectionIndex: 28,
+       wordCountBeforeSection: 3569,
+       quote: [] } ] }

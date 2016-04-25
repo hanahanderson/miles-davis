@@ -1,0 +1,13 @@
+{ name: 'List of hard bop musicians',
+  href: 'http://en.wikipedia.org/wiki/List_of_hard_bop_musicians',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 0,
+       wordCountBeforeSection: 0,
+       quote: [ 'Rosenthal contends in his book Hard Bop that the genre is, to a large degree, the natural creation of a generation of African-American musicians who grew up at a time when bop and rhythm and blues were the dominant forms of black American music.:24 Prominent hard bop musicians included Horace Silver, Charles Mingus, Art Blakey, Cannonball Adderley, Miles Davis and Tadd Dameron.' ] },
+     { sectionHeader: 'D',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 2387,
+       quote: [ 'Miles Davis - trumpet' ] } ] }

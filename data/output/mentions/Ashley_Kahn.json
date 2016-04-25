@@ -1,0 +1,8 @@
+{ name: 'Ashley Kahn',
+  href: 'http://en.wikipedia.org/wiki/Ashley_Kahn',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 2,
+       wordCountBeforeSection: 1344,
+       quote: [ 'To date, his most critically acclaimed books have been on two major jazz albums, Kind of Blue by Miles Davis and A Love Supreme by John Coltrane.' ] } ] }

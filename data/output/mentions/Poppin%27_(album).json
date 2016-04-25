@@ -1,0 +1,8 @@
+{ name: 'Poppin\' (album)',
+  href: 'http://en.wikipedia.org/wiki/Poppin%27_(album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1243,
+       quote: [] } ] }

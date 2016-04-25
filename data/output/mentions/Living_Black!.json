@@ -1,0 +1,8 @@
+{ name: 'Living Black!',
+  href: 'http://en.wikipedia.org/wiki/Living_Black!',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 10,
+       wordCountBeforeSection: 1185,
+       quote: [ '"Milestones" (Miles Davis) - 4:34' ] } ] }

@@ -1,0 +1,99 @@
+{ name: 'Blue in Green: The Concert in Canada',
+  entityType: 'Live album',
+  href: 'http://dbpedia.org/page/Blue_in_Green:_The_Concert_in_Canada',
+  values: 
+   { 'dbo:Work/runtime': [ { value: '50.8' } ],
+     'dbo:abstract': [ { value: 'Blue in Green: The Concert in Canada is a live album by jazz pianist Bill Evans with Eddie Gómez and Marty Morell recorded in Camp Fortune, Ottawa, Canada in 1974 and released on the Milestone label in 1991. (en)' } ],
+     'dbo:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbo:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbo:previousWork': 
+      [ { value: 'dbr:The_Solo_Sessions,_Vol._2',
+          href: 'http://dbpedia.org/resource/The_Solo_Sessions,_Vol._2' } ],
+     'dbo:recordLabel': 
+      [ { value: 'dbr:Milestone_Records',
+          href: 'http://dbpedia.org/resource/Milestone_Records' } ],
+     'dbo:runtime': [ { value: '3048.000000 (xsd:double)' } ],
+     'dbo:subsequentWork': 
+      [ { value: 'dbr:Letter_to_Evan',
+          href: 'http://dbpedia.org/resource/Letter_to_Evan' } ],
+     'dbo:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dbo:wikiPageID': [ { value: '26679783 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '624904834 (xsd:integer)' } ],
+     'dbp:artist': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:chronology': 
+      [ { value: 'dbr:Bill_Evans',
+          href: 'http://dbpedia.org/resource/Bill_Evans' } ],
+     'dbp:cover': [ { value: 'Blue in Green The Concert in Canada.jpg (en)' } ],
+     'dbp:genre': [ { value: 'dbr:Jazz', href: 'http://dbpedia.org/resource/Jazz' } ],
+     'dbp:label': 
+      [ { value: 'dbr:Milestone_Records',
+          href: 'http://dbpedia.org/resource/Milestone_Records' } ],
+     'dbp:lastAlbum': [ { value: 'The Solo Sessions, Vol. 2 (en)' } ],
+     'dbp:length': [ { value: '3048.0' } ],
+     'dbp:name': [ { value: 'Blue in Green: The Concert in Canada (en)' } ],
+     'dbp:nextAlbum': [ { value: 'Letter to Evan (en)' } ],
+     'dbp:recorded': [ { value: 'August, 1974 (en)' } ],
+     'dbp:released': [ { value: '1991 (xsd:integer)' } ],
+     'dbp:rev': [ { value: 'Allmusic (en)' } ],
+     'dbp:thisAlbum': [ { value: 'Blue in Green: The Concert in Canada (en)' } ],
+     'dbp:type': 
+      [ { value: 'dbr:Live_album',
+          href: 'http://dbpedia.org/resource/Live_album' } ],
+     'dct:subject': 
+      [ { value: 'dbc:1991_live_albums',
+          href: 'http://dbpedia.org/resource/Category:1991_live_albums' },
+        { value: 'dbc:Bill_Evans_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Bill_Evans_live_albums' },
+        { value: 'dbc:Milestone_Records_live_albums',
+          href: 'http://dbpedia.org/resource/Category:Milestone_Records_live_albums' } ],
+     'rdf:type': 
+      [ { value: 'owl:Thing',
+          href: 'http://www.w3.org/2002/07/owl#Thing' },
+        { value: 'wikidata:Q2188189',
+          href: 'http://www.wikidata.org/entity/Q2188189' },
+        { value: 'wikidata:Q386724',
+          href: 'http://www.wikidata.org/entity/Q386724' },
+        { value: 'wikidata:Q482994',
+          href: 'http://www.wikidata.org/entity/Q482994' },
+        { value: 'dbo:Album',
+          href: 'http://dbpedia.org/ontology/Album' },
+        { value: 'dbo:MusicalWork',
+          href: 'http://dbpedia.org/ontology/MusicalWork' },
+        { value: 'dbo:Work', href: 'http://dbpedia.org/ontology/Work' },
+        { value: 'schema:CreativeWork',
+          href: 'http://schema.org/CreativeWork' },
+        { value: 'schema:MusicAlbum',
+          href: 'http://schema.org/MusicAlbum' } ],
+     'rdfs:comment': [ { value: 'Blue in Green: The Concert in Canada is a live album by jazz pianist Bill Evans with Eddie Gómez and Marty Morell recorded in Camp Fortune, Ottawa, Canada in 1974 and released on the Milestone label in 1991. (en)' } ],
+     'rdfs:label': [ { value: 'Blue in Green: The Concert in Canada (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'freebase:Blue in Green: The Concert in Canada',
+          href: 'http://rdf.freebase.com/ns/m.0bm8hsm' },
+        { value: 'dbpedia-es:Blue in Green: The Concert in Canada',
+          href: 'http://es.dbpedia.org/resource/Blue_in_Green:_The_Concert_in_Canada' },
+        { value: 'dbpedia-wikidata:Blue in Green: The Concert in Canada',
+          href: 'http://wikidata.dbpedia.org/resource/Q1188995' },
+        { value: 'wikidata:Blue in Green: The Concert in Canada',
+          href: 'http://www.wikidata.org/entity/Q1188995' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Blue_in_Green:_The_Concert_in_Canada?oldid=624904834',
+          href: 'http://en.wikipedia.org/wiki/Blue_in_Green:_The_Concert_in_Canada?oldid=624904834' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Blue_in_Green:_The_Concert_in_Canada',
+          href: 'http://en.wikipedia.org/wiki/Blue_in_Green:_The_Concert_in_Canada' } ],
+     'foaf:name': [ { value: 'Blue in Green: The Concert in Canada (en)' } ],
+     'is dbo:previousWork\n of': 
+      [ { value: 'dbr:Letter_to_Evan',
+          href: 'http://dbpedia.org/resource/Letter_to_Evan' } ],
+     'is dbo:subsequentWork\n of': 
+      [ { value: 'dbr:The_Solo_Sessions,_Vol._2',
+          href: 'http://dbpedia.org/resource/The_Solo_Sessions,_Vol._2' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Blue_in_Green:_The_Concert_in_Canada',
+          href: 'http://en.wikipedia.org/wiki/Blue_in_Green:_The_Concert_in_Canada' } ] } }

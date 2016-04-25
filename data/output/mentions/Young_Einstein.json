@@ -1,0 +1,8 @@
+{ name: 'Young Einstein',
+  href: 'http://en.wikipedia.org/wiki/Young_Einstein',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: 'Awards and nominations',
+       sectionIndex: 36,
+       wordCountBeforeSection: 11935,
+       quote: [ 'Dingo – Michel Legrand and Miles Davis (1991)' ] } ] }

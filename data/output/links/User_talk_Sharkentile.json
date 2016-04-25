@@ -1,0 +1,4 @@
+{ name: 'User talk:Sharkentile',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/User_talk:Sharkentile',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

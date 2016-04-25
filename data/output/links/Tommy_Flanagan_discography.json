@@ -1,0 +1,28 @@
+{ name: 'Tommy Flanagan discography',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Tommy_Flanagan_discography',
+  values: 
+   { 'dbo:abstract': [ { value: 'Tommy Flanagan was a jazz pianist. His appearances on record date from 1956 to 2001 and include more than 30 albums under his own name and more than 200 as a sideman. (en)' } ],
+     'dbo:wikiPageID': [ { value: '40389821 (xsd:integer)' } ],
+     'dbo:wikiPageRevisionID': [ { value: '674930947 (xsd:integer)' } ],
+     'dct:subject': 
+      [ { value: 'dbc:Jazz_discographies',
+          href: 'http://dbpedia.org/resource/Category:Jazz_discographies' },
+        { value: 'dbc:Discographies_of_American_artists',
+          href: 'http://dbpedia.org/resource/Category:Discographies_of_American_artists' } ],
+     'rdfs:comment': [ { value: 'Tommy Flanagan was a jazz pianist. His appearances on record date from 1956 to 2001 and include more than 30 albums under his own name and more than 200 as a sideman. (en)' } ],
+     'rdfs:label': [ { value: 'Tommy Flanagan discography (en)' } ],
+     'owl:sameAs': 
+      [ { value: 'dbpedia-wikidata:Tommy Flanagan discography',
+          href: 'http://wikidata.dbpedia.org/resource/Q17103557' },
+        { value: 'wikidata:Tommy Flanagan discography',
+          href: 'http://www.wikidata.org/entity/Q17103557' } ],
+     'prov:wasDerivedFrom': 
+      [ { value: 'wikipedia-en:Tommy_Flanagan_discography?oldid=674930947',
+          href: 'http://en.wikipedia.org/wiki/Tommy_Flanagan_discography?oldid=674930947' } ],
+     'foaf:isPrimaryTopicOf': 
+      [ { value: 'wikipedia-en:Tommy_Flanagan_discography',
+          href: 'http://en.wikipedia.org/wiki/Tommy_Flanagan_discography' } ],
+     'is foaf:primaryTopic\n of': 
+      [ { value: 'wikipedia-en:Tommy_Flanagan_discography',
+          href: 'http://en.wikipedia.org/wiki/Tommy_Flanagan_discography' } ] } }

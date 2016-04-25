@@ -1,0 +1,8 @@
+{ name: 'Ted Jensen discography',
+  href: 'http://en.wikipedia.org/wiki/Ted_Jensen_discography',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ '1992 Doo-Bop - Miles Davis' ] } ] }

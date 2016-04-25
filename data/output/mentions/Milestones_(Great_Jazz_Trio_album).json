@@ -1,0 +1,8 @@
+{ name: 'Milestones (Great Jazz Trio album)',
+  href: 'http://en.wikipedia.org/wiki/Milestones_(Great_Jazz_Trio_album)',
+  mentions: 
+   [ { sectionHeader: 'Track listing',
+       sectionSubHeader: '',
+       sectionIndex: 9,
+       wordCountBeforeSection: 840,
+       quote: [ '"Milestones" (Miles Davis) - 5:14' ] } ] }

@@ -1,0 +1,8 @@
+{ name: 'Lisa Hilton (musician)',
+  href: 'http://en.wikipedia.org/wiki/Lisa_Hilton_(musician)',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: -1,
+       wordCountBeforeSection: 0,
+       quote: [ 'Hilton cites Thelonious Monk, Miles Davis, and Horace Silver as compositional influences.' ] } ] }

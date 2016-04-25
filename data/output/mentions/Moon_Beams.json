@@ -1,0 +1,8 @@
+{ name: 'Moon Beams',
+  href: 'http://en.wikipedia.org/wiki/Moon_Beams',
+  mentions: 
+   [ { sectionHeader: 'External links',
+       sectionSubHeader: '',
+       sectionIndex: 19,
+       wordCountBeforeSection: 2746,
+       quote: [ 'Miles Davis' ] } ] }

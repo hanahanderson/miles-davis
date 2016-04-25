@@ -1,0 +1,13 @@
+{ name: 'Taeko Kunishima',
+  href: 'http://en.wikipedia.org/wiki/Taeko_Kunishima',
+  mentions: 
+   [ { sectionHeader: '',
+       sectionSubHeader: '',
+       sectionIndex: 1,
+       wordCountBeforeSection: 123,
+       quote: [ 'Initially influenced by classical composers, she switched to jazz music after listening to Miles Davis.' ] },
+     { sectionHeader: 'Life',
+       sectionSubHeader: '',
+       sectionIndex: 3,
+       wordCountBeforeSection: 362,
+       quote: [ 'After listing to the music of jazz trumpeter Miles Davis her style changed significantly.' ] } ] }

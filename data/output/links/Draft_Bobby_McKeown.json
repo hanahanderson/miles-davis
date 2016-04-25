@@ -1,0 +1,4 @@
+{ name: 'Draft:Bobby McKeown',
+  entityType: 'Thing',
+  href: 'http://dbpedia.org/page/Draft:Bobby_McKeown',
+  values: { 'No further information is available. (The requested entity is unknown)': [] } }

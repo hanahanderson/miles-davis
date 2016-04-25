@@ -1,0 +1,8 @@
+{ name: 'Henry Johnson (guitarist)',
+  href: 'http://en.wikipedia.org/wiki/Henry_Johnson_(guitarist)',
+  mentions: 
+   [ { sectionHeader: 'Biography',
+       sectionSubHeader: '',
+       sectionIndex: 8,
+       wordCountBeforeSection: 1244,
+       quote: [ 'While influenced by these great guitarists, Johnson also cites the music of Herbie Hancock, Oscar Peterson, Freddie Hubbard, Miles Davis, big bands, and jazz orchestras as integral forces that shaped his sound and style.' ] } ] }
