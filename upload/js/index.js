@@ -43,6 +43,8 @@ $(document).ready(function(){
 
     }, () => {
 
+      var sortedKeys = Object.keys(entityTypes).sort((a, b) => { return entityTypes[b] - entityTypes[a]})
+      sortedKeys.forEach((a) => { console.log(`${entityTypes[a]} \t ${a}` )})
       console.log(entityTypes)
       circlePositions = circlePositions.sort((a, b) => { 
         if(parseInt(a[1]) ===  parseInt(b[1])){
