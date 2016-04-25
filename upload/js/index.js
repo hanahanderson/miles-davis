@@ -1,14 +1,16 @@
 
-var pageData;
+var data;
+
+
 
 $(document).ready(function(){
-  d3.tsv(`./../data/d3-data-obj.tsv`, function(error, data) {
+  d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
     if (error) throw error;
-    pageData = data;
+    data = pageData;
 
-    var maxRadius = 5, // maximum radius of circle
-        padding = 1, // padding between circles; also minimum radius
-        margin = {top: -maxRadius, right: -maxRadius, bottom: -maxRadius, left: -maxRadius},
+    var maxRadius = 10, // maximum radius of circle
+        padding = 2, // padding between circles; also minimum radius
+        margin = {top: 100, right: 100, bottom: 100, left: 100},
         width = 900 - margin.left - margin.right,
         height = 900 - margin.top - margin.bottom;
 
@@ -23,32 +25,64 @@ $(document).ready(function(){
       .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    d3.timer(function() {
-      for (var i = 0; i < m && --n >= 0; ++i) {
-        var circle = newCircle(k);
+    var circlePositions = [];
+    var pageViews = [];
+    var entityTypes = {};
 
-        svg.append("circle")
-            .attr("cx", circle[0])
-            .attr("cy", circle[1])
-            //.attr("r", 0)
-            .style("fill", "pink")
-          .transition()
-            .attr("r", circle[2])
-            .style("fill", "blue");
+    async.forEach(data, (page, cb) => {
 
-        // As we add more circles, generate more candidates per circle.
-        // Since this takes more effort, gradually reduce circles per frame.
-        // if (k < 500) 
-        //  k *= 1.01, 
-        //  m *= .998;
-
-        if (k < 500) 
-          k *= 1.01, 
-          m *= .999;
+      var circle = newCircle(k);
+      circlePositions.push(circle);
+      
+      pageViews.push(parseInt(page.PageViews));
+      if(typeof entityTypes[page.EntityType.toUpperCase()] === "undefined"){
+        entityTypes[page.EntityType.toUpperCase()] = 0;
       }
-      return !n;
-    });
+      entityTypes[page.EntityType.toUpperCase()]++;
+      async.setImmediate(() => { cb(); });
 
+    }, () => {
+
+      console.log(entityTypes)
+      circlePositions = circlePositions.sort((a, b) => { 
+        if(parseInt(a[1]) ===  parseInt(b[1])){
+          return a[0] - b[0];
+        }
+        return a[1] - b[1];
+      });
+
+      data = data.sort((a, b) => { return parseInt(b.PageViews) - parseInt(a.PageViews) })
+      
+      var radiusScale = d3.scale.linear()
+                          .domain([0, d3.max(pageViews)  ])
+                          .range([1, 15])
+
+
+      svg.selectAll(".circle")
+        .data(data)
+         .enter()
+          .append("circle")
+            .attr("cy", (d, i) => { return circlePositions[i][1] + 100})
+            .attr("cx", (d, i) => { return circlePositions[i][0]})
+            .attr("r", (d, i) => { 
+             
+              return radiusScale(parseInt(d.PageViews)); 
+            })
+            .style("fill", "rgba(0,0,0,0.6)")
+          .on("mouseover", (d) => {
+            console.log(d)
+          })
+        .transition()
+          .duration((d, i) => { return (i + 1) * 0.9})
+            .attr("cy", (d, i) => { return circlePositions[i][1]});
+
+    })
+
+
+   
+
+
+    
     function bestCircleGenerator(maxRadius, padding) {
       var quadtree = d3.geom.quadtree().extent([[0, 0], [width, height]])([]),
           searchRadius = maxRadius * 2,
@@ -90,34 +124,6 @@ $(document).ready(function(){
     }
 
 
-    var makeBoxes = function() {
-      var boxes = [],
-          // count = Math.random()*500;
-          // if (count < 5) count = 5;
-      count = 4000;
-
-      for (var i=0; i < count; i++ ) {
-        var box = document.createElement('div');
-        var boxSize = Math.ceil( Math.random()*4 ) ;
-        box.className = `box size${boxSize}${boxSize}`;
-        // add box DOM node to array of new elements
-        boxes.push( box );
-      }
-
-      return boxes;
-    };
-
-   $('#container').nested({
-      minWidth: 2,
-       animationOptions: {
-        speed: 10,
-        duration: 10,
-        queue: false
-      }
-    }); 
-     var boxes = makeBoxes();
-    $('#container').append(boxes).nested('append',boxes);     
-   
 
   }) 
 });
