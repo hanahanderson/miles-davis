@@ -2,6 +2,7 @@
 var data;
 var dates;
 var genres;
+var mentions;
 
 function drawCircles () {
     var maxRadius = 10, // maximum radius of circle
@@ -172,6 +173,21 @@ $(document).ready(function(){
         var popularGenres = Object.keys(genreObj).sort((a, b) => { return genreObj[b] - genreObj[a] });
         console.log(popularGenres.length)
         console.log(popularGenres)
+        cb();
+      });
+    },
+    getMentionData: (cb) => {
+      d3.tsv(`./../data/d3-data-obj-mentions.tsv`, function(error, mentionData) {
+        if (error) throw error;
+        mentions = mentionData;
+
+        mentions = mentions.sort((a, b) => { 
+          if(parseInt(a.sectionIndex) === parseInt(b.sectionIndex)){
+            return parseInt(a.wordCountBeforeSection) - parseInt(b.wordCountBeforeSection);
+          } 
+          return parseInt(a.sectionIndex) - parseInt(b.sectionIndex)
+        });
+        
         cb();
       });
     },

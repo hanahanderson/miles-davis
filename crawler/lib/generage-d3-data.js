@@ -49,7 +49,7 @@ async.series({
 		});
 
 	}, 
-	getEntityType: (cb) => {
+	getDBpediaInfo: (cb) => {
 
 		var rows = "URL\tName\tEntityType\tPageViews\n";
 		var genreRows = "URL\tName\tGenreAttr\tGenre\n";
@@ -104,9 +104,36 @@ async.series({
 
 		//console.log(hrefObj)
 	}, 	
-	done: () => {
+	getMentionInfo: (cb) => {
+		var rows = "URL\tName\tsectionHeader\tsectionSubHeader\tsectionIndex\twordCountBeforeSection\tquote\n";
+		async.forEach(Object.keys(hrefObj), (href, cb1) => {
 
-		
-	
+			var pageInfo = hrefObj[href];
+
+			fs.readFile(`${__dirname}/../../data/output/mentions/${pageInfo.fileName}.json`, 
+				"utf8", (err, data) => {
+					if(typeof data !== "undefined"){
+
+						var mentionInfo = "";
+						eval(`mentionInfo = ${data}`);
+
+						for(var x in mentionInfo.mentions){
+							var mention = mentionInfo.mentions[x];
+							for(var q in mention.quote){
+								var quote = mention.quote[q].replace(/\n/g, " ");
+								rows += `${href}\t${pageInfo.name}\t${mention.sectionHeader}\t${mention.sectionSubHeader}\t${mention.sectionIndex}\t${mention.wordCountBeforeSection}\t${quote}\n`
+							}
+						}
+					}
+					async.setImmediate(() => { cb1(); });
+			});
+		}, () => {	
+			fs.writeFile(`${__dirname}/../../data/d3-data-obj-mentions.tsv`, rows);
+			cb();
+		});
+
+	}, 
+	done: () => {
+		console.log("done");
 	}
 });
