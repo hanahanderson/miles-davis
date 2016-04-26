@@ -14,11 +14,12 @@ async.series({
 			var $ = cheerio.load(data);
 			$("li").each((i, li) => {
 				var href = $(li).find("a").attr("href").slice(6);
-				hrefObj[href] = {
-					name: $($(li).find("a")[0]).text(),
-					fileName: `${href.replace(/\:/g, "_").replace(/\//g, "_")}`
+				if(!href.startsWith("ex.php?")){
+					hrefObj[href] = {
+						name: $($(li).find("a")[0]).text(),
+						fileName: `${href.replace(/\:/g, "_").replace(/\//g, "_")}`
+					}
 				}
-
 			});
 			cb();
 		});
@@ -35,7 +36,9 @@ async.series({
 					var parts = row.split("\t");
 					var href = parts[0];
 					var pageViews = parts[2];
-					hrefObj[href].pageViews = pageViews;
+					if(typeof hrefObj[href] !== "undefined"){
+						hrefObj[href].pageViews = pageViews;
+					}
 				}
 				async.setImmediate(() => { cb1(); });
 
@@ -49,6 +52,8 @@ async.series({
 	getEntityType: (cb) => {
 
 		var rows = "URL\tName\tEntityType\tPageViews\n";
+		var genreRows = "URL\tName\tGenreAttr\tGenre\n";
+		var dateRows = "URL\tName\tDateAttr\tDate\n";
 
 		async.forEach(Object.keys(hrefObj), (href, cb1) => {
 
@@ -61,8 +66,30 @@ async.series({
 						var dbpediaInfo = "";
 						eval(`dbpediaInfo = ${data}`);
 
-						console.log(dbpediaInfo.entityType)
+						console.log(pageInfo.name)
 						rows += `${href}\t${pageInfo.name}\t${dbpediaInfo.entityType}\t${pageInfo.pageViews}\n`;
+
+						for(var x in dbpediaInfo.values){
+							var xString = x.replace(/\n/g, "");
+
+							for(var y in dbpediaInfo.values[x]){
+
+								var values = dbpediaInfo.values[x][y].value.replace(/\n/g, "").split("*");
+
+								for(var z in values){
+									if(values[z].length > 0){
+										if(xString.toLowerCase().indexOf("genre") !== -1 && xString.toLowerCase().indexOf(":genre of") === -1){
+											genreRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
+										}
+
+										if(values[z].toLowerCase().indexOf("(xsd:date)") !== -1){
+											dateRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
+										}
+
+									}
+								}
+							}
+						}
 
 					}
 					async.setImmediate(() => { cb1(); });
@@ -70,6 +97,8 @@ async.series({
 
 		}, () => {	
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj.tsv`, rows);
+			fs.writeFile(`${__dirname}/../../data/d3-data-obj-dates.tsv`, dateRows);
+			fs.writeFile(`${__dirname}/../../data/d3-data-obj-genres.tsv`, genreRows);
 			cb();
 		});
 

@@ -1,13 +1,9 @@
 
 var data;
+var dates;
+var genres;
 
-
-
-$(document).ready(function(){
-  d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
-    if (error) throw error;
-    data = pageData;
-
+function drawCircles () {
     var maxRadius = 10, // maximum radius of circle
         padding = 2, // padding between circles; also minimum radius
         margin = {top: 100, right: 100, bottom: 100, left: 100},
@@ -43,9 +39,9 @@ $(document).ready(function(){
 
     }, () => {
 
-      var sortedKeys = Object.keys(entityTypes).sort((a, b) => { return entityTypes[b] - entityTypes[a]})
-      sortedKeys.forEach((a) => { console.log(`${entityTypes[a]} \t ${a}` )})
-      console.log(entityTypes)
+      // var sortedKeys = Object.keys(entityTypes).sort((a, b) => { return entityTypes[b] - entityTypes[a]})
+      // sortedKeys.forEach((a) => { console.log(`${entityTypes[a]} \t ${a}` )})
+      
       circlePositions = circlePositions.sort((a, b) => { 
         if(parseInt(a[1]) ===  parseInt(b[1])){
           return a[0] - b[0];
@@ -125,8 +121,66 @@ $(document).ready(function(){
       };
     }
 
+}
 
 
-  }) 
+$(document).ready(function(){
+
+  async.series({
+    getPageData: (cb) => {
+      d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
+        if (error) throw error;
+        data = pageData;
+        cb();
+      });
+    },
+    getDatesData: (cb) => {
+      d3.tsv(`./../data/d3-data-obj-dates.tsv`, function(error, datesData) {
+        if (error) throw error;
+        dates = datesData;
+
+        var dateObj = {};
+        dates.forEach((g) => { 
+          var dateAttr = g.DateAttr.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
+          if(typeof dateObj[dateAttr] === "undefined"){
+           dateObj[dateAttr] = 0;
+          }
+          dateObj[dateAttr]++
+        })
+
+        var popularDates = Object.keys(dateObj).sort((a, b) => { return dateObj[b] - dateObj[a] });
+        console.log(popularDates.length)
+        console.log(popularDates)
+
+        cb();
+      });
+    },
+    getGenreData: (cb) => {
+      d3.tsv(`./../data/d3-data-obj-genres.tsv`, function(error, genreData) {
+        if (error) throw error;
+        genres = genreData;
+
+        var genreObj = {};
+        genres.forEach((g) => { 
+          var gen = g.Genre.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
+          if(typeof genreObj[gen] === "undefined"){
+           genreObj[gen] = 0;
+          }
+          genreObj[gen]++
+        })
+
+        var popularGenres = Object.keys(genreObj).sort((a, b) => { return genreObj[b] - genreObj[a] });
+        console.log(popularGenres.length)
+        console.log(popularGenres)
+        cb();
+      });
+    },
+    done: () => {
+      drawCircles();
+    }
+  })
+
+
+
 });
 
