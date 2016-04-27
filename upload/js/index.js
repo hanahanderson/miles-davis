@@ -3,10 +3,20 @@ var data;
 var dates;
 var genres;
 var mentions;
+var imageObj;
+
+var svg;
+var tooltip;
+var circles;
+var circlePositions;
 
 function drawCircles () {
-    var maxRadius = 10, // maximum radius of circle
-        padding = 2, // padding between circles; also minimum radius
+
+  //another one http://bl.ocks.org/mbostock/b07f8ae91c5e9e45719c
+
+  
+    var maxRadius = 8, // maximum radius of circle
+        padding = 1, // padding between circles; also minimum radius
         margin = {top: 100, right: 100, bottom: 100, left: 100},
         width = 900 - margin.left - margin.right,
         height = 900 - margin.top - margin.bottom;
@@ -16,11 +26,14 @@ function drawCircles () {
         n = data.length, // remaining number of circles to add
         newCircle = bestCircleGenerator(maxRadius, padding);
 
-    var svg = d3.select("svg")
+    svg = d3.select("svg")
         .attr("width", width)
         .attr("height", height)
       .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    tooltip = d3.select("body").append("div").attr("class", "tooltip")
+
 
     var circlePositions = [];
     var pageViews = [];
@@ -54,13 +67,13 @@ function drawCircles () {
       
       var radiusScale = d3.scale.linear()
                           .domain([0, d3.max(pageViews)  ])
-                          .range([1, 15])
+                          .range([5, 15])
 
 
-      svg.selectAll(".circle")
+      circles = svg.selectAll(".circle")
         .data(data)
-         .enter()
-          .append("circle")
+        .enter()
+        .append("circle")
             .attr("cy", (d, i) => { return circlePositions[i][1] + 100})
             .attr("cx", (d, i) => { return circlePositions[i][0]})
             .attr("r", (d, i) => { 
@@ -69,19 +82,43 @@ function drawCircles () {
             })
             .style("fill", "rgba(0,0,0,0.6)")
           .on("mouseover", (d) => {
-            console.log(d)
-          })
-        .transition()
-          .duration((d, i) => { return (i + 1) * 0.9})
-            .attr("cy", (d, i) => { return circlePositions[i][1]});
+            console.log(d);
+
+            var image = imageObj[d.URL];
+
+            var imageHTML = "";
+
+            if(typeof image !== "undefined" && image !== "undefined"){
+              imageHTML = `<img src="http:${image}"/><br>`;
+            }
+
+            //d3.select(this).style("fill", "red")
+            tooltip.transition()    
+                .duration(200)    
+                .style("opacity", .9);    
+            tooltip.html(
+                  `${imageHTML}${d.Name}`
+                )  
+                .style("left", (d3.event.pageX) + "px")   
+                .style("top", (d3.event.pageY) + "px");  
+
+          }).
+          on("mouseout", (d) => {
+
+           // d3.select(this).style("fill", "rgba(0,0,0,0.6)")
+            // tooltip.transition()   
+            //     .duration(0)    
+            //     .style("opacity", 0);  
+          });
+
+        circles.transition()
+          .duration((d, i) => { return (i + 1) * 2 * Math.random()})
+            .attr("cy", (d, i) => { return circlePositions[i][1]})
+       
 
     })
 
 
-   
-
-
-    
     function bestCircleGenerator(maxRadius, padding) {
       var quadtree = d3.geom.quadtree().extent([[0, 0], [width, height]])([]),
           searchRadius = maxRadius * 2,
@@ -122,11 +159,72 @@ function drawCircles () {
       };
     }
 
-}
 
+  // var svg = d3.select("svg"),
+  //     size = +svg.attr("width");
+
+  // var color = d3.scaleRainbow()
+  //     .domain([0, 2 * Math.PI]);
+
+  // var mostViewed = d3.max(data, (a) => { return parseInt(a.PageViews)});
+
+  // var sizeScale = d3.scaleLog().domain([0, mostViewed]).range([3, 10])
+  // var circles = data.map(function(point) { 
+  //   point.r = Math.max(1, sizeScale(parseInt(point.PageViews)))
+  //   return point;
+  // });
+
+
+  // svg
+  //   .select("g")
+  //   .selectAll("circle")
+  //   .data(d3.packSiblings(circles) )
+  //   .enter().append("circle")
+  //     .style("fill", function(d) { return color(d.angle = Math.atan2(d.y, d.x)); })
+  //     .attr("cx", function(d) { return Math.cos(d.angle) * (size / Math.SQRT2 + 30) })
+  //     .attr("cy", function(d) { return Math.sin(d.angle) * (size / Math.SQRT2 + 30); })
+  //     .attr("r", function(d) { return d.r - 0.25; })
+  //   .transition()
+  //     .ease(d3.easeCubicOut)
+  //     .delay(function(d, i) { return i * 0.7; })
+  //     .duration(500)
+  //     .attr("cx", function(d, i) { 
+  //       return (d.x * 3)
+  //     })
+  //     .attr("cy", function(d, i) { return d.y });
+
+}
+  
+function resetCircles() {
+  circles
+    .transition()
+    .duration((d, i) => { return i * Math.random() * 0.5 })
+      .style("fill", "rgba(0,0,0,0.6)");
+}
+function redrawCircles () {
+  //svg.transition();
+
+  if($("#500-views").is(":checked")){
+   // svg.selectAll(".circle")
+   circles
+    .transition() 
+    .duration((d, i) => { return i * Math.random() })
+      .style("fill", (d, i) => { 
+        if(parseInt(d.PageViews) > 500){
+          return "red"
+        }
+        return "rgba(0,0,0,0.2)"
+      });
+  } else {
+     resetCircles();
+  } 
+}
 
 $(document).ready(function(){
 
+  $("#500-views").on("change", function() {
+    redrawCircles();
+  });
   async.series({
     getPageData: (cb) => {
       d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
@@ -187,6 +285,19 @@ $(document).ready(function(){
           } 
           return parseInt(a.sectionIndex) - parseInt(b.sectionIndex)
         });
+        
+        cb();
+      });
+    },
+    getImageData: (cb) => {
+      d3.tsv(`./../data/d3-data-obj-image.tsv`, function(error, imageData) {
+        if (error) throw error;
+        
+        imageObj = {};
+        imageData.forEach((g) => { 
+          imageObj[g["Page URL"]] = g["image URL"];
+        })
+
         
         cb();
       });

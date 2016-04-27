@@ -1,70 +1,7 @@
-rect.box {
-    fill:none; 
-    stroke:royalblue;
-    stroke-width:5; 
-    shape-rendering: crispEdges;
-}
-g.bubbles circle {
-    fill:rgba(255,0,64,0.5); 
-    stroke:rgb(255,0,64);
-    stroke-width:3;
-}
-g.bubbles text {
-    fill:royalblue;
-    font-family:sans-serif;
-    text-anchor:middle;
-    alignment-baseline:middle;
-    opacity:0;
-    pointer-events:all;
-    transition:1s;
-}
-g.bubbles text:hover {
-    opacity:1;
-}
-
-body {  background-color:#e1e1e1;
-                color:#fff;
-                font-family: Arial, sans-serif;
-                font-size:11px;
-                line-height: 14px;
-                padding:0px;
-                margin:0px; 
-                }
-
-
-.box {  background-color:#ff4499;
-                -moz-border-radius:100%;
-          -khtml-border-radius: 100%;
-                -webkit-border-radius:100%;
-                border-radius:100%;
-
- 
--webkit-transition: all 300ms cubic-bezier(1.000, 0.000, 0.000, 1.000); 
-   -moz-transition: all 300ms cubic-bezier(1.000, 0.000, 0.000, 1.000); 
-    -ms-transition: all 300ms cubic-bezier(1.000, 0.000, 0.000, 1.000); 
-     -o-transition: all 300ms cubic-bezier(1.000, 0.000, 0.000, 1.000); 
-        transition: all 300ms cubic-bezier(1.000, 0.000, 0.000, 1.000); /* easeInOutExpo */
-        
-  -webkit-transition-property: left, right, top;
-     -moz-transition-property: left, right, top;
-      -ms-transition-property: left, right, top;
-       -o-transition-property: left, right, top;
-          transition-property: left, right, top;
-
-
-                 
-                        }
-            
-
-.size21, .size22, .size23, .twocols { background: #ccc }
-.size31, .size32, .size33, .threecols { background: #ff9999 }
-
-a.btn {
-  margin-right: 1px;
-  line-height: 30px;
-  height: 30px;
-  cursor: pointer;
-  display: inline-block;
-  width: 75px;
-  color: red;
+.tooltip {
+  position: fixed;
+  background-color: black;
+  border-radius: 4px;
+  padding: 5px;
+  color: white;
 }
