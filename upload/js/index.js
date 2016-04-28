@@ -4,22 +4,25 @@ var dates;
 var genres;
 var mentions;
 var imageObj;
+var entityTypeObj = {};
+var mentionsObj = {};
 
 var svg;
 var tooltip;
 var circles;
 var circlePositions;
+var nodeColor = "#22313F";
 
 function drawCircles () {
 
   //another one http://bl.ocks.org/mbostock/b07f8ae91c5e9e45719c
 
   
-    var maxRadius = 8, // maximum radius of circle
-        padding = 1, // padding between circles; also minimum radius
-        margin = {top: 100, right: 100, bottom: 100, left: 100},
+    var maxRadius = 12, // maximum radius of circle
+        padding =  1, // padding between circles; also minimum radius
+        margin = {top: 100, right: 10, bottom: 100, left: 10},
         width = 900 - margin.left - margin.right,
-        height = 900 - margin.top - margin.bottom;
+        height = 3000 - margin.top - margin.bottom;
 
     var k = 10, // initial number of candidates to consider per circle
         m = 20, // initial number of circles to add per frame
@@ -34,8 +37,14 @@ function drawCircles () {
 
     tooltip = d3.select("body").append("div").attr("class", "tooltip")
 
+    svg.on("mouseout", () => {
+      tooltip.transition()    
+        .delay(10000)    
+        .duration(100)
+        .style("opacity", 0);    
+    })
 
-    var circlePositions = [];
+    circlePositions = [];
     var pageViews = [];
     var entityTypes = {};
 
@@ -70,40 +79,22 @@ function drawCircles () {
                           .range([5, 15])
 
 
+   
+
+
       circles = svg.selectAll(".circle")
         .data(data)
         .enter()
-        .append("circle")
-            .attr("cy", (d, i) => { return circlePositions[i][1] + 100})
-            .attr("cx", (d, i) => { return circlePositions[i][0]})
-            .attr("r", (d, i) => { 
-             
-              return radiusScale(parseInt(d.PageViews)); 
-            })
-            .style("fill", "rgba(0,0,0,0.6)")
+        .append("svg:circle")
+          .attr("cx", (d, i) => { return circlePositions[i][0] })
+          .attr("cy", (d, i) => { return circlePositions[i][1] + 100 })
+          .attr("r", (d, i) => { return circlePositions[i][2] })
+          .style("fill", nodeColor)
+          .style("fill-opacity", (d) => { return (Math.random() + .5) / 2 })
           .on("mouseover", (d) => {
-            console.log(d);
-
-            var image = imageObj[d.URL];
-
-            var imageHTML = "";
-
-            if(typeof image !== "undefined" && image !== "undefined"){
-              imageHTML = `<img src="http:${image}"/><br>`;
-            }
-
-            //d3.select(this).style("fill", "red")
-            tooltip.transition()    
-                .duration(200)    
-                .style("opacity", .9);    
-            tooltip.html(
-                  `${imageHTML}${d.Name}`
-                )  
-                .style("left", (d3.event.pageX) + "px")   
-                .style("top", (d3.event.pageY) + "px");  
-
-          }).
-          on("mouseout", (d) => {
+            mouseoverEnabled(d, true);
+          })
+          .on("mouseout", (d) => {
 
            // d3.select(this).style("fill", "rgba(0,0,0,0.6)")
             // tooltip.transition()   
@@ -111,10 +102,22 @@ function drawCircles () {
             //     .style("opacity", 0);  
           });
 
-        circles.transition()
+      circles.transition()
           .duration((d, i) => { return (i + 1) * 2 * Math.random()})
             .attr("cy", (d, i) => { return circlePositions[i][1]})
        
+      circles.append("svg:image")
+        .attr("xlink:href",  function(d) { 
+          var image = imageObj[d.URL];
+          if(image){
+            return d.img;
+          }
+          return "null";
+        })
+        .attr("x", function(d) { return -25;})
+        .attr("y", function(d) { return -25;})
+        .attr("height", 50)
+        .attr("width", 50);
 
     })
 
@@ -194,27 +197,123 @@ function drawCircles () {
   //     .attr("cy", function(d, i) { return d.y });
 
 }
+
+function mouseoverEnabled (d, enabled){
+  if(enabled){
+     console.log(d);
+
+    var image = imageObj[d.URL];
+
+    var imageHTML = "";
+
+    if(typeof image !== "undefined" && image !== "undefined"){
+      imageHTML = `<img src="http:${image}"/><br>`;
+    }
+
+    var mentionHTML = mentionsObj[d.URL].map((m) => {
+      return `<h4>${m.sectionHeader}</h4>${m.quote}`;
+    }).join("");
+
+
+
+
+    //d3.select(this).style("fill", "red")
+    tooltip.transition()    
+        .duration(200)    
+        .style("opacity", .9);    
+    tooltip.html(
+        `<center>
+          <h4>${d.Name}</h4>
+          ${imageHTML}
+          <br>
+        </center>
+        ${mentionHTML}`)  
+        .style("left", (d3.event.pageX) + "px")   
+        .style("top", (d3.event.pageY) + "px");  
+
+  }
+}
   
 function resetCircles() {
   circles
+    .on("mouseover", (d) => {
+      mouseoverEnabled(d, true);
+    })
     .transition()
     .duration((d, i) => { return i * Math.random() * 0.5 })
-      .style("fill", "rgba(0,0,0,0.6)");
+      .attr("cx", (d, i) => { return circlePositions[i][0] })
+      .attr("cy", (d, i) => { return circlePositions[i][1] })
+      .attr("r", (d, i) => { return circlePositions[i][2] })
+      .style("fill", nodeColor)
+      .style("fill-opacity", (d) => { return (Math.random() + .5) / 2 })
+     ;
 }
 function redrawCircles () {
-  //svg.transition();
+  
+  if($("#500-views").is(":checked") || $("#entity-type-select").val() !== "null"){
+    
+    var filteredIndexes = data.map((a, i) => { 
 
-  if($("#500-views").is(":checked")){
-   // svg.selectAll(".circle")
-   circles
-    .transition() 
-    .duration((d, i) => { return i * Math.random() })
-      .style("fill", (d, i) => { 
-        if(parseInt(d.PageViews) > 500){
-          return "red"
+      var useIndex = true;
+      if($("#500-views").is(":checked")){
+        if(parseInt(a.PageViews) < 500){
+          useIndex = false;
         }
-        return "rgba(0,0,0,0.2)"
-      });
+      }
+
+      if(useIndex){
+        if(a.EntityType.toLowerCase() !== $("#entity-type-select").val()){
+          useIndex = false;
+        }
+      }
+
+      return (useIndex? i: -1);
+
+    }).filter((a) => { return a !== -1});
+
+    circles
+      .on("mouseover", (d, i) => {
+          var index = filteredIndexes.indexOf(i); 
+          mouseoverEnabled(d, index !== -1);
+        })
+      .transition() 
+        .duration(800)
+        .attr("cx", (d, i) => { 
+          var index = filteredIndexes.indexOf(i);
+          if(index !== -1){
+            return circlePositions[index][0];
+          }
+          return circlePositions[i][0];
+        })
+        .attr("cy", (d, i) => { 
+          var index = filteredIndexes.indexOf(i);
+          if(index !== -1){
+            return circlePositions[index][1];
+          }
+          return circlePositions[i][1];
+        })
+        .attr("r", (d, i) => { 
+          var index = filteredIndexes.indexOf(i);
+          if(index !== -1){
+            return circlePositions[index][2];
+          }
+          return circlePositions[i][2];
+        })
+        .style("fill", (d, i) => {
+          var index = filteredIndexes.indexOf(i); 
+          if(index !== -1){
+            return nodeColor;
+          }
+          return "rgba(0,0,0,0)" ;
+        })
+        .style("fill-opacity", (d, i) => { 
+          var index = filteredIndexes.indexOf(i); 
+          if(index !== -1){
+            return (Math.random() + .5) / 2 ;
+          }
+          return 0;
+        })
+        ;
   } else {
      resetCircles();
   } 
@@ -222,14 +321,33 @@ function redrawCircles () {
 
 $(document).ready(function(){
 
-  $("#500-views").on("change", function() {
+  $(".circle-filter").on("change", function() {
     redrawCircles();
   });
+
   async.series({
     getPageData: (cb) => {
       d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
         if (error) throw error;
         data = pageData;
+
+        data.forEach((g) => { 
+          var entityType = g.EntityType.toLowerCase();
+          if(typeof entityTypeObj[entityType] === "undefined"){
+           entityTypeObj[entityType] = 0;
+          }
+          entityTypeObj[entityType]++
+        });
+
+        Object.keys(entityTypeObj).sort((a, b) => { 
+          return entityTypeObj[b] - entityTypeObj[a] 
+        })
+        .forEach((entityType) => {
+          $("#entity-type-select")
+            .append($('<option>', { value : entityType })
+            .text(entityType))
+        })
+
         cb();
       });
     },
@@ -286,6 +404,14 @@ $(document).ready(function(){
           return parseInt(a.sectionIndex) - parseInt(b.sectionIndex)
         });
         
+        mentions.forEach((m) => {
+          if(typeof mentionsObj[m.URL] === "undefined"){
+            mentionsObj[m.URL] = [];
+          }
+          mentionsObj[m.URL].push(m);
+        })
+
+
         cb();
       });
     },
@@ -298,7 +424,6 @@ $(document).ready(function(){
           imageObj[g["Page URL"]] = g["image URL"];
         })
 
-        
         cb();
       });
     },

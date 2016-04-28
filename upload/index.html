@@ -10,9 +10,14 @@
 			<link rel="stylesheet" type="text/css" href="./css/style.css"/>
 	</head>
 	<body>
-		<input type="checkbox" id="500-views"></input>over 500 views
+		<input type="checkbox" id="500-views" class='circle-filter'></input>over 500 views
 		<br>
-		<svg id="bubble-container" style="width:1000px; height: 2000px"></svg>
+		<select id="entity-type-select" class='circle-filter'>
+			<option value="null"> All Types </option>
+		</select>
+		<center>
+			<svg id="bubble-container" style="width:1000px; height: 3000px"></svg>
+		</center>	
 		<!-- <svg width="1200" height="1200"><g transform="translate(480,480)"></g></svg> -->
 	</body>
 	<script type="text/javascript" src="./js/index.js"></script>
