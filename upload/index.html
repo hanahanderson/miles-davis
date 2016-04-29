@@ -7,6 +7,9 @@
 			<!-- <script src="http://d3js.org/d3.v4.0.0-alpha.29.min.js"></script> -->
 			<script type="text/javascript" src="http://cdn.rawgit.com/caolan/async/master/dist/async.min.js"></script>
 			<script type="text/javascript" src="http://cdn.rawgit.com/suprb/Nested/master/jquery.nested.js"></script>
+			<script type="text/javascript" src="http://cdn.rawgit.com/lokesh/color-thief/master/src/color-thief.js"></script>
+
+			<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 			<link rel="stylesheet" type="text/css" href="./css/style.css"/>
 	</head>
 	<body>
@@ -17,17 +20,27 @@
 				<tr>
 					<td>Type: </td>
 					<td>
-						<select id="entity-type-select" class='circle-filter'>
-							<option value="null"> All Types </option>
-						</select>
+						<div id="entity-type-select" class='circle-filter'>
+							<div class="check-button">
+								<label>
+									<input value="null" type="checkbox" checked>
+									<span> All Types </span>
+								</label>
+							</div>
+						</div>
 					</td>
 				</tr>
 				<tr>
 					<td>Section: </td>
 					<td>
-						<select id="section-select" class='circle-filter'>
-							<option value="null"> All Sections </option>
-						</select>
+						<div id="section-select" class='circle-filter'>
+							<div class="check-button">
+								<label>
+									<input value="null" type="checkbox" checked>
+									<span> All Sections</span>
+								</label>
+							</div>
+						</div>
 					</td>
 				</tr>
 				<tr>
