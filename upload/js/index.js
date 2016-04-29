@@ -8,9 +8,9 @@ var entityTypeObj = {};
 var mentionsObj = {};
 var mentionSectionObj = {};
 
-var rectHeight = 20;
+var rectHeight = 10;
 var rectWidth = 100;
-var numRectPerRow = 8;
+var numRectPerRow = 9;
 var rectPadding = 1;
 
 var svg;
@@ -28,7 +28,7 @@ function drawCircles () {
         padding = 1.5, // padding between circles; also minimum radius
         margin = {top: 10, right: 10, bottom: 100, left: 10},
         width = 1000 - margin.left - margin.right,
-        height = 900 - margin.top - margin.bottom;
+        height = 5000 - margin.top - margin.bottom;
 
     var k = 10, // initial number of candidates to consider per circle
         m = 20, // initial number of circles to add per frame
