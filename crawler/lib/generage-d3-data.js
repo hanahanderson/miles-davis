@@ -4,6 +4,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const util = require("util");
 const moment = require("moment");
+const geocoder = require('geocoder');
 
 var hrefObj = {};
 
@@ -54,6 +55,9 @@ async.series({
 		var rows = "URL\tName\tEntityType\tPageViews\n";
 		var genreRows = "URL\tName\tGenreAttr\tGenre\n";
 		var dateRows = "URL\tName\tDateAttr\tDate\n";
+		var typeRows = "URL\tName\tType Attr\tValue\n";
+		var fromRows = "URL\tName\tFrom Attr\tValue\n";
+		var musicRows = "URL\tName\tMusic Attr\tValue\n";
 
 		async.forEach(Object.keys(hrefObj), (href, cb1) => {
 
@@ -78,12 +82,50 @@ async.series({
 
 								for(var z in values){
 									if(values[z].length > 0){
-										if(xString.toLowerCase().indexOf("genre") !== -1 && xString.toLowerCase().indexOf(":genre of") === -1){
-											genreRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
-										}
 
 										if(values[z].toLowerCase().indexOf("(xsd:date)") !== -1){
 											dateRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
+										}
+
+										if(xString.toLowerCase().indexOf("genre") !== -1 && xString.toLowerCase().indexOf(":genre of") === -1){
+											genreRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
+										}
+										
+										if(xString.toLowerCase().indexOf("rdf:type") !== -1){
+											typeRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
+										}
+										
+										if(values[z].toLowerCase().indexOf("_from_") !== -1 
+											&& values[z].toLowerCase().indexOf("deaths") === -1
+											&& values[z].toLowerCase().indexOf("converts") === -1
+											&& xString.toLowerCase().indexOf("dct:subject") !== -1){
+
+											fromRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
+
+											// var parts = values[z].replace(/(.)+\:/, "").toLowerCase().split("_from_");
+											// var place = parts[1].replace(/\_/g, "")
+
+											// geocoder.geocode(place, function ( err, geoData ) {
+											// 	var formatted_address = '-'
+											// 	var lat_lon = "-";
+
+											// 	if(geoData){
+											// 		console.log(geoData);
+
+											// 		var topResult = geoData.results[0];
+
+											// 		formatted_address = topResult.formatted_address;
+											// 		lat_lon = JSON.stringify(topResult.geometry.location)
+
+											// 	}
+											// 	fromRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\t${formatted_address}\t${lat_lon}\n`;
+												
+											// });
+										}
+
+										if(xString.toLowerCase() === "dbo:artist"
+											&& values[z].toLowerCase().indexOf("miles_davis") !== -1){
+											musicRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
 										}
 
 									}
@@ -99,6 +141,9 @@ async.series({
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj.tsv`, rows);
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj-dates.tsv`, dateRows);
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj-genres.tsv`, genreRows);
+			fs.writeFile(`${__dirname}/../../data/d3-data-obj-types.tsv`, typeRows);
+			fs.writeFile(`${__dirname}/../../data/d3-data-obj-from.tsv`, fromRows);
+			fs.writeFile(`${__dirname}/../../data/d3-data-obj-music.tsv`, musicRows);
 			cb();
 		});
 

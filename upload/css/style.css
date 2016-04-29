@@ -1,8 +1,12 @@
 .tooltip {
   position: fixed;
-  background-color: black;
+  background-color: whitesmoke;
   border-radius: 4px;
+  box-shadow: 1px 1px 10px lightgrey;
   padding: 10px;
-  color: white;
   max-width: 400px;
+}
+
+circle.hidden {
+	display: none;
 }

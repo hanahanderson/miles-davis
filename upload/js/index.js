@@ -6,6 +6,12 @@ var mentions;
 var imageObj;
 var entityTypeObj = {};
 var mentionsObj = {};
+var mentionSectionObj = {};
+
+var rectHeight = 20;
+var rectWidth = 100;
+var numRectPerRow = 8;
+var rectPadding = 1;
 
 var svg;
 var tooltip;
@@ -18,18 +24,18 @@ function drawCircles () {
   //another one http://bl.ocks.org/mbostock/b07f8ae91c5e9e45719c
 
   
-    var maxRadius = 12, // maximum radius of circle
-        padding =  1, // padding between circles; also minimum radius
-        margin = {top: 100, right: 10, bottom: 100, left: 10},
-        width = 900 - margin.left - margin.right,
-        height = 3000 - margin.top - margin.bottom;
+    var maxRadius = 10, // maximum radius of circle
+        padding = 1.5, // padding between circles; also minimum radius
+        margin = {top: 10, right: 10, bottom: 100, left: 10},
+        width = 1000 - margin.left - margin.right,
+        height = 900 - margin.top - margin.bottom;
 
     var k = 10, // initial number of candidates to consider per circle
         m = 20, // initial number of circles to add per frame
         n = data.length, // remaining number of circles to add
         newCircle = bestCircleGenerator(maxRadius, padding);
 
-    svg = d3.select("svg")
+    svg = d3.select("#bubble-container")
         .attr("width", width)
         .attr("height", height)
       .append("g")
@@ -79,16 +85,18 @@ function drawCircles () {
                           .range([5, 15])
 
 
-   
-
-
       circles = svg.selectAll(".circle")
         .data(data)
         .enter()
-        .append("svg:circle")
-          .attr("cx", (d, i) => { return circlePositions[i][0] })
-          .attr("cy", (d, i) => { return circlePositions[i][1] + 100 })
-          .attr("r", (d, i) => { return circlePositions[i][2] })
+        .append("svg:rect")
+          .attr("x", (d, i) => { return (i % numRectPerRow) * (rectWidth + rectPadding) })
+          .attr("y", (d, i) => { return (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) + 100 })
+          .attr("width", rectWidth)
+          .attr("height", rectHeight)
+        // .append("svg:circle")
+        //   .attr("cx", (d, i) => { return circlePositions[i][0] })
+        //   .attr("cy", (d, i) => { return circlePositions[i][1] + 100 })
+        //   .attr("r", (d, i) => { return circlePositions[i][2] })
           .style("fill", nodeColor)
           .style("fill-opacity", (d) => { return (Math.random() + .5) / 2 })
           .on("mouseover", (d) => {
@@ -100,24 +108,27 @@ function drawCircles () {
             // tooltip.transition()   
             //     .duration(0)    
             //     .style("opacity", 0);  
-          });
+          })
 
       circles.transition()
           .duration((d, i) => { return (i + 1) * 2 * Math.random()})
-            .attr("cy", (d, i) => { return circlePositions[i][1]})
+            .attr("y", (d, i) => { return (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding))})
+            //.attr("cy", (d, i) => { return circlePositions[i][1]})
        
-      circles.append("svg:image")
-        .attr("xlink:href",  function(d) { 
-          var image = imageObj[d.URL];
-          if(image){
-            return d.img;
-          }
-          return "null";
-        })
-        .attr("x", function(d) { return -25;})
-        .attr("y", function(d) { return -25;})
-        .attr("height", 50)
-        .attr("width", 50);
+      // circles.append("svg:image")
+      //   .attr("xlink:href",  function(d) { 
+      //     var image = imageObj[d.URL];
+      //     if(image){
+      //       return d.img;
+      //     }
+      //     return "null";
+      //   })
+      //   .attr("x", function(d) { return -25;})
+      //   .attr("y", function(d) { return -25;})
+      //   .attr("height", 50)
+      //   .attr("width", 50);
+
+        $("#node-count").text(data.length)
 
     })
 
@@ -207,50 +218,58 @@ function mouseoverEnabled (d, enabled){
     var imageHTML = "";
 
     if(typeof image !== "undefined" && image !== "undefined"){
-      imageHTML = `<img src="http:${image}"/><br>`;
+      imageHTML = `<img src="http:${image}" style="width: 100px; float: left; margin: 10px"/>`;
     }
 
     var mentionHTML = mentionsObj[d.URL].map((m) => {
-      return `<h4>${m.sectionHeader}</h4>${m.quote}`;
+      return `<h4>${m.sectionHeader}</h4>${m.quote.replace(/Miles Davis/gi, "<b>Miles Davis</b>")}`;
     }).join("");
-
-
-
 
     //d3.select(this).style("fill", "red")
     tooltip.transition()    
         .duration(200)    
         .style("opacity", .9);    
     tooltip.html(
-        `<center>
-          <h4>${d.Name}</h4>
-          ${imageHTML}
-          <br>
-        </center>
-        ${mentionHTML}`)  
-        .style("left", (d3.event.pageX) + "px")   
-        .style("top", (d3.event.pageY) + "px");  
+        `<table>
+          <tbody>
+            <tr>
+              
+              <td>
+                <h4>${d.Name}</h4>
+                ${imageHTML}
+                ${mentionHTML}
+              </td>
+            </tr>
+          </tbody>
+        </table>`)  
+        .style("left", (d3.event.pageX + 20) + "px")   
+        .style("top", (d3.event.pageY + 20) + "px");  
 
   }
 }
   
 function resetCircles() {
+  $("#node-count").text(data.length)
   circles
     .on("mouseover", (d) => {
       mouseoverEnabled(d, true);
     })
     .transition()
     .duration((d, i) => { return i * Math.random() * 0.5 })
-      .attr("cx", (d, i) => { return circlePositions[i][0] })
-      .attr("cy", (d, i) => { return circlePositions[i][1] })
-      .attr("r", (d, i) => { return circlePositions[i][2] })
+      .attr("x", (d, i) => { return (i % numRectPerRow) * (rectWidth + rectPadding) })
+      .attr("y", (d, i) => { return (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) })
+      // .attr("cx", (d, i) => { return circlePositions[i][0] })
+      // .attr("cy", (d, i) => { return circlePositions[i][1] })
+      //.attr("r", (d, i) => { return circlePositions[i][2] })
       .style("fill", nodeColor)
       .style("fill-opacity", (d) => { return (Math.random() + .5) / 2 })
      ;
 }
 function redrawCircles () {
   
-  if($("#500-views").is(":checked") || $("#entity-type-select").val() !== "null"){
+  if($("#500-views").is(":checked") 
+    || $("#entity-type-select").val() !== "null"
+    || $("#section-select").val() !== "null"){
     
     var filteredIndexes = data.map((a, i) => { 
 
@@ -261,8 +280,14 @@ function redrawCircles () {
         }
       }
 
-      if(useIndex){
+      if(useIndex && $("#entity-type-select").val() !== "null"){
         if(a.EntityType.toLowerCase() !== $("#entity-type-select").val()){
+          useIndex = false;
+        }
+      }
+
+      if(useIndex && $("#section-select").val() !== "null"){
+        if(mentionSectionObj[$("#section-select").val()].indexOf(a.URL) === -1){
           useIndex = false;
         }
       }
@@ -271,6 +296,9 @@ function redrawCircles () {
 
     }).filter((a) => { return a !== -1});
 
+
+    $("#node-count").text(filteredIndexes.length)
+
     circles
       .on("mouseover", (d, i) => {
           var index = filteredIndexes.indexOf(i); 
@@ -278,27 +306,41 @@ function redrawCircles () {
         })
       .transition() 
         .duration(800)
-        .attr("cx", (d, i) => { 
+        .attr("x", (d, i) => { 
           var index = filteredIndexes.indexOf(i);
           if(index !== -1){
-            return circlePositions[index][0];
+            return (index % numRectPerRow) * (rectWidth + rectPadding);
           }
-          return circlePositions[i][0];
+          return (i % numRectPerRow) * (rectWidth + rectPadding);
         })
-        .attr("cy", (d, i) => { 
+        .attr("y", (d, i) => { 
           var index = filteredIndexes.indexOf(i);
           if(index !== -1){
-            return circlePositions[index][1];
+            return Math.floor(index / numRectPerRow) * (rectHeight + rectPadding);
           }
-          return circlePositions[i][1];
+          return Math.floor(i / numRectPerRow) * (rectHeight + rectPadding);
         })
-        .attr("r", (d, i) => { 
-          var index = filteredIndexes.indexOf(i);
-          if(index !== -1){
-            return circlePositions[index][2];
-          }
-          return circlePositions[i][2];
-        })
+        // .attr("cx", (d, i) => { 
+        //   var index = filteredIndexes.indexOf(i);
+        //   if(index !== -1){
+        //     return circlePositions[index][0];
+        //   }
+        //   return circlePositions[i][0];
+        // })
+        // .attr("cy", (d, i) => { 
+        //   var index = filteredIndexes.indexOf(i);
+        //   if(index !== -1){
+        //     return circlePositions[index][1];
+        //   }
+        //   return circlePositions[i][1];
+        // })
+        // .attr("r", (d, i) => { 
+        //   var index = filteredIndexes.indexOf(i);
+        //   if(index !== -1){
+        //     return circlePositions[index][2];
+        //   }
+        //   return circlePositions[i][2];
+        // })
         .style("fill", (d, i) => {
           var index = filteredIndexes.indexOf(i); 
           if(index !== -1){
@@ -319,11 +361,36 @@ function redrawCircles () {
   } 
 }
 
-$(document).ready(function(){
-
+function initialiseFilters() {
   $(".circle-filter").on("change", function() {
     redrawCircles();
   });
+
+  var searchInputLabel = d3.select(".search-label input")
+    .on("keyup", keyupedLabel);
+
+  function keyupedLabel() {
+    searchLabel(this.value.trim());
+  }
+
+  function searchLabel(value) {
+    if (value.length > 2) {
+      var re = new RegExp("\\b" + d3.requote(value), "i");
+      circles.classed("hidden",function(d,i){
+        return !re.test(d.Name); 
+      });
+
+    } else {
+       circles.classed("hidden", false);
+    }
+  }
+
+
+
+}
+
+
+$(document).ready(function(){
 
   async.series({
     getPageData: (cb) => {
@@ -366,8 +433,8 @@ $(document).ready(function(){
         })
 
         var popularDates = Object.keys(dateObj).sort((a, b) => { return dateObj[b] - dateObj[a] });
-        console.log(popularDates.length)
-        console.log(popularDates)
+        // console.log(popularDates.length)
+        // console.log(popularDates)
 
         cb();
       });
@@ -387,8 +454,62 @@ $(document).ready(function(){
         })
 
         var popularGenres = Object.keys(genreObj).sort((a, b) => { return genreObj[b] - genreObj[a] });
-        console.log(popularGenres.length)
-        console.log(popularGenres)
+        // console.log(popularGenres.length)
+        // console.log(popularGenres)
+        cb();
+      });
+    },
+    getType: (cb) => {
+      d3.tsv(`./../data/d3-data-obj-types.tsv`, function(error, typeData) {
+        if (error) throw error;
+        types = typeData;
+
+        var typeObj = {};
+        types.forEach((g) => { 
+          var rdfType = g.Value
+                      //.replace(/(.)+\:/, "")
+                      .replace(/[\_|\-]+/g, " ").toLowerCase();
+          if(typeof typeObj[rdfType] === "undefined"){
+           typeObj[rdfType] = 0;
+          }
+          typeObj[rdfType]++
+        })
+
+        var popularTypes = Object.keys(typeObj).sort((a, b) => { return typeObj[b] - typeObj[a] });
+        // console.log(popularTypes.length)
+        // console.log(popularTypes.map((t) => { return `${typeObj[t]}\t${t}\n`}).join(""))
+
+        cb();
+      });
+    },
+    getFrom: (cb) => {
+      d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
+        if (error) throw error;
+        froms = fromData;
+
+        var subjectObj = {};
+        var placeObj = {};
+        froms.forEach((g) => { 
+
+          var parts = g.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
+
+          if(typeof subjectObj[parts[0]] === "undefined"){
+           subjectObj[parts[0]] = [];
+          }
+          subjectObj[parts[0]].push(g);
+
+          var place = parts[1].replace(/(.)+\,/, "").replace(/\_/g, " ").trim();
+
+          if(typeof placeObj[place] === "undefined"){
+           placeObj[place] = [];
+          }
+          placeObj[place].push(g);
+
+        })
+
+        console.log(subjectObj);
+        console.log(placeObj);
+
         cb();
       });
     },
@@ -409,6 +530,25 @@ $(document).ready(function(){
             mentionsObj[m.URL] = [];
           }
           mentionsObj[m.URL].push(m);
+
+          if(typeof mentionSectionObj[m.sectionHeader.toLowerCase()] === "undefined"){
+            mentionSectionObj[m.sectionHeader.toLowerCase()] = [];
+          }
+
+          if(mentionSectionObj[m.sectionHeader.toLowerCase()].indexOf(m.URL) === -1){
+            mentionSectionObj[m.sectionHeader.toLowerCase()].push(m.URL);
+          }
+
+        })
+
+
+        Object.keys(mentionSectionObj).sort((a, b) => { 
+          return mentionSectionObj[b].length - mentionSectionObj[a].length 
+        })
+        .forEach((sectionHeader) => {
+          $("#section-select")
+            .append($('<option>', { value : sectionHeader })
+            .text(sectionHeader))
         })
 
 
@@ -429,6 +569,9 @@ $(document).ready(function(){
     },
     done: () => {
       drawCircles();
+
+      initialiseFilters();
+     
     }
   })
 

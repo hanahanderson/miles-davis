@@ -12,11 +12,37 @@
 	<body>
 		<input type="checkbox" id="500-views" class='circle-filter'></input>over 500 views
 		<br>
-		<select id="entity-type-select" class='circle-filter'>
-			<option value="null"> All Types </option>
-		</select>
+		<table>
+			<tbody>
+				<tr>
+					<td>Type: </td>
+					<td>
+						<select id="entity-type-select" class='circle-filter'>
+							<option value="null"> All Types </option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>Section: </td>
+					<td>
+						<select id="section-select" class='circle-filter'>
+							<option value="null"> All Sections </option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>Search: </td>
+					<td>
+						<span class="search-label">
+							<input type="text"></input>
+						</span>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<span id="node-count"></span>
 		<center>
-			<svg id="bubble-container" style="width:1000px; height: 3000px"></svg>
+			<svg id="bubble-container" style="width:1000px; height: 900px"></svg>
 		</center>	
 		<!-- <svg width="1200" height="1200"><g transform="translate(480,480)"></g></svg> -->
 	</body>
