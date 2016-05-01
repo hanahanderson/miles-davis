@@ -1,14 +1,14 @@
 body {
 	font-family: 'Open Sans', sans-serif;
+  margin: 0px;
 }
 
 #grid {
   width: 1145px;
   height: 754px;
   position: absolute;
-  /*background-image: url("http://cp91279.biography.com/BIO_Bio-Shorts_0_Miles-Davis_150550_SF_HD_768x432-16x9.jpg");
-  background-position: -7px -9px;
-  background-size: 1145px 754px;*/
+/*  background-image: url("http://cp91279.biography.com/BIO_Bio-Shorts_0_Miles-Davis_150550_SF_HD_768x432-16x9.jpg");
+*/  background-size: 1145px 754px;
 }
 
 .grid-item {

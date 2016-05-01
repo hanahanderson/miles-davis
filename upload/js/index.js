@@ -20,6 +20,8 @@ var imageObj;
 var entityTypeObj = {};
 var mentionsObj = {};
 var mentionSectionObj = {};
+var subjectObj = {};
+var placeObj = {};
 
 var containerWidth = 1145;
 var containerHeight = 753;
@@ -57,7 +59,11 @@ function drawCircles () {
     .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  tooltip = d3.select("body").append("div").attr("class", "tooltip")
+  tooltip = d3.select("body")
+    .append("div") 
+      .attr("class", "tooltip")
+      .style("opacity", 0)
+
 
   svg.on("mouseout", () => {
     tooltip.transition()    
@@ -90,88 +96,82 @@ function drawCircles () {
       //   return `translate(${x}, ${y})`;
       // })
 
+  var backgroundImage = "http://cp91279.biography.com/BIO_Bio-Shorts_0_Miles-Davis_150550_SF_HD_768x432-16x9.jpg";
 
   nodeContainer.style("width", `${squareWidth}px`)
       .style("height", `${squareHeight}px`)
       .style("left", (d, i) => { return `${squareCoords(i).left}px`; })
-      .style("top", (d, i) => { return `${squareCoords(i).top}px`;})
-      .style("background-image", 'url("http://cp91279.biography.com/BIO_Bio-Shorts_0_Miles-Davis_150550_SF_HD_768x432-16x9.jpg")')
+      .style("top", (d, i) => { return `${squareCoords(i).top}px`; })
+      .style("background-image", `url("${backgroundImage}")`)
       .style("background-size", "1145px 753px")
       .style("background-position", (d, i) => { return `-${squareCoords(i).left}px -${squareCoords(i).top}px`})
       .style("color", "rgba(0,0,0,0)")
       .text((d, i) => { return d.Name; })
 
+  d3.select("body")
+    .style("height", "3000px")
 
+  d3.select("#grid")
+    .style("position", "fixed")
+    .style("background-image", `url("${backgroundImage}")`)
+  var hasDrawnGrid = false;
 
+  // $(window).on("scroll", () => {
 
-  // nodeContainer = svg.selectAll(".circle")
-  //   .data(data)
-  //   .enter()
-  //   .append("g")
-  //     .attr("transform", (d, i) => {
-  //       var x = (i % numRectPerRow) * (rectWidth + rectPadding);
-  //       var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) + 100 
-  //       return `translate(${x}, ${y})`;
-  //     })
-  //     .on("mouseover", (d) => {
-  //       mouseoverEnabled(d, true);
-  //     })
-  
-  //setTimeout(() => {
-    // nodeContainer.transition()
-    //   //.delay((d, i) => { return (i + 1) * 2 * Math.random()})
-    //   //.delay((d, i) => { return (i + 1) * 2 * Math.random()})
-    //   .delay(1000)
-    //   .duration(2000)
-    //     .style("-webkit-filter", (d, i) => { return `grayscale(${100 * Math.random()}%)` })
-    //     .style("filter", (d, i) => { return `grayscale(${100 * Math.random()}%)` })
-  //}, 500);
+  //   if(!hasDrawnGrid){
+  //     nodeContainer
+  //       .style("-webkit-filter", "grayscale(100%)")
+  //       .style("filter", "grayscale(100%)")
+  //       .style("opacity", (d, i) => { 
+  //         var pos = squareCoords(i).top + $(window).scrollTop();
+  //         return `${Math.min((pos * 1.5 / $("#grid").height()), 1)}` })
+  //       // .style("-webkit-filter", (d, i) => { 
+  //       //   var pos = squareCoords(i).top + $(window).scrollTop();
+  //       //   return `grayscale(${Math.min((pos / $("#grid").height()) * 100, 100)}%)` })
+  //       // .style("filter", (d, i) => { 
+  //       //   var pos = squareCoords(i).top + $(window).scrollTop();
+          
+  //       //   return `grayscale(${Math.min((pos / $("#grid").height()) * 100, 100) }%)` })
+  //   }
 
+  //   if($(window).scrollTop() > 300){
+      hasDrawnGrid = true;
+      $(window).unbind("scroll");
 
-  setTimeout(() => {
-    nodeContainer.transition()
-      .delay((d, i) => { return (i + 1) * 2 * Math.random()})
-      .duration(200)
-        .style("width", `${rectWidth}px`)
-        .style("height", `${rectHeight}px`)
-        .style("color", "black")
-        .style("background-image", null)
-        .style("background-color", (d, i) => { return `rgba(34, 49, 63, ${Math.random() * 0.7})` })
-        .style("left", (d, i) => { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
-        .style("top", (d, i) => { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
-        //.style("top", (d, i) => { return `${squareCoords(i).top * 2 * Math.random() }px`;})
+       nodeContainer.transition()
+        .duration((d, i) => { return (i + 1) * 2 * Math.random()})
+        //.duration(200)
+          .style("width", `${rectWidth}px`)
+          .style("height", `${rectHeight}px`)
+          .style("left", (d, i) => { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
+          .style("top", (d, i) => { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
+          .style("color", "black")
+          .style("background-image", null)
+          .style("opacity", 1)
+          .style("background-color", (d, i) => { return `rgba(34, 49, 63, ${Math.random() * 0.7})` })
+          
 
-   $(".filter-container").css("display", "block")
-
-
-    nodeContainer.on("mouseover", (d) => {
-      mouseoverEnabled(d, true);
-    })
-  }, 3000);
-
-  // nodeContainer.transition()
-  //     .delay(3000)
-  //     .duration((d, i) => { return (i + 1) * 2 * Math.random()})
-  //       .style("position", "inherit")
-  //       .style("padding", "5px")
-  //       .style("margin", "2px")
-  //       .style("border", "1px solid grey")
-  //       .style("border-radius", "3px")
-  //       .style("width", null)
-  //       .style("height", null)
-  //       .style("color", "black")
-  //       .style("background-image", null)
-  //       .style("background-color", `whitesmoke`)
-    
-  //       // .style("left", (d, i) => { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
-  //       // .style("top", (d, i) => { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
+      d3.select("#grid")
+        .style("position", "absolute")
+        .style("background-image", null);
       
-  //   setTimeout(() => {
-  //     $("#grid").css("width", "100%").css("height", null)
-  //    
+      $(".filter-container").css("display", "block")
 
-  //   }, 2000)
-    $("#node-count").text(data.length)
+      $("#node-count").text(data.length)
+
+      nodeContainer.on("mouseover", (d) => {
+        mouseoverEnabled(d, true);
+      })
+
+  //   }
+
+  // })
+
+
+  // setTimeout(() => {
+  //  
+  // }, 3000);
+
 
 
 }
@@ -368,6 +368,12 @@ $(document).ready(function(){
         data = data.sort((a, b) => { return parseInt(b.PageViews) - parseInt(a.PageViews) })
 
         data.forEach((g) => { 
+
+          if(g.EntityType.toLowerCase() === "q11424"){ g.EntityType = "Film"; }
+          if(g.EntityType.toLowerCase() === "group100031264"){ g.EntityType = "Group"; }
+          if(g.EntityType.toLowerCase() === "agent114778436"){ g.EntityType = "Drug"; }
+
+
           var entityType = g.EntityType.toLowerCase();
           if(typeof entityTypeObj[entityType] === "undefined"){
            entityTypeObj[entityType] = 0;
@@ -513,8 +519,8 @@ $(document).ready(function(){
         if (error) throw error;
         froms = fromData;
 
-        var subjectObj = {};
-        var placeObj = {};
+        subjectObj = {};
+        placeObj = {};
         froms.forEach((g) => { 
 
           var parts = g.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
