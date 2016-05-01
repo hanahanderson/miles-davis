@@ -8,16 +8,19 @@ var entityTypeObj = {};
 var mentionsObj = {};
 var mentionSectionObj = {};
 
-var rectHeight = 25;
-var rectWidth = 25;
+var containerWidth = 1145;
+var containerHeight = 753;
+
 var numRectPerRow = 30;
+var rectHeight = 25;
+//var rectWidth = 25;
+var rectWidth = Math.floor(containerWidth / numRectPerRow);
 var rectPadding = 0;
 
 var svg;
 var tooltip;
 var nodeContainer;
 var circles;
-var circlePositions;
 var nodeColor = "#22313F";
 
 var imageColors = []; 
@@ -25,253 +28,141 @@ var imageColors = [];
 function drawCircles () {
 
   //another one http://bl.ocks.org/mbostock/b07f8ae91c5e9e45719c
+  var maxRadius = 10, // maximum radius of circle
+      padding = 1.5, // padding between circles; also minimum radius
+      margin = {top: 10, right: 10, bottom: 100, left: 10},
+      width = 1000 - margin.left - margin.right,
+      height = 5000 - margin.top - margin.bottom;
 
-  
-    var maxRadius = 10, // maximum radius of circle
-        padding = 1.5, // padding between circles; also minimum radius
-        margin = {top: 10, right: 10, bottom: 100, left: 10},
-        width = 1000 - margin.left - margin.right,
-        height = 5000 - margin.top - margin.bottom;
+  var k = 10, // initial number of candidates to consider per circle
+      m = 20, // initial number of circles to add per frame
+      n = data.length, // remaining number of circles to add
+     
+  svg = d3.select("#bubble-container")
+      .attr("width", width)
+      .attr("height", height)
+    .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-    var k = 10, // initial number of candidates to consider per circle
-        m = 20, // initial number of circles to add per frame
-        n = data.length, // remaining number of circles to add
-        newCircle = bestCircleGenerator(maxRadius, padding);
+  tooltip = d3.select("body").append("div").attr("class", "tooltip")
 
-    svg = d3.select("#bubble-container")
-        .attr("width", width)
-        .attr("height", height)
-      .append("g")
-        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-    tooltip = d3.select("body").append("div").attr("class", "tooltip")
-
-    svg.on("mouseout", () => {
-      tooltip.transition()    
-        .delay(10000)    
-        .duration(100)
-        .style("opacity", 0);    
-    })
-
-    circlePositions = [];
-    var pageViews = [];
-    var entityTypes = {};
-
-    async.forEach(data, (page, cb) => {
-
-      var circle = newCircle(k);
-      circlePositions.push(circle);
-      
-      pageViews.push(parseInt(page.PageViews));
-      if(typeof entityTypes[page.EntityType.toUpperCase()] === "undefined"){
-        entityTypes[page.EntityType.toUpperCase()] = 0;
-      }
-      entityTypes[page.EntityType.toUpperCase()]++;
-      async.setImmediate(() => { cb(); });
-
-    }, () => {
-
-      // var sortedKeys = Object.keys(entityTypes).sort((a, b) => { return entityTypes[b] - entityTypes[a]})
-      // sortedKeys.forEach((a) => { console.log(`${entityTypes[a]} \t ${a}` )})
-      
-      circlePositions = circlePositions.sort((a, b) => { 
-        if(parseInt(a[1]) ===  parseInt(b[1])){
-          return a[0] - b[0];
-        }
-        return a[1] - b[1];
-      });
-
-      data = data.sort((a, b) => { return parseInt(b.PageViews) - parseInt(a.PageViews) })
-      
-      var radiusScale = d3.scale.linear()
-                          .domain([0, d3.max(pageViews)  ])
-                          .range([5, 15])
-
-
-
-      nodeContainer = svg.selectAll(".circle")
-        .data(data)
-        .enter()
-        .append("g")
-          .attr("transform", (d, i) => {
-            var x = (i % numRectPerRow) * (rectWidth + rectPadding);
-            var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) + 100 
-            return `translate(${x}, ${y})`;
-          })
-          .on("mouseover", (d) => {
-            mouseoverEnabled(d, true);
-          })
-          .on("mouseout", (d) => {
-
-           // d3.select(this).style("fill", "rgba(0,0,0,0.6)")
-            // tooltip.transition()   
-            //     .duration(0)    
-            //     .style("opacity", 0);  
-          })
-          // .attr("x", (d, i) => { return (i % numRectPerRow) * (rectWidth + rectPadding) })
-          // .attr("y", (d, i) => { return (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) + 100 })
-
-      // circles = nodeContainer.append("svg:rect")
-      //     .attr("width", rectWidth)
-      //     .attr("height", rectHeight)
-        // .append("svg:circle")
-        //   .attr("cx", (d, i) => { return circlePositions[i][0] })
-        //   .attr("cy", (d, i) => { return circlePositions[i][1] + 100 })
-        //   .attr("r", (d, i) => { return circlePositions[i][2] })
-          // .style("fill", nodeColor)
-          // .style("fill-opacity", (d) => { return (Math.random() + .5) / 2 })
-          
-
-      nodeContainer.transition()
-          .duration((d, i) => { return (i + 1) * 2 * Math.random()})
-            .attr("transform", (d, i) => {
-              var x = (i % numRectPerRow) * (rectWidth + rectPadding);
-              var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) 
-              return `translate(${x}, ${y})`;
-            })
-            //.attr("y", (d, i) => { return (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding))})
-            //.attr("cy", (d, i) => { return circlePositions[i][1]})
-        
-
-      // nodeContainer
-      //   .append("text")
-      //     .text((d, i) => { return d.Name; })
-      //     .style("transform", "translate(6px, 15px);")
-
-      var imageSquares = nodeContainer.append("svg:image")
-        .attr("xlink:href",  function(d) { 
-          var image = imageObj[d.URL];
-          if(typeof image !== "undefined" && image !== "undefined" && image !== "null"){
-            return `https:${image}`;
-          }
-          return "null";
-        })
-        //.attr("x", -25)
-        // .attr("y", -25)
-        .attr("height", rectHeight)
-        .attr("width", rectHeight);
-        
-      
-
-        $("#node-count").text(data.length)
-
-    })
-
-
-    function bestCircleGenerator(maxRadius, padding) {
-      var quadtree = d3.geom.quadtree().extent([[0, 0], [width, height]])([]),
-          searchRadius = maxRadius * 2,
-          maxRadius2 = maxRadius * maxRadius;
-
-      return function(k) {
-        var bestX, bestY, bestDistance = 0;
-
-        for (var i = 0; i < k || bestDistance < padding; ++i) {
-          var x = Math.random() * width,
-              y = Math.random() * height,
-              rx1 = x - searchRadius,
-              rx2 = x + searchRadius,
-              ry1 = y - searchRadius,
-              ry2 = y + searchRadius,
-              minDistance = maxRadius; // minimum distance for this candidate
-
-          quadtree.visit(function(quad, x1, y1, x2, y2) {
-            if (p = quad.point) {
-              var p,
-                  dx = x - p[0],
-                  dy = y - p[1],
-                  d2 = dx * dx + dy * dy,
-                  r2 = p[2] * p[2];
-              if (d2 < r2) return minDistance = 0, true; // within a circle
-              var d = Math.sqrt(d2) - p[2];
-              if (d < minDistance) minDistance = d;
-            }
-            return !minDistance || x1 > rx2 || x2 < rx1 || y1 > ry2 || y2 < ry1; // or outside search radius
-          });
-
-          if (minDistance > bestDistance) bestX = x, bestY = y, bestDistance = minDistance;
-        }
-
-        var best = [bestX, bestY, bestDistance - padding];
-        quadtree.add(best);
-        return best;
-      };
-    }
-
-
-  // var svg = d3.select("svg"),
-  //     size = +svg.attr("width");
-
-  // var color = d3.scaleRainbow()
-  //     .domain([0, 2 * Math.PI]);
-
-  // var mostViewed = d3.max(data, (a) => { return parseInt(a.PageViews)});
-
-  // var sizeScale = d3.scaleLog().domain([0, mostViewed]).range([3, 10])
-  // var circles = data.map(function(point) { 
-  //   point.r = Math.max(1, sizeScale(parseInt(point.PageViews)))
-  //   return point;
-  // });
-
-
-  // svg
-  //   .select("g")
-  //   .selectAll("circle")
-  //   .data(d3.packSiblings(circles) )
-  //   .enter().append("circle")
-  //     .style("fill", function(d) { return color(d.angle = Math.atan2(d.y, d.x)); })
-  //     .attr("cx", function(d) { return Math.cos(d.angle) * (size / Math.SQRT2 + 30) })
-  //     .attr("cy", function(d) { return Math.sin(d.angle) * (size / Math.SQRT2 + 30); })
-  //     .attr("r", function(d) { return d.r - 0.25; })
-  //   .transition()
-  //     .ease(d3.easeCubicOut)
-  //     .delay(function(d, i) { return i * 0.7; })
-  //     .duration(500)
-  //     .attr("cx", function(d, i) { 
-  //       return (d.x * 3)
-  //     })
-  //     .attr("cy", function(d, i) { return d.y });
-
-}
-
-function mouseoverEnabled (d, enabled){
-  if(enabled){
-     console.log(d);
-
-    var image = imageObj[d.URL];
-
-    var imageHTML = "";
-
-    if(typeof image !== "undefined" && image !== "undefined"){
-      imageHTML = `<img src="http:${image}" style="width: 100px; float: left; margin: 10px"/>`;
-    }
-
-    var mentionHTML = mentionsObj[d.URL].map((m) => {
-      return `<h4>${m.sectionHeader}</h4>${m.quote.replace(/Miles Davis/gi, "<b>Miles Davis</b>")}`;
-    }).join("");
-
-    //d3.select(this).style("fill", "red")
+  svg.on("mouseout", () => {
     tooltip.transition()    
-        .duration(200)    
-        .style("opacity", .9);    
-    tooltip.html(
-        `<table>
-          <tbody>
-            <tr>
-              <td>
-                <h4>${d.Name}</h4>
-                ${imageHTML}
-                ${mentionHTML}
-              </td>
-            </tr>
-          </tbody>
-        </table>`)  
-        .style("left", (d3.event.pageX + 20) + "px")   
-        .style("top", (d3.event.pageY + 20) + "px");  
+      .delay(10000)    
+      .duration(100)
+      .style("opacity", 0);    
+  })
 
-  }
-}
   
+  var numPerRow = 80;
+  var squareWidth = containerWidth / numPerRow;
+  var squareHeight = squareWidth;
+
+  function squareCoords(i) {
+
+    return {
+      left:  (i % numPerRow) * squareWidth,
+      top: Math.floor(i / numPerRow) * squareHeight
+    }
+  }
+
+  nodeContainer = d3.select("#grid").selectAll(".grid-item")
+    .data(data)
+    .enter()
+    .append("div")
+      .attr("class", "grid-item")
+      // .attr("transform", (d, i) => {
+      //   var x = squareCoords(i).left;
+      //   var y = squareCoords(i).top;
+      //   return `translate(${x}, ${y})`;
+      // })
+
+
+  nodeContainer.style("width", `${squareWidth}px`)
+      .style("height", `${squareHeight}px`)
+      .style("left", (d, i) => { return `${squareCoords(i).left}px`; })
+      .style("top", (d, i) => { return `${squareCoords(i).top}px`;})
+      .style("background-image", 'url("http://cp91279.biography.com/BIO_Bio-Shorts_0_Miles-Davis_150550_SF_HD_768x432-16x9.jpg")')
+      .style("background-size", "1145px 753px")
+      .style("background-position", (d, i) => { return `-${squareCoords(i).left}px -${squareCoords(i).top}px`})
+      .style("color", "rgba(0,0,0,0)")
+      .text((d, i) => { return d.Name; })
+
+
+
+
+  // nodeContainer = svg.selectAll(".circle")
+  //   .data(data)
+  //   .enter()
+  //   .append("g")
+  //     .attr("transform", (d, i) => {
+  //       var x = (i % numRectPerRow) * (rectWidth + rectPadding);
+  //       var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) + 100 
+  //       return `translate(${x}, ${y})`;
+  //     })
+  //     .on("mouseover", (d) => {
+  //       mouseoverEnabled(d, true);
+  //     })
+  
+  //setTimeout(() => {
+    // nodeContainer.transition()
+    //   //.delay((d, i) => { return (i + 1) * 2 * Math.random()})
+    //   //.delay((d, i) => { return (i + 1) * 2 * Math.random()})
+    //   .delay(1000)
+    //   .duration(2000)
+    //     .style("-webkit-filter", (d, i) => { return `grayscale(${100 * Math.random()}%)` })
+    //     .style("filter", (d, i) => { return `grayscale(${100 * Math.random()}%)` })
+  //}, 500);
+
+
+  setTimeout(() => {
+    nodeContainer.transition()
+      .delay((d, i) => { return (i + 1) * 2 * Math.random()})
+      .duration(200)
+        .style("width", `${rectWidth}px`)
+        .style("height", `${rectHeight}px`)
+        .style("color", "black")
+        .style("background-image", null)
+        .style("background-color", (d, i) => { return `rgba(34, 49, 63, ${Math.random() * 0.7})` })
+        .style("left", (d, i) => { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
+        .style("top", (d, i) => { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
+        //.style("top", (d, i) => { return `${squareCoords(i).top * 2 * Math.random() }px`;})
+
+   $(".filter-container").css("display", "block")
+
+
+    nodeContainer.on("mouseover", (d) => {
+      mouseoverEnabled(d, true);
+    })
+  }, 3000);
+
+  // nodeContainer.transition()
+  //     .delay(3000)
+  //     .duration((d, i) => { return (i + 1) * 2 * Math.random()})
+  //       .style("position", "inherit")
+  //       .style("padding", "5px")
+  //       .style("margin", "2px")
+  //       .style("border", "1px solid grey")
+  //       .style("border-radius", "3px")
+  //       .style("width", null)
+  //       .style("height", null)
+  //       .style("color", "black")
+  //       .style("background-image", null)
+  //       .style("background-color", `whitesmoke`)
+    
+  //       // .style("left", (d, i) => { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
+  //       // .style("top", (d, i) => { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
+      
+  //   setTimeout(() => {
+  //     $("#grid").css("width", "100%").css("height", null)
+  //    
+
+  //   }, 2000)
+    $("#node-count").text(data.length)
+
+
+}
+
 function resetCircles() {
   $("#node-count").text(data.length)
   nodeContainer
@@ -280,21 +171,16 @@ function resetCircles() {
       mouseoverEnabled(d, true);
     })
     .transition()
-    .duration((d, i) => { return i * Math.random() * 0.5 })
-      .attr("transform", (d, i) => {
-        var x = (i % numRectPerRow) * (rectWidth + rectPadding);
-        var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) 
-        return `translate(${x}, ${y})`;
-      })
-      // .attr("x", (d, i) => { return (i % numRectPerRow) * (rectWidth + rectPadding) })
-      // .attr("y", (d, i) => { return (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) });
-      // .attr("cx", (d, i) => { return circlePositions[i][0] })
-      // .attr("cy", (d, i) => { return circlePositions[i][1] })
-      //.attr("r", (d, i) => { return circlePositions[i][2] })
-
-  // circles.style("fill", nodeColor)
-  //     .style("fill-opacity", (d) => { return (Math.random() + .5) / 2 })
-  //    ;
+    // .duration((d, i) => { return i * Math.random() * 0.5 })
+    //   .style("left", (d, i) => { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
+    //   .style("top", (d, i) => { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
+        
+      // .attr("transform", (d, i) => {
+      //   var x = (i % numRectPerRow) * (rectWidth + rectPadding);
+      //   var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) 
+      //   return `translate(${x}, ${y})`;
+      // })
+      
 }
 function redrawCircles () {
   
@@ -364,72 +250,81 @@ function redrawCircles () {
         })
       .transition() 
         .duration(800)
-        .attr("transform", (d, i) => {
+        .style("left", (d, i) => { 
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
           
           if(index !== -1){
             positionIndex = index;
           }
-          var x = (positionIndex % numRectPerRow) * (rectWidth + rectPadding);
-          var y = Math.floor(positionIndex / numRectPerRow) * (rectHeight + rectPadding)
-          return `translate(${x}, ${y})`;
+          return `${(positionIndex % numRectPerRow) * (rectWidth + rectPadding)}px`; 
         })
+        .style("top", (d, i) => { 
+          var positionIndex = i;
+          var index = filteredIndexes.indexOf(i);
+          
+          if(index !== -1){
+            positionIndex = index;
+          }
+          return `${Math.floor(positionIndex / numRectPerRow) * (rectHeight + rectPadding)}px`;
+        })
+        
+        // .attr("transform", (d, i) => {
+        //   var positionIndex = i;
+        //   var index = filteredIndexes.indexOf(i);
+          
+        //   if(index !== -1){
+        //     positionIndex = index;
+        //   }
+        //   var x = (positionIndex % numRectPerRow) * (rectWidth + rectPadding);
+        //   var y = Math.floor(positionIndex / numRectPerRow) * (rectHeight + rectPadding)
+        //   return `translate(${x}, ${y})`;
+        // })
 
-        // .attr("x", (d, i) => { 
-        //   var index = filteredIndexes.indexOf(i);
-        //   if(index !== -1){
-        //     return (index % numRectPerRow) * (rectWidth + rectPadding);
-        //   }
-        //   return (i % numRectPerRow) * (rectWidth + rectPadding);
-        // })
-        // .attr("y", (d, i) => { 
-        //   var index = filteredIndexes.indexOf(i);
-        //   if(index !== -1){
-        //     return Math.floor(index / numRectPerRow) * (rectHeight + rectPadding);
-        //   }
-        //   return Math.floor(i / numRectPerRow) * (rectHeight + rectPadding);
-        // });
-        // .attr("cx", (d, i) => { 
-        //   var index = filteredIndexes.indexOf(i);
-        //   if(index !== -1){
-        //     return circlePositions[index][0];
-        //   }
-        //   return circlePositions[i][0];
-        // })
-        // .attr("cy", (d, i) => { 
-        //   var index = filteredIndexes.indexOf(i);
-        //   if(index !== -1){
-        //     return circlePositions[index][1];
-        //   }
-        //   return circlePositions[i][1];
-        // })
-        // .attr("r", (d, i) => { 
-        //   var index = filteredIndexes.indexOf(i);
-        //   if(index !== -1){
-        //     return circlePositions[index][2];
-        //   }
-        //   return circlePositions[i][2];
-        // })
-      // circles.style("fill", (d, i) => {
-      //     var index = filteredIndexes.indexOf(i); 
-      //     if(index !== -1){
-      //       return nodeColor;
-      //     }
-      //     return "rgba(0,0,0,0)" ;
-      //   })
-      //   .style("fill-opacity", (d, i) => { 
-      //     var index = filteredIndexes.indexOf(i); 
-      //     if(index !== -1){
-      //       return (Math.random() + .5) / 2 ;
-      //     }
-      //     return 0;
-      //   })
-      //   ;
+        
   } else {
      resetCircles();
   } 
 }
+
+
+function mouseoverEnabled (d, enabled){
+  if(enabled){
+     console.log(d);
+
+    var image = imageObj[d.URL];
+
+    var imageHTML = "";
+
+    if(typeof image !== "undefined" && image !== "undefined"){
+      imageHTML = `<img src="http:${image}" style="width: 100px; float: left; margin: 10px"/>`;
+    }
+
+    var mentionHTML = mentionsObj[d.URL].map((m) => {
+      return `<h4>${m.sectionHeader}</h4>${m.quote.replace(/Miles Davis/gi, "<b>Miles Davis</b>")}`;
+    }).join("");
+
+    tooltip.transition()    
+        .duration(200)    
+        .style("opacity", 1);    
+    tooltip.html(
+        `<table>
+          <tbody>
+            <tr>
+              <td>
+                <h4>${d.Name}</h4>
+                ${imageHTML}
+                ${mentionHTML}
+              </td>
+            </tr>
+          </tbody>
+        </table>`)  
+        .style("left", (d3.event.pageX + 10) + "px")   
+        .style("top", (d3.event.pageY + 10) + "px");  
+
+  }
+}
+  
 
 function initialiseFilters() {
   $(".circle-filter input").on("change", function() {
@@ -445,23 +340,7 @@ function initialiseFilters() {
      redrawCircles();
     }
 
-    //searchLabel(this.value.trim());
   }
-
-  // function searchLabel(value) {
-  //   if (value.length > 2) {
-  //     var re = new RegExp("\\b" + d3.requote(value), "i");
-  //     nodeContainer.classed("hidden",function(d,i){
-  //       return !re.test(d.Name); 
-  //     });
-
-  //   } else {
-  //     nodeContainer.classed("hidden", false);
-  //   }
-  // }
-
-
-
 }
 
 
@@ -471,7 +350,9 @@ $(document).ready(function(){
     getPageData: (cb) => {
       d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
         if (error) throw error;
+      
         data = pageData;
+        data = data.sort((a, b) => { return parseInt(b.PageViews) - parseInt(a.PageViews) })
 
         data.forEach((g) => { 
           var entityType = g.EntityType.toLowerCase();

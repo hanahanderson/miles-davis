@@ -13,51 +13,52 @@
 			<link rel="stylesheet" type="text/css" href="./css/style.css"/>
 	</head>
 	<body>
-		<input type="checkbox" id="500-views" class='circle-filter'></input>over 500 views
-		<br>
-		<table>
-			<tbody>
-				<tr>
-					<td>Type: </td>
-					<td>
-						<div id="entity-type-select" class='circle-filter'>
-							<div class="check-button">
-								<label>
-									<input value="null" type="checkbox" checked>
-									<span> All Types </span>
-								</label>
+		<div class="filter-container" style="display: none">
+			<input type="checkbox" id="500-views" class='circle-filter'></input>over 500 views
+			<br>
+			<table>
+				<tbody>
+					<tr>
+						<td>Type: </td>
+						<td>
+							<div id="entity-type-select" class='circle-filter'>
+								<div class="check-button">
+									<label>
+										<input value="null" type="checkbox" checked>
+										<span> All Types </span>
+									</label>
+								</div>
 							</div>
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td>Section: </td>
-					<td>
-						<div id="section-select" class='circle-filter'>
-							<div class="check-button">
-								<label>
-									<input value="null" type="checkbox" checked>
-									<span> All Sections</span>
-								</label>
+						</td>
+					</tr>
+					<tr>
+						<td>Section: </td>
+						<td>
+							<div id="section-select" class='circle-filter'>
+								<div class="check-button">
+									<label>
+										<input value="null" type="checkbox" checked>
+										<span> All Sections</span>
+									</label>
+								</div>
 							</div>
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td>Search: </td>
-					<td>
-						<span class="search-label">
-							<input type="text"></input>
-						</span>
-					</td>
-				</tr>
-			</tbody>
-		</table>
-		<span id="node-count"></span>
-		<center>
-			<svg id="bubble-container" style="width:1000px; height: 5000px"></svg>
-		</center>	
-		<!-- <svg width="1200" height="1200"><g transform="translate(480,480)"></g></svg> -->
+						</td>
+					</tr>
+					<tr>
+						<td>Search: </td>
+						<td>
+							<span class="search-label">
+								<input type="text"></input>
+							</span>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<span id="node-count"></span>
+		</div>
+
+		<div id="grid"></div>
+			
 	</body>
 	<script type="text/javascript" src="./js/index.js"></script>
 
