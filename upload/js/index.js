@@ -384,7 +384,7 @@ $(document).ready(function(){
               `<div class="check-button">
                 <label>
                   <input value='${entityType}' type='checkbox'/> 
-                  <span>${entityType}</span>
+                  <span>${entityType} <small>(${entityTypeObj[entityType]})</small> </span>
                 </label>
               </div>`))  
         })
@@ -435,7 +435,7 @@ $(document).ready(function(){
               `<div class="check-button">
                 <label>
                   <input value='${sectionHeader}' type='checkbox'/> 
-                  <span>${sectionHeader}</span>
+                  <span>${sectionHeader} <small>(${mentionSectionObj[sectionHeader].length})</small> </span>
                 </label>
               </div>`))
         })
