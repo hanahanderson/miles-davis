@@ -1,4 +1,4 @@
 { name: 'Andy "Stoker" Growcott',
-  entityType: '',
+  entityType: 'Musical Artist',
   href: 'http://dbpedia.org/page/Andy_%22Stoker%22_Growcott',
   values: {} }

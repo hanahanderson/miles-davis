@@ -1,4 +1,4 @@
 { name: 'Oscar Peterson + Harry Edison + Eddie "Cleanhead" Vinson',
-  entityType: '',
+  entityType: 'Album',
   href: 'http://dbpedia.org/page/Oscar_Peterson_%2B_Harry_Edison_%2B_Eddie_%22Cleanhead%22_Vinson',
   values: {} }

@@ -1,4 +1,4 @@
 { name: 'James "Tootie" Hogan',
-  entityType: '',
+  entityType: 'Musical Artist',
   href: 'http://dbpedia.org/page/James_%22Tootie%22_Hogan',
   values: {} }

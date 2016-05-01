@@ -76,14 +76,6 @@ Drum_and_bass	Drum and bass	is dbo:musicSubgenre of	dbr:Drum_and_bass
 Drum_and_bass	Drum and bass	is dbp:genres of	dbr:Subatomic_Sound_System
 Drum_and_bass	Drum and bass	is dbp:subgenres of	dbr:Oldschool_jungle
 Floating_Point	Floating Point	dbp:genre	Jazz (en)
-George_Benson	George Benson	dbo:genre	dbr:Soul_music
-George_Benson	George Benson	dbo:genre	dbr:Funk
-George_Benson	George Benson	dbo:genre	dbr:Jazz
-George_Benson	George Benson	dbo:genre	dbr:Rhythm_and_blues
-George_Benson	George Benson	dbp:genre	dbr:Soul_music
-George_Benson	George Benson	dbp:genre	dbr:Funk
-George_Benson	George Benson	dbp:genre	dbr:Jazz
-George_Benson	George Benson	dbp:genre	dbr:Rhythm_and_blues
 Funk	Funk	dbo:musicFusionGenre	dbr:Acid_jazz
 Funk	Funk	dbo:musicSubgenre	dbr:Go-go
 Funk	Funk	dbp:fusiongenres	dbr:Acid_jazz
@@ -106,6 +98,20 @@ Funk	Funk	dbp:subgenres	dbr:Nu-funk
 Funk	Funk	is dbp:genre(s)_ of	dbr:I_Need_5_Minutes_Alone
 Funk	Funk	is dbp:genres of	dbr:Jerome_Brailey
 Funk	Funk	is dbp:genres of	dbr:Diafrix
+George_Benson	George Benson	dbo:genre	dbr:Soul_music
+George_Benson	George Benson	dbo:genre	dbr:Funk
+George_Benson	George Benson	dbo:genre	dbr:Jazz
+George_Benson	George Benson	dbo:genre	dbr:Rhythm_and_blues
+George_Benson	George Benson	dbp:genre	dbr:Soul_music
+George_Benson	George Benson	dbp:genre	dbr:Funk
+George_Benson	George Benson	dbp:genre	dbr:Jazz
+George_Benson	George Benson	dbp:genre	dbr:Rhythm_and_blues
+James_Brown	James Brown	dbo:genre	dbr:Soul_music
+James_Brown	James Brown	dbo:genre	dbr:Funk
+James_Brown	James Brown	dbo:genre	dbr:Rhythm_and_blues
+James_Brown	James Brown	dbp:genre	dbr:Soul_music
+James_Brown	James Brown	dbp:genre	dbr:Funk
+James_Brown	James Brown	dbp:genre	dbr:Rhythm_and_blues
 Jazz	Jazz	dbo:musicFusionGenre	dbr:Acid_jazz
 Jazz	Jazz	dbo:musicFusionGenre	dbr:Crossover_jazz
 Jazz	Jazz	dbo:musicFusionGenre	dbr:Jam_band
@@ -211,12 +217,6 @@ Jazz	Jazz	is dbp:winnerGenre of	dbr:Vocea_României_(season_2)
 Jazz	Jazz	is dbp:winnerGenre of	dbr:American_Idol_(season_12)
 Jazz	Jazz	is dbp:winnerGenre of	dbr:Superstar_K5
 Jazz	Jazz	is dbp:winnerGenre of	dbr:Tusker_Project_Fame
-James_Brown	James Brown	dbo:genre	dbr:Soul_music
-James_Brown	James Brown	dbo:genre	dbr:Funk
-James_Brown	James Brown	dbo:genre	dbr:Rhythm_and_blues
-James_Brown	James Brown	dbp:genre	dbr:Soul_music
-James_Brown	James Brown	dbp:genre	dbr:Funk
-James_Brown	James Brown	dbp:genre	dbr:Rhythm_and_blues
 John_Lee_Hooker	John Lee Hooker	dbo:genre	dbr:Blues
 John_Lee_Hooker	John Lee Hooker	dbp:genre	dbr:Blues
 Jimi_Hendrix	Jimi Hendrix	dbo:genre	dbr:Hard_rock
@@ -262,14 +262,6 @@ Lynyrd_Skynyrd	Lynyrd Skynyrd	dbp:genre	dbr:Country_rock
 Lynyrd_Skynyrd	Lynyrd Skynyrd	dbp:genre	dbr:Hard_rock
 Lynyrd_Skynyrd	Lynyrd Skynyrd	dbp:genre	dbr:Blues_rock
 Lynyrd_Skynyrd	Lynyrd Skynyrd	dbp:genre	dbr:Southern_rock
-Ron_Carter	Ron Carter	dbo:genre	dbr:Avant-garde_jazz
-Ron_Carter	Ron Carter	dbo:genre	dbr:Orchestral_jazz
-Ron_Carter	Ron Carter	dbo:genre	dbr:Mainstream_jazz
-Ron_Carter	Ron Carter	dbo:genre	dbr:Third_stream
-Ron_Carter	Ron Carter	dbp:genre	dbr:Avant-garde_jazz
-Ron_Carter	Ron Carter	dbp:genre	dbr:Orchestral_jazz
-Ron_Carter	Ron Carter	dbp:genre	dbr:Mainstream_jazz
-Ron_Carter	Ron Carter	dbp:genre	dbr:Third_stream
 Rock_music	Rock music	dbo:musicFusionGenre	dbr:Anatolian_rock
 Rock_music	Rock music	dbo:musicFusionGenre	dbr:Samba_rock
 Rock_music	Rock music	dbo:musicFusionGenre	dbr:Stoner_rock
@@ -372,6 +364,14 @@ Rock_music	Rock music	is dbp:winnerGenre of	dbr:DSDS_Kids_(season_1)
 Rock_music	Rock music	is dbp:winnerGenre of	dbr:Idol_(Norway_season_1)
 Rock_music	Rock music	is dbp:winnerGenre of	dbr:Idol_(Norway_season_2)
 Rock_music	Rock music	is dbp:winnerGenre of	dbr:Vocea_României_(season_1)
+Ron_Carter	Ron Carter	dbo:genre	dbr:Avant-garde_jazz
+Ron_Carter	Ron Carter	dbo:genre	dbr:Orchestral_jazz
+Ron_Carter	Ron Carter	dbo:genre	dbr:Mainstream_jazz
+Ron_Carter	Ron Carter	dbo:genre	dbr:Third_stream
+Ron_Carter	Ron Carter	dbp:genre	dbr:Avant-garde_jazz
+Ron_Carter	Ron Carter	dbp:genre	dbr:Orchestral_jazz
+Ron_Carter	Ron Carter	dbp:genre	dbr:Mainstream_jazz
+Ron_Carter	Ron Carter	dbp:genre	dbr:Third_stream
 Red_Hot_Chili_Peppers	Red Hot Chili Peppers	dbo:genre	dbr:Funk_rock
 Red_Hot_Chili_Peppers	Red Hot Chili Peppers	dbo:genre	dbr:Funk_metal
 Red_Hot_Chili_Peppers	Red Hot Chili Peppers	dbo:genre	dbr:Alternative_rock
@@ -396,6 +396,13 @@ The_Doors	The Doors	dbp:genre	dbr:Psychedelic_rock
 The_Doors	The Doors	dbp:genre	 (en)
 Sex_Pistols	Sex Pistols	dbo:genre	dbr:Punk_rock
 Sex_Pistols	Sex Pistols	dbp:genre	dbr:Punk_rock
+The_Rolling_Stones	The Rolling Stones	dbo:genre	dbr:Blues
+The_Rolling_Stones	The Rolling Stones	dbo:genre	dbr:Pop_music
+The_Rolling_Stones	The Rolling Stones	dbo:genre	dbr:Rock_music
+The_Rolling_Stones	The Rolling Stones	dbp:genre	dbr:Blues
+The_Rolling_Stones	The Rolling Stones	dbp:genre	dbr:Pop_music
+The_Rolling_Stones	The Rolling Stones	dbp:genre	dbr:Rock_music
+The_Rolling_Stones	The Rolling Stones	dbp:genre	 (en)
 Herbie_Hancock	Herbie Hancock	dbo:genre	dbr:Electro_(music)
 Herbie_Hancock	Herbie Hancock	dbo:genre	dbr:Modal_jazz
 Herbie_Hancock	Herbie Hancock	dbo:genre	dbr:Jazz-funk
@@ -427,6 +434,12 @@ Radiohead	Radiohead	dbp:genre	dbr:Art_rock
 Radiohead	Radiohead	dbp:genre	dbr:Alternative_rock
 Radiohead	Radiohead	dbp:genre	dbr:Electronic_music
 Radiohead	Radiohead	dbp:genre	 (en)
+Duke_Ellington	Duke Ellington	dbo:genre	dbr:Orchestral_jazz
+Duke_Ellington	Duke Ellington	dbo:genre	dbr:Big_band
+Duke_Ellington	Duke Ellington	dbo:genre	dbr:Swing_music
+Duke_Ellington	Duke Ellington	dbp:genre	dbr:Orchestral_jazz
+Duke_Ellington	Duke Ellington	dbp:genre	dbr:Big_band
+Duke_Ellington	Duke Ellington	dbp:genre	dbr:Swing_music
 Leonard_Bernstein	Leonard Bernstein	dbo:genre	dbr:Ballet_(music)
 Leonard_Bernstein	Leonard Bernstein	dbo:genre	dbr:Classical_music
 Leonard_Bernstein	Leonard Bernstein	dbo:genre	dbr:Film_score
@@ -435,25 +448,6 @@ Leonard_Bernstein	Leonard Bernstein	dbp:genre	dbr:Ballet_(music)
 Leonard_Bernstein	Leonard Bernstein	dbp:genre	dbr:Classical_music
 Leonard_Bernstein	Leonard Bernstein	dbp:genre	dbr:Film_score
 Leonard_Bernstein	Leonard Bernstein	dbp:genre	dbr:Opera
-The_Rolling_Stones	The Rolling Stones	dbo:genre	dbr:Blues
-The_Rolling_Stones	The Rolling Stones	dbo:genre	dbr:Pop_music
-The_Rolling_Stones	The Rolling Stones	dbo:genre	dbr:Rock_music
-The_Rolling_Stones	The Rolling Stones	dbp:genre	dbr:Blues
-The_Rolling_Stones	The Rolling Stones	dbp:genre	dbr:Pop_music
-The_Rolling_Stones	The Rolling Stones	dbp:genre	dbr:Rock_music
-The_Rolling_Stones	The Rolling Stones	dbp:genre	 (en)
-Duke_Ellington	Duke Ellington	dbo:genre	dbr:Orchestral_jazz
-Duke_Ellington	Duke Ellington	dbo:genre	dbr:Big_band
-Duke_Ellington	Duke Ellington	dbo:genre	dbr:Swing_music
-Duke_Ellington	Duke Ellington	dbp:genre	dbr:Orchestral_jazz
-Duke_Ellington	Duke Ellington	dbp:genre	dbr:Big_band
-Duke_Ellington	Duke Ellington	dbp:genre	dbr:Swing_music
-Led_Zeppelin_II	Led Zeppelin II	dbo:genre	dbr:Hard_rock
-Led_Zeppelin_II	Led Zeppelin II	dbo:genre	dbr:Blues
-Led_Zeppelin_II	Led Zeppelin II	dbo:genre	dbr:Heavy_metal_music
-Led_Zeppelin_II	Led Zeppelin II	dbp:genre	dbr:Hard_rock
-Led_Zeppelin_II	Led Zeppelin II	dbp:genre	dbr:Blues
-Led_Zeppelin_II	Led Zeppelin II	dbp:genre	dbr:Heavy_metal_music
 Bebop	Bebop	dbo:musicSubgenre	dbr:Hard_bop
 Bebop	Bebop	dbo:musicSubgenre	dbr:List_of_jazz_genres
 Bebop	Bebop	dbp:subgenrelist	dbr:Jazz_piano
@@ -461,34 +455,18 @@ Bebop	Bebop	dbp:subgenrelist	dbr:List_of_jazz_subgenres
 Bebop	Bebop	dbp:subgenres	dbr:Hard_bop
 Bebop	Bebop	dbp:subgenres	dbr:List_of_jazz_genres
 Bebop	Bebop	is dbo:musicSubgenre of	dbr:Jazz
-John_Paul_Jones_(musician)	John Paul Jones (musician)	dbo:genre	dbr:Rock_music
-John_Paul_Jones_(musician)	John Paul Jones (musician)	dbp:genre	dbr:Rock_music
+Led_Zeppelin_II	Led Zeppelin II	dbo:genre	dbr:Hard_rock
+Led_Zeppelin_II	Led Zeppelin II	dbo:genre	dbr:Blues
+Led_Zeppelin_II	Led Zeppelin II	dbo:genre	dbr:Heavy_metal_music
+Led_Zeppelin_II	Led Zeppelin II	dbp:genre	dbr:Hard_rock
+Led_Zeppelin_II	Led Zeppelin II	dbp:genre	dbr:Blues
+Led_Zeppelin_II	Led Zeppelin II	dbp:genre	dbr:Heavy_metal_music
 Art_rock	Art rock	is dbo:musicFusionGenre of	dbr:Pop_music
 Art_rock	Art rock	is dbo:musicSubgenre of	dbr:Rock_music_of_West_Bengal
 Art_rock	Art rock	is dbo:musicSubgenre of	dbr:Wagnerian_rock
 Art_rock	Art rock	is dbo:musicSubgenre of	dbr:Rock_music
 Art_rock	Art rock	is dbp:fusiongenres of	dbr:Pop_music
 Art_rock	Art rock	is dbp:genre(s)_ of	dbr:Stationary_Odyssey
-Charlie_Parker	Charlie Parker	dbo:genre	dbr:Jazz
-Charlie_Parker	Charlie Parker	dbo:genre	dbr:Bebop
-Charlie_Parker	Charlie Parker	dbp:genre	dbr:Jazz
-Charlie_Parker	Charlie Parker	dbp:genre	dbr:Bebop
-John_Coltrane	John Coltrane	dbo:genre	dbr:Avant-garde_jazz
-John_Coltrane	John Coltrane	dbo:genre	dbr:Modal_jazz
-John_Coltrane	John Coltrane	dbo:genre	dbr:Post-bop
-John_Coltrane	John Coltrane	dbo:genre	dbr:Hard_bop
-John_Coltrane	John Coltrane	dbo:genre	dbr:Free_jazz
-John_Coltrane	John Coltrane	dbp:genre	dbr:Avant-garde_jazz
-John_Coltrane	John Coltrane	dbp:genre	dbr:Modal_jazz
-John_Coltrane	John Coltrane	dbp:genre	dbr:Post-bop
-John_Coltrane	John Coltrane	dbp:genre	dbr:Hard_bop
-John_Coltrane	John Coltrane	dbp:genre	dbr:Free_jazz
-Dizzy_Gillespie	Dizzy Gillespie	dbo:genre	dbr:Afro-Cuban_jazz
-Dizzy_Gillespie	Dizzy Gillespie	dbo:genre	dbr:Jazz
-Dizzy_Gillespie	Dizzy Gillespie	dbo:genre	dbr:Bebop
-Dizzy_Gillespie	Dizzy Gillespie	dbp:genre	dbr:Afro-Cuban_jazz
-Dizzy_Gillespie	Dizzy Gillespie	dbp:genre	dbr:Jazz
-Dizzy_Gillespie	Dizzy Gillespie	dbp:genre	dbr:Bebop
 Progressive_rock	Progressive rock	dbo:musicSubgenre	dbr:Italian_progressive_rock
 Progressive_rock	Progressive rock	dbo:musicSubgenre	dbr:Neo-progressive_rock
 Progressive_rock	Progressive rock	dbo:musicSubgenre	dbr:Progressive_metal
@@ -519,16 +497,24 @@ Progressive_rock	Progressive rock	is dbp:fusiongenres of	dbr:Progressive_folk
 Progressive_rock	Progressive rock	is dbp:fusiongenres of	dbr:Free_jazz
 Progressive_rock	Progressive rock	is dbp:genres of	dbr:Michiyo_Yagi
 Progressive_rock	Progressive rock	is dbp:winnerGenre of	dbr:Ultimate_Live_Lounge
-Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Experimental_rock
-Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Worldbeat
-Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Art_rock
-Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Progressive_rock
-Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Pop_rock
-Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Experimental_rock
-Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Worldbeat
-Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Art_rock
-Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Progressive_rock
-Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Pop_rock
+John_Coltrane	John Coltrane	dbo:genre	dbr:Avant-garde_jazz
+John_Coltrane	John Coltrane	dbo:genre	dbr:Modal_jazz
+John_Coltrane	John Coltrane	dbo:genre	dbr:Post-bop
+John_Coltrane	John Coltrane	dbo:genre	dbr:Hard_bop
+John_Coltrane	John Coltrane	dbo:genre	dbr:Free_jazz
+John_Coltrane	John Coltrane	dbp:genre	dbr:Avant-garde_jazz
+John_Coltrane	John Coltrane	dbp:genre	dbr:Modal_jazz
+John_Coltrane	John Coltrane	dbp:genre	dbr:Post-bop
+John_Coltrane	John Coltrane	dbp:genre	dbr:Hard_bop
+John_Coltrane	John Coltrane	dbp:genre	dbr:Free_jazz
+John_Paul_Jones_(musician)	John Paul Jones (musician)	dbo:genre	dbr:Rock_music
+John_Paul_Jones_(musician)	John Paul Jones (musician)	dbp:genre	dbr:Rock_music
+Dizzy_Gillespie	Dizzy Gillespie	dbo:genre	dbr:Afro-Cuban_jazz
+Dizzy_Gillespie	Dizzy Gillespie	dbo:genre	dbr:Jazz
+Dizzy_Gillespie	Dizzy Gillespie	dbo:genre	dbr:Bebop
+Dizzy_Gillespie	Dizzy Gillespie	dbp:genre	dbr:Afro-Cuban_jazz
+Dizzy_Gillespie	Dizzy Gillespie	dbp:genre	dbr:Jazz
+Dizzy_Gillespie	Dizzy Gillespie	dbp:genre	dbr:Bebop
 Ambient_music	Ambient music	dbo:musicFusionGenre	dbr:Ambient_music
 Ambient_music	Ambient music	dbo:musicSubgenre	dbr:Dark_ambient
 Ambient_music	Ambient music	dbp:fusiongenres	Ambient dub – Illbient – Psybient – Dark ambient – Ambient house – Space music – Post-rock (en)
@@ -543,6 +529,20 @@ Ambient_music	Ambient music	is dbo:musicFusionGenre of	dbr:Space_rock
 Ambient_music	Ambient music	is dbo:musicFusionGenre of	dbr:Psychedelic_trance
 Ambient_music	Ambient music	is dbo:musicFusionGenre of	dbr:Ambient_music
 Ambient_music	Ambient music	is dbp:fusiongenres of	dbr:Goa_trance
+Charlie_Parker	Charlie Parker	dbo:genre	dbr:Jazz
+Charlie_Parker	Charlie Parker	dbo:genre	dbr:Bebop
+Charlie_Parker	Charlie Parker	dbp:genre	dbr:Jazz
+Charlie_Parker	Charlie Parker	dbp:genre	dbr:Bebop
+Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Experimental_rock
+Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Worldbeat
+Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Art_rock
+Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Progressive_rock
+Peter_Gabriel	Peter Gabriel	dbo:genre	dbr:Pop_rock
+Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Experimental_rock
+Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Worldbeat
+Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Art_rock
+Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Progressive_rock
+Peter_Gabriel	Peter Gabriel	dbp:genre	dbr:Pop_rock
 Tony_Williams_(drummer)	Tony Williams (drummer)	dbo:genre	dbr:Post-bop
 Tony_Williams_(drummer)	Tony Williams (drummer)	dbo:genre	dbr:Jazz
 Tony_Williams_(drummer)	Tony Williams (drummer)	dbo:genre	dbr:Jazz_fusion
@@ -554,6 +554,8 @@ Glenn_Miller	Glenn Miller	dbo:genre	dbr:Big_band
 Glenn_Miller	Glenn Miller	dbo:genre	dbr:Swing_music
 Glenn_Miller	Glenn Miller	dbp:genre	dbr:Big_band
 Glenn_Miller	Glenn Miller	dbp:genre	dbr:Swing_music
+Jean-Pierre_Rampal	Jean-Pierre Rampal	dbp:genre	dbr:Classical_music
+Jean-Pierre_Rampal	Jean-Pierre Rampal	dbp:genre	dbr:Jazz
 Count_Basie	Count Basie	dbo:genre	dbr:Big_band
 Count_Basie	Count Basie	dbo:genre	dbr:Piano_blues
 Count_Basie	Count Basie	dbo:genre	dbr:Jazz
@@ -562,18 +564,6 @@ Count_Basie	Count Basie	dbp:genre	dbr:Big_band
 Count_Basie	Count Basie	dbp:genre	dbr:Piano_blues
 Count_Basie	Count Basie	dbp:genre	dbr:Jazz
 Count_Basie	Count Basie	dbp:genre	dbr:Swing_music
-Jean-Pierre_Rampal	Jean-Pierre Rampal	dbp:genre	dbr:Classical_music
-Jean-Pierre_Rampal	Jean-Pierre Rampal	dbp:genre	dbr:Jazz
-Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Avant-garde_jazz
-Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Post-bop
-Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Free_jazz
-Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Jazz
-Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Third_stream
-Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Avant-garde_jazz
-Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Post-bop
-Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Free_jazz
-Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Jazz
-Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Third_stream
 Wilco	Wilco	dbo:genre	dbr:Experimental_rock
 Wilco	Wilco	dbo:genre	dbr:Art_rock
 Wilco	Wilco	dbo:genre	dbr:Alternative_country
@@ -585,6 +575,16 @@ Wilco	Wilco	dbp:genre	dbr:Alternative_country
 Wilco	Wilco	dbp:genre	dbr:Alternative_rock
 Wilco	Wilco	dbp:genre	dbr:Indie_rock
 Wilco	Wilco	dbp:genre	 (en)
+Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Avant-garde_jazz
+Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Post-bop
+Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Free_jazz
+Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Jazz
+Eric_Dolphy	Eric Dolphy	dbo:genre	dbr:Third_stream
+Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Avant-garde_jazz
+Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Post-bop
+Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Free_jazz
+Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Jazz
+Eric_Dolphy	Eric Dolphy	dbp:genre	dbr:Third_stream
 Thelonious_Monk	Thelonious Monk	dbo:genre	dbr:Cool_jazz
 Thelonious_Monk	Thelonious Monk	dbo:genre	dbr:Hard_bop
 Thelonious_Monk	Thelonious Monk	dbo:genre	dbr:Jazz
@@ -606,6 +606,18 @@ OK_Computer	OK Computer	dbp:genre	dbr:Experimental_rock
 OK_Computer	OK Computer	dbp:genre	dbr:Art_rock
 OK_Computer	OK Computer	dbp:genre	dbr:Alternative_rock
 OK_Computer	OK Computer	dbp:genre	 (en)
+Salsa_music	Salsa music	dbo:musicFusionGenre	dbr:Charanga-vallenata
+Salsa_music	Salsa music	dbo:musicSubgenre	dbr:Salsa_romántica
+Salsa_music	Salsa music	dbp:fusiongenres	dbr:Salsaton
+Salsa_music	Salsa music	dbp:fusiongenres	dbr:Vallenato-salsa
+Salsa_music	Salsa music	dbp:fusiongenres	dbr:Songo-salsa
+Salsa_music	Salsa music	dbp:fusiongenres	dbr:Charanga-vallenata
+Salsa_music	Salsa music	dbp:subgenres	dbr:Salsa_dura
+Salsa_music	Salsa music	dbp:subgenres	dbr:Salsa_romántica
+Salsa_music	Salsa music	is dbo:musicSubgenre of	dbr:Music_of_Latin_America
+Salsa_music	Salsa music	is dbp:fusiongenres of	dbr:Mambo_(music)
+Salsa_music	Salsa music	is dbp:fusiongenres of	dbr:Jaiva
+Salsa_music	Salsa music	is dbp:fusiongenres of	dbr:Noise_Khanyile
 Nick_Cave	Nick Cave	dbo:genre	dbr:Post-punk
 Nick_Cave	Nick Cave	dbo:genre	dbr:Gothic_rock
 Nick_Cave	Nick Cave	dbo:genre	dbr:Experimental_rock
@@ -630,18 +642,6 @@ Amon_Tobin	Amon Tobin	dbp:genre	dbr:Trip_hop
 Amon_Tobin	Amon Tobin	dbp:genre	dbr:Intelligent_dance_music
 Amon_Tobin	Amon Tobin	dbp:genre	dbr:Electronica
 Amon_Tobin	Amon Tobin	dbp:genre	dbr:Nu_jazz
-Salsa_music	Salsa music	dbo:musicFusionGenre	dbr:Charanga-vallenata
-Salsa_music	Salsa music	dbo:musicSubgenre	dbr:Salsa_romántica
-Salsa_music	Salsa music	dbp:fusiongenres	dbr:Salsaton
-Salsa_music	Salsa music	dbp:fusiongenres	dbr:Vallenato-salsa
-Salsa_music	Salsa music	dbp:fusiongenres	dbr:Songo-salsa
-Salsa_music	Salsa music	dbp:fusiongenres	dbr:Charanga-vallenata
-Salsa_music	Salsa music	dbp:subgenres	dbr:Salsa_dura
-Salsa_music	Salsa music	dbp:subgenres	dbr:Salsa_romántica
-Salsa_music	Salsa music	is dbo:musicSubgenre of	dbr:Music_of_Latin_America
-Salsa_music	Salsa music	is dbp:fusiongenres of	dbr:Mambo_(music)
-Salsa_music	Salsa music	is dbp:fusiongenres of	dbr:Jaiva
-Salsa_music	Salsa music	is dbp:fusiongenres of	dbr:Noise_Khanyile
 Blue_Note_Records	Blue Note Records	dbo:genre	dbr:Jazz
 Blue_Note_Records	Blue Note Records	dbp:genre	dbr:Jazz
 Industrial_music	Industrial music	dbp:subgenrelist	List of electronic music genres (en)
@@ -661,14 +661,10 @@ The_Byrds	The Byrds	dbp:genre	dbr:Pop_music
 The_Byrds	The Byrds	dbp:genre	dbr:Psychedelic_rock
 The_Byrds	The Byrds	dbp:genre	dbr:Rock_music
 The_Byrds	The Byrds	dbp:genre	dbr:Raga_rock
-J._J._Johnson	J. J. Johnson	dbo:genre	dbr:Hard_bop
-J._J._Johnson	J. J. Johnson	dbo:genre	dbr:Jazz
-J._J._Johnson	J. J. Johnson	dbo:genre	dbr:Bebop
-J._J._Johnson	J. J. Johnson	dbo:genre	dbr:Third_stream
-J._J._Johnson	J. J. Johnson	dbp:genre	dbr:Hard_bop
-J._J._Johnson	J. J. Johnson	dbp:genre	dbr:Jazz
-J._J._Johnson	J. J. Johnson	dbp:genre	dbr:Bebop
-J._J._Johnson	J. J. Johnson	dbp:genre	dbr:Third_stream
+Free_jazz	Free jazz	dbo:musicFusionGenre	dbr:Progressive_rock
+Free_jazz	Free jazz	dbp:fusiongenres	dbr:Punk_jazz
+Free_jazz	Free jazz	dbp:fusiongenres	dbr:Progressive_rock
+Free_jazz	Free jazz	is dbo:musicSubgenre of	dbr:Jazz
 Switchfoot	Switchfoot	dbo:genre	dbr:Christian_rock
 Switchfoot	Switchfoot	dbo:genre	dbr:Hard_rock
 Switchfoot	Switchfoot	dbo:genre	dbr:Post-grunge
@@ -677,6 +673,14 @@ Switchfoot	Switchfoot	dbp:genre	dbr:Christian_rock
 Switchfoot	Switchfoot	dbp:genre	dbr:Hard_rock
 Switchfoot	Switchfoot	dbp:genre	dbr:Post-grunge
 Switchfoot	Switchfoot	dbp:genre	dbr:Alternative_rock
+J._J._Johnson	J. J. Johnson	dbo:genre	dbr:Hard_bop
+J._J._Johnson	J. J. Johnson	dbo:genre	dbr:Jazz
+J._J._Johnson	J. J. Johnson	dbo:genre	dbr:Bebop
+J._J._Johnson	J. J. Johnson	dbo:genre	dbr:Third_stream
+J._J._Johnson	J. J. Johnson	dbp:genre	dbr:Hard_bop
+J._J._Johnson	J. J. Johnson	dbp:genre	dbr:Jazz
+J._J._Johnson	J. J. Johnson	dbp:genre	dbr:Bebop
+J._J._Johnson	J. J. Johnson	dbp:genre	dbr:Third_stream
 Parliament-Funkadelic	Parliament-Funkadelic	dbo:genre	dbr:Funk_rock
 Parliament-Funkadelic	Parliament-Funkadelic	dbo:genre	dbr:Disco
 Parliament-Funkadelic	Parliament-Funkadelic	dbo:genre	dbr:P-Funk
@@ -689,10 +693,6 @@ Parliament-Funkadelic	Parliament-Funkadelic	dbp:genre	dbr:P-Funk
 Parliament-Funkadelic	Parliament-Funkadelic	dbp:genre	dbr:Funk
 Parliament-Funkadelic	Parliament-Funkadelic	dbp:genre	dbr:Psychedelic_rock
 Parliament-Funkadelic	Parliament-Funkadelic	dbp:genre	dbr:Psychedelic_soul
-Free_jazz	Free jazz	dbo:musicFusionGenre	dbr:Progressive_rock
-Free_jazz	Free jazz	dbp:fusiongenres	dbr:Punk_jazz
-Free_jazz	Free jazz	dbp:fusiongenres	dbr:Progressive_rock
-Free_jazz	Free jazz	is dbo:musicSubgenre of	dbr:Jazz
 Public_Image_Ltd	Public Image Ltd	dbo:genre	dbr:Post-punk
 Public_Image_Ltd	Public Image Ltd	dbo:genre	dbr:Experimental_rock
 Public_Image_Ltd	Public Image Ltd	dbo:genre	dbr:Alternative_dance
@@ -704,18 +704,6 @@ Public_Image_Ltd	Public Image Ltd	dbp:genre	dbr:Alternative_rock
 Public_Image_Ltd	Public Image Ltd	dbp:genre	 (en)
 Yo-Yo_Ma	Yo-Yo Ma	dbo:genre	dbr:Classical_music
 Yo-Yo_Ma	Yo-Yo Ma	dbp:genre	dbr:Classical_music
-Rollins_Band	Rollins Band	dbo:genre	dbr:Post-hardcore
-Rollins_Band	Rollins Band	dbo:genre	dbr:Hard_rock
-Rollins_Band	Rollins Band	dbo:genre	dbr:Alternative_metal
-Rollins_Band	Rollins Band	dbp:genre	dbr:Post-hardcore
-Rollins_Band	Rollins Band	dbp:genre	dbr:Hard_rock
-Rollins_Band	Rollins Band	dbp:genre	dbr:Alternative_metal
-Warren_DeMartini	Warren DeMartini	dbo:genre	dbr:Hard_rock
-Warren_DeMartini	Warren DeMartini	dbo:genre	dbr:Heavy_metal_music
-Warren_DeMartini	Warren DeMartini	dbo:genre	dbr:Glam_metal
-Warren_DeMartini	Warren DeMartini	dbp:genre	dbr:Hard_rock
-Warren_DeMartini	Warren DeMartini	dbp:genre	dbr:Heavy_metal_music
-Warren_DeMartini	Warren DeMartini	dbp:genre	dbr:Glam_metal
 Carlos_Santana	Carlos Santana	dbo:genre	dbr:Rock_en_español
 Carlos_Santana	Carlos Santana	dbo:genre	dbr:Blues_rock
 Carlos_Santana	Carlos Santana	dbo:genre	dbr:Free_jazz
@@ -733,6 +721,18 @@ Carlos_Santana	Carlos Santana	dbp:genre	dbr:Chicano_rock
 Carlos_Santana	Carlos Santana	dbp:genre	dbr:Jazz_fusion
 Carlos_Santana	Carlos Santana	dbp:genre	dbr:Tejano_music
 Carlos_Santana	Carlos Santana	dbp:genre	 (en)
+Rollins_Band	Rollins Band	dbo:genre	dbr:Post-hardcore
+Rollins_Band	Rollins Band	dbo:genre	dbr:Hard_rock
+Rollins_Band	Rollins Band	dbo:genre	dbr:Alternative_metal
+Rollins_Band	Rollins Band	dbp:genre	dbr:Post-hardcore
+Rollins_Band	Rollins Band	dbp:genre	dbr:Hard_rock
+Rollins_Band	Rollins Band	dbp:genre	dbr:Alternative_metal
+Warren_DeMartini	Warren DeMartini	dbo:genre	dbr:Hard_rock
+Warren_DeMartini	Warren DeMartini	dbo:genre	dbr:Heavy_metal_music
+Warren_DeMartini	Warren DeMartini	dbo:genre	dbr:Glam_metal
+Warren_DeMartini	Warren DeMartini	dbp:genre	dbr:Hard_rock
+Warren_DeMartini	Warren DeMartini	dbp:genre	dbr:Heavy_metal_music
+Warren_DeMartini	Warren DeMartini	dbp:genre	dbr:Glam_metal
 Jaco_Pastorius	Jaco Pastorius	dbo:genre	dbr:Folk_jazz
 Jaco_Pastorius	Jaco Pastorius	dbo:genre	dbr:Big_band
 Jaco_Pastorius	Jaco Pastorius	dbo:genre	dbr:Funk
@@ -784,12 +784,6 @@ Charlie_Christian	Charlie Christian	dbp:genre	dbr:Big_band
 Charlie_Christian	Charlie Christian	dbp:genre	dbr:Jazz
 Charlie_Christian	Charlie Christian	dbp:genre	dbr:Bebop
 Charlie_Christian	Charlie Christian	dbp:genre	dbr:Swing_music
-Steely_Dan	Steely Dan	dbo:genre	dbr:Soft_rock
-Steely_Dan	Steely Dan	dbo:genre	dbr:Rock_music
-Steely_Dan	Steely Dan	dbo:genre	dbr:Jazz_fusion
-Steely_Dan	Steely Dan	dbp:genre	dbr:Soft_rock
-Steely_Dan	Steely Dan	dbp:genre	dbr:Rock_music
-Steely_Dan	Steely Dan	dbp:genre	dbr:Jazz_fusion
 Bill_Evans	Bill Evans	dbo:genre	dbr:Modal_jazz
 Bill_Evans	Bill Evans	dbo:genre	dbr:Cool_jazz
 Bill_Evans	Bill Evans	dbo:genre	dbr:Post-bop
@@ -800,6 +794,12 @@ Bill_Evans	Bill Evans	dbp:genre	dbr:Cool_jazz
 Bill_Evans	Bill Evans	dbp:genre	dbr:Post-bop
 Bill_Evans	Bill Evans	dbp:genre	dbr:Jazz
 Bill_Evans	Bill Evans	dbp:genre	dbr:Third_stream
+Steely_Dan	Steely Dan	dbo:genre	dbr:Soft_rock
+Steely_Dan	Steely Dan	dbo:genre	dbr:Rock_music
+Steely_Dan	Steely Dan	dbo:genre	dbr:Jazz_fusion
+Steely_Dan	Steely Dan	dbp:genre	dbr:Soft_rock
+Steely_Dan	Steely Dan	dbp:genre	dbr:Rock_music
+Steely_Dan	Steely Dan	dbp:genre	dbr:Jazz_fusion
 Linda_Ronstadt	Linda Ronstadt	dbo:genre	dbr:Big_band
 Linda_Ronstadt	Linda Ronstadt	dbo:genre	dbr:Country_rock
 Linda_Ronstadt	Linda Ronstadt	dbo:genre	dbr:Soft_rock
@@ -816,6 +816,7 @@ Linda_Ronstadt	Linda Ronstadt	dbp:genre	dbr:Jazz
 Linda_Ronstadt	Linda Ronstadt	dbp:genre	dbr:Rock_and_roll
 Linda_Ronstadt	Linda Ronstadt	dbp:genre	dbr:Rock_music
 Linda_Ronstadt	Linda Ronstadt	dbp:genre	dbr:Art_rock
+Columbia_Records	Columbia Records	dbp:genre	Various (en)
 Sly_and_the_Family_Stone	Sly and the Family Stone	dbo:genre	dbr:Funk_rock
 Sly_and_the_Family_Stone	Sly and the Family Stone	dbo:genre	dbr:Soul_music
 Sly_and_the_Family_Stone	Sly and the Family Stone	dbo:genre	dbr:Funk
@@ -830,17 +831,6 @@ Sly_and_the_Family_Stone	Sly and the Family Stone	dbp:genre	dbr:Pop_music
 Sly_and_the_Family_Stone	Sly and the Family Stone	dbp:genre	dbr:Rhythm_and_blues
 Sly_and_the_Family_Stone	Sly and the Family Stone	dbp:genre	dbr:Rock_music
 Sly_and_the_Family_Stone	Sly and the Family Stone	dbp:genre	dbr:Psychedelic_soul
-Sly_Stone	Sly Stone	dbo:genre	dbr:Soul_music
-Sly_Stone	Sly Stone	dbo:genre	dbr:Funk
-Sly_Stone	Sly Stone	dbo:genre	dbr:Rhythm_and_blues
-Sly_Stone	Sly Stone	dbo:genre	dbr:Rock_music
-Sly_Stone	Sly Stone	dbo:genre	dbr:Psychedelic_soul
-Sly_Stone	Sly Stone	dbp:genre	dbr:Soul_music
-Sly_Stone	Sly Stone	dbp:genre	dbr:Funk
-Sly_Stone	Sly Stone	dbp:genre	dbr:Rhythm_and_blues
-Sly_Stone	Sly Stone	dbp:genre	dbr:Rock_music
-Sly_Stone	Sly Stone	dbp:genre	dbr:Psychedelic_soul
-Columbia_Records	Columbia Records	dbp:genre	Various (en)
 Lenny_Kravitz	Lenny Kravitz	dbo:genre	dbr:Funk_rock
 Lenny_Kravitz	Lenny Kravitz	dbo:genre	dbr:Neo_soul
 Lenny_Kravitz	Lenny Kravitz	dbo:genre	dbr:Neo-psychedelia
@@ -854,6 +844,16 @@ Lenny_Kravitz	Lenny Kravitz	dbp:genre	dbr:Hard_rock
 Lenny_Kravitz	Lenny Kravitz	dbp:genre	dbr:Brown-eyed_soul
 Lenny_Kravitz	Lenny Kravitz	dbp:genre	dbr:Rock_music
 Lenny_Kravitz	Lenny Kravitz	dbp:genre	 (en)
+Sly_Stone	Sly Stone	dbo:genre	dbr:Soul_music
+Sly_Stone	Sly Stone	dbo:genre	dbr:Funk
+Sly_Stone	Sly Stone	dbo:genre	dbr:Rhythm_and_blues
+Sly_Stone	Sly Stone	dbo:genre	dbr:Rock_music
+Sly_Stone	Sly Stone	dbo:genre	dbr:Psychedelic_soul
+Sly_Stone	Sly Stone	dbp:genre	dbr:Soul_music
+Sly_Stone	Sly Stone	dbp:genre	dbr:Funk
+Sly_Stone	Sly Stone	dbp:genre	dbr:Rhythm_and_blues
+Sly_Stone	Sly Stone	dbp:genre	dbr:Rock_music
+Sly_Stone	Sly Stone	dbp:genre	dbr:Psychedelic_soul
 Louis_Jordan	Louis Jordan	dbo:genre	dbr:Big_band
 Louis_Jordan	Louis Jordan	dbo:genre	dbr:Jump_blues
 Louis_Jordan	Louis Jordan	dbo:genre	dbr:Blues
@@ -868,18 +868,6 @@ Louis_Jordan	Louis Jordan	dbp:genre	dbr:Jazz
 Louis_Jordan	Louis Jordan	dbp:genre	dbr:Rhythm_and_blues
 Louis_Jordan	Louis Jordan	dbp:genre	dbr:Swing_music
 Louis_Jordan	Louis Jordan	dbp:genre	dbr:Comedy_music
-Celia_Cruz	Celia Cruz	dbo:genre	dbr:Guaracha
-Celia_Cruz	Celia Cruz	dbo:genre	dbr:Bolero
-Celia_Cruz	Celia Cruz	dbo:genre	dbr:Son_(music)
-Celia_Cruz	Celia Cruz	dbo:genre	dbr:Cha-cha-cha_(music)
-Celia_Cruz	Celia Cruz	dbo:genre	dbr:Salsa_music
-Celia_Cruz	Celia Cruz	dbp:genre	dbr:Guaracha
-Celia_Cruz	Celia Cruz	dbp:genre	dbr:Bolero
-Celia_Cruz	Celia Cruz	dbp:genre	dbr:Son_(music)
-Celia_Cruz	Celia Cruz	dbp:genre	dbr:Cha-cha-cha_(music)
-Celia_Cruz	Celia Cruz	dbp:genre	dbr:Salsa_music
-Frank_Loesser	Frank Loesser	dbo:genre	dbr:Musical_theatre
-Frank_Loesser	Frank Loesser	dbp:genre	dbr:Musical_theatre
 Earth,_Wind_%26_Fire	Earth, Wind & Fire	dbo:genre	dbr:Disco
 Earth,_Wind_%26_Fire	Earth, Wind & Fire	dbo:genre	dbr:Soul_music
 Earth,_Wind_%26_Fire	Earth, Wind & Fire	dbo:genre	dbr:Funk
@@ -894,9 +882,18 @@ Earth,_Wind_%26_Fire	Earth, Wind & Fire	dbp:genre	dbr:Jazz
 Earth,_Wind_%26_Fire	Earth, Wind & Fire	dbp:genre	dbr:Pop_music
 Earth,_Wind_%26_Fire	Earth, Wind & Fire	dbp:genre	dbr:Rhythm_and_blues
 Earth,_Wind_%26_Fire	Earth, Wind & Fire	dbp:genre	dbr:Psychedelic_soul
-Hermeto_Pascoal	Hermeto Pascoal	dbo:genre	dbr:Forró
-Hermeto_Pascoal	Hermeto Pascoal	dbo:genre	dbr:Jazz
-Hermeto_Pascoal	Hermeto Pascoal	dbp:genre	Brazilian traditions, jazz, forró (en)
+Frank_Loesser	Frank Loesser	dbo:genre	dbr:Musical_theatre
+Frank_Loesser	Frank Loesser	dbp:genre	dbr:Musical_theatre
+Celia_Cruz	Celia Cruz	dbo:genre	dbr:Guaracha
+Celia_Cruz	Celia Cruz	dbo:genre	dbr:Bolero
+Celia_Cruz	Celia Cruz	dbo:genre	dbr:Son_(music)
+Celia_Cruz	Celia Cruz	dbo:genre	dbr:Cha-cha-cha_(music)
+Celia_Cruz	Celia Cruz	dbo:genre	dbr:Salsa_music
+Celia_Cruz	Celia Cruz	dbp:genre	dbr:Guaracha
+Celia_Cruz	Celia Cruz	dbp:genre	dbr:Bolero
+Celia_Cruz	Celia Cruz	dbp:genre	dbr:Son_(music)
+Celia_Cruz	Celia Cruz	dbp:genre	dbr:Cha-cha-cha_(music)
+Celia_Cruz	Celia Cruz	dbp:genre	dbr:Salsa_music
 Kool_%26_the_Gang	Kool & the Gang	dbo:genre	dbr:Boogie_(genre)
 Kool_%26_the_Gang	Kool & the Gang	dbo:genre	dbr:Disco
 Kool_%26_the_Gang	Kool & the Gang	dbo:genre	dbr:Soul_music
@@ -911,6 +908,9 @@ Kool_%26_the_Gang	Kool & the Gang	dbp:genre	dbr:Dance-pop
 Kool_%26_the_Gang	Kool & the Gang	dbp:genre	dbr:Funk
 Kool_%26_the_Gang	Kool & the Gang	dbp:genre	dbr:Jazz
 Kool_%26_the_Gang	Kool & the Gang	dbp:genre	dbr:Rhythm_and_blues
+Hermeto_Pascoal	Hermeto Pascoal	dbo:genre	dbr:Forró
+Hermeto_Pascoal	Hermeto Pascoal	dbo:genre	dbr:Jazz
+Hermeto_Pascoal	Hermeto Pascoal	dbp:genre	Brazilian traditions, jazz, forró (en)
 Sarah_Vaughan	Sarah Vaughan	dbo:genre	dbr:Bossa_nova
 Sarah_Vaughan	Sarah Vaughan	dbo:genre	dbr:Traditional_pop_music
 Sarah_Vaughan	Sarah Vaughan	dbo:genre	dbr:Smooth_jazz
@@ -951,6 +951,8 @@ Trey_Anastasio	Trey Anastasio	dbp:genre	dbr:Alternative_rock
 Trey_Anastasio	Trey Anastasio	dbp:genre	dbr:Bluegrass_music
 Trey_Anastasio	Trey Anastasio	dbp:genre	dbr:Jazz_fusion
 Trey_Anastasio	Trey Anastasio	dbp:genre	dbr:Progressive_rock
+The_Cosby_Show	The Cosby Show	dbo:genre	dbr:Sitcom
+The_Cosby_Show	The Cosby Show	dbp:genre	dbr:Sitcom
 Kid_A	Kid A	dbo:genre	dbr:Post-rock
 Kid_A	Kid A	dbo:genre	dbr:Experimental_rock
 Kid_A	Kid A	dbo:genre	dbr:Electronica
@@ -984,14 +986,12 @@ Cannonball_Adderley	Cannonball Adderley	dbp:genre	dbr:Modal_jazz
 Cannonball_Adderley	Cannonball Adderley	dbp:genre	dbr:Soul_jazz
 Cannonball_Adderley	Cannonball Adderley	dbp:genre	dbr:Hard_bop
 Cannonball_Adderley	Cannonball Adderley	dbp:genre	dbr:Jazz_fusion
-The_Cosby_Show	The Cosby Show	dbo:genre	dbr:Sitcom
-The_Cosby_Show	The Cosby Show	dbp:genre	dbr:Sitcom
+Capitol_Records	Capitol Records	dbp:genre	Various (en)
 Blondie_(band)	Blondie (band)	dbo:genre	dbr:New_wave_music
 Blondie_(band)	Blondie (band)	dbo:genre	dbr:Punk_rock
 Blondie_(band)	Blondie (band)	dbp:genre	dbr:New_wave_music
 Blondie_(band)	Blondie (band)	dbp:genre	dbr:Punk_rock
 Blondie_(band)	Blondie (band)	dbp:genre	 (en)
-Capitol_Records	Capitol Records	dbp:genre	Various (en)
 Moldejazz	Moldejazz	dbo:genre	dbr:List_of_jazz_festivals
 Moldejazz	Moldejazz	dbp:genre	dbr:List_of_jazz_festivals
 Burt_Bacharach	Burt Bacharach	dbo:genre	dbr:Vocal_music
@@ -1002,16 +1002,6 @@ Brian_Wilson_Presents_Smile	Brian Wilson Presents Smile	dbo:genre	dbr:Psychedeli
 Brian_Wilson_Presents_Smile	Brian Wilson Presents Smile	dbo:genre	dbr:Easy_listening
 Brian_Wilson_Presents_Smile	Brian Wilson Presents Smile	dbp:genre	dbr:Psychedelic_pop
 Brian_Wilson_Presents_Smile	Brian Wilson Presents Smile	dbp:genre	dbr:Easy_listening
-What%27s_Going_On_(Marvin_Gaye_album)	What's Going On (Marvin Gaye album)	dbo:genre	dbr:Soul_music
-What%27s_Going_On_(Marvin_Gaye_album)	What's Going On (Marvin Gaye album)	dbo:genre	dbr:Rhythm_and_blues
-What%27s_Going_On_(Marvin_Gaye_album)	What's Going On (Marvin Gaye album)	dbp:genre	dbr:Soul_music
-What%27s_Going_On_(Marvin_Gaye_album)	What's Going On (Marvin Gaye album)	dbp:genre	dbr:Rhythm_and_blues
-Coleman_Hawkins	Coleman Hawkins	dbo:genre	dbr:Bebop
-Coleman_Hawkins	Coleman Hawkins	dbo:genre	dbr:Swing_music
-Coleman_Hawkins	Coleman Hawkins	dbp:genre	dbr:Bebop
-Coleman_Hawkins	Coleman Hawkins	dbp:genre	dbr:Swing_music
-The_Sun_Don%27t_Lie	The Sun Don't Lie	dbo:genre	dbr:Jazz_fusion
-The_Sun_Don%27t_Lie	The Sun Don't Lie	dbp:genre	dbr:Jazz_fusion
 Level_42	Level 42	dbo:genre	dbr:Dance-rock
 Level_42	Level 42	dbo:genre	dbr:Sophisti-pop
 Level_42	Level 42	dbo:genre	dbr:Jazz-funk
@@ -1022,16 +1012,26 @@ Level_42	Level 42	dbp:genre	dbr:Sophisti-pop
 Level_42	Level 42	dbp:genre	dbr:Jazz-funk
 Level_42	Level 42	dbp:genre	dbr:New_wave_music
 Level_42	Level 42	dbp:genre	dbr:Pop_rock
-Marcus_Miller_(album)	Marcus Miller (album)	dbo:genre	dbr:Jazz
-Marcus_Miller_(album)	Marcus Miller (album)	dbo:genre	dbr:Jazz_fusion
-Marcus_Miller_(album)	Marcus Miller (album)	dbp:genre	dbr:Jazz
-Marcus_Miller_(album)	Marcus Miller (album)	dbp:genre	dbr:Jazz_fusion
+What%27s_Going_On_(Marvin_Gaye_album)	What's Going On (Marvin Gaye album)	dbo:genre	dbr:Soul_music
+What%27s_Going_On_(Marvin_Gaye_album)	What's Going On (Marvin Gaye album)	dbo:genre	dbr:Rhythm_and_blues
+What%27s_Going_On_(Marvin_Gaye_album)	What's Going On (Marvin Gaye album)	dbp:genre	dbr:Soul_music
+What%27s_Going_On_(Marvin_Gaye_album)	What's Going On (Marvin Gaye album)	dbp:genre	dbr:Rhythm_and_blues
+Coleman_Hawkins	Coleman Hawkins	dbo:genre	dbr:Bebop
+Coleman_Hawkins	Coleman Hawkins	dbo:genre	dbr:Swing_music
+Coleman_Hawkins	Coleman Hawkins	dbp:genre	dbr:Bebop
+Coleman_Hawkins	Coleman Hawkins	dbp:genre	dbr:Swing_music
+The_Sun_Don%27t_Lie	The Sun Don't Lie	dbo:genre	dbr:Jazz_fusion
+The_Sun_Don%27t_Lie	The Sun Don't Lie	dbp:genre	dbr:Jazz_fusion
 Marcus_Miller	Marcus Miller	dbo:genre	dbr:Smooth_jazz
 Marcus_Miller	Marcus Miller	dbo:genre	dbr:Funk
 Marcus_Miller	Marcus Miller	dbo:genre	dbr:Jazz
 Marcus_Miller	Marcus Miller	dbo:genre	dbr:Rhythm_and_blues
 Marcus_Miller	Marcus Miller	dbo:genre	dbr:Jazz_fusion
 Marcus_Miller	Marcus Miller	dbp:genre	Jazz, jazz fusion, rhythm and blues, rock, funk, smooth jazz (en)
+Marcus_Miller_(album)	Marcus Miller (album)	dbo:genre	dbr:Jazz
+Marcus_Miller_(album)	Marcus Miller (album)	dbo:genre	dbr:Jazz_fusion
+Marcus_Miller_(album)	Marcus Miller (album)	dbp:genre	dbr:Jazz
+Marcus_Miller_(album)	Marcus Miller (album)	dbp:genre	dbr:Jazz_fusion
 Suddenly_(Marcus_Miller_album)	Suddenly (Marcus Miller album)	dbo:genre	dbr:Jazz-funk
 Suddenly_(Marcus_Miller_album)	Suddenly (Marcus Miller album)	dbo:genre	dbr:Jazz_fusion
 Suddenly_(Marcus_Miller_album)	Suddenly (Marcus Miller album)	dbp:genre	dbr:Jazz-funk
@@ -1060,48 +1060,6 @@ John_Scofield	John Scofield	dbp:genre	dbr:Post-bop
 John_Scofield	John Scofield	dbp:genre	dbr:Jazz
 John_Scofield	John Scofield	dbp:genre	dbr:Jazz_fusion
 John_Scofield	John Scofield	dbp:genre	dbr:Nu_jazz
-Keith_Jarrett	Keith Jarrett	dbo:genre	dbr:Classical_music
-Keith_Jarrett	Keith Jarrett	dbo:genre	dbr:Jazz
-Keith_Jarrett	Keith Jarrett	dbo:genre	dbr:Free_improvisation
-Keith_Jarrett	Keith Jarrett	dbo:genre	dbr:Jazz_fusion
-Keith_Jarrett	Keith Jarrett	dbp:genre	dbr:Classical_music
-Keith_Jarrett	Keith Jarrett	dbp:genre	dbr:Jazz
-Keith_Jarrett	Keith Jarrett	dbp:genre	dbr:Free_improvisation
-Keith_Jarrett	Keith Jarrett	dbp:genre	dbr:Jazz_fusion
-Neal_Schon	Neal Schon	dbo:genre	dbr:Instrumental_rock
-Neal_Schon	Neal Schon	dbo:genre	dbr:Hard_rock
-Neal_Schon	Neal Schon	dbo:genre	dbr:Smooth_jazz
-Neal_Schon	Neal Schon	dbo:genre	dbr:Jazz_fusion
-Neal_Schon	Neal Schon	dbo:genre	dbr:Progressive_rock
-Neal_Schon	Neal Schon	dbp:genre	dbr:Instrumental_rock
-Neal_Schon	Neal Schon	dbp:genre	dbr:Hard_rock
-Neal_Schon	Neal Schon	dbp:genre	dbr:Smooth_jazz
-Neal_Schon	Neal Schon	dbp:genre	dbr:Jazz_fusion
-Neal_Schon	Neal Schon	dbp:genre	dbr:Progressive_rock
-Jackie_McLean	Jackie McLean	dbo:genre	dbr:Avant-garde_jazz
-Jackie_McLean	Jackie McLean	dbo:genre	dbr:Mainstream_jazz
-Jackie_McLean	Jackie McLean	dbo:genre	dbr:Modal_jazz
-Jackie_McLean	Jackie McLean	dbo:genre	dbr:Post-bop
-Jackie_McLean	Jackie McLean	dbo:genre	dbr:Hard_bop
-Jackie_McLean	Jackie McLean	dbo:genre	dbr:Bebop
-Jackie_McLean	Jackie McLean	dbo:genre	dbr:Jazz_fusion
-Jackie_McLean	Jackie McLean	dbp:genre	dbr:Avant-garde_jazz
-Jackie_McLean	Jackie McLean	dbp:genre	dbr:Mainstream_jazz
-Jackie_McLean	Jackie McLean	dbp:genre	dbr:Modal_jazz
-Jackie_McLean	Jackie McLean	dbp:genre	dbr:Post-bop
-Jackie_McLean	Jackie McLean	dbp:genre	dbr:Hard_bop
-Jackie_McLean	Jackie McLean	dbp:genre	dbr:Bebop
-Jackie_McLean	Jackie McLean	dbp:genre	dbr:Jazz_fusion
-Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Crossover_jazz
-Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Mainstream_jazz
-Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Soul_jazz
-Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Hard_bop
-Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Jazz
-Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Crossover_jazz
-Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Mainstream_jazz
-Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Soul_jazz
-Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Hard_bop
-Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Jazz
 Quincy_Jones	Quincy Jones	dbo:genre	dbr:Bossa_nova
 Quincy_Jones	Quincy Jones	dbo:genre	dbr:Hip_hop_music
 Quincy_Jones	Quincy Jones	dbo:genre	dbr:Big_band
@@ -1120,6 +1078,48 @@ Quincy_Jones	Quincy Jones	dbp:genre	dbr:Jazz
 Quincy_Jones	Quincy Jones	dbp:genre	dbr:Rhythm_and_blues
 Quincy_Jones	Quincy Jones	dbp:genre	dbr:Rock_and_roll
 Quincy_Jones	Quincy Jones	dbp:genre	dbr:Swing_music
+Keith_Jarrett	Keith Jarrett	dbo:genre	dbr:Classical_music
+Keith_Jarrett	Keith Jarrett	dbo:genre	dbr:Jazz
+Keith_Jarrett	Keith Jarrett	dbo:genre	dbr:Free_improvisation
+Keith_Jarrett	Keith Jarrett	dbo:genre	dbr:Jazz_fusion
+Keith_Jarrett	Keith Jarrett	dbp:genre	dbr:Classical_music
+Keith_Jarrett	Keith Jarrett	dbp:genre	dbr:Jazz
+Keith_Jarrett	Keith Jarrett	dbp:genre	dbr:Free_improvisation
+Keith_Jarrett	Keith Jarrett	dbp:genre	dbr:Jazz_fusion
+Neal_Schon	Neal Schon	dbo:genre	dbr:Instrumental_rock
+Neal_Schon	Neal Schon	dbo:genre	dbr:Hard_rock
+Neal_Schon	Neal Schon	dbo:genre	dbr:Smooth_jazz
+Neal_Schon	Neal Schon	dbo:genre	dbr:Jazz_fusion
+Neal_Schon	Neal Schon	dbo:genre	dbr:Progressive_rock
+Neal_Schon	Neal Schon	dbp:genre	dbr:Instrumental_rock
+Neal_Schon	Neal Schon	dbp:genre	dbr:Hard_rock
+Neal_Schon	Neal Schon	dbp:genre	dbr:Smooth_jazz
+Neal_Schon	Neal Schon	dbp:genre	dbr:Jazz_fusion
+Neal_Schon	Neal Schon	dbp:genre	dbr:Progressive_rock
+Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Crossover_jazz
+Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Mainstream_jazz
+Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Soul_jazz
+Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Hard_bop
+Wes_Montgomery	Wes Montgomery	dbo:genre	dbr:Jazz
+Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Crossover_jazz
+Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Mainstream_jazz
+Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Soul_jazz
+Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Hard_bop
+Wes_Montgomery	Wes Montgomery	dbp:genre	dbr:Jazz
+Jackie_McLean	Jackie McLean	dbo:genre	dbr:Avant-garde_jazz
+Jackie_McLean	Jackie McLean	dbo:genre	dbr:Mainstream_jazz
+Jackie_McLean	Jackie McLean	dbo:genre	dbr:Modal_jazz
+Jackie_McLean	Jackie McLean	dbo:genre	dbr:Post-bop
+Jackie_McLean	Jackie McLean	dbo:genre	dbr:Hard_bop
+Jackie_McLean	Jackie McLean	dbo:genre	dbr:Bebop
+Jackie_McLean	Jackie McLean	dbo:genre	dbr:Jazz_fusion
+Jackie_McLean	Jackie McLean	dbp:genre	dbr:Avant-garde_jazz
+Jackie_McLean	Jackie McLean	dbp:genre	dbr:Mainstream_jazz
+Jackie_McLean	Jackie McLean	dbp:genre	dbr:Modal_jazz
+Jackie_McLean	Jackie McLean	dbp:genre	dbr:Post-bop
+Jackie_McLean	Jackie McLean	dbp:genre	dbr:Hard_bop
+Jackie_McLean	Jackie McLean	dbp:genre	dbr:Bebop
+Jackie_McLean	Jackie McLean	dbp:genre	dbr:Jazz_fusion
 No_More_Mr._Nice_Guy_(Gang_Starr_album)	No More Mr. Nice Guy (Gang Starr album)	dbo:genre	dbr:Golden_age_hip_hop
 No_More_Mr._Nice_Guy_(Gang_Starr_album)	No More Mr. Nice Guy (Gang Starr album)	dbo:genre	dbr:Jazz_rap
 No_More_Mr._Nice_Guy_(Gang_Starr_album)	No More Mr. Nice Guy (Gang Starr album)	dbp:genre	dbr:Golden_age_hip_hop
@@ -1129,6 +1129,14 @@ Jazz_rap	Jazz rap	is dbo:musicFusionGenre of	dbr:Jazz
 Jazz_rap	Jazz rap	is dbo:musicSubgenre of	dbr:East_Coast_hip_hop
 Jazz_rap	Jazz rap	is dbo:musicSubgenre of	dbr:Alternative_hip_hop
 Jazz_rap	Jazz rap	is dbp:subgenres of	dbr:Alternative_hip_hop
+Hard_bop	Hard bop	is dbo:musicSubgenre of	dbr:Jazz
+Hard_bop	Hard bop	is dbo:musicSubgenre of	dbr:Bebop
+Hard_bop	Hard bop	is dbp:subgenres of	dbr:Bebop
+Jazz_fusion	Jazz fusion	is dbo:musicFusionGenre of	dbr:Rock_music_of_West_Bengal
+Jazz_fusion	Jazz fusion	is dbo:musicFusionGenre of	dbr:Wagnerian_rock
+Jazz_fusion	Jazz fusion	is dbo:musicFusionGenre of	dbr:Jazz
+Jazz_fusion	Jazz fusion	is dbo:musicFusionGenre of	dbr:Rock_music
+Jazz_fusion	Jazz fusion	is dbp:genres of	dbr:Chicken_Noodles
 Sonny_Fortune	Sonny Fortune	dbo:genre	dbr:Modal_jazz
 Sonny_Fortune	Sonny Fortune	dbo:genre	dbr:Jazz-funk
 Sonny_Fortune	Sonny Fortune	dbo:genre	dbr:Soul_jazz
@@ -1152,14 +1160,6 @@ Don_Cherry_(trumpeter)	Don Cherry (trumpeter)	dbo:genre	dbr:World_music
 Don_Cherry_(trumpeter)	Don Cherry (trumpeter)	dbp:genre	dbr:Free_jazz
 Don_Cherry_(trumpeter)	Don Cherry (trumpeter)	dbp:genre	dbr:Jazz
 Don_Cherry_(trumpeter)	Don Cherry (trumpeter)	dbp:genre	dbr:World_music
-Hard_bop	Hard bop	is dbo:musicSubgenre of	dbr:Jazz
-Hard_bop	Hard bop	is dbo:musicSubgenre of	dbr:Bebop
-Hard_bop	Hard bop	is dbp:subgenres of	dbr:Bebop
-Jazz_fusion	Jazz fusion	is dbo:musicFusionGenre of	dbr:Rock_music_of_West_Bengal
-Jazz_fusion	Jazz fusion	is dbo:musicFusionGenre of	dbr:Wagnerian_rock
-Jazz_fusion	Jazz fusion	is dbo:musicFusionGenre of	dbr:Jazz
-Jazz_fusion	Jazz fusion	is dbo:musicFusionGenre of	dbr:Rock_music
-Jazz_fusion	Jazz fusion	is dbp:genres of	dbr:Chicken_Noodles
 Robert_Quine	Robert Quine	dbp:genre	rock (en)
 Mitch_Mitchell	Mitch Mitchell	dbo:genre	dbr:Hard_rock
 Mitch_Mitchell	Mitch Mitchell	dbo:genre	dbr:Blues_rock
@@ -1174,8 +1174,6 @@ Mitch_Mitchell	Mitch Mitchell	dbp:genre	dbr:Jazz_fusion
 Music_of_Cuba	Music of Cuba	is dbo:musicFusionGenre of	dbr:Rock_music_of_West_Bengal
 Music_of_Cuba	Music of Cuba	is dbo:musicFusionGenre of	dbr:Wagnerian_rock
 Music_of_Cuba	Music of Cuba	is dbo:musicFusionGenre of	dbr:Rock_music
-Gene_Ammons	Gene Ammons	dbo:genre	dbr:Jazz
-Gene_Ammons	Gene Ammons	dbp:genre	dbr:Jazz
 Horace_Silver	Horace Silver	dbo:genre	dbr:Mainstream_jazz
 Horace_Silver	Horace Silver	dbo:genre	dbr:Modal_jazz
 Horace_Silver	Horace Silver	dbo:genre	dbr:Soul_jazz
@@ -1190,18 +1188,20 @@ Horace_Silver	Horace Silver	dbp:genre	dbr:Post-bop
 Horace_Silver	Horace Silver	dbp:genre	dbr:Hard_bop
 Horace_Silver	Horace Silver	dbp:genre	dbr:Jazz
 Horace_Silver	Horace Silver	dbp:genre	dbr:Jazz_fusion
+Gene_Ammons	Gene Ammons	dbo:genre	dbr:Jazz
+Gene_Ammons	Gene Ammons	dbp:genre	dbr:Jazz
 Art_Blakey	Art Blakey	dbo:genre	dbr:Hard_bop
 Art_Blakey	Art Blakey	dbo:genre	dbr:Jazz
 Art_Blakey	Art Blakey	dbo:genre	dbr:Bebop
 Art_Blakey	Art Blakey	dbp:genre	dbr:Hard_bop
 Art_Blakey	Art Blakey	dbp:genre	dbr:Jazz
 Art_Blakey	Art Blakey	dbp:genre	dbr:Bebop
+Steven_Van_Zandt	Steven Van Zandt	dbo:genre	dbr:Heartland_rock
+Steven_Van_Zandt	Steven Van Zandt	dbp:genre	Rock, heartland rock (en)
 Sonny_Rollins	Sonny Rollins	dbo:genre	dbr:Hard_bop
 Sonny_Rollins	Sonny Rollins	dbo:genre	dbr:Jazz
 Sonny_Rollins	Sonny Rollins	dbp:genre	dbr:Hard_bop
 Sonny_Rollins	Sonny Rollins	dbp:genre	dbr:Jazz
-Steven_Van_Zandt	Steven Van Zandt	dbo:genre	dbr:Heartland_rock
-Steven_Van_Zandt	Steven Van Zandt	dbp:genre	Rock, heartland rock (en)
 Can_(band)	Can (band)	dbo:genre	dbr:Avant-garde_music
 Can_(band)	Can (band)	dbo:genre	dbr:Krautrock
 Can_(band)	Can (band)	dbo:genre	dbr:Experimental_rock
@@ -1210,6 +1210,7 @@ Can_(band)	Can (band)	dbp:genre	dbr:Avant-garde_music
 Can_(band)	Can (band)	dbp:genre	dbr:Krautrock
 Can_(band)	Can (band)	dbp:genre	dbr:Experimental_rock
 Can_(band)	Can (band)	dbp:genre	dbr:Psychedelic_rock
+Avant-garde_jazz	Avant-garde jazz	is dbo:musicSubgenre of	dbr:Jazz
 Billy_Eckstine	Billy Eckstine	dbo:genre	dbr:Jazz
 Billy_Eckstine	Billy Eckstine	dbp:genre	dbr:Jazz
 Mary_Lou_Williams	Mary Lou Williams	dbo:genre	dbr:Big_band
@@ -1226,7 +1227,16 @@ Mary_Lou_Williams	Mary Lou Williams	dbp:genre	dbr:Free_jazz
 Mary_Lou_Williams	Mary Lou Williams	dbp:genre	dbr:Gospel_music
 Mary_Lou_Williams	Mary Lou Williams	dbp:genre	dbr:Third_stream
 Mary_Lou_Williams	Mary Lou Williams	dbp:genre	dbr:Swing_music
-Avant-garde_jazz	Avant-garde jazz	is dbo:musicSubgenre of	dbr:Jazz
+Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Modal_jazz
+Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Cool_jazz
+Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Hard_bop
+Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Jazz
+Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Bebop
+Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Modal_jazz
+Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Cool_jazz
+Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Hard_bop
+Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Jazz
+Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Bebop
 Freddie_Hubbard	Freddie Hubbard	dbo:genre	dbr:Post-bop
 Freddie_Hubbard	Freddie Hubbard	dbo:genre	dbr:Hard_bop
 Freddie_Hubbard	Freddie Hubbard	dbo:genre	dbr:Jazz
@@ -1239,38 +1249,12 @@ Tadd_Dameron	Tadd Dameron	dbo:genre	dbr:Jazz
 Tadd_Dameron	Tadd Dameron	dbp:genre	dbr:Jazz
 Jon_Hassell	Jon Hassell	dbo:genre	dbr:World_music
 Jon_Hassell	Jon Hassell	dbp:genre	dbr:World_music
-Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Modal_jazz
-Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Cool_jazz
-Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Hard_bop
-Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Jazz
-Philly_Joe_Jones	Philly Joe Jones	dbo:genre	dbr:Bebop
-Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Modal_jazz
-Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Cool_jazz
-Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Hard_bop
-Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Jazz
-Philly_Joe_Jones	Philly Joe Jones	dbp:genre	dbr:Bebop
 Miami_Vice	Miami Vice	dbo:genre	dbr:Neo-noir
 Miami_Vice	Miami Vice	dbo:genre	dbr:Crime_film
 Miami_Vice	Miami Vice	dbo:genre	dbr:Action_(fiction)
 Miami_Vice	Miami Vice	dbp:genre	dbr:Neo-noir
 Miami_Vice	Miami Vice	dbp:genre	dbr:Crime_film
 Miami_Vice	Miami Vice	dbp:genre	dbr:Action_(fiction)
-Milt_Jackson	Milt Jackson	dbo:genre	dbr:Mainstream_jazz
-Milt_Jackson	Milt Jackson	dbo:genre	dbr:Modal_jazz
-Milt_Jackson	Milt Jackson	dbo:genre	dbr:Afro-Cuban_jazz
-Milt_Jackson	Milt Jackson	dbo:genre	dbr:Post-bop
-Milt_Jackson	Milt Jackson	dbo:genre	dbr:Hard_bop
-Milt_Jackson	Milt Jackson	dbp:genre	dbr:Mainstream_jazz
-Milt_Jackson	Milt Jackson	dbp:genre	dbr:Modal_jazz
-Milt_Jackson	Milt Jackson	dbp:genre	dbr:Afro-Cuban_jazz
-Milt_Jackson	Milt Jackson	dbp:genre	dbr:Post-bop
-Milt_Jackson	Milt Jackson	dbp:genre	dbr:Hard_bop
-Benny_Carter	Benny Carter	dbo:genre	dbr:Big_band
-Benny_Carter	Benny Carter	dbo:genre	dbr:Jazz
-Benny_Carter	Benny Carter	dbo:genre	dbr:Swing_music
-Benny_Carter	Benny Carter	dbp:genre	dbr:Big_band
-Benny_Carter	Benny Carter	dbp:genre	dbr:Jazz
-Benny_Carter	Benny Carter	dbp:genre	dbr:Swing_music
 Bill_Laswell	Bill Laswell	dbo:genre	dbr:Experimental_music
 Bill_Laswell	Bill Laswell	dbo:genre	dbr:Punk_jazz
 Bill_Laswell	Bill Laswell	dbo:genre	dbr:Avant-garde_music
@@ -1287,16 +1271,30 @@ Bill_Laswell	Bill Laswell	dbp:genre	dbr:Art_rock
 Bill_Laswell	Bill Laswell	dbp:genre	dbr:Ambient_music
 Bill_Laswell	Bill Laswell	dbp:genre	dbr:Dub_(music)
 Bill_Laswell	Bill Laswell	dbp:genre	dbr:Electronica
-Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Experimental_rock
-Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Classical_music
-Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Art_rock
-Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Alternative_rock
-Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Electronica
-Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Experimental_rock
-Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Classical_music
-Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Art_rock
-Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Alternative_rock
-Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Electronica
+Milt_Jackson	Milt Jackson	dbo:genre	dbr:Mainstream_jazz
+Milt_Jackson	Milt Jackson	dbo:genre	dbr:Modal_jazz
+Milt_Jackson	Milt Jackson	dbo:genre	dbr:Afro-Cuban_jazz
+Milt_Jackson	Milt Jackson	dbo:genre	dbr:Post-bop
+Milt_Jackson	Milt Jackson	dbo:genre	dbr:Hard_bop
+Milt_Jackson	Milt Jackson	dbp:genre	dbr:Mainstream_jazz
+Milt_Jackson	Milt Jackson	dbp:genre	dbr:Modal_jazz
+Milt_Jackson	Milt Jackson	dbp:genre	dbr:Afro-Cuban_jazz
+Milt_Jackson	Milt Jackson	dbp:genre	dbr:Post-bop
+Milt_Jackson	Milt Jackson	dbp:genre	dbr:Hard_bop
+Benny_Carter	Benny Carter	dbo:genre	dbr:Big_band
+Benny_Carter	Benny Carter	dbo:genre	dbr:Jazz
+Benny_Carter	Benny Carter	dbo:genre	dbr:Swing_music
+Benny_Carter	Benny Carter	dbp:genre	dbr:Big_band
+Benny_Carter	Benny Carter	dbp:genre	dbr:Jazz
+Benny_Carter	Benny Carter	dbp:genre	dbr:Swing_music
+Clark_Terry	Clark Terry	dbo:genre	dbr:Hard_bop
+Clark_Terry	Clark Terry	dbo:genre	dbr:Jazz
+Clark_Terry	Clark Terry	dbo:genre	dbr:Bebop
+Clark_Terry	Clark Terry	dbo:genre	dbr:Swing_(jazz_performance_style)
+Clark_Terry	Clark Terry	dbp:genre	dbr:Hard_bop
+Clark_Terry	Clark Terry	dbp:genre	dbr:Jazz
+Clark_Terry	Clark Terry	dbp:genre	dbr:Bebop
+Clark_Terry	Clark Terry	dbp:genre	dbr:Swing_(jazz_performance_style)
 Jamie_Cullum	Jamie Cullum	dbo:genre	dbr:Crossover_jazz
 Jamie_Cullum	Jamie Cullum	dbo:genre	dbr:Blue-eyed_soul
 Jamie_Cullum	Jamie Cullum	dbo:genre	dbr:Smooth_jazz
@@ -1309,34 +1307,36 @@ Jamie_Cullum	Jamie Cullum	dbp:genre	dbr:Smooth_jazz
 Jamie_Cullum	Jamie Cullum	dbp:genre	dbr:Vocal_jazz
 Jamie_Cullum	Jamie Cullum	dbp:genre	dbr:Pop_music
 Jamie_Cullum	Jamie Cullum	dbp:genre	dbr:Swing_music
+Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Experimental_rock
+Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Classical_music
+Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Art_rock
+Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Alternative_rock
+Jonny_Greenwood	Jonny Greenwood	dbo:genre	dbr:Electronica
+Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Experimental_rock
+Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Classical_music
+Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Art_rock
+Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Alternative_rock
+Jonny_Greenwood	Jonny Greenwood	dbp:genre	dbr:Electronica
 Oscar_Pettiford	Oscar Pettiford	dbo:genre	dbr:Jazz
 Oscar_Pettiford	Oscar Pettiford	dbo:genre	dbr:Bebop
 Oscar_Pettiford	Oscar Pettiford	dbo:genre	dbr:Third_stream
 Oscar_Pettiford	Oscar Pettiford	dbp:genre	dbr:Jazz
 Oscar_Pettiford	Oscar Pettiford	dbp:genre	dbr:Bebop
 Oscar_Pettiford	Oscar Pettiford	dbp:genre	dbr:Third_stream
-Clark_Terry	Clark Terry	dbo:genre	dbr:Hard_bop
-Clark_Terry	Clark Terry	dbo:genre	dbr:Jazz
-Clark_Terry	Clark Terry	dbo:genre	dbr:Bebop
-Clark_Terry	Clark Terry	dbo:genre	dbr:Swing_(jazz_performance_style)
-Clark_Terry	Clark Terry	dbp:genre	dbr:Hard_bop
-Clark_Terry	Clark Terry	dbp:genre	dbr:Jazz
-Clark_Terry	Clark Terry	dbp:genre	dbr:Bebop
-Clark_Terry	Clark Terry	dbp:genre	dbr:Swing_(jazz_performance_style)
+Cool_jazz	Cool jazz	is dbo:musicSubgenre of	dbr:Jazz
 Neal_Hefti	Neal Hefti	dbo:genre	dbr:Big_band
 Neal_Hefti	Neal Hefti	dbo:genre	dbr:Swing_music
 Neal_Hefti	Neal Hefti	dbp:genre	dbr:Big_band
 Neal_Hefti	Neal Hefti	dbp:genre	dbr:Swing_music
 Neal_Hefti	Neal Hefti	dbp:genre	Television music (en)
-Cool_jazz	Cool jazz	is dbo:musicSubgenre of	dbr:Jazz
-Shooby_Taylor	Shooby Taylor	dbo:genre	dbr:Outsider_music
-Shooby_Taylor	Shooby Taylor	dbo:genre	dbr:Scat_singing
-Shooby_Taylor	Shooby Taylor	dbp:genre	dbr:Outsider_music
-Shooby_Taylor	Shooby Taylor	dbp:genre	dbr:Scat_singing
 Latin_jazz	Latin jazz	is dbo:musicFusionGenre of	dbr:Music_of_Latin_America
 Latin_jazz	Latin jazz	is dbo:musicSubgenre of	dbr:Jazz
 Latin_jazz	Latin jazz	is dbp:fusiongenres of	dbr:Jaiva
 Latin_jazz	Latin jazz	is dbp:fusiongenres of	dbr:Noise_Khanyile
+Shooby_Taylor	Shooby Taylor	dbo:genre	dbr:Outsider_music
+Shooby_Taylor	Shooby Taylor	dbo:genre	dbr:Scat_singing
+Shooby_Taylor	Shooby Taylor	dbp:genre	dbr:Outsider_music
+Shooby_Taylor	Shooby Taylor	dbp:genre	dbr:Scat_singing
 Wayne_Shorter	Wayne Shorter	dbo:genre	dbr:Crossover_jazz
 Wayne_Shorter	Wayne Shorter	dbo:genre	dbr:Modal_jazz
 Wayne_Shorter	Wayne Shorter	dbo:genre	dbr:Post-bop
@@ -1391,22 +1391,6 @@ Bitches_Brew	Bitches Brew	dbo:genre	dbr:Avant-garde_jazz
 Bitches_Brew	Bitches Brew	dbo:genre	dbr:Jazz_fusion
 Bitches_Brew	Bitches Brew	dbp:genre	dbr:Avant-garde_jazz
 Bitches_Brew	Bitches Brew	dbp:genre	dbr:Jazz_fusion
-Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:Art_music
-Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:Jazz
-Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:Romantic_music
-Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:World_music
-Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:Jazz_fusion
-Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:Art_music
-Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:Jazz
-Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:Romantic_music
-Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:World_music
-Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:Jazz_fusion
-Gerry_Mulligan	Gerry Mulligan	dbo:genre	dbr:Cool_jazz
-Gerry_Mulligan	Gerry Mulligan	dbo:genre	dbr:Jazz
-Gerry_Mulligan	Gerry Mulligan	dbo:genre	dbr:Third_stream
-Gerry_Mulligan	Gerry Mulligan	dbp:genre	dbr:Cool_jazz
-Gerry_Mulligan	Gerry Mulligan	dbp:genre	dbr:Jazz
-Gerry_Mulligan	Gerry Mulligan	dbp:genre	dbr:Third_stream
 Chick_Corea	Chick Corea	dbo:genre	dbr:Avant-garde_jazz
 Chick_Corea	Chick Corea	dbo:genre	dbr:Latin_jazz
 Chick_Corea	Chick Corea	dbo:genre	dbr:Post-bop
@@ -1423,6 +1407,22 @@ Chick_Corea	Chick Corea	dbp:genre	dbr:Jazz
 Chick_Corea	Chick Corea	dbp:genre	dbr:Bebop
 Chick_Corea	Chick Corea	dbp:genre	dbr:Jazz_fusion
 Chick_Corea	Chick Corea	dbp:genre	dbr:Progressive_rock
+Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:Art_music
+Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:Jazz
+Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:Romantic_music
+Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:World_music
+Joe_Zawinul	Joe Zawinul	dbo:genre	dbr:Jazz_fusion
+Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:Art_music
+Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:Jazz
+Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:Romantic_music
+Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:World_music
+Joe_Zawinul	Joe Zawinul	dbp:genre	dbr:Jazz_fusion
+Gerry_Mulligan	Gerry Mulligan	dbo:genre	dbr:Cool_jazz
+Gerry_Mulligan	Gerry Mulligan	dbo:genre	dbr:Jazz
+Gerry_Mulligan	Gerry Mulligan	dbo:genre	dbr:Third_stream
+Gerry_Mulligan	Gerry Mulligan	dbp:genre	dbr:Cool_jazz
+Gerry_Mulligan	Gerry Mulligan	dbp:genre	dbr:Jazz
+Gerry_Mulligan	Gerry Mulligan	dbp:genre	dbr:Third_stream
 Chet_Baker	Chet Baker	dbo:genre	dbr:West_Coast_jazz
 Chet_Baker	Chet Baker	dbo:genre	dbr:Cool_jazz
 Chet_Baker	Chet Baker	dbo:genre	dbr:Bebop
@@ -1465,6 +1465,11 @@ Mat_Walerian	Mat Walerian	dbp:genre	dbr:Free_improvisation
 Mat_Walerian	Mat Walerian	dbp:genre	dbr:Contemporary_classical_music
 Mat_Walerian	Mat Walerian	dbp:genre	dbr:Third_stream
 Mat_Walerian	Mat Walerian	dbp:genre	dbr:Electronica
+Nu_jazz	Nu jazz	is dbo:musicFusionGenre of	dbr:Jazz
+Nu_jazz	Nu jazz	is dbo:musicFusionGenre of	dbr:Electronica
+Nu_jazz	Nu jazz	is dbo:musicSubgenre of	dbr:Electro_swing
+Nu_jazz	Nu jazz	is dbp:fusiongenres of	dbr:Soul_music
+Nu_jazz	Nu jazz	is dbp:subgenres of	dbr:Electro_swing
 Jonas_Hellborg	Jonas Hellborg	dbo:genre	dbr:World_music
 Jonas_Hellborg	Jonas Hellborg	dbo:genre	dbr:Carnatic_music
 Jonas_Hellborg	Jonas Hellborg	dbo:genre	dbr:Jazz_fusion
@@ -1483,11 +1488,6 @@ Billy_Preston	Billy Preston	dbp:genre	dbr:Funk
 Billy_Preston	Billy Preston	dbp:genre	dbr:Rhythm_and_blues
 Billy_Preston	Billy Preston	dbp:genre	dbr:Rock_music
 Billy_Preston	Billy Preston	dbp:genre	dbr:Gospel_music
-Nu_jazz	Nu jazz	is dbo:musicFusionGenre of	dbr:Jazz
-Nu_jazz	Nu jazz	is dbo:musicFusionGenre of	dbr:Electronica
-Nu_jazz	Nu jazz	is dbo:musicSubgenre of	dbr:Electro_swing
-Nu_jazz	Nu jazz	is dbp:fusiongenres of	dbr:Soul_music
-Nu_jazz	Nu jazz	is dbp:subgenres of	dbr:Electro_swing
 Sonny_Sharrock	Sonny Sharrock	dbo:genre	dbr:Jazz
 Sonny_Sharrock	Sonny Sharrock	dbp:genre	dbr:Jazz
 John_McLaughlin_(musician)	John McLaughlin (musician)	dbo:genre	dbr:Post-bop
@@ -1502,12 +1502,6 @@ John_McLaughlin_(musician)	John McLaughlin (musician)	dbp:genre	dbr:Psychedelic_
 John_McLaughlin_(musician)	John McLaughlin (musician)	dbp:genre	dbr:World_music
 John_McLaughlin_(musician)	John McLaughlin (musician)	dbp:genre	dbr:Jazz_fusion
 John_McLaughlin_(musician)	John McLaughlin (musician)	dbp:genre	dbr:Progressive_rock
-Trilok_Gurtu	Trilok Gurtu	dbo:genre	dbr:Jazz
-Trilok_Gurtu	Trilok Gurtu	dbo:genre	dbr:World_music
-Trilok_Gurtu	Trilok Gurtu	dbo:genre	dbr:Jazz_fusion
-Trilok_Gurtu	Trilok Gurtu	dbp:genre	dbr:Jazz
-Trilok_Gurtu	Trilok Gurtu	dbp:genre	dbr:World_music
-Trilok_Gurtu	Trilok Gurtu	dbp:genre	dbr:Jazz_fusion
 George_Duke	George Duke	dbo:genre	dbr:Crossover_jazz
 George_Duke	George Duke	dbo:genre	dbr:Post-disco
 George_Duke	George Duke	dbo:genre	dbr:Smooth_jazz
@@ -1524,6 +1518,12 @@ George_Duke	George Duke	dbp:genre	dbr:Rhythm_and_blues
 George_Duke	George Duke	dbp:genre	dbr:Rock_and_roll
 George_Duke	George Duke	dbp:genre	dbr:Alternative_rock
 George_Duke	George Duke	dbp:genre	dbr:Jazz_fusion
+Trilok_Gurtu	Trilok Gurtu	dbo:genre	dbr:Jazz
+Trilok_Gurtu	Trilok Gurtu	dbo:genre	dbr:World_music
+Trilok_Gurtu	Trilok Gurtu	dbo:genre	dbr:Jazz_fusion
+Trilok_Gurtu	Trilok Gurtu	dbp:genre	dbr:Jazz
+Trilok_Gurtu	Trilok Gurtu	dbp:genre	dbr:World_music
+Trilok_Gurtu	Trilok Gurtu	dbp:genre	dbr:Jazz_fusion
 Earl_Hines	Earl Hines	dbo:genre	dbr:Big_band
 Earl_Hines	Earl Hines	dbo:genre	dbr:Swing_music
 Earl_Hines	Earl Hines	dbp:genre	Big band, Swing and, especially later, solo piano (en)
@@ -1552,6 +1552,14 @@ Fats_Navarro	Fats Navarro	dbp:genre	dbr:Jazz
 Fats_Navarro	Fats Navarro	dbp:genre	dbr:Bebop
 Lucky_Thompson	Lucky Thompson	dbo:genre	dbr:Jazz
 Lucky_Thompson	Lucky Thompson	dbp:genre	dbr:Jazz
+Andrew_Hill	Andrew Hill	dbo:genre	dbr:Avant-garde_jazz
+Andrew_Hill	Andrew Hill	dbo:genre	dbr:Hard_bop
+Andrew_Hill	Andrew Hill	dbo:genre	dbr:Jazz
+Andrew_Hill	Andrew Hill	dbo:genre	dbr:Bebop
+Andrew_Hill	Andrew Hill	dbp:genre	dbr:Avant-garde_jazz
+Andrew_Hill	Andrew Hill	dbp:genre	dbr:Hard_bop
+Andrew_Hill	Andrew Hill	dbp:genre	dbr:Jazz
+Andrew_Hill	Andrew Hill	dbp:genre	dbr:Bebop
 Biosphere_(musician)	Biosphere (musician)	dbo:genre	dbr:Ambient_house
 Biosphere_(musician)	Biosphere (musician)	dbo:genre	dbr:Drone_music
 Biosphere_(musician)	Biosphere (musician)	dbo:genre	dbr:Intelligent_dance_music
@@ -1561,20 +1569,6 @@ Biosphere_(musician)	Biosphere (musician)	dbp:genre	dbr:Drone_music
 Biosphere_(musician)	Biosphere (musician)	dbp:genre	dbr:Intelligent_dance_music
 Biosphere_(musician)	Biosphere (musician)	dbp:genre	dbr:Ambient_music
 Pierre_Menard,_Author_of_the_Quixote	Pierre Menard, Author of the Quixote	dbp:genre	Fantasy, short story (en)
-Andrew_Hill	Andrew Hill	dbo:genre	dbr:Avant-garde_jazz
-Andrew_Hill	Andrew Hill	dbo:genre	dbr:Hard_bop
-Andrew_Hill	Andrew Hill	dbo:genre	dbr:Jazz
-Andrew_Hill	Andrew Hill	dbo:genre	dbr:Bebop
-Andrew_Hill	Andrew Hill	dbp:genre	dbr:Avant-garde_jazz
-Andrew_Hill	Andrew Hill	dbp:genre	dbr:Hard_bop
-Andrew_Hill	Andrew Hill	dbp:genre	dbr:Jazz
-Andrew_Hill	Andrew Hill	dbp:genre	dbr:Bebop
-The_Soft_Parade	The Soft Parade	dbo:genre	dbr:Blues_rock
-The_Soft_Parade	The Soft Parade	dbo:genre	dbr:Psychedelic_rock
-The_Soft_Parade	The Soft Parade	dbo:genre	dbr:Symphonic_rock
-The_Soft_Parade	The Soft Parade	dbp:genre	dbr:Blues_rock
-The_Soft_Parade	The Soft Parade	dbp:genre	dbr:Psychedelic_rock
-The_Soft_Parade	The Soft Parade	dbp:genre	dbr:Symphonic_rock
 Gil_Evans	Gil Evans	dbo:genre	dbr:Modal_jazz
 Gil_Evans	Gil Evans	dbo:genre	dbr:Cool_jazz
 Gil_Evans	Gil Evans	dbo:genre	dbr:Free_jazz
@@ -1597,14 +1591,20 @@ Elvin_Jones	Elvin Jones	dbp:genre	dbr:Mainstream_jazz
 Elvin_Jones	Elvin Jones	dbp:genre	dbr:Modal_jazz
 Elvin_Jones	Elvin Jones	dbp:genre	dbr:Post-bop
 Elvin_Jones	Elvin Jones	dbp:genre	dbr:Hard_bop
-Isle_of_Wight_Festival	Isle of Wight Festival	dbp:genre	dbr:Rock_music
-Music_of_Scotland	Music of Scotland	is dbo:musicSubgenre of	dbr:Traditional_Gaelic_music
-Gidon_Kremer	Gidon Kremer	dbo:genre	dbr:Classical_music
-Gidon_Kremer	Gidon Kremer	dbp:genre	dbr:Classical_music
+The_Soft_Parade	The Soft Parade	dbo:genre	dbr:Blues_rock
+The_Soft_Parade	The Soft Parade	dbo:genre	dbr:Psychedelic_rock
+The_Soft_Parade	The Soft Parade	dbo:genre	dbr:Symphonic_rock
+The_Soft_Parade	The Soft Parade	dbp:genre	dbr:Blues_rock
+The_Soft_Parade	The Soft Parade	dbp:genre	dbr:Psychedelic_rock
+The_Soft_Parade	The Soft Parade	dbp:genre	dbr:Symphonic_rock
 Wadada_Leo_Smith	Wadada Leo Smith	dbo:genre	dbr:Avant-garde_jazz
 Wadada_Leo_Smith	Wadada Leo Smith	dbo:genre	dbr:Free_improvisation
 Wadada_Leo_Smith	Wadada Leo Smith	dbp:genre	dbr:Avant-garde_jazz
 Wadada_Leo_Smith	Wadada Leo Smith	dbp:genre	dbr:Free_improvisation
+Isle_of_Wight_Festival	Isle of Wight Festival	dbp:genre	dbr:Rock_music
+Music_of_Scotland	Music of Scotland	is dbo:musicSubgenre of	dbr:Traditional_Gaelic_music
+Gidon_Kremer	Gidon Kremer	dbo:genre	dbr:Classical_music
+Gidon_Kremer	Gidon Kremer	dbp:genre	dbr:Classical_music
 Ned_Lagin	Ned Lagin	dbo:genre	dbr:Avant-garde_music
 Ned_Lagin	Ned Lagin	dbo:genre	dbr:20th-century_music
 Ned_Lagin	Ned Lagin	dbo:genre	dbr:Classical_music
@@ -1634,14 +1634,12 @@ Gary_Peacock	Gary Peacock	dbp:genre	dbr:Hard_bop
 Gary_Peacock	Gary Peacock	dbp:genre	dbr:Free_jazz
 Gary_Peacock	Gary Peacock	dbp:genre	dbr:Jazz
 Gary_Peacock	Gary Peacock	dbp:genre	dbr:Bebop
-Michael_Manring	Michael Manring	dbo:genre	dbr:Experimental_music
-Michael_Manring	Michael Manring	dbo:genre	dbr:New-age_music
-Michael_Manring	Michael Manring	dbo:genre	dbr:World_music
-Michael_Manring	Michael Manring	dbo:genre	dbr:Jazz_fusion
-Michael_Manring	Michael Manring	dbp:genre	dbr:Experimental_music
-Michael_Manring	Michael Manring	dbp:genre	dbr:New-age_music
-Michael_Manring	Michael Manring	dbp:genre	dbr:World_music
-Michael_Manring	Michael Manring	dbp:genre	dbr:Jazz_fusion
+Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbo:genre	dbr:Funk
+Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbo:genre	dbr:Jazz
+Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbo:genre	dbr:Jazz_fusion
+Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbp:genre	dbr:Funk
+Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbp:genre	dbr:Jazz
+Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbp:genre	dbr:Jazz_fusion
 Praxis_(band)	Praxis (band)	dbo:genre	dbr:Avant-garde_metal
 Praxis_(band)	Praxis (band)	dbo:genre	dbr:Noise_rock
 Praxis_(band)	Praxis (band)	dbo:genre	dbr:Experimental_rock
@@ -1652,6 +1650,14 @@ Praxis_(band)	Praxis (band)	dbp:genre	dbr:Noise_rock
 Praxis_(band)	Praxis (band)	dbp:genre	dbr:Experimental_rock
 Praxis_(band)	Praxis (band)	dbp:genre	dbr:Funk_metal
 Praxis_(band)	Praxis (band)	dbp:genre	dbr:Progressive_rock
+Michael_Manring	Michael Manring	dbo:genre	dbr:Experimental_music
+Michael_Manring	Michael Manring	dbo:genre	dbr:New-age_music
+Michael_Manring	Michael Manring	dbo:genre	dbr:World_music
+Michael_Manring	Michael Manring	dbo:genre	dbr:Jazz_fusion
+Michael_Manring	Michael Manring	dbp:genre	dbr:Experimental_music
+Michael_Manring	Michael Manring	dbp:genre	dbr:New-age_music
+Michael_Manring	Michael Manring	dbp:genre	dbr:World_music
+Michael_Manring	Michael Manring	dbp:genre	dbr:Jazz_fusion
 Shelly_Manne	Shelly Manne	dbo:genre	dbr:Cool_jazz
 Shelly_Manne	Shelly Manne	dbo:genre	dbr:Jazz
 Shelly_Manne	Shelly Manne	dbo:genre	dbr:Third_stream
@@ -1663,11 +1669,6 @@ Mahavishnu_Orchestra	Mahavishnu Orchestra	dbo:genre	dbr:Progressive_rock
 Mahavishnu_Orchestra	Mahavishnu Orchestra	dbp:genre	dbr:Jazz_fusion
 Mahavishnu_Orchestra	Mahavishnu Orchestra	dbp:genre	dbr:Progressive_rock
 Pleasantville_(film)	Pleasantville (film)	dbp:genre	dbr:Pop_music
-Montreux_Jazz_Festival	Montreux Jazz Festival	dbp:genre	Jazz, rock, pop (en)
-Head_Hunters	Head Hunters	dbo:genre	dbr:Jazz-funk
-Head_Hunters	Head Hunters	dbo:genre	dbr:Jazz_fusion
-Head_Hunters	Head Hunters	dbp:genre	dbr:Jazz-funk
-Head_Hunters	Head Hunters	dbp:genre	dbr:Jazz_fusion
 Electro_(music)	Electro (music)	dbo:musicFusionGenre	dbr:Electro_house
 Electro_(music)	Electro (music)	dbo:musicFusionGenre	dbr:Electroclash
 Electro_(music)	Electro (music)	dbo:musicFusionGenre	dbr:Electropop
@@ -1680,12 +1681,11 @@ Electro_(music)	Electro (music)	is dbo:musicSubgenre of	dbr:Electro_(music)
 Electro_(music)	Electro (music)	is dbo:musicSubgenre of	dbr:Boogie_(genre)
 Electro_(music)	Electro (music)	is dbp:subgenres of	dbr:Electro_(music)
 Electro_(music)	Electro (music)	is dbp:subgenres of	dbr:Boogie_(genre)
-Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbo:genre	dbr:Funk
-Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbo:genre	dbr:Jazz
-Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbo:genre	dbr:Jazz_fusion
-Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbp:genre	dbr:Funk
-Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbp:genre	dbr:Jazz
-Miroslav_Vitou%C5%A1	Miroslav Vitouš	dbp:genre	dbr:Jazz_fusion
+Montreux_Jazz_Festival	Montreux Jazz Festival	dbp:genre	Jazz, rock, pop (en)
+Head_Hunters	Head Hunters	dbo:genre	dbr:Jazz-funk
+Head_Hunters	Head Hunters	dbo:genre	dbr:Jazz_fusion
+Head_Hunters	Head Hunters	dbp:genre	dbr:Jazz-funk
+Head_Hunters	Head Hunters	dbp:genre	dbr:Jazz_fusion
 A_Lump_of_Coal	A Lump of Coal	dbo:genre	dbr:Rock_music
 A_Lump_of_Coal	A Lump of Coal	dbp:genre	dbr:Rock_music
 Joe_Henderson	Joe Henderson	dbo:genre	dbr:Mainstream_jazz
@@ -1724,6 +1724,12 @@ Scott_LaFaro	Scott LaFaro	dbp:genre	dbr:Cool_jazz
 Scott_LaFaro	Scott LaFaro	dbp:genre	dbr:Free_jazz
 Scott_LaFaro	Scott LaFaro	dbp:genre	dbr:Jazz
 Scott_LaFaro	Scott LaFaro	dbp:genre	dbr:Bebop
+Toto_(band)	Toto (band)	dbo:genre	dbr:Pop_music
+Toto_(band)	Toto (band)	dbo:genre	dbr:Rock_music
+Toto_(band)	Toto (band)	dbo:genre	dbr:Progressive_rock
+Toto_(band)	Toto (band)	dbp:genre	dbr:Pop_music
+Toto_(band)	Toto (band)	dbp:genre	dbr:Rock_music
+Toto_(band)	Toto (band)	dbp:genre	dbr:Progressive_rock
 Al_Foster	Al Foster	dbo:genre	dbr:Jazz
 Al_Foster	Al Foster	dbp:genre	dbr:Jazz
 Jack_DeJohnette	Jack DeJohnette	dbo:genre	dbr:New-age_music
@@ -1732,36 +1738,30 @@ Jack_DeJohnette	Jack DeJohnette	dbo:genre	dbr:Jazz_fusion
 Jack_DeJohnette	Jack DeJohnette	dbp:genre	dbr:New-age_music
 Jack_DeJohnette	Jack DeJohnette	dbp:genre	dbr:Jazz
 Jack_DeJohnette	Jack DeJohnette	dbp:genre	dbr:Jazz_fusion
-Kenny_Clarke	Kenny Clarke	dbo:genre	dbr:Jazz
-Kenny_Clarke	Kenny Clarke	dbp:genre	dbr:Jazz
 Sam_Rivers	Sam Rivers	dbo:genre	dbr:Avant-garde_jazz
 Sam_Rivers	Sam Rivers	dbo:genre	dbr:Free_jazz
 Sam_Rivers	Sam Rivers	dbo:genre	dbr:Jazz
 Sam_Rivers	Sam Rivers	dbp:genre	dbr:Avant-garde_jazz
 Sam_Rivers	Sam Rivers	dbp:genre	dbr:Free_jazz
 Sam_Rivers	Sam Rivers	dbp:genre	dbr:Jazz
+Kenny_Clarke	Kenny Clarke	dbo:genre	dbr:Jazz
+Kenny_Clarke	Kenny Clarke	dbp:genre	dbr:Jazz
 Cassandra_Wilson	Cassandra Wilson	dbo:genre	dbr:Jazz
 Cassandra_Wilson	Cassandra Wilson	dbp:genre	dbr:Jazz
-Peter_Sculthorpe	Peter Sculthorpe	dbo:genre	dbr:Classical_music
-Peter_Sculthorpe	Peter Sculthorpe	dbp:genre	dbr:Classical_music
 Jan_Hammer	Jan Hammer	dbo:genre	dbr:Synthpop
 Jan_Hammer	Jan Hammer	dbo:genre	dbr:Jazz_fusion
 Jan_Hammer	Jan Hammer	dbo:genre	dbr:Pop_rock
 Jan_Hammer	Jan Hammer	dbp:genre	dbr:Synthpop
 Jan_Hammer	Jan Hammer	dbp:genre	dbr:Jazz_fusion
 Jan_Hammer	Jan Hammer	dbp:genre	dbr:Pop_rock
+Peter_Sculthorpe	Peter Sculthorpe	dbo:genre	dbr:Classical_music
+Peter_Sculthorpe	Peter Sculthorpe	dbp:genre	dbr:Classical_music
 Lyle_Mays	Lyle Mays	dbo:genre	dbr:Jazz
 Lyle_Mays	Lyle Mays	dbo:genre	dbr:Contemporary_classical_music
 Lyle_Mays	Lyle Mays	dbo:genre	dbr:Jazz_fusion
 Lyle_Mays	Lyle Mays	dbp:genre	dbr:Jazz
 Lyle_Mays	Lyle Mays	dbp:genre	dbr:Contemporary_classical_music
 Lyle_Mays	Lyle Mays	dbp:genre	dbr:Jazz_fusion
-Toto_(band)	Toto (band)	dbo:genre	dbr:Pop_music
-Toto_(band)	Toto (band)	dbo:genre	dbr:Rock_music
-Toto_(band)	Toto (band)	dbo:genre	dbr:Progressive_rock
-Toto_(band)	Toto (band)	dbp:genre	dbr:Pop_music
-Toto_(band)	Toto (band)	dbp:genre	dbr:Rock_music
-Toto_(band)	Toto (band)	dbp:genre	dbr:Progressive_rock
 Post_(Bj%C3%B6rk_album)	Post (Björk album)	dbo:genre	dbr:Synthpop
 Post_(Bj%C3%B6rk_album)	Post (Björk album)	dbo:genre	dbr:Trip_hop
 Post_(Bj%C3%B6rk_album)	Post (Björk album)	dbo:genre	dbr:Intelligent_dance_music
@@ -1790,18 +1790,18 @@ David_Sanborn	David Sanborn	dbo:genre	dbr:Jazz
 David_Sanborn	David Sanborn	dbo:genre	dbr:Rhythm_and_blues
 David_Sanborn	David Sanborn	dbo:genre	dbr:Jazz_fusion
 David_Sanborn	David Sanborn	dbp:genre	Jazz, jazz fusion, rock, R&B, pop, funk (en)
-Dreams_Come_True_(band)	Dreams Come True (band)	dbo:genre	dbr:New_wave_music
-Dreams_Come_True_(band)	Dreams Come True (band)	dbo:genre	dbr:Pop_music
-Dreams_Come_True_(band)	Dreams Come True (band)	dbo:genre	dbr:Rhythm_and_blues
-Dreams_Come_True_(band)	Dreams Come True (band)	dbp:genre	dbr:New_wave_music
-Dreams_Come_True_(band)	Dreams Come True (band)	dbp:genre	dbr:Pop_music
-Dreams_Come_True_(band)	Dreams Come True (band)	dbp:genre	dbr:Rhythm_and_blues
 The_Mars_Volta	The Mars Volta	dbo:genre	dbr:Hard_rock
 The_Mars_Volta	The Mars Volta	dbo:genre	dbr:Experimental_rock
 The_Mars_Volta	The Mars Volta	dbo:genre	dbr:Progressive_rock
 The_Mars_Volta	The Mars Volta	dbp:genre	dbr:Hard_rock
 The_Mars_Volta	The Mars Volta	dbp:genre	dbr:Experimental_rock
 The_Mars_Volta	The Mars Volta	dbp:genre	dbr:Progressive_rock
+Dreams_Come_True_(band)	Dreams Come True (band)	dbo:genre	dbr:New_wave_music
+Dreams_Come_True_(band)	Dreams Come True (band)	dbo:genre	dbr:Pop_music
+Dreams_Come_True_(band)	Dreams Come True (band)	dbo:genre	dbr:Rhythm_and_blues
+Dreams_Come_True_(band)	Dreams Come True (band)	dbp:genre	dbr:New_wave_music
+Dreams_Come_True_(band)	Dreams Come True (band)	dbp:genre	dbr:Pop_music
+Dreams_Come_True_(band)	Dreams Come True (band)	dbp:genre	dbr:Rhythm_and_blues
 Donald_Fagen	Donald Fagen	dbo:genre	dbr:Jazz
 Donald_Fagen	Donald Fagen	dbo:genre	dbr:Rock_music
 Donald_Fagen	Donald Fagen	dbo:genre	dbr:Pop_rock
@@ -1842,6 +1842,10 @@ Paul_Chambers	Paul Chambers	dbp:genre	dbr:Modal_jazz
 Paul_Chambers	Paul Chambers	dbp:genre	dbr:Hard_bop
 Paul_Chambers	Paul Chambers	dbp:genre	dbr:Jazz
 Paul_Chambers	Paul Chambers	dbp:genre	dbr:Bebop
+Ahmad_Jamal	Ahmad Jamal	dbo:genre	dbr:Modal_jazz
+Ahmad_Jamal	Ahmad Jamal	dbo:genre	dbr:Jazz
+Ahmad_Jamal	Ahmad Jamal	dbp:genre	dbr:Modal_jazz
+Ahmad_Jamal	Ahmad Jamal	dbp:genre	dbr:Jazz
 Miles_Ahead	Miles Ahead	dbo:genre	dbr:Third_stream
 Miles_Ahead	Miles Ahead	dbp:genre	dbr:Third_stream
 Al_Haig	Al Haig	dbo:genre	dbr:Bebop
@@ -1852,10 +1856,6 @@ Hal_Russell	Hal Russell	dbo:genre	dbr:Jazz
 Hal_Russell	Hal Russell	dbp:genre	dbr:Avant-garde_jazz
 Hal_Russell	Hal Russell	dbp:genre	dbr:Free_jazz
 Hal_Russell	Hal Russell	dbp:genre	dbr:Jazz
-Ahmad_Jamal	Ahmad Jamal	dbo:genre	dbr:Modal_jazz
-Ahmad_Jamal	Ahmad Jamal	dbo:genre	dbr:Jazz
-Ahmad_Jamal	Ahmad Jamal	dbp:genre	dbr:Modal_jazz
-Ahmad_Jamal	Ahmad Jamal	dbp:genre	dbr:Jazz
 Dave_Holland	Dave Holland	dbo:genre	dbr:Avant-garde
 Dave_Holland	Dave Holland	dbo:genre	dbr:Jazz
 Dave_Holland	Dave Holland	dbo:genre	dbr:Jazz_fusion
@@ -1866,6 +1866,16 @@ Ottmar_Liebert	Ottmar Liebert	dbo:genre	dbr:New-age_music
 Ottmar_Liebert	Ottmar Liebert	dbo:genre	dbr:Jazz
 Ottmar_Liebert	Ottmar Liebert	dbp:genre	dbr:New-age_music
 Ottmar_Liebert	Ottmar Liebert	dbp:genre	dbr:Jazz
+Miss_Kittin	Miss Kittin	dbo:genre	dbr:Electro_(music)
+Miss_Kittin	Miss Kittin	dbo:genre	dbr:Electroclash
+Miss_Kittin	Miss Kittin	dbo:genre	dbr:Techno
+Miss_Kittin	Miss Kittin	dbo:genre	dbr:Synthpop
+Miss_Kittin	Miss Kittin	dbo:genre	dbr:Tech_house
+Miss_Kittin	Miss Kittin	dbp:genre	dbr:Electro_(music)
+Miss_Kittin	Miss Kittin	dbp:genre	dbr:Electroclash
+Miss_Kittin	Miss Kittin	dbp:genre	dbr:Techno
+Miss_Kittin	Miss Kittin	dbp:genre	dbr:Synthpop
+Miss_Kittin	Miss Kittin	dbp:genre	dbr:Tech_house
 Arthur_Russell_(musician)	Arthur Russell (musician)	dbo:genre	dbr:Experimental_music
 Arthur_Russell_(musician)	Arthur Russell (musician)	dbo:genre	dbr:Post-disco
 Arthur_Russell_(musician)	Arthur Russell (musician)	dbo:genre	dbr:Avant-garde_music
@@ -1880,16 +1890,6 @@ Arthur_Russell_(musician)	Arthur Russell (musician)	dbp:genre	dbr:Disco
 Arthur_Russell_(musician)	Arthur Russell (musician)	dbp:genre	dbr:Classical_music
 Arthur_Russell_(musician)	Arthur Russell (musician)	dbp:genre	dbr:Minimalism
 Arthur_Russell_(musician)	Arthur Russell (musician)	dbp:genre	dbr:New_wave_music
-Miss_Kittin	Miss Kittin	dbo:genre	dbr:Electro_(music)
-Miss_Kittin	Miss Kittin	dbo:genre	dbr:Electroclash
-Miss_Kittin	Miss Kittin	dbo:genre	dbr:Techno
-Miss_Kittin	Miss Kittin	dbo:genre	dbr:Synthpop
-Miss_Kittin	Miss Kittin	dbo:genre	dbr:Tech_house
-Miss_Kittin	Miss Kittin	dbp:genre	dbr:Electro_(music)
-Miss_Kittin	Miss Kittin	dbp:genre	dbr:Electroclash
-Miss_Kittin	Miss Kittin	dbp:genre	dbr:Techno
-Miss_Kittin	Miss Kittin	dbp:genre	dbr:Synthpop
-Miss_Kittin	Miss Kittin	dbp:genre	dbr:Tech_house
 Return_to_Forever	Return to Forever	dbo:genre	dbr:Jazz_fusion
 Return_to_Forever	Return to Forever	dbp:genre	dbr:Jazz_fusion
 U._Srinivas	U. Srinivas	dbo:genre	dbr:Indian_classical_music
@@ -1906,12 +1906,6 @@ Automatic_Man	Automatic Man	dbo:genre	dbr:Progressive_rock
 Automatic_Man	Automatic Man	dbp:genre	dbr:Space_rock
 Automatic_Man	Automatic Man	dbp:genre	dbr:Jazz_fusion
 Automatic_Man	Automatic Man	dbp:genre	dbr:Progressive_rock
-Cornell_Dupree	Cornell Dupree	dbo:genre	dbr:Jazz
-Cornell_Dupree	Cornell Dupree	dbo:genre	dbr:Rhythm_and_blues
-Cornell_Dupree	Cornell Dupree	dbp:genre	dbr:Jazz
-Cornell_Dupree	Cornell Dupree	dbp:genre	dbr:Rhythm_and_blues
-Gary_Bartz	Gary Bartz	dbo:genre	dbr:Jazz
-Gary_Bartz	Gary Bartz	dbp:genre	dbr:Jazz
 Bruce_Hornsby	Bruce Hornsby	dbo:genre	dbr:Jam_band
 Bruce_Hornsby	Bruce Hornsby	dbo:genre	dbr:Blues_rock
 Bruce_Hornsby	Bruce Hornsby	dbo:genre	dbr:Jazz
@@ -1930,6 +1924,12 @@ Bruce_Hornsby	Bruce Hornsby	dbp:genre	dbr:Musical_improvisation
 Bruce_Hornsby	Bruce Hornsby	dbp:genre	dbr:Adult_contemporary_music
 Bruce_Hornsby	Bruce Hornsby	dbp:genre	dbr:Bluegrass_music
 Bruce_Hornsby	Bruce Hornsby	dbp:genre	dbr:Heartland_rock
+Cornell_Dupree	Cornell Dupree	dbo:genre	dbr:Jazz
+Cornell_Dupree	Cornell Dupree	dbo:genre	dbr:Rhythm_and_blues
+Cornell_Dupree	Cornell Dupree	dbp:genre	dbr:Jazz
+Cornell_Dupree	Cornell Dupree	dbp:genre	dbr:Rhythm_and_blues
+Gary_Bartz	Gary Bartz	dbo:genre	dbr:Jazz
+Gary_Bartz	Gary Bartz	dbp:genre	dbr:Jazz
 Kim_Salmon_and_the_Surrealists	Kim Salmon and the Surrealists	dbo:genre	dbr:Alternative_rock
 Kim_Salmon_and_the_Surrealists	Kim Salmon and the Surrealists	dbo:genre	dbr:Indie_rock
 Kim_Salmon_and_the_Surrealists	Kim Salmon and the Surrealists	dbp:genre	dbr:Alternative_rock
@@ -1945,10 +1945,6 @@ Al_Jarreau	Al Jarreau	dbo:genre	dbr:Rhythm_and_blues
 Al_Jarreau	Al Jarreau	dbp:genre	dbr:Soul_music
 Al_Jarreau	Al Jarreau	dbp:genre	dbr:Jazz
 Al_Jarreau	Al Jarreau	dbp:genre	dbr:Rhythm_and_blues
-Don_Alias	Don Alias	dbo:genre	dbr:Jazz
-Don_Alias	Don Alias	dbo:genre	dbr:Jazz_fusion
-Don_Alias	Don Alias	dbp:genre	dbr:Jazz
-Don_Alias	Don Alias	dbp:genre	dbr:Jazz_fusion
 Art_Pepper	Art Pepper	dbo:genre	dbr:West_Coast_jazz
 Art_Pepper	Art Pepper	dbo:genre	dbr:Mainstream_jazz
 Art_Pepper	Art Pepper	dbo:genre	dbr:Cool_jazz
@@ -1963,11 +1959,6 @@ Art_Pepper	Art Pepper	dbp:genre	dbr:Post-bop
 Art_Pepper	Art Pepper	dbp:genre	dbr:Hard_bop
 Art_Pepper	Art Pepper	dbp:genre	dbr:Jazz
 Art_Pepper	Art Pepper	dbp:genre	dbr:Bebop
-Marilyn_Mazur	Marilyn Mazur	dbp:genre	Jazz (en)
-Thomas_Clausen_(musician)	Thomas Clausen (musician)	dbo:genre	dbr:Jazz
-Thomas_Clausen_(musician)	Thomas Clausen (musician)	dbp:genre	dbr:Jazz
-Ray_Draper	Ray Draper	dbo:genre	dbr:Hard_bop
-Ray_Draper	Ray Draper	dbp:genre	dbr:Hard_bop
 Nomeansno	Nomeansno	dbo:genre	dbr:Post-hardcore
 Nomeansno	Nomeansno	dbo:genre	dbr:Punk_jazz
 Nomeansno	Nomeansno	dbo:genre	dbr:Noise_rock
@@ -1978,6 +1969,15 @@ Nomeansno	Nomeansno	dbp:genre	dbr:Punk_jazz
 Nomeansno	Nomeansno	dbp:genre	dbr:Noise_rock
 Nomeansno	Nomeansno	dbp:genre	dbr:Punk_rock
 Nomeansno	Nomeansno	dbp:genre	dbr:Hardcore_punk
+Don_Alias	Don Alias	dbo:genre	dbr:Jazz
+Don_Alias	Don Alias	dbo:genre	dbr:Jazz_fusion
+Don_Alias	Don Alias	dbp:genre	dbr:Jazz
+Don_Alias	Don Alias	dbp:genre	dbr:Jazz_fusion
+Marilyn_Mazur	Marilyn Mazur	dbp:genre	Jazz (en)
+Thomas_Clausen_(musician)	Thomas Clausen (musician)	dbo:genre	dbr:Jazz
+Thomas_Clausen_(musician)	Thomas Clausen (musician)	dbp:genre	dbr:Jazz
+Ray_Draper	Ray Draper	dbo:genre	dbr:Hard_bop
+Ray_Draper	Ray Draper	dbp:genre	dbr:Hard_bop
 Red_Garland	Red Garland	dbo:genre	dbr:Straight-ahead_jazz
 Red_Garland	Red Garland	dbo:genre	dbr:Hard_bop
 Red_Garland	Red Garland	dbo:genre	dbr:Jazz
@@ -1988,36 +1988,6 @@ Red_Garland	Red Garland	dbp:genre	dbr:Jazz
 Red_Garland	Red Garland	dbp:genre	dbr:Bebop
 Cecil_McBee	Cecil McBee	dbo:genre	dbr:Jazz
 Cecil_McBee	Cecil McBee	dbp:genre	dbr:Jazz
-Jaki_Byard	Jaki Byard	dbo:genre	dbr:Jazz
-Jaki_Byard	Jaki Byard	dbp:genre	dbr:Jazz
-Bo_Stief	Bo Stief	dbo:genre	dbr:Jazz
-Bo_Stief	Bo Stief	dbp:genre	dbr:Jazz
-Art_Taylor	Art Taylor	dbo:genre	dbr:Jazz
-Art_Taylor	Art Taylor	dbp:genre	dbr:Jazz
-Woody_Shaw	Woody Shaw	dbo:genre	dbr:Avant-garde_jazz
-Woody_Shaw	Woody Shaw	dbo:genre	dbr:Modal_jazz
-Woody_Shaw	Woody Shaw	dbo:genre	dbr:Post-bop
-Woody_Shaw	Woody Shaw	dbo:genre	dbr:Hard_bop
-Woody_Shaw	Woody Shaw	dbo:genre	dbr:Jazz
-Woody_Shaw	Woody Shaw	dbo:genre	dbr:Bebop
-Woody_Shaw	Woody Shaw	dbp:genre	dbr:Avant-garde_jazz
-Woody_Shaw	Woody Shaw	dbp:genre	dbr:Modal_jazz
-Woody_Shaw	Woody Shaw	dbp:genre	dbr:Post-bop
-Woody_Shaw	Woody Shaw	dbp:genre	dbr:Hard_bop
-Woody_Shaw	Woody Shaw	dbp:genre	dbr:Jazz
-Woody_Shaw	Woody Shaw	dbp:genre	dbr:Bebop
-Charles_Tolliver	Charles Tolliver	dbo:genre	dbr:Jazz
-Charles_Tolliver	Charles Tolliver	dbp:genre	dbr:Jazz
-Jean-Luc_Ponty	Jean-Luc Ponty	dbo:genre	dbr:Crossover_jazz
-Jean-Luc_Ponty	Jean-Luc Ponty	dbo:genre	dbr:Jazz
-Jean-Luc_Ponty	Jean-Luc Ponty	dbo:genre	dbr:Bebop
-Jean-Luc_Ponty	Jean-Luc Ponty	dbo:genre	dbr:Jazz_fusion
-Jean-Luc_Ponty	Jean-Luc Ponty	dbp:genre	dbr:Crossover_jazz
-Jean-Luc_Ponty	Jean-Luc Ponty	dbp:genre	dbr:Jazz
-Jean-Luc_Ponty	Jean-Luc Ponty	dbp:genre	dbr:Bebop
-Jean-Luc_Ponty	Jean-Luc Ponty	dbp:genre	dbr:Jazz_fusion
-Webster_Young	Webster Young	dbo:genre	dbr:Jazz
-Webster_Young	Webster Young	dbp:genre	dbr:Jazz
 Michael_Brecker	Michael Brecker	dbo:genre	dbr:Post-bop
 Michael_Brecker	Michael Brecker	dbo:genre	dbr:Funk
 Michael_Brecker	Michael Brecker	dbo:genre	dbr:Jazz
@@ -2030,6 +2000,36 @@ Michael_Brecker	Michael Brecker	dbp:genre	dbr:Jazz
 Michael_Brecker	Michael Brecker	dbp:genre	dbr:Rhythm_and_blues
 Michael_Brecker	Michael Brecker	dbp:genre	dbr:Rock_music
 Michael_Brecker	Michael Brecker	dbp:genre	dbr:Jazz_fusion
+Jean-Luc_Ponty	Jean-Luc Ponty	dbo:genre	dbr:Crossover_jazz
+Jean-Luc_Ponty	Jean-Luc Ponty	dbo:genre	dbr:Jazz
+Jean-Luc_Ponty	Jean-Luc Ponty	dbo:genre	dbr:Bebop
+Jean-Luc_Ponty	Jean-Luc Ponty	dbo:genre	dbr:Jazz_fusion
+Jean-Luc_Ponty	Jean-Luc Ponty	dbp:genre	dbr:Crossover_jazz
+Jean-Luc_Ponty	Jean-Luc Ponty	dbp:genre	dbr:Jazz
+Jean-Luc_Ponty	Jean-Luc Ponty	dbp:genre	dbr:Bebop
+Jean-Luc_Ponty	Jean-Luc Ponty	dbp:genre	dbr:Jazz_fusion
+Jaki_Byard	Jaki Byard	dbo:genre	dbr:Jazz
+Jaki_Byard	Jaki Byard	dbp:genre	dbr:Jazz
+Woody_Shaw	Woody Shaw	dbo:genre	dbr:Avant-garde_jazz
+Woody_Shaw	Woody Shaw	dbo:genre	dbr:Modal_jazz
+Woody_Shaw	Woody Shaw	dbo:genre	dbr:Post-bop
+Woody_Shaw	Woody Shaw	dbo:genre	dbr:Hard_bop
+Woody_Shaw	Woody Shaw	dbo:genre	dbr:Jazz
+Woody_Shaw	Woody Shaw	dbo:genre	dbr:Bebop
+Woody_Shaw	Woody Shaw	dbp:genre	dbr:Avant-garde_jazz
+Woody_Shaw	Woody Shaw	dbp:genre	dbr:Modal_jazz
+Woody_Shaw	Woody Shaw	dbp:genre	dbr:Post-bop
+Woody_Shaw	Woody Shaw	dbp:genre	dbr:Hard_bop
+Woody_Shaw	Woody Shaw	dbp:genre	dbr:Jazz
+Woody_Shaw	Woody Shaw	dbp:genre	dbr:Bebop
+Bo_Stief	Bo Stief	dbo:genre	dbr:Jazz
+Bo_Stief	Bo Stief	dbp:genre	dbr:Jazz
+Art_Taylor	Art Taylor	dbo:genre	dbr:Jazz
+Art_Taylor	Art Taylor	dbp:genre	dbr:Jazz
+Charles_Tolliver	Charles Tolliver	dbo:genre	dbr:Jazz
+Charles_Tolliver	Charles Tolliver	dbp:genre	dbr:Jazz
+Webster_Young	Webster Young	dbo:genre	dbr:Jazz
+Webster_Young	Webster Young	dbp:genre	dbr:Jazz
 Down_Beat	Down Beat	dbo:genre	dbr:Music_magazine
 Betty_Davis	Betty Davis	dbo:genre	dbr:Funk_rock
 Betty_Davis	Betty Davis	dbo:genre	dbr:Soul_music
@@ -2040,28 +2040,18 @@ Betty_Davis	Betty Davis	dbp:genre	dbr:Soul_music
 Betty_Davis	Betty Davis	dbp:genre	dbr:Funk
 Betty_Davis	Betty Davis	dbp:genre	dbr:Rhythm_and_blues
 Newport_Jazz_Festival	Newport Jazz Festival	dbp:genre	dbr:Jazz
-Osibisa	Osibisa	dbo:genre	dbr:Highlife
-Osibisa	Osibisa	dbo:genre	dbr:African_popular_music
-Osibisa	Osibisa	dbo:genre	dbr:Progressive_rock
-Osibisa	Osibisa	dbp:genre	dbr:Highlife
-Osibisa	Osibisa	dbp:genre	dbr:African_popular_music
-Osibisa	Osibisa	dbp:genre	dbr:Progressive_rock
 After_the_Gold_Rush	After the Gold Rush	dbo:genre	dbr:Roots_rock
 After_the_Gold_Rush	After the Gold Rush	dbo:genre	dbr:Country_rock
 After_the_Gold_Rush	After the Gold Rush	dbo:genre	dbr:Folk_rock
 After_the_Gold_Rush	After the Gold Rush	dbp:genre	dbr:Roots_rock
 After_the_Gold_Rush	After the Gold Rush	dbp:genre	dbr:Country_rock
 After_the_Gold_Rush	After the Gold Rush	dbp:genre	dbr:Folk_rock
-Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Avant-garde_jazz
-Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Cool_jazz
-Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Post-bop
-Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Free_jazz
-Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Bebop
-Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Avant-garde_jazz
-Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Cool_jazz
-Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Post-bop
-Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Free_jazz
-Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Bebop
+Osibisa	Osibisa	dbo:genre	dbr:Highlife
+Osibisa	Osibisa	dbo:genre	dbr:African_popular_music
+Osibisa	Osibisa	dbo:genre	dbr:Progressive_rock
+Osibisa	Osibisa	dbp:genre	dbr:Highlife
+Osibisa	Osibisa	dbp:genre	dbr:African_popular_music
+Osibisa	Osibisa	dbp:genre	dbr:Progressive_rock
 Don_Byron	Don Byron	dbo:genre	dbr:Avant-garde_jazz
 Don_Byron	Don Byron	dbo:genre	dbr:Post-bop
 Don_Byron	Don Byron	dbo:genre	dbr:M-Base
@@ -2078,6 +2068,16 @@ Lee_Konitz	Lee Konitz	dbo:genre	dbr:Cool_jazz
 Lee_Konitz	Lee Konitz	dbo:genre	dbr:Jazz
 Lee_Konitz	Lee Konitz	dbp:genre	dbr:Cool_jazz
 Lee_Konitz	Lee Konitz	dbp:genre	dbr:Jazz
+Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Avant-garde_jazz
+Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Cool_jazz
+Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Post-bop
+Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Free_jazz
+Lennie_Tristano	Lennie Tristano	dbo:genre	dbr:Bebop
+Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Avant-garde_jazz
+Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Cool_jazz
+Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Post-bop
+Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Free_jazz
+Lennie_Tristano	Lennie Tristano	dbp:genre	dbr:Bebop
 Howard_Johnson_(jazz_musician)	Howard Johnson (jazz musician)	dbo:genre	dbr:Jazz
 Howard_Johnson_(jazz_musician)	Howard Johnson (jazz musician)	dbp:genre	Jazz (en)
 Pori_Jazz	Pori Jazz	dbp:genre	dbr:Hip_hop_music
@@ -2088,10 +2088,6 @@ Pori_Jazz	Pori Jazz	dbp:genre	dbr:Funk
 Pori_Jazz	Pori Jazz	dbp:genre	dbr:Jazz
 Pori_Jazz	Pori Jazz	dbp:genre	dbr:Pop_music
 Pori_Jazz	Pori Jazz	dbp:genre	dbr:World_music
-Hue_and_Cry	Hue and Cry	dbo:genre	dbr:Sophisti-pop
-Hue_and_Cry	Hue and Cry	dbo:genre	dbr:Blue-eyed_soul
-Hue_and_Cry	Hue and Cry	dbp:genre	dbr:Sophisti-pop
-Hue_and_Cry	Hue and Cry	dbp:genre	dbr:Blue-eyed_soul
 Trout_Mask_Replica	Trout Mask Replica	dbo:genre	dbr:Avant-garde_music
 Trout_Mask_Replica	Trout Mask Replica	dbo:genre	dbr:Spoken_word
 Trout_Mask_Replica	Trout Mask Replica	dbo:genre	dbr:Proto-punk
@@ -2108,6 +2104,10 @@ Trout_Mask_Replica	Trout Mask Replica	dbp:genre	dbr:Experimental_rock
 Trout_Mask_Replica	Trout Mask Replica	dbp:genre	dbr:Free_jazz
 Trout_Mask_Replica	Trout Mask Replica	dbp:genre	dbr:Psychedelic_rock
 Trout_Mask_Replica	Trout Mask Replica	dbp:genre	dbr:Art_rock
+Hue_and_Cry	Hue and Cry	dbo:genre	dbr:Sophisti-pop
+Hue_and_Cry	Hue and Cry	dbo:genre	dbr:Blue-eyed_soul
+Hue_and_Cry	Hue and Cry	dbp:genre	dbr:Sophisti-pop
+Hue_and_Cry	Hue and Cry	dbp:genre	dbr:Blue-eyed_soul
 Jimmy_Heath	Jimmy Heath	dbo:genre	dbr:Hard_bop
 Jimmy_Heath	Jimmy Heath	dbo:genre	dbr:Jazz
 Jimmy_Heath	Jimmy Heath	dbo:genre	dbr:Bebop
@@ -2126,18 +2126,24 @@ Cure_for_Pain	Cure for Pain	dbo:genre	dbr:Alternative_rock
 Cure_for_Pain	Cure for Pain	dbo:genre	dbr:Jazz_fusion
 Cure_for_Pain	Cure for Pain	dbp:genre	dbr:Alternative_rock
 Cure_for_Pain	Cure for Pain	dbp:genre	dbr:Jazz_fusion
+Sonny_Stitt	Sonny Stitt	dbo:genre	dbr:Hard_bop
+Sonny_Stitt	Sonny Stitt	dbo:genre	dbr:Jazz
+Sonny_Stitt	Sonny Stitt	dbo:genre	dbr:Bebop
+Sonny_Stitt	Sonny Stitt	dbp:genre	dbr:Hard_bop
+Sonny_Stitt	Sonny Stitt	dbp:genre	dbr:Jazz
+Sonny_Stitt	Sonny Stitt	dbp:genre	dbr:Bebop
 Al_McKibbon	Al McKibbon	dbo:genre	dbr:Jazz
 Al_McKibbon	Al McKibbon	dbp:genre	dbr:Jazz
 Anne-Sophie_Mutter	Anne-Sophie Mutter	dbo:genre	dbr:Classical_music
 Anne-Sophie_Mutter	Anne-Sophie Mutter	dbp:genre	dbr:Classical_music
-George_Wallington	George Wallington	dbo:genre	dbr:Jazz
-George_Wallington	George Wallington	dbp:genre	dbr:Jazz
 Soupy_Sales	Soupy Sales	dbo:genre	dbr:Slapstick
 Soupy_Sales	Soupy Sales	dbo:genre	dbr:Word_play
 Soupy_Sales	Soupy Sales	dbo:genre	dbr:Improvisation
 Soupy_Sales	Soupy Sales	dbp:genre	dbr:Slapstick
 Soupy_Sales	Soupy Sales	dbp:genre	dbr:Word_play
 Soupy_Sales	Soupy Sales	dbp:genre	dbr:Improvisation
+George_Wallington	George Wallington	dbo:genre	dbr:Jazz
+George_Wallington	George Wallington	dbp:genre	dbr:Jazz
 Frances_the_Mute	Frances the Mute	dbo:genre	dbr:Avant-garde
 Frances_the_Mute	Frances the Mute	dbo:genre	dbr:Experimental_rock
 Frances_the_Mute	Frances the Mute	dbo:genre	dbr:Musique_concrète
@@ -2148,12 +2154,6 @@ Frances_the_Mute	Frances the Mute	dbp:genre	dbr:Experimental_rock
 Frances_the_Mute	Frances the Mute	dbp:genre	dbr:Musique_concrète
 Frances_the_Mute	Frances the Mute	dbp:genre	dbr:Psychedelic_rock
 Frances_the_Mute	Frances the Mute	dbp:genre	dbr:Progressive_rock
-Sonny_Stitt	Sonny Stitt	dbo:genre	dbr:Hard_bop
-Sonny_Stitt	Sonny Stitt	dbo:genre	dbr:Jazz
-Sonny_Stitt	Sonny Stitt	dbo:genre	dbr:Bebop
-Sonny_Stitt	Sonny Stitt	dbp:genre	dbr:Hard_bop
-Sonny_Stitt	Sonny Stitt	dbp:genre	dbr:Jazz
-Sonny_Stitt	Sonny Stitt	dbp:genre	dbr:Bebop
 Jordi_Savall	Jordi Savall	dbo:genre	dbr:Classical_music
 Jordi_Savall	Jordi Savall	dbo:genre	dbr:Early_music
 Jordi_Savall	Jordi Savall	dbp:genre	Classical, western early music (en)
@@ -2169,6 +2169,9 @@ Ravi_Coltrane	Ravi Coltrane	dbp:genre	dbr:Post-bop
 Ravi_Coltrane	Ravi Coltrane	dbp:genre	dbr:Jazz
 Incunabula_(album)	Incunabula (album)	dbo:genre	dbr:Intelligent_dance_music
 Incunabula_(album)	Incunabula (album)	dbp:genre	dbr:Intelligent_dance_music
+Impulse!_Records	Impulse! Records	dbo:genre	dbr:Jazz
+Impulse!_Records	Impulse! Records	dbp:genre	dbr:Jazz
+Warner_Bros._Records	Warner Bros. Records	dbp:genre	Various (en)
 Eddie_Kramer	Eddie Kramer	dbp:genre	Rock (en)
 St_Germain_(musician)	St Germain (musician)	dbo:genre	dbr:Acid_jazz
 St_Germain_(musician)	St Germain (musician)	dbo:genre	dbr:Deep_house
@@ -2178,13 +2181,10 @@ St_Germain_(musician)	St Germain (musician)	dbp:genre	dbr:Acid_jazz
 St_Germain_(musician)	St Germain (musician)	dbp:genre	dbr:Deep_house
 St_Germain_(musician)	St Germain (musician)	dbp:genre	dbr:Downtempo
 St_Germain_(musician)	St Germain (musician)	dbp:genre	dbr:Nu_jazz
-Impulse!_Records	Impulse! Records	dbo:genre	dbr:Jazz
-Impulse!_Records	Impulse! Records	dbp:genre	dbr:Jazz
 Portrait_in_Jazz	Portrait in Jazz	dbo:genre	dbr:Jazz
 Portrait_in_Jazz	Portrait in Jazz	dbp:genre	dbr:Jazz
 Explorations_(Bill_Evans_album)	Explorations (Bill Evans album)	dbo:genre	dbr:Jazz
 Explorations_(Bill_Evans_album)	Explorations (Bill Evans album)	dbp:genre	dbr:Jazz
-Warner_Bros._Records	Warner Bros. Records	dbp:genre	Various (en)
 Giant_Steps	Giant Steps	dbo:genre	dbr:Jazz
 Giant_Steps	Giant Steps	dbp:genre	dbr:Jazz
 Bobby_Troup	Bobby Troup	dbp:genre	dbr:Jazz
@@ -2209,47 +2209,47 @@ Rick_Braun	Rick Braun	dbo:genre	dbr:Jazz_fusion
 Rick_Braun	Rick Braun	dbp:genre	Smooth jazz, jazz-fusion, contemporary jazz (en)
 Sunday_at_the_Village_Vanguard	Sunday at the Village Vanguard	dbo:genre	dbr:Jazz
 Sunday_at_the_Village_Vanguard	Sunday at the Village Vanguard	dbp:genre	dbr:Jazz
-A_Love_Supreme	A Love Supreme	dbo:genre	dbr:Avant-garde_jazz
-A_Love_Supreme	A Love Supreme	dbo:genre	dbr:Modal_jazz
-A_Love_Supreme	A Love Supreme	dbo:genre	dbr:Post-bop
-A_Love_Supreme	A Love Supreme	dbp:genre	dbr:Avant-garde_jazz
-A_Love_Supreme	A Love Supreme	dbp:genre	dbr:Modal_jazz
-A_Love_Supreme	A Love Supreme	dbp:genre	dbr:Post-bop
 Paco_de_Luc%C3%ADa	Paco de Lucía	dbo:genre	dbr:Classical_music
 Paco_de_Luc%C3%ADa	Paco de Lucía	dbo:genre	dbr:Flamenco
 Paco_de_Luc%C3%ADa	Paco de Lucía	dbo:genre	dbr:Jazz
 Paco_de_Luc%C3%ADa	Paco de Lucía	dbp:genre	dbr:Classical_music
 Paco_de_Luc%C3%ADa	Paco de Lucía	dbp:genre	dbr:Flamenco
 Paco_de_Luc%C3%ADa	Paco de Lucía	dbp:genre	dbr:Jazz
-Juliette_Gr%C3%A9co	Juliette Gréco	dbo:genre	dbr:Chanson
-Juliette_Gr%C3%A9co	Juliette Gréco	dbp:genre	dbr:Chanson
+A_Love_Supreme	A Love Supreme	dbo:genre	dbr:Avant-garde_jazz
+A_Love_Supreme	A Love Supreme	dbo:genre	dbr:Modal_jazz
+A_Love_Supreme	A Love Supreme	dbo:genre	dbr:Post-bop
+A_Love_Supreme	A Love Supreme	dbp:genre	dbr:Avant-garde_jazz
+A_Love_Supreme	A Love Supreme	dbp:genre	dbr:Modal_jazz
+A_Love_Supreme	A Love Supreme	dbp:genre	dbr:Post-bop
 Pete_Namlook	Pete Namlook	dbo:genre	dbr:Ambient_music
 Pete_Namlook	Pete Namlook	dbo:genre	dbr:Electronic_music
 Pete_Namlook	Pete Namlook	dbp:genre	dbr:Ambient_music
 Pete_Namlook	Pete Namlook	dbp:genre	dbr:Electronic_music
+Juliette_Gr%C3%A9co	Juliette Gréco	dbo:genre	dbr:Chanson
+Juliette_Gr%C3%A9co	Juliette Gréco	dbp:genre	dbr:Chanson
+Toots_Thielemans	Toots Thielemans	dbo:genre	dbr:Jazz
+Toots_Thielemans	Toots Thielemans	dbp:genre	dbr:Jazz
 Tuxedomoon	Tuxedomoon	dbo:genre	dbr:Experimental_music
 Tuxedomoon	Tuxedomoon	dbo:genre	dbr:Post-punk
 Tuxedomoon	Tuxedomoon	dbo:genre	dbr:New_wave_music
 Tuxedomoon	Tuxedomoon	dbp:genre	dbr:Experimental_music
 Tuxedomoon	Tuxedomoon	dbp:genre	dbr:Post-punk
 Tuxedomoon	Tuxedomoon	dbp:genre	dbr:New_wave_music
-Toots_Thielemans	Toots Thielemans	dbo:genre	dbr:Jazz
-Toots_Thielemans	Toots Thielemans	dbp:genre	dbr:Jazz
 Storyville_Records	Storyville Records	dbo:genre	dbr:Blues
 Storyville_Records	Storyville Records	dbo:genre	dbr:Jazz
 Storyville_Records	Storyville Records	dbp:genre	dbr:Blues
 Storyville_Records	Storyville Records	dbp:genre	dbr:Jazz
 Jazz_at_Lincoln_Center	Jazz at Lincoln Center	dbp:genre	jazz (en)
-Bennie_Maupin	Bennie Maupin	dbo:genre	dbr:Post-bop
-Bennie_Maupin	Bennie Maupin	dbo:genre	dbr:Jazz_fusion
-Bennie_Maupin	Bennie Maupin	dbp:genre	dbr:Post-bop
-Bennie_Maupin	Bennie Maupin	dbp:genre	dbr:Jazz_fusion
 Ted_Curson	Ted Curson	dbo:genre	dbr:Avant-garde_jazz
 Ted_Curson	Ted Curson	dbo:genre	dbr:Hard_bop
 Ted_Curson	Ted Curson	dbo:genre	dbr:Bebop
 Ted_Curson	Ted Curson	dbp:genre	dbr:Avant-garde_jazz
 Ted_Curson	Ted Curson	dbp:genre	dbr:Hard_bop
 Ted_Curson	Ted Curson	dbp:genre	dbr:Bebop
+Bennie_Maupin	Bennie Maupin	dbo:genre	dbr:Post-bop
+Bennie_Maupin	Bennie Maupin	dbo:genre	dbr:Jazz_fusion
+Bennie_Maupin	Bennie Maupin	dbp:genre	dbr:Post-bop
+Bennie_Maupin	Bennie Maupin	dbp:genre	dbr:Jazz_fusion
 Birth_of_the_Cool	Birth of the Cool	dbo:genre	dbr:Cool_jazz
 Birth_of_the_Cool	Birth of the Cool	dbp:genre	dbr:Cool_jazz
 Teo_Macero	Teo Macero	dbo:genre	dbr:Orchestral_jazz
@@ -2309,12 +2309,20 @@ Robert_Palmer_(writer)	Robert Palmer (writer)	dbp:genre	dbr:Folk_rock
 Robert_Palmer_(writer)	Robert Palmer (writer)	dbp:genre	dbr:Blues
 Robert_Palmer_(writer)	Robert Palmer (writer)	dbp:genre	dbr:Folk_music
 Robert_Palmer_(writer)	Robert Palmer (writer)	dbp:genre	dbr:Rock_music
+Grady_Tate	Grady Tate	dbo:genre	dbr:Hard_bop
+Grady_Tate	Grady Tate	dbo:genre	dbr:Jazz
+Grady_Tate	Grady Tate	dbo:genre	dbr:Bebop
+Grady_Tate	Grady Tate	dbp:genre	dbr:Hard_bop
+Grady_Tate	Grady Tate	dbp:genre	dbr:Jazz
+Grady_Tate	Grady Tate	dbp:genre	dbr:Bebop
 Henry_Kaiser_(musician)	Henry Kaiser (musician)	dbo:genre	dbr:Jazz
 Henry_Kaiser_(musician)	Henry Kaiser (musician)	dbo:genre	dbr:Rock_music
 Henry_Kaiser_(musician)	Henry Kaiser (musician)	dbo:genre	dbr:Free_improvisation
 Henry_Kaiser_(musician)	Henry Kaiser (musician)	dbp:genre	dbr:Jazz
 Henry_Kaiser_(musician)	Henry Kaiser (musician)	dbp:genre	dbr:Rock_music
 Henry_Kaiser_(musician)	Henry Kaiser (musician)	dbp:genre	dbr:Free_improvisation
+Prestige_Records	Prestige Records	dbo:genre	dbr:Jazz
+Prestige_Records	Prestige Records	dbp:genre	dbr:Jazz
 Kenny_Garrett	Kenny Garrett	dbo:genre	dbr:Post-bop
 Kenny_Garrett	Kenny Garrett	dbo:genre	dbr:Jazz
 Kenny_Garrett	Kenny Garrett	dbo:genre	dbr:Jazz_fusion
@@ -2327,14 +2335,6 @@ Dose_(album)	Dose (album)	dbp:genre	dbr:Blues_rock
 Dose_(album)	Dose (album)	dbp:genre	dbr:Southern_rock
 Shakti_(album)	Shakti (album)	dbo:genre	dbr:World_music
 Shakti_(album)	Shakti (album)	dbp:genre	dbr:World_music
-Prestige_Records	Prestige Records	dbo:genre	dbr:Jazz
-Prestige_Records	Prestige Records	dbp:genre	dbr:Jazz
-Grady_Tate	Grady Tate	dbo:genre	dbr:Hard_bop
-Grady_Tate	Grady Tate	dbo:genre	dbr:Jazz
-Grady_Tate	Grady Tate	dbo:genre	dbr:Bebop
-Grady_Tate	Grady Tate	dbp:genre	dbr:Hard_bop
-Grady_Tate	Grady Tate	dbp:genre	dbr:Jazz
-Grady_Tate	Grady Tate	dbp:genre	dbr:Bebop
 Myles_Kennedy	Myles Kennedy	dbo:genre	dbr:Hard_rock
 Myles_Kennedy	Myles Kennedy	dbo:genre	dbr:Blues_rock
 Myles_Kennedy	Myles Kennedy	dbo:genre	dbr:Heavy_metal_music
@@ -2359,6 +2359,13 @@ Jaco_Pastorius_(album)	Jaco Pastorius (album)	dbo:genre	dbr:Jazz_fusion
 Jaco_Pastorius_(album)	Jaco Pastorius (album)	dbp:genre	dbr:Funk
 Jaco_Pastorius_(album)	Jaco Pastorius (album)	dbp:genre	dbr:Jazz
 Jaco_Pastorius_(album)	Jaco Pastorius (album)	dbp:genre	dbr:Jazz_fusion
+Al_Jourgensen	Al Jourgensen	dbo:genre	dbr:Industrial_rock
+Al_Jourgensen	Al Jourgensen	dbo:genre	dbr:Synthpop
+Al_Jourgensen	Al Jourgensen	dbo:genre	dbr:Industrial_metal
+Al_Jourgensen	Al Jourgensen	dbp:genre	dbr:Industrial_rock
+Al_Jourgensen	Al Jourgensen	dbp:genre	dbr:Synthpop
+Al_Jourgensen	Al Jourgensen	dbp:genre	dbr:Industrial_metal
+Al_Jourgensen	Al Jourgensen	dbp:genre	 (en)
 Mike_Keneally	Mike Keneally	dbo:genre	dbr:Hard_rock
 Mike_Keneally	Mike Keneally	dbo:genre	dbr:Melodic_death_metal
 Mike_Keneally	Mike Keneally	dbo:genre	dbr:Art_rock
@@ -2389,13 +2396,6 @@ Now_He_Sings,_Now_He_Sobs	Now He Sings, Now He Sobs	dbo:genre	dbr:Jazz
 Now_He_Sings,_Now_He_Sobs	Now He Sings, Now He Sobs	dbp:genre	dbr:Jazz
 Boris_Christoff	Boris Christoff	dbo:genre	dbr:Opera
 Boris_Christoff	Boris Christoff	dbp:genre	dbr:Opera
-Al_Jourgensen	Al Jourgensen	dbo:genre	dbr:Industrial_rock
-Al_Jourgensen	Al Jourgensen	dbo:genre	dbr:Synthpop
-Al_Jourgensen	Al Jourgensen	dbo:genre	dbr:Industrial_metal
-Al_Jourgensen	Al Jourgensen	dbp:genre	dbr:Industrial_rock
-Al_Jourgensen	Al Jourgensen	dbp:genre	dbr:Synthpop
-Al_Jourgensen	Al Jourgensen	dbp:genre	dbr:Industrial_metal
-Al_Jourgensen	Al Jourgensen	dbp:genre	 (en)
 Viktoria_Mullova	Viktoria Mullova	dbo:genre	dbr:Classical_music
 Viktoria_Mullova	Viktoria Mullova	dbp:genre	dbr:Classical_music
 Birds_of_Fire	Birds of Fire	dbo:genre	dbr:Jazz_fusion
@@ -2430,8 +2430,6 @@ Billy_Cobham	Billy Cobham	dbp:genre	dbr:Jazz-funk
 Billy_Cobham	Billy Cobham	dbp:genre	dbr:Post-bop
 Billy_Cobham	Billy Cobham	dbp:genre	dbr:Jazz
 Billy_Cobham	Billy Cobham	dbp:genre	dbr:Jazz_fusion
-Romper_Stomper	Romper Stomper	dbp:genre	dbr:Rock_Against_Communism
-Romper_Stomper	Romper Stomper	dbp:genre	dbr:Film_score
 Mick_Harris	Mick Harris	dbo:genre	dbr:Punk_jazz
 Mick_Harris	Mick Harris	dbo:genre	dbr:Hip_hop_music
 Mick_Harris	Mick Harris	dbo:genre	dbr:Drum_and_bass
@@ -2452,6 +2450,8 @@ Mick_Harris	Mick Harris	dbp:genre	dbr:Dubstep
 Mick_Harris	Mick Harris	dbp:genre	dbr:Electronica
 Mick_Harris	Mick Harris	dbp:genre	dbr:Hardcore_punk
 Mick_Harris	Mick Harris	dbp:genre	dbr:Industrial_metal
+Romper_Stomper	Romper Stomper	dbp:genre	dbr:Rock_Against_Communism
+Romper_Stomper	Romper Stomper	dbp:genre	dbr:Film_score
 David_Amram	David Amram	dbo:genre	dbr:Jazz
 David_Amram	David Amram	dbp:genre	dbr:Jazz
 Lenny_White	Lenny White	dbo:genre	dbr:Funk
@@ -2466,14 +2466,14 @@ Nils_Petter_Molv%C3%A6r	Nils Petter Molvær	dbp:genre	dbr:Jazz
 Nils_Petter_Molv%C3%A6r	Nils Petter Molvær	dbp:genre	dbr:Electronica
 Nils_Petter_Molv%C3%A6r	Nils Petter Molvær	dbp:genre	dbr:Jazz_fusion
 Nils_Petter_Molv%C3%A6r	Nils Petter Molvær	dbp:genre	dbr:Nu_jazz
-Betty_Carter	Betty Carter	dbo:genre	dbr:Post-bop
-Betty_Carter	Betty Carter	dbo:genre	dbr:Jazz
-Betty_Carter	Betty Carter	dbp:genre	dbr:Post-bop
-Betty_Carter	Betty Carter	dbp:genre	dbr:Jazz
 Billy_Taylor	Billy Taylor	dbo:genre	dbr:Hard_bop
 Billy_Taylor	Billy Taylor	dbo:genre	dbr:Jazz
 Billy_Taylor	Billy Taylor	dbp:genre	dbr:Hard_bop
 Billy_Taylor	Billy Taylor	dbp:genre	dbr:Jazz
+Betty_Carter	Betty Carter	dbo:genre	dbr:Post-bop
+Betty_Carter	Betty Carter	dbo:genre	dbr:Jazz
+Betty_Carter	Betty Carter	dbp:genre	dbr:Post-bop
+Betty_Carter	Betty Carter	dbp:genre	dbr:Jazz
 Jimmy_Cobb	Jimmy Cobb	dbo:genre	dbr:Jazz
 Jimmy_Cobb	Jimmy Cobb	dbp:genre	dbr:Jazz
 Brown_Sugar_(D%27Angelo_album)	Brown Sugar (D'Angelo album)	dbo:genre	dbr:Neo_soul
@@ -2484,22 +2484,27 @@ Brown_Sugar_(D%27Angelo_album)	Brown Sugar (D'Angelo album)	dbp:genre	dbr:Neo_so
 Brown_Sugar_(D%27Angelo_album)	Brown Sugar (D'Angelo album)	dbp:genre	dbr:Soul_music
 Brown_Sugar_(D%27Angelo_album)	Brown Sugar (D'Angelo album)	dbp:genre	dbr:Funk
 Brown_Sugar_(D%27Angelo_album)	Brown Sugar (D'Angelo album)	dbp:genre	dbr:Contemporary_R&B
-Saetia	Saetia	dbo:genre	dbr:Screamo
-Saetia	Saetia	dbp:genre	dbr:Screamo
-Michael_Franks_(musician)	Michael Franks (musician)	dbp:genre	Jazz (en)
-Sketches_of_Spain	Sketches of Spain	dbo:genre	dbr:Third_stream
-Sketches_of_Spain	Sketches of Spain	dbp:genre	dbr:Third_stream
-Don_Was	Don Was	dbo:genre	dbr:New_wave_music
-Don_Was	Don Was	dbp:genre	Rock, new wave (en)
 Drone_music	Drone music	dbo:musicFusionGenre	dbr:Drone_metal
 Drone_music	Drone music	dbp:fusiongenres	dbr:Drone_metal
 Drone_music	Drone music	is dbo:musicSubgenre of	dbr:Minimal_music
 Drone_music	Drone music	is dbp:subgenres of	dbr:Minimal_music
 Drone_music	Drone music	is dbp:subgenres of	dbr:Ambient_music
+Don_Was	Don Was	dbo:genre	dbr:New_wave_music
+Don_Was	Don Was	dbp:genre	Rock, new wave (en)
+Saetia	Saetia	dbo:genre	dbr:Screamo
+Saetia	Saetia	dbp:genre	dbr:Screamo
+Michael_Franks_(musician)	Michael Franks (musician)	dbp:genre	Jazz (en)
+Sketches_of_Spain	Sketches of Spain	dbo:genre	dbr:Third_stream
+Sketches_of_Spain	Sketches of Spain	dbp:genre	dbr:Third_stream
 Svengali_(album)	Svengali (album)	dbo:genre	dbr:Jazz
 Svengali_(album)	Svengali (album)	dbp:genre	dbr:Jazz
 John_Tchicai	John Tchicai	dbo:genre	dbr:Free_jazz
 John_Tchicai	John Tchicai	dbp:genre	dbr:Free_jazz
+Larry_Carlton	Larry Carlton	dbo:genre	dbr:Smooth_jazz
+Larry_Carlton	Larry Carlton	dbo:genre	dbr:Blues
+Larry_Carlton	Larry Carlton	dbo:genre	dbr:Jazz
+Larry_Carlton	Larry Carlton	dbo:genre	dbr:Jazz_fusion
+Larry_Carlton	Larry Carlton	dbp:genre	Jazz, smooth jazz, jazz fusion, blues, pop, rock (en)
 Verdine_White	Verdine White	dbo:genre	dbr:Soul_music
 Verdine_White	Verdine White	dbo:genre	dbr:Funk
 Verdine_White	Verdine White	dbo:genre	dbr:Rhythm_and_blues
@@ -2508,13 +2513,10 @@ Verdine_White	Verdine White	dbp:genre	dbr:Soul_music
 Verdine_White	Verdine White	dbp:genre	dbr:Funk
 Verdine_White	Verdine White	dbp:genre	dbr:Rhythm_and_blues
 Verdine_White	Verdine White	dbp:genre	dbr:Jazz_fusion
-Larry_Carlton	Larry Carlton	dbo:genre	dbr:Smooth_jazz
-Larry_Carlton	Larry Carlton	dbo:genre	dbr:Blues
-Larry_Carlton	Larry Carlton	dbo:genre	dbr:Jazz
-Larry_Carlton	Larry Carlton	dbo:genre	dbr:Jazz_fusion
-Larry_Carlton	Larry Carlton	dbp:genre	Jazz, smooth jazz, jazz fusion, blues, pop, rock (en)
 Flora_Purim	Flora Purim	dbo:genre	dbr:Jazz
 Flora_Purim	Flora Purim	dbp:genre	dbr:Jazz
+%27Round_About_Midnight	'Round About Midnight	dbo:genre	dbr:Hard_bop
+%27Round_About_Midnight	'Round About Midnight	dbp:genre	dbr:Hard_bop
 Kitchens_of_Distinction	Kitchens of Distinction	dbo:genre	dbr:Neo-psychedelia
 Kitchens_of_Distinction	Kitchens of Distinction	dbo:genre	dbr:Shoegazing
 Kitchens_of_Distinction	Kitchens of Distinction	dbo:genre	dbr:Dream_pop
@@ -2523,8 +2525,6 @@ Kitchens_of_Distinction	Kitchens of Distinction	dbp:genre	dbr:Neo-psychedelia
 Kitchens_of_Distinction	Kitchens of Distinction	dbp:genre	dbr:Shoegazing
 Kitchens_of_Distinction	Kitchens of Distinction	dbp:genre	dbr:Dream_pop
 Kitchens_of_Distinction	Kitchens of Distinction	dbp:genre	dbr:Alternative_rock
-%27Round_About_Midnight	'Round About Midnight	dbo:genre	dbr:Hard_bop
-%27Round_About_Midnight	'Round About Midnight	dbp:genre	dbr:Hard_bop
 Dis_Is_da_Drum	Dis Is da Drum	dbo:genre	dbr:Acid_jazz
 Dis_Is_da_Drum	Dis Is da Drum	dbo:genre	dbr:Jazz_rap
 Dis_Is_da_Drum	Dis Is da Drum	dbo:genre	dbr:Hip_hop_music
@@ -2549,61 +2549,67 @@ Jazz_(TV_series)	Jazz (TV series)	dbo:genre	dbr:Documentary_film
 Jazz_(TV_series)	Jazz (TV series)	dbp:genre	Documentary (en)
 Crime_Story_(TV_series)	Crime Story (TV series)	dbo:genre	dbr:Crime_film
 Crime_Story_(TV_series)	Crime Story (TV series)	dbp:genre	dbr:Crime_film
-Relaxin%27_with_the_Miles_Davis_Quintet	Relaxin' with the Miles Davis Quintet	dbo:genre	dbr:Jazz
-Relaxin%27_with_the_Miles_Davis_Quintet	Relaxin' with the Miles Davis Quintet	dbp:genre	dbr:Jazz
 Wynton_Kelly	Wynton Kelly	dbo:genre	dbr:Jazz
 Wynton_Kelly	Wynton Kelly	dbp:genre	dbr:Jazz
+Relaxin%27_with_the_Miles_Davis_Quintet	Relaxin' with the Miles Davis Quintet	dbo:genre	dbr:Jazz
+Relaxin%27_with_the_Miles_Davis_Quintet	Relaxin' with the Miles Davis Quintet	dbp:genre	dbr:Jazz
 Steamin%27_with_the_Miles_Davis_Quintet	Steamin' with the Miles Davis Quintet	dbo:genre	dbr:Jazz
 Steamin%27_with_the_Miles_Davis_Quintet	Steamin' with the Miles Davis Quintet	dbp:genre	dbr:Jazz
-Workin%27_with_the_Miles_Davis_Quintet	Workin' with the Miles Davis Quintet	dbo:genre	dbr:Jazz
-Workin%27_with_the_Miles_Davis_Quintet	Workin' with the Miles Davis Quintet	dbp:genre	dbr:Jazz
 Cookin%27_with_the_Miles_Davis_Quintet	Cookin' with the Miles Davis Quintet	dbo:genre	dbr:Jazz
 Cookin%27_with_the_Miles_Davis_Quintet	Cookin' with the Miles Davis Quintet	dbp:genre	dbr:Jazz
+Workin%27_with_the_Miles_Davis_Quintet	Workin' with the Miles Davis Quintet	dbo:genre	dbr:Jazz
+Workin%27_with_the_Miles_Davis_Quintet	Workin' with the Miles Davis Quintet	dbp:genre	dbr:Jazz
 Milestones_(Miles_Davis_album)	Milestones (Miles Davis album)	dbo:genre	dbr:Jazz
 Milestones_(Miles_Davis_album)	Milestones (Miles Davis album)	dbp:genre	dbr:Jazz
 Someday_My_Prince_Will_Come_(Miles_Davis_album)	Someday My Prince Will Come (Miles Davis album)	dbo:genre	dbr:Jazz
 Someday_My_Prince_Will_Come_(Miles_Davis_album)	Someday My Prince Will Come (Miles Davis album)	dbp:genre	dbr:Jazz
 Seven_Steps_to_Heaven	Seven Steps to Heaven	dbo:genre	dbr:Jazz
 Seven_Steps_to_Heaven	Seven Steps to Heaven	dbp:genre	dbr:Jazz
-Miles_Smiles	Miles Smiles	dbo:genre	dbr:Avant-garde_jazz
-Miles_Smiles	Miles Smiles	dbo:genre	dbr:Post-bop
-Miles_Smiles	Miles Smiles	dbo:genre	dbr:Hard_bop
-Miles_Smiles	Miles Smiles	dbp:genre	dbr:Avant-garde_jazz
-Miles_Smiles	Miles Smiles	dbp:genre	dbr:Post-bop
-Miles_Smiles	Miles Smiles	dbp:genre	dbr:Hard_bop
 E.S.P._(Miles_Davis_album)	E.S.P. (Miles Davis album)	dbo:genre	dbr:Modal_jazz
 E.S.P._(Miles_Davis_album)	E.S.P. (Miles Davis album)	dbo:genre	dbr:Post-bop
 E.S.P._(Miles_Davis_album)	E.S.P. (Miles Davis album)	dbo:genre	dbr:Jazz
 E.S.P._(Miles_Davis_album)	E.S.P. (Miles Davis album)	dbp:genre	dbr:Modal_jazz
 E.S.P._(Miles_Davis_album)	E.S.P. (Miles Davis album)	dbp:genre	dbr:Post-bop
 E.S.P._(Miles_Davis_album)	E.S.P. (Miles Davis album)	dbp:genre	dbr:Jazz
+Miles_Smiles	Miles Smiles	dbo:genre	dbr:Avant-garde_jazz
+Miles_Smiles	Miles Smiles	dbo:genre	dbr:Post-bop
+Miles_Smiles	Miles Smiles	dbo:genre	dbr:Hard_bop
+Miles_Smiles	Miles Smiles	dbp:genre	dbr:Avant-garde_jazz
+Miles_Smiles	Miles Smiles	dbp:genre	dbr:Post-bop
+Miles_Smiles	Miles Smiles	dbp:genre	dbr:Hard_bop
 Sorcerer_(Miles_Davis_album)	Sorcerer (Miles Davis album)	dbo:genre	dbr:Post-bop
 Sorcerer_(Miles_Davis_album)	Sorcerer (Miles Davis album)	dbp:genre	dbr:Post-bop
+Nefertiti_(Miles_Davis_album)	Nefertiti (Miles Davis album)	dbo:genre	dbr:Post-bop
+Nefertiti_(Miles_Davis_album)	Nefertiti (Miles Davis album)	dbp:genre	dbr:Post-bop
 Miles_in_the_Sky	Miles in the Sky	dbo:genre	dbr:Post-bop
 Miles_in_the_Sky	Miles in the Sky	dbo:genre	dbr:Jazz_fusion
 Miles_in_the_Sky	Miles in the Sky	dbp:genre	dbr:Post-bop
 Miles_in_the_Sky	Miles in the Sky	dbp:genre	dbr:Jazz_fusion
-Nefertiti_(Miles_Davis_album)	Nefertiti (Miles Davis album)	dbo:genre	dbr:Post-bop
-Nefertiti_(Miles_Davis_album)	Nefertiti (Miles Davis album)	dbp:genre	dbr:Post-bop
+The_Complete_Live_at_the_Plugged_Nickel_1965	The Complete Live at the Plugged Nickel 1965	dbo:genre	dbr:Jazz
+The_Complete_Live_at_the_Plugged_Nickel_1965	The Complete Live at the Plugged Nickel 1965	dbp:genre	dbr:Jazz
 In_a_Silent_Way	In a Silent Way	dbo:genre	dbr:Space_music
 In_a_Silent_Way	In a Silent Way	dbo:genre	dbr:Jazz_fusion
 In_a_Silent_Way	In a Silent Way	dbp:genre	dbr:Space_music
 In_a_Silent_Way	In a Silent Way	dbp:genre	dbr:Jazz_fusion
-The_Complete_Live_at_the_Plugged_Nickel_1965	The Complete Live at the Plugged Nickel 1965	dbo:genre	dbr:Jazz
-The_Complete_Live_at_the_Plugged_Nickel_1965	The Complete Live at the Plugged Nickel 1965	dbp:genre	dbr:Jazz
+Jack_Johnson_(album)	Jack Johnson (album)	dbo:genre	dbr:Jazz_fusion
+Jack_Johnson_(album)	Jack Johnson (album)	dbp:genre	dbr:Jazz_fusion
 On_the_Corner	On the Corner	dbo:genre	dbr:Jazz-funk
 On_the_Corner	On the Corner	dbo:genre	dbr:Jazz_fusion
 On_the_Corner	On the Corner	dbp:genre	dbr:Jazz-funk
 On_the_Corner	On the Corner	dbp:genre	dbr:Jazz_fusion
 On_the_Corner	On the Corner	dbp:genre	 (en)
-Jack_Johnson_(album)	Jack Johnson (album)	dbo:genre	dbr:Jazz_fusion
-Jack_Johnson_(album)	Jack Johnson (album)	dbp:genre	dbr:Jazz_fusion
-Big_Fun_(Miles_Davis_album)	Big Fun (Miles Davis album)	dbo:genre	dbr:Jazz_fusion
-Big_Fun_(Miles_Davis_album)	Big Fun (Miles Davis album)	dbp:genre	dbr:Jazz_fusion
 Get_Up_with_It	Get Up with It	dbo:genre	dbr:Worldbeat
 Get_Up_with_It	Get Up with It	dbo:genre	dbr:Jazz_fusion
 Get_Up_with_It	Get Up with It	dbp:genre	dbr:Worldbeat
 Get_Up_with_It	Get Up with It	dbp:genre	dbr:Jazz_fusion
+Big_Fun_(Miles_Davis_album)	Big Fun (Miles Davis album)	dbo:genre	dbr:Jazz_fusion
+Big_Fun_(Miles_Davis_album)	Big Fun (Miles Davis album)	dbp:genre	dbr:Jazz_fusion
+Mick_Harvey	Mick Harvey	dbo:genre	dbr:Post-punk
+Mick_Harvey	Mick Harvey	dbo:genre	dbr:Alternative_rock
+Mick_Harvey	Mick Harvey	dbp:genre	dbr:Post-punk
+Mick_Harvey	Mick Harvey	dbp:genre	dbr:Alternative_rock
+The_Motion_of_Light_in_Water	The Motion of Light in Water	dbo:literaryGenre	dbr:Autobiography
+The_Motion_of_Light_in_Water	The Motion of Light in Water	dbp:genre	dbr:Autobiography
 Brian_Viglione	Brian Viglione	dbo:genre	dbr:Dark_cabaret
 Brian_Viglione	Brian Viglione	dbo:genre	dbr:Dark_wave
 Brian_Viglione	Brian Viglione	dbo:genre	dbr:Industrial_music
@@ -2614,12 +2620,6 @@ Brian_Viglione	Brian Viglione	dbp:genre	dbr:Dark_wave
 Brian_Viglione	Brian Viglione	dbp:genre	dbr:Industrial_music
 Brian_Viglione	Brian Viglione	dbp:genre	dbr:Heavy_metal_music
 Brian_Viglione	Brian Viglione	dbp:genre	dbr:Alternative_rock
-Mick_Harvey	Mick Harvey	dbo:genre	dbr:Post-punk
-Mick_Harvey	Mick Harvey	dbo:genre	dbr:Alternative_rock
-Mick_Harvey	Mick Harvey	dbp:genre	dbr:Post-punk
-Mick_Harvey	Mick Harvey	dbp:genre	dbr:Alternative_rock
-The_Motion_of_Light_in_Water	The Motion of Light in Water	dbo:literaryGenre	dbr:Autobiography
-The_Motion_of_Light_in_Water	The Motion of Light in Water	dbp:genre	dbr:Autobiography
 Band_of_Gypsys	Band of Gypsys	dbo:genre	dbr:Funk
 Band_of_Gypsys	Band of Gypsys	dbo:genre	dbr:Rock_music
 Band_of_Gypsys	Band of Gypsys	dbp:genre	Rock, funk (en)
@@ -2631,8 +2631,6 @@ Decoder_Ring	Decoder Ring	dbp:genre	dbr:Post-rock
 Decoder_Ring	Decoder Ring	dbp:genre	dbr:Experimental_rock
 Decoder_Ring	Decoder Ring	dbp:genre	dbr:Alternative_rock
 Decoder_Ring	Decoder Ring	dbp:genre	dbr:Electronica
-Terry_Teachout	Terry Teachout	dbo:genre	dbr:Criticism
-Terry_Teachout	Terry Teachout	dbp:genre	dbr:Criticism
 Derek_Trucks	Derek Trucks	dbo:genre	dbr:Jam_band
 Derek_Trucks	Derek Trucks	dbo:genre	dbr:Blues_rock
 Derek_Trucks	Derek Trucks	dbo:genre	dbr:World_music
@@ -2643,14 +2641,12 @@ Derek_Trucks	Derek Trucks	dbp:genre	dbr:Blues_rock
 Derek_Trucks	Derek Trucks	dbp:genre	dbr:World_music
 Derek_Trucks	Derek Trucks	dbp:genre	dbr:Southern_rock
 Derek_Trucks	Derek Trucks	dbp:genre	dbr:Jazz_fusion
+Terry_Teachout	Terry Teachout	dbo:genre	dbr:Criticism
+Terry_Teachout	Terry Teachout	dbp:genre	dbr:Criticism
 Yuri_Bashmet	Yuri Bashmet	dbo:genre	dbr:Classical_music
 Yuri_Bashmet	Yuri Bashmet	dbp:genre	dbr:Classical_music
 My_Favorite_Things_(album)	My Favorite Things (album)	dbo:genre	dbr:Modal_jazz
 My_Favorite_Things_(album)	My Favorite Things (album)	dbp:genre	dbr:Modal_jazz
-Secrets_(Herbie_Hancock_album)	Secrets (Herbie Hancock album)	dbo:genre	dbr:Jazz-funk
-Secrets_(Herbie_Hancock_album)	Secrets (Herbie Hancock album)	dbo:genre	dbr:Jazz_fusion
-Secrets_(Herbie_Hancock_album)	Secrets (Herbie Hancock album)	dbp:genre	dbr:Jazz-funk
-Secrets_(Herbie_Hancock_album)	Secrets (Herbie Hancock album)	dbp:genre	dbr:Jazz_fusion
 Craig_Armstrong_(composer)	Craig Armstrong (composer)	dbo:genre	dbr:Contemporary_classical_music
 Craig_Armstrong_(composer)	Craig Armstrong (composer)	dbo:genre	dbr:Alternative_rock
 Craig_Armstrong_(composer)	Craig Armstrong (composer)	dbo:genre	dbr:Electronic_music
@@ -2658,6 +2654,10 @@ Craig_Armstrong_(composer)	Craig Armstrong (composer)	dbp:genre	dbr:Contemporary
 Craig_Armstrong_(composer)	Craig Armstrong (composer)	dbp:genre	dbr:Alternative_rock
 Craig_Armstrong_(composer)	Craig Armstrong (composer)	dbp:genre	dbr:Electronic_music
 Craig_Armstrong_(composer)	Craig Armstrong (composer)	dbp:genre	Classical (en)
+Secrets_(Herbie_Hancock_album)	Secrets (Herbie Hancock album)	dbo:genre	dbr:Jazz-funk
+Secrets_(Herbie_Hancock_album)	Secrets (Herbie Hancock album)	dbo:genre	dbr:Jazz_fusion
+Secrets_(Herbie_Hancock_album)	Secrets (Herbie Hancock album)	dbp:genre	dbr:Jazz-funk
+Secrets_(Herbie_Hancock_album)	Secrets (Herbie Hancock album)	dbp:genre	dbr:Jazz_fusion
 In_the_Wee_Small_Hours	In the Wee Small Hours	dbo:genre	dbr:Traditional_pop_music
 In_the_Wee_Small_Hours	In the Wee Small Hours	dbo:genre	dbr:Vocal_jazz
 In_the_Wee_Small_Hours	In the Wee Small Hours	dbp:genre	dbr:Traditional_pop_music
@@ -2672,10 +2672,6 @@ Charles_Lloyd_(jazz_musician)	Charles Lloyd (jazz musician)	dbp:genre	dbr:Post-b
 Charles_Lloyd_(jazz_musician)	Charles Lloyd (jazz musician)	dbp:genre	dbr:Jazz
 Third_(Soft_Machine_album)	Third (Soft Machine album)	dbo:genre	dbr:Jazz_fusion
 Third_(Soft_Machine_album)	Third (Soft Machine album)	dbp:genre	dbr:Jazz_fusion
-Tutu_(album)	Tutu (album)	dbo:genre	dbr:Smooth_jazz
-Tutu_(album)	Tutu (album)	dbp:genre	dbr:Smooth_jazz
-Impressions_(John_Coltrane_album)	Impressions (John Coltrane album)	dbo:genre	dbr:Jazz
-Impressions_(John_Coltrane_album)	Impressions (John Coltrane album)	dbp:genre	dbr:Jazz
 Dave_Liebman	Dave Liebman	dbo:genre	dbr:Avant-garde_jazz
 Dave_Liebman	Dave Liebman	dbo:genre	dbr:Modal_jazz
 Dave_Liebman	Dave Liebman	dbo:genre	dbr:Post-bop
@@ -2690,10 +2686,10 @@ Dave_Liebman	Dave Liebman	dbp:genre	dbr:Hard_bop
 Dave_Liebman	Dave Liebman	dbp:genre	dbr:Jazz
 Dave_Liebman	Dave Liebman	dbp:genre	dbr:Bebop
 Dave_Liebman	Dave Liebman	dbp:genre	dbr:Jazz_fusion
-Tom_Vaughn_(musician)	Tom Vaughn (musician)	dbo:genre	dbr:Jazz
-Tom_Vaughn_(musician)	Tom Vaughn (musician)	dbo:genre	dbr:Stride_(music)
-Tom_Vaughn_(musician)	Tom Vaughn (musician)	dbp:genre	dbr:Jazz
-Tom_Vaughn_(musician)	Tom Vaughn (musician)	dbp:genre	dbr:Stride_(music)
+Tutu_(album)	Tutu (album)	dbo:genre	dbr:Smooth_jazz
+Tutu_(album)	Tutu (album)	dbp:genre	dbr:Smooth_jazz
+Impressions_(John_Coltrane_album)	Impressions (John Coltrane album)	dbo:genre	dbr:Jazz
+Impressions_(John_Coltrane_album)	Impressions (John Coltrane album)	dbp:genre	dbr:Jazz
 Philip_Bailey	Philip Bailey	dbo:genre	dbr:Soul_music
 Philip_Bailey	Philip Bailey	dbo:genre	dbr:Funk
 Philip_Bailey	Philip Bailey	dbo:genre	dbr:Jazz
@@ -2708,6 +2704,10 @@ Philip_Bailey	Philip Bailey	dbp:genre	dbr:Pop_music
 Philip_Bailey	Philip Bailey	dbp:genre	dbr:Rhythm_and_blues
 Philip_Bailey	Philip Bailey	dbp:genre	dbr:Rock_music
 Philip_Bailey	Philip Bailey	dbp:genre	dbr:Gospel_music
+Tom_Vaughn_(musician)	Tom Vaughn (musician)	dbo:genre	dbr:Jazz
+Tom_Vaughn_(musician)	Tom Vaughn (musician)	dbo:genre	dbr:Stride_(music)
+Tom_Vaughn_(musician)	Tom Vaughn (musician)	dbp:genre	dbr:Jazz
+Tom_Vaughn_(musician)	Tom Vaughn (musician)	dbp:genre	dbr:Stride_(music)
 2001_(Dr._Dre_album)	2001 (Dr. Dre album)	dbo:genre	dbr:G-funk
 2001_(Dr._Dre_album)	2001 (Dr. Dre album)	dbo:genre	dbr:Gangsta_rap
 2001_(Dr._Dre_album)	2001 (Dr. Dre album)	dbo:genre	dbr:West_Coast_hip_hop
@@ -2765,6 +2765,13 @@ No-Man	No-Man	dbp:genre	dbr:Dream_pop
 No-Man	No-Man	dbp:genre	dbr:Art_rock
 No-Man	No-Man	dbp:genre	dbr:Trip_hop
 No-Man	No-Man	dbp:genre	dbr:Ambient_music
+Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbo:genre	dbr:Soft_rock
+Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbo:genre	dbr:New_wave_music
+Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbo:genre	dbr:Pop_music
+Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbp:genre	dbr:Soft_rock
+Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbp:genre	dbr:New_wave_music
+Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbp:genre	dbr:Pop_music
+Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbp:genre	 (en)
 Paul_Buckmaster	Paul Buckmaster	dbo:genre	dbr:Classical_music
 Paul_Buckmaster	Paul Buckmaster	dbo:genre	dbr:Film_score
 Paul_Buckmaster	Paul Buckmaster	dbo:genre	dbr:Country_music
@@ -2775,13 +2782,6 @@ Paul_Buckmaster	Paul Buckmaster	dbp:genre	dbr:Film_score
 Paul_Buckmaster	Paul Buckmaster	dbp:genre	dbr:Country_music
 Paul_Buckmaster	Paul Buckmaster	dbp:genre	dbr:Pop_music
 Paul_Buckmaster	Paul Buckmaster	dbp:genre	dbr:Rock_music
-Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbo:genre	dbr:Soft_rock
-Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbo:genre	dbr:New_wave_music
-Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbo:genre	dbr:Pop_music
-Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbp:genre	dbr:Soft_rock
-Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbp:genre	dbr:New_wave_music
-Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbp:genre	dbr:Pop_music
-Time_After_Time_(Cyndi_Lauper_song)	Time After Time (Cyndi Lauper song)	dbp:genre	 (en)
 Mike_Stern	Mike Stern	dbo:genre	dbr:Post-bop
 Mike_Stern	Mike Stern	dbo:genre	dbr:Jazz
 Mike_Stern	Mike Stern	dbo:genre	dbr:Jazz_fusion
@@ -2902,13 +2902,13 @@ Paul_Jackson_(bassist)	Paul Jackson (bassist)	dbp:genre	dbr:Jazz-funk
 Paul_Jackson_(bassist)	Paul Jackson (bassist)	dbp:genre	dbr:Funk
 Paul_Jackson_(bassist)	Paul Jackson (bassist)	dbp:genre	dbr:Jazz
 Paul_Jackson_(bassist)	Paul Jackson (bassist)	dbp:genre	dbr:Jazz_fusion
-Monterey_Jazz_Festival	Monterey Jazz Festival	dbp:genre	dbr:Blues
-Monterey_Jazz_Festival	Monterey Jazz Festival	dbp:genre	dbr:Jazz
-Monterey_Jazz_Festival	Monterey Jazz Festival	dbp:genre	dbr:Rock_music
 Ben_Sidran	Ben Sidran	dbo:genre	dbr:Jazz
 Ben_Sidran	Ben Sidran	dbo:genre	dbr:Rock_music
 Ben_Sidran	Ben Sidran	dbp:genre	dbr:Jazz
 Ben_Sidran	Ben Sidran	dbp:genre	dbr:Rock_music
+Monterey_Jazz_Festival	Monterey Jazz Festival	dbp:genre	dbr:Blues
+Monterey_Jazz_Festival	Monterey Jazz Festival	dbp:genre	dbr:Jazz
+Monterey_Jazz_Festival	Monterey Jazz Festival	dbp:genre	dbr:Rock_music
 Leo_Sidran	Leo Sidran	dbo:genre	dbr:Singer-songwriter
 Leo_Sidran	Leo Sidran	dbo:genre	dbr:Jazz
 Leo_Sidran	Leo Sidran	dbo:genre	dbr:Pop_music
@@ -2925,16 +2925,16 @@ Tago_Mago	Tago Mago	dbp:genre	dbr:Experimental_rock
 Tago_Mago	Tago Mago	dbp:genre	dbr:Psychedelic_rock
 The_Blues_and_the_Abstract_Truth	The Blues and the Abstract Truth	dbo:genre	dbr:Post-bop
 The_Blues_and_the_Abstract_Truth	The Blues and the Abstract Truth	dbp:genre	dbr:Post-bop
+Mario_Bauz%C3%A1	Mario Bauzá	dbo:genre	dbr:Big_band
+Mario_Bauz%C3%A1	Mario Bauzá	dbo:genre	dbr:Afro-Cuban_jazz
+Mario_Bauz%C3%A1	Mario Bauzá	dbp:genre	dbr:Big_band
+Mario_Bauz%C3%A1	Mario Bauzá	dbp:genre	dbr:Afro-Cuban_jazz
 Barry_Harris	Barry Harris	dbo:genre	dbr:Mainstream_jazz
 Barry_Harris	Barry Harris	dbo:genre	dbr:Hard_bop
 Barry_Harris	Barry Harris	dbo:genre	dbr:Bebop
 Barry_Harris	Barry Harris	dbp:genre	dbr:Mainstream_jazz
 Barry_Harris	Barry Harris	dbp:genre	dbr:Hard_bop
 Barry_Harris	Barry Harris	dbp:genre	dbr:Bebop
-Mario_Bauz%C3%A1	Mario Bauzá	dbo:genre	dbr:Big_band
-Mario_Bauz%C3%A1	Mario Bauzá	dbo:genre	dbr:Afro-Cuban_jazz
-Mario_Bauz%C3%A1	Mario Bauzá	dbp:genre	dbr:Big_band
-Mario_Bauz%C3%A1	Mario Bauzá	dbp:genre	dbr:Afro-Cuban_jazz
 Say_It_Loud_%E2%80%93_I%27m_Black_and_I%27m_Proud	Say It Loud – I'm Black and I'm Proud	dbo:genre	dbr:Funk
 Say_It_Loud_%E2%80%93_I%27m_Black_and_I%27m_Proud	Say It Loud – I'm Black and I'm Proud	dbp:genre	dbr:Funk
 Conrad_Herwig	Conrad Herwig	dbo:genre	dbr:Big_band
@@ -3078,12 +3078,12 @@ Ol%C3%A9_Coltrane	Olé Coltrane	dbo:genre	dbr:Modal_jazz
 Ol%C3%A9_Coltrane	Olé Coltrane	dbp:genre	dbr:Modal_jazz
 Coltrane_Plays_the_Blues	Coltrane Plays the Blues	dbo:genre	dbr:Jazz
 Coltrane_Plays_the_Blues	Coltrane Plays the Blues	dbp:genre	dbr:Jazz
+Where_Have_I_Known_You_Before	Where Have I Known You Before	dbo:genre	dbr:Jazz_fusion
+Where_Have_I_Known_You_Before	Where Have I Known You Before	dbp:genre	dbr:Jazz_fusion
 Idrees_Sulieman	Idrees Sulieman	dbo:genre	dbr:Hard_bop
 Idrees_Sulieman	Idrees Sulieman	dbo:genre	dbr:Bebop
 Idrees_Sulieman	Idrees Sulieman	dbp:genre	dbr:Hard_bop
 Idrees_Sulieman	Idrees Sulieman	dbp:genre	dbr:Bebop
-Where_Have_I_Known_You_Before	Where Have I Known You Before	dbo:genre	dbr:Jazz_fusion
-Where_Have_I_Known_You_Before	Where Have I Known You Before	dbp:genre	dbr:Jazz_fusion
 Tommy_Flanagan	Tommy Flanagan	dbo:genre	dbr:Mainstream_jazz
 Tommy_Flanagan	Tommy Flanagan	dbo:genre	dbr:Hard_bop
 Tommy_Flanagan	Tommy Flanagan	dbo:genre	dbr:Bebop
@@ -3096,14 +3096,14 @@ Alphonse_Mouzon	Alphonse Mouzon	dbo:genre	dbr:Jazz_fusion
 Alphonse_Mouzon	Alphonse Mouzon	dbp:genre	dbr:Jazz-funk
 Alphonse_Mouzon	Alphonse Mouzon	dbp:genre	dbr:Post-bop
 Alphonse_Mouzon	Alphonse Mouzon	dbp:genre	dbr:Jazz_fusion
-Romantic_Warrior	Romantic Warrior	dbo:genre	dbr:Jazz_fusion
-Romantic_Warrior	Romantic Warrior	dbo:genre	dbr:Progressive_rock
-Romantic_Warrior	Romantic Warrior	dbp:genre	dbr:Jazz_fusion
-Romantic_Warrior	Romantic Warrior	dbp:genre	dbr:Progressive_rock
 Shirley_Horn	Shirley Horn	dbo:genre	dbr:Blues
 Shirley_Horn	Shirley Horn	dbo:genre	dbr:Jazz
 Shirley_Horn	Shirley Horn	dbp:genre	dbr:Blues
 Shirley_Horn	Shirley Horn	dbp:genre	dbr:Jazz
+Romantic_Warrior	Romantic Warrior	dbo:genre	dbr:Jazz_fusion
+Romantic_Warrior	Romantic Warrior	dbo:genre	dbr:Progressive_rock
+Romantic_Warrior	Romantic Warrior	dbp:genre	dbr:Jazz_fusion
+Romantic_Warrior	Romantic Warrior	dbp:genre	dbr:Progressive_rock
 Bennie_Green	Bennie Green	dbo:genre	dbr:Jazz
 Bennie_Green	Bennie Green	dbp:genre	dbr:Jazz
 Light_as_a_Feather	Light as a Feather	dbo:genre	dbr:Jazz_fusion
@@ -3120,6 +3120,12 @@ The_Infamous	The Infamous	dbo:genre	dbr:East_Coast_hip_hop
 The_Infamous	The Infamous	dbo:genre	dbr:Gangsta_rap
 The_Infamous	The Infamous	dbp:genre	dbr:East_Coast_hip_hop
 The_Infamous	The Infamous	dbp:genre	dbr:Gangsta_rap
+Live_at_the_House_of_Tribes	Live at the House of Tribes	dbo:genre	dbr:Mainstream_jazz
+Live_at_the_House_of_Tribes	Live at the House of Tribes	dbo:genre	dbr:Post-bop
+Live_at_the_House_of_Tribes	Live at the House of Tribes	dbo:genre	dbr:Jazz_standard
+Live_at_the_House_of_Tribes	Live at the House of Tribes	dbp:genre	dbr:Mainstream_jazz
+Live_at_the_House_of_Tribes	Live at the House of Tribes	dbp:genre	dbr:Post-bop
+Live_at_the_House_of_Tribes	Live at the House of Tribes	dbp:genre	dbr:Jazz_standard
 Santana_(1971_album)	Santana (1971 album)	dbo:genre	dbr:Rock_en_español
 Santana_(1971_album)	Santana (1971 album)	dbo:genre	dbr:Psychedelic_rock
 Santana_(1971_album)	Santana (1971 album)	dbo:genre	dbr:Chicano_rock
@@ -3142,16 +3148,10 @@ Bob_Mintzer	Bob Mintzer	dbp:genre	dbr:Jazz
 Bob_Mintzer	Bob Mintzer	dbp:genre	dbr:Jazz_fusion
 Ryo_Kawasaki	Ryo Kawasaki	dbo:genre	dbr:Jazz_fusion
 Ryo_Kawasaki	Ryo Kawasaki	dbp:genre	dbr:Jazz_fusion
-Eric_Roche	Eric Roche	dbo:genre	dbr:Fingerstyle_guitar
-Eric_Roche	Eric Roche	dbp:genre	dbr:Fingerstyle_guitar
 List_of_jazz_genres	List of jazz genres	is dbo:musicSubgenre of	dbr:Bebop
 List_of_jazz_genres	List of jazz genres	is dbp:subgenres of	dbr:Bebop
-Live_at_the_House_of_Tribes	Live at the House of Tribes	dbo:genre	dbr:Mainstream_jazz
-Live_at_the_House_of_Tribes	Live at the House of Tribes	dbo:genre	dbr:Post-bop
-Live_at_the_House_of_Tribes	Live at the House of Tribes	dbo:genre	dbr:Jazz_standard
-Live_at_the_House_of_Tribes	Live at the House of Tribes	dbp:genre	dbr:Mainstream_jazz
-Live_at_the_House_of_Tribes	Live at the House of Tribes	dbp:genre	dbr:Post-bop
-Live_at_the_House_of_Tribes	Live at the House of Tribes	dbp:genre	dbr:Jazz_standard
+Eric_Roche	Eric Roche	dbo:genre	dbr:Fingerstyle_guitar
+Eric_Roche	Eric Roche	dbp:genre	dbr:Fingerstyle_guitar
 Mtume	Mtume	dbo:genre	dbr:Post-disco
 Mtume	Mtume	dbo:genre	dbr:Jazz-funk
 Mtume	Mtume	dbo:genre	dbr:Quiet_storm
@@ -3207,10 +3207,10 @@ Angel_of_Harlem	Angel of Harlem	dbp:genre	dbr:Soul_music
 Angel_of_Harlem	Angel of Harlem	dbp:genre	dbr:Heartland_rock
 Wrath_of_the_Math	Wrath of the Math	dbo:genre	dbr:East_Coast_hip_hop
 Wrath_of_the_Math	Wrath of the Math	dbp:genre	dbr:East_Coast_hip_hop
-Thelonious_Monk_with_John_Coltrane	Thelonious Monk with John Coltrane	dbo:genre	dbr:Jazz
-Thelonious_Monk_with_John_Coltrane	Thelonious Monk with John Coltrane	dbp:genre	dbr:Jazz
 The_Tony_Bennett/Bill_Evans_Album	The Tony Bennett/Bill Evans Album	dbo:genre	dbr:Vocal_jazz
 The_Tony_Bennett/Bill_Evans_Album	The Tony Bennett/Bill Evans Album	dbp:genre	dbr:Vocal_jazz
+Thelonious_Monk_with_John_Coltrane	Thelonious Monk with John Coltrane	dbo:genre	dbr:Jazz
+Thelonious_Monk_with_John_Coltrane	Thelonious Monk with John Coltrane	dbp:genre	dbr:Jazz
 Undercurrent_(Bill_Evans_and_Jim_Hall_album)	Undercurrent (Bill Evans and Jim Hall album)	dbo:genre	dbr:Jazz
 Undercurrent_(Bill_Evans_and_Jim_Hall_album)	Undercurrent (Bill Evans and Jim Hall album)	dbp:genre	dbr:Jazz
 Miles_Davis_Volume_2	Miles Davis Volume 2	dbo:genre	dbr:Jazz
@@ -3249,10 +3249,10 @@ Walkin%27	Walkin'	dbo:genre	dbr:Hard_bop
 Walkin%27	Walkin'	dbo:genre	dbr:Jazz
 Walkin%27	Walkin'	dbp:genre	dbr:Hard_bop
 Walkin%27	Walkin'	dbp:genre	dbr:Jazz
-Miles_Davis_and_the_Modern_Jazz_Giants	Miles Davis and the Modern Jazz Giants	dbo:genre	dbr:Jazz
-Miles_Davis_and_the_Modern_Jazz_Giants	Miles Davis and the Modern Jazz Giants	dbp:genre	dbr:Jazz
 Bags%27_Groove	Bags' Groove	dbo:genre	dbr:Jazz
 Bags%27_Groove	Bags' Groove	dbp:genre	dbr:Jazz
+Miles_Davis_and_the_Modern_Jazz_Giants	Miles Davis and the Modern Jazz Giants	dbo:genre	dbr:Jazz
+Miles_Davis_and_the_Modern_Jazz_Giants	Miles Davis and the Modern Jazz Giants	dbp:genre	dbr:Jazz
 Live_at_the_Village_Vanguard_Again!	Live at the Village Vanguard Again!	dbo:genre	dbr:Free_jazz
 Live_at_the_Village_Vanguard_Again!	Live at the Village Vanguard Again!	dbp:genre	dbr:Free_jazz
 Quintet/Sextet	Quintet/Sextet	dbo:genre	dbr:Jazz
@@ -3261,20 +3261,20 @@ Tommy_LiPuma	Tommy LiPuma	dbo:genre	dbr:Jazz
 Tommy_LiPuma	Tommy LiPuma	dbo:genre	dbr:Rhythm_and_blues
 Tommy_LiPuma	Tommy LiPuma	dbp:genre	dbr:Jazz
 Tommy_LiPuma	Tommy LiPuma	dbp:genre	dbr:Rhythm_and_blues
-George_Avakian	George Avakian	dbo:genre	dbr:Jazz
-George_Avakian	George Avakian	dbp:genre	dbr:Jazz
 A_Night_at_the_Village_Vanguard	A Night at the Village Vanguard	dbo:genre	dbr:Hard_bop
 A_Night_at_the_Village_Vanguard	A Night at the Village Vanguard	dbo:genre	dbr:Bebop
 A_Night_at_the_Village_Vanguard	A Night at the Village Vanguard	dbp:genre	dbr:Hard_bop
 A_Night_at_the_Village_Vanguard	A Night at the Village Vanguard	dbp:genre	dbr:Bebop
+George_Avakian	George Avakian	dbo:genre	dbr:Jazz
+George_Avakian	George Avakian	dbp:genre	dbr:Jazz
 You%27re_Under_Arrest_(Miles_Davis_album)	You're Under Arrest (Miles Davis album)	dbo:genre	dbr:Jazz-funk
 You%27re_Under_Arrest_(Miles_Davis_album)	You're Under Arrest (Miles Davis album)	dbo:genre	dbr:Jazz_fusion
 You%27re_Under_Arrest_(Miles_Davis_album)	You're Under Arrest (Miles Davis album)	dbp:genre	dbr:Jazz-funk
 You%27re_Under_Arrest_(Miles_Davis_album)	You're Under Arrest (Miles Davis album)	dbp:genre	dbr:Jazz_fusion
-Aura_(Miles_Davis_album)	Aura (Miles Davis album)	dbo:genre	dbr:Jazz_fusion
-Aura_(Miles_Davis_album)	Aura (Miles Davis album)	dbp:genre	dbr:Jazz_fusion
 Star_People	Star People	dbo:genre	dbr:Jazz_fusion
 Star_People	Star People	dbp:genre	dbr:Jazz_fusion
+Aura_(Miles_Davis_album)	Aura (Miles Davis album)	dbo:genre	dbr:Jazz_fusion
+Aura_(Miles_Davis_album)	Aura (Miles Davis album)	dbp:genre	dbr:Jazz_fusion
 Amandla_(album)	Amandla (album)	dbo:genre	dbr:Jazz_fusion
 Amandla_(album)	Amandla (album)	dbp:genre	dbr:Jazz_fusion
 Decoy_(album)	Decoy (album)	dbo:genre	dbr:Jazz_fusion
@@ -3317,14 +3317,16 @@ Reggie_Lucas	Reggie Lucas	dbp:genre	dbr:Pop_music
 Reggie_Lucas	Reggie Lucas	dbp:genre	dbr:Rhythm_and_blues
 The_Complete_Village_Vanguard_Recordings,_1961	The Complete Village Vanguard Recordings, 1961	dbo:genre	dbr:Jazz
 The_Complete_Village_Vanguard_Recordings,_1961	The Complete Village Vanguard Recordings, 1961	dbp:genre	dbr:Jazz
-Album_(Public_Image_Ltd_album)	Album (Public Image Ltd album)	dbo:genre	dbr:Alternative_rock
-Album_(Public_Image_Ltd_album)	Album (Public Image Ltd album)	dbp:genre	dbr:Alternative_rock
 Stan_Levey	Stan Levey	dbo:genre	dbr:Jazz
 Stan_Levey	Stan Levey	dbo:genre	dbr:Bebop
 Stan_Levey	Stan Levey	dbp:genre	dbr:Jazz
 Stan_Levey	Stan Levey	dbp:genre	dbr:Bebop
+Album_(Public_Image_Ltd_album)	Album (Public Image Ltd album)	dbo:genre	dbr:Alternative_rock
+Album_(Public_Image_Ltd_album)	Album (Public Image Ltd album)	dbp:genre	dbr:Alternative_rock
 Money_Jungle	Money Jungle	dbo:genre	dbr:Post-bop
 Money_Jungle	Money Jungle	dbp:genre	dbr:Post-bop
+The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.	The Great Jazz Piano of Phineas Newborn Jr.	dbo:genre	dbr:Jazz
+The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.	The Great Jazz Piano of Phineas Newborn Jr.	dbp:genre	dbr:Jazz
 James_Mtume	James Mtume	dbo:genre	dbr:Electro_(music)
 James_Mtume	James Mtume	dbo:genre	dbr:Post-disco
 James_Mtume	James Mtume	dbo:genre	dbr:Hip_hop_music
@@ -3343,8 +3345,6 @@ James_Mtume	James Mtume	dbp:genre	dbr:Smooth_soul
 James_Mtume	James Mtume	dbp:genre	dbr:Funk
 James_Mtume	James Mtume	dbp:genre	dbr:Jazz
 James_Mtume	James Mtume	dbp:genre	dbr:Rhythm_and_blues
-The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.	The Great Jazz Piano of Phineas Newborn Jr.	dbo:genre	dbr:Jazz
-The_Great_Jazz_Piano_of_Phineas_Newborn_Jr.	The Great Jazz Piano of Phineas Newborn Jr.	dbp:genre	dbr:Jazz
 Black_Hawk_(nightclub)	Black Hawk (nightclub)	dbo:genre	dbr:Jazz
 Black_Hawk_(nightclub)	Black Hawk (nightclub)	dbo:genre	dbr:Bebop
 Black_Hawk_(nightclub)	Black Hawk (nightclub)	dbp:genre	dbr:Jazz
@@ -3364,10 +3364,10 @@ Milagro_(Santana_album)	Milagro (Santana album)	dbo:genre	dbr:Rock_en_español
 Milagro_(Santana_album)	Milagro (Santana album)	dbo:genre	dbr:Hard_rock
 Milagro_(Santana_album)	Milagro (Santana album)	dbp:genre	dbr:Rock_en_español
 Milagro_(Santana_album)	Milagro (Santana album)	dbp:genre	dbr:Hard_rock
-Love_Devotion_Surrender	Love Devotion Surrender	dbo:genre	dbr:Jazz_fusion
-Love_Devotion_Surrender	Love Devotion Surrender	dbp:genre	dbr:Jazz_fusion
 Burning_for_Buddy:_A_Tribute_to_the_Music_of_Buddy_Rich	Burning for Buddy: A Tribute to the Music of Buddy Rich	dbo:genre	dbr:Big_band
 Burning_for_Buddy:_A_Tribute_to_the_Music_of_Buddy_Rich	Burning for Buddy: A Tribute to the Music of Buddy Rich	dbp:genre	dbr:Big_band
+Love_Devotion_Surrender	Love Devotion Surrender	dbo:genre	dbr:Jazz_fusion
+Love_Devotion_Surrender	Love Devotion Surrender	dbp:genre	dbr:Jazz_fusion
 The_Dangermen_Sessions_Vol._1	The Dangermen Sessions Vol. 1	dbo:genre	dbr:Ska
 The_Dangermen_Sessions_Vol._1	The Dangermen Sessions Vol. 1	dbp:genre	dbr:Ska
 Jazz_Africa	Jazz Africa	dbo:genre	dbr:Jazz
@@ -3376,12 +3376,12 @@ Sextant_(album)	Sextant (album)	dbo:genre	dbr:Avant-garde_jazz
 Sextant_(album)	Sextant (album)	dbo:genre	dbr:Jazz_fusion
 Sextant_(album)	Sextant (album)	dbp:genre	dbr:Avant-garde_jazz
 Sextant_(album)	Sextant (album)	dbp:genre	dbr:Jazz_fusion
+David_Hazeltine	David Hazeltine	dbo:genre	dbr:Jazz
+David_Hazeltine	David Hazeltine	dbp:genre	dbr:Jazz
 Cuckooland	Cuckooland	dbo:genre	dbr:Jazz
 Cuckooland	Cuckooland	dbo:genre	dbr:Rock_music
 Cuckooland	Cuckooland	dbp:genre	dbr:Jazz
 Cuckooland	Cuckooland	dbp:genre	dbr:Rock_music
-David_Hazeltine	David Hazeltine	dbo:genre	dbr:Jazz
-David_Hazeltine	David Hazeltine	dbp:genre	dbr:Jazz
 Cupid_%26_Psyche_85	Cupid & Psyche 85	dbo:genre	dbr:Post-disco
 Cupid_%26_Psyche_85	Cupid & Psyche 85	dbo:genre	dbr:Sophisti-pop
 Cupid_%26_Psyche_85	Cupid & Psyche 85	dbo:genre	dbr:Blue-eyed_soul
@@ -3503,10 +3503,6 @@ Friday_Night_in_San_Francisco	Friday Night in San Francisco	dbp:genre	dbr:New_Fl
 Friday_Night_in_San_Francisco	Friday Night in San Francisco	dbp:genre	dbr:Jazz
 Spectrum_(Billy_Cobham_album)	Spectrum (Billy Cobham album)	dbo:genre	dbr:Jazz_fusion
 Spectrum_(Billy_Cobham_album)	Spectrum (Billy Cobham album)	dbp:genre	dbr:Jazz_fusion
-Thrust_(album)	Thrust (album)	dbo:genre	dbr:Jazz-funk
-Thrust_(album)	Thrust (album)	dbo:genre	dbr:Jazz
-Thrust_(album)	Thrust (album)	dbp:genre	dbr:Jazz-funk
-Thrust_(album)	Thrust (album)	dbp:genre	dbr:Jazz
 Rico_Love	Rico Love	dbo:genre	dbr:Hip_hop_music
 Rico_Love	Rico Love	dbo:genre	dbr:Dance_music
 Rico_Love	Rico Love	dbo:genre	dbr:Pop_music
@@ -3515,6 +3511,10 @@ Rico_Love	Rico Love	dbp:genre	dbr:Hip_hop_music
 Rico_Love	Rico Love	dbp:genre	dbr:Dance_music
 Rico_Love	Rico Love	dbp:genre	dbr:Pop_music
 Rico_Love	Rico Love	dbp:genre	dbr:Contemporary_R&B
+Thrust_(album)	Thrust (album)	dbo:genre	dbr:Jazz-funk
+Thrust_(album)	Thrust (album)	dbo:genre	dbr:Jazz
+Thrust_(album)	Thrust (album)	dbp:genre	dbr:Jazz-funk
+Thrust_(album)	Thrust (album)	dbp:genre	dbr:Jazz
 Django_(album)	Django (album)	dbo:genre	dbr:Cool_jazz
 Django_(album)	Django (album)	dbo:genre	dbr:Post-bop
 Django_(album)	Django (album)	dbo:genre	dbr:Third_stream
@@ -3525,6 +3525,8 @@ Leonard_Feather	Leonard Feather	dbo:genre	dbr:Jazz
 Leonard_Feather	Leonard Feather	dbp:genre	dbr:Jazz
 Tom_Varner	Tom Varner	dbo:genre	dbr:Jazz
 Tom_Varner	Tom Varner	dbp:genre	dbr:Jazz
+Matt_Uelmen	Matt Uelmen	dbo:genre	dbr:Video_game_music
+Matt_Uelmen	Matt Uelmen	dbp:genre	dbr:Video_game_music
 Asha_Puthli	Asha Puthli	dbo:genre	dbr:Disco
 Asha_Puthli	Asha Puthli	dbo:genre	dbr:Soul_music
 Asha_Puthli	Asha Puthli	dbo:genre	dbr:Funk
@@ -3541,19 +3543,17 @@ Asha_Puthli	Asha Puthli	dbp:genre	dbr:Music_of_India
 Asha_Puthli	Asha Puthli	dbp:genre	dbr:Pop_music
 Asha_Puthli	Asha Puthli	dbp:genre	dbr:Ambient_music
 Asha_Puthli	Asha Puthli	dbp:genre	dbr:Electronica
-Matt_Uelmen	Matt Uelmen	dbo:genre	dbr:Video_game_music
-Matt_Uelmen	Matt Uelmen	dbp:genre	dbr:Video_game_music
 Live_under_the_sky	Live under the sky	dbo:genre	dbr:Jazz
 Live_under_the_sky	Live under the sky	dbp:genre	dbr:Jazz
+Billy_Hart	Billy Hart	dbo:genre	dbr:Jazz
+Billy_Hart	Billy Hart	dbo:genre	dbr:Jazz_fusion
+Billy_Hart	Billy Hart	dbp:genre	dbr:Jazz
+Billy_Hart	Billy Hart	dbp:genre	dbr:Jazz_fusion
 Passion,_Grace_and_Fire	Passion, Grace and Fire	dbo:genre	dbr:New_Flamenco
 Passion,_Grace_and_Fire	Passion, Grace and Fire	dbp:genre	dbr:New_Flamenco
 Passion,_Grace_and_Fire	Passion, Grace and Fire	dbp:genre	dbr:Jazz
 David_S%C3%A1nchez_(musician)	David Sánchez (musician)	dbo:genre	dbr:Jazz
 David_S%C3%A1nchez_(musician)	David Sánchez (musician)	dbp:genre	dbr:Jazz
-Billy_Hart	Billy Hart	dbo:genre	dbr:Jazz
-Billy_Hart	Billy Hart	dbo:genre	dbr:Jazz_fusion
-Billy_Hart	Billy Hart	dbp:genre	dbr:Jazz
-Billy_Hart	Billy Hart	dbp:genre	dbr:Jazz_fusion
 School%27s_Out_(song)	School's Out (song)	dbo:genre	dbr:Crossover_thrash
 School%27s_Out_(song)	School's Out (song)	dbo:genre	dbr:Hip_hop_music
 School%27s_Out_(song)	School's Out (song)	dbo:genre	dbr:Hard_rock
@@ -3594,9 +3594,9 @@ So_What_(Miles_Davis_composition)	So What (Miles Davis composition)	dbp:genre	db
 Ken_Colyer	Ken Colyer	dbo:genre	dbr:Dixieland
 Ken_Colyer	Ken Colyer	dbp:genre	dbr:Dixieland
 Impressions_(instrumental_composition)	Impressions (instrumental composition)	dbo:genre	dbr:Jazz
-Jon_Ballantyne	Jon Ballantyne	dbp:genre	dbr:Jazz
 Hi_Fly_(Peter_King_album)	Hi Fly (Peter King album)	dbo:genre	dbr:Jazz
 Hi_Fly_(Peter_King_album)	Hi Fly (Peter King album)	dbp:genre	dbr:Jazz
+Jon_Ballantyne	Jon Ballantyne	dbp:genre	dbr:Jazz
 Bill_Evans_at_the_Montreux_Jazz_Festival	Bill Evans at the Montreux Jazz Festival	dbo:genre	dbr:Jazz
 Bill_Evans_at_the_Montreux_Jazz_Festival	Bill Evans at the Montreux Jazz Festival	dbp:genre	dbr:Jazz
 Machismo_(album)	Machismo (album)	dbo:genre	dbr:Funk
@@ -3644,6 +3644,13 @@ Bernard_Purdie	Bernard Purdie	dbp:genre	dbr:Soul_music
 Bernard_Purdie	Bernard Purdie	dbp:genre	dbr:Funk
 Bernard_Purdie	Bernard Purdie	dbp:genre	dbr:Rhythm_and_blues
 Bernard_Purdie	Bernard Purdie	dbp:genre	dbr:Rock_music
+Pink_Floyd	Pink Floyd	dbo:genre	dbr:Psychedelic_rock
+Pink_Floyd	Pink Floyd	dbo:genre	dbr:Art_rock
+Pink_Floyd	Pink Floyd	dbo:genre	dbr:Progressive_rock
+Pink_Floyd	Pink Floyd	dbp:genre	dbr:Psychedelic_rock
+Pink_Floyd	Pink Floyd	dbp:genre	dbr:Art_rock
+Pink_Floyd	Pink Floyd	dbp:genre	dbr:Progressive_rock
+Pink_Floyd	Pink Floyd	dbp:genre	 (en)
 Mike_Ratledge	Mike Ratledge	dbo:genre	dbr:New-age_music
 Mike_Ratledge	Mike Ratledge	dbo:genre	dbr:Free_jazz
 Mike_Ratledge	Mike Ratledge	dbo:genre	dbr:Jazz
@@ -3661,19 +3668,12 @@ Mike_Ratledge	Mike Ratledge	dbp:genre	dbr:Canterbury_scene
 Mike_Ratledge	Mike Ratledge	dbp:genre	dbr:Jazz_fusion
 Mike_Ratledge	Mike Ratledge	dbp:genre	dbr:Progressive_rock
 Tandyn_Almer	Tandyn Almer	dbp:genre	pop music (en)
-Pink_Floyd	Pink Floyd	dbo:genre	dbr:Psychedelic_rock
-Pink_Floyd	Pink Floyd	dbo:genre	dbr:Art_rock
-Pink_Floyd	Pink Floyd	dbo:genre	dbr:Progressive_rock
-Pink_Floyd	Pink Floyd	dbp:genre	dbr:Psychedelic_rock
-Pink_Floyd	Pink Floyd	dbp:genre	dbr:Art_rock
-Pink_Floyd	Pink Floyd	dbp:genre	dbr:Progressive_rock
-Pink_Floyd	Pink Floyd	dbp:genre	 (en)
+Visions_of_the_Emerald_Beyond	Visions of the Emerald Beyond	dbo:genre	dbr:Jazz_fusion
+Visions_of_the_Emerald_Beyond	Visions of the Emerald Beyond	dbp:genre	dbr:Jazz_fusion
 Counter_Culture_(album)	Counter Culture (album)	dbo:genre	dbr:Folk_music
 Counter_Culture_(album)	Counter Culture (album)	dbo:genre	dbr:Rock_music
 Counter_Culture_(album)	Counter Culture (album)	dbp:genre	dbr:Folk_music
 Counter_Culture_(album)	Counter Culture (album)	dbp:genre	dbr:Rock_music
-Visions_of_the_Emerald_Beyond	Visions of the Emerald Beyond	dbo:genre	dbr:Jazz_fusion
-Visions_of_the_Emerald_Beyond	Visions of the Emerald Beyond	dbp:genre	dbr:Jazz_fusion
 Meditations_(John_Coltrane_album)	Meditations (John Coltrane album)	dbo:genre	dbr:Avant-garde_jazz
 Meditations_(John_Coltrane_album)	Meditations (John Coltrane album)	dbo:genre	dbr:Modal_jazz
 Meditations_(John_Coltrane_album)	Meditations (John Coltrane album)	dbo:genre	dbr:Hard_bop
@@ -3683,11 +3683,11 @@ Meditations_(John_Coltrane_album)	Meditations (John Coltrane album)	dbp:genre	db
 Meditations_(John_Coltrane_album)	Meditations (John Coltrane album)	dbp:genre	dbr:Hard_bop
 Meditations_(John_Coltrane_album)	Meditations (John Coltrane album)	dbp:genre	dbr:Free_jazz
 Message_to_Love	Message to Love	dbp:genre	dbr:Rock_music
+Airegin	Airegin	dbo:genre	dbr:Jazz
 An_Introduction_to_.....	An Introduction to .....	dbo:genre	dbr:Folk_music
 An_Introduction_to_.....	An Introduction to .....	dbo:genre	dbr:Rock_music
 An_Introduction_to_.....	An Introduction to .....	dbp:genre	dbr:Folk_music
 An_Introduction_to_.....	An Introduction to .....	dbp:genre	dbr:Rock_music
-Airegin	Airegin	dbo:genre	dbr:Jazz
 Chico_Freeman	Chico Freeman	dbo:genre	dbr:Jazz
 Chico_Freeman	Chico Freeman	dbp:genre	dbr:Jazz
 Buddy_Collette	Buddy Collette	dbo:genre	dbr:West_Coast_jazz
@@ -3696,13 +3696,13 @@ Buddy_Collette	Buddy Collette	dbo:genre	dbr:West_Coast_blues
 Buddy_Collette	Buddy Collette	dbp:genre	dbr:West_Coast_jazz
 Buddy_Collette	Buddy Collette	dbp:genre	dbr:Cool_jazz
 Buddy_Collette	Buddy Collette	dbp:genre	dbr:West_Coast_blues
+Cantaloupe_Island	Cantaloupe Island	dbo:genre	dbr:Modal_jazz
+Cantaloupe_Island	Cantaloupe Island	dbo:genre	dbr:Jazz
+Cantaloupe_Island	Cantaloupe Island	dbp:genre	dbr:Modal_jazz
 If_(band)	If (band)	dbo:genre	dbr:Jazz_fusion
 If_(band)	If (band)	dbo:genre	dbr:Progressive_rock
 If_(band)	If (band)	dbp:genre	dbr:Jazz_fusion
 If_(band)	If (band)	dbp:genre	dbr:Progressive_rock
-Cantaloupe_Island	Cantaloupe Island	dbo:genre	dbr:Modal_jazz
-Cantaloupe_Island	Cantaloupe Island	dbo:genre	dbr:Jazz
-Cantaloupe_Island	Cantaloupe Island	dbp:genre	dbr:Modal_jazz
 In_Memory_of_Elizabeth_Reed	In Memory of Elizabeth Reed	dbo:genre	dbr:Jam_band
 In_Memory_of_Elizabeth_Reed	In Memory of Elizabeth Reed	dbo:genre	dbr:Instrumental_rock
 In_Memory_of_Elizabeth_Reed	In Memory of Elizabeth Reed	dbo:genre	dbr:Jazz_fusion
@@ -3825,15 +3825,15 @@ Omar_Sosa	Omar Sosa	dbo:genre	dbr:Afro-Cuban
 Omar_Sosa	Omar Sosa	dbo:genre	dbr:Jazz
 Omar_Sosa	Omar Sosa	dbp:genre	dbr:Afro-Cuban
 Omar_Sosa	Omar Sosa	dbp:genre	dbr:Jazz
+Ascenseur_pour_l%27%C3%A9chafaud_(soundtrack)	Ascenseur pour l'échafaud (soundtrack)	dbo:genre	dbr:Modal_jazz
+Ascenseur_pour_l%27%C3%A9chafaud_(soundtrack)	Ascenseur pour l'échafaud (soundtrack)	dbo:genre	dbr:Cool_jazz
+Ascenseur_pour_l%27%C3%A9chafaud_(soundtrack)	Ascenseur pour l'échafaud (soundtrack)	dbp:genre	Modal jazz, cool jazz (en)
 East-West_(The_Butterfield_Blues_Band_album)	East-West (The Butterfield Blues Band album)	dbo:genre	dbr:Acid_rock
 East-West_(The_Butterfield_Blues_Band_album)	East-West (The Butterfield Blues Band album)	dbo:genre	dbr:Blues
 East-West_(The_Butterfield_Blues_Band_album)	East-West (The Butterfield Blues Band album)	dbo:genre	dbr:Jazz_fusion
 East-West_(The_Butterfield_Blues_Band_album)	East-West (The Butterfield Blues Band album)	dbp:genre	dbr:Acid_rock
 East-West_(The_Butterfield_Blues_Band_album)	East-West (The Butterfield Blues Band album)	dbp:genre	dbr:Blues
 East-West_(The_Butterfield_Blues_Band_album)	East-West (The Butterfield Blues Band album)	dbp:genre	dbr:Jazz_fusion
-Ascenseur_pour_l%27%C3%A9chafaud_(soundtrack)	Ascenseur pour l'échafaud (soundtrack)	dbo:genre	dbr:Modal_jazz
-Ascenseur_pour_l%27%C3%A9chafaud_(soundtrack)	Ascenseur pour l'échafaud (soundtrack)	dbo:genre	dbr:Cool_jazz
-Ascenseur_pour_l%27%C3%A9chafaud_(soundtrack)	Ascenseur pour l'échafaud (soundtrack)	dbp:genre	Modal jazz, cool jazz (en)
 Tales_(album)	Tales (album)	dbo:genre	dbr:Jazz_fusion
 Tales_(album)	Tales (album)	dbp:genre	dbr:Jazz_fusion
 Chris_Burnett	Chris Burnett	dbo:genre	dbr:Bossa_nova
@@ -3993,6 +3993,7 @@ Well,_You_Needn%27t	Well, You Needn't	dbo:genre	dbr:Jazz
 Footprints_(composition)	Footprints (composition)	dbo:genre	dbr:Jazz
 Marc_Antoine_(musician)	Marc Antoine (musician)	dbo:genre	dbr:Smooth_jazz
 Marc_Antoine_(musician)	Marc Antoine (musician)	dbp:genre	dbr:Smooth_jazz
+Post-bop	Post-bop	is dbo:musicSubgenre of	dbr:Jazz
 Coltrane%27s_Sound	Coltrane's Sound	dbo:genre	dbr:Jazz
 Coltrane%27s_Sound	Coltrane's Sound	dbp:genre	dbr:Jazz
 I_Ain%27t_Mad_at_Cha	I Ain't Mad at Cha	dbo:genre	dbr:Political_hip_hop
@@ -4002,7 +4003,6 @@ I_Ain%27t_Mad_at_Cha	I Ain't Mad at Cha	dbp:genre	dbr:Political_hip_hop
 I_Ain%27t_Mad_at_Cha	I Ain't Mad at Cha	dbp:genre	dbr:Funk
 I_Ain%27t_Mad_at_Cha	I Ain't Mad at Cha	dbp:genre	dbr:Hardcore_hip_hop
 Miles_%26_Monk_at_Newport	Miles & Monk at Newport	dbp:genre	Jazz (en)
-Post-bop	Post-bop	is dbo:musicSubgenre of	dbr:Jazz
 Lonesome,_On%27ry_and_Mean	Lonesome, On'ry and Mean	dbo:genre	dbr:Outlaw_country
 Lonesome,_On%27ry_and_Mean	Lonesome, On'ry and Mean	dbo:genre	dbr:Country_music
 Lonesome,_On%27ry_and_Mean	Lonesome, On'ry and Mean	dbp:genre	dbr:Outlaw_country
@@ -4027,6 +4027,7 @@ A_Go_Go_(John_Scofield_album)	A Go Go (John Scofield album)	dbo:genre	dbr:Jazz_f
 A_Go_Go_(John_Scofield_album)	A Go Go (John Scofield album)	dbp:genre	dbr:Jam_band
 A_Go_Go_(John_Scofield_album)	A Go Go (John Scofield album)	dbp:genre	dbr:Jazz-funk
 A_Go_Go_(John_Scofield_album)	A Go Go (John Scofield album)	dbp:genre	dbr:Jazz_fusion
+The_Squirrel	The Squirrel	dbo:genre	dbr:Jazz
 Electric_Tears	Electric Tears	dbo:genre	dbr:Experimental_music
 Electric_Tears	Electric Tears	dbo:genre	dbr:Acoustic_music
 Electric_Tears	Electric Tears	dbo:genre	dbr:Alternative_rock
@@ -4035,7 +4036,6 @@ Electric_Tears	Electric Tears	dbp:genre	dbr:Experimental_music
 Electric_Tears	Electric Tears	dbp:genre	dbr:Acoustic_music
 Electric_Tears	Electric Tears	dbp:genre	dbr:Alternative_rock
 Electric_Tears	Electric Tears	dbp:genre	dbr:Ambient_music
-The_Squirrel	The Squirrel	dbo:genre	dbr:Jazz
 Damp_(Norwegian_band)	Damp (Norwegian band)	dbo:genre	dbr:Noise_rock
 Damp_(Norwegian_band)	Damp (Norwegian band)	dbo:genre	dbr:Jazz
 Damp_(Norwegian_band)	Damp (Norwegian band)	dbo:genre	dbr:Rock_music
@@ -4353,13 +4353,13 @@ John_Beasley_(musician)	John Beasley (musician)	dbp:genre	dbr:Rock_music
 John_Beasley_(musician)	John Beasley (musician)	dbp:genre	dbr:Music_of_Latin_America
 The_Complete_1957_Riverside_Recordings	The Complete 1957 Riverside Recordings	dbo:genre	dbr:Hard_bop
 The_Complete_1957_Riverside_Recordings	The Complete 1957 Riverside Recordings	dbp:genre	dbr:Hard_bop
+Forecast:_Tomorrow	Forecast: Tomorrow	dbo:genre	dbr:Jazz_fusion
+Forecast:_Tomorrow	Forecast: Tomorrow	dbp:genre	dbr:Jazz_fusion
 Either/Orchestra	Either/Orchestra	dbo:genre	dbr:Avant-garde_jazz
 Either/Orchestra	Either/Orchestra	dbo:genre	dbr:Ethiopia
 Either/Orchestra	Either/Orchestra	dbo:genre	dbr:Jazz
 Either/Orchestra	Either/Orchestra	dbo:genre	dbr:Latin_music_(genre)
 Either/Orchestra	Either/Orchestra	dbp:genre	Jazz, Latin, Ethiopian, Avant-garde jazz (en)
-Forecast:_Tomorrow	Forecast: Tomorrow	dbo:genre	dbr:Jazz_fusion
-Forecast:_Tomorrow	Forecast: Tomorrow	dbp:genre	dbr:Jazz_fusion
 Steve_Williams_(jazz_drummer)	Steve Williams (jazz drummer)	dbo:genre	dbr:Jazz
 Steve_Williams_(jazz_drummer)	Steve Williams (jazz drummer)	dbp:genre	dbr:Jazz
 Mino_Cinelu	Mino Cinelu	dbo:genre	dbr:Blues
@@ -4373,9 +4373,9 @@ Mino_Cinelu	Mino Cinelu	dbp:genre	dbr:Rock_and_roll
 Mino_Cinelu	Mino Cinelu	dbp:genre	dbr:African_popular_music
 Mino_Cinelu	Mino Cinelu	dbp:genre	dbr:Jazz_fusion
 Doxy_(song)	Doxy (song)	dbo:genre	dbr:Jazz
-Ponga_(band)	Ponga (band)	dbp:genre	Free-improvisation, Jazz (en)
 Sean_Jones_(trumpeter)	Sean Jones (trumpeter)	dbo:genre	dbr:Jazz
 Sean_Jones_(trumpeter)	Sean Jones (trumpeter)	dbp:genre	dbr:Jazz
+Ponga_(band)	Ponga (band)	dbp:genre	Free-improvisation, Jazz (en)
 Reed_Mathis	Reed Mathis	dbo:genre	dbr:Jam_band
 Reed_Mathis	Reed Mathis	dbo:genre	dbr:Jazz
 Reed_Mathis	Reed Mathis	dbo:genre	dbr:Rock_music
@@ -4406,18 +4406,18 @@ Everybody_Digs_Bill_Evans	Everybody Digs Bill Evans	dbo:genre	dbr:Jazz
 Everybody_Digs_Bill_Evans	Everybody Digs Bill Evans	dbp:genre	dbr:Jazz
 Dakar_(album)	Dakar (album)	dbo:genre	dbr:Hard_bop
 Dakar_(album)	Dakar (album)	dbp:genre	dbr:Hard_bop
-Coltrane_(1957_album)	Coltrane (1957 album)	dbo:genre	dbr:Hard_bop
-Coltrane_(1957_album)	Coltrane (1957 album)	dbp:genre	dbr:Hard_bop
 Lush_Life_(John_Coltrane_album)	Lush Life (John Coltrane album)	dbo:genre	dbr:Jazz
 Lush_Life_(John_Coltrane_album)	Lush Life (John Coltrane album)	dbp:genre	dbr:Jazz
+Coltrane_(1957_album)	Coltrane (1957 album)	dbo:genre	dbr:Hard_bop
+Coltrane_(1957_album)	Coltrane (1957 album)	dbp:genre	dbr:Hard_bop
 The_Last_Trane	The Last Trane	dbo:genre	dbr:Jazz
 The_Last_Trane	The Last Trane	dbp:genre	dbr:Jazz
-The_Believer_(John_Coltrane_album)	The Believer (John Coltrane album)	dbo:genre	dbr:Jazz
-The_Believer_(John_Coltrane_album)	The Believer (John Coltrane album)	dbp:genre	dbr:Jazz
 Settin%27_the_Pace	Settin' the Pace	dbo:genre	dbr:Hard_bop
 Settin%27_the_Pace	Settin' the Pace	dbo:genre	dbr:Jazz
 Settin%27_the_Pace	Settin' the Pace	dbp:genre	dbr:Hard_bop
 Settin%27_the_Pace	Settin' the Pace	dbp:genre	dbr:Jazz
+The_Believer_(John_Coltrane_album)	The Believer (John Coltrane album)	dbo:genre	dbr:Jazz
+The_Believer_(John_Coltrane_album)	The Believer (John Coltrane album)	dbp:genre	dbr:Jazz
 Black_Pearls	Black Pearls	dbo:genre	dbr:Jazz
 Black_Pearls	Black Pearls	dbp:genre	dbr:Jazz
 Bahia_(album)	Bahia (album)	dbo:genre	dbr:Hard_bop
@@ -4442,20 +4442,20 @@ Like_Sonny	Like Sonny	dbo:genre	dbr:Hard_bop
 Like_Sonny	Like Sonny	dbo:genre	dbr:Jazz
 Like_Sonny	Like Sonny	dbp:genre	dbr:Hard_bop
 Like_Sonny	Like Sonny	dbp:genre	dbr:Jazz
-Duke_Ellington_%26_John_Coltrane	Duke Ellington & John Coltrane	dbo:genre	dbr:Jazz
-Duke_Ellington_%26_John_Coltrane	Duke Ellington & John Coltrane	dbp:genre	Jazz (en)
 Coltrane_(1962_album)	Coltrane (1962 album)	dbo:genre	dbr:Modal_jazz
 Coltrane_(1962_album)	Coltrane (1962 album)	dbp:genre	dbr:Modal_jazz
+Duke_Ellington_%26_John_Coltrane	Duke Ellington & John Coltrane	dbo:genre	dbr:Jazz
+Duke_Ellington_%26_John_Coltrane	Duke Ellington & John Coltrane	dbp:genre	Jazz (en)
 The_Major_Works_of_John_Coltrane	The Major Works of John Coltrane	dbo:genre	dbr:Jazz
 The_Major_Works_of_John_Coltrane	The Major Works of John Coltrane	dbp:genre	dbr:Jazz
+Quiet_(album)	Quiet (album)	dbo:genre	dbr:Jazz
+Quiet_(album)	Quiet (album)	dbp:genre	dbr:Jazz
 The_Ultimate_Adventure	The Ultimate Adventure	dbo:genre	dbr:Jazz
 The_Ultimate_Adventure	The Ultimate Adventure	dbo:genre	dbr:World_music
 The_Ultimate_Adventure	The Ultimate Adventure	dbo:genre	dbr:Jazz_fusion
 The_Ultimate_Adventure	The Ultimate Adventure	dbp:genre	dbr:Jazz
 The_Ultimate_Adventure	The Ultimate Adventure	dbp:genre	dbr:World_music
 The_Ultimate_Adventure	The Ultimate Adventure	dbp:genre	dbr:Jazz_fusion
-Quiet_(album)	Quiet (album)	dbo:genre	dbr:Jazz
-Quiet_(album)	Quiet (album)	dbp:genre	dbr:Jazz
 Groove_Elation	Groove Elation	dbo:genre	dbr:Jazz-funk
 Groove_Elation	Groove Elation	dbo:genre	dbr:Soul_jazz
 Groove_Elation	Groove Elation	dbo:genre	dbr:Jazz
@@ -4495,6 +4495,10 @@ Blue_Matter	Blue Matter	dbo:genre	dbr:Post-bop
 Blue_Matter	Blue Matter	dbp:genre	dbr:Post-bop
 Meant_to_Be_(John_Scofield_album)	Meant to Be (John Scofield album)	dbo:genre	dbr:Jazz
 Meant_to_Be_(John_Scofield_album)	Meant to Be (John Scofield album)	dbp:genre	dbr:Jazz
+Robert_Irving_III	Robert Irving III	dbo:genre	dbr:Jazz
+Robert_Irving_III	Robert Irving III	dbo:genre	dbr:Rhythm_and_blues
+Robert_Irving_III	Robert Irving III	dbp:genre	dbr:Jazz
+Robert_Irving_III	Robert Irving III	dbp:genre	dbr:Rhythm_and_blues
 Bobby_Rosengarden	Bobby Rosengarden	dbo:genre	dbr:Big_band
 Bobby_Rosengarden	Bobby Rosengarden	dbo:genre	dbr:Swing_music
 Bobby_Rosengarden	Bobby Rosengarden	dbp:genre	dbr:Big_band
@@ -4503,10 +4507,6 @@ Time_on_My_Hands_(album)	Time on My Hands (album)	dbo:genre	dbr:Post-bop
 Time_on_My_Hands_(album)	Time on My Hands (album)	dbo:genre	dbr:Jazz
 Time_on_My_Hands_(album)	Time on My Hands (album)	dbp:genre	dbr:Post-bop
 Time_on_My_Hands_(album)	Time on My Hands (album)	dbp:genre	dbr:Jazz
-Robert_Irving_III	Robert Irving III	dbo:genre	dbr:Jazz
-Robert_Irving_III	Robert Irving III	dbo:genre	dbr:Rhythm_and_blues
-Robert_Irving_III	Robert Irving III	dbp:genre	dbr:Jazz
-Robert_Irving_III	Robert Irving III	dbp:genre	dbr:Rhythm_and_blues
 Hassan_Hakmoun	Hassan Hakmoun	dbo:genre	dbr:Gnawa_music
 Hassan_Hakmoun	Hassan Hakmoun	dbo:genre	dbr:World_music
 Hassan_Hakmoun	Hassan Hakmoun	dbp:genre	dbr:Gnawa_music
@@ -4557,12 +4557,12 @@ Jazz_Way_Out	Jazz Way Out	dbo:genre	dbr:Jazz
 Jazz_Way_Out	Jazz Way Out	dbp:genre	dbr:Jazz
 Countdown:_The_Savoy_Sessions	Countdown: The Savoy Sessions	dbo:genre	dbr:Jazz
 Countdown:_The_Savoy_Sessions	Countdown: The Savoy Sessions	dbp:genre	dbr:Jazz
-Dial_Africa:_The_Savoy_Sessions	Dial Africa: The Savoy Sessions	dbo:genre	dbr:Jazz
-Dial_Africa:_The_Savoy_Sessions	Dial Africa: The Savoy Sessions	dbp:genre	dbr:Jazz
 Gold_Coast_(album)	Gold Coast (album)	dbo:genre	dbr:Jazz
 Gold_Coast_(album)	Gold Coast (album)	dbp:genre	dbr:Jazz
 Tanganyika_Strut	Tanganyika Strut	dbo:genre	dbr:Jazz
 Tanganyika_Strut	Tanganyika Strut	dbp:genre	dbr:Jazz
+Dial_Africa:_The_Savoy_Sessions	Dial Africa: The Savoy Sessions	dbo:genre	dbr:Jazz
+Dial_Africa:_The_Savoy_Sessions	Dial Africa: The Savoy Sessions	dbp:genre	dbr:Jazz
 Best_of_John_Scofield	Best of John Scofield	dbo:genre	dbr:Post-bop
 Best_of_John_Scofield	Best of John Scofield	dbp:genre	dbr:Post-bop
 Osama_Afifi	Osama Afifi	dbo:genre	dbr:Jazz
@@ -4581,6 +4581,8 @@ Scorched_(album)	Scorched (album)	dbp:genre	dbr:Jazz
 Scorched_(album)	Scorched (album)	dbp:genre	dbr:Third_stream
 KinKi_Kids	KinKi Kids	dbo:genre	dbr:Pop_music
 KinKi_Kids	KinKi Kids	dbp:genre	dbr:Pop_music
+Jimmy_Owens_(musician)	Jimmy Owens (musician)	dbo:genre	dbr:Jazz
+Jimmy_Owens_(musician)	Jimmy Owens (musician)	dbp:genre	dbr:Jazz
 C-Note_(album)	C-Note (album)	dbo:genre	dbr:Concert
 C-Note_(album)	C-Note (album)	dbo:genre	dbr:Funk
 C-Note_(album)	C-Note (album)	dbo:genre	dbr:Instrumental
@@ -4589,8 +4591,6 @@ C-Note_(album)	C-Note (album)	dbp:genre	dbr:Concert
 C-Note_(album)	C-Note (album)	dbp:genre	dbr:Funk
 C-Note_(album)	C-Note (album)	dbp:genre	dbr:Instrumental
 C-Note_(album)	C-Note (album)	dbp:genre	dbr:Jazz
-Jimmy_Owens_(musician)	Jimmy Owens (musician)	dbo:genre	dbr:Jazz
-Jimmy_Owens_(musician)	Jimmy Owens (musician)	dbp:genre	dbr:Jazz
 Expectations_(Keith_Jarrett_album)	Expectations (Keith Jarrett album)	dbo:genre	dbr:Jazz
 Expectations_(Keith_Jarrett_album)	Expectations (Keith Jarrett album)	dbp:genre	dbr:Jazz
 A_Funky_Thide_of_Sings	A Funky Thide of Sings	dbo:genre	dbr:Jazz-funk
@@ -4798,12 +4798,12 @@ Prince_Interactive	Prince Interactive	dbo:genre	dbr:Adventure_game
 Prince_Interactive	Prince Interactive	dbo:genre	dbr:Puzzle_video_game
 Prince_Interactive	Prince Interactive	dbp:genre	dbr:Adventure_game
 Prince_Interactive	Prince Interactive	dbp:genre	dbr:Puzzle_video_game
+The_Essential_Santana	The Essential Santana	dbo:genre	dbr:Rock_music
+The_Essential_Santana	The Essential Santana	dbp:genre	dbr:Rock_music
 Bill_Douglas_(musician)	Bill Douglas (musician)	dbo:genre	dbr:New-age_music
 Bill_Douglas_(musician)	Bill Douglas (musician)	dbo:genre	dbr:Jazz
 Bill_Douglas_(musician)	Bill Douglas (musician)	dbp:genre	dbr:New-age_music
 Bill_Douglas_(musician)	Bill Douglas (musician)	dbp:genre	dbr:Jazz
-The_Essential_Santana	The Essential Santana	dbo:genre	dbr:Rock_music
-The_Essential_Santana	The Essential Santana	dbp:genre	dbr:Rock_music
 The_Complete_Columbia_Recordings_of_Miles_Davis_with_John_Coltrane	The Complete Columbia Recordings of Miles Davis with John Coltrane	dbo:genre	dbr:Jazz
 The_Complete_Columbia_Recordings_of_Miles_Davis_with_John_Coltrane	The Complete Columbia Recordings of Miles Davis with John Coltrane	dbp:genre	dbr:Jazz
 Circle_in_the_Round	Circle in the Round	dbo:genre	dbr:Hard_bop
@@ -4946,6 +4946,8 @@ In_Concert_(Miles_Davis_album)	In Concert (Miles Davis album)	dbo:genre	dbr:Jazz
 In_Concert_(Miles_Davis_album)	In Concert (Miles Davis album)	dbo:genre	dbr:Jazz_fusion
 In_Concert_(Miles_Davis_album)	In Concert (Miles Davis album)	dbp:genre	dbr:Jazz-funk
 In_Concert_(Miles_Davis_album)	In Concert (Miles Davis album)	dbp:genre	dbr:Jazz_fusion
+Free_(Marcus_Miller_album)	Free (Marcus Miller album)	dbo:genre	dbr:Jazz_fusion
+Free_(Marcus_Miller_album)	Free (Marcus Miller album)	dbp:genre	dbr:Jazz_fusion
 Grand_Theft_Auto_IV_soundtrack	Grand Theft Auto IV soundtrack	dbo:genre	dbr:Action-adventure_game
 Grand_Theft_Auto_IV_soundtrack	Grand Theft Auto IV soundtrack	dbp:genre	dbr:Disco
 Grand_Theft_Auto_IV_soundtrack	Grand Theft Auto IV soundtrack	dbp:genre	dbr:Russian_hip_hop
@@ -4959,8 +4961,6 @@ Grand_Theft_Auto_IV_soundtrack	Grand Theft Auto IV soundtrack	dbp:genre	dbr:Rhyt
 Grand_Theft_Auto_IV_soundtrack	Grand Theft Auto IV soundtrack	dbp:genre	dbr:Alternative_rock
 Grand_Theft_Auto_IV_soundtrack	Grand Theft Auto IV soundtrack	dbp:genre	dbr:Ambient_music
 Grand_Theft_Auto_IV_soundtrack	Grand Theft Auto IV soundtrack	dbp:genre	dbr:Jazz_fusion
-Free_(Marcus_Miller_album)	Free (Marcus Miller album)	dbo:genre	dbr:Jazz_fusion
-Free_(Marcus_Miller_album)	Free (Marcus Miller album)	dbp:genre	dbr:Jazz_fusion
 Grasshopper_(musician)	Grasshopper (musician)	dbo:genre	dbr:Alternative_rock
 Grasshopper_(musician)	Grasshopper (musician)	dbp:genre	dbr:Alternative_rock
 Bob_Belden	Bob Belden	dbo:genre	dbr:Big_band
@@ -5025,6 +5025,10 @@ Clarence_Horatius_Miller	Clarence Horatius Miller	dbp:genre	dbr:Jump_blues
 Clarence_Horatius_Miller	Clarence Horatius Miller	dbp:genre	dbr:Blues
 Monster_(Herbie_Hancock_album)	Monster (Herbie Hancock album)	dbo:genre	dbr:Jazz_fusion
 Monster_(Herbie_Hancock_album)	Monster (Herbie Hancock album)	dbp:genre	dbr:Jazz_fusion
+Water_Babies_(album)	Water Babies (album)	dbo:genre	dbr:Post-bop
+Water_Babies_(album)	Water Babies (album)	dbo:genre	dbr:Jazz_fusion
+Water_Babies_(album)	Water Babies (album)	dbp:genre	dbr:Post-bop
+Water_Babies_(album)	Water Babies (album)	dbp:genre	dbr:Jazz_fusion
 Dennis_Rea	Dennis Rea	dbo:genre	dbr:Experimental_rock
 Dennis_Rea	Dennis Rea	dbo:genre	dbr:Jazz
 Dennis_Rea	Dennis Rea	dbo:genre	dbr:Art_rock
@@ -5039,12 +5043,6 @@ Dennis_Rea	Dennis Rea	dbp:genre	dbr:World_music
 Dennis_Rea	Dennis Rea	dbp:genre	dbr:Ambient_music
 Dennis_Rea	Dennis Rea	dbp:genre	dbr:Electronic_music
 Dennis_Rea	Dennis Rea	dbp:genre	dbr:Progressive_rock
-Live_Under_the_Sky	Live Under the Sky	dbo:genre	dbr:Jazz
-Live_Under_the_Sky	Live Under the Sky	dbp:genre	dbr:Jazz
-Water_Babies_(album)	Water Babies (album)	dbo:genre	dbr:Post-bop
-Water_Babies_(album)	Water Babies (album)	dbo:genre	dbr:Jazz_fusion
-Water_Babies_(album)	Water Babies (album)	dbp:genre	dbr:Post-bop
-Water_Babies_(album)	Water Babies (album)	dbp:genre	dbr:Jazz_fusion
 Schaefer_Music_Festival	Schaefer Music Festival	dbp:genre	Rock and folk, including blues rock, folk rock, jazz-rock, Latin rock and reggae. (en)
 Dark_Magus	Dark Magus	dbo:genre	dbr:Jazz_fusion
 Dark_Magus	Dark Magus	dbp:genre	dbr:Jazz_fusion
@@ -5068,6 +5066,8 @@ Newk%27s_Time	Newk's Time	dbo:genre	dbr:Bebop
 Newk%27s_Time	Newk's Time	dbp:genre	dbr:Hard_bop
 Newk%27s_Time	Newk's Time	dbp:genre	dbr:Bebop
 Bird_Gets_the_Worm	Bird Gets the Worm	dbo:genre	dbr:Jazz
+Live_Under_the_Sky	Live Under the Sky	dbo:genre	dbr:Jazz
+Live_Under_the_Sky	Live Under the Sky	dbp:genre	dbr:Jazz
 The_Closer_I_Get_to_You	The Closer I Get to You	dbo:genre	dbr:Soul_music
 The_Closer_I_Get_to_You	The Closer I Get to You	dbo:genre	dbr:Contemporary_R&B
 The_Closer_I_Get_to_You	The Closer I Get to You	dbp:genre	dbr:Soul_music
@@ -5337,14 +5337,14 @@ Voyage_(Chick_Corea_album)	Voyage (Chick Corea album)	dbp:genre	dbr:Post-bop
 Voyage_(Chick_Corea_album)	Voyage (Chick Corea album)	dbp:genre	dbr:Jazz
 Echoes_of_an_Era	Echoes of an Era	dbo:genre	dbr:Jazz
 Echoes_of_an_Era	Echoes of an Era	dbp:genre	dbr:Jazz
+CK_(album)	CK (album)	dbo:genre	dbr:Rhythm_and_blues
+CK_(album)	CK (album)	dbp:genre	dbr:Rhythm_and_blues
 Trisno	Trisno	dbo:genre	dbr:Blues
 Trisno	Trisno	dbo:genre	dbr:Jazz
 Trisno	Trisno	dbo:genre	dbr:Rhythm_and_blues
 Trisno	Trisno	dbp:genre	dbr:Blues
 Trisno	Trisno	dbp:genre	dbr:Jazz
 Trisno	Trisno	dbp:genre	dbr:Rhythm_and_blues
-CK_(album)	CK (album)	dbo:genre	dbr:Rhythm_and_blues
-CK_(album)	CK (album)	dbp:genre	dbr:Rhythm_and_blues
 The_Woman_I_Am	The Woman I Am	dbo:genre	dbr:Soul_music
 The_Woman_I_Am	The Woman I Am	dbo:genre	dbr:Funk
 The_Woman_I_Am	The Woman I Am	dbo:genre	dbr:Rhythm_and_blues
@@ -5449,6 +5449,8 @@ Bill_Frisell,_Ron_Carter,_Paul_Motian	Bill Frisell, Ron Carter, Paul Motian	dbp:
 Bill_Frisell,_Ron_Carter,_Paul_Motian	Bill Frisell, Ron Carter, Paul Motian	dbp:genre	dbr:Americana_(music)
 Collectors%27_Items	Collectors' Items	dbo:genre	dbr:Jazz
 Collectors%27_Items	Collectors' Items	dbp:genre	dbr:Jazz
+The_Straight_Horn_of_Steve_Lacy	The Straight Horn of Steve Lacy	dbo:genre	dbr:Jazz
+The_Straight_Horn_of_Steve_Lacy	The Straight Horn of Steve Lacy	dbp:genre	dbr:Jazz
 Richard_Wright_(musician)	Richard Wright (musician)	dbo:genre	dbr:Experimental_rock
 Richard_Wright_(musician)	Richard Wright (musician)	dbo:genre	dbr:Jazz
 Richard_Wright_(musician)	Richard Wright (musician)	dbo:genre	dbr:Psychedelic_rock
@@ -5461,8 +5463,6 @@ Richard_Wright_(musician)	Richard Wright (musician)	dbp:genre	dbr:Psychedelic_ro
 Richard_Wright_(musician)	Richard Wright (musician)	dbp:genre	dbr:Art_rock
 Richard_Wright_(musician)	Richard Wright (musician)	dbp:genre	dbr:Electronic_music
 Richard_Wright_(musician)	Richard Wright (musician)	dbp:genre	dbr:Progressive_rock
-The_Straight_Horn_of_Steve_Lacy	The Straight Horn of Steve Lacy	dbo:genre	dbr:Jazz
-The_Straight_Horn_of_Steve_Lacy	The Straight Horn of Steve Lacy	dbp:genre	dbr:Jazz
 Jazz_at_the_Plaza_Vol._I	Jazz at the Plaza Vol. I	dbo:genre	dbr:Hard_bop
 Jazz_at_the_Plaza_Vol._I	Jazz at the Plaza Vol. I	dbp:genre	dbr:Hard_bop
 Sunrise_in_Different_Dimensions	Sunrise in Different Dimensions	dbo:genre	dbr:Jazz
@@ -5510,12 +5510,10 @@ Electric_Dreams_(John_McLaughlin_album)	Electric Dreams (John McLaughlin album)	
 Electric_Dreams_(John_McLaughlin_album)	Electric Dreams (John McLaughlin album)	dbp:genre	dbr:Jazz_fusion
 At_Newport_1958	At Newport 1958	dbo:genre	dbr:Jazz
 At_Newport_1958	At Newport 1958	dbp:genre	dbr:Jazz
-John_Bernard_Riley	John Bernard Riley	dbo:genre	dbr:Jazz
-John_Bernard_Riley	John Bernard Riley	dbp:genre	dbr:Jazz
-Convergence_(Dave_Douglas_album)	Convergence (Dave Douglas album)	dbo:genre	dbr:Jazz
-Convergence_(Dave_Douglas_album)	Convergence (Dave Douglas album)	dbp:genre	dbr:Jazz
 Strange_Liberation	Strange Liberation	dbo:genre	dbr:Jazz
 Strange_Liberation	Strange Liberation	dbp:genre	dbr:Jazz
+John_Bernard_Riley	John Bernard Riley	dbo:genre	dbr:Jazz
+John_Bernard_Riley	John Bernard Riley	dbp:genre	dbr:Jazz
 CoreaHancock	CoreaHancock	dbo:genre	dbr:Jazz
 CoreaHancock	CoreaHancock	dbp:genre	dbr:Jazz
 Keystone_(album)	Keystone (album)	dbo:genre	dbr:Jazz
@@ -5526,6 +5524,8 @@ Electric_Guitarist	Electric Guitarist	dbp:genre	dbr:Jazz
 Electric_Guitarist	Electric Guitarist	dbp:genre	dbr:Jazz_fusion
 Of_Love_and_Peace	Of Love and Peace	dbo:genre	dbr:Jazz
 Of_Love_and_Peace	Of Love and Peace	dbp:genre	dbr:Jazz
+Convergence_(Dave_Douglas_album)	Convergence (Dave Douglas album)	dbo:genre	dbr:Jazz
+Convergence_(Dave_Douglas_album)	Convergence (Dave Douglas album)	dbp:genre	dbr:Jazz
 Moto_Grosso_Feio	Moto Grosso Feio	dbo:genre	dbr:Jazz
 Moto_Grosso_Feio	Moto Grosso Feio	dbp:genre	dbr:Jazz
 The_Fabulous_Chi-Ali	The Fabulous Chi-Ali	dbo:genre	dbr:Hip_hop_music
@@ -5598,18 +5598,6 @@ From_Left_to_Right	From Left to Right	dbo:genre	dbr:Jazz
 From_Left_to_Right	From Left to Right	dbp:genre	dbr:Jazz
 Intuition_(Bill_Evans_album)	Intuition (Bill Evans album)	dbo:genre	dbr:Jazz
 Intuition_(Bill_Evans_album)	Intuition (Bill Evans album)	dbp:genre	dbr:Jazz
-Waltz_for_Debby_(1964_album)	Waltz for Debby (1964 album)	dbo:genre	dbr:Vocal_jazz
-Waltz_for_Debby_(1964_album)	Waltz for Debby (1964 album)	dbp:genre	dbr:Vocal_jazz
-Round_Midnight_(soundtrack)	Round Midnight (soundtrack)	dbo:genre	dbr:Jazz
-Round_Midnight_(soundtrack)	Round Midnight (soundtrack)	dbp:genre	dbr:Jazz
-A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbo:genre	dbr:Experimental_music
-A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbo:genre	dbr:Ambient_music
-A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbo:genre	dbr:Electronica
-A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbo:genre	dbr:Progressive_rock
-A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbp:genre	dbr:Experimental_music
-A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbp:genre	dbr:Ambient_music
-A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbp:genre	dbr:Electronica
-A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbp:genre	dbr:Progressive_rock
 Brian_Eno	Brian Eno	dbo:genre	dbr:Experimental_rock
 Brian_Eno	Brian Eno	dbo:genre	dbr:Minimal_music
 Brian_Eno	Brian Eno	dbo:genre	dbr:Art_rock
@@ -5623,6 +5611,18 @@ Brian_Eno	Brian Eno	dbp:genre	dbr:Ambient_music
 Brian_Eno	Brian Eno	dbp:genre	dbr:Electronic_music
 Brian_Eno	Brian Eno	dbp:genre	dbr:Glam_rock
 Brian_Eno	Brian Eno	dbp:genre	 (en)
+Waltz_for_Debby_(1964_album)	Waltz for Debby (1964 album)	dbo:genre	dbr:Vocal_jazz
+Waltz_for_Debby_(1964_album)	Waltz for Debby (1964 album)	dbp:genre	dbr:Vocal_jazz
+Round_Midnight_(soundtrack)	Round Midnight (soundtrack)	dbo:genre	dbr:Jazz
+Round_Midnight_(soundtrack)	Round Midnight (soundtrack)	dbp:genre	dbr:Jazz
+A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbo:genre	dbr:Experimental_music
+A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbo:genre	dbr:Ambient_music
+A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbo:genre	dbr:Electronica
+A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbo:genre	dbr:Progressive_rock
+A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbp:genre	dbr:Experimental_music
+A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbp:genre	dbr:Ambient_music
+A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbp:genre	dbr:Electronica
+A_Monstrous_Psychedelic_Bubble_Exploding_in_Your_Mind:_Volume_1	A Monstrous Psychedelic Bubble Exploding in Your Mind: Volume 1	dbp:genre	dbr:Progressive_rock
 The_Best_Smooth_Jazz..._Ever!	The Best Smooth Jazz... Ever!	dbo:genre	dbr:Jazz
 The_Best_Smooth_Jazz..._Ever!	The Best Smooth Jazz... Ever!	dbp:genre	dbr:Jazz
 The_Soul_of_John_Black	The Soul of John Black	dbo:genre	dbr:Soul_music
@@ -5650,10 +5650,10 @@ Four_%26_More	Four & More	dbo:genre	dbr:Jazz
 Curtis_Clark	Curtis Clark	dbo:genre	dbr:Jazz
 Curtis_Clark	Curtis Clark	dbp:genre	dbr:Jazz
 Oscar_and_Lucinda_(film)	Oscar and Lucinda (film)	dbp:genre	dbr:Contemporary_classical_music
-The_Kicker_(Joe_Henderson_album)	The Kicker (Joe Henderson album)	dbo:genre	dbr:Jazz
-The_Kicker_(Joe_Henderson_album)	The Kicker (Joe Henderson album)	dbp:genre	dbr:Jazz
 Four_(Joe_Henderson_album)	Four (Joe Henderson album)	dbo:genre	dbr:Jazz
 Four_(Joe_Henderson_album)	Four (Joe Henderson album)	dbp:genre	dbr:Jazz
+The_Kicker_(Joe_Henderson_album)	The Kicker (Joe Henderson album)	dbo:genre	dbr:Jazz
+The_Kicker_(Joe_Henderson_album)	The Kicker (Joe Henderson album)	dbp:genre	dbr:Jazz
 Straight,_No_Chaser_(Joe_Henderson_album)	Straight, No Chaser (Joe Henderson album)	dbo:genre	dbr:Jazz
 Straight,_No_Chaser_(Joe_Henderson_album)	Straight, No Chaser (Joe Henderson album)	dbp:genre	dbr:Jazz
 Beefy_Red	Beefy Red	dbo:genre	dbr:Blues
@@ -5672,16 +5672,16 @@ Live_at_Donte%27s_(Joe_Pass_album)	Live at Donte's (Joe Pass album)	dbo:genre	db
 Live_at_Donte%27s_(Joe_Pass_album)	Live at Donte's (Joe Pass album)	dbo:genre	dbr:Bebop
 Live_at_Donte%27s_(Joe_Pass_album)	Live at Donte's (Joe Pass album)	dbp:genre	dbr:Jazz
 Live_at_Donte%27s_(Joe_Pass_album)	Live at Donte's (Joe Pass album)	dbp:genre	dbr:Bebop
+Introducing_Kenny_Garrett	Introducing Kenny Garrett	dbo:genre	dbr:Post-bop
+Introducing_Kenny_Garrett	Introducing Kenny Garrett	dbo:genre	dbr:Jazz
+Introducing_Kenny_Garrett	Introducing Kenny Garrett	dbp:genre	dbr:Post-bop
+Introducing_Kenny_Garrett	Introducing Kenny Garrett	dbp:genre	dbr:Jazz
 John_Serry	John Serry	dbo:genre	dbr:Classical_music
 John_Serry	John Serry	dbo:genre	dbr:Jazz
 John_Serry	John Serry	dbo:genre	dbr:Jazz_fusion
 John_Serry	John Serry	dbp:genre	dbr:Classical_music
 John_Serry	John Serry	dbp:genre	dbr:Jazz
 John_Serry	John Serry	dbp:genre	dbr:Jazz_fusion
-Introducing_Kenny_Garrett	Introducing Kenny Garrett	dbo:genre	dbr:Post-bop
-Introducing_Kenny_Garrett	Introducing Kenny Garrett	dbo:genre	dbr:Jazz
-Introducing_Kenny_Garrett	Introducing Kenny Garrett	dbp:genre	dbr:Post-bop
-Introducing_Kenny_Garrett	Introducing Kenny Garrett	dbp:genre	dbr:Jazz
 Things_We_Like	Things We Like	dbo:genre	dbr:Jazz_fusion
 Things_We_Like	Things We Like	dbp:genre	dbr:Jazz_fusion
 Piety_Street	Piety Street	dbo:genre	dbr:Soul_jazz
@@ -5706,9 +5706,6 @@ Roger_Dawson	Roger Dawson	dbp:genre	dbr:Free_jazz
 Roger_Dawson	Roger Dawson	dbp:genre	dbr:Salsa_music
 Sonny%27s_Crib	Sonny's Crib	dbo:genre	dbr:Hard_bop
 Sonny%27s_Crib	Sonny's Crib	dbp:genre	dbr:Hard_bop
-Carlos_Redman	Carlos Redman	dbo:genre	dbr:Jazz
-Carlos_Redman	Carlos Redman	dbo:genre	dbr:Rhythm_and_blues
-Carlos_Redman	Carlos Redman	dbp:genre	Pop, R&B, Jazz (en)
 Flea_(musician)	Flea (musician)	dbo:genre	dbr:Funk_rock
 Flea_(musician)	Flea (musician)	dbo:genre	dbr:Jazz-funk
 Flea_(musician)	Flea (musician)	dbo:genre	dbr:Experimental_rock
@@ -5725,6 +5722,9 @@ Flea_(musician)	Flea (musician)	dbp:genre	dbr:Punk_rock
 Flea_(musician)	Flea (musician)	dbp:genre	dbr:Alternative_rock
 Flea_(musician)	Flea (musician)	dbp:genre	dbr:Electronica
 Flea_(musician)	Flea (musician)	dbp:genre	dbr:Hardcore_punk
+Carlos_Redman	Carlos Redman	dbo:genre	dbr:Jazz
+Carlos_Redman	Carlos Redman	dbo:genre	dbr:Rhythm_and_blues
+Carlos_Redman	Carlos Redman	dbp:genre	Pop, R&B, Jazz (en)
 The_Bergevin_Brothers	The Bergevin Brothers	dbo:genre	dbr:Music_and_politics
 The_Bergevin_Brothers	The Bergevin Brothers	dbo:genre	dbr:Jazz
 The_Bergevin_Brothers	The Bergevin Brothers	dbp:genre	dbr:Music_and_politics
@@ -5738,12 +5738,12 @@ Billie%27s_Bounce	Billie's Bounce	dbo:genre	dbr:Jazz
 Billie%27s_Bounce	Billie's Bounce	dbp:genre	dbr:Jazz
 Big_Band_(album)	Big Band (album)	dbo:genre	dbr:Jazz
 Big_Band_(album)	Big Band (album)	dbp:genre	dbr:Jazz
-So_Near,_So_Far_(Musings_for_Miles)	So Near, So Far (Musings for Miles)	dbo:genre	dbr:Jazz
-So_Near,_So_Far_(Musings_for_Miles)	So Near, So Far (Musings for Miles)	dbp:genre	dbr:Jazz
 Music_of_Bill_Evans	Music of Bill Evans	dbo:genre	dbr:Jazz
 Music_of_Bill_Evans	Music of Bill Evans	dbo:genre	dbr:Contemporary_classical_music
 Music_of_Bill_Evans	Music of Bill Evans	dbp:genre	dbr:Jazz
 Music_of_Bill_Evans	Music of Bill Evans	dbp:genre	dbr:Contemporary_classical_music
+So_Near,_So_Far_(Musings_for_Miles)	So Near, So Far (Musings for Miles)	dbo:genre	dbr:Jazz
+So_Near,_So_Far_(Musings_for_Miles)	So Near, So Far (Musings for Miles)	dbp:genre	dbr:Jazz
 Bags%27_Groove_(composition)	Bags' Groove (composition)	dbo:genre	dbr:Jazz
 Bags%27_Groove_(composition)	Bags' Groove (composition)	dbp:genre	dbr:Jazz
 Bob_Brookmeyer_and_Friends	Bob Brookmeyer and Friends	dbo:genre	dbr:Jazz
@@ -5874,14 +5874,14 @@ Cannonball_Adderley_Quintet_in_Chicago	Cannonball Adderley Quintet in Chicago	db
 Que_Alegria	Que Alegria	dbo:genre	dbr:Jazz
 Que_Alegria	Que Alegria	dbp:genre	dbr:Jazz
 The_50th_Law	The 50th Law	dbp:genre	Non-fiction (en)
-Kylyn	Kylyn	dbo:genre	dbr:Electronic_music
-Kylyn	Kylyn	dbo:genre	dbr:Jazz_fusion
-Kylyn	Kylyn	dbp:genre	dbr:Electronic_music
-Kylyn	Kylyn	dbp:genre	dbr:Jazz_fusion
 One_for_All_(Kazumi_Watanabe_album)	One for All (Kazumi Watanabe album)	dbo:genre	dbr:Jazz
 One_for_All_(Kazumi_Watanabe_album)	One for All (Kazumi Watanabe album)	dbo:genre	dbr:Jazz_fusion
 One_for_All_(Kazumi_Watanabe_album)	One for All (Kazumi Watanabe album)	dbp:genre	dbr:Jazz
 One_for_All_(Kazumi_Watanabe_album)	One for All (Kazumi Watanabe album)	dbp:genre	dbr:Jazz_fusion
+Kylyn	Kylyn	dbo:genre	dbr:Electronic_music
+Kylyn	Kylyn	dbo:genre	dbr:Jazz_fusion
+Kylyn	Kylyn	dbp:genre	dbr:Electronic_music
+Kylyn	Kylyn	dbp:genre	dbr:Jazz_fusion
 Saskia_Laroo	Saskia Laroo	dbo:genre	dbr:Bossa_nova
 Saskia_Laroo	Saskia Laroo	dbo:genre	dbr:Jazz_rap
 Saskia_Laroo	Saskia Laroo	dbo:genre	dbr:Post-bop
@@ -5923,10 +5923,10 @@ Eugene_B._Redmond	Eugene B. Redmond	dbo:genre	dbr:Poetry
 Eugene_B._Redmond	Eugene B. Redmond	dbp:genre	dbr:Poetry
 Movin%27_Along	Movin' Along	dbo:genre	dbr:Jazz
 Movin%27_Along	Movin' Along	dbp:genre	dbr:Jazz
-Portrait_of_Wes	Portrait of Wes	dbo:genre	dbr:Jazz
-Portrait_of_Wes	Portrait of Wes	dbp:genre	dbr:Jazz
 Fusion!_Wes_Montgomery_with_Strings	Fusion! Wes Montgomery with Strings	dbo:genre	dbr:Jazz
 Fusion!_Wes_Montgomery_with_Strings	Fusion! Wes Montgomery with Strings	dbp:genre	dbr:Jazz
+Portrait_of_Wes	Portrait of Wes	dbo:genre	dbr:Jazz
+Portrait_of_Wes	Portrait of Wes	dbp:genre	dbr:Jazz
 Terrace_Martin	Terrace Martin	dbo:genre	dbr:Hip_hop_music
 Terrace_Martin	Terrace Martin	dbo:genre	dbr:Jazz
 Terrace_Martin	Terrace Martin	dbp:genre	dbr:Hip_hop_music
@@ -5972,10 +5972,10 @@ Black_Messiah_(album)	Black Messiah (album)	dbp:genre	dbr:Jazz-funk
 Black_Messiah_(album)	Black Messiah (album)	dbp:genre	dbr:Funk
 Black_Messiah_(album)	Black Messiah (album)	dbp:genre	dbr:Rock_music
 Black_Messiah_(album)	Black Messiah (album)	dbp:genre	dbr:Contemporary_R&B
-Minor_Elegance	Minor Elegance	dbo:genre	dbr:Jazz
-Minor_Elegance	Minor Elegance	dbp:genre	dbr:Jazz
 My_Beautiful_Dark_Twisted_Fantasy	My Beautiful Dark Twisted Fantasy	dbo:genre	dbr:Hip_hop_music
 My_Beautiful_Dark_Twisted_Fantasy	My Beautiful Dark Twisted Fantasy	dbp:genre	dbr:Hip_hop_music
+Minor_Elegance	Minor Elegance	dbo:genre	dbr:Jazz
+Minor_Elegance	Minor Elegance	dbp:genre	dbr:Jazz
 Deron_Johnson_(musician)	Deron Johnson (musician)	dbo:genre	dbr:Jazz
 Deron_Johnson_(musician)	Deron Johnson (musician)	dbp:genre	dbr:Jazz
 Last_Nite_(Larry_Carlton_album)	Last Nite (Larry Carlton album)	dbo:genre	dbr:Jazz_fusion
@@ -6010,10 +6010,10 @@ Half_Moon_Bay_(album)	Half Moon Bay (album)	dbo:genre	dbr:Jazz
 Half_Moon_Bay_(album)	Half Moon Bay (album)	dbp:genre	dbr:Jazz
 Symbiosis_(album)	Symbiosis (album)	dbo:genre	dbr:Jazz
 Symbiosis_(album)	Symbiosis (album)	dbp:genre	dbr:Jazz
-The_Paris_Concert:_Edition_Two	The Paris Concert: Edition Two	dbo:genre	dbr:Jazz
-The_Paris_Concert:_Edition_Two	The Paris Concert: Edition Two	dbp:genre	dbr:Jazz
 The_Paris_Concert:_Edition_One	The Paris Concert: Edition One	dbo:genre	dbr:Jazz
 The_Paris_Concert:_Edition_One	The Paris Concert: Edition One	dbp:genre	dbr:Jazz
+The_Paris_Concert:_Edition_Two	The Paris Concert: Edition Two	dbo:genre	dbr:Jazz
+The_Paris_Concert:_Edition_Two	The Paris Concert: Edition Two	dbp:genre	dbr:Jazz
 The_Enchantment	The Enchantment	dbp:genre	Jazz (en)
 Homecoming_(Bill_Evans_album)	Homecoming (Bill Evans album)	dbo:genre	dbr:Jazz
 Homecoming_(Bill_Evans_album)	Homecoming (Bill Evans album)	dbp:genre	dbr:Jazz
@@ -6027,10 +6027,10 @@ Universal_Syncopations	Universal Syncopations	dbo:genre	dbr:Jazz
 Universal_Syncopations	Universal Syncopations	dbp:genre	dbr:Jazz
 My_Foolish_Heart_(Keith_Jarrett_album)	My Foolish Heart (Keith Jarrett album)	dbo:genre	dbr:Jazz
 My_Foolish_Heart_(Keith_Jarrett_album)	My Foolish Heart (Keith Jarrett album)	dbp:genre	dbr:Jazz
-Michael_Landau	Michael Landau	dbo:genre	dbr:Hard_rock
-Michael_Landau	Michael Landau	dbp:genre	Rock, hard rock (en)
 Getting_Sentimental	Getting Sentimental	dbo:genre	dbr:Jazz
 Getting_Sentimental	Getting Sentimental	dbp:genre	dbr:Jazz
+Michael_Landau	Michael Landau	dbo:genre	dbr:Hard_rock
+Michael_Landau	Michael Landau	dbp:genre	Rock, hard rock (en)
 Branford_Marsalis	Branford Marsalis	dbo:genre	dbr:Post-bop
 Branford_Marsalis	Branford Marsalis	dbo:genre	dbr:Classical_music
 Branford_Marsalis	Branford Marsalis	dbo:genre	dbr:Jazz
@@ -6139,6 +6139,10 @@ The_Vinyl_Conflict	The Vinyl Conflict	dbo:genre	dbr:Thrash_metal
 The_Vinyl_Conflict	The Vinyl Conflict	dbp:genre	dbr:Thrash_metal
 Bent_J%C3%A6dig	Bent Jædig	dbo:genre	dbr:Jazz
 Bent_J%C3%A6dig	Bent Jædig	dbp:genre	dbr:Jazz
+Sunday_Mornin%27_(album)	Sunday Mornin' (album)	dbo:genre	dbr:Twelve-bar_blues
+Sunday_Mornin%27_(album)	Sunday Mornin' (album)	dbp:genre	dbr:Twelve-bar_blues
+Beyond_the_Blue_Horizon	Beyond the Blue Horizon	dbo:genre	dbr:Jazz_fusion
+Beyond_the_Blue_Horizon	Beyond the Blue Horizon	dbp:genre	dbr:Jazz_fusion
 Draco_Rosa	Draco Rosa	dbo:genre	dbr:Rock_en_español
 Draco_Rosa	Draco Rosa	dbo:genre	dbr:Experimental_rock
 Draco_Rosa	Draco Rosa	dbo:genre	dbr:Psychedelic_rock
@@ -6156,10 +6160,6 @@ Draco_Rosa	Draco Rosa	dbp:genre	dbr:Alternative_rock
 Draco_Rosa	Draco Rosa	dbp:genre	dbr:Electronic_music
 Draco_Rosa	Draco Rosa	dbp:genre	dbr:Indie_rock
 Draco_Rosa	Draco Rosa	dbp:genre	 (en)
-Sunday_Mornin%27_(album)	Sunday Mornin' (album)	dbo:genre	dbr:Twelve-bar_blues
-Sunday_Mornin%27_(album)	Sunday Mornin' (album)	dbp:genre	dbr:Twelve-bar_blues
-Beyond_the_Blue_Horizon	Beyond the Blue Horizon	dbo:genre	dbr:Jazz_fusion
-Beyond_the_Blue_Horizon	Beyond the Blue Horizon	dbp:genre	dbr:Jazz_fusion
 John_Gross_(musician)	John Gross (musician)	dbo:genre	dbr:Jazz
 John_Gross_(musician)	John Gross (musician)	dbp:genre	dbr:Jazz
 Raymond_Harry_Brown	Raymond Harry Brown	dbo:genre	dbr:Big_band
@@ -6191,12 +6191,12 @@ Boss_Horn	Boss Horn	dbo:genre	dbr:Jazz
 Boss_Horn	Boss Horn	dbp:genre	dbr:Jazz
 The_Other_Side_of_Round_Midnight	The Other Side of Round Midnight	dbo:genre	dbr:Jazz
 The_Other_Side_of_Round_Midnight	The Other Side of Round Midnight	dbp:genre	dbr:Jazz
+Swedish_Schnapps_(album)	Swedish Schnapps (album)	dbo:genre	dbr:Jazz
+Swedish_Schnapps_(album)	Swedish Schnapps (album)	dbp:genre	dbr:Jazz
 Ford_%26_Lopatin	Ford & Lopatin	dbo:genre	dbr:Synthpop
 Ford_%26_Lopatin	Ford & Lopatin	dbo:genre	dbr:Electronic_music
 Ford_%26_Lopatin	Ford & Lopatin	dbp:genre	dbr:Synthpop
 Ford_%26_Lopatin	Ford & Lopatin	dbp:genre	dbr:Electronic_music
-Swedish_Schnapps_(album)	Swedish Schnapps (album)	dbo:genre	dbr:Jazz
-Swedish_Schnapps_(album)	Swedish Schnapps (album)	dbp:genre	dbr:Jazz
 Wiley_Reed	Wiley Reed	dbo:genre	dbr:Blues
 Wiley_Reed	Wiley Reed	dbp:genre	dbr:Blues
 Triplicate_(album)	Triplicate (album)	dbo:genre	dbr:Post-bop
@@ -6263,10 +6263,10 @@ The_Legendary_Prestige_Quintet_Sessions	The Legendary Prestige Quintet Sessions	
 The_Legendary_Prestige_Quintet_Sessions	The Legendary Prestige Quintet Sessions	dbp:genre	dbr:Jazz
 Lights_of_Endangered_Species	Lights of Endangered Species	dbo:genre	dbr:Alternative_rock
 Lights_of_Endangered_Species	Lights of Endangered Species	dbp:genre	dbr:Alternative_rock
-Booker_Little_4_and_Max_Roach	Booker Little 4 and Max Roach	dbo:genre	dbr:Jazz
-Booker_Little_4_and_Max_Roach	Booker Little 4 and Max Roach	dbp:genre	dbr:Jazz
 Booker_Little_(album)	Booker Little (album)	dbo:genre	dbr:Jazz
 Booker_Little_(album)	Booker Little (album)	dbp:genre	dbr:Jazz
+Booker_Little_4_and_Max_Roach	Booker Little 4 and Max Roach	dbo:genre	dbr:Jazz
+Booker_Little_4_and_Max_Roach	Booker Little 4 and Max Roach	dbp:genre	dbr:Jazz
 Delphi_II_%26_III	Delphi II & III	dbo:genre	dbr:Jazz
 Delphi_II_%26_III	Delphi II & III	dbp:genre	dbr:Jazz
 Quiet_Nights_(Miles_Davis_and_Gil_Evans_album)	Quiet Nights (Miles Davis and Gil Evans album)	dbo:genre	dbr:Bossa_nova
@@ -6305,10 +6305,10 @@ The_Gate_(Kurt_Elling_album)	The Gate (Kurt Elling album)	dbo:genre	dbr:Vocal_ja
 The_Gate_(Kurt_Elling_album)	The Gate (Kurt Elling album)	dbp:genre	dbr:Vocal_jazz
 The_Stanley_Clarke_Band	The Stanley Clarke Band	dbo:genre	dbr:Jazz
 The_Stanley_Clarke_Band	The Stanley Clarke Band	dbp:genre	dbr:Jazz
-Remembering_the_Moment	Remembering the Moment	dbo:genre	dbr:Jazz
-Remembering_the_Moment	Remembering the Moment	dbp:genre	dbr:Jazz
 Mal,_Dance_and_Soul	Mal, Dance and Soul	dbo:genre	dbr:Jazz
 Mal,_Dance_and_Soul	Mal, Dance and Soul	dbp:genre	dbr:Jazz
+Remembering_the_Moment	Remembering the Moment	dbo:genre	dbr:Jazz
+Remembering_the_Moment	Remembering the Moment	dbp:genre	dbr:Jazz
 Chick_Corea_Featuring_Lionel_Hampton	Chick Corea Featuring Lionel Hampton	dbo:genre	dbr:Jazz_fusion
 Chick_Corea_Featuring_Lionel_Hampton	Chick Corea Featuring Lionel Hampton	dbp:genre	dbr:Jazz_fusion
 My_Dear_Family	My Dear Family	dbo:genre	dbr:Jazz
@@ -6349,10 +6349,10 @@ Belo_Horizonte_(album)	Belo Horizonte (album)	dbo:genre	dbr:Jazz
 Belo_Horizonte_(album)	Belo Horizonte (album)	dbo:genre	dbr:Jazz_fusion
 Belo_Horizonte_(album)	Belo Horizonte (album)	dbp:genre	dbr:Jazz
 Belo_Horizonte_(album)	Belo Horizonte (album)	dbp:genre	dbr:Jazz_fusion
-Bang!_Zoom	Bang! Zoom	dbo:genre	dbr:Vocal_jazz
-Bang!_Zoom	Bang! Zoom	dbp:genre	dbr:Vocal_jazz
 Live_at_the_Royal_Festival_Hall_(John_McLaughlin_Trio_album)	Live at the Royal Festival Hall (John McLaughlin Trio album)	dbo:genre	dbr:Jazz
 Live_at_the_Royal_Festival_Hall_(John_McLaughlin_Trio_album)	Live at the Royal Festival Hall (John McLaughlin Trio album)	dbp:genre	dbr:Jazz
+Bang!_Zoom	Bang! Zoom	dbo:genre	dbr:Vocal_jazz
+Bang!_Zoom	Bang! Zoom	dbp:genre	dbr:Vocal_jazz
 Simone_Giuliani	Simone Giuliani	dbo:genre	dbr:Jazz
 Simone_Giuliani	Simone Giuliani	dbo:genre	dbr:Orchestra
 Simone_Giuliani	Simone Giuliani	dbo:genre	dbr:Ambient_music
@@ -6411,12 +6411,12 @@ Highlights_from_the_Plugged_Nickel	Highlights from the Plugged Nickel	dbo:genre	
 Highlights_from_the_Plugged_Nickel	Highlights from the Plugged Nickel	dbp:genre	dbr:Avant-garde_jazz
 Highlights_from_the_Plugged_Nickel	Highlights from the Plugged Nickel	dbp:genre	dbr:Hard_bop
 Highlights_from_the_Plugged_Nickel	Highlights from the Plugged Nickel	dbp:genre	dbr:Jazz
+Cal_Lampley	Cal Lampley	dbo:genre	dbr:Jazz
+Cal_Lampley	Cal Lampley	dbp:genre	dbr:Jazz
 Love_Songs_(Miles_Davis_album)	Love Songs (Miles Davis album)	dbo:genre	dbr:Jazz
 Love_Songs_(Miles_Davis_album)	Love Songs (Miles Davis album)	dbp:genre	dbr:Jazz
 Chris_Perry_(musician)	Chris Perry (musician)	dbo:genre	dbr:Jazz
 Chris_Perry_(musician)	Chris Perry (musician)	dbp:genre	dbr:Jazz
-Cal_Lampley	Cal Lampley	dbo:genre	dbr:Jazz
-Cal_Lampley	Cal Lampley	dbp:genre	dbr:Jazz
 Sensory_Overdrive	Sensory Overdrive	dbo:genre	dbr:Hard_rock
 Sensory_Overdrive	Sensory Overdrive	dbo:genre	dbr:Punk_rock
 Sensory_Overdrive	Sensory Overdrive	dbo:genre	dbr:Glam_punk
@@ -6453,10 +6453,10 @@ Inside_Out_(Chick_Corea_album)	Inside Out (Chick Corea album)	dbo:genre	dbr:Post
 Inside_Out_(Chick_Corea_album)	Inside Out (Chick Corea album)	dbo:genre	dbr:Jazz
 Inside_Out_(Chick_Corea_album)	Inside Out (Chick Corea album)	dbp:genre	dbr:Post-bop
 Inside_Out_(Chick_Corea_album)	Inside Out (Chick Corea album)	dbp:genre	dbr:Jazz
-Alive_(Chick_Corea_album)	Alive (Chick Corea album)	dbo:genre	dbr:Post-bop
-Alive_(Chick_Corea_album)	Alive (Chick Corea album)	dbp:genre	dbr:Post-bop
 Expressions_(Chick_Corea_album)	Expressions (Chick Corea album)	dbo:genre	dbr:Jazz
 Expressions_(Chick_Corea_album)	Expressions (Chick Corea album)	dbp:genre	dbr:Jazz
+Alive_(Chick_Corea_album)	Alive (Chick Corea album)	dbo:genre	dbr:Post-bop
+Alive_(Chick_Corea_album)	Alive (Chick Corea album)	dbp:genre	dbr:Post-bop
 Reincarnation_of_a_Love_Bird	Reincarnation of a Love Bird	dbo:genre	dbr:Jazz
 Reincarnation_of_a_Love_Bird	Reincarnation of a Love Bird	dbp:genre	dbr:Jazz
 Flight_of_the_Blue_Jay	Flight of the Blue Jay	dbo:genre	dbr:Jazz
@@ -6513,10 +6513,10 @@ Three_Pieces_for_Blues_Band_and_Symphony_Orchestra	Three Pieces for Blues Band a
 Three_Pieces_for_Blues_Band_and_Symphony_Orchestra	Three Pieces for Blues Band and Symphony Orchestra	dbp:genre	dbr:Avant-garde_music
 Three_Pieces_for_Blues_Band_and_Symphony_Orchestra	Three Pieces for Blues Band and Symphony Orchestra	dbp:genre	dbr:Blues_rock
 Three_Pieces_for_Blues_Band_and_Symphony_Orchestra	Three Pieces for Blues Band and Symphony Orchestra	dbp:genre	dbr:Third_stream
-A.R.C._(album)	A.R.C. (album)	dbo:genre	dbr:Jazz
-A.R.C._(album)	A.R.C. (album)	dbp:genre	dbr:Jazz
 Paris_Concert_(Circle_album)	Paris Concert (Circle album)	dbo:genre	dbr:Avant-garde_jazz
 Paris_Concert_(Circle_album)	Paris Concert (Circle album)	dbp:genre	dbr:Avant-garde_jazz
+A.R.C._(album)	A.R.C. (album)	dbo:genre	dbr:Jazz
+A.R.C._(album)	A.R.C. (album)	dbp:genre	dbr:Jazz
 Have_Some_Fun:_Live_at_Ungano%27s	Have Some Fun: Live at Ungano's	dbo:genre	dbr:Hard_rock
 Have_Some_Fun:_Live_at_Ungano%27s	Have Some Fun: Live at Ungano's	dbo:genre	dbr:Proto-punk
 Have_Some_Fun:_Live_at_Ungano%27s	Have Some Fun: Live at Ungano's	dbo:genre	dbr:Garage_rock
@@ -6531,18 +6531,12 @@ Justin_Goldberg	Justin Goldberg	dbp:genre	dbr:Pop_music
 Justin_Goldberg	Justin Goldberg	dbp:genre	dbr:Alternative_rock
 Emerald_Tears	Emerald Tears	dbo:genre	dbr:Jazz
 Emerald_Tears	Emerald Tears	dbp:genre	dbr:Jazz
-Dark_Beauty	Dark Beauty	dbo:genre	dbr:Jazz
-Dark_Beauty	Dark Beauty	dbp:genre	dbr:Jazz
-Duet_(Gary_Burton_%26_Chick_Corea_album)	Duet (Gary Burton & Chick Corea album)	dbo:genre	dbr:Jazz
-Duet_(Gary_Burton_%26_Chick_Corea_album)	Duet (Gary Burton & Chick Corea album)	dbp:genre	dbr:Jazz
 Rakoto_Frah	Rakoto Frah	dbo:genre	dbr:Hiragasy
 Rakoto_Frah	Rakoto Frah	dbp:genre	Vakindrazana, hira gasy, vazikoava (en)
-Roscoe_James_Irwin	Roscoe James Irwin	dbo:genre	dbr:Indie_pop
-Roscoe_James_Irwin	Roscoe James Irwin	dbo:genre	dbr:Folk_music
-Roscoe_James_Irwin	Roscoe James Irwin	dbp:genre	dbr:Indie_pop
-Roscoe_James_Irwin	Roscoe James Irwin	dbp:genre	dbr:Folk_music
-Solo_Concert	Solo Concert	dbo:genre	dbr:Jazz
-Solo_Concert	Solo Concert	dbp:genre	dbr:Jazz
+Duet_(Gary_Burton_%26_Chick_Corea_album)	Duet (Gary Burton & Chick Corea album)	dbo:genre	dbr:Jazz
+Duet_(Gary_Burton_%26_Chick_Corea_album)	Duet (Gary Burton & Chick Corea album)	dbp:genre	dbr:Jazz
+Dark_Beauty	Dark Beauty	dbo:genre	dbr:Jazz
+Dark_Beauty	Dark Beauty	dbp:genre	dbr:Jazz
 Tommy_Vig	Tommy Vig	dbo:genre	dbr:Orchestral_jazz
 Tommy_Vig	Tommy Vig	dbo:genre	dbr:Big_band
 Tommy_Vig	Tommy Vig	dbo:genre	dbr:Classical_music
@@ -6555,6 +6549,12 @@ Tommy_Vig	Tommy Vig	dbp:genre	dbr:Classical_music
 Tommy_Vig	Tommy Vig	dbp:genre	dbr:Jazz
 Tommy_Vig	Tommy Vig	dbp:genre	dbr:Concerto
 Tommy_Vig	Tommy Vig	dbp:genre	dbr:Bebop
+Roscoe_James_Irwin	Roscoe James Irwin	dbo:genre	dbr:Indie_pop
+Roscoe_James_Irwin	Roscoe James Irwin	dbo:genre	dbr:Folk_music
+Roscoe_James_Irwin	Roscoe James Irwin	dbp:genre	dbr:Indie_pop
+Roscoe_James_Irwin	Roscoe James Irwin	dbp:genre	dbr:Folk_music
+Solo_Concert	Solo Concert	dbo:genre	dbr:Jazz
+Solo_Concert	Solo Concert	dbp:genre	dbr:Jazz
 Myron_Walden	Myron Walden	dbo:genre	dbr:Jazz
 Myron_Walden	Myron Walden	dbp:genre	dbr:Jazz
 Lyric_Suite_for_Sextet	Lyric Suite for Sextet	dbo:genre	dbr:Jazz
@@ -6567,10 +6567,6 @@ Slide_Show_(album)	Slide Show (album)	dbo:genre	dbr:Jazz
 Slide_Show_(album)	Slide Show (album)	dbp:genre	dbr:Jazz
 Trio_Music_Live_in_Europe	Trio Music Live in Europe	dbo:genre	dbr:Jazz
 Trio_Music_Live_in_Europe	Trio Music Live in Europe	dbp:genre	dbr:Jazz
-Andrzej_Przybielski	Andrzej Przybielski	dbo:genre	dbr:Jazz
-Andrzej_Przybielski	Andrzej Przybielski	dbp:genre	dbr:Jazz
-Is_(album)	Is (album)	dbo:genre	dbr:Free_jazz
-Is_(album)	Is (album)	dbp:genre	dbr:Free_jazz
 Lana_Del_Rey	Lana Del Rey	dbo:genre	dbr:Baroque_pop
 Lana_Del_Rey	Lana Del Rey	dbo:genre	dbr:Indie_pop
 Lana_Del_Rey	Lana Del Rey	dbo:genre	dbr:Dream_pop
@@ -6584,6 +6580,10 @@ Lana_Del_Rey	Lana Del Rey	dbp:genre	dbr:Psychedelic_rock
 Lana_Del_Rey	Lana Del Rey	dbp:genre	dbr:Rock_music
 Lana_Del_Rey	Lana Del Rey	dbp:genre	dbr:Trip_hop
 Lana_Del_Rey	Lana Del Rey	dbp:genre	 (en)
+Andrzej_Przybielski	Andrzej Przybielski	dbo:genre	dbr:Jazz
+Andrzej_Przybielski	Andrzej Przybielski	dbp:genre	dbr:Jazz
+Is_(album)	Is (album)	dbo:genre	dbr:Free_jazz
+Is_(album)	Is (album)	dbp:genre	dbr:Free_jazz
 I_Remember_Miles	I Remember Miles	dbo:genre	dbr:Vocal_jazz
 I_Remember_Miles	I Remember Miles	dbp:genre	dbr:Vocal_jazz
 Alexandra_Starlight	Alexandra Starlight	dbo:genre	dbr:Soul_music
@@ -6656,10 +6656,10 @@ Donna_Lee_(album)	Donna Lee (album)	dbo:genre	dbr:Jazz
 Donna_Lee_(album)	Donna Lee (album)	dbp:genre	dbr:Jazz
 Inner_Space_(album)	Inner Space (album)	dbo:genre	dbr:Jazz
 Inner_Space_(album)	Inner Space (album)	dbp:genre	dbr:Jazz
-Kids_on_the_Slope	Kids on the Slope	dbp:genre	dbr:Coming_of_age
-Kids_on_the_Slope	Kids on the Slope	dbp:genre	dbr:List_of_romance_manga
 Carolyn_Leonhart	Carolyn Leonhart	dbo:genre	dbr:Jazz
 Carolyn_Leonhart	Carolyn Leonhart	dbp:genre	dbr:Jazz
+Kids_on_the_Slope	Kids on the Slope	dbp:genre	dbr:Coming_of_age
+Kids_on_the_Slope	Kids on the Slope	dbp:genre	dbr:List_of_romance_manga
 Born_Free_(Milt_Jackson_album)	Born Free (Milt Jackson album)	dbo:genre	dbr:Jazz
 Born_Free_(Milt_Jackson_album)	Born Free (Milt Jackson album)	dbp:genre	dbr:Jazz
 Sunflower_(Milt_Jackson_album)	Sunflower (Milt Jackson album)	dbo:genre	dbr:Jazz
@@ -6691,10 +6691,10 @@ Mr._P.C._(composition)	Mr. P.C. (composition)	dbo:genre	dbr:Jazz
 Mr._P.C._(composition)	Mr. P.C. (composition)	dbp:genre	dbr:Jazz
 The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation	The Mastery of John Coltrane, Vol. 3: Jupiter Variation	dbo:genre	dbr:Free_jazz
 The_Mastery_of_John_Coltrane,_Vol._3:_Jupiter_Variation	The Mastery of John Coltrane, Vol. 3: Jupiter Variation	dbp:genre	dbr:Free_jazz
-The_Mastery_of_John_Coltrane,_Vol._4:_Trane%27s_Modes	The Mastery of John Coltrane, Vol. 4: Trane's Modes	dbo:genre	dbr:Jazz
-The_Mastery_of_John_Coltrane,_Vol._4:_Trane%27s_Modes	The Mastery of John Coltrane, Vol. 4: Trane's Modes	dbp:genre	dbr:Jazz
 The_Mastery_of_John_Coltrane,_Vol._1:_Feelin%27_Good	The Mastery of John Coltrane, Vol. 1: Feelin' Good	dbo:genre	dbr:Jazz
 The_Mastery_of_John_Coltrane,_Vol._1:_Feelin%27_Good	The Mastery of John Coltrane, Vol. 1: Feelin' Good	dbp:genre	dbr:Jazz
+The_Mastery_of_John_Coltrane,_Vol._4:_Trane%27s_Modes	The Mastery of John Coltrane, Vol. 4: Trane's Modes	dbo:genre	dbr:Jazz
+The_Mastery_of_John_Coltrane,_Vol._4:_Trane%27s_Modes	The Mastery of John Coltrane, Vol. 4: Trane's Modes	dbp:genre	dbr:Jazz
 Max_%2B_Dizzy:_Paris_1989	Max + Dizzy: Paris 1989	dbo:genre	dbr:Jazz
 Max_%2B_Dizzy:_Paris_1989	Max + Dizzy: Paris 1989	dbp:genre	dbr:Jazz
 The_Smithsonian_Collection_of_Classic_Jazz	The Smithsonian Collection of Classic Jazz	dbo:genre	dbr:Avant-garde_jazz
@@ -6784,10 +6784,10 @@ Taeko_Kunishima	Taeko Kunishima	dbp:genre	dbr:Jazz
 Blues_for_Dracula	Blues for Dracula	dbo:genre	dbr:Jazz
 Blues_for_Dracula	Blues for Dracula	dbp:genre	dbr:Jazz
 The_Teddy_Charles_Tentet	The Teddy Charles Tentet	dbp:genre	Jazz (en)
-Staffan_William-Olsson	Staffan William-Olsson	dbo:genre	dbr:Jazz
-Staffan_William-Olsson	Staffan William-Olsson	dbp:genre	dbr:Jazz
 It%27s_Time_for_Dave_Pike	It's Time for Dave Pike	dbo:genre	dbr:Jazz
 It%27s_Time_for_Dave_Pike	It's Time for Dave Pike	dbp:genre	dbr:Jazz
+Staffan_William-Olsson	Staffan William-Olsson	dbo:genre	dbr:Jazz
+Staffan_William-Olsson	Staffan William-Olsson	dbp:genre	dbr:Jazz
 Solo_Tribute:_Keith_Jarrett_%E2%80%93_The_100th_Performance_in_Japan	Solo Tribute: Keith Jarrett – The 100th Performance in Japan	dbo:genre	dbr:Jazz
 Solo_Tribute:_Keith_Jarrett_%E2%80%93_The_100th_Performance_in_Japan	Solo Tribute: Keith Jarrett – The 100th Performance in Japan	dbp:genre	dbr:Jazz
 Summer_Night:_Live	Summer Night: Live	dbo:genre	dbr:Latin_jazz
@@ -6864,12 +6864,12 @@ Lord_Flea	Lord Flea	dbo:genre	dbr:Mento
 Lord_Flea	Lord Flea	dbo:genre	dbr:Calypso_music
 Lord_Flea	Lord Flea	dbp:genre	dbr:Mento
 Lord_Flea	Lord Flea	dbp:genre	dbr:Calypso_music
+Keystone_Korner	Keystone Korner	dbo:genre	dbr:Jazz
+Keystone_Korner	Keystone Korner	dbp:genre	dbr:Jazz
 Dario_Chiazzolino	Dario Chiazzolino	dbo:genre	dbr:Jazz
 Dario_Chiazzolino	Dario Chiazzolino	dbo:genre	dbr:World_music
 Dario_Chiazzolino	Dario Chiazzolino	dbp:genre	dbr:Jazz
 Dario_Chiazzolino	Dario Chiazzolino	dbp:genre	dbr:World_music
-Keystone_Korner	Keystone Korner	dbo:genre	dbr:Jazz
-Keystone_Korner	Keystone Korner	dbp:genre	dbr:Jazz
 For_Lady	For Lady	dbo:genre	dbr:Jazz
 For_Lady	For Lady	dbp:genre	dbr:Jazz
 After_the_Rain_(John_McLaughlin_album)	After the Rain (John McLaughlin album)	dbo:genre	dbr:Jazz_fusion
@@ -6960,9 +6960,9 @@ Jack_Cooper_(musician)	Jack Cooper (musician)	dbo:genre	dbr:Pop_music
 Jack_Cooper_(musician)	Jack Cooper (musician)	dbp:genre	dbr:Classical_music
 Jack_Cooper_(musician)	Jack Cooper (musician)	dbp:genre	dbr:Jazz
 Jack_Cooper_(musician)	Jack Cooper (musician)	dbp:genre	dbr:Pop_music
-The_Australian_Jazz_Quartet	The Australian Jazz Quartet	dbp:genre	cool jazz, mood jazz (en)
 My_Place_(album)	My Place (album)	dbo:genre	dbr:Jazz
 My_Place_(album)	My Place (album)	dbp:genre	dbr:Jazz
+The_Australian_Jazz_Quartet	The Australian Jazz Quartet	dbp:genre	cool jazz, mood jazz (en)
 Now_Here_This	Now Here This	dbp:genre	Jazz (en)
 Total_Eclipse_(Billy_Cobham_album)	Total Eclipse (Billy Cobham album)	dbo:genre	dbr:Jazz_fusion
 Total_Eclipse_(Billy_Cobham_album)	Total Eclipse (Billy Cobham album)	dbp:genre	dbr:Jazz_fusion
@@ -7016,14 +7016,14 @@ What%27s_Inside	What's Inside	dbo:genre	dbr:Pop_music
 What%27s_Inside	What's Inside	dbp:genre	dbr:Pop_music
 Rewind_That	Rewind That	dbo:genre	dbr:Jazz
 Rewind_That	Rewind That	dbp:genre	dbr:Jazz
+Ocean_of_Sound	Ocean of Sound	dbo:genre	dbr:Ambient_music
+Ocean_of_Sound	Ocean of Sound	dbp:genre	dbr:Ambient_music
 Topaz_(Erik_Friedlander_album)	Topaz (Erik Friedlander album)	dbo:genre	dbr:Avant-garde
 Topaz_(Erik_Friedlander_album)	Topaz (Erik Friedlander album)	dbo:genre	dbr:Jazz
 Topaz_(Erik_Friedlander_album)	Topaz (Erik Friedlander album)	dbo:genre	dbr:Contemporary_classical_music
 Topaz_(Erik_Friedlander_album)	Topaz (Erik Friedlander album)	dbp:genre	dbr:Avant-garde
 Topaz_(Erik_Friedlander_album)	Topaz (Erik Friedlander album)	dbp:genre	dbr:Jazz
 Topaz_(Erik_Friedlander_album)	Topaz (Erik Friedlander album)	dbp:genre	dbr:Contemporary_classical_music
-Ocean_of_Sound	Ocean of Sound	dbo:genre	dbr:Ambient_music
-Ocean_of_Sound	Ocean of Sound	dbp:genre	dbr:Ambient_music
 Art_of_the_Trio_4:_Back_at_the_Vanguard	Art of the Trio 4: Back at the Vanguard	dbo:genre	dbr:Jazz
 Art_of_the_Trio_4:_Back_at_the_Vanguard	Art of the Trio 4: Back at the Vanguard	dbp:genre	dbr:Jazz
 Dave%27s_Picks_Volume_9	Dave's Picks Volume 9	dbo:genre	dbr:Rock_music
@@ -7091,8 +7091,8 @@ Miles_Davis_Quintet_(album)	Miles Davis Quintet (album)	dbp:genre	Jazz (en)
 Miles_Davis_with_Sonny_Rollins	Miles Davis with Sonny Rollins	dbp:genre	Jazz (en)
 Miles_Davis_All_Stars,_Volume_1	Miles Davis All Stars, Volume 1	dbp:genre	Jazz (en)
 Miles_Davis_All_Stars,_Volume_2	Miles Davis All Stars, Volume 2	dbp:genre	Jazz (en)
-Modern_Jazz_Trumpets	Modern Jazz Trumpets	dbp:genre	Jazz (en)
 Miles_Davis,_Volume_3	Miles Davis, Volume 3	dbp:genre	Jazz (en)
+Modern_Jazz_Trumpets	Modern Jazz Trumpets	dbp:genre	Jazz (en)
 Mellow_Miles	Mellow Miles	dbo:genre	dbr:Modal_jazz
 Mellow_Miles	Mellow Miles	dbo:genre	dbr:Cool_jazz
 Mellow_Miles	Mellow Miles	dbo:genre	dbr:Hard_bop
@@ -7222,10 +7222,10 @@ Manhattan_Afternoon	Manhattan Afternoon	dbo:genre	dbr:Jazz
 Manhattan_Afternoon	Manhattan Afternoon	dbp:genre	dbr:Jazz
 I_Remember_You_(John_Hicks_album)	I Remember You (John Hicks album)	dbo:genre	dbr:Jazz
 I_Remember_You_(John_Hicks_album)	I Remember You (John Hicks album)	dbp:genre	dbr:Jazz
-To_Pimp_a_Butterfly	To Pimp a Butterfly	dbo:genre	dbr:Hip_hop_music
-To_Pimp_a_Butterfly	To Pimp a Butterfly	dbp:genre	dbr:Hip_hop_music
 Pieces_of_Eight:_Live_at_UCLA	Pieces of Eight: Live at UCLA	dbo:genre	dbr:Jazz
 Pieces_of_Eight:_Live_at_UCLA	Pieces of Eight: Live at UCLA	dbp:genre	dbr:Jazz
+To_Pimp_a_Butterfly	To Pimp a Butterfly	dbo:genre	dbr:Hip_hop_music
+To_Pimp_a_Butterfly	To Pimp a Butterfly	dbp:genre	dbr:Hip_hop_music
 Lover_Man_(album)	Lover Man (album)	dbo:genre	dbr:Jazz
 Lover_Man_(album)	Lover Man (album)	dbp:genre	dbr:Jazz
 The_Source_(Jackie_McLean_album)	The Source (Jackie McLean album)	dbo:genre	dbr:Jazz
@@ -7300,14 +7300,14 @@ The_Great_Jazz_Trio_at_the_Village_Vanguard	The Great Jazz Trio at the Village V
 The_Great_Jazz_Trio_at_the_Village_Vanguard	The Great Jazz Trio at the Village Vanguard	dbp:genre	dbr:Jazz
 The_Great_Jazz_Trio_at_the_Village_Vanguard_Vol._2	The Great Jazz Trio at the Village Vanguard Vol. 2	dbo:genre	dbr:Jazz
 The_Great_Jazz_Trio_at_the_Village_Vanguard_Vol._2	The Great Jazz Trio at the Village Vanguard Vol. 2	dbp:genre	dbr:Jazz
-Kindness_Joy_Love_%26_Happiness	Kindness Joy Love & Happiness	dbo:genre	dbr:Jazz
-Kindness_Joy_Love_%26_Happiness	Kindness Joy Love & Happiness	dbp:genre	dbr:Jazz
-Milestones_(Great_Jazz_Trio_album)	Milestones (Great Jazz Trio album)	dbo:genre	dbr:Jazz
-Milestones_(Great_Jazz_Trio_album)	Milestones (Great Jazz Trio album)	dbp:genre	dbr:Jazz
 Groovin%27_High_(Hank_Jones_album)	Groovin' High (Hank Jones album)	dbo:genre	dbr:Jazz
 Groovin%27_High_(Hank_Jones_album)	Groovin' High (Hank Jones album)	dbp:genre	dbr:Jazz
 Bluesette_(album)	Bluesette (album)	dbo:genre	dbr:Jazz
 Bluesette_(album)	Bluesette (album)	dbp:genre	dbr:Jazz
+Milestones_(Great_Jazz_Trio_album)	Milestones (Great Jazz Trio album)	dbo:genre	dbr:Jazz
+Milestones_(Great_Jazz_Trio_album)	Milestones (Great Jazz Trio album)	dbp:genre	dbr:Jazz
+Kindness_Joy_Love_%26_Happiness	Kindness Joy Love & Happiness	dbo:genre	dbr:Jazz
+Kindness_Joy_Love_%26_Happiness	Kindness Joy Love & Happiness	dbp:genre	dbr:Jazz
 Kids:_Live_at_Dizzy%27s_Club_Coca-Cola	Kids: Live at Dizzy's Club Coca-Cola	dbo:genre	dbr:Jazz
 Kids:_Live_at_Dizzy%27s_Club_Coca-Cola	Kids: Live at Dizzy's Club Coca-Cola	dbp:genre	dbr:Jazz
 Teddy_Reig	Teddy Reig	dbo:genre	dbr:Jazz

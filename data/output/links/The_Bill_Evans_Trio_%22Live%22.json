@@ -1,4 +1,4 @@
 { name: 'The Bill Evans Trio "Live"',
-  entityType: '',
+  entityType: 'Album',
   href: 'http://dbpedia.org/page/The_Bill_Evans_Trio_%22Live%22',
   values: {} }

@@ -1,3 +1,16 @@
+/*
+  missing entity types
+  'Alfred_%22Pee_Wee%22_Ellis' - Musical Artist
+  'Leon_%22Ndugu%22_Chancler' - Musical Artist
+  'Coltrane_%22Live%22_at_the_Village_Vanguard' - Album
+  'Andy_%22Stoker%22_Growcott' - Musical Artist
+  'The_Complete_%22Is%22_Sessions' - Album
+  'Oscar_Peterson_%2B_Harry_Edison_%2B_Eddie_%22Cleanhead%22_Vinson' - Album
+  'James_%22Tootie%22_Hogan' - Musical Artist
+  'The_Bill_Evans_Trio_%22Live%22' - Album
+  'Jimmy_%22Jammin%27%22_Smith' - Musical Artist
+*/
+
 
 var data;
 var dates;
@@ -11,7 +24,7 @@ var mentionSectionObj = {};
 var containerWidth = 1145;
 var containerHeight = 753;
 
-var numRectPerRow = 30;
+var numRectPerRow = 15;
 var rectHeight = 25;
 //var rectWidth = 25;
 var rectWidth = Math.floor(containerWidth / numRectPerRow);
@@ -397,12 +410,17 @@ $(document).ready(function(){
           }
           mentionsObj[m.URL].push(m);
 
-          if(typeof mentionSectionObj[m.sectionHeader.toLowerCase()] === "undefined"){
-            mentionSectionObj[m.sectionHeader.toLowerCase()] = [];
+          var sectionHeader = m.sectionHeader.toLowerCase();
+          if(sectionHeader.trim().length === 0) {
+            sectionHeader = "first paragraph";
           }
 
-          if(mentionSectionObj[m.sectionHeader.toLowerCase()].indexOf(m.URL) === -1){
-            mentionSectionObj[m.sectionHeader.toLowerCase()].push(m.URL);
+          if(typeof mentionSectionObj[sectionHeader] === "undefined"){
+            mentionSectionObj[sectionHeader] = [];
+          }
+
+          if(mentionSectionObj[sectionHeader].indexOf(m.URL) === -1){
+            mentionSectionObj[sectionHeader].push(m.URL);
           }
 
         })
