@@ -115,11 +115,23 @@ var locationSubjectObj = {};
 var placeObj = {};
 var subjectObj = {};
 var pageSubjectObj = {};
+var mainSubjectObj = {};
+
+var subjectMentionMappingObj = {
+  works: [],
+  musicians: [],
+  people: [],
+  events: [],
+  places: [],
+  genres: [],
+  companies: [],
+  other: []
+}
 
 var containerWidth = 1145;
 var containerHeight = 753;
 
-var numRectPerRow = 15;
+var numRectPerRow = 1;
 var rectHeight = 25;
 //var rectWidth = 25;
 var rectWidth = Math.floor(containerWidth / numRectPerRow);
@@ -296,10 +308,10 @@ function redrawCircles () {
         
     var moreThan500 = $("#500-views").is(":checked")
     var selectedEntityTypes = [];
-    $("#entity-type-select input:not([value=null]):checked").each(function (j, t) { selectedEntityTypes.push($(t).val()); });
+    $("#entity-type-select input:checked").each(function (j, t) { selectedEntityTypes.push($(t).val()); });
 
     var selectedMentionHeaders = [];
-    $("#section-select input:not([value=null]):checked").map(function (j, a) { selectedMentionHeaders.push($(a).val()); });
+    $("#section-select input:checked").map(function (j, a) { selectedMentionHeaders.push($(a).val()); });
 
     var searchTerm = $(".search-label input").val().trim();
     var re = new RegExp("\\b" + d3.requote(searchTerm), "i");
@@ -314,19 +326,22 @@ function redrawCircles () {
       }
 
       if(useIndex){
-        if(selectedEntityTypes.indexOf(a.mainSubjectType.toLowerCase()) === -1){
+        if(selectedEntityTypes.indexOf(a.mainSubjectType.toLowerCase()) === -1
+          && selectedEntityTypes.indexOf("null") === -1){
           useIndex = false;
         }
       }
 
       if(useIndex){
-        useIndex = false;
-        selectedMentionHeaders.forEach(function (header) {
-        
-          if(mentionSectionObj[header].indexOf(a.URL) !== -1){
-            useIndex = true;
-          }
-        })
+        if(selectedMentionHeaders.indexOf("null") === -1){
+          useIndex = false;
+          selectedMentionHeaders.forEach(function (header) {
+          
+            if(mentionSectionObj[header].indexOf(a.URL) !== -1){
+              useIndex = true;
+            }
+          })
+        }
 
       }
 
@@ -340,7 +355,6 @@ function redrawCircles () {
       return (useIndex? i: -1);
 
     }).filter(function (a) { return a !== -1});
-
 
     $("#node-count").text(filteredIndexes.length)
 
@@ -407,9 +421,13 @@ function mouseoverEnabled (d, enabled){
       imageHTML = `<img src="http:${image}" style="width: 100px; float: left; margin: 10px"/>`;
     }
 
-    var mentionHTML = mentionsObj[d.URL].map(function (m) {
-      return `<h4>${m.sectionHeader}</h4>${m.quote.replace(/Miles Davis/gi, "<b>Miles Davis</b>")}`;
-    }).join("");
+    var mentionHTML = "";
+
+    if(typeof mentionsObj[d.URL] !== "undefined"){
+      mentionHTML = mentionsObj[d.URL].map(function (m) {
+        return `<h4>${m.sectionHeader}</h4>${m.quote.replace(/Miles Davis/gi, "<b>Miles Davis</b>")}`;
+      }).join("");
+    }
 
     tooltip.transition()    
         .duration(200)    
@@ -444,15 +462,41 @@ function initialiseFilters() {
       
       $(`#${containerId} input`).prop("checked", $(this).is(":checked")) 
       
-      redrawCircles();
     } else {
 
       var allSelected = ($(`#${containerId} input:not([value=null]):checked`).length === $(`#${containerId} input:not([value=null])`).length)
-      
       $(`#${containerId} input[value=null]`).prop("checked", allSelected) 
-    
-      redrawCircles();
+     
     }
+
+      
+    if(containerId === "entity-type-select"){
+
+      $("#section-select input:not([value=null])").closest(".check-button").hide();
+
+      var selectedSubjectTypes = $("#entity-type-select input:not([value=null]):checked");
+
+      var visibleSections = [];
+      selectedSubjectTypes.each(function(i, subjectType) {
+        var subjectVal = $(subjectType).val();
+
+        for(var x in subjectMentionMappingObj[subjectVal]){
+          if(visibleSections.indexOf(subjectMentionMappingObj[subjectVal][x]) === -1){
+            visibleSections.push(subjectMentionMappingObj[subjectVal][x])
+          }
+        }
+
+      });
+
+      var visibleSectionsSelector = visibleSections.map(function(sectionHeader) {
+        return `#section-select input[value="${sectionHeader}"]`;
+      }).join(", ");
+
+      $(visibleSectionsSelector).closest(".check-button").show();
+
+    }
+
+    redrawCircles();
   });
 
   var searchInputLabel = d3.select(".search-label input")
@@ -532,19 +576,26 @@ $(document).ready(function(){
             var mostIdentifiers = Object.keys(subjectIdentifiers)
                                     .filter(function(sub){
                                       return subjectIdentifiers[sub].length > 0;
-                                    }).sort((a, b) => { return subjectIdentifiers[b] - subjectIdentifiers[a]});
+                                    }).sort((a, b) => { return subjectIdentifiers[b].length - subjectIdentifiers[a].length});
 
             g.mainSubjectType = "other";
             if(mostIdentifiers.length > 0){
 
               g.mainSubjectType = mostIdentifiers[0];
 
-              // if(mostIdentifiers.indexOf("musicians") !== -1){
-              //   g.mainSubjectType = "musicians";
-              // }
+              if(mostIdentifiers.length > 1){
+                if(mostIdentifiers.indexOf("musicians") !== -1){
+                  g.mainSubjectType = "musicians";
+                } else if(mostIdentifiers.indexOf("companies") !== -1){
+                  g.mainSubjectType = "companies";
+                } else if(mostIdentifiers.indexOf("places") !== -1){
+                  g.mainSubjectType = "places";
+                }
+              }
 
             } 
-            
+            mainSubjectObj[g.URL] = g.mainSubjectType;
+
             subjectIdentifierCount[g.mainSubjectType]++;   
             async.setImmediate(function() { cb1(); });
           });
@@ -602,21 +653,32 @@ $(document).ready(function(){
             mentionSectionObj[sectionHeader].push(m.URL);
           }
 
+          var mainSubjectType = mainSubjectObj[m.URL];
+
+          if(typeof subjectMentionMappingObj[mainSubjectType] !== "undefined"){
+            if(subjectMentionMappingObj[mainSubjectType].indexOf(sectionHeader) === -1 ){
+              subjectMentionMappingObj[mainSubjectType].push(sectionHeader);
+            }
+          }
         });
 
-        Object.keys(mentionSectionObj).sort(function (a, b) { 
-          return mentionSectionObj[b].length - mentionSectionObj[a].length 
-        })
-        .forEach(function (sectionHeader) {
-          $("#section-select")
-            .append($(
-              `<div class="check-button">
-                <label>
-                  <input value='${sectionHeader}' type='checkbox' checked/> 
-                  <span>${sectionHeader} <small>(${mentionSectionObj[sectionHeader].length})</small> </span>
-                </label>
-              </div>`))
-        })
+        Object.keys(mentionSectionObj)
+          .filter(function(a) { return mentionSectionObj[a].length > 3 })
+          .sort(function (a, b) { 
+            return mentionSectionObj[b].length - mentionSectionObj[a].length; 
+          })
+          .forEach(function (sectionHeader) {
+            $("#section-select")
+              .append($(
+                `<div class="check-button">
+                  <label>
+                    <input value='${sectionHeader}' type='checkbox' checked/> 
+                    <span>${sectionHeader} 
+                      <!-- <small>(${mentionSectionObj[sectionHeader].length})</small> -->
+                    </span>
+                  </label>
+                </div>`));
+          });
 
 
         cb();
@@ -663,29 +725,29 @@ $(document).ready(function(){
     //     cb();
     //   });
     // },
-    getType: function (cb) {
-      d3.tsv(`./../data/d3-data-obj-types.tsv`, function(error, typeData) {
-        if (error) throw error;
-        types = typeData;
+    // getType: function (cb) {
+    //   d3.tsv(`./../data/d3-data-obj-types.tsv`, function(error, typeData) {
+    //     if (error) throw error;
+    //     types = typeData;
 
-        var typeObj = {};
-        types.forEach(function (g) { 
-          var rdfType = g.Value
-                      //.replace(/(.)+\:/, "")
-                      .replace(/[\_|\-]+/g, " ").toLowerCase();
-          if(typeof typeObj[rdfType] === "undefined"){
-           typeObj[rdfType] = 0;
-          }
-          typeObj[rdfType]++
-        })
+    //     var typeObj = {};
+    //     types.forEach(function (g) { 
+    //       var rdfType = g.Value
+    //                   //.replace(/(.)+\:/, "")
+    //                   .replace(/[\_|\-]+/g, " ").toLowerCase();
+    //       if(typeof typeObj[rdfType] === "undefined"){
+    //        typeObj[rdfType] = 0;
+    //       }
+    //       typeObj[rdfType]++
+    //     })
 
-        var popularTypes = Object.keys(typeObj).sort(function (a, b) { return typeObj[b] - typeObj[a] });
-        // console.log(popularTypes.length)
-        // console.log(popularTypes.map(function (t) { return `${typeObj[t]}\t${t}\n`}).join(""))
+    //     var popularTypes = Object.keys(typeObj).sort(function (a, b) { return typeObj[b] - typeObj[a] });
+    //     // console.log(popularTypes.length)
+    //     // console.log(popularTypes.map(function (t) { return `${typeObj[t]}\t${t}\n`}).join(""))
 
-        cb();
-      });
-    },
+    //     cb();
+    //   });
+    // },
     // getFrom: function (cb) {
     //   d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
     //     if (error) throw error;
