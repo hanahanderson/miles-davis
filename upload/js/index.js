@@ -268,6 +268,8 @@ function drawCircles () {
         mouseoverEnabled(d, true);
       })
 
+
+
   //   }
 
   // })
@@ -308,10 +310,15 @@ function redrawCircles () {
         
     var moreThan500 = $("#500-views").is(":checked")
     var selectedEntityTypes = [];
-    $("#entity-type-select input:checked").each(function (j, t) { selectedEntityTypes.push($(t).val()); });
+    $("#entity-type-select input:not([value=null]):checked").each(function (j, t) { selectedEntityTypes.push($(t).val()); });
 
     var selectedMentionHeaders = [];
-    $("#section-select input:checked").map(function (j, a) { selectedMentionHeaders.push($(a).val()); });
+    var selectedMentionHeadersCount = {};
+
+    $("#section-select input:not([value=null]):checked").each(function (j, a) { 
+      selectedMentionHeadersCount[$(a).val()] = [];
+      selectedMentionHeaders.push($(a).val()); 
+    });
 
     var searchTerm = $(".search-label input").val().trim();
     var re = new RegExp("\\b" + d3.requote(searchTerm), "i");
@@ -333,14 +340,21 @@ function redrawCircles () {
       }
 
       if(useIndex){
-        if(selectedMentionHeaders.indexOf("null") === -1){
-          useIndex = false;
-          selectedMentionHeaders.forEach(function (header) {
-          
-            if(mentionSectionObj[header].indexOf(a.URL) !== -1){
-              useIndex = true;
+        
+        useIndex = false;
+        selectedMentionHeaders.forEach(function (header) {
+        
+          if(mentionSectionObj[header].indexOf(a.URL) !== -1){
+            useIndex = true;
+            if (selectedMentionHeadersCount[header].indexOf(a.URL) === -1){
+              selectedMentionHeadersCount[header].push(a.URL) 
             }
-          })
+
+          }
+        })
+
+        if(selectedMentionHeaders.indexOf("null") !== -1){
+          useIndex = true;
         }
 
       }
@@ -351,12 +365,25 @@ function redrawCircles () {
         }
       }
 
-
       return (useIndex? i: -1);
 
     }).filter(function (a) { return a !== -1});
 
     $("#node-count").text(filteredIndexes.length)
+
+
+    for(var sectionHeader in selectedMentionHeadersCount){
+      var count = selectedMentionHeadersCount[sectionHeader].length;
+
+      $(`#section-select input[value="${sectionHeader}"]`)
+        .closest(".check-button").find("small").html(`(<text>${count}</text>)`);
+    }
+
+    // $(`#section-select input:not([value=null])`)
+    //   .closest('.checkbox')
+    //   .sort(function (a, b) {
+    //     return parseInt($(b).find("small text").text()) - parseInt($(a).find("small text").text())
+    //   })
 
     nodeContainer
       .classed("hidden", function (d, i){
@@ -674,7 +701,7 @@ $(document).ready(function(){
                   <label>
                     <input value='${sectionHeader}' type='checkbox' checked/> 
                     <span>${sectionHeader} 
-                      <!-- <small>(${mentionSectionObj[sectionHeader].length})</small> -->
+                      <small></small> 
                     </span>
                   </label>
                 </div>`));
