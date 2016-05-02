@@ -1,6 +1,6 @@
 URL	Name	From Attr	Value
-Black_Sabbath	Black Sabbath	dct:subject	dbc:Musical_groups_from_Birmingham,_West_Midlands
 Claude_Debussy	Claude Debussy	dct:subject	dbc:People_from_Saint-Germain-en-Laye
+Black_Sabbath	Black Sabbath	dct:subject	dbc:Musical_groups_from_Birmingham,_West_Midlands
 Charles_Mingus	Charles Mingus	dct:subject	dbc:Musicians_from_Arizona
 Charles_Mingus	Charles Mingus	dct:subject	dbc:Musicians_from_Los_Angeles,_California
 Charles_Mingus	Charles Mingus	dct:subject	dbc:People_from_Cuernavaca
@@ -15,25 +15,25 @@ George_Benson	George Benson	dct:subject	dbc:Musicians_from_Phoenix,_Arizona
 George_Benson	George Benson	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
 George_Benson	George Benson	dct:subject	dbc:Singers_from_Pennsylvania
 Isaac_Stern	Isaac Stern	dct:subject	dbc:People_from_Kremenets
+John_Lee_Hooker	John Lee Hooker	dct:subject	dbc:Blues_musicians_from_Mississippi
+John_Lee_Hooker	John Lee Hooker	dct:subject	dbc:Musicians_from_Tennessee
+John_Lee_Hooker	John Lee Hooker	dct:subject	dbc:People_from_Coahoma_County,_Mississippi
 James_Brown	James Brown	dct:subject	dbc:Musicians_from_Augusta,_Georgia
 James_Brown	James Brown	dct:subject	dbc:Musicians_from_South_Carolina
 James_Brown	James Brown	dct:subject	dbc:People_from_Barnwell_County,_South_Carolina
 James_Brown	James Brown	dct:subject	dbc:People_from_Toccoa,_Georgia
 James_Brown	James Brown	dct:subject	dbc:Songwriters_from_Georgia_(U.S._state)
 James_Brown	James Brown	dct:subject	dbc:Songwriters_from_South_Carolina
-John_Lee_Hooker	John Lee Hooker	dct:subject	dbc:Blues_musicians_from_Mississippi
-John_Lee_Hooker	John Lee Hooker	dct:subject	dbc:Musicians_from_Tennessee
-John_Lee_Hooker	John Lee Hooker	dct:subject	dbc:People_from_Coahoma_County,_Mississippi
 Jimi_Hendrix	Jimi Hendrix	dct:subject	dbc:Musicians_from_Seattle,_Washington
 Jimi_Hendrix	Jimi Hendrix	dct:subject	dbc:People_from_Renton,_Washington
 Jimi_Hendrix	Jimi Hendrix	dct:subject	dbc:Songwriters_from_Washington_(state)
 Joni_Mitchell	Joni Mitchell	dct:subject	dbc:Musicians_from_Saskatoon
 Joni_Mitchell	Joni Mitchell	dct:subject	dbc:People_from_the_Municipal_District_of_Willow_Creek_No._26
+Karlheinz_Stockhausen	Karlheinz Stockhausen	dct:subject	dbc:People_from_Kerpen
+Karlheinz_Stockhausen	Karlheinz Stockhausen	dct:subject	dbc:People_from_the_Rhine_Province
 Lester_Bangs	Lester Bangs	dct:subject	dbc:People_from_El_Cajon,_California
 Lester_Bangs	Lester Bangs	dct:subject	dbc:People_from_Escondido,_California
 Lester_Bangs	Lester Bangs	dct:subject	dbc:Writers_from_California
-Karlheinz_Stockhausen	Karlheinz Stockhausen	dct:subject	dbc:People_from_Kerpen
-Karlheinz_Stockhausen	Karlheinz Stockhausen	dct:subject	dbc:People_from_the_Rhine_Province
 Lynyrd_Skynyrd	Lynyrd Skynyrd	dct:subject	dbc:Musical_groups_from_Jacksonville,_Florida
 Lynyrd_Skynyrd	Lynyrd Skynyrd	dct:subject	dbc:Rock_music_groups_from_Florida
 Ron_Carter	Ron Carter	dct:subject	dbc:Musicians_from_Detroit,_Michigan
@@ -43,17 +43,17 @@ Red_Hot_Chili_Peppers	Red Hot Chili Peppers	dct:subject	dbc:Musical_groups_from_
 The_Doors	The Doors	dct:subject	dbc:Musical_groups_from_Los_Angeles,_California
 The_Doors	The Doors	dct:subject	dbc:Rock_music_groups_from_California
 Sex_Pistols	Sex Pistols	dct:subject	dbc:Musical_groups_from_London
-The_Rolling_Stones	The Rolling Stones	dct:subject	dbc:Musical_groups_from_London
 Terry_Riley	Terry Riley	dct:subject	dbc:People_from_Placer_County,_California
+The_Rolling_Stones	The Rolling Stones	dct:subject	dbc:Musical_groups_from_London
 Herbie_Hancock	Herbie Hancock	dct:subject	dbc:Jazz_musicians_from_Illinois
 Herbie_Hancock	Herbie Hancock	dct:subject	dbc:Singers_from_Chicago,_Illinois
 Igor_Stravinsky	Igor Stravinsky	dct:subject	dbc:People_from_Saint_Petersburg_Governorate
 Igor_Stravinsky	Igor Stravinsky	dct:subject	dbc:People_from_Lomonosov
 Igor_Stravinsky	Igor Stravinsky	dct:subject	dbc:Russian_Orthodox_Christians_from_the_United_States
-Duke_Ellington	Duke Ellington	dct:subject	dbc:Musicians_from_Washington,_D.C.
 Leonard_Bernstein	Leonard Bernstein	dct:subject	dbc:LGBT_musicians_from_the_United_States
 Leonard_Bernstein	Leonard Bernstein	dct:subject	dbc:People_from_Lawrence,_Massachusetts
 Leonard_Bernstein	Leonard Bernstein	dct:subject	dbc:People_from_Sharon,_Massachusetts
+Duke_Ellington	Duke Ellington	dct:subject	dbc:Musicians_from_Washington,_D.C.
 John_Coltrane	John Coltrane	dct:subject	dbc:Musicians_from_Philadelphia,_Pennsylvania
 John_Coltrane	John Coltrane	dct:subject	dbc:Musicians_from_North_Carolina
 John_Coltrane	John Coltrane	dct:subject	dbc:People_from_Richmond_County,_North_Carolina
@@ -69,13 +69,13 @@ Charlie_Parker	Charlie Parker	dct:subject	dbc:Musicians_from_Kansas_City,_Missou
 Peter_Gabriel	Peter Gabriel	dct:subject	dbc:Musicians_from_Bath,_Somerset
 Peter_Gabriel	Peter Gabriel	dct:subject	dbc:Musicians_from_Surrey
 Peter_Gabriel	Peter Gabriel	dct:subject	dbc:People_from_Chobham,_Surrey
+Yehudi_Menuhin	Yehudi Menuhin	dct:subject	dbc:Musicians_from_New_York_City
+Tony_Williams_(drummer)	Tony Williams (drummer)	dct:subject	dbc:Musicians_from_Boston,_Massachusetts
+Tony_Williams_(drummer)	Tony Williams (drummer)	dct:subject	dbc:Musicians_from_Chicago,_Illinois
 Prince_(musician)	Prince (musician)	dct:subject	dbc:Film_directors_from_Minnesota
 Prince_(musician)	Prince (musician)	dct:subject	dbc:Male_actors_from_Minneapolis,_Minnesota
 Prince_(musician)	Prince (musician)	dct:subject	dbc:Musicians_from_Minneapolis,_Minnesota
 Prince_(musician)	Prince (musician)	dct:subject	dbc:Songwriters_from_Minnesota
-Yehudi_Menuhin	Yehudi Menuhin	dct:subject	dbc:Musicians_from_New_York_City
-Tony_Williams_(drummer)	Tony Williams (drummer)	dct:subject	dbc:Musicians_from_Boston,_Massachusetts
-Tony_Williams_(drummer)	Tony Williams (drummer)	dct:subject	dbc:Musicians_from_Chicago,_Illinois
 Benjamin_Britten	Benjamin Britten	dct:subject	dbc:People_from_Lowestoft
 Benjamin_Britten	Benjamin Britten	dct:subject	dbc:LGBT_musicians_from_England
 Glenn_Miller	Glenn Miller	dct:subject	dbc:People_from_Clarinda,_Iowa
@@ -83,25 +83,25 @@ Glenn_Miller	Glenn Miller	dct:subject	dbc:People_from_Fort_Morgan,_Colorado
 Glenn_Miller	Glenn Miller	dct:subject	dbc:People_from_North_Platte,_Nebraska
 Glenn_Miller	Glenn Miller	dct:subject	dbc:Musicians_from_Colorado
 Pierre_Boulez	Pierre Boulez	dct:subject	dbc:People_from_Montbrison,_Loire
-Jean-Pierre_Rampal	Jean-Pierre Rampal	dct:subject	dbc:People_from_Marseille
 Count_Basie	Count Basie	dct:subject	dbc:Musicians_from_New_Jersey
 Count_Basie	Count Basie	dct:subject	dbc:People_from_Red_Bank,_New_Jersey
 Jack_Johnson_(boxer)	Jack Johnson (boxer)	dct:subject	dbc:People_from_Galveston,_Texas
+Jean-Pierre_Rampal	Jean-Pierre Rampal	dct:subject	dbc:People_from_Marseille
+Eric_Dolphy	Eric Dolphy	dct:subject	dbc:Jazz_musicians_from_California
+Eric_Dolphy	Eric Dolphy	dct:subject	dbc:Musicians_from_Los_Angeles,_California
 Jeff_Noon	Jeff Noon	dct:subject	dbc:People_from_Droylsden
 Wilco	Wilco	dct:subject	dbc:Musical_groups_from_Chicago,_Illinois
 Wilco	Wilco	dct:subject	dbc:Alternative_rock_groups_from_Chicago,_Illinois
-Eric_Dolphy	Eric Dolphy	dct:subject	dbc:Jazz_musicians_from_California
-Eric_Dolphy	Eric Dolphy	dct:subject	dbc:Musicians_from_Los_Angeles,_California
 Boris_Vian	Boris Vian	dct:subject	dbc:People_from_Ville-d'Avray
 Michael_Nyman	Michael Nyman	dct:subject	dbc:People_from_Stratford,_London
 Sting_(musician)	Sting (musician)	dct:subject	dbc:Musicians_from_Newcastle_upon_Tyne
 Sting_(musician)	Sting (musician)	dct:subject	dbc:People_from_Cramlington
 Sting_(musician)	Sting (musician)	dct:subject	dbc:People_from_Wallsend
-Thelonious_Monk	Thelonious Monk	dct:subject	dbc:Musicians_from_North_Carolina
-Thelonious_Monk	Thelonious Monk	dct:subject	dbc:People_from_Rocky_Mount,_North_Carolina
 Larry_Graham	Larry Graham	dct:subject	dbc:People_from_Beaumont,_Texas
 Larry_Graham	Larry Graham	dct:subject	dbc:Singers_from_Texas
 Larry_Graham	Larry Graham	dct:subject	dbc:Songwriters_from_Texas
+Thelonious_Monk	Thelonious Monk	dct:subject	dbc:Musicians_from_North_Carolina
+Thelonious_Monk	Thelonious Monk	dct:subject	dbc:People_from_Rocky_Mount,_North_Carolina
 Nick_Cave	Nick Cave	dct:subject	dbc:People_from_Wangaratta
 Nick_Cave	Nick Cave	dct:subject	dbc:Singers_from_Melbourne
 Amon_Tobin	Amon Tobin	dct:subject	dbc:Musicians_from_Rio_de_Janeiro_(city)
@@ -112,13 +112,13 @@ Alex_Haley	Alex Haley	dct:subject	dbc:Writers_from_Tennessee
 Alex_Haley	Alex Haley	dct:subject	dbc:People_from_Lauderdale_County,_Tennessee
 Alex_Haley	Alex Haley	dct:subject	dbc:People_from_Knoxville,_Tennessee
 Alex_Haley	Alex Haley	dct:subject	dbc:People_from_Ithaca,_New_York
+The_Byrds	The Byrds	dct:subject	dbc:Folk_rock_groups_from_California
+The_Byrds	The Byrds	dct:subject	dbc:Musical_groups_from_Los_Angeles,_California
+The_Byrds	The Byrds	dct:subject	dbc:Rock_music_groups_from_California
 Paul_Whiteman	Paul Whiteman	dct:subject	dbc:Musicians_from_New_Rochelle,_New_York
 Paul_Whiteman	Paul Whiteman	dct:subject	dbc:People_from_New_Rochelle,_New_York
 Paul_Whiteman	Paul Whiteman	dct:subject	dbc:People_from_New_York_City
 Paul_Whiteman	Paul Whiteman	dct:subject	dbc:Musicians_from_Denver,_Colorado
-The_Byrds	The Byrds	dct:subject	dbc:Folk_rock_groups_from_California
-The_Byrds	The Byrds	dct:subject	dbc:Musical_groups_from_Los_Angeles,_California
-The_Byrds	The Byrds	dct:subject	dbc:Rock_music_groups_from_California
 Paul_Shaffer	Paul Shaffer	dct:subject	dbc:People_from_Thunder_Bay
 Paul_Shaffer	Paul Shaffer	dct:subject	dbc:Musicians_from_Ontario
 Switchfoot	Switchfoot	dct:subject	dbc:Musical_groups_from_San_Diego,_California
@@ -126,18 +126,18 @@ Switchfoot	Switchfoot	dct:subject	dbc:Christian_rock_groups_from_California
 Switchfoot	Switchfoot	dct:subject	dbc:Alternative_rock_groups_from_California
 J._J._Johnson	J. J. Johnson	dct:subject	dbc:Musicians_from_Indianapolis,_Indiana
 Parliament-Funkadelic	Parliament-Funkadelic	dct:subject	dbc:People_from_Plainfield,_New_Jersey
-Public_Image_Ltd	Public Image Ltd	dct:subject	dbc:Musical_groups_from_London
 Alfred_Brendel	Alfred Brendel	dct:subject	dbc:People_from_Šumperk_District
 Sviatoslav_Richter	Sviatoslav Richter	dct:subject	dbc:People_from_Zhytomyr
 Sviatoslav_Richter	Sviatoslav Richter	dct:subject	dbc:People_from_Odessa
+Public_Image_Ltd	Public Image Ltd	dct:subject	dbc:Musical_groups_from_London
 Yo-Yo_Ma	Yo-Yo Ma	dct:subject	dbc:Musicians_from_Massachusetts
 Yo-Yo_Ma	Yo-Yo Ma	dct:subject	dbc:People_from_Belmont,_Massachusetts
 Yo-Yo_Ma	Yo-Yo Ma	dct:subject	dbc:People_from_Paris
 Simon_Rattle	Simon Rattle	dct:subject	dbc:Musicians_from_Liverpool
 Gy%C3%B6rgy_Ligeti	György Ligeti	dct:subject	dbc:People_from_Mureș_County
 Gy%C3%B6rgy_Ligeti	György Ligeti	dct:subject	dbc:People_from_Târnăveni
-Michel_Legrand	Michel Legrand	dct:subject	dbc:Musicians_from_Paris
 Olivier_Messiaen	Olivier Messiaen	dct:subject	dbc:People_from_Avignon
+Michel_Legrand	Michel Legrand	dct:subject	dbc:Musicians_from_Paris
 Carlos_Santana	Carlos Santana	dct:subject	dbc:People_from_Tijuana
 Carlos_Santana	Carlos Santana	dct:subject	dbc:People_from_Autlán,_Jalisco
 Rollins_Band	Rollins Band	dct:subject	dbc:Heavy_metal_musical_groups_from_California
@@ -154,12 +154,12 @@ Nikolaus_Harnoncourt	Nikolaus Harnoncourt	dct:subject	dbc:Musicians_from_Vienna
 Nikolaus_Harnoncourt	Nikolaus Harnoncourt	dct:subject	dbc:Musicians_from_Berlin
 Harry_Belafonte	Harry Belafonte	dct:subject	dbc:People_from_Harlem
 Mstislav_Rostropovich	Mstislav Rostropovich	dct:subject	dbc:People_from_Baku
-Max_Roach	Max Roach	dct:subject	dbc:Musicians_from_North_Carolina
-Max_Roach	Max Roach	dct:subject	dbc:People_from_Pasquotank_County,_North_Carolina
-Bud_Powell	Bud Powell	dct:subject	dbc:Musicians_from_New_York_City
 Charlie_Christian	Charlie Christian	dct:subject	dbc:Musicians_from_Oklahoma
 Charlie_Christian	Charlie Christian	dct:subject	dbc:People_from_Oklahoma_City,_Oklahoma
 Charlie_Christian	Charlie Christian	dct:subject	dbc:People_from_Bonham,_Texas
+Max_Roach	Max Roach	dct:subject	dbc:Musicians_from_North_Carolina
+Max_Roach	Max Roach	dct:subject	dbc:People_from_Pasquotank_County,_North_Carolina
+Bud_Powell	Bud Powell	dct:subject	dbc:Musicians_from_New_York_City
 Bill_Evans	Bill Evans	dct:subject	dbc:Musicians_from_New_Jersey
 Bill_Evans	Bill Evans	dct:subject	dbc:People_from_Plainfield,_New_Jersey
 Bill_Evans	Bill Evans	dct:subject	dbc:People_from_Fort_Lee,_New_Jersey
@@ -221,12 +221,12 @@ Coleman_Hawkins	Coleman Hawkins	dct:subject	dbc:Musicians_from_Topeka,_Kansas
 Coleman_Hawkins	Coleman Hawkins	dct:subject	dbc:Musicians_from_Chicago,_Illinois
 Coleman_Hawkins	Coleman Hawkins	dct:subject	dbc:People_from_St._Joseph,_Missouri
 Marcus_Miller	Marcus Miller	dct:subject	dbc:Musicians_from_Brooklyn
-John_Scofield	John Scofield	dct:subject	dbc:People_from_Wilton,_Connecticut
-John_Scofield	John Scofield	dct:subject	dbc:People_from_Connecticut
-John_Scofield	John Scofield	dct:subject	dbc:People_from_Dayton,_Ohio
 Quincy_Jones	Quincy Jones	dct:subject	dbc:Musicians_from_Chicago,_Illinois
 Quincy_Jones	Quincy Jones	dct:subject	dbc:Musicians_from_Washington_(state)
 Quincy_Jones	Quincy Jones	dct:subject	dbc:Songwriters_from_Illinois
+John_Scofield	John Scofield	dct:subject	dbc:People_from_Wilton,_Connecticut
+John_Scofield	John Scofield	dct:subject	dbc:People_from_Connecticut
+John_Scofield	John Scofield	dct:subject	dbc:People_from_Dayton,_Ohio
 Keith_Jarrett	Keith Jarrett	dct:subject	dbc:People_from_Warren_County,_New_Jersey
 Keith_Jarrett	Keith Jarrett	dct:subject	dbc:People_from_Allentown,_Pennsylvania
 Keith_Jarrett	Keith Jarrett	dct:subject	dbc:Musicians_from_New_Jersey
@@ -254,19 +254,19 @@ Horace_Silver	Horace Silver	dct:subject	dbc:Musicians_from_New_York_City
 Horace_Silver	Horace Silver	dct:subject	dbc:Musicians_from_Norwalk,_Connecticut
 Horace_Silver	Horace Silver	dct:subject	dbc:People_from_New_Rochelle,_New_York
 Art_Blakey	Art Blakey	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
+Sonny_Rollins	Sonny Rollins	dct:subject	dbc:Musicians_from_New_York_City
+Sonny_Rollins	Sonny Rollins	dct:subject	dbc:Jazz_musicians_from_New_York
 Steven_Van_Zandt	Steven Van Zandt	dct:subject	dbc:People_from_Middletown_Township,_New_Jersey
 Steven_Van_Zandt	Steven Van Zandt	dct:subject	dbc:Male_actors_from_New_Jersey
 Steven_Van_Zandt	Steven Van Zandt	dct:subject	dbc:People_from_Winthrop,_Massachusetts
-Sonny_Rollins	Sonny Rollins	dct:subject	dbc:Musicians_from_New_York_City
-Sonny_Rollins	Sonny Rollins	dct:subject	dbc:Jazz_musicians_from_New_York
 George_Elliott_Clarke	George Elliott Clarke	dct:subject	dbc:Writers_from_Nova_Scotia
 George_Elliott_Clarke	George Elliott Clarke	dct:subject	dbc:People_from_Windsor,_Nova_Scotia
 Billy_Eckstine	Billy Eckstine	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
 Billy_Eckstine	Billy Eckstine	dct:subject	dbc:Singers_from_Pennsylvania
 Mary_Lou_Williams	Mary Lou Williams	dct:subject	dbc:Musicians_from_Atlanta,_Georgia
 Mary_Lou_Williams	Mary Lou Williams	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
-Philly_Joe_Jones	Philly Joe Jones	dct:subject	dbc:Musicians_from_Philadelphia,_Pennsylvania
 Freddie_Hubbard	Freddie Hubbard	dct:subject	dbc:Musicians_from_Indianapolis,_Indiana
+Philly_Joe_Jones	Philly Joe Jones	dct:subject	dbc:Musicians_from_Philadelphia,_Pennsylvania
 Tadd_Dameron	Tadd Dameron	dct:subject	dbc:Musicians_from_Cleveland,_Ohio
 Jon_Hassell	Jon Hassell	dct:subject	dbc:Musicians_from_Memphis,_Tennessee
 Bill_Laswell	Bill Laswell	dct:subject	dbc:People_from_Marion_County,_Illinois
@@ -332,10 +332,10 @@ John_McLaughlin_(musician)	John McLaughlin (musician)	dct:subject	dbc:People_fro
 List_of_people_from_Illinois	List of people from Illinois	dct:subject	dbc:Lists_of_people_from_Illinois
 George_Duke	George Duke	dct:subject	dbc:Musicians_from_San_Rafael,_California
 Gy%C3%B6rgy_Kurt%C3%A1g	György Kurtág	dct:subject	dbc:People_from_Lugoj
-Thomas_Newman	Thomas Newman	dct:subject	dbc:Musicians_from_Los_Angeles,_California
 Earl_Hines	Earl Hines	dct:subject	dbc:People_from_Duquesne,_Pennsylvania
 Earl_Hines	Earl Hines	dct:subject	dbc:Musicians_from_Chicago,_Illinois
 Earl_Hines	Earl Hines	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
+Thomas_Newman	Thomas Newman	dct:subject	dbc:Musicians_from_Los_Angeles,_California
 Claude_Thornhill	Claude Thornhill	dct:subject	dbc:Musicians_from_New_Jersey
 Claude_Thornhill	Claude Thornhill	dct:subject	dbc:Musicians_from_New_Rochelle,_New_York
 Claude_Thornhill	Claude Thornhill	dct:subject	dbc:People_from_Caldwell,_New_Jersey
@@ -360,11 +360,11 @@ Krystian_Zimerman	Krystian Zimerman	dct:subject	dbc:Musicians_from_Zabrze
 Wadada_Leo_Smith	Wadada Leo Smith	dct:subject	dbc:Musicians_from_Mississippi
 Wadada_Leo_Smith	Wadada Leo Smith	dct:subject	dbc:People_from_Washington_County,_Mississippi
 Gidon_Kremer	Gidon Kremer	dct:subject	dbc:People_from_Riga
+Rick_James	Rick James	dct:subject	dbc:People_from_Buffalo,_New_York
 Witold_Lutos%C5%82awski	Witold Lutosławski	dct:subject	dbc:Musicians_from_Warsaw
 Leontyne_Price	Leontyne Price	dct:subject	dbc:People_from_Laurel,_Mississippi
 Leontyne_Price	Leontyne Price	dct:subject	dbc:People_from_Greenwich_Village
 Leontyne_Price	Leontyne Price	dct:subject	dbc:Singers_from_Mississippi
-Rick_James	Rick James	dct:subject	dbc:People_from_Buffalo,_New_York
 List_of_people_from_Michigan	List of people from Michigan	dct:subject	dbc:Lists_of_people_from_Michigan
 Gunther_Schuller	Gunther Schuller	dct:subject	dbc:Musicians_from_New_York_City
 Gunther_Schuller	Gunther Schuller	dct:subject	dbc:Jazz_musicians_from_New_York
@@ -395,18 +395,18 @@ Toto_(band)	Toto (band)	dct:subject	dbc:Musical_groups_from_Los_Angeles,_Califor
 Al_Foster	Al Foster	dct:subject	dbc:Musicians_from_New_York
 Al_Foster	Al Foster	dct:subject	dbc:People_from_Richmond,_Virginia
 Jack_DeJohnette	Jack DeJohnette	dct:subject	dbc:Musicians_from_Chicago,_Illinois
+Kenny_Clarke	Kenny Clarke	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
 Sam_Rivers	Sam Rivers	dct:subject	dbc:Musicians_from_Boston,_Massachusetts
 Sam_Rivers	Sam Rivers	dct:subject	dbc:Musicians_from_Oklahoma
 Sam_Rivers	Sam Rivers	dct:subject	dbc:People_from_Enid,_Oklahoma
 Sam_Rivers	Sam Rivers	dct:subject	dbc:Musicians_from_Illinois
-Kenny_Clarke	Kenny Clarke	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
 Cassandra_Wilson	Cassandra Wilson	dct:subject	dbc:Musicians_from_Mississippi
 Cassandra_Wilson	Cassandra Wilson	dct:subject	dbc:People_from_Jackson,_Mississippi
-Jan_Hammer	Jan Hammer	dct:subject	dbc:Musicians_from_Prague
 Peter_Sculthorpe	Peter Sculthorpe	dct:subject	dbc:People_from_Launceston,_Tasmania
 Peter_Sculthorpe	Peter Sculthorpe	dct:subject	dbc:Musicians_from_Tasmania
 Lyle_Mays	Lyle Mays	dct:subject	dbc:People_from_Marinette_County,_Wisconsin
 Lyle_Mays	Lyle Mays	dct:subject	dbc:Musicians_from_Wisconsin
+Jan_Hammer	Jan Hammer	dct:subject	dbc:Musicians_from_Prague
 Wayne_Coyne	Wayne Coyne	dct:subject	dbc:Musicians_from_Norman,_Oklahoma
 Wayne_Coyne	Wayne Coyne	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
 Wayne_Coyne	Wayne Coyne	dct:subject	dbc:Singers_from_Pennsylvania
@@ -427,9 +427,9 @@ Don_Cheadle	Don Cheadle	dct:subject	dbc:Film_directors_from_Missouri
 Don_Cheadle	Don Cheadle	dct:subject	dbc:Male_actors_from_Missouri
 Don_Cheadle	Don Cheadle	dct:subject	dbc:Male_actors_from_Denver,_Colorado
 Don_Cheadle	Don Cheadle	dct:subject	dbc:Male_actors_from_Kansas_City,_Missouri
-Robert_Christgau	Robert Christgau	dct:subject	dbc:People_from_New_York_City
 Brian_Blade	Brian Blade	dct:subject	dbc:Musicians_from_Shreveport,_Louisiana
 Brian_Blade	Brian Blade	dct:subject	dbc:Writers_from_Shreveport,_Louisiana
+Robert_Christgau	Robert Christgau	dct:subject	dbc:People_from_New_York_City
 Roy_Haynes	Roy Haynes	dct:subject	dbc:Musicians_from_Boston,_Massachusetts
 Percy_Heath	Percy Heath	dct:subject	dbc:Musicians_from_Philadelphia,_Pennsylvania
 Percy_Heath	Percy Heath	dct:subject	dbc:Musicians_from_North_Carolina
@@ -489,8 +489,8 @@ Michael_Brecker	Michael Brecker	dct:subject	dbc:People_from_Cheltenham,_Pennsylv
 Jean-Luc_Ponty	Jean-Luc Ponty	dct:subject	dbc:People_from_Manche
 Jaki_Byard	Jaki Byard	dct:subject	dbc:Musicians_from_Massachusetts
 Jaki_Byard	Jaki Byard	dct:subject	dbc:People_from_Worcester,_Massachusetts
-Woody_Shaw	Woody Shaw	dct:subject	dbc:People_from_Newark,_New_Jersey
 Bo_Stief	Bo Stief	dct:subject	dbc:Musicians_from_Copenhagen
+Woody_Shaw	Woody Shaw	dct:subject	dbc:People_from_Newark,_New_Jersey
 Tim_Hagans	Tim Hagans	dct:subject	dbc:People_from_Dayton,_Ohio
 Webster_Young	Webster Young	dct:subject	dbc:People_from_Columbia,_South_Carolina
 Betty_Davis	Betty Davis	dct:subject	dbc:Musicians_from_Pittsburgh,_Pennsylvania
@@ -511,11 +511,11 @@ Birgit_Nilsson	Birgit Nilsson	dct:subject	dbc:People_from_Scania
 Birgit_Nilsson	Birgit Nilsson	dct:subject	dbc:People_from_Båstad_Municipality
 Jimmy_Heath	Jimmy Heath	dct:subject	dbc:Musicians_from_Pennsylvania
 Jimmy_Heath	Jimmy Heath	dct:subject	dbc:People_from_Corona,_Queens
+Jeanne_Moreau	Jeanne Moreau	dct:subject	dbc:Actresses_from_Paris
+Jeanne_Moreau	Jeanne Moreau	dct:subject	dbc:Musicians_from_Paris
 Nic_Endo	Nic Endo	dct:subject	dbc:People_from_Frankfurt
 Nic_Endo	Nic Endo	dct:subject	dbc:Musicians_from_Berlin
 Nic_Endo	Nic Endo	dct:subject	dbc:People_from_Wichita_Falls,_Texas
-Jeanne_Moreau	Jeanne Moreau	dct:subject	dbc:Actresses_from_Paris
-Jeanne_Moreau	Jeanne Moreau	dct:subject	dbc:Musicians_from_Paris
 Joyce_Moreno_(musician)	Joyce Moreno (musician)	dct:subject	dbc:People_from_Rio_de_Janeiro_(city)
 Owsley_Stanley	Owsley Stanley	dct:subject	dbc:People_from_Kentucky
 Owsley_Stanley	Owsley Stanley	dct:subject	dbc:People_from_Far_North_Queensland
@@ -648,19 +648,19 @@ Charles_Lloyd_(jazz_musician)	Charles Lloyd (jazz musician)	dct:subject	dbc:Jazz
 Charles_Lloyd_(jazz_musician)	Charles Lloyd (jazz musician)	dct:subject	dbc:Musicians_from_Tennessee
 Dave_Liebman	Dave Liebman	dct:subject	dbc:People_from_Brooklyn
 List_of_people_from_Oklahoma	List of people from Oklahoma	dct:subject	dbc:Lists_of_people_from_Oklahoma
-Philip_Bailey	Philip Bailey	dct:subject	dbc:Musicians_from_Denver,_Colorado
 Tom_Vaughn_(musician)	Tom Vaughn (musician)	dct:subject	dbc:Musicians_from_Michigan
 Tom_Vaughn_(musician)	Tom Vaughn (musician)	dct:subject	dbc:People_from_Benton,_Kentucky
 Tom_Vaughn_(musician)	Tom Vaughn (musician)	dct:subject	dbc:People_from_Pontiac,_Michigan
 Tom_Vaughn_(musician)	Tom Vaughn (musician)	dct:subject	dbc:People_from_Midland,_Michigan
+Philip_Bailey	Philip Bailey	dct:subject	dbc:Musicians_from_Denver,_Colorado
 Oscar_Brown	Oscar Brown	dct:subject	dbc:Singers_from_Chicago,_Illinois
 Gilad_Atzmon	Gilad Atzmon	dct:subject	dbc:People_from_Tel_Aviv
-Elwood_Buchanan	Elwood Buchanan	dct:subject	dbc:People_from_St._Louis,_Missouri
 Jo_Lustig	Jo Lustig	dct:subject	dbc:People_from_Brooklyn
+Elwood_Buchanan	Elwood Buchanan	dct:subject	dbc:People_from_St._Louis,_Missouri
 My_Funny_Valentine	My Funny Valentine	dct:subject	dbc:Songs_from_Babes_in_Arms
 My_Funny_Valentine	My Funny Valentine	dct:subject	dbc:Songs_from_Pal_Joey_(film)
-Ian_Carr	Ian Carr	dct:subject	dbc:People_from_Dumfries
 Tommy_Smith_(saxophonist)	Tommy Smith (saxophonist)	dct:subject	dbc:Musicians_from_Edinburgh
+Ian_Carr	Ian Carr	dct:subject	dbc:People_from_Dumfries
 Bob_Berg	Bob Berg	dct:subject	dbc:Musicians_from_Brooklyn
 Billy_Paul	Billy Paul	dct:subject	dbc:People_from_Philadelphia,_Pennsylvania
 Athan_Maroulis	Athan Maroulis	dct:subject	dbc:People_from_Brooklyn
@@ -700,12 +700,12 @@ Leo_Sidran	Leo Sidran	dct:subject	dbc:People_from_Madison,_Wisconsin
 David_Hume_Kennerly	David Hume Kennerly	dct:subject	dbc:Photographers_from_Oregon
 David_Hume_Kennerly	David Hume Kennerly	dct:subject	dbc:People_from_Roseburg,_Oregon
 Joaqu%C3%ADn_Rodrigo	Joaquín Rodrigo	dct:subject	dbc:People_from_Sagunto
+Barry_Harris	Barry Harris	dct:subject	dbc:People_from_Weehawken,_New_Jersey
+Barry_Harris	Barry Harris	dct:subject	dbc:Musicians_from_Detroit,_Michigan
 Mario_Bauz%C3%A1	Mario Bauzá	dct:subject	dbc:People_from_Havana
 Mario_Bauz%C3%A1	Mario Bauzá	dct:subject	dbc:People_from_New_York_City
 List_of_people_from_St._Louis	List of people from St. Louis	dct:subject	dbc:Lists_of_people_from_Missouri
 List_of_people_from_St._Louis	List of people from St. Louis	dct:subject	dbc:People_from_St._Louis,_Missouri
-Barry_Harris	Barry Harris	dct:subject	dbc:People_from_Weehawken,_New_Jersey
-Barry_Harris	Barry Harris	dct:subject	dbc:Musicians_from_Detroit,_Michigan
 Biff_Henderson	Biff Henderson	dct:subject	dbc:People_from_Durham,_North_Carolina
 Conrad_Herwig	Conrad Herwig	dct:subject	dbc:Musicians_from_New_York_City
 Conrad_Herwig	Conrad Herwig	dct:subject	dbc:People_from_Lawton,_Oklahoma
@@ -744,8 +744,8 @@ Charles_Thompson_(jazz)	Charles Thompson (jazz)	dct:subject	dbc:Musicians_from_O
 Charles_Thompson_(jazz)	Charles Thompson (jazz)	dct:subject	dbc:People_from_Springfield,_Ohio
 Idrees_Sulieman	Idrees Sulieman	dct:subject	dbc:Musicians_from_St._Petersburg,_Florida
 Tommy_Flanagan	Tommy Flanagan	dct:subject	dbc:Musicians_from_Detroit,_Michigan
-Ray_Bryant	Ray Bryant	dct:subject	dbc:Musicians_from_Philadelphia,_Pennsylvania
 Jeff_Beal	Jeff Beal	dct:subject	dbc:People_from_Hayward,_California
+Ray_Bryant	Ray Bryant	dct:subject	dbc:Musicians_from_Philadelphia,_Pennsylvania
 Alphonse_Mouzon	Alphonse Mouzon	dct:subject	dbc:People_from_Charleston,_South_Carolina
 Shirley_Horn	Shirley Horn	dct:subject	dbc:Musicians_from_Washington,_D.C.
 Bennie_Green	Bennie Green	dct:subject	dbc:Musicians_from_Chicago,_Illinois
@@ -756,10 +756,10 @@ Steve_Reid	Steve Reid	dct:subject	dbc:People_from_Queens,_New_York
 Miles_Dewey_Davis,_Jr.	Miles Dewey Davis, Jr.	dct:subject	dbc:People_from_Jefferson_County,_Arkansas
 Miles_Dewey_Davis,_Jr.	Miles Dewey Davis, Jr.	dct:subject	dbc:People_from_St._Clair_County,_Illinois
 Marie-Claire_Alain	Marie-Claire Alain	dct:subject	dbc:People_from_Saint-Germain-en-Laye
+Gary_Thomas_(musician)	Gary Thomas (musician)	dct:subject	dbc:Musicians_from_Baltimore,_Maryland
+Bob_Mintzer	Bob Mintzer	dct:subject	dbc:Musicians_from_New_Rochelle,_New_York
 Eric_Nisenson	Eric Nisenson	dct:subject	dbc:People_from_Rye,_New_York
 Eric_Nisenson	Eric Nisenson	dct:subject	dbc:Writers_from_New_York
-Bob_Mintzer	Bob Mintzer	dct:subject	dbc:Musicians_from_New_Rochelle,_New_York
-Gary_Thomas_(musician)	Gary Thomas (musician)	dct:subject	dbc:Musicians_from_Baltimore,_Maryland
 Joe_Bonamassa	Joe Bonamassa	dct:subject	dbc:People_from_New_Hartford,_New_York
 Joe_Bonamassa	Joe Bonamassa	dct:subject	dbc:Musicians_from_New_York
 Joe_Bonamassa	Joe Bonamassa	dct:subject	dbc:People_from_Utica,_New_York
@@ -825,8 +825,8 @@ Ken_Colyer	Ken Colyer	dct:subject	dbc:People_deported_from_the_United_States
 Ken_Colyer	Ken Colyer	dct:subject	dbc:People_from_Soho
 Jon_Ballantyne	Jon Ballantyne	dct:subject	dbc:Musicians_from_Saskatchewan
 Julius_Watkins	Julius Watkins	dct:subject	dbc:Musicians_from_Detroit,_Michigan
-If_I_Were_a_Bell	If I Were a Bell	dct:subject	dbc:Songs_from_Guys_and_Dolls
 Johnny_Echols	Johnny Echols	dct:subject	dbc:People_from_Memphis,_Tennessee
+If_I_Were_a_Bell	If I Were a Bell	dct:subject	dbc:Songs_from_Guys_and_Dolls
 Bob_Cato	Bob Cato	dct:subject	dbc:Artists_from_Chicago,_Illinois
 Bob_Cato	Bob Cato	dct:subject	dbc:Artists_from_New_Orleans,_Louisiana
 Bob_Cato	Bob Cato	dct:subject	dbc:Artists_from_Philadelphia,_Pennsylvania
@@ -841,10 +841,10 @@ Bernard_Purdie	Bernard Purdie	dct:subject	dbc:People_from_Springfield_Township,_
 Bernard_Purdie	Bernard Purdie	dct:subject	dbc:People_from_Edison,_New_Jersey
 Bernard_Purdie	Bernard Purdie	dct:subject	dbc:People_from_Elkton,_Maryland
 Pink_Floyd	Pink Floyd	dct:subject	dbc:Musical_groups_from_London
-Mike_Ratledge	Mike Ratledge	dct:subject	dbc:Musicians_from_Kent
-Mike_Ratledge	Mike Ratledge	dct:subject	dbc:People_from_Maidstone
 Tandyn_Almer	Tandyn Almer	dct:subject	dbc:People_from_Minneapolis,_Minnesota
 Tandyn_Almer	Tandyn Almer	dct:subject	dbc:Songwriters_from_Minnesota
+Mike_Ratledge	Mike Ratledge	dct:subject	dbc:Musicians_from_Kent
+Mike_Ratledge	Mike Ratledge	dct:subject	dbc:People_from_Maidstone
 Chico_Freeman	Chico Freeman	dct:subject	dbc:Musicians_from_Chicago,_Illinois
 Buddy_Collette	Buddy Collette	dct:subject	dbc:Jazz_musicians_from_California
 Buddy_Collette	Buddy Collette	dct:subject	dbc:Musicians_from_Los_Angeles,_California
@@ -987,9 +987,9 @@ John_Bettis	John Bettis	dct:subject	dbc:Writers_from_Long_Beach,_California
 David_Hirschfelder	David Hirschfelder	dct:subject	dbc:People_from_Ballarat
 Willie_Ruff	Willie Ruff	dct:subject	dbc:People_from_Sheffield,_Alabama
 Willie_Ruff	Willie Ruff	dct:subject	dbc:Musicians_from_Alabama
-Art_Rust,_Jr.	Art Rust, Jr.	dct:subject	dbc:Sportspeople_from_New_York_City
 King_Britt	King Britt	dct:subject	dbc:Musicians_from_Philadelphia,_Pennsylvania
 King_Britt	King Britt	dct:subject	dbc:Rappers_from_Philadelphia,_Pennsylvania
+Art_Rust,_Jr.	Art Rust, Jr.	dct:subject	dbc:Sportspeople_from_New_York_City
 Roy_Cicala	Roy Cicala	dct:subject	dbc:Engineers_from_Connecticut
 Roy_Cicala	Roy Cicala	dct:subject	dbc:Musicians_from_New_Haven,_Connecticut
 Earnest_Woodall	Earnest Woodall	dct:subject	dbc:People_from_Commack,_New_York
@@ -1022,9 +1022,9 @@ Eddie_Henderson_(musician)	Eddie Henderson (musician)	dct:subject	dbc:Musicians_
 Earthless	Earthless	dct:subject	dbc:Musical_groups_from_San_Diego,_California
 Earthless	Earthless	dct:subject	dbc:Rock_music_groups_from_California
 Tommy_Potter	Tommy Potter	dct:subject	dbc:Musicians_from_Philadelphia,_Pennsylvania
+Frank_Butler_(musician)	Frank Butler (musician)	dct:subject	dbc:People_from_Kansas_City,_Missouri
 Steve_Popovich	Steve Popovich	dct:subject	dbc:People_from_Greene_County,_Pennsylvania
 Steve_Popovich	Steve Popovich	dct:subject	dbc:People_from_Cleveland,_Ohio
-Frank_Butler_(musician)	Frank Butler (musician)	dct:subject	dbc:People_from_Kansas_City,_Missouri
 Tom_Terrell_(journalist)	Tom Terrell (journalist)	dct:subject	dbc:People_from_Summit,_New_Jersey
 Chuck_Findley	Chuck Findley	dct:subject	dbc:People_from_Johnstown,_Pennsylvania
 Alan_Douglas_(record_producer)	Alan Douglas (record producer)	dct:subject	dbc:Businesspeople_from_Boston,_Massachusetts
@@ -1052,8 +1052,8 @@ Johnny_Coles	Johnny Coles	dct:subject	dbc:Musicians_from_New_Jersey
 Johnny_Coles	Johnny Coles	dct:subject	dbc:People_from_Trenton,_New_Jersey
 Bob_Northern	Bob Northern	dct:subject	dbc:Musicians_from_North_Carolina
 Myka_9	Myka 9	dct:subject	dbc:Rappers_from_Los_Angeles,_California
-Kenny_Hagood	Kenny Hagood	dct:subject	dbc:Musicians_from_Michigan
 Bernard_Wright	Bernard Wright	dct:subject	dbc:Musicians_from_Florida
+Kenny_Hagood	Kenny Hagood	dct:subject	dbc:Musicians_from_Michigan
 Dave_Schildkraut	Dave Schildkraut	dct:subject	dbc:Musicians_from_New_York
 Phil_Urso	Phil Urso	dct:subject	dbc:Musicians_from_New_Jersey
 Phil_Urso	Phil Urso	dct:subject	dbc:People_from_Jersey_City,_New_Jersey
@@ -1127,11 +1127,11 @@ Azar_Lawrence	Azar Lawrence	dct:subject	dbc:Musicians_from_California
 Beefy_Red	Beefy Red	dct:subject	dbc:Musical_groups_from_the_San_Francisco_Bay_Area
 John_Serry	John Serry	dct:subject	dbc:Musicians_from_New_York_City
 Fred_Plaut	Fred Plaut	dct:subject	dbc:People_from_Munich
+Carlos_Redman	Carlos Redman	dct:subject	dbc:Musicians_from_Detroit,_Michigan
 Flea_(musician)	Flea (musician)	dct:subject	dbc:Male_actors_from_California
 Flea_(musician)	Flea (musician)	dct:subject	dbc:Musicians_from_Los_Angeles,_California
 Flea_(musician)	Flea (musician)	dct:subject	dbc:Musicians_from_New_York
 Flea_(musician)	Flea (musician)	dct:subject	dbc:Musicians_from_Melbourne
-Carlos_Redman	Carlos Redman	dct:subject	dbc:Musicians_from_Detroit,_Michigan
 The_Bergevin_Brothers	The Bergevin Brothers	dct:subject	dbc:Musical_groups_from_Seattle,_Washington
 John_Nzenze	John Nzenze	dct:subject	dbc:Musicians_from_Nairobi
 Greg_Hall_(poet)	Greg Hall (poet)	dct:subject	dbc:Poets_from_California
@@ -1154,10 +1154,10 @@ Saskia_Laroo	Saskia Laroo	dct:subject	dbc:Musicians_from_Amsterdam
 James_Lavadour	James Lavadour	dct:subject	dbc:People_from_Pendleton,_Oregon
 James_Lavadour	James Lavadour	dct:subject	dbc:Artists_from_Oregon
 Ray_Tarantino	Ray Tarantino	dct:subject	dbc:Singers_from_Milan
+D*Note	D*Note	dct:subject	dbc:Musical_groups_from_London
 Terrace_Martin	Terrace Martin	dct:subject	dbc:Musicians_from_Long_Beach,_California
 Terrace_Martin	Terrace Martin	dct:subject	dbc:Rappers_from_Los_Angeles,_California
 Terrace_Martin	Terrace Martin	dct:subject	dbc:Songwriters_from_California
-D*Note	D*Note	dct:subject	dbc:Musical_groups_from_London
 Norman_Amadio	Norman Amadio	dct:subject	dbc:People_from_Timmins
 Tale_Ognenovski	Tale Ognenovski	dct:subject	dbc:People_from_Bitola
 Tale_Ognenovski	Tale Ognenovski	dct:subject	dbc:People_from_Skopje
@@ -1169,11 +1169,11 @@ Jim_Marshall_(photographer)	Jim Marshall (photographer)	dct:subject	dbc:Artists_
 Branford_Marsalis	Branford Marsalis	dct:subject	dbc:Jazz_musicians_from_New_Orleans,_Louisiana
 Branford_Marsalis	Branford Marsalis	dct:subject	dbc:People_from_New_Rochelle,_New_York
 Branford_Marsalis	Branford Marsalis	dct:subject	dbc:People_from_St._Martin_Parish,_Louisiana
+Janusz_Iwa%C5%84ski	Janusz Iwański	dct:subject	dbc:People_from_Częstochowa
+The_Blue_Method	The Blue Method	dct:subject	dbc:Musical_groups_from_Philadelphia,_Pennsylvania
 Gary_Clark,_Jr.	Gary Clark, Jr.	dct:subject	dbc:Film_directors_from_Texas
 Gary_Clark,_Jr.	Gary Clark, Jr.	dct:subject	dbc:Male_actors_from_Texas
 Gary_Clark,_Jr.	Gary Clark, Jr.	dct:subject	dbc:Singers_from_Texas
-Janusz_Iwa%C5%84ski	Janusz Iwański	dct:subject	dbc:People_from_Częstochowa
-The_Blue_Method	The Blue Method	dct:subject	dbc:Musical_groups_from_Philadelphia,_Pennsylvania
 David_Richardson_(audio_engineer)	David Richardson (audio engineer)	dct:subject	dbc:People_from_Hertfordshire
 Rain_Sultanov	Rain Sultanov	dct:subject	dbc:People_from_Baku
 Larry_Rosen_(producer)	Larry Rosen (producer)	dct:subject	dbc:People_from_the_Bronx
@@ -1218,17 +1218,17 @@ Patrick_van_Deurzen	Patrick van Deurzen	dct:subject	dbc:Musicians_from_Eindhoven
 Emayatzy_Corinealdi	Emayatzy Corinealdi	dct:subject	dbc:Actresses_from_New_Jersey
 Emayatzy_Corinealdi	Emayatzy Corinealdi	dct:subject	dbc:Actresses_from_Kentucky
 Cal_Lampley	Cal Lampley	dct:subject	dbc:People_from_Dunn,_North_Carolina
-Chris_Perry_(musician)	Chris Perry (musician)	dct:subject	dbc:People_from_Goa
 Category:Miles_Davis_tribute_albums	Category:Miles Davis tribute albums	is dct:subject of	dbr:Miles_from_India
 Lisa_Hilton_(musician)	Lisa Hilton (musician)	dct:subject	dbc:People_from_San_Luis_Obispo,_California
+Chris_Perry_(musician)	Chris Perry (musician)	dct:subject	dbc:People_from_Goa
 Todd_Carey	Todd Carey	dct:subject	dbc:People_from_Whitefish_Bay,_Wisconsin
 Todd_Carey	Todd Carey	dct:subject	dbc:People_from_Winnetka,_Illinois
 Todd_Carey	Todd Carey	dct:subject	dbc:Singers_from_Chicago,_Illinois
 Pete_Levin	Pete Levin	dct:subject	dbc:Musicians_from_Boston,_Massachusetts
 Pete_Levin	Pete Levin	dct:subject	dbc:Musicians_from_New_York
-Rakoto_Frah	Rakoto Frah	dct:subject	dbc:People_from_Antananarivo
 Tommy_Vig	Tommy Vig	dct:subject	dbc:Musicians_from_Los_Angeles,_California
 Tommy_Vig	Tommy Vig	dct:subject	dbc:Musicians_from_Budapest
+Rakoto_Frah	Rakoto Frah	dct:subject	dbc:People_from_Antananarivo
 Myron_Walden	Myron Walden	dct:subject	dbc:Musicians_from_Miami,_Florida
 Lana_Del_Rey	Lana Del Rey	dct:subject	dbc:People_from_Lake_Placid,_New_York
 Lana_Del_Rey	Lana Del Rey	dct:subject	dbc:Singers_from_Los_Angeles,_California

@@ -12,16 +12,255 @@
 */
 
 
+
+function getSubject(URL) {
+
+  var subjectList = pageSubjectObj[URL];
+
+  var identifiers = [];
+
+
+
+  //works
+    //albums
+    //books
+    //comics titles
+    //compositions
+    //discographies
+    //documentaries
+    //episodes
+    //films by/set/directed/
+    //grammy award for
+    //jazz standards
+    //live album
+    //magazines
+    //music history
+    //music related lists
+    //musicals
+    //novels
+    //songs
+    //singles
+    //soundtracks
+    //television series
+
+
+  //musicians
+    //accordionists
+    //audio engineers
+    //(band) members
+    //band members
+    //bandleaders
+    //baritones
+    //bassists
+    //bassoonists
+    //beatboxers
+    //cellists
+    //choreographers
+    //clarinetists
+    //composers
+    //conductors
+    //dancers
+    //djs
+    //drummers
+    //ensembles
+    //flautists
+    //flugelhornists
+    //frank sinatra
+    //guitarists
+    //harpists
+    //hip hop groups
+    //instrumentalists
+    //keyboardists
+    //keytarists
+    //lyricists
+    //mandolinists
+    //mastering engineers
+    //music groups
+    //musical advocacy groups
+    //musical groups
+    //musical quartets
+    //musicians
+    //occupations in music
+    //orchestra members
+    //percussionists
+    //performers
+    //pianists
+    //production companies
+    //rappers
+    //recordings artists
+    //record labels
+    //records artists
+    //record producers
+    //rock groups
+    //saxophonists
+    //singers
+    //songwriters
+    //sopranos
+    //trombonists
+    //trumpeters
+    //tubists
+    //violinists
+    //vibraphonists
+
+
+  //people
+    //actors
+    //actresses
+    //activists
+    //artists
+    //births
+    //biographers
+    //boxing promoters
+    //businesspeople
+    //deaths
+    //directors
+    //dramatists
+    //entertainers
+    //fictional characters
+    //filmmakers
+    //historians
+    //journalists
+    //models
+    //novelists
+    //passions characters
+    //people from
+    //personalities
+    //playwrights
+    //photographers
+    //poets
+    //politicians
+    //presenters
+    //producers
+    //sports announcers
+    //writers
+
+
+
+  //events
+    //annual events
+    //awards
+    //award ceremony
+    //concert tours
+    //concerts
+    //days of the year
+    //deaths by person
+    //decade "1996s".match(/\d{4}s/gi) or
+    //festivals
+    //recurring events
+    //time period  - "1996 in music".match(/\d{4} in/gi)
+    //world's fairs
+
+
+  //places
+    //buildings
+    //cities
+    //by city
+    //by country
+    //concert halls
+    //districts in the united states
+    //educational institutions 
+    //establishments
+    //event venues 
+    //districts
+    //districts and streets
+    //hotels
+    //jazz clubs
+    //music venues
+    //neighborhoods in
+    //nightclubs
+    //populated places
+    //recording studios
+    //restaurants
+    //squares in 
+    //schools in
+    //states
+    //streets in
+    //structures
+    //territories
+    //towns
+    //venues
+
+
+    //washington, d.c.
+    //upstate new york
+    //five points, denver
+
+
+  //genres
+    //australian jazz
+    //british music
+    //cabaret
+    //classical music
+    //counterculture
+    //culture of
+    //culture canon
+    //drums
+    //electro music
+    //electronic organs
+    //ethnic music in
+    //experimental music
+    //film styles
+    //funk
+    //genre
+    //genres
+    //instruments
+    //jazz by nationality
+    //jazz terminology
+    //modes
+    //musical subcultures
+    //musical techniques
+    //pitched percussion
+    //popular culture
+    //styles of music
+
+
+  //influenced
+
+
+  //other
+    //companies
+    //headphones manufacturers
+    //music industry associations
+    
+
+  //---George_Russell_(composer)
+
+
+  subjectList.forEach(function (subject) {
+    if(subject.match(/album/gi)){
+      if(identifiers.indexOf("album") === -1){
+        identifiers.push("album");
+      }
+    }
+  })
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 var data;
 var dates;
 var genres;
 var mentions;
-var imageObj;
+var imageObj = {};
 var entityTypeObj = {};
 var mentionsObj = {};
 var mentionSectionObj = {};
-var subjectObj = {};
+var locationSubjectObj = {};
 var placeObj = {};
+var subjectObj = {};
+var pageSubjectObj = {};
 
 var containerWidth = 1145;
 var containerHeight = 753;
@@ -65,7 +304,7 @@ function drawCircles () {
       .style("opacity", 0)
 
 
-  svg.on("mouseout", () => {
+  svg.on("mouseout", function () {
     tooltip.transition()    
       .delay(10000)    
       .duration(100)
@@ -90,7 +329,7 @@ function drawCircles () {
     .enter()
     .append("div")
       .attr("class", "grid-item")
-      // .attr("transform", (d, i) => {
+      // .attr("transform", function (d, i) {
       //   var x = squareCoords(i).left;
       //   var y = squareCoords(i).top;
       //   return `translate(${x}, ${y})`;
@@ -100,13 +339,13 @@ function drawCircles () {
 
   nodeContainer.style("width", `${squareWidth}px`)
       .style("height", `${squareHeight}px`)
-      .style("left", (d, i) => { return `${squareCoords(i).left}px`; })
-      .style("top", (d, i) => { return `${squareCoords(i).top}px`; })
+      .style("left", function (d, i) { return `${squareCoords(i).left}px`; })
+      .style("top", function (d, i) { return `${squareCoords(i).top}px`; })
       .style("background-image", `url("${backgroundImage}")`)
       .style("background-size", "1145px 753px")
-      .style("background-position", (d, i) => { return `-${squareCoords(i).left}px -${squareCoords(i).top}px`})
+      .style("background-position", function (d, i) { return `-${squareCoords(i).left}px -${squareCoords(i).top}px`})
       .style("color", "rgba(0,0,0,0)")
-      .text((d, i) => { return d.Name; })
+      .text(function (d, i) { return d.Name; })
 
   d3.select("body")
     .style("height", "3000px")
@@ -116,19 +355,19 @@ function drawCircles () {
     .style("background-image", `url("${backgroundImage}")`)
   var hasDrawnGrid = false;
 
-  // $(window).on("scroll", () => {
+  // $(window).on("scroll", function () {
 
   //   if(!hasDrawnGrid){
   //     nodeContainer
   //       .style("-webkit-filter", "grayscale(100%)")
   //       .style("filter", "grayscale(100%)")
-  //       .style("opacity", (d, i) => { 
+  //       .style("opacity", function (d, i) { 
   //         var pos = squareCoords(i).top + $(window).scrollTop();
   //         return `${Math.min((pos * 1.5 / $("#grid").height()), 1)}` })
-  //       // .style("-webkit-filter", (d, i) => { 
+  //       // .style("-webkit-filter", function (d, i) { 
   //       //   var pos = squareCoords(i).top + $(window).scrollTop();
   //       //   return `grayscale(${Math.min((pos / $("#grid").height()) * 100, 100)}%)` })
-  //       // .style("filter", (d, i) => { 
+  //       // .style("filter", function (d, i) { 
   //       //   var pos = squareCoords(i).top + $(window).scrollTop();
           
   //       //   return `grayscale(${Math.min((pos / $("#grid").height()) * 100, 100) }%)` })
@@ -139,16 +378,16 @@ function drawCircles () {
       $(window).unbind("scroll");
 
        nodeContainer.transition()
-        .duration((d, i) => { return (i + 1) * 2 * Math.random()})
+        .duration(function (d, i) { return (i + 1) * 2 * Math.random()})
         //.duration(200)
           .style("width", `${rectWidth}px`)
           .style("height", `${rectHeight}px`)
-          .style("left", (d, i) => { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
-          .style("top", (d, i) => { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
+          .style("left", function (d, i) { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
+          .style("top", function (d, i) { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
           .style("color", "black")
           .style("background-image", null)
           .style("opacity", 1)
-          .style("background-color", (d, i) => { return `rgba(34, 49, 63, ${Math.random() * 0.7})` })
+          .style("background-color", function (d, i) { return `rgba(34, 49, 63, ${Math.random() * 0.7})` })
           
 
       d3.select("#grid")
@@ -159,7 +398,7 @@ function drawCircles () {
 
       $("#node-count").text(data.length)
 
-      nodeContainer.on("mouseover", (d) => {
+      nodeContainer.on("mouseover", function (d) {
         mouseoverEnabled(d, true);
       })
 
@@ -168,7 +407,7 @@ function drawCircles () {
   // })
 
 
-  // setTimeout(() => {
+  // setTimeout(function () {
   //  
   // }, 3000);
 
@@ -180,15 +419,15 @@ function resetCircles() {
   $("#node-count").text(data.length)
   nodeContainer
     .classed("hidden", false)
-    .on("mouseover", (d) => {
+    .on("mouseover", function (d) {
       mouseoverEnabled(d, true);
     })
     .transition()
-    // .duration((d, i) => { return i * Math.random() * 0.5 })
-    //   .style("left", (d, i) => { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
-    //   .style("top", (d, i) => { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
+    // .duration(function (d, i) { return i * Math.random() * 0.5 })
+    //   .style("left", function (d, i) { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
+    //   .style("top", function (d, i) { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
         
-      // .attr("transform", (d, i) => {
+      // .attr("transform", function (d, i) {
       //   var x = (i % numRectPerRow) * (rectWidth + rectPadding);
       //   var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) 
       //   return `translate(${x}, ${y})`;
@@ -197,21 +436,21 @@ function resetCircles() {
 }
 function redrawCircles () {
   
-  if($("#500-views").is(":checked") 
-    || $("#entity-type-select input:checked").length > 0
-    || $("#section-select input:checked").length > 0){
+  // if($("#500-views").is(":checked") 
+  //   || $("#entity-type-select input:not([value=null]):checked").length > 0
+  //   || $("#section-select input:not([value=null]):checked").length > 0){
         
     var moreThan500 = $("#500-views").is(":checked")
     var selectedEntityTypes = [];
-    $("#entity-type-select input:checked").each((j, t) => { selectedEntityTypes.push($(t).val()); });
+    $("#entity-type-select input:checked").each(function (j, t) { selectedEntityTypes.push($(t).val()); });
 
     var selectedMentionHeaders = [];
-    $("#section-select input:checked").map((j, a) => { selectedMentionHeaders.push($(a).val()); });
+    $("#section-select input:checked").map(function (j, a) { selectedMentionHeaders.push($(a).val()); });
 
     var searchTerm = $(".search-label input").val().trim();
     var re = new RegExp("\\b" + d3.requote(searchTerm), "i");
   
-    var filteredIndexes = data.map((a, i) => { 
+    var filteredIndexes = data.map(function (a, i) { 
 
       var useIndex = true;
       if(moreThan500){
@@ -220,17 +459,19 @@ function redrawCircles () {
         }
       }
 
-      if(useIndex && selectedEntityTypes.indexOf("null") === -1 ){
+      if(useIndex //&& selectedEntityTypes.indexOf("null") === -1 
+        ){
         if(selectedEntityTypes.indexOf(a.EntityType.toLowerCase()) === -1){
           useIndex = false;
         }
       }
 
-      if(useIndex && selectedMentionHeaders.indexOf("null") === -1){
+      if(useIndex && selectedMentionHeaders.indexOf("null") === -1
+        ){
 
         useIndex = false;
 
-        selectedMentionHeaders.forEach((header) => {
+        selectedMentionHeaders.forEach(function (header) {
           if(mentionSectionObj[header].indexOf(a.URL) !== -1){
             useIndex = true;
           }
@@ -247,23 +488,23 @@ function redrawCircles () {
 
       return (useIndex? i: -1);
 
-    }).filter((a) => { return a !== -1});
+    }).filter(function (a) { return a !== -1});
 
 
     $("#node-count").text(filteredIndexes.length)
 
     nodeContainer
-      .classed("hidden", (d, i) => {
+      .classed("hidden", function (d, i){
         var index = filteredIndexes.indexOf(i); 
         return index === -1;
       })
-      .on("mouseover", (d, i) => {
+      .on("mouseover", function (d, i){
           var index = filteredIndexes.indexOf(i); 
           mouseoverEnabled(d, index !== -1);
         })
       .transition() 
         .duration(800)
-        .style("left", (d, i) => { 
+        .style("left", function (d, i){ 
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
           
@@ -272,7 +513,7 @@ function redrawCircles () {
           }
           return `${(positionIndex % numRectPerRow) * (rectWidth + rectPadding)}px`; 
         })
-        .style("top", (d, i) => { 
+        .style("top", function (d, i){ 
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
           
@@ -282,7 +523,7 @@ function redrawCircles () {
           return `${Math.floor(positionIndex / numRectPerRow) * (rectHeight + rectPadding)}px`;
         })
         
-        // .attr("transform", (d, i) => {
+        // .attr("transform", function (d, i) {
         //   var positionIndex = i;
         //   var index = filteredIndexes.indexOf(i);
           
@@ -295,9 +536,9 @@ function redrawCircles () {
         // })
 
         
-  } else {
-     resetCircles();
-  } 
+  // } else {
+  //    resetCircles();
+  // } 
 }
 
 
@@ -313,7 +554,7 @@ function mouseoverEnabled (d, enabled){
       imageHTML = `<img src="http:${image}" style="width: 100px; float: left; margin: 10px"/>`;
     }
 
-    var mentionHTML = mentionsObj[d.URL].map((m) => {
+    var mentionHTML = mentionsObj[d.URL].map(function (m) {
       return `<h4>${m.sectionHeader}</h4>${m.quote.replace(/Miles Davis/gi, "<b>Miles Davis</b>")}`;
     }).join("");
 
@@ -341,7 +582,27 @@ function mouseoverEnabled (d, enabled){
 
 function initialiseFilters() {
   $(".circle-filter input").on("change", function() {
-    redrawCircles();
+
+    console.log("hello")
+    var filterContainer = $(this).closest(".circle-filter")
+    var containerId = $(filterContainer).attr("id");
+    var value = $(this).val();
+
+    if(value === "null"){
+      
+      $(`#${containerId} input`).prop("checked", $(this).is(":checked")) 
+      
+      redrawCircles();
+    } else {
+
+      var allSelected = ($(`#${containerId} input:not([value=null]):checked`).length === $(`#${containerId} input:not([value=null])`).length)
+      
+      $(`#${containerId} input[value=null]`).prop("checked", allSelected) 
+    
+        
+
+      redrawCircles();
+    }
   });
 
   var searchInputLabel = d3.select(".search-label input")
@@ -360,14 +621,14 @@ function initialiseFilters() {
 $(document).ready(function(){
 
   async.series({
-    getPageData: (cb) => {
+    getPageData: function (cb) {
       d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
         if (error) throw error;
       
         data = pageData;
-        data = data.sort((a, b) => { return parseInt(b.PageViews) - parseInt(a.PageViews) })
+        data = data.sort(function (a, b) { return parseInt(b.PageViews) - parseInt(a.PageViews) })
 
-        data.forEach((g) => { 
+        data.forEach(function (g) { 
 
           if(g.EntityType.toLowerCase() === "q11424"){ g.EntityType = "Film"; }
           if(g.EntityType.toLowerCase() === "group100031264"){ g.EntityType = "Group"; }
@@ -381,15 +642,15 @@ $(document).ready(function(){
           entityTypeObj[entityType]++
         });
 
-        Object.keys(entityTypeObj).sort((a, b) => { 
+        Object.keys(entityTypeObj).sort(function (a, b) { 
           return entityTypeObj[b] - entityTypeObj[a] 
         })
-        .forEach((entityType) => {
+        .forEach(function (entityType) {
           $("#entity-type-select")
              .append($(
               `<div class="check-button">
                 <label>
-                  <input value='${entityType}' type='checkbox'/> 
+                  <input value='${entityType}' type='checkbox' checked/> 
                   <span>${entityType} <small>(${entityTypeObj[entityType]})</small> </span>
                 </label>
               </div>`))  
@@ -398,19 +659,19 @@ $(document).ready(function(){
         cb();
       });
     },
-    getMentionData: (cb) => {
+    getMentionData: function (cb) {
       d3.tsv(`./../data/d3-data-obj-mentions.tsv`, function(error, mentionData) {
         if (error) throw error;
         mentions = mentionData;
 
-        mentions = mentions.sort((a, b) => { 
+        mentions = mentions.sort(function (a, b) { 
           if(parseInt(a.sectionIndex) === parseInt(b.sectionIndex)){
             return parseInt(a.wordCountBeforeSection) - parseInt(b.wordCountBeforeSection);
           } 
           return parseInt(a.sectionIndex) - parseInt(b.sectionIndex)
         });
         
-        mentions.forEach((m) => {
+        mentions.forEach(function (m) {
           if(typeof mentionsObj[m.URL] === "undefined"){
             mentionsObj[m.URL] = [];
           }
@@ -429,18 +690,17 @@ $(document).ready(function(){
             mentionSectionObj[sectionHeader].push(m.URL);
           }
 
-        })
+        });
 
-
-        Object.keys(mentionSectionObj).sort((a, b) => { 
+        Object.keys(mentionSectionObj).sort(function (a, b) { 
           return mentionSectionObj[b].length - mentionSectionObj[a].length 
         })
-        .forEach((sectionHeader) => {
+        .forEach(function (sectionHeader) {
           $("#section-select")
             .append($(
               `<div class="check-button">
                 <label>
-                  <input value='${sectionHeader}' type='checkbox'/> 
+                  <input value='${sectionHeader}' type='checkbox' checked/> 
                   <span>${sectionHeader} <small>(${mentionSectionObj[sectionHeader].length})</small> </span>
                 </label>
               </div>`))
@@ -450,13 +710,13 @@ $(document).ready(function(){
         cb();
       });
     },
-    getDatesData: (cb) => {
+    getDatesData: function (cb) {
       d3.tsv(`./../data/d3-data-obj-dates.tsv`, function(error, datesData) {
         if (error) throw error;
         dates = datesData;
 
         var dateObj = {};
-        dates.forEach((g) => { 
+        dates.forEach(function (g) { 
           var dateAttr = g.DateAttr.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
           if(typeof dateObj[dateAttr] === "undefined"){
            dateObj[dateAttr] = 0;
@@ -464,20 +724,20 @@ $(document).ready(function(){
           dateObj[dateAttr]++
         })
 
-        var popularDates = Object.keys(dateObj).sort((a, b) => { return dateObj[b] - dateObj[a] });
+        var popularDates = Object.keys(dateObj).sort(function (a, b) { return dateObj[b] - dateObj[a] });
         // console.log(popularDates.length)
         // console.log(popularDates)
 
         cb();
       });
     },
-    getGenreData: (cb) => {
+    getGenreData: function (cb) {
       d3.tsv(`./../data/d3-data-obj-genres.tsv`, function(error, genreData) {
         if (error) throw error;
         genres = genreData;
 
         var genreObj = {};
-        genres.forEach((g) => { 
+        genres.forEach(function (g) { 
           var gen = g.Genre.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
           if(typeof genreObj[gen] === "undefined"){
            genreObj[gen] = 0;
@@ -485,19 +745,19 @@ $(document).ready(function(){
           genreObj[gen]++
         })
 
-        var popularGenres = Object.keys(genreObj).sort((a, b) => { return genreObj[b] - genreObj[a] });
+        var popularGenres = Object.keys(genreObj).sort(function (a, b) { return genreObj[b] - genreObj[a] });
         // console.log(popularGenres.length)
         // console.log(popularGenres)
         cb();
       });
     },
-    getType: (cb) => {
+    getType: function (cb) {
       d3.tsv(`./../data/d3-data-obj-types.tsv`, function(error, typeData) {
         if (error) throw error;
         types = typeData;
 
         var typeObj = {};
-        types.forEach((g) => { 
+        types.forEach(function (g) { 
           var rdfType = g.Value
                       //.replace(/(.)+\:/, "")
                       .replace(/[\_|\-]+/g, " ").toLowerCase();
@@ -507,28 +767,51 @@ $(document).ready(function(){
           typeObj[rdfType]++
         })
 
-        var popularTypes = Object.keys(typeObj).sort((a, b) => { return typeObj[b] - typeObj[a] });
+        var popularTypes = Object.keys(typeObj).sort(function (a, b) { return typeObj[b] - typeObj[a] });
         // console.log(popularTypes.length)
-        // console.log(popularTypes.map((t) => { return `${typeObj[t]}\t${t}\n`}).join(""))
+        // console.log(popularTypes.map(function (t) { return `${typeObj[t]}\t${t}\n`}).join(""))
 
         cb();
       });
     },
-    getFrom: (cb) => {
+    getSubjects: function (cb) {
+      d3.tsv(`./../data/d3-data-obj-subject.tsv`, function(error, subjectData) {
+        if (error) throw error;
+
+        subjectData.forEach(function (g) { 
+          var subject = g.Value
+                      .replace(/(.)+\:/, "")
+                      .replace(/[\_|\-]+/g, " ").toLowerCase();
+          if(typeof subjectObj[subject] === "undefined"){
+           subjectObj[subject] = 0;
+          }
+          subjectObj[subject]++;
+
+          if(typeof pageSubjectObj[g.URL] === "undefined"){
+            pageSubjectObj[g.URL] = [];
+          }
+          
+          pageSubjectObj[g.URL].push(subject)
+        })
+
+        cb();
+      });
+    },
+    getFrom: function (cb) {
       d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
         if (error) throw error;
         froms = fromData;
 
-        subjectObj = {};
+        locationSubjectObj = {};
         placeObj = {};
-        froms.forEach((g) => { 
+        froms.forEach(function (g) { 
 
           var parts = g.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
 
-          if(typeof subjectObj[parts[0]] === "undefined"){
-           subjectObj[parts[0]] = [];
+          if(typeof locationSubjectObj[parts[0]] === "undefined"){
+           locationSubjectObj[parts[0]] = [];
           }
-          subjectObj[parts[0]].push(g);
+          locationSubjectObj[parts[0]].push(g);
 
           var place = parts[1].replace(/(.)+\,/, "").replace(/\_/g, " ").trim();
 
@@ -539,25 +822,25 @@ $(document).ready(function(){
 
         })
 
-        console.log(subjectObj);
+        console.log(locationSubjectObj);
         console.log(placeObj);
 
         cb();
       });
     },
-    getImageData: (cb) => {
+    getImageData: function (cb) {
       d3.tsv(`./../data/d3-data-obj-image.tsv`, function(error, imageData) {
         if (error) throw error;
         
         imageObj = {};
-        imageData.forEach((g) => { 
+        imageData.forEach(function (g) { 
           imageObj[g["Page URL"]] = g["image URL"];
         })
 
         cb();
       });
     },
-    done: () => {
+    done: function () {
       drawCircles();
 
       initialiseFilters();

@@ -58,6 +58,7 @@ async.series({
 		var typeRows = "URL\tName\tType Attr\tValue\n";
 		var fromRows = "URL\tName\tFrom Attr\tValue\n";
 		var musicRows = "URL\tName\tMusic Attr\tValue\n";
+		var subjectRows = "URL\tName\tType Attr\tValue\n";
 
 		async.forEach(Object.keys(hrefObj), (href, cb1) => {
 
@@ -93,6 +94,10 @@ async.series({
 										
 										if(xString.toLowerCase().indexOf("rdf:type") !== -1){
 											typeRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
+										}
+
+										if(xString.toLowerCase().indexOf(":subject") !== -1){
+											subjectRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
 										}
 										
 										if(values[z].toLowerCase().indexOf("_from_") !== -1 
@@ -144,6 +149,8 @@ async.series({
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj-types.tsv`, typeRows);
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj-from.tsv`, fromRows);
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj-music.tsv`, musicRows);
+			fs.writeFile(`${__dirname}/../../data/d3-data-obj-subject.tsv`, subjectRows);
+
 			cb();
 		});
 
