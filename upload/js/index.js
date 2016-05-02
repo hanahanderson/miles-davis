@@ -13,209 +13,29 @@
 
 
 
-function getSubject(URL) {
+//works
+var worksRegex = new RegExp(/albums|ballads|books|comics titles|compositions|dances|discographies|documentaries|episodes|films|grammy award for|jazz standards|live album|magazines|music history|music related lists|musicals|novels|radio programs|songs|singles|soundtracks|television series|video games/, "gi");
 
-  var subjectList = pageSubjectObj[URL];
+//musicians
+var musiciansRegex = new RegExp(/accordionists|audio engineers|\(band\) members|band members|bandleaders|baritones|bassists|bassoonists|beatboxers|cellists|choreographers|clarinetists|composers|conductors|dancers|djs|drummers|ensembles|flautists|flugelhornists|frank sinatra|guitarists|harpists|hip hop groups|horn players|instrumentalists|jazz organizations|keyboardists|keytarists|lyricists|mandolinists|mastering engineers|military personnel|music groups|music organizations|musical advocacy groups|musical groups|musical quartets|musicians|occupations in music|orchestra members|percussionists|performers|pianists|production companies|rappers|recordings artists|record labels|records artists|record producers|rock groups|saxophonists|singers|songwriters|sopranos|trombonists|trumpeters|tubists|violinists|vibraphonists/, "gi");
 
-  var identifiers = [];
+//people
+var peopleRegex = new RegExp(/actors|actresses|activists|artists|births|biographers|boxing promoters|businesspeople|deaths|directors|dramatists|entertainers|fictional characters|filmmakers|historians|journalists|linguists|models|novelists|painters|passions characters|people from|personalities|playwrights|photographers|poets|politicians|presenters|producers|sculptors|socialists|sports announcers|writers/, "gi");
 
+//events
+var eventsRegex = new RegExp(/\d{4}s|\d{4} in|annual events|awards|award categories|award ceremony|concert tours|concerts|days of the year|deaths by person|festivals|grammy award|recurring events|world\'s fairs/, "gi");
 
+//places
+var placesRegex = new RegExp(/buildings|cities|by city|by country|concert halls|districts in the united states|educational institutions |establishments|event venues |districts|districts and streets|hotels|jazz clubs|lincoln center|music venues|neighborhoods in|nightclubs|populated places|recording studios|restaurants|squares in |schools in|stadium|states|streets in|structures|territories|towns|venues|villages|washington\, d\.c\.|upstate new york|five points\, denver/, "gi");
 
-  //works
-    //albums
-    //books
-    //comics titles
-    //compositions
-    //discographies
-    //documentaries
-    //episodes
-    //films by/set/directed/
-    //grammy award for
-    //jazz standards
-    //live album
-    //magazines
-    //music history
-    //music related lists
-    //musicals
-    //novels
-    //songs
-    //singles
-    //soundtracks
-    //television series
+//genres
+var genresRegex = new RegExp(/australian jazz|british music|cabaret|classical music|counterculture|culture of|culture canon|drums|electro music|electronic organs|ethnic music in|experimental music|film styles|funk|genre|genres|industrial music|instruments|jazz by nationality|jazz terminology|modes|musical scales|musical subcultures|musical techniques|pitched percussion|popular culture|styles of music/, "gi");
+
+//companies
+var companiesRegex = new RegExp(/companies|headphones manufacturers/, "gi")
 
 
-  //musicians
-    //accordionists
-    //audio engineers
-    //(band) members
-    //band members
-    //bandleaders
-    //baritones
-    //bassists
-    //bassoonists
-    //beatboxers
-    //cellists
-    //choreographers
-    //clarinetists
-    //composers
-    //conductors
-    //dancers
-    //djs
-    //drummers
-    //ensembles
-    //flautists
-    //flugelhornists
-    //frank sinatra
-    //guitarists
-    //harpists
-    //hip hop groups
-    //instrumentalists
-    //keyboardists
-    //keytarists
-    //lyricists
-    //mandolinists
-    //mastering engineers
-    //music groups
-    //musical advocacy groups
-    //musical groups
-    //musical quartets
-    //musicians
-    //occupations in music
-    //orchestra members
-    //percussionists
-    //performers
-    //pianists
-    //production companies
-    //rappers
-    //recordings artists
-    //record labels
-    //records artists
-    //record producers
-    //rock groups
-    //saxophonists
-    //singers
-    //songwriters
-    //sopranos
-    //trombonists
-    //trumpeters
-    //tubists
-    //violinists
-    //vibraphonists
-
-
-  //people
-    //actors
-    //actresses
-    //activists
-    //artists
-    //births
-    //biographers
-    //boxing promoters
-    //businesspeople
-    //deaths
-    //directors
-    //dramatists
-    //entertainers
-    //fictional characters
-    //filmmakers
-    //historians
-    //journalists
-    //models
-    //novelists
-    //passions characters
-    //people from
-    //personalities
-    //playwrights
-    //photographers
-    //poets
-    //politicians
-    //presenters
-    //producers
-    //sports announcers
-    //writers
-
-
-
-  //events
-    //annual events
-    //awards
-    //award ceremony
-    //concert tours
-    //concerts
-    //days of the year
-    //deaths by person
-    //decade "1996s".match(/\d{4}s/gi) or
-    //festivals
-    //recurring events
-    //time period  - "1996 in music".match(/\d{4} in/gi)
-    //world's fairs
-
-
-  //places
-    //buildings
-    //cities
-    //by city
-    //by country
-    //concert halls
-    //districts in the united states
-    //educational institutions 
-    //establishments
-    //event venues 
-    //districts
-    //districts and streets
-    //hotels
-    //jazz clubs
-    //music venues
-    //neighborhoods in
-    //nightclubs
-    //populated places
-    //recording studios
-    //restaurants
-    //squares in 
-    //schools in
-    //states
-    //streets in
-    //structures
-    //territories
-    //towns
-    //venues
-
-
-    //washington, d.c.
-    //upstate new york
-    //five points, denver
-
-
-  //genres
-    //australian jazz
-    //british music
-    //cabaret
-    //classical music
-    //counterculture
-    //culture of
-    //culture canon
-    //drums
-    //electro music
-    //electronic organs
-    //ethnic music in
-    //experimental music
-    //film styles
-    //funk
-    //genre
-    //genres
-    //instruments
-    //jazz by nationality
-    //jazz terminology
-    //modes
-    //musical subcultures
-    //musical techniques
-    //pitched percussion
-    //popular culture
-    //styles of music
-
-
-  //influenced
-
+function getSubject(URL, callback) {
 
   //other
     //companies
@@ -223,17 +43,51 @@ function getSubject(URL) {
     //music industry associations
     
 
-  //---George_Russell_(composer)
+  //---Jimmy_Powell_(musician)
 
 
-  subjectList.forEach(function (subject) {
-    if(subject.match(/album/gi)){
-      if(identifiers.indexOf("album") === -1){
-        identifiers.push("album");
-      }
+  var subjectList = pageSubjectObj[URL] || [];
+
+  var subjectIdentifiers = {
+    works: [],
+    musicians: [],
+    people: [],
+    events: [],
+    places: [],
+    genres: [],
+    companies: []
+  }
+
+  async.forEach(subjectList, function (subject, cb) {
+
+    if(subject.match(worksRegex)){
+      subjectIdentifiers.works = subjectIdentifiers.works.concat(subject.match(worksRegex));
     }
-  })
+    if(subject.match(musiciansRegex)){
+      subjectIdentifiers.musicians = subjectIdentifiers.musicians.concat(subject.match(musiciansRegex));
+    }
+    if(subject.match(peopleRegex)){
+      subjectIdentifiers.people = subjectIdentifiers.people.concat(subject.match(peopleRegex));
+    }
+    if(subject.match(eventsRegex)){
+      subjectIdentifiers.events = subjectIdentifiers.events.concat(subject.match(eventsRegex));
+    }
+    if(subject.match(placesRegex)){
+      subjectIdentifiers.places = subjectIdentifiers.places.concat(subject.match(placesRegex));
+    }
+    if(subject.match(genresRegex)){
+      subjectIdentifiers.genres = subjectIdentifiers.genres.concat(subject.match(genresRegex));
+    }
+    if(subject.match(companiesRegex)){
+      subjectIdentifiers.companies = subjectIdentifiers.companies.concat(subject.match(companiesRegex));
+    }
 
+    async.setImmediate(function() { cb(); });
+
+
+  }, function () {
+    callback(subjectIdentifiers);
+  });
 
 
 }
@@ -442,10 +296,10 @@ function redrawCircles () {
         
     var moreThan500 = $("#500-views").is(":checked")
     var selectedEntityTypes = [];
-    $("#entity-type-select input:checked").each(function (j, t) { selectedEntityTypes.push($(t).val()); });
+    $("#entity-type-select input:not([value=null]):checked").each(function (j, t) { selectedEntityTypes.push($(t).val()); });
 
     var selectedMentionHeaders = [];
-    $("#section-select input:checked").map(function (j, a) { selectedMentionHeaders.push($(a).val()); });
+    $("#section-select input:not([value=null]):checked").map(function (j, a) { selectedMentionHeaders.push($(a).val()); });
 
     var searchTerm = $(".search-label input").val().trim();
     var re = new RegExp("\\b" + d3.requote(searchTerm), "i");
@@ -459,19 +313,16 @@ function redrawCircles () {
         }
       }
 
-      if(useIndex //&& selectedEntityTypes.indexOf("null") === -1 
-        ){
-        if(selectedEntityTypes.indexOf(a.EntityType.toLowerCase()) === -1){
+      if(useIndex){
+        if(selectedEntityTypes.indexOf(a.mainSubjectType.toLowerCase()) === -1){
           useIndex = false;
         }
       }
 
-      if(useIndex && selectedMentionHeaders.indexOf("null") === -1
-        ){
-
+      if(useIndex){
         useIndex = false;
-
         selectedMentionHeaders.forEach(function (header) {
+        
           if(mentionSectionObj[header].indexOf(a.URL) !== -1){
             useIndex = true;
           }
@@ -544,7 +395,9 @@ function redrawCircles () {
 
 function mouseoverEnabled (d, enabled){
   if(enabled){
-     console.log(d);
+    console.log("--------------------")
+    console.log(d);
+    console.log(pageSubjectObj[d.URL])
 
     var image = imageObj[d.URL];
 
@@ -618,6 +471,29 @@ function initialiseFilters() {
 $(document).ready(function(){
 
   async.series({
+    getSubjects: function (cb) {
+      d3.tsv(`./../data/d3-data-obj-subject.tsv`, function(error, subjectData) {
+        if (error) throw error;
+
+        subjectData.forEach(function (g) { 
+          var subject = g.Value
+                      .replace(/(.)+\:/, "")
+                      .replace(/[\_|\-]+/g, " ").toLowerCase();
+          if(typeof subjectObj[subject] === "undefined"){
+           subjectObj[subject] = 0;
+          }
+          subjectObj[subject]++;
+
+          if(typeof pageSubjectObj[g.URL] === "undefined"){
+            pageSubjectObj[g.URL] = [];
+          }
+          
+          pageSubjectObj[g.URL].push(subject)
+        })
+
+        cb();
+      });
+    },
     getPageData: function (cb) {
       d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
         if (error) throw error;
@@ -625,35 +501,74 @@ $(document).ready(function(){
         data = pageData;
         data = data.sort(function (a, b) { return parseInt(b.PageViews) - parseInt(a.PageViews) })
 
-        data.forEach(function (g) { 
+        var subjectIdentifierCount = {
+          works: 0,
+          musicians: 0,
+          people: 0,
+          events: 0,
+          places: 0,
+          genres: 0,
+          companies: 0,
+          other: 0
+        }
+
+        async.forEach(data, function(g, cb1) { 
 
           if(g.EntityType.toLowerCase() === "q11424"){ g.EntityType = "Film"; }
           if(g.EntityType.toLowerCase() === "group100031264"){ g.EntityType = "Group"; }
           if(g.EntityType.toLowerCase() === "agent114778436"){ g.EntityType = "Drug"; }
 
 
-          var entityType = g.EntityType.toLowerCase();
+          var entityType = g.EntityType.replace(/[^a-z|A-Z|0-9|\s]/gi, "").toLowerCase();
           if(typeof entityTypeObj[entityType] === "undefined"){
            entityTypeObj[entityType] = 0;
           }
-          entityTypeObj[entityType]++
+          entityTypeObj[entityType]++;
+
+
+          getSubject(g.URL, function(subjectIdentifiers){ 
+            g.subjectIdentifiers = subjectIdentifiers;
+
+            var mostIdentifiers = Object.keys(subjectIdentifiers)
+                                    .filter(function(sub){
+                                      return subjectIdentifiers[sub].length > 0;
+                                    }).sort((a, b) => { return subjectIdentifiers[b] - subjectIdentifiers[a]});
+
+            g.mainSubjectType = "other";
+            if(mostIdentifiers.length > 0){
+
+              g.mainSubjectType = mostIdentifiers[0];
+
+              // if(mostIdentifiers.indexOf("musicians") !== -1){
+              //   g.mainSubjectType = "musicians";
+              // }
+
+            } 
+            
+            subjectIdentifierCount[g.mainSubjectType]++;   
+            async.setImmediate(function() { cb1(); });
+          });
+
+        }, function() {
+
+          Object.keys(subjectIdentifierCount).sort(function (a, b) { 
+            return subjectIdentifierCount[b] - subjectIdentifierCount[a] 
+          })
+          .forEach(function (subject) {
+            $("#entity-type-select")
+               .append($(
+                `<div class="check-button">
+                  <label>
+                    <input value='${subject}' type='checkbox' checked/> 
+                    <span>${subject} <small>(${subjectIdentifierCount[subject]})</small> </span>
+                  </label>
+                </div>`)) ; 
+          });
+
+          cb();
+
         });
 
-        Object.keys(entityTypeObj).sort(function (a, b) { 
-          return entityTypeObj[b] - entityTypeObj[a] 
-        })
-        .forEach(function (entityType) {
-          $("#entity-type-select")
-             .append($(
-              `<div class="check-button">
-                <label>
-                  <input value='${entityType}' type='checkbox' checked/> 
-                  <span>${entityType} <small>(${entityTypeObj[entityType]})</small> </span>
-                </label>
-              </div>`))  
-        })
-
-        cb();
       });
     },
     getMentionData: function (cb) {
@@ -674,7 +589,7 @@ $(document).ready(function(){
           }
           mentionsObj[m.URL].push(m);
 
-          var sectionHeader = m.sectionHeader.toLowerCase();
+          var sectionHeader = m.sectionHeader.replace(/[^a-z|A-Z|0-9|\s]/gi, "").toLowerCase();
           if(sectionHeader.trim().length === 0) {
             sectionHeader = "first paragraph";
           }
@@ -707,47 +622,47 @@ $(document).ready(function(){
         cb();
       });
     },
-    getDatesData: function (cb) {
-      d3.tsv(`./../data/d3-data-obj-dates.tsv`, function(error, datesData) {
-        if (error) throw error;
-        dates = datesData;
+    // getDatesData: function (cb) {
+    //   d3.tsv(`./../data/d3-data-obj-dates.tsv`, function(error, datesData) {
+    //     if (error) throw error;
+    //     dates = datesData;
 
-        var dateObj = {};
-        dates.forEach(function (g) { 
-          var dateAttr = g.DateAttr.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
-          if(typeof dateObj[dateAttr] === "undefined"){
-           dateObj[dateAttr] = 0;
-          }
-          dateObj[dateAttr]++
-        })
+    //     var dateObj = {};
+    //     dates.forEach(function (g) { 
+    //       var dateAttr = g.DateAttr.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
+    //       if(typeof dateObj[dateAttr] === "undefined"){
+    //        dateObj[dateAttr] = 0;
+    //       }
+    //       dateObj[dateAttr]++
+    //     })
 
-        var popularDates = Object.keys(dateObj).sort(function (a, b) { return dateObj[b] - dateObj[a] });
-        // console.log(popularDates.length)
-        // console.log(popularDates)
+    //     var popularDates = Object.keys(dateObj).sort(function (a, b) { return dateObj[b] - dateObj[a] });
+    //     // console.log(popularDates.length)
+    //     // console.log(popularDates)
 
-        cb();
-      });
-    },
-    getGenreData: function (cb) {
-      d3.tsv(`./../data/d3-data-obj-genres.tsv`, function(error, genreData) {
-        if (error) throw error;
-        genres = genreData;
+    //     cb();
+    //   });
+    // },
+    // getGenreData: function (cb) {
+    //   d3.tsv(`./../data/d3-data-obj-genres.tsv`, function(error, genreData) {
+    //     if (error) throw error;
+    //     genres = genreData;
 
-        var genreObj = {};
-        genres.forEach(function (g) { 
-          var gen = g.Genre.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
-          if(typeof genreObj[gen] === "undefined"){
-           genreObj[gen] = 0;
-          }
-          genreObj[gen]++
-        })
+    //     var genreObj = {};
+    //     genres.forEach(function (g) { 
+    //       var gen = g.Genre.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
+    //       if(typeof genreObj[gen] === "undefined"){
+    //        genreObj[gen] = 0;
+    //       }
+    //       genreObj[gen]++
+    //     })
 
-        var popularGenres = Object.keys(genreObj).sort(function (a, b) { return genreObj[b] - genreObj[a] });
-        // console.log(popularGenres.length)
-        // console.log(popularGenres)
-        cb();
-      });
-    },
+    //     var popularGenres = Object.keys(genreObj).sort(function (a, b) { return genreObj[b] - genreObj[a] });
+    //     // console.log(popularGenres.length)
+    //     // console.log(popularGenres)
+    //     cb();
+    //   });
+    // },
     getType: function (cb) {
       d3.tsv(`./../data/d3-data-obj-types.tsv`, function(error, typeData) {
         if (error) throw error;
@@ -771,60 +686,37 @@ $(document).ready(function(){
         cb();
       });
     },
-    getSubjects: function (cb) {
-      d3.tsv(`./../data/d3-data-obj-subject.tsv`, function(error, subjectData) {
-        if (error) throw error;
+    // getFrom: function (cb) {
+    //   d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
+    //     if (error) throw error;
+    //     froms = fromData;
 
-        subjectData.forEach(function (g) { 
-          var subject = g.Value
-                      .replace(/(.)+\:/, "")
-                      .replace(/[\_|\-]+/g, " ").toLowerCase();
-          if(typeof subjectObj[subject] === "undefined"){
-           subjectObj[subject] = 0;
-          }
-          subjectObj[subject]++;
+    //     locationSubjectObj = {};
+    //     placeObj = {};
+    //     froms.forEach(function (g) { 
 
-          if(typeof pageSubjectObj[g.URL] === "undefined"){
-            pageSubjectObj[g.URL] = [];
-          }
-          
-          pageSubjectObj[g.URL].push(subject)
-        })
+    //       var parts = g.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
 
-        cb();
-      });
-    },
-    getFrom: function (cb) {
-      d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
-        if (error) throw error;
-        froms = fromData;
+    //       if(typeof locationSubjectObj[parts[0]] === "undefined"){
+    //        locationSubjectObj[parts[0]] = [];
+    //       }
+    //       locationSubjectObj[parts[0]].push(g);
 
-        locationSubjectObj = {};
-        placeObj = {};
-        froms.forEach(function (g) { 
+    //       var place = parts[1].replace(/(.)+\,/, "").replace(/\_/g, " ").trim();
 
-          var parts = g.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
+    //       if(typeof placeObj[place] === "undefined"){
+    //        placeObj[place] = [];
+    //       }
+    //       placeObj[place].push(g);
 
-          if(typeof locationSubjectObj[parts[0]] === "undefined"){
-           locationSubjectObj[parts[0]] = [];
-          }
-          locationSubjectObj[parts[0]].push(g);
+    //     })
 
-          var place = parts[1].replace(/(.)+\,/, "").replace(/\_/g, " ").trim();
+    //     console.log(locationSubjectObj);
+    //     console.log(placeObj);
 
-          if(typeof placeObj[place] === "undefined"){
-           placeObj[place] = [];
-          }
-          placeObj[place].push(g);
-
-        })
-
-        console.log(locationSubjectObj);
-        console.log(placeObj);
-
-        cb();
-      });
-    },
+    //     cb();
+    //   });
+    // },
     getImageData: function (cb) {
       d3.tsv(`./../data/d3-data-obj-image.tsv`, function(error, imageData) {
         if (error) throw error;
