@@ -583,15 +583,15 @@ $(document).ready(function(){
 
               g.mainSubjectType = mostIdentifiers[0];
 
-              if(mostIdentifiers.length > 1){
-                if(mostIdentifiers.indexOf("musicians") !== -1){
-                  g.mainSubjectType = "musicians";
-                } else if(mostIdentifiers.indexOf("companies") !== -1){
-                  g.mainSubjectType = "companies";
-                } else if(mostIdentifiers.indexOf("places") !== -1){
-                  g.mainSubjectType = "places";
-                }
-              }
+              // if(mostIdentifiers.length > 1){
+              //   if(mostIdentifiers.indexOf("musicians") !== -1){
+              //     g.mainSubjectType = "musicians";
+              //   } else if(mostIdentifiers.indexOf("companies") !== -1){
+              //     g.mainSubjectType = "companies";
+              //   } else if(mostIdentifiers.indexOf("places") !== -1){
+              //     g.mainSubjectType = "places";
+              //   }
+              // }
 
             } 
             mainSubjectObj[g.URL] = g.mainSubjectType;
