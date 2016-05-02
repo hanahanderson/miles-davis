@@ -583,7 +583,6 @@ function mouseoverEnabled (d, enabled){
 function initialiseFilters() {
   $(".circle-filter input").on("change", function() {
 
-    console.log("hello")
     var filterContainer = $(this).closest(".circle-filter")
     var containerId = $(filterContainer).attr("id");
     var value = $(this).val();
@@ -599,8 +598,6 @@ function initialiseFilters() {
       
       $(`#${containerId} input[value=null]`).prop("checked", allSelected) 
     
-        
-
       redrawCircles();
     }
   });
