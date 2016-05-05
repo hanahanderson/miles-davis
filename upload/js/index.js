@@ -14,13 +14,13 @@
 
 
 //works
-var worksRegex = new RegExp(/albums|ballads|books|comics titles|compositions|dances|discographies|documentaries|episodes|films|grammy award for|jazz standards|live album|magazines|music history|music related lists|musicals|novels|radio programs|songs|singles|soundtracks|television series|video games/, "gi");
+var worksRegex = new RegExp(/album\)|albums|ballads|books|comics titles|compositions|dances|discographies|documentaries|episodes|films|grammy award for|jazz standards|live album|magazines|music history|music related lists|musicals|novels|radio programs|songs|singles|soundtracks|television series|video games/, "gi");
 
 //musicians
-var musiciansRegex = new RegExp(/accordionists|audio engineers|\(band\) members|band members|bandleaders|baritones|bassists|bassoonists|beatboxers|cellists|choreographers|clarinetists|composers|conductors|dancers|djs|drummers|ensembles|flautists|flugelhornists|frank sinatra|guitarists|harpists|hip hop groups|horn players|instrumentalists|jazz organizations|keyboardists|keytarists|lyricists|mandolinists|mastering engineers|military personnel|music groups|music organizations|musical advocacy groups|musical groups|musical quartets|musicians|occupations in music|orchestra members|percussionists|performers|pianists|production companies|rappers|recordings artists|record labels|records artists|record producers|rock groups|saxophonists|singers|songwriters|sopranos|trombonists|trumpeters|tubists|violinists|vibraphonists/, "gi");
+var musiciansRegex = new RegExp(/accordionists|audio engineers|band\)|\(band\) members|band members|bandleaders|baritones|bassists|bassoonists|beatboxers|cellists|choreographers|clarinetists|composers|conductors|dancers|djs|drummers|ensembles|flautists|flugelhornists|frank sinatra|guitarists|harpists|hip hop groups|horn players|instrumentalists|jazz organizations|keyboardist|keyboardists|keytarists|lyricists|mandolinists|mastering engineers|military personnel|music groups|music organizations|musical advocacy groups|musical artist|musical groups|musical quartets|musician\)|musicians|occupations in music|orchestra members|percussionists|performers|pianists|production companies|rappers|recordings artists|record labels|records artists|record producers|rock groups|saxophonists|singer\)|singers|songwriters|sopranos|trombonists|trumpeters|tubists|violinists|vibraphonists/, "gi");
 
 //people
-var peopleRegex = new RegExp(/actors|actresses|activists|artists|births|biographers|boxing promoters|businesspeople|deaths|directors|dramatists|entertainers|fictional characters|filmmakers|historians|journalists|linguists|models|novelists|painters|passions characters|people from|personalities|playwrights|photographers|poets|politicians|presenters|producers|sculptors|socialists|sports announcers|writers/, "gi");
+var peopleRegex = new RegExp(/actors|actresses|activists|artists|births|biographers|boxing promoters|businesspeople|deaths|directors|dramatists|entertainers|fictional characters|filmmakers|historians|journalists|linguists|models|novelists|painters|passions characters|people from|personalities|playwrights|photographers|poets|politicians|presenters|producers|scientist|sculptors|socialists|sports announcers|surgeon|writers/, "gi");
 
 //events
 var eventsRegex = new RegExp(/\d{4}s|\d{4} in|annual events|awards|award categories|award ceremony|concert tours|concerts|days of the year|deaths by person|festivals|grammy award|recurring events|world\'s fairs/, "gi");
@@ -32,10 +32,12 @@ var placesRegex = new RegExp(/buildings|cities|by city|by country|concert halls|
 var genresRegex = new RegExp(/australian jazz|british music|cabaret|classical music|counterculture|culture of|culture canon|drums|electro music|electronic organs|ethnic music in|experimental music|film styles|funk|genre|genres|industrial music|instruments|jazz by nationality|jazz terminology|modes|musical scales|musical subcultures|musical techniques|pitched percussion|popular culture|styles of music/, "gi");
 
 //companies
-var companiesRegex = new RegExp(/companies|headphones manufacturers/, "gi")
+var companiesRegex = new RegExp(/companies|headphones manufacturers|subsidiary/, "gi")
 
 
-function getSubject(URL, callback) {
+function getSubject(d, callback) {
+
+  var URL = d.URL;
 
   //other
     //companies
@@ -47,6 +49,19 @@ function getSubject(URL, callback) {
 
 
   var subjectList = pageSubjectObj[URL] || [];
+
+  if( !URL.toLowerCase().startsWith("draft:") 
+    && !URL.toLowerCase().startsWith("file:")
+    && !URL.toLowerCase().startsWith("portal:")
+    && !URL.toLowerCase().startsWith("talk:")
+    && !URL.toLowerCase().startsWith("user:") 
+    && !URL.toLowerCase().startsWith("user talk:")
+    && !URL.toLowerCase().startsWith("wikipedia:")
+    && !URL.toLowerCase().startsWith("wikipedia talk:")){
+      subjectList.push(URL)
+  }
+
+  subjectList.push(d.EntityType);
 
   var subjectIdentifiers = {
     works: [],
@@ -106,16 +121,22 @@ function getSubject(URL, callback) {
 var data;
 var dates;
 var genres;
+var genreObj = {}
 var mentions;
 var imageObj = {};
-var entityTypeObj = {};
 var mentionsObj = {};
 var mentionSectionObj = {};
 var locationSubjectObj = {};
+var pageLocationObj = {};
+var pageLinkMappingObj = {};
 var placeObj = {};
 var subjectObj = {};
 var pageSubjectObj = {};
 var mainSubjectObj = {};
+var pageArtistObj = {};
+var artistOfObj = {};
+
+var nodesObj = {};
 
 var subjectMentionMappingObj = {
   works: [],
@@ -128,10 +149,21 @@ var subjectMentionMappingObj = {
   other: []
 }
 
+var subjectColors = {
+  works: "#F7CA18", //yellow
+  musicians: "#D91E18", //red
+  people: "#E87E04", //orange
+  events: "#26A65B", //green
+  places: "#9B59B6", //purple
+  genres: "#3498DB", //blue
+  companies: "#BDC3C7",
+  other: "#BDC3C7"
+}
+
 var containerWidth = 1145;
 var containerHeight = 753;
 
-var numRectPerRow = 1;
+var numRectPerRow = 5;
 var rectHeight = 25;
 //var rectWidth = 25;
 var rectWidth = Math.floor(containerWidth / numRectPerRow);
@@ -211,7 +243,19 @@ function drawCircles () {
       .style("background-size", "1145px 753px")
       .style("background-position", function (d, i) { return `-${squareCoords(i).left}px -${squareCoords(i).top}px`})
       .style("color", "rgba(0,0,0,0)")
-      .text(function (d, i) { return d.Name; })
+      .html(function (d, i) { 
+        var pageName = d.Name;
+
+        if(typeof d.artists !== "undefined"){
+          var spanStyle = "font-weight: bolder"
+          var artistArray = [];
+          for(var x in d.artists){
+            artistArray.push(d.artists[x].name);
+          }
+          pageName += `<small><i> by ${artistArray.join(", ")}</i></small>`
+        }
+        return `<span style='${spanStyle}'>${pageName}</span>`; 
+      })
 
   d3.select("body")
     .style("height", "3000px")
@@ -253,7 +297,7 @@ function drawCircles () {
           .style("color", "black")
           .style("background-image", null)
           .style("opacity", 1)
-          .style("background-color", function (d, i) { return `rgba(34, 49, 63, ${Math.random() * 0.7})` })
+          .style("background-color", function (d, i) { return subjectColors[d.mainSubjectType] })
           
 
       d3.select("#grid")
@@ -438,9 +482,7 @@ function mouseoverEnabled (d, enabled){
   if(enabled){
     console.log("--------------------")
     console.log(d);
-    console.log(pageSubjectObj[d.URL])
-
-    var image = imageObj[d.URL];
+    var image = d.imageURL;
 
     var imageHTML = "";
 
@@ -456,6 +498,15 @@ function mouseoverEnabled (d, enabled){
       }).join("");
     }
 
+    var pageName = d.Name;
+    if(typeof d.artists !== "undefined"){
+      var artistArray = [];
+      for(var x in d.artists){
+        artistArray.push(d.artists[x].name);
+      }
+      pageName += `<small><i> <br>by ${artistArray.join(", ")}</i></small>`
+    }
+
     tooltip.transition()    
         .duration(200)    
         .style("opacity", 1);    
@@ -464,7 +515,7 @@ function mouseoverEnabled (d, enabled){
           <tbody>
             <tr>
               <td>
-                <h4>${d.Name}</h4>
+                <h4>${pageName}</h4>
                 ${imageHTML}
                 ${mentionHTML}
               </td>
@@ -538,16 +589,29 @@ function initialiseFilters() {
   }
 }
 
-
+var subjects;
 $(document).ready(function(){
 
   async.series({
+    getImageData: function (cb) {
+      d3.tsv(`./../data/d3-data-obj-image.tsv`, function(error, imageData) {
+        if (error) throw error;
+        
+        imageObj = {};
+        imageData.forEach(function (d) { 
+          imageObj[d["Page URL"]] = d["image URL"];
+        })
+
+        cb();
+      });
+    },
     getSubjects: function (cb) {
       d3.tsv(`./../data/d3-data-obj-subject.tsv`, function(error, subjectData) {
         if (error) throw error;
 
-        subjectData.forEach(function (g) { 
-          var subject = g.Value
+        subjects = subjectData;
+        subjectData.forEach(function (d) { 
+          var subject = d.Value
                       .replace(/(.)+\:/, "")
                       .replace(/[\_|\-]+/g, " ").toLowerCase();
           if(typeof subjectObj[subject] === "undefined"){
@@ -555,12 +619,191 @@ $(document).ready(function(){
           }
           subjectObj[subject]++;
 
-          if(typeof pageSubjectObj[g.URL] === "undefined"){
-            pageSubjectObj[g.URL] = [];
+          if(typeof pageSubjectObj[d.URL] === "undefined"){
+            pageSubjectObj[d.URL] = [];
           }
           
-          pageSubjectObj[g.URL].push(subject)
+          pageSubjectObj[d.URL].push(subject)
         })
+
+        cb();
+      });
+    },
+    getArtist: function (cb) {
+      d3.tsv(`./../data/d3-data-obj-music.tsv`, function(error, artistData) {
+        if (error) throw error;
+
+        artistData.forEach(function (d) { 
+
+          var artistURL = d.Value.replace(/(.)+\:/, "");
+          var artist = artistURL.replace(/[\_|\-]+/g, " ");
+
+          if(typeof pageArtistObj[d.URL] === "undefined"){
+            pageArtistObj[d.URL] = [];
+          }
+          
+          pageArtistObj[d.URL].push({
+            value: d.Value,
+            name: artist
+          });
+
+          if(typeof artistOfObj[artistURL] === "undefined"){
+            artistOfObj[artistURL] = [];
+          }
+
+          artistOfObj[artistURL].push(d.URL);
+
+        });
+
+
+        cb();
+      });
+    },
+    getMetaDataLinks: function (cb) {
+      d3.tsv(`./../data/d3-data-obj-url-link.tsv`, function(error, linkData) {
+        if (error) throw error;
+
+        var connectionAttr = [];
+        linkData.forEach(function (d) { 
+          
+          var attr = d.Attr.replace(/(.)+\:/, "")
+                        //.replace(" of", "")
+                        .toLowerCase();
+
+          if(attr !== "subject"){
+
+            if(connectionAttr.indexOf(attr) === -1){
+              connectionAttr.push(attr) 
+            }
+
+            if(typeof pageLinkMappingObj[d.URL] === "undefined"){
+              pageLinkMappingObj[d.URL] = {};
+            } 
+
+            if(typeof pageLinkMappingObj[d.URL][attr] === "undefined"){
+              pageLinkMappingObj[d.URL][attr] = [];
+            }
+            
+            if(pageLinkMappingObj[d.URL][attr].indexOf(d.Value) === -1){
+              pageLinkMappingObj[d.URL][attr].push(d.Value)
+            }
+          }
+
+        }); 
+
+        // console.log(pageLinkMappingObj)
+        // console.log(connectionAttr.sort())
+
+        cb();
+      });
+    },
+    getDatesData: function (cb) {
+      d3.tsv(`./../data/d3-data-obj-dates.tsv`, function(error, datesData) {
+        if (error) throw error;
+        dates = datesData;
+
+        var dateObj = {};
+        dates.forEach(function (d) { 
+          var dateAttr = d.DateAttr.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
+          if(typeof dateObj[dateAttr] === "undefined"){
+           dateObj[dateAttr] = 0;
+          }
+          dateObj[dateAttr]++
+        })
+
+        var popularDates = Object.keys(dateObj).sort(function (a, b) { return dateObj[b] - dateObj[a] });
+        // console.log(popularDates.length)
+        // console.log(popularDates)
+
+        cb();
+      });
+    },
+    getGenreData: function (cb) {
+        d3.tsv(`./../data/d3-data-obj-genres.tsv`, function(error, genreData) {
+          if (error) throw error;
+          genres = genreData;
+
+          genreObj = {};
+          genres.forEach(function (d) { 
+            if(typeof genreObj[d.URL] === "undefined"){
+             genreObj[d.URL] = {};
+            }
+
+            var genreAttr = d.GenreAttr.replace(/(.)+\:/, "");
+            var val = d.Genre.replace(/(.)+\:/, "");
+
+            if(typeof genreObj[d.URL][genreAttr] === "undefined"){
+              genreObj[d.URL][genreAttr] = [];
+            }
+            if(genreObj[d.URL][genreAttr].indexOf(val) === -1){
+              genreObj[d.URL][genreAttr].push(val)
+            }
+          })
+
+          // console.log(popularGenres.length)
+          // console.log(popularGenres)
+          cb();
+        });
+      },
+      // getType: function (cb) {
+      //   d3.tsv(`./../data/d3-data-obj-types.tsv`, function(error, typeData) {
+      //     if (error) throw error;
+      //     types = typeData;
+
+      //     var typeObj = {};
+      //     types.forEach(function (d) { 
+      //       var rdfType = d.Value
+      //                   //.replace(/(.)+\:/, "")
+      //                   .replace(/[\_|\-]+/g, " ").toLowerCase();
+      //       if(typeof typeObj[rdfType] === "undefined"){
+      //        typeObj[rdfType] = 0;
+      //       }
+      //       typeObj[rdfType]++
+      //     })
+
+      //     var popularTypes = Object.keys(typeObj).sort(function (a, b) { return typeObj[b] - typeObj[a] });
+      //     // console.log(popularTypes.length)
+      //     // console.log(popularTypes.map(function (t) { return `${typeObj[t]}\t${t}\n`}).join(""))
+
+      //     cb();
+      //   });
+      // },
+    getFrom: function (cb) {
+      d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
+        if (error) throw error;
+        froms = fromData;
+
+        locationSubjectObj = {};
+        placeObj = {};
+        froms.forEach(function (d) { 
+
+          var parts = d.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
+
+          if(typeof locationSubjectObj[parts[0]] === "undefined"){
+           locationSubjectObj[parts[0]] = [];
+          }
+          locationSubjectObj[parts[0]].push(d);
+
+          var place = parts[1].replace(/(.)+\,/, "").replace(/\_/g, " ").trim();
+
+          if(typeof placeObj[place] === "undefined"){
+           placeObj[place] = [];
+          }
+          placeObj[place].push(d);
+
+          if(typeof pageLocationObj[d.URL] === "undefined"){
+            pageLocationObj[d.URL] = [];
+          }
+
+          if(pageLocationObj[d.URL].indexOf(place) === -1){
+            pageLocationObj[d.URL].push(place);
+
+          }
+         
+        })
+
+        console.log(locationSubjectObj);
+        console.log(placeObj);
 
         cb();
       });
@@ -583,47 +826,105 @@ $(document).ready(function(){
           other: 0
         }
 
-        async.forEach(data, function(g, cb1) { 
+        async.forEach(data, function(d, cb1) { 
 
-          if(g.EntityType.toLowerCase() === "q11424"){ g.EntityType = "Film"; }
-          if(g.EntityType.toLowerCase() === "group100031264"){ g.EntityType = "Group"; }
-          if(g.EntityType.toLowerCase() === "agent114778436"){ g.EntityType = "Drug"; }
+          d.imageURL = imageObj[d.URL];
+          d.subjects = pageSubjectObj[d.URL];
+          d.years = [];
+          d.associatedYears = [];
 
 
-          var entityType = g.EntityType.replace(/[^a-z|A-Z|0-9|\s]/gi, "").toLowerCase();
-          if(typeof entityTypeObj[entityType] === "undefined"){
-           entityTypeObj[entityType] = 0;
+          if(typeof pageLinkMappingObj[d.URL] !== "undefined"){
+            d.otherPageLinks = pageLinkMappingObj[d.URL];
           }
-          entityTypeObj[entityType]++;
+
+          if(typeof pageArtistObj[d.URL] !== "undefined"){
+            d.artists = pageArtistObj[d.URL];
+          }
+          if(typeof artistOfObj[d.URL] !== "undefined"){
+            d.artistsOf = artistOfObj[d.URL];
+          }
+          if(typeof pageLocationObj[d.URL] !== "undefined"){
+            d.locations = pageLocationObj[d.URL]
+          }
 
 
-          getSubject(g.URL, function(subjectIdentifiers){ 
-            g.subjectIdentifiers = subjectIdentifiers;
+          function addToDecades (subjects, yearsAttr){
+            for(var x in subjects){
+              var subject = subjects[x];
+
+              if(subject.match(/\d{4}/gi) && !subject.match(/birth|death|disestablish|set in( the)* \d{2}/gi)){
+                d[yearsAttr].push(subject);
+              }
+            }
+          }
+
+          addToDecades(d.subjects, "years");
+
+          var associatedSubjectURLs = [];
+
+          if(typeof d.artistsOf !== "undefined"){
+            for(var x in d.artistsOf){
+              var worksURL = d.artistsOf[x];
+              if(associatedSubjectURLs.indexOf(worksURL) === -1){
+                associatedSubjectURLs.push(worksURL)
+              }
+            }
+          }
+
+          if(typeof d.artists !== "undefined"){
+            for(var x in d.artists){
+              var worksURL = d.artists[x];
+              if(associatedSubjectURLs.indexOf(worksURL) === -1){
+                associatedSubjectURLs.push(worksURL)
+              }
+            }
+          }
+
+          if(typeof d.otherPageLinks !== "undefined"){
+            for(var x in d.otherPageLinks){
+              for(var y in d.otherPageLinks[x]){
+                var worksURL = d.otherPageLinks[x][y];
+                if(associatedSubjectURLs.indexOf(worksURL) === -1){
+                  associatedSubjectURLs.push(worksURL)
+                }
+              }
+            }
+          } 
+
+          for(var x in associatedSubjectURLs){
+            var worksURL = associatedSubjectURLs[x];
+             addToDecades(pageSubjectObj[worksURL], "associatedYears");
+          }
+
+          getSubject(d, function(subjectIdentifiers){ 
+            d.subjectIdentifiers = subjectIdentifiers;
 
             var mostIdentifiers = Object.keys(subjectIdentifiers)
                                     .filter(function(sub){
                                       return subjectIdentifiers[sub].length > 0;
                                     }).sort((a, b) => { return subjectIdentifiers[b].length - subjectIdentifiers[a].length});
 
-            g.mainSubjectType = "other";
+            d.mainSubjectType = "other";
             if(mostIdentifiers.length > 0){
 
-              g.mainSubjectType = mostIdentifiers[0];
+              d.mainSubjectType = mostIdentifiers[0];
 
-              // if(mostIdentifiers.length > 1){
-              //   if(mostIdentifiers.indexOf("musicians") !== -1){
-              //     g.mainSubjectType = "musicians";
-              //   } else if(mostIdentifiers.indexOf("companies") !== -1){
-              //     g.mainSubjectType = "companies";
-              //   } else if(mostIdentifiers.indexOf("places") !== -1){
-              //     g.mainSubjectType = "places";
-              //   }
-              // }
+              if(d.mainSubjectType === "people" && subjectIdentifiers["musicians"].length > 0){
+                d.mainSubjectType = "musicians";
+              }
 
             } 
-            mainSubjectObj[g.URL] = g.mainSubjectType;
 
-            subjectIdentifierCount[g.mainSubjectType]++;   
+            for(var x in subjectIdentifiers){
+              if(x.match(d.EntityType, "gi")){
+                d.mainSubjectType = x;
+              }
+            }
+
+            mainSubjectObj[d.URL] = d.mainSubjectType;
+
+            subjectIdentifierCount[d.mainSubjectType]++;   
             async.setImmediate(function() { cb1(); });
           });
 
@@ -661,13 +962,13 @@ $(document).ready(function(){
           return parseInt(a.sectionIndex) - parseInt(b.sectionIndex)
         });
         
-        mentions.forEach(function (m) {
-          if(typeof mentionsObj[m.URL] === "undefined"){
-            mentionsObj[m.URL] = [];
+        mentions.forEach(function (d) {
+          if(typeof mentionsObj[d.URL] === "undefined"){
+            mentionsObj[d.URL] = [];
           }
-          mentionsObj[m.URL].push(m);
+          mentionsObj[d.URL].push(d);
 
-          var sectionHeader = m.sectionHeader.replace(/[^a-z|A-Z|0-9|\s]/gi, "").toLowerCase();
+          var sectionHeader = d.sectionHeader.replace(/[^a-z|A-Z|0-9|\s]/gi, "").toLowerCase();
           if(sectionHeader.trim().length === 0) {
             sectionHeader = "first paragraph";
           }
@@ -676,11 +977,11 @@ $(document).ready(function(){
             mentionSectionObj[sectionHeader] = [];
           }
 
-          if(mentionSectionObj[sectionHeader].indexOf(m.URL) === -1){
-            mentionSectionObj[sectionHeader].push(m.URL);
+          if(mentionSectionObj[sectionHeader].indexOf(d.URL) === -1){
+            mentionSectionObj[sectionHeader].push(d.URL);
           }
 
-          var mainSubjectType = mainSubjectObj[m.URL];
+          var mainSubjectType = mainSubjectObj[d.URL];
 
           if(typeof subjectMentionMappingObj[mainSubjectType] !== "undefined"){
             if(subjectMentionMappingObj[mainSubjectType].indexOf(sectionHeader) === -1 ){
@@ -701,119 +1002,12 @@ $(document).ready(function(){
                   <label>
                     <input value='${sectionHeader}' type='checkbox' checked/> 
                     <span>${sectionHeader} 
-                      <small></small> 
+                      <small>(${mentionSectionObj[sectionHeader].length})</small> 
                     </span>
                   </label>
                 </div>`));
           });
 
-
-        cb();
-      });
-    },
-    // getDatesData: function (cb) {
-    //   d3.tsv(`./../data/d3-data-obj-dates.tsv`, function(error, datesData) {
-    //     if (error) throw error;
-    //     dates = datesData;
-
-    //     var dateObj = {};
-    //     dates.forEach(function (g) { 
-    //       var dateAttr = g.DateAttr.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
-    //       if(typeof dateObj[dateAttr] === "undefined"){
-    //        dateObj[dateAttr] = 0;
-    //       }
-    //       dateObj[dateAttr]++
-    //     })
-
-    //     var popularDates = Object.keys(dateObj).sort(function (a, b) { return dateObj[b] - dateObj[a] });
-    //     // console.log(popularDates.length)
-    //     // console.log(popularDates)
-
-    //     cb();
-    //   });
-    // },
-    // getGenreData: function (cb) {
-    //   d3.tsv(`./../data/d3-data-obj-genres.tsv`, function(error, genreData) {
-    //     if (error) throw error;
-    //     genres = genreData;
-
-    //     var genreObj = {};
-    //     genres.forEach(function (g) { 
-    //       var gen = g.Genre.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
-    //       if(typeof genreObj[gen] === "undefined"){
-    //        genreObj[gen] = 0;
-    //       }
-    //       genreObj[gen]++
-    //     })
-
-    //     var popularGenres = Object.keys(genreObj).sort(function (a, b) { return genreObj[b] - genreObj[a] });
-    //     // console.log(popularGenres.length)
-    //     // console.log(popularGenres)
-    //     cb();
-    //   });
-    // },
-    // getType: function (cb) {
-    //   d3.tsv(`./../data/d3-data-obj-types.tsv`, function(error, typeData) {
-    //     if (error) throw error;
-    //     types = typeData;
-
-    //     var typeObj = {};
-    //     types.forEach(function (g) { 
-    //       var rdfType = g.Value
-    //                   //.replace(/(.)+\:/, "")
-    //                   .replace(/[\_|\-]+/g, " ").toLowerCase();
-    //       if(typeof typeObj[rdfType] === "undefined"){
-    //        typeObj[rdfType] = 0;
-    //       }
-    //       typeObj[rdfType]++
-    //     })
-
-    //     var popularTypes = Object.keys(typeObj).sort(function (a, b) { return typeObj[b] - typeObj[a] });
-    //     // console.log(popularTypes.length)
-    //     // console.log(popularTypes.map(function (t) { return `${typeObj[t]}\t${t}\n`}).join(""))
-
-    //     cb();
-    //   });
-    // },
-    // getFrom: function (cb) {
-    //   d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
-    //     if (error) throw error;
-    //     froms = fromData;
-
-    //     locationSubjectObj = {};
-    //     placeObj = {};
-    //     froms.forEach(function (g) { 
-
-    //       var parts = g.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
-
-    //       if(typeof locationSubjectObj[parts[0]] === "undefined"){
-    //        locationSubjectObj[parts[0]] = [];
-    //       }
-    //       locationSubjectObj[parts[0]].push(g);
-
-    //       var place = parts[1].replace(/(.)+\,/, "").replace(/\_/g, " ").trim();
-
-    //       if(typeof placeObj[place] === "undefined"){
-    //        placeObj[place] = [];
-    //       }
-    //       placeObj[place].push(g);
-
-    //     })
-
-    //     console.log(locationSubjectObj);
-    //     console.log(placeObj);
-
-    //     cb();
-    //   });
-    // },
-    getImageData: function (cb) {
-      d3.tsv(`./../data/d3-data-obj-image.tsv`, function(error, imageData) {
-        if (error) throw error;
-        
-        imageObj = {};
-        imageData.forEach(function (g) { 
-          imageObj[g["Page URL"]] = g["image URL"];
-        })
 
         cb();
       });

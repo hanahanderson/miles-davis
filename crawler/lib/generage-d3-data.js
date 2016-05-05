@@ -8,6 +8,8 @@ const geocoder = require('geocoder');
 
 var hrefObj = {};
 
+var startTime = moment();
+
 async.series({
 	getAllLinks: (cb) => {
 
@@ -59,8 +61,14 @@ async.series({
 		var fromRows = "URL\tName\tFrom Attr\tValue\n";
 		var musicRows = "URL\tName\tMusic Attr\tValue\n";
 		var subjectRows = "URL\tName\tType Attr\tValue\n";
+		// var urlLinkRows = "URL\tName\tAttr\tValue\n";
 
-		async.forEach(Object.keys(hrefObj), (href, cb1) => {
+		// fs.writeFile(`${__dirname}/../../data/d3-data-obj-url-link.tsv`, urlLinkRows);
+
+		var urlsList = Object.keys(hrefObj).map((key) => { return key.toLowerCase(); });
+		var urlRegex = new RegExp(Object.keys(hrefObj).join("|"), "gi");
+
+		async.forEachSeries(Object.keys(hrefObj), (href, cb1) => {
 
 			var pageInfo = hrefObj[href];
 
@@ -70,8 +78,8 @@ async.series({
 
 						var dbpediaInfo = "";
 						eval(`dbpediaInfo = ${data}`);
-
-						console.log(pageInfo.name)
+						//console.log("-------------------------------")
+						console.log(`${moment().diff(startTime, "minutes")} mins\t\t${pageInfo.name}`)
 						rows += `${href}\t${pageInfo.name}\t${dbpediaInfo.entityType}\t${pageInfo.pageViews}\n`;
 
 						for(var x in dbpediaInfo.values){
@@ -87,6 +95,25 @@ async.series({
 										if(values[z].toLowerCase().indexOf("(xsd:date)") !== -1){
 											dateRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
 										}
+
+										// var val = values[z].replace(/(.)+\:/, "");
+										// var matches = val.match(urlRegex);
+										// if(matches !== null){
+										// 	for(var m in matches){
+										// 		if(matches[m] !== href.toLowerCase()){
+										// 			if(urlsList.indexOf(val.toLowerCase()) !== -1 &&
+										// 				!xString.toLowerCase().match(/sameAs|primaryTopic|wikiPageRedirects|seeAlso/gi)
+										// 				){
+										// 				//console.log(`${href}\t${pageInfo.name}\t${xString}\t${matches[m]}`)
+										// 				//urlLinkRows += `${href}\t${pageInfo.name}\t${xString}\t${matches[m]}\n`;
+
+										// 				fs.appendFileSync(`${__dirname}/../../data/d3-data-obj-url-link.tsv`, 
+										// 						`${href}\t${pageInfo.name}\t${xString}\t${matches[m]}\n`);
+										// 			}
+										// 		}
+										// 	}
+										// }
+
 
 										if(xString.toLowerCase().indexOf("genre") !== -1 && xString.toLowerCase().indexOf(":genre of") === -1){
 											genreRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
@@ -107,31 +134,14 @@ async.series({
 
 											fromRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
 
-											// var parts = values[z].replace(/(.)+\:/, "").toLowerCase().split("_from_");
-											// var place = parts[1].replace(/\_/g, "")
-
-											// geocoder.geocode(place, function ( err, geoData ) {
-											// 	var formatted_address = '-'
-											// 	var lat_lon = "-";
-
-											// 	if(geoData){
-											// 		console.log(geoData);
-
-											// 		var topResult = geoData.results[0];
-
-											// 		formatted_address = topResult.formatted_address;
-											// 		lat_lon = JSON.stringify(topResult.geometry.location)
-
-											// 	}
-											// 	fromRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\t${formatted_address}\t${lat_lon}\n`;
-												
-											// });
 										}
 
 										if(xString.toLowerCase() === "dbo:artist"
-											&& values[z].toLowerCase().indexOf("miles_davis") !== -1){
+											//&& values[z].toLowerCase().indexOf("miles_davis") !== -1
+											){
 											musicRows += `${href}\t${pageInfo.name}\t${xString}\t${values[z]}\n`;
 										}
+
 
 									}
 								}
@@ -150,6 +160,7 @@ async.series({
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj-from.tsv`, fromRows);
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj-music.tsv`, musicRows);
 			fs.writeFile(`${__dirname}/../../data/d3-data-obj-subject.tsv`, subjectRows);
+			// fs.writeFile(`${__dirname}/../../data/d3-data-obj-url-link.tsv`, urlLinkRows);
 
 			cb();
 		});
@@ -189,3 +200,76 @@ async.series({
 		console.log("done");
 	}
 });
+
+
+// var eras = {};
+
+// subjects.forEach((s) => { 
+
+// 	var subject = s.Value
+//                       .replace(/(.)+\:/, "")
+//                       .replace(/[\_|\-]+/g, " ").toLowerCase();
+
+//   // if(subject.match(/\d{4}s in/g)
+//   // 	|| subject.match(/in \d{4}/g)){
+//   // 	eras.push(subject)
+//   // }
+//   if(subject.match(/\d{4}/g) && !subject.match(/birth|death/g)){
+//   	var text = subject.replace(/\d{4}s/g, '')
+//   										.replace(/\d{4}/g, '')
+//   										// .replace("disestablished", "")
+//   										// .replace("reestablished", "")
+//   										// .replace("established", "")
+//   										// .replace("set in the", "")
+//   										// .replace(/(.)+in/, "")
+//   	if(typeof eras[text] === "undefined"){
+//   		eras[text] = 0;
+//   	}
+//   	eras[text]++;
+//   }
+
+// })
+
+// var subjectList = Object.keys(eras)
+
+
+// var subjectIdentifiers = {
+//     works: [],
+//     musicians: [],
+//     people: [],
+//     events: [],
+//     places: [],
+//     genres: [],
+//     companies: []
+//   }
+
+//   async.forEach(subjectList, function (subject, cb) {
+
+//     if(subject.match(worksRegex)){
+//       subjectIdentifiers.works = subjectIdentifiers.works.concat(subject.match(worksRegex));
+//     }
+//     if(subject.match(musiciansRegex)){
+//       subjectIdentifiers.musicians = subjectIdentifiers.musicians.concat(subject.match(musiciansRegex));
+//     }
+//     if(subject.match(peopleRegex)){
+//       subjectIdentifiers.people = subjectIdentifiers.people.concat(subject.match(peopleRegex));
+//     }
+//     if(subject.match(eventsRegex)){
+//       subjectIdentifiers.events = subjectIdentifiers.events.concat(subject.match(eventsRegex));
+//     }
+//     if(subject.match(placesRegex)){
+//       subjectIdentifiers.places = subjectIdentifiers.places.concat(subject.match(placesRegex));
+//     }
+//     if(subject.match(genresRegex)){
+//       subjectIdentifiers.genres = subjectIdentifiers.genres.concat(subject.match(genresRegex));
+//     }
+//     if(subject.match(companiesRegex)){
+//       subjectIdentifiers.companies = subjectIdentifiers.companies.concat(subject.match(companiesRegex));
+//     }
+
+//     async.setImmediate(function() { cb(); });
+
+
+//   }, function () {
+//     console.log(subjectIdentifiers);
+//   });

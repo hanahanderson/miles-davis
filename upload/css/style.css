@@ -67,4 +67,15 @@ body {
 .check-button input:checked + span {
   background-color:#911;
   color:#fff;
+  font-weight: bolder;
 }
+
+
+#entity-type-select .check-button input[value=works]:checked + span { background-color: #F7CA18;}
+#entity-type-select .check-button input[value=musicians]:checked + span { background-color: #D91E18;}
+#entity-type-select .check-button input[value=people]:checked + span { background-color: #E87E04;}
+#entity-type-select .check-button input[value=events]:checked + span { background-color: #26A65B;}
+#entity-type-select .check-button input[value=places]:checked + span { background-color: #9B59B6;}
+#entity-type-select .check-button input[value=genres]:checked + span { background-color: #3498DB;}
+#entity-type-select .check-button input[value=companies]:checked + span { background-color: #BDC3C7;}
+#entity-type-select .check-button input[value=other]:checked + span { background-color: #BDC3C7;}
