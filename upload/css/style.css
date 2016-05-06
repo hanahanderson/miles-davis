@@ -4,6 +4,7 @@ body {
 }
 
 #grid {
+  margin: 20px;
   width: 1145px;
   height: 754px;
   position: absolute;
@@ -16,7 +17,15 @@ body {
   display: inline-block;
   cursor: default;
   overflow: hidden;
+  border-radius: 100%;
   /*background-image: url("http://cp91279.biography.com/BIO_Bio-Shorts_0_Miles-Davis_150550_SF_HD_768x432-16x9.jpg");*/
+}
+
+#decade-container {
+  position: absolute;
+  width: 100%;
+  top: 800px;
+  z-index: -1;
 }
 
 .tooltip {

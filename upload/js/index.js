@@ -111,13 +111,6 @@ function getSubject(d, callback) {
 
 
 
-
-
-
-
-
-
-
 var data;
 var dates;
 var genres;
@@ -160,14 +153,17 @@ var subjectColors = {
   other: "#BDC3C7"
 }
 
-var containerWidth = 1145;
-var containerHeight = 753;
+// var containerWidth = 1145;
+// var containerHeight = 753;
 
-var numRectPerRow = 5;
-var rectHeight = 25;
+var containerWidth = 300;
+var containerHeight = 600;
+
+var numRectPerRow = 40;
 //var rectWidth = 25;
 var rectWidth = Math.floor(containerWidth / numRectPerRow);
-var rectPadding = 0;
+var rectHeight = rectWidth;
+var rectPadding = 2;
 
 var svg;
 var tooltip;
@@ -204,7 +200,7 @@ function drawCircles () {
 
   svg.on("mouseout", function () {
     tooltip.transition()    
-      .delay(10000)    
+      .delay(1000)    
       .duration(100)
       .style("opacity", 0);    
   })
@@ -217,8 +213,8 @@ function drawCircles () {
   function squareCoords(i) {
 
     return {
-      left:  (i % numPerRow) * squareWidth,
-      top: Math.floor(i / numPerRow) * squareHeight
+      top:  (i % numPerRow) * squareWidth,
+      left: Math.floor(i / numPerRow) * squareHeight
     }
   }
 
@@ -243,19 +239,19 @@ function drawCircles () {
       .style("background-size", "1145px 753px")
       .style("background-position", function (d, i) { return `-${squareCoords(i).left}px -${squareCoords(i).top}px`})
       .style("color", "rgba(0,0,0,0)")
-      .html(function (d, i) { 
-        var pageName = d.Name;
+      // .html(function (d, i) { 
+      //   var pageName = d.Name;
 
-        if(typeof d.artists !== "undefined"){
-          var spanStyle = "font-weight: bolder"
-          var artistArray = [];
-          for(var x in d.artists){
-            artistArray.push(d.artists[x].name);
-          }
-          pageName += `<small><i> by ${artistArray.join(", ")}</i></small>`
-        }
-        return `<span style='${spanStyle}'>${pageName}</span>`; 
-      })
+      //   if(typeof d.artists !== "undefined"){
+      //     var spanStyle = "font-weight: bolder"
+      //     var artistArray = [];
+      //     for(var x in d.artists){
+      //       artistArray.push(d.artists[x].name);
+      //     }
+      //     pageName += `<small><i> by ${artistArray.join(", ")}</i></small>`
+      //   }
+      //   return `<span style='${spanStyle}'>${pageName}</span>`; 
+      // })
 
   d3.select("body")
     .style("height", "3000px")
@@ -292,8 +288,8 @@ function drawCircles () {
         //.duration(200)
           .style("width", `${rectWidth}px`)
           .style("height", `${rectHeight}px`)
-          .style("left", function (d, i) { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
-          .style("top", function (d, i) { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
+          .style("top", function (d, i) { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
+          .style("left", function (d, i) { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
           .style("color", "black")
           .style("background-image", null)
           .style("opacity", 1)
@@ -440,7 +436,7 @@ function redrawCircles () {
         })
       .transition() 
         .duration(800)
-        .style("left", function (d, i){ 
+        .style("top", function (d, i){ 
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
           
@@ -449,7 +445,7 @@ function redrawCircles () {
           }
           return `${(positionIndex % numRectPerRow) * (rectWidth + rectPadding)}px`; 
         })
-        .style("top", function (d, i){ 
+        .style("left", function (d, i){ 
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
           
@@ -507,9 +503,19 @@ function mouseoverEnabled (d, enabled){
       pageName += `<small><i> <br>by ${artistArray.join(", ")}</i></small>`
     }
 
+    if(typeof d.years !== "undefined"){
+      var years = [];
+      for(var x in d.years){
+        years.push(d.years[x]);
+      }
+      pageName += `<br><small><i> <br>${years.join(", ")}</i></small>`
+    }
+
+
     tooltip.transition()    
         .duration(200)    
-        .style("opacity", 1);    
+        .style("opacity", 1);   
+
     tooltip.html(
         `<table>
           <tbody>
@@ -589,8 +595,75 @@ function initialiseFilters() {
   }
 }
 
+function inDecade(d) {
+
+  var thisDecade = parseInt(currentDecadeHeader);
+  var isInDecade = false;
+  for(var y in d.years){
+    var matchedYears = d.years[y].match(/\d{4}/gi);
+    if(matchedYears){
+      for(var m in matchedYears){
+        var thisMatchedYear = parseInt(matchedYears[m]);
+        if(parseInt(thisMatchedYear / 10) * 10 === thisDecade){
+          isInDecade = true;
+        }
+      }
+    }
+  }
+  return isInDecade;
+}
+
+
+function drawDecades(){
+  var topDecadeHeader = $(`.decade-header[data-decade='${currentDecadeHeader}']`);
+  
+  var filteredIndexes = data.map(function (d, i) { 
+    return (inDecade(d)? i: -1);
+
+  }).filter(function (a) { return a !== -1});
+
+
+  nodeContainer
+    .classed("hidden", function (d, i){
+      return !inDecade(d);
+    })
+    .on("mouseover", function (d, i){
+      mouseoverEnabled(d, inDecade(d));
+    })
+    .transition() 
+      .duration(800)
+      .style("top", function (d, i){ 
+          var positionIndex = i;
+          var index = filteredIndexes.indexOf(i);
+          
+          if(index !== -1){
+            positionIndex = index;
+          }
+          return `${topDecadeHeader.offset().top - 230 + 
+            ((positionIndex % numRectPerRow) * (rectWidth + rectPadding))}px`; 
+        })
+        .style("left", function (d, i){ 
+          var positionIndex = i;
+          var index = filteredIndexes.indexOf(i);
+          
+          if(index !== -1){
+            positionIndex = index;
+          }
+          return `${Math.floor(positionIndex / numRectPerRow) * (rectHeight + rectPadding)}px`;
+        })
+
+      // .style("top", function (d, i){ 
+      //   return `${topDecadeHeader.offset().top - 230 + (0.1 * i)}px`; 
+      // });
+
+
+}
+
+var currentDecadeHeader = null;
 var subjects;
+
 $(document).ready(function(){
+
 
   async.series({
     getImageData: function (cb) {
@@ -813,8 +886,7 @@ $(document).ready(function(){
         if (error) throw error;
       
         data = pageData;
-        data = data.sort(function (a, b) { return parseInt(b.PageViews) - parseInt(a.PageViews) })
-
+        
         var subjectIdentifierCount = {
           works: 0,
           musicians: 0,
@@ -930,6 +1002,25 @@ $(document).ready(function(){
 
         }, function() {
 
+          var typeOrder = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"]
+          data = data.sort(function (a, b) { 
+
+            if(a.mainSubjectType !== b.mainSubjectType){
+              return typeOrder.indexOf(a.mainSubjectType) - typeOrder.indexOf(b.mainSubjectType);
+            } else {
+              if(a.mainSubjectType === "works"){
+                if(typeof a.artists === "undefined" && typeof b.artists !== "undefined"){
+                  return 1;
+                }
+                if(typeof b.artists === "undefined" && typeof a.artists !== "undefined"){
+                  return -1;
+                }
+              }
+              return parseInt(b.PageViews) - parseInt(a.PageViews); 
+            }
+
+          });
+
           Object.keys(subjectIdentifierCount).sort(function (a, b) { 
             return subjectIdentifierCount[b] - subjectIdentifierCount[a] 
           })
@@ -1016,7 +1107,50 @@ $(document).ready(function(){
       drawCircles();
 
       initialiseFilters();
-     
+      
+
+
+      var decades = ["1950", "1960", "1970", "1980", "1990", "2000", "2010"];
+
+      for(var d in decades){
+        $("#decade-container").append(`
+          <div 
+            class='decade-header'
+            style='height: 500px; width: 100%' 
+            id='${decades[d]}-header' data-decade='${decades[d]}'>
+              <hr>
+              <h1>${decades[d]}s</h1>
+          </div>
+        `);
+      }
+
+      $(document).on("scroll", function() {
+
+        if($(window).scrollTop() < 600){
+          if(currentDecadeHeader !== null){
+            redrawCircles();
+            currentDecadeHeader = null;
+          }
+
+        } else {
+          var visibleHeaders = []
+
+          $(".decade-header").each(function(i, h) { 
+            if($(h).offset().top + 200 > $(window).scrollTop()){
+              visibleHeaders.push(h)
+            }
+          });
+
+          if(visibleHeaders.length > 0){
+            if($(visibleHeaders[0]).data("decade") !== currentDecadeHeader){
+              currentDecadeHeader = $(visibleHeaders[0]).data("decade");
+              drawDecades();
+            }
+          }
+
+        }
+      })
+
     }
   })
 
