@@ -57,7 +57,7 @@ function drawCanvas() {
 
   context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
 
-  if(isDecadeHistogram) {
+  if(isDecadeHistogram && !isPicture) {
   	for(var x = 1940; x < 2020; x+= 10){
   		context.beginPath();
   		context.strokeStyle = "white"
@@ -80,7 +80,7 @@ function drawCanvas() {
     } else {
     	if(isPicture){
     		context.fillStyle = "whitesmoke";
-    		
+
     	} else {
 	    	context.fillStyle = 
 	    	(scrollEntityType === null || scrollEntityType === d.mainSubjectType? 
