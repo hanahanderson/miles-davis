@@ -1,10 +1,12 @@
 
-var chartWidth = 700;
+var chartWidth = 710;
 var chartHeight = 700;
 
 var numPerColumn = 60;
 var nodeHeight =8;
 var padding = 1;
+
+var isPicture = false;
 
 var scrollEntityType = null;
 
@@ -53,10 +55,6 @@ var yearsXScale = d3.scale.linear().domain([minYear, 2016]).range([10, chartWidt
 
 function drawCanvas() {
 
-  // clear canvas
-  // context.fillStyle = "rgba(0,0,0,0)";
-  // context.rect(0,0,chart.attr("width"),chart.attr("height"));
-  // context.fill();
   context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
 
   if(isDecadeHistogram) {
@@ -76,51 +74,39 @@ function drawCanvas() {
 
     context.beginPath();
 
+    var nodeRadius = d.r;
     if(d.hidden){
     	context.fillStyle = "rgba(0,0,0,0)";
     } else {
-    	context.fillStyle = 
-    	(scrollEntityType === null || scrollEntityType === d.mainSubjectType? 
-    		subjectColors[d.mainSubjectType] :
-    		"rgba(255,255,255,0.4)");
+    	if(isPicture){
+    		context.fillStyle = "whitesmoke";
+    		
+    	} else {
+	    	context.fillStyle = 
+	    	(scrollEntityType === null || scrollEntityType === d.mainSubjectType? 
+	    		subjectColors[d.mainSubjectType] :
+	    		"rgba(255,255,255,0.4)");
+	    }
     }
 
     context.beginPath();
-    context.arc(d.x, d.y, d.r, 0, 2 * Math.PI, false);
+    context.arc(d.x, d.y, nodeRadius, 0, 2 * Math.PI, false);
     context.fill();
     context.closePath();
 
   });
 
-
 }
 
 function drawDataBinding() {
-  // var scale = d3.scale.linear()
-  //   .range([0, 900])
-  //   .domain(d3.extent(data.map(function(d){ return d.x })));
 
   var dataBinding = dataContainer.selectAll("custom.rect")
     .data(data, function(d) { return d.URL; });
 
-  // dataBinding
-  //   	.attr("r", 4)
-  //   .transition()
-  //   .duration(1000)
-	 //    .attr("r", 15)
-	 //    .attr("fillStyle", "green");
-
 	dataBinding.enter()
     .append("custom")
     .classed("rect", true)
-    .attr("r",function(d){ return  d.r })
-
-  // dataBinding.exit()
-  //   	.attr("r", 4)
-  //   .transition()
-  //   .duration(1000)
-	 //    .attr("r", 5)
-	 //    .attr("fillStyle", "lightgrey");
+    .attr("r",function(d){ return  d.r });
 
 	drawCanvas();
 
@@ -154,15 +140,16 @@ function updateVoronoi () {
 }
 
 function drawChart() {
-	// drawCustom([1,2,13,20,23]);
-
-	// // uncomment this, to see the transition~
-	// drawCustom([1,2,12,16,20]);
 
 	data = data.map(function(d, i){
-		d.r = nodeHeight / 2;
-		d.y = ((i % numPerColumn) * (nodeHeight + 2)) + 11;
-		d.x = (Math.floor(i / numPerColumn) * (nodeHeight + 2)) + 11;
+
+		var picturePoint = pictureCoords[i];
+
+		d.x = picturePoint[0];
+		d.y = picturePoint[1];
+		d.r = picturePoint[2];
+
+
 		d.hidden = false;
 
 		return d;
@@ -170,7 +157,7 @@ function drawChart() {
 
   drawDataBinding();
 	updateVoronoi();
-	//d3.timer(drawDataBinding);
+
 }
 
 
@@ -196,24 +183,24 @@ function removeTooltip() {
 }//function removeTooltip
 
 function getYear (yearsArray){
-		if(yearsArray.length === 0) {
-			return null;
-		}
-
-		for(var y in yearsArray){
-			var matchedYears = yearsArray[y].match(/\d{4}/gi);
-	    if(matchedYears){
-	    	var thisMatchedYear = parseInt(matchedYears[0]);
-        var thisDecade = (parseInt(thisMatchedYear / 10) * 10);
-        if(thisDecade > minYear){
-        	return thisMatchedYear;
-        }
-	    }
-		}
-
+	if(yearsArray.length === 0) {
 		return null;
-
 	}
+
+	for(var y in yearsArray){
+		var matchedYears = yearsArray[y].match(/\d{4}/gi);
+    if(matchedYears){
+    	var thisMatchedYear = parseInt(matchedYears[0]);
+      var thisDecade = (parseInt(thisMatchedYear / 10) * 10);
+      if(thisDecade > minYear){
+      	return thisMatchedYear;
+      }
+    }
+	}
+
+	return null;
+
+}
 
 var isDecadeHistogram = false;
 
@@ -266,26 +253,72 @@ $("#transform-to-decades").on("click", function() {
 
 $(document).ready(function() {
 	loadData(function() {
-		drawChart();
+		
+		drawDataBinding();
 
 		var controller = new ScrollMagic.Controller();
 
-		var event = new ScrollMagic.Scene({
-			triggerElement: "#trigger-1",
-			duration:400,
-			triggerHook:0, 
-			offset:10})
-		  .addIndicators({name: "expand"}) // add indicators
+		var pictureEvent = new ScrollMagic.Scene({
+				triggerElement: "#trigger-1",
+				duration:400,
+				triggerHook:0, 
+				offset: -200
+			})
+		  .addIndicators({name: "picture"}) // add indicators
 		  .addTo(controller)
 		  .on("enter", function (e) {
-		  	// d3.select("#vis")
-		  	// 	.style("position", "fixed");
+		  	isPicture = true;
+		  	$(".voronoiWrapper").hide();
+		  	removeTooltip();
+
+				data = data.map(function(d, i){
+					var picturePoint = pictureCoords[i];
+					d.x = picturePoint[0];
+					d.y = picturePoint[1];
+					d.r = picturePoint[2];
+
+					d.hidden = false;
+
+					return d;
+				});
+
+				//d3.timer(drawCanvas);
+				drawCanvas();
+
+		  })
+		  .on("leave", function (e) {
+		  	isPicture = false;
+		  })
+
+		var chartEvent = new ScrollMagic.Scene({
+				triggerElement: "#trigger-2",
+				duration:400,
+				triggerHook:0, 
+				offset:200
+			})
+		  .addIndicators({name: "chart"}) // add indicators
+		  .addTo(controller)
+		  .on("enter", function (e) {
+
+		  	$(".voronoiWrapper").show();
+		  	data = data.map(function(d, i){
+					d.r = nodeHeight / 2;
+					d.y = ((i % numPerColumn) * (nodeHeight + 2)) + 11;
+					d.x = (Math.floor(i / numPerColumn) * (nodeHeight + 2)) + 11;
+					d.hidden = false;
+
+					return d;
+				});
+		  	updateVoronoi();
+
+		  	d3.select("#vis")
+		  		.style("position", "fixed");
 
 		  	drawCanvas();
 		  })
 		  .on("leave",function(e){
-		  	// d3.select("#vis")
-			  // 		.style("position", "relative");
+		  	d3.select("#vis")
+			  		.style("position", "relative");
 			  scrollEntityType = null;
 			  $("#section-header").html("");
 

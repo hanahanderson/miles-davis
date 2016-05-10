@@ -18,6 +18,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 	
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,900,700,500' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
 		<link rel="stylesheet" type="text/css" href="./css/style.css"/>
 	</head>
@@ -26,17 +27,54 @@
 			height:3000px;
 			background: #111;
 		}
+
+		.loading-page {
+			color: whitesmoke ;
+			height: 100vh;
+	    min-height: 500px;
+	    display: inline-table;
+	    width: 100%;
+		}
+
+		.loading-page center {
+			display: table-cell;
+	    width: 100%;
+	    vertical-align: middle;
+		}
+
+		.loading-page h1 {
+			font-size: 69px;
+	    font-family: 'Roboto', sans-serif;
+	    font-weight: 700;
+    	margin-top: -3px;
+		}
+		.loading-page h4 {
+			text-transform: uppercase;
+		}
+		.loading-page p {
+			color: #B2B4B5;
+			width: 300px;
+			text-align: center;
+		}
+
 		#vis {
 			margin: 10px;
-			/*position: relative;*/
+			position: relative;
 			top: 20px;
-			position: fixed;
+			/*position: fixed;*/
 		}
 
 
 	</style>
 	<body>
 
+		<div class='loading-page'>
+			<center>
+				<h4>The Legacy of</h4>
+				<h1> Miles Davis </h1>
+				<p> An analysis of every <br>Wikipedia page that<br>mentions Miles Davis. </p>
+			</center>
+		</div>
 		<div id="trigger-1" class="spacer s0"></div>
 		<div id="trigger-2" class="spacer s0"></div>
 		<div id="vis">
@@ -45,6 +83,7 @@
 		</div>
 	</body>
 
+	<script type="text/javascript" src="../data/point_data.js"></script>
 	<script type="text/javascript" src="./js/common.js"></script>
 	<script type="text/javascript" src="./js/voronoi.js"></script>
 
