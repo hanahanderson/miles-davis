@@ -43,18 +43,18 @@ function getSubject(d, callback) {
     //companies
     //headphones manufacturers
     //music industry associations
-    
+
 
   //---Jimmy_Powell_(musician)
 
 
   var subjectList = pageSubjectObj[URL] || [];
 
-  if( !URL.toLowerCase().startsWith("draft:") 
+  if( !URL.toLowerCase().startsWith("draft:")
     && !URL.toLowerCase().startsWith("file:")
     && !URL.toLowerCase().startsWith("portal:")
     && !URL.toLowerCase().startsWith("talk:")
-    && !URL.toLowerCase().startsWith("user:") 
+    && !URL.toLowerCase().startsWith("user:")
     && !URL.toLowerCase().startsWith("user talk:")
     && !URL.toLowerCase().startsWith("wikipedia:")
     && !URL.toLowerCase().startsWith("wikipedia talk:")){
@@ -162,9 +162,9 @@ function loadData(callback){
     getImageData: function (cb) {
       d3.tsv(`./../data/d3-data-obj-image.tsv`, function(error, imageData) {
         if (error) throw error;
-        
+
         imageObj = {};
-        imageData.forEach(function (d) { 
+        imageData.forEach(function (d) {
           imageObj[d["Page URL"]] = d["image URL"];
         })
 
@@ -176,7 +176,7 @@ function loadData(callback){
         if (error) throw error;
 
         subjects = subjectData;
-        subjectData.forEach(function (d) { 
+        subjectData.forEach(function (d) {
           var subject = d.Value
                       .replace(/(.)+\:/, "")
                       .replace(/[\_|\-]+/g, " ").toLowerCase();
@@ -188,7 +188,7 @@ function loadData(callback){
           if(typeof pageSubjectObj[d.URL] === "undefined"){
             pageSubjectObj[d.URL] = [];
           }
-          
+
           pageSubjectObj[d.URL].push(subject)
         })
 
@@ -199,7 +199,7 @@ function loadData(callback){
       d3.tsv(`./../data/d3-data-obj-music.tsv`, function(error, artistData) {
         if (error) throw error;
 
-        artistData.forEach(function (d) { 
+        artistData.forEach(function (d) {
 
           var artistURL = d.Value.replace(/(.)+\:/, "");
           var artist = artistURL.replace(/[\_|\-]+/g, " ");
@@ -207,7 +207,7 @@ function loadData(callback){
           if(typeof pageArtistObj[d.URL] === "undefined"){
             pageArtistObj[d.URL] = [];
           }
-          
+
           pageArtistObj[d.URL].push({
             value: d.Value,
             name: artist
@@ -230,8 +230,8 @@ function loadData(callback){
         if (error) throw error;
 
         var connectionAttr = [];
-        linkData.forEach(function (d) { 
-          
+        linkData.forEach(function (d) {
+
           var attr = d.Attr.replace(/(.)+\:/, "")
                         //.replace(" of", "")
                         .toLowerCase();
@@ -239,23 +239,23 @@ function loadData(callback){
           if(attr !== "subject"){
 
             if(connectionAttr.indexOf(attr) === -1){
-              connectionAttr.push(attr) 
+              connectionAttr.push(attr)
             }
 
             if(typeof pageLinkMappingObj[d.URL] === "undefined"){
               pageLinkMappingObj[d.URL] = {};
-            } 
+            }
 
             if(typeof pageLinkMappingObj[d.URL][attr] === "undefined"){
               pageLinkMappingObj[d.URL][attr] = [];
             }
-            
+
             if(pageLinkMappingObj[d.URL][attr].indexOf(d.Value) === -1){
               pageLinkMappingObj[d.URL][attr].push(d.Value)
             }
           }
 
-        }); 
+        });
 
         // console.log(pageLinkMappingObj)
         // console.log(connectionAttr.sort())
@@ -269,7 +269,7 @@ function loadData(callback){
         dates = datesData;
 
         var dateObj = {};
-        dates.forEach(function (d) { 
+        dates.forEach(function (d) {
           var dateAttr = d.DateAttr.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
           if(typeof dateObj[dateAttr] === "undefined"){
            dateObj[dateAttr] = 0;
@@ -290,7 +290,7 @@ function loadData(callback){
           genres = genreData;
 
           genreObj = {};
-          genres.forEach(function (d) { 
+          genres.forEach(function (d) {
             if(typeof genreObj[d.URL] === "undefined"){
              genreObj[d.URL] = {};
             }
@@ -317,7 +317,7 @@ function loadData(callback){
       //     types = typeData;
 
       //     var typeObj = {};
-      //     types.forEach(function (d) { 
+      //     types.forEach(function (d) {
       //       var rdfType = d.Value
       //                   //.replace(/(.)+\:/, "")
       //                   .replace(/[\_|\-]+/g, " ").toLowerCase();
@@ -341,7 +341,7 @@ function loadData(callback){
 
         locationSubjectObj = {};
         placeObj = {};
-        froms.forEach(function (d) { 
+        froms.forEach(function (d) {
 
           var parts = d.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
 
@@ -365,7 +365,7 @@ function loadData(callback){
             pageLocationObj[d.URL].push(place);
 
           }
-         
+
         })
 
         // console.log(locationSubjectObj);
@@ -377,9 +377,9 @@ function loadData(callback){
     getPageData: function (cb) {
       d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
         if (error) throw error;
-      
+
         data = pageData;
-        
+
         var subjectIdentifierCount = {
           works: 0,
           musicians: 0,
@@ -391,7 +391,7 @@ function loadData(callback){
           other: 0
         }
 
-        async.forEach(data, function(d, cb1) { 
+        async.forEach(data, function(d, cb1) {
 
           d.imageURL = imageObj[d.URL];
           d.subjects = pageSubjectObj[d.URL];
@@ -455,14 +455,14 @@ function loadData(callback){
                 }
               }
             }
-          } 
+          }
 
           for(var x in associatedSubjectURLs){
             var worksURL = associatedSubjectURLs[x];
              addToDecades(pageSubjectObj[worksURL], "associatedYears");
           }
 
-          getSubject(d, function(subjectIdentifiers){ 
+          getSubject(d, function(subjectIdentifiers){
             d.subjectIdentifiers = subjectIdentifiers;
 
             var mostIdentifiers = Object.keys(subjectIdentifiers)
@@ -479,7 +479,7 @@ function loadData(callback){
                 d.mainSubjectType = "musicians";
               }
 
-            } 
+            }
 
             for(var x in subjectIdentifiers){
               if(x.match(d.EntityType, "gi")){
@@ -489,14 +489,14 @@ function loadData(callback){
 
             mainSubjectObj[d.URL] = d.mainSubjectType;
 
-            subjectIdentifierCount[d.mainSubjectType]++;   
+            subjectIdentifierCount[d.mainSubjectType]++;
             async.setImmediate(function() { cb1(); });
           });
 
         }, function() {
 
           var typeOrder = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"]
-          data = data.sort(function (a, b) { 
+          data = data.sort(function (a, b) {
 
             if(a.mainSubjectType !== b.mainSubjectType){
               return typeOrder.indexOf(a.mainSubjectType) - typeOrder.indexOf(b.mainSubjectType);
@@ -509,23 +509,23 @@ function loadData(callback){
                   return -1;
                 }
               }
-              return parseInt(b.PageViews) - parseInt(a.PageViews); 
+              return parseInt(b.PageViews) - parseInt(a.PageViews);
             }
 
           });
 
-          Object.keys(subjectIdentifierCount).sort(function (a, b) { 
-            return subjectIdentifierCount[b] - subjectIdentifierCount[a] 
+          Object.keys(subjectIdentifierCount).sort(function (a, b) {
+            return subjectIdentifierCount[b] - subjectIdentifierCount[a]
           })
           .forEach(function (subject) {
             $("#entity-type-select")
                .append($(
                 `<div class="check-button">
                   <label>
-                    <input value='${subject}' type='checkbox' checked/> 
+                    <input value='${subject}' type='checkbox' checked/>
                     <span>${subject} <small>(${subjectIdentifierCount[subject]})</small> </span>
                   </label>
-                </div>`)) ; 
+                </div>`)) ;
           });
 
           cb();
@@ -539,13 +539,13 @@ function loadData(callback){
         if (error) throw error;
         mentions = mentionData;
 
-        mentions = mentions.sort(function (a, b) { 
+        mentions = mentions.sort(function (a, b) {
           if(parseInt(a.sectionIndex) === parseInt(b.sectionIndex)){
             return parseInt(a.wordCountBeforeSection) - parseInt(b.wordCountBeforeSection);
-          } 
+          }
           return parseInt(a.sectionIndex) - parseInt(b.sectionIndex)
         });
-        
+
         mentions.forEach(function (d) {
           if(typeof mentionsObj[d.URL] === "undefined"){
             mentionsObj[d.URL] = [];
@@ -576,17 +576,17 @@ function loadData(callback){
 
         Object.keys(mentionSectionObj)
           .filter(function(a) { return mentionSectionObj[a].length > 3 })
-          .sort(function (a, b) { 
-            return mentionSectionObj[b].length - mentionSectionObj[a].length; 
+          .sort(function (a, b) {
+            return mentionSectionObj[b].length - mentionSectionObj[a].length;
           })
           .forEach(function (sectionHeader) {
             $("#section-select")
               .append($(
                 `<div class="check-button">
                   <label>
-                    <input value='${sectionHeader}' type='checkbox' checked/> 
-                    <span>${sectionHeader} 
-                      <small>(${mentionSectionObj[sectionHeader].length})</small> 
+                    <input value='${sectionHeader}' type='checkbox' checked/>
+                    <span>${sectionHeader}
+                      <small>(${mentionSectionObj[sectionHeader].length})</small>
                     </span>
                   </label>
                 </div>`));

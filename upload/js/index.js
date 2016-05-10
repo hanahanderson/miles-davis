@@ -43,18 +43,18 @@
 //     //companies
 //     //headphones manufacturers
 //     //music industry associations
-    
+
 
 //   //---Jimmy_Powell_(musician)
 
 
 //   var subjectList = pageSubjectObj[URL] || [];
 
-//   if( !URL.toLowerCase().startsWith("draft:") 
+//   if( !URL.toLowerCase().startsWith("draft:")
 //     && !URL.toLowerCase().startsWith("file:")
 //     && !URL.toLowerCase().startsWith("portal:")
 //     && !URL.toLowerCase().startsWith("talk:")
-//     && !URL.toLowerCase().startsWith("user:") 
+//     && !URL.toLowerCase().startsWith("user:")
 //     && !URL.toLowerCase().startsWith("user talk:")
 //     && !URL.toLowerCase().startsWith("wikipedia:")
 //     && !URL.toLowerCase().startsWith("wikipedia talk:")){
@@ -171,7 +171,7 @@ var nodeContainer;
 var circles;
 var nodeColor = "#22313F";
 
-var imageColors = []; 
+var imageColors = [];
 
 function drawCircles () {
 
@@ -185,7 +185,7 @@ function drawCircles () {
   var k = 10, // initial number of candidates to consider per circle
       m = 20, // initial number of circles to add per frame
       n = data.length, // remaining number of circles to add
-     
+
   svg = d3.select("#bubble-container")
       .attr("width", width)
       .attr("height", height)
@@ -193,19 +193,19 @@ function drawCircles () {
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   tooltip = d3.select("body")
-    .append("div") 
+    .append("div")
       .attr("class", "tooltip")
       .style("opacity", 0)
 
 
   svg.on("mouseout", function () {
-    tooltip.transition()    
-      .delay(1000)    
+    tooltip.transition()
+      .delay(1000)
       .duration(100)
-      .style("opacity", 0);    
+      .style("opacity", 0);
   })
 
-  
+
   var numPerRow = 80;
   var squareWidth = containerWidth / numPerRow;
   var squareHeight = squareWidth;
@@ -251,7 +251,7 @@ function drawCircles () {
 
         return "";
       })
-      // .html(function (d, i) { 
+      // .html(function (d, i) {
       //   var pageName = d.Name;
 
       //   if(typeof d.artists !== "undefined"){
@@ -262,7 +262,7 @@ function drawCircles () {
       //     }
       //     pageName += `<small><i> by ${artistArray.join(", ")}</i></small>`
       //   }
-      //   return `<span style='${spanStyle}'>${pageName}</span>`; 
+      //   return `<span style='${spanStyle}'>${pageName}</span>`;
       // })
 
   d3.select("body")
@@ -279,15 +279,15 @@ function drawCircles () {
   //     nodeContainer
   //       .style("-webkit-filter", "grayscale(100%)")
   //       .style("filter", "grayscale(100%)")
-  //       .style("opacity", function (d, i) { 
+  //       .style("opacity", function (d, i) {
   //         var pos = squareCoords(i).top + $(window).scrollTop();
   //         return `${Math.min((pos * 1.5 / $("#grid").height()), 1)}` })
-  //       // .style("-webkit-filter", function (d, i) { 
+  //       // .style("-webkit-filter", function (d, i) {
   //       //   var pos = squareCoords(i).top + $(window).scrollTop();
   //       //   return `grayscale(${Math.min((pos / $("#grid").height()) * 100, 100)}%)` })
-  //       // .style("filter", function (d, i) { 
+  //       // .style("filter", function (d, i) {
   //       //   var pos = squareCoords(i).top + $(window).scrollTop();
-          
+
   //       //   return `grayscale(${Math.min((pos / $("#grid").height()) * 100, 100) }%)` })
   //   }
 
@@ -306,12 +306,12 @@ function drawCircles () {
           .style("background-image", null)
           .style("opacity", 1)
           .style("background-color", function (d, i) { return subjectColors[d.mainSubjectType] })
-          
+
 
       d3.select("#grid")
         .style("position", "absolute")
         .style("background-image", null);
-      
+
       $(".filter-container").css("display", "block")
 
       $("#node-count").text(data.length)
@@ -328,7 +328,7 @@ function drawCircles () {
 
 
   // setTimeout(function () {
-  //  
+  //
   // }, 3000);
 
 
@@ -346,20 +346,20 @@ function resetCircles() {
     // .duration(function (d, i) { return i * Math.random() * 0.5 })
     //   .style("left", function (d, i) { return `${(i % numRectPerRow) * (rectWidth + rectPadding)}px`; })
     //   .style("top", function (d, i) { return `${Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)}px`;})
-        
+
       // .attr("transform", function (d, i) {
       //   var x = (i % numRectPerRow) * (rectWidth + rectPadding);
-      //   var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding)) 
+      //   var y = (Math.floor(i / numRectPerRow) * (rectHeight + rectPadding))
       //   return `translate(${x}, ${y})`;
       // })
-      
+
 }
 function redrawCircles () {
-  
-  // if($("#500-views").is(":checked") 
+
+  // if($("#500-views").is(":checked")
   //   || $("#entity-type-select input:not([value=null]):checked").length > 0
   //   || $("#section-select input:not([value=null]):checked").length > 0){
-        
+
     var moreThan500 = $("#500-views").is(":checked")
     var selectedEntityTypes = [];
     $("#entity-type-select input:not([value=null]):checked").each(function (j, t) { selectedEntityTypes.push($(t).val()); });
@@ -367,15 +367,15 @@ function redrawCircles () {
     var selectedMentionHeaders = [];
     var selectedMentionHeadersCount = {};
 
-    $("#section-select input:not([value=null]):checked").each(function (j, a) { 
+    $("#section-select input:not([value=null]):checked").each(function (j, a) {
       selectedMentionHeadersCount[$(a).val()] = [];
-      selectedMentionHeaders.push($(a).val()); 
+      selectedMentionHeaders.push($(a).val());
     });
 
     var searchTerm = $(".search-label input").val().trim();
     var re = new RegExp("\\b" + d3.requote(searchTerm), "i");
-  
-    var filteredIndexes = data.map(function (a, i) { 
+
+    var filteredIndexes = data.map(function (a, i) {
 
       var useIndex = true;
       if(moreThan500){
@@ -392,14 +392,14 @@ function redrawCircles () {
       }
 
       if(useIndex){
-        
+
         useIndex = false;
         selectedMentionHeaders.forEach(function (header) {
-        
+
           if(mentionSectionObj[header].indexOf(a.URL) !== -1){
             useIndex = true;
             if (selectedMentionHeadersCount[header].indexOf(a.URL) === -1){
-              selectedMentionHeadersCount[header].push(a.URL) 
+              selectedMentionHeadersCount[header].push(a.URL)
             }
 
           }
@@ -413,7 +413,7 @@ function redrawCircles () {
 
       if(useIndex){
         if(searchTerm.length > 2){
-          useIndex = re.test(a.Name); 
+          useIndex = re.test(a.Name);
         }
       }
 
@@ -439,38 +439,38 @@ function redrawCircles () {
 
     nodeContainer
       .classed("hidden", function (d, i){
-        var index = filteredIndexes.indexOf(i); 
+        var index = filteredIndexes.indexOf(i);
         return index === -1;
       })
       .on("mouseover", function (d, i){
-          var index = filteredIndexes.indexOf(i); 
+          var index = filteredIndexes.indexOf(i);
           mouseoverEnabled(d, index !== -1);
         })
-      .transition() 
+      .transition()
         .duration(800)
-        .style("top", function (d, i){ 
+        .style("top", function (d, i){
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
-          
+
           if(index !== -1){
             positionIndex = index;
           }
-          return `${(positionIndex % numRectPerRow) * (rectWidth + rectPadding)}px`; 
+          return `${(positionIndex % numRectPerRow) * (rectWidth + rectPadding)}px`;
         })
-        .style("left", function (d, i){ 
+        .style("left", function (d, i){
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
-          
+
           if(index !== -1){
             positionIndex = index;
           }
           return `${Math.floor(positionIndex / numRectPerRow) * (rectHeight + rectPadding)}px`;
         })
-        
+
         // .attr("transform", function (d, i) {
         //   var positionIndex = i;
         //   var index = filteredIndexes.indexOf(i);
-          
+
         //   if(index !== -1){
         //     positionIndex = index;
         //   }
@@ -479,10 +479,10 @@ function redrawCircles () {
         //   return `translate(${x}, ${y})`;
         // })
 
-        
+
   // } else {
   //    resetCircles();
-  // } 
+  // }
 }
 
 
@@ -524,9 +524,9 @@ function mouseoverEnabled (d, enabled){
     }
 
 
-    tooltip.transition()    
-        .duration(200)    
-        .style("opacity", 1);   
+    tooltip.transition()
+        .duration(200)
+        .style("opacity", 1);
 
     tooltip.html(
         `<table>
@@ -539,13 +539,13 @@ function mouseoverEnabled (d, enabled){
               </td>
             </tr>
           </tbody>
-        </table>`)  
-        .style("left", (d3.event.pageX + 10) + "px")   
-        .style("top", (d3.event.pageY + 10) + "px");  
+        </table>`)
+        .style("left", (d3.event.pageX + 10) + "px")
+        .style("top", (d3.event.pageY + 10) + "px");
 
   }
 }
-  
+
 
 function initialiseFilters() {
   $(".circle-filter input").on("change", function() {
@@ -555,17 +555,17 @@ function initialiseFilters() {
     var value = $(this).val();
 
     if(value === "null"){
-      
-      $(`#${containerId} input`).prop("checked", $(this).is(":checked")) 
-      
+
+      $(`#${containerId} input`).prop("checked", $(this).is(":checked"))
+
     } else {
 
       var allSelected = ($(`#${containerId} input:not([value=null]):checked`).length === $(`#${containerId} input:not([value=null])`).length)
-      $(`#${containerId} input[value=null]`).prop("checked", allSelected) 
-     
+      $(`#${containerId} input[value=null]`).prop("checked", allSelected)
+
     }
 
-      
+
     if(containerId === "entity-type-select"){
 
       $("#section-select input:not([value=null])").closest(".check-button").hide();
@@ -628,8 +628,8 @@ function inDecade(d) {
 
 function drawDecades(){
   var topDecadeHeader = $(`.decade-header[data-decade='${currentDecadeHeader}']`);
-  
-  var filteredIndexes = data.map(function (d, i) { 
+
+  var filteredIndexes = data.map(function (d, i) {
     return (inDecade(d)? i: -1);
 
   }).filter(function (a) { return a !== -1});
@@ -642,30 +642,30 @@ function drawDecades(){
     .on("mouseover", function (d, i){
       mouseoverEnabled(d, inDecade(d));
     })
-    .transition() 
+    .transition()
       .duration(800)
-      .style("top", function (d, i){ 
+      .style("top", function (d, i){
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
-          
+
           if(index !== -1){
             positionIndex = index;
           }
-          return `${topDecadeHeader.offset().top - 230 + 
-            ((positionIndex % numRectPerRow) * (rectWidth + rectPadding))}px`; 
+          return `${topDecadeHeader.offset().top - 230 +
+            ((positionIndex % numRectPerRow) * (rectWidth + rectPadding))}px`;
         })
-        .style("left", function (d, i){ 
+        .style("left", function (d, i){
           var positionIndex = i;
           var index = filteredIndexes.indexOf(i);
-          
+
           if(index !== -1){
             positionIndex = index;
           }
           return `${Math.floor(positionIndex / numRectPerRow) * (rectHeight + rectPadding)}px`;
         })
 
-      // .style("top", function (d, i){ 
-      //   return `${topDecadeHeader.offset().top - 230 + (0.1 * i)}px`; 
+      // .style("top", function (d, i){
+      //   return `${topDecadeHeader.offset().top - 230 + (0.1 * i)}px`;
       // });
 
 
@@ -677,17 +677,17 @@ var subjects;
 $(document).ready(function(){
 
   loadData(function() {
-    
+
       drawCircles();
       initialiseFilters();
-      
+
       var decades = ["1950", "1960", "1970", "1980", "1990", "2000", "2010"];
 
       for(var d in decades){
         $("#decade-container").append(`
-          <div 
+          <div
             class='decade-header'
-            style='height: 500px; width: 100%' 
+            style='height: 500px; width: 100%'
             id='${decades[d]}-header' data-decade='${decades[d]}'>
               <hr>
               <h1>${decades[d]}s</h1>
@@ -706,7 +706,7 @@ $(document).ready(function(){
         } else {
           var visibleHeaders = []
 
-          $(".decade-header").each(function(i, h) { 
+          $(".decade-header").each(function(i, h) {
             if($(h).offset().top + 200 > $(window).scrollTop()){
               visibleHeaders.push(h)
             }
@@ -726,9 +726,9 @@ $(document).ready(function(){
   //   getImageData: function (cb) {
   //     d3.tsv(`./../data/d3-data-obj-image.tsv`, function(error, imageData) {
   //       if (error) throw error;
-        
+
   //       imageObj = {};
-  //       imageData.forEach(function (d) { 
+  //       imageData.forEach(function (d) {
   //         imageObj[d["Page URL"]] = d["image URL"];
   //       })
 
@@ -740,7 +740,7 @@ $(document).ready(function(){
   //       if (error) throw error;
 
   //       subjects = subjectData;
-  //       subjectData.forEach(function (d) { 
+  //       subjectData.forEach(function (d) {
   //         var subject = d.Value
   //                     .replace(/(.)+\:/, "")
   //                     .replace(/[\_|\-]+/g, " ").toLowerCase();
@@ -752,7 +752,7 @@ $(document).ready(function(){
   //         if(typeof pageSubjectObj[d.URL] === "undefined"){
   //           pageSubjectObj[d.URL] = [];
   //         }
-          
+
   //         pageSubjectObj[d.URL].push(subject)
   //       })
 
@@ -763,7 +763,7 @@ $(document).ready(function(){
   //     d3.tsv(`./../data/d3-data-obj-music.tsv`, function(error, artistData) {
   //       if (error) throw error;
 
-  //       artistData.forEach(function (d) { 
+  //       artistData.forEach(function (d) {
 
   //         var artistURL = d.Value.replace(/(.)+\:/, "");
   //         var artist = artistURL.replace(/[\_|\-]+/g, " ");
@@ -771,7 +771,7 @@ $(document).ready(function(){
   //         if(typeof pageArtistObj[d.URL] === "undefined"){
   //           pageArtistObj[d.URL] = [];
   //         }
-          
+
   //         pageArtistObj[d.URL].push({
   //           value: d.Value,
   //           name: artist
@@ -794,8 +794,8 @@ $(document).ready(function(){
   //       if (error) throw error;
 
   //       var connectionAttr = [];
-  //       linkData.forEach(function (d) { 
-          
+  //       linkData.forEach(function (d) {
+
   //         var attr = d.Attr.replace(/(.)+\:/, "")
   //                       //.replace(" of", "")
   //                       .toLowerCase();
@@ -803,23 +803,23 @@ $(document).ready(function(){
   //         if(attr !== "subject"){
 
   //           if(connectionAttr.indexOf(attr) === -1){
-  //             connectionAttr.push(attr) 
+  //             connectionAttr.push(attr)
   //           }
 
   //           if(typeof pageLinkMappingObj[d.URL] === "undefined"){
   //             pageLinkMappingObj[d.URL] = {};
-  //           } 
+  //           }
 
   //           if(typeof pageLinkMappingObj[d.URL][attr] === "undefined"){
   //             pageLinkMappingObj[d.URL][attr] = [];
   //           }
-            
+
   //           if(pageLinkMappingObj[d.URL][attr].indexOf(d.Value) === -1){
   //             pageLinkMappingObj[d.URL][attr].push(d.Value)
   //           }
   //         }
 
-  //       }); 
+  //       });
 
   //       // console.log(pageLinkMappingObj)
   //       // console.log(connectionAttr.sort())
@@ -833,7 +833,7 @@ $(document).ready(function(){
   //       dates = datesData;
 
   //       var dateObj = {};
-  //       dates.forEach(function (d) { 
+  //       dates.forEach(function (d) {
   //         var dateAttr = d.DateAttr.replace(/(.)+\:/, "").replace(/[\_|\-]+/g, " ").toLowerCase();
   //         if(typeof dateObj[dateAttr] === "undefined"){
   //          dateObj[dateAttr] = 0;
@@ -854,7 +854,7 @@ $(document).ready(function(){
   //         genres = genreData;
 
   //         genreObj = {};
-  //         genres.forEach(function (d) { 
+  //         genres.forEach(function (d) {
   //           if(typeof genreObj[d.URL] === "undefined"){
   //            genreObj[d.URL] = {};
   //           }
@@ -881,7 +881,7 @@ $(document).ready(function(){
   //     //     types = typeData;
 
   //     //     var typeObj = {};
-  //     //     types.forEach(function (d) { 
+  //     //     types.forEach(function (d) {
   //     //       var rdfType = d.Value
   //     //                   //.replace(/(.)+\:/, "")
   //     //                   .replace(/[\_|\-]+/g, " ").toLowerCase();
@@ -905,7 +905,7 @@ $(document).ready(function(){
 
   //       locationSubjectObj = {};
   //       placeObj = {};
-  //       froms.forEach(function (d) { 
+  //       froms.forEach(function (d) {
 
   //         var parts = d.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
 
@@ -929,7 +929,7 @@ $(document).ready(function(){
   //           pageLocationObj[d.URL].push(place);
 
   //         }
-         
+
   //       })
 
   //       console.log(locationSubjectObj);
@@ -941,9 +941,9 @@ $(document).ready(function(){
   //   getPageData: function (cb) {
   //     d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
   //       if (error) throw error;
-      
+
   //       data = pageData;
-        
+
   //       var subjectIdentifierCount = {
   //         works: 0,
   //         musicians: 0,
@@ -955,7 +955,7 @@ $(document).ready(function(){
   //         other: 0
   //       }
 
-  //       async.forEach(data, function(d, cb1) { 
+  //       async.forEach(data, function(d, cb1) {
 
   //         d.imageURL = imageObj[d.URL];
   //         d.subjects = pageSubjectObj[d.URL];
@@ -1019,14 +1019,14 @@ $(document).ready(function(){
   //               }
   //             }
   //           }
-  //         } 
+  //         }
 
   //         for(var x in associatedSubjectURLs){
   //           var worksURL = associatedSubjectURLs[x];
   //            addToDecades(pageSubjectObj[worksURL], "associatedYears");
   //         }
 
-  //         getSubject(d, function(subjectIdentifiers){ 
+  //         getSubject(d, function(subjectIdentifiers){
   //           d.subjectIdentifiers = subjectIdentifiers;
 
   //           var mostIdentifiers = Object.keys(subjectIdentifiers)
@@ -1043,7 +1043,7 @@ $(document).ready(function(){
   //               d.mainSubjectType = "musicians";
   //             }
 
-  //           } 
+  //           }
 
   //           for(var x in subjectIdentifiers){
   //             if(x.match(d.EntityType, "gi")){
@@ -1053,14 +1053,14 @@ $(document).ready(function(){
 
   //           mainSubjectObj[d.URL] = d.mainSubjectType;
 
-  //           subjectIdentifierCount[d.mainSubjectType]++;   
+  //           subjectIdentifierCount[d.mainSubjectType]++;
   //           async.setImmediate(function() { cb1(); });
   //         });
 
   //       }, function() {
 
   //         var typeOrder = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"]
-  //         data = data.sort(function (a, b) { 
+  //         data = data.sort(function (a, b) {
 
   //           if(a.mainSubjectType !== b.mainSubjectType){
   //             return typeOrder.indexOf(a.mainSubjectType) - typeOrder.indexOf(b.mainSubjectType);
@@ -1073,23 +1073,23 @@ $(document).ready(function(){
   //                 return -1;
   //               }
   //             }
-  //             return parseInt(b.PageViews) - parseInt(a.PageViews); 
+  //             return parseInt(b.PageViews) - parseInt(a.PageViews);
   //           }
 
   //         });
 
-  //         Object.keys(subjectIdentifierCount).sort(function (a, b) { 
-  //           return subjectIdentifierCount[b] - subjectIdentifierCount[a] 
+  //         Object.keys(subjectIdentifierCount).sort(function (a, b) {
+  //           return subjectIdentifierCount[b] - subjectIdentifierCount[a]
   //         })
   //         .forEach(function (subject) {
   //           $("#entity-type-select")
   //              .append($(
   //               `<div class="check-button">
   //                 <label>
-  //                   <input value='${subject}' type='checkbox' checked/> 
+  //                   <input value='${subject}' type='checkbox' checked/>
   //                   <span>${subject} <small>(${subjectIdentifierCount[subject]})</small> </span>
   //                 </label>
-  //               </div>`)) ; 
+  //               </div>`)) ;
   //         });
 
   //         cb();
@@ -1103,13 +1103,13 @@ $(document).ready(function(){
   //       if (error) throw error;
   //       mentions = mentionData;
 
-  //       mentions = mentions.sort(function (a, b) { 
+  //       mentions = mentions.sort(function (a, b) {
   //         if(parseInt(a.sectionIndex) === parseInt(b.sectionIndex)){
   //           return parseInt(a.wordCountBeforeSection) - parseInt(b.wordCountBeforeSection);
-  //         } 
+  //         }
   //         return parseInt(a.sectionIndex) - parseInt(b.sectionIndex)
   //       });
-        
+
   //       mentions.forEach(function (d) {
   //         if(typeof mentionsObj[d.URL] === "undefined"){
   //           mentionsObj[d.URL] = [];
@@ -1140,17 +1140,17 @@ $(document).ready(function(){
 
   //       Object.keys(mentionSectionObj)
   //         .filter(function(a) { return mentionSectionObj[a].length > 3 })
-  //         .sort(function (a, b) { 
-  //           return mentionSectionObj[b].length - mentionSectionObj[a].length; 
+  //         .sort(function (a, b) {
+  //           return mentionSectionObj[b].length - mentionSectionObj[a].length;
   //         })
   //         .forEach(function (sectionHeader) {
   //           $("#section-select")
   //             .append($(
   //               `<div class="check-button">
   //                 <label>
-  //                   <input value='${sectionHeader}' type='checkbox' checked/> 
-  //                   <span>${sectionHeader} 
-  //                     <small>(${mentionSectionObj[sectionHeader].length})</small> 
+  //                   <input value='${sectionHeader}' type='checkbox' checked/>
+  //                   <span>${sectionHeader}
+  //                     <small>(${mentionSectionObj[sectionHeader].length})</small>
   //                   </span>
   //                 </label>
   //               </div>`));
@@ -1164,16 +1164,16 @@ $(document).ready(function(){
   //     drawCircles();
 
   //     initialiseFilters();
-      
+
 
 
   //     var decades = ["1950", "1960", "1970", "1980", "1990", "2000", "2010"];
 
   //     for(var d in decades){
   //       $("#decade-container").append(`
-  //         <div 
+  //         <div
   //           class='decade-header'
-  //           style='height: 500px; width: 100%' 
+  //           style='height: 500px; width: 100%'
   //           id='${decades[d]}-header' data-decade='${decades[d]}'>
   //             <hr>
   //             <h1>${decades[d]}s</h1>
@@ -1192,7 +1192,7 @@ $(document).ready(function(){
   //       } else {
   //         var visibleHeaders = []
 
-  //         $(".decade-header").each(function(i, h) { 
+  //         $(".decade-header").each(function(i, h) {
   //           if($(h).offset().top + 200 > $(window).scrollTop()){
   //             visibleHeaders.push(h)
   //           }
@@ -1214,4 +1214,3 @@ $(document).ready(function(){
 
 
 });
-

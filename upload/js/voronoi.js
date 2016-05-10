@@ -41,7 +41,7 @@ var voronoiGroup = base.append("svg")
     									.style("top", "80px")
 										.append("g")
 											.attr("class", "voronoiWrapper");
-										
+
 var ease = d3.ease('cubic-in-out');
 var timeScale = d3.scale.linear()
 	.domain([0, 1000])
@@ -82,8 +82,8 @@ function drawCanvas() {
     		context.fillStyle = "whitesmoke";
 
     	} else {
-	    	context.fillStyle = 
-	    	(scrollEntityType === null || scrollEntityType === d.mainSubjectType? 
+	    	context.fillStyle =
+	    	(scrollEntityType === null || scrollEntityType === d.mainSubjectType?
 	    		subjectColors[d.mainSubjectType] :
 	    		"rgba(255,255,255,0.4)");
 	    }
@@ -171,7 +171,7 @@ function showTooltip(d) {
 		content: function() { //the html content to show inside the tooltip
 			return "<span style='font-size: 11px; text-align: center;'>" + d.Name + "</span>"; }
 	});
-	$(this).popover('show');			
+	$(this).popover('show');
 }//function showTooltip
 
 //Hide the tooltip when the mouse moves away
@@ -179,7 +179,7 @@ function removeTooltip() {
 	//Hide the tooltip
 	$('.popover').each(function() {
 		$(this).remove();
-	}); 	
+	});
 }//function removeTooltip
 
 function getYear (yearsArray){
@@ -245,7 +245,7 @@ $("#transform-to-decades").on("click", function() {
 			return d;
 		});
 	}
-	
+
 	updateVoronoi();
 	drawDataBinding();
 
@@ -253,7 +253,7 @@ $("#transform-to-decades").on("click", function() {
 
 $(document).ready(function() {
 	loadData(function() {
-		
+
 		drawDataBinding();
 
 		var controller = new ScrollMagic.Controller();
@@ -261,7 +261,7 @@ $(document).ready(function() {
 		var pictureEvent = new ScrollMagic.Scene({
 				triggerElement: "#trigger-1",
 				duration:400,
-				triggerHook:0, 
+				triggerHook:0,
 				offset: -200
 			})
 		  .addIndicators({name: "picture"}) // add indicators
@@ -293,7 +293,7 @@ $(document).ready(function() {
 		var chartEvent = new ScrollMagic.Scene({
 				triggerElement: "#trigger-2",
 				duration:400,
-				triggerHook:0, 
+				triggerHook:0,
 				offset:200
 			})
 		  .addIndicators({name: "chart"}) // add indicators
@@ -337,7 +337,7 @@ $(document).ready(function() {
 		  		scrollEntityType = newScrollEntityType
 
 			  	drawCanvas();
-			  	
+
 				  $("#section-header")
 				  	.html(scrollEntityType)
 				  	.css("color", subjectColors[scrollEntityType])
@@ -349,4 +349,3 @@ $(document).ready(function() {
 
 	})
 })
-
