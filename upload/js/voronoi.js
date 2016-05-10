@@ -1,7 +1,13 @@
 
-
 var chartWidth = 700;
 var chartHeight = 700;
+
+var numPerColumn = 60;
+var nodeHeight =8;
+var padding = 1;
+
+var scrollEntityType = null;
+
 
 var base = d3.select("#vis");
 
@@ -80,15 +86,11 @@ function drawCanvas() {
     }
 
     context.beginPath();
-		context.moveTo(d.x, d.y);
-    //context.rect(node.attr("x"), node.attr("y"), node.attr("size"), node.attr("size"));
     context.arc(d.x, d.y, d.r, 0, 2 * Math.PI, false);
     context.fill();
     context.closePath();
 
   });
-
- 
 
 
 }
@@ -99,7 +101,7 @@ function drawDataBinding() {
   //   .domain(d3.extent(data.map(function(d){ return d.x })));
 
   var dataBinding = dataContainer.selectAll("custom.rect")
-    .data(data);
+    .data(data, function(d) { return d.URL; });
 
   // dataBinding
   //   	.attr("r", 4)
@@ -125,9 +127,6 @@ function drawDataBinding() {
 
 }
 
-var numPerColumn = 60;
-var nodeHeight =8;
-var padding = 1;
 
 function updateVoronoi () {
 
@@ -169,44 +168,10 @@ function drawChart() {
 		return d;
 	});
 
+  drawDataBinding();
 	updateVoronoi();
-
-	d3.timer(drawDataBinding);
+	//d3.timer(drawDataBinding);
 }
-
-var scrollEntityType = null;
-var controller = new ScrollMagic.Controller();
-
-var event = new ScrollMagic.Scene({
-	triggerElement: "#trigger-1",
-	duration:400,
-	triggerHook:0, 
-	offset:10})
-  .addIndicators({name: "expand"}) // add indicators
-  .addTo(controller)
-  .on("enter", function (e) {
-  	// d3.select("#vis")
-  	// 	.style("position", "fixed");
-  })
-  .on("leave",function(e){
-  	// d3.select("#vis")
-	  // 		.style("position", "relative");
-	  scrollEntityType = null;
-	  $("#section-header").html("");
-  })
-  .on("progress", function (e) {
-  	var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
-
-  	var progress = e.progress;
-  	var progressPosition = Math.round(progress * entityTypes.length);
-
-  	scrollEntityType = entityTypes[progressPosition];
-
-	  $("#section-header")
-	  	.html(scrollEntityType)
-	  	.css("color", subjectColors[scrollEntityType])
-	  	;
-	});
 
 
 //Show the tooltip on the hovered over circle
@@ -295,12 +260,60 @@ $("#transform-to-decades").on("click", function() {
 	}
 	
 	updateVoronoi();
+	drawDataBinding();
 
 });
 
 $(document).ready(function() {
 	loadData(function() {
 		drawChart();
+
+		var controller = new ScrollMagic.Controller();
+
+		var event = new ScrollMagic.Scene({
+			triggerElement: "#trigger-1",
+			duration:400,
+			triggerHook:0, 
+			offset:10})
+		  .addIndicators({name: "expand"}) // add indicators
+		  .addTo(controller)
+		  .on("enter", function (e) {
+		  	// d3.select("#vis")
+		  	// 	.style("position", "fixed");
+
+		  	drawCanvas();
+		  })
+		  .on("leave",function(e){
+		  	// d3.select("#vis")
+			  // 		.style("position", "relative");
+			  scrollEntityType = null;
+			  $("#section-header").html("");
+
+		  	drawCanvas();
+		  })
+		  .on("progress", function (e) {
+		  	var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
+
+		  	var progress = e.progress;
+		  	var progressPosition = Math.round(progress * entityTypes.length);
+
+		  	var newScrollEntityType = entityTypes[progressPosition];
+
+		  	if(scrollEntityType !== newScrollEntityType){
+
+		  		scrollEntityType = newScrollEntityType
+
+			  	drawCanvas();
+			  	
+				  $("#section-header")
+				  	.html(scrollEntityType)
+				  	.css("color", subjectColors[scrollEntityType])
+				  	;
+
+			  }
+			});
+
+
 	})
 })
 

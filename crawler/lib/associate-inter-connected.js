@@ -11,7 +11,7 @@ var index = 0;
 
 var outputFileName = `${__dirname}/../../data/interconnected.tsv`;
 
-fs.writeFile(outputFileName, "Page\tLink\tNum Occurences\t")
+//fs.writeFile(outputFileName, "Page\tLink\tNum Occurences\t")
 fs.readFile(`${__dirname}/../../wiki-links.html`, "utf8", (err, data) => {
 
 	var $ = cheerio.load(data);
@@ -22,6 +22,11 @@ fs.readFile(`${__dirname}/../../wiki-links.html`, "utf8", (err, data) => {
 		allHREFs.push(href.toLowerCase())
 		
 	});
+
+
+	// var newData = '<ul><li><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a>  &lrm; <span class="mw-whatlinkshere-tools">(<a href="/w/index.php?title=Special:WhatLinksHere&amp;target=Miles Davis" title="Special:WhatLinksHere">links</a>&nbsp;| <a href="/w/index.php?title=Miles Davis&amp;action=edit" title="Miles Davis">edit</a>)</span></li><ul>'
+	// var $2 = cheerio.load(newData);
+
 	
 	async.forEachSeries($("li"), (li, cb) => {
 

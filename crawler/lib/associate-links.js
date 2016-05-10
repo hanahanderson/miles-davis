@@ -12,6 +12,12 @@ fs.readFile(`${__dirname}/../../wiki-links.html`, "utf8", (err, data) => {
 
 	var $ = cheerio.load(data);
 
+
+	// var newData = '<ul><li><a href="/wiki/Miles_Davis" title="Miles Davis">Miles Davis</a>  &lrm; <span class="mw-whatlinkshere-tools">(<a href="/w/index.php?title=Special:WhatLinksHere&amp;target=Miles Davis" title="Special:WhatLinksHere">links</a>&nbsp;| <a href="/w/index.php?title=Miles Davis&amp;action=edit" title="Miles Davis">edit</a>)</span></li><ul>'
+	// var $2 = cheerio.load(newData);
+
+	
+
 	async.forEachSeries($("li"), (li, cb) => {
 
 		var href = $(li).find("a").attr("href").slice(6);
