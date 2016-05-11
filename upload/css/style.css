@@ -1,3 +1,7 @@
+.popover {
+	max-width: 400px
+}
+
 .hidden-visible,
 .wf-loading {
     visibility: hidden
@@ -328,6 +332,48 @@ body{background: linear-gradient(to top,#171A1F,#010201);he`: 5;height: 3000px;}
 
 canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);-webkit-backface-visibility: hidden;-moz-backface-visibility: hidden;-ms-backface-visibility: hidden;backface-visibility: hidden;-webkit-perspective: 1000;-moz-perspective: 1000;-ms-perspective: 1000;perspective: 1000;}
 
-.voronoi-svg {
-    display: none;
+.voronoi-tooltip-image {
+    background-size: cover;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+    height:90px;
+    width: 90px;
 }
+
+.voronoi-tooltip {
+	font-size: 11px; 
+	text-align: center;
+	width: 500px !important;
+}
+
+.voronoi-tooltip table td {
+	vertical-align: top;
+}
+
+.voronoi-tooltip .quote-container {
+	text-align: left;
+	padding: 10px;
+}
+.voronoi-tooltip .section-header-name {
+	text-transform: uppercase
+}
+
+.voronoi-tooltip .works-name {
+
+}
+
+.voronoi-tooltip .voronoi-tooltip-image.works-image {
+	width: 40px;
+	height: 40px;
+	display:inline-block;
+	vertical-align:middle;
+	margin-right: 5px;
+}
+
+.voronoi-tooltip .works-list {
+	text-align:left
+}
+.voronoi-tooltip .works-list table tr td {
+	vertical-align: middle
+}
+

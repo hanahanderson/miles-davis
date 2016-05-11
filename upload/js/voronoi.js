@@ -1,4 +1,8 @@
 
+
+var layoutType = ["bubble", "picture", "grid", "decade"];
+var layoutIndex = 0;
+
 var chartWidth = 710;
 var chartHeight = 700;
 
@@ -26,7 +30,7 @@ var chart = base.append("canvas")
 
 
 function d3_layout_packSort(a, b) {
-	return b.PageViews - a.PageViews;
+	return parseInt(b.PageViews) - parseInt(a.PageViews);
 };
 
 
@@ -34,7 +38,7 @@ var PageViewScale = d3.scale.linear().domain([1,4062937]).range([1,4000]).clamp(
 
 var bubble = d3.layout.pack()
   .size([500, 500])
-	.value(function(d) { return PageViewScale(d.PageViews); })
+	.value(function(d) { return PageViewScale(parseInt(d.PageViews)); })
   .sort(d3_layout_packSort)
   .padding(10)
   ;
@@ -70,9 +74,12 @@ var yearsXScale = d3.scale.linear().domain([minYear, 2016]).range([10, chartWidt
 
 function drawCanvas() {
 
+
+  var layoutMode = layoutType[layoutIndex];
+  
   context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
 
-  if(isDecadeHistogram && !isPicture) {
+  if(layoutMode === "decade") {
   	for(var x = 1940; x < 2020; x+= 10){
   		context.beginPath();
   		context.strokeStyle = "white"
@@ -85,28 +92,32 @@ function drawCanvas() {
 
   var elements = dataContainer.selectAll("custom.rect");
   elements.each(function(d) {
+
+  	var layout = d.layout[layoutMode];
     var node = d3.select(this);
 
-    context.beginPath();
+   // context.beginPath();
 
-    var nodeRadius = d.r;
-    if(d.hidden){
+    var nodeRadius = layout.r;
+    if(layout.hidden){
     	context.fillStyle = "rgba(0,0,0,0)";
     } else {
-    	if(isPicture){
+    	if(layoutMode === "picture"){
     		context.fillStyle = "whitesmoke";
 
     	} else {
-	    	context.fillStyle =
-	    	(scrollEntityType === null || scrollEntityType === d.mainSubjectType?
-	    		subjectColors[d.mainSubjectType] :
-	    		"rgba(255,255,255,0.4)");
+    		context.fillStyle =	subjectColors[d.mainSubjectType];
+	    	// context.fillStyle =
+	    	// (scrollEntityType === null || scrollEntityType === d.mainSubjectType?
+	    	// 	subjectColors[d.mainSubjectType] :
+	    	// 	"rgba(255,255,255,0.4)");
 	    }
+	    context.beginPath();
+	    context.arc(layout.x, layout.y, layout.r, 0, 2 * Math.PI, false);
+	    context.fill();
+	    context.closePath();
+
     }
-    context.beginPath();
-    context.arc(d.x, d.y, nodeRadius, 0, 2 * Math.PI, false);
-    context.fill();
-    context.closePath();
   });
 
 }
@@ -131,48 +142,128 @@ function drawDataBinding() {
 
 function updateVoronoi () {
 
+  var layoutMode = layoutType[layoutIndex];
+  
   var voronoi = d3.geom.voronoi()
-		.x(function(d) { return d.x; })
-		.y(function(d) { return d.y; })
+		.x(function(d) { 
+			var layout = d.layout[layoutMode];
+			return layout.x; 
+		})
+		.y(function(d) { 
+			var layout = d.layout[layoutMode];
+			return layout.y; 
+		})
 		.clipExtent([[0, 0], [chart.attr("width"), chart.attr("height")]]);
 
   $(".voronoiWrapper").html("")
 	//Create the Voronoi diagram
 	voronoiGroup.selectAll("path")
-		.data(voronoi(data.filter(function(d) { return !d.hidden; }))) //Use vononoi() with your dataset inside
+		.data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
 		.enter().append("path")
 		.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
 		.datum(function(d, i) { return d.point; })
 		//Give each cell a unique class where the unique part corresponds to the circle classes
 		.attr("class", function(d,i) { return "voronoi " })
-		//.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
+		.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
 		.on("mouseover", showTooltip)
 		.on("mouseout",  removeTooltip);
 }
 
 function drawChart() {
 
-	data = data.map(function(d, i){
-		var picturePoint = pictureCoords[i];
-		d.x = picturePoint[0];
-		d.y = picturePoint[1];
-		d.r = picturePoint[2];
-		d.hidden = false;
-		return d;
-	});
+	// data = data.map(function(d, i){
+	// 	var picturePoint = pictureCoords[i];
+	// 	d.x = picturePoint[0];
+	// 	d.y = picturePoint[1];
+	// 	d.r = picturePoint[2];
+	// 	d.hidden = false;
+	// 	return d;
+	// });
   drawDataBinding();
 	updateVoronoi();
 }
 
 //Show the tooltip on the hovered over circle
 function showTooltip(d) {
+	var imageHTML = "";
+
+	if(d.imageURL !== null && typeof d.imageURL !== "undefined" && d.imageURL !== "undefined"){
+		imageHTML = `<div style='background-image: url("http:${d.imageURL}")' class='voronoi-tooltip-image'/></div>`;
+	}
+
+	var mentionsHTML = "";
+	if(typeof mentionsObj[d.URL] !== "undefined"){
+		var mentionsBySection = {};
+		mentionsObj[d.URL].forEach(function(m) {
+			if(typeof mentionsBySection[m.sectionHeader] === "undefined"){
+				mentionsBySection[m.sectionHeader] = [];
+			}
+			mentionsBySection[m.sectionHeader].push(m);
+		});
+
+		for(var s in mentionsBySection){
+			mentionsHTML += `<div class="section-header-name"> Wiki Section: <b>${s}</b> </div> <br>`;
+			for(var m in mentionsBySection[s]){
+				mentionsHTML += mentionsBySection[s][m].quote.replace(/Miles Davis/gi, "<b>Miles Davis</b>") + "<br>";
+			}
+			if(Object.keys(mentionsBySection).length > 1) {
+				mentionsHTML += "<hr>";
+			}
+		}
+	}
+
+	var worksRow = "";
+	if(typeof d.artistsOf !== "undefined") {
+		var works = data.filter(function(a) { return d.artistsOf.indexOf(a.URL) !== -1 })
+										.sort(function(a, b) { return a.Name < b.Name });
+
+		var worksHTML = "<br>";
+		for(var w in works){
+
+			var workImage = "";
+			if(works[w].imageURL !== null && 
+				typeof works[w].imageURL !== "undefined" 
+				&& works[w].imageURL !== "undefined"){
+				workImage = `<div style='background-image: url("http:${works[w].imageURL}")' class='voronoi-tooltip-image works-image'/></div>`;
+			}
+
+			worksHTML += `<tr>
+										<td>${workImage} </td>
+										<td><b class='works-name'>${works[w].Name}</b></td>
+									</tr>`;
+		}
+
+		worksRow = `<tr>
+								<td colspan="2" class="works-list"> 
+									<table>
+										${worksHTML} 
+									<table>
+								</td>
+							</tr>`;
+	}
+
 	$(this).popover({
 		placement: 'auto top', //place the tooltip above the item
 		container: '#vis', //the name (class or id) of the container
 		trigger: 'manual',
 		html : true,
 		content: function() { //the html content to show inside the tooltip
-			return "<span style='font-size: 11px; text-align: center;'>" + d.Name + "</span>"; }
+			return `<span class="voronoi-tooltip">
+						 	 <table>
+								<tbody>
+									<tr>
+										<td> 
+											${imageHTML}
+											<br>
+											<b> ${d.Name} <b>
+										</td>
+										<td class="quote-container"> ${mentionsHTML} </td>
+									</tr>
+									${worksRow}
+								</tbody>
+							</table>
+						</span>`; 
+		}
 	});
 	$(this).popover('show');
 }//function showTooltip
@@ -209,44 +300,9 @@ var isDecadeHistogram = false;
 
 $("#transform-to-decades").on("click", function() {
 
-	isDecadeHistogram = !isDecadeHistogram;
-
-	if(isDecadeHistogram){
-		var years = {};
-
-		data = data.map(function(d) {
-
-			d.hidden = true;
-
-			var matchedYear = getYear(d.years);
-			if(matchedYear === null){
-				matchedYear = getYear(d.associatedYears);
-			}
-			d.year = matchedYear;
-
-			if(matchedYear !== null){
-				d.hidden = false;
-	      if(typeof years[matchedYear] === "undefined"){
-	      	years[matchedYear] = 0;
-	      }
-
-	      d.x = yearsXScale(matchedYear);
-				years[matchedYear]++;
-				d.y = chartHeight - ((years[matchedYear] * 4) + 180);
-				d.r = 2
-			}
-
-			return d;
-		});
-	} else {
-		data = data.map(function(d, i){
-			d.r = nodeHeight / 2;
-			d.y = ((i % numPerColumn) * (nodeHeight + 2)) + 11;
-			d.x = (Math.floor(i / numPerColumn) * (nodeHeight + 2)) + 11;
-			d.hidden = false;
-
-			return d;
-		});
+	layoutIndex ++;
+	if(layoutIndex >= layoutType.length){
+		layoutIndex = 0;
 	}
 
 	updateVoronoi();
@@ -361,53 +417,88 @@ $(document).ready(function() {
 
 		// twinkle();
 
-		drawDataBinding();
-  	isPicture = true;
-  	$(".voronoiWrapper").hide();
-  	removeTooltip();
 
-		var svgBubble = d3.select("body").append("svg")
-	    .attr("width", 500)
-	    .attr("height", 500)
-	    .attr("class", "bubble")
-			;
+		// var svgBubble = d3.select("body").append("svg")
+	 //    .attr("width", 500)
+	 //    .attr("height", 500)
+	 //    .attr("class", "bubble")
+		// 	;
 
-			console.log(data);
-
-		var root = {};
-    root.children = data;
+		var root = {
+			children: data
+		};
 		var packData = bubble.nodes(root);
 		packData.splice(0, 1);
+		// var node = svgBubble.selectAll(".node")
+  //     .data(packData)
+  //   	.enter()
+		// 	.append("circle")
+  //     .attr("cx", function(d) {
+		// 		return d.x;
+		// 	})
+		// 	.attr("cy", function(d) {
+		// 		return d.y;
+		// 	})
+		// 	.style("fill","white")
+		// 	.attr("r", function(d) { return d.r; })
+		// 	;
 
-		var node = svgBubble.selectAll(".node")
-      .data(packData)
-    	.enter()
-			.append("circle")
-      .attr("cx", function(d) {
-				return d.x;
-			})
-			.attr("cy", function(d) {
-				return d.y;
-			})
-			.style("fill","white")
-			.attr("r", function(d) { return d.r; })
-			;
+  	var years = {};
 
+		data = packData.map(function(d, i){
+			var decadeLayout = { hidden: true };
+			var matchedYear = getYear(d.years);
+			if(matchedYear === null){
+				matchedYear = getYear(d.associatedYears);
+			}
+			d.year = matchedYear;
 
-		isPicture = false;
-  	$(".voronoiWrapper").show();
+			if(matchedYear !== null){
+				d.hidden = false;
+	      if(typeof years[matchedYear] === "undefined"){
+	      	years[matchedYear] = 0;
+	      }
+				years[matchedYear]++;
+				decadeLayout = {
+					x: yearsXScale(matchedYear),
+					y: chartHeight - ((years[matchedYear] * 4) + 180),
+					r: 2,
+					hidden: false
+				}
+			}
 
-		data = data.map(function(d, i){
-			d.r = nodeHeight / 2;
-			d.y = ((i % numPerColumn) * (nodeHeight + 2)) + 11;
-			d.x = (Math.floor(i / numPerColumn) * (nodeHeight + 2)) + 11;
-			d.hidden = false;
+			d.layout = {
+				picture: {
+					x: pictureCoords[i][0],
+					y: pictureCoords[i][1],
+					r: pictureCoords[i][2],
+					hidden: false
+				},
+				bubble: {
+					x: d.x,
+					y: d.y,
+					r: d.r,
+					hidden: false
+				},
+				decade: decadeLayout,
+				grid: {
+					x: (Math.floor(i / numPerColumn) * (nodeHeight + 2)) + 11,
+					y: ((i % numPerColumn) * (nodeHeight + 2)) + 11,
+					r: nodeHeight / 2,
+					hidden: false
+				}
+			};
 			return d;
 		});
 
+
+		drawDataBinding();
 		updateVoronoi();
 
   	drawCanvas();
+
+
+  	removeTooltip();
 
 		var controller = new ScrollMagic.Controller();
 
