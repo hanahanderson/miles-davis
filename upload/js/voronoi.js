@@ -137,11 +137,11 @@ function drawCanvas() {
     		context.fillStyle = "whitesmoke";
 
     	} else {
-    		context.fillStyle =	subjectColors[d.mainSubjectType];
-	    	// context.fillStyle =
-	    	// (scrollEntityType === null || scrollEntityType === d.mainSubjectType?
-	    	// 	subjectColors[d.mainSubjectType] :
-	    	// 	"rgba(255,255,255,0.4)");
+    		//context.fillStyle =	subjectColors[d.mainSubjectType];
+	    	context.fillStyle =
+	    	(scrollEntityType === null || scrollEntityType === d.mainSubjectType?
+	    		subjectColors[d.mainSubjectType] :
+	    		"rgba(255,255,255,0.4)");
 	    }
 	    context.beginPath();
 	    context.arc(layout.x, layout.y, layout.r, 0, 2 * Math.PI, false);
@@ -341,13 +341,10 @@ $("#transform-to-decades").on("click", function() {
 
 });
 
-
-
-$(document).ready(function() {
-	loadData(function() {
-
-		var picturePointWidth = 709,
+var picturePointWidth = 709,
 				picturePointHeight = 406;
+
+function drawIntroPicture() {
 
 		d3.selectAll(".star-filler").append("svg")
 			.attr("width", "100%")
@@ -378,28 +375,6 @@ $(document).ready(function() {
     	.attr("class", "picture-point")
 			;
 
-		var voronoi = d3.geom.voronoi()
-			.x(function(d, i) { return pictureCoords[i][0]; })
-			.y(function(d, i) { return pictureCoords[i][1]; })
-			.clipExtent([[0, 0], [picturePointWidth, picturePointHeight]]);
-
-		//Create the Voronoi diagram
-			d3.select(".intro-vis-miles")
-	  		.append("svg")
-	  		.attr("class", "intro-voroni-picture")
-	    	.attr("width", picturePointWidth)
-	    	.attr("height", picturePointHeight)
-    	.selectAll("path")
-				.data(voronoi(data)) //Use vononoi() with your dataset inside
-			.enter()
-			.append("path")
-				.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
-				.datum(function(d, i) { return d.point; })
-				//Give each cell a unique class where the unique part corresponds to the circle classes
-				.attr("class", function(d,i) { return "voronoi " })
-				.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
-				.on("mouseover", showTooltip)
-				.on("mouseout",  removeTooltip);
 
 
 		var dotPlot = svgTwo.append("g")
@@ -480,6 +455,39 @@ $(document).ready(function() {
 	 //    .attr("height", 500)
 	 //    .attr("class", "bubble")
 		// 	;
+}
+
+
+$(document).ready(function() {
+
+	drawIntroPicture();
+
+	loadData(function() {
+
+		
+		var voronoi = d3.geom.voronoi()
+			.x(function(d, i) { return pictureCoords[i][0]; })
+			.y(function(d, i) { return pictureCoords[i][1]; })
+			.clipExtent([[0, 0], [picturePointWidth, picturePointHeight]]);
+
+		//Create the Voronoi diagram
+			d3.select(".intro-vis-miles")
+	  		.append("svg")
+	  		.attr("class", "intro-voroni-picture")
+	    	.attr("width", picturePointWidth)
+	    	.attr("height", picturePointHeight)
+    	.selectAll("path")
+				.data(voronoi(data)) //Use vononoi() with your dataset inside
+			.enter()
+			.append("path")
+				.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
+				.datum(function(d, i) { return d.point; })
+				//Give each cell a unique class where the unique part corresponds to the circle classes
+				.attr("class", function(d,i) { return "voronoi " })
+				.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
+				.on("mouseover", showTooltip)
+				.on("mouseout",  removeTooltip);
+
 
 		var root = {
 			children: data
@@ -642,63 +650,55 @@ $(document).ready(function() {
 		//   })
 		// 	;
 
-		// var chartEvent = new ScrollMagic.Scene({
-		// 		triggerElement: "#trigger-2",
-		// 		duration:400,
-		// 		triggerHook:0,
-		// 		offset:200
-		// 	})
-		//   .addIndicators({name: "thing"}) // add indicators
-		//   .addTo(controller)
-		//   .on("enter", function (e) {
-		//
-		// 		isPicture = false;
-		//   	$(".voronoiWrapper").show();
-		//
-		// 		data = data.map(function(d, i){
-		// 			d.r = nodeHeight / 2;
-		// 			d.y = ((i % numPerColumn) * (nodeHeight + 2)) + 11;
-		// 			d.x = (Math.floor(i / numPerColumn) * (nodeHeight + 2)) + 11;
-		// 			d.hidden = false;
-		//
-		// 			return d;
-		// 		});
-		//   	updateVoronoi();
-		//
-		//   	d3.select("#vis")
-		//   		.style("position", "fixed");
-		//
-		//   	drawCanvas();
-		//   })
-		//   .on("leave",function(e){
-		//   	d3.select("#vis")
-		// 	  		.style("position", "relative");
-		// 	  scrollEntityType = null;
-		// 	  $("#section-header").html("");
-		//
-		//   	drawCanvas();
-		//   })
-		//   .on("progress", function (e) {
-		//   	var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
-		//
-		//   	var progress = e.progress;
-		//   	var progressPosition = Math.round(progress * entityTypes.length);
-		//
-		//   	var newScrollEntityType = entityTypes[progressPosition];
-		//
-		//   	if(scrollEntityType !== newScrollEntityType){
-		//
-		//   		scrollEntityType = newScrollEntityType
-		//
-		// 	  	drawCanvas();
-		//
-		// 		  $("#section-header")
-		// 		  	.html(scrollEntityType)
-		// 		  	.css("color", subjectColors[scrollEntityType])
-		// 		  	;
-		//
-		// 	  }
-		// 	});
+		var chartEvent = new ScrollMagic.Scene({
+				triggerElement: "#trigger-2",
+				duration:500,
+				triggerHook:0,
+				offset:10
+			})
+		  .addIndicators({name: "thing"}) // add indicators
+		  .addTo(controller)
+		  .on("enter", function (e) {
+			
+		  	d3.select("#vis")
+		  		.style("position", "fixed")
+		  		.style("top", "0px");
+		
+		  	drawCanvas();
+		  })
+		  .on("leave",function(e){
+		  	d3.select("#vis")
+			  		.style("position", "relative")
+		  			.style("top", "initial");
+		
+			  scrollEntityType = null;
+			  $("#section-header").html("");
+		
+		  	drawCanvas();
+		  })
+		  .on("progress", function (e) {
+		  	var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
+		
+		  	var progress = e.progress;
+		  	var progressPosition = Math.min(Math.round(progress * entityTypes.length), entityTypes.length );
+		
+		  	var newScrollEntityType = entityTypes[progressPosition];
+		
+		  	if(scrollEntityType !== newScrollEntityType){
+		
+		  		scrollEntityType = newScrollEntityType;
+
+		  		var typeCount = data.filter(function(d){ return d.mainSubjectType === scrollEntityType; }).length;
+		
+			  	drawCanvas();
+		
+				  $("#section-header")
+				  	.html(scrollEntityType + " - <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + " pages)</small> </small>")
+				  	.css("color", subjectColors[scrollEntityType])
+				  	;
+		
+			  }
+			});
 
 	})
 })

@@ -70,8 +70,8 @@ var {
     margin: 0;
     outline: 0;
     padding: 0;
-    vertical-align: baseline;
-    height: auto
+    /* vertical-align: baseline; */
+    height: auto;
 }
 
 
@@ -214,6 +214,8 @@ body{background: linear-gradient(to top,#171A1F,#010201);he`: 5;height: 3000px;}
 #vis {
 	margin: 0 auto;
 	position: relative;
+	top: 0px;
+	width: 100%;
 }
 
 
