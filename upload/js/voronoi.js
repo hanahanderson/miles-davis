@@ -347,6 +347,30 @@ $(document).ready(function() {
     	.attr("class", "picture-point")
 			;
 
+		var voronoi = d3.geom.voronoi()
+			.x(function(d, i) { return pictureCoords[i][0]; })
+			.y(function(d, i) { return pictureCoords[i][1]; })
+			.clipExtent([[0, 0], [picturePointWidth, picturePointHeight]]);
+
+		//Create the Voronoi diagram
+			d3.select(".intro-vis-miles")
+	  		.append("svg")
+	  		.attr("class", "intro-voroni-picture")
+	    	.attr("width", picturePointWidth)
+	    	.attr("height", picturePointHeight)
+    	.selectAll("path")
+				.data(voronoi(data)) //Use vononoi() with your dataset inside
+			.enter()
+			.append("path")
+				.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
+				.datum(function(d, i) { return d.point; })
+				//Give each cell a unique class where the unique part corresponds to the circle classes
+				.attr("class", function(d,i) { return "voronoi " })
+				.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
+				.on("mouseover", showTooltip)
+				.on("mouseout",  removeTooltip);
+
+
 		var dotPlot = svgTwo.append("g")
       .selectAll("circle")
       .data(pictureCoords)
@@ -375,7 +399,9 @@ $(document).ready(function() {
         return d[2]
       })
 
-		var dotPlotDots = d3.selectAll(".dot-plot");
+		
+
+		//var dotPlotDots = d3.selectAll(".dot-plot");
 
 		// dotPlotDots
 		// 	.transition()
@@ -394,26 +420,26 @@ $(document).ready(function() {
 		// 	})
 		// 	;
 
-		function twinkle(){
-		  setInterval(function(){
-		    dotPlotDots
-		      .transition()
-		      .duration(5000)
-		      .delay(function(d,i){
-		        return Math.random()*5000;
-		      })
-		      .attr("r",0)
-		      .transition()
-		      .duration(5000)
-		      .delay(function(d,i){
-		        return Math.random()*5000 + 8000;
-		      })
-		      .attr("r",function(d,i){
-		        return d[2];
-		      })
-		      ;
-		  }, 18000);
-		}
+		// function twinkle(){
+		//   setInterval(function(){
+		//     dotPlotDots
+		//       .transition()
+		//       .duration(5000)
+		//       .delay(function(d,i){
+		//         return Math.random()*5000;
+		//       })
+		//       .attr("r",0)
+		//       .transition()
+		//       .duration(5000)
+		//       .delay(function(d,i){
+		//         return Math.random()*5000 + 8000;
+		//       })
+		//       .attr("r",function(d,i){
+		//         return d[2];
+		//       })
+		//       ;
+		//   }, 18000);
+		// }
 
 		// twinkle();
 
