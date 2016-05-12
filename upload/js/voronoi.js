@@ -1,6 +1,6 @@
 
 
-var layoutType = ["bubble", "picture", "grid", "decade"];
+var layoutType = ["bubble", /*"picture", "grid",*/ "decade"];
 var layoutIndex = 0;
 
 var chartWidth = 710;
