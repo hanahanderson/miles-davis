@@ -1,6 +1,6 @@
 
 
-var layoutType = ["bubble", /*"picture", "grid",*/ "decade"];
+var layoutType = ["bubble", /*"picture", "grid",*/ "decade", "decade-split"];
 var layoutIndex = 0;
 
 var chartWidth = 710;
@@ -70,7 +70,7 @@ var timeScale = d3.scale.linear()
 
 var minYear = 1930;
 var yearsXScale = d3.scale.linear().domain([minYear, 2016]).range([10, chartWidth - 10])
-
+var decadeTypeLabels = [];
 
 function drawCanvas() {
 
@@ -79,14 +79,43 @@ function drawCanvas() {
   
   context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
 
-  if(layoutMode === "decade") {
+  if(["decade", "decade-split"].indexOf(layoutMode) !== -1) {
+
+  	var decadeHeightPadding = 0;
+
+  	if(layoutMode === "decade-split"){
+  		decadeHeightPadding = 130;
+
+  		for(var l in decadeTypeLabels){
+  			var label = decadeTypeLabels[l];
+	  		//context.fillStyle = subjectColors[label.label];
+	  		context.fillStyle ="white"
+				context.textAlign = "center";
+				context.fillText(label.label, 
+					yearsXScale(1940), 
+					chartHeight  + ((label.base * 5) + (label.maxYears * 5) / 2) ); 
+  		}
+
+  	}
+  	context.beginPath();
+		context.strokeStyle = "rgba(255,255,255,0.9)";
+		context.moveTo(yearsXScale(1940) -10 , chartHeight - 178 + decadeHeightPadding);
+		context.lineTo(yearsXScale(2017) -10, chartHeight - 178 + decadeHeightPadding);
+		context.stroke();
+		context.closePath();
+
   	for(var x = 1940; x < 2020; x+= 10){
   		context.beginPath();
-  		context.strokeStyle = "white"
-  		context.moveTo(yearsXScale(x) -10 , 50);
-			context.lineTo(yearsXScale(x) -10, chartHeight - 180);
+  		context.strokeStyle = "rgba(255,255,255,0.3)";
+  		context.moveTo(yearsXScale(x) -10 , 0);
+			context.lineTo(yearsXScale(x) -10, chartHeight - 165 + decadeHeightPadding);
 			context.stroke();
 			context.closePath();
+
+			context.fillStyle = "white";
+			context.textAlign = "center";
+			context.fillText(x +"s", yearsXScale(x)+ 30, chartHeight - 165 + decadeHeightPadding); 
+
   	}
   }
 
@@ -164,7 +193,7 @@ function updateVoronoi () {
 		.datum(function(d, i) { return d.point; })
 		//Give each cell a unique class where the unique part corresponds to the circle classes
 		.attr("class", function(d,i) { return "voronoi " })
-		.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
+		//.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
 		.on("mouseover", showTooltip)
 		.on("mouseout",  removeTooltip);
 }
@@ -470,10 +499,41 @@ $(document).ready(function() {
 		// 	;
 
   	var years = {};
+  	var maxYearsByType = 0;
+  	var maxYearBase = 0;
+  	var entityTypeYears = {};
 
+  	var thisType;
 		data = packData.map(function(d, i){
+
+			if(typeof thisType === "undefined"){
+				thisType = d.mainSubjectType;
+			}
+
+
+			if(d.mainSubjectType !== thisType){
+
+				maxYearsByType = d3.max(Object.keys(entityTypeYears).map(function(y) { return entityTypeYears[y] }));
+				decadeTypeLabels.push({
+					label: thisType,
+					maxYears: maxYearsByType,
+					baseLine: maxYearBase
+				});
+
+				maxYearBase += maxYearsByType;
+
+
+			  thisType = d.mainSubjectType;
+				
+				entityTypeYears = {};
+			}
+
+
+
 			var decadeLayout = { hidden: true };
+			var decadeSplitLayout = { hidden: true};
 			var matchedYear = getYear(d.years);
+
 			if(matchedYear === null){
 				matchedYear = getYear(d.associatedYears);
 			}
@@ -485,9 +545,22 @@ $(document).ready(function() {
 	      	years[matchedYear] = 0;
 	      }
 				years[matchedYear]++;
+
 				decadeLayout = {
 					x: yearsXScale(matchedYear),
-					y: chartHeight - ((years[matchedYear] * 4) + 180),
+					y: chartHeight - ((years[matchedYear] * 5) + 180),
+					r: 2,
+					hidden: false
+				}
+
+				if(typeof entityTypeYears[matchedYear] === "undefined"){
+	      	entityTypeYears[matchedYear] = 0;
+	      }
+				entityTypeYears[matchedYear]++;
+
+				decadeSplitLayout = {
+					x: yearsXScale(matchedYear),
+					y: chartHeight - ((entityTypeYears[matchedYear] * 5 ) + 50 + (maxYearBase* 5)),
 					r: 2,
 					hidden: false
 				}
@@ -507,6 +580,7 @@ $(document).ready(function() {
 					hidden: false
 				},
 				decade: decadeLayout,
+				"decade-split": decadeSplitLayout,
 				grid: {
 					x: (Math.floor(i / numPerColumn) * (nodeHeight + 2)) + 11,
 					y: ((i % numPerColumn) * (nodeHeight + 2)) + 11,
@@ -517,6 +591,11 @@ $(document).ready(function() {
 			return d;
 		});
 
+		decadeTypeLabels.push({
+			label: thisType,
+			maxYears: maxYearsByType,
+			baseLine: maxYearBase
+		});
 
 		drawDataBinding();
 		updateVoronoi();
