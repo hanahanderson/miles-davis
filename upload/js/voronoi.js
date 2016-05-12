@@ -1,6 +1,6 @@
 
 
-var layoutType = ["bubble", /*"picture", "grid",*/ "decade", "decade-split"];
+var layoutType = [ "bubble", /*"picture", "grid",*/ "decade", "decade-split"];
 var layoutIndex = 0;
 
 var chartWidth = 710;
@@ -88,12 +88,12 @@ function drawCanvas() {
 
   		for(var l in decadeTypeLabels){
   			var label = decadeTypeLabels[l];
-	  		//context.fillStyle = subjectColors[label.label];
-	  		context.fillStyle ="white"
-				context.textAlign = "center";
+	  		context.fillStyle = subjectColors[label.label];
+				//context.textAlign = "center";
 				context.fillText(label.label, 
-					yearsXScale(1940), 
-					chartHeight  + ((label.base * 5) + (label.maxYears * 5) / 2) ); 
+					50, 
+					chartHeight - 180 + decadeHeightPadding - ( (label.baseLine + (label.maxYears / 2)) * 5 )); 
+
   		}
 
   	}
@@ -117,6 +117,8 @@ function drawCanvas() {
 			context.fillText(x +"s", yearsXScale(x)+ 30, chartHeight - 165 + decadeHeightPadding); 
 
   	}
+
+
   }
 
   var elements = dataContainer.selectAll("custom.rect");
