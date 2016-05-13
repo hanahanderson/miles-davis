@@ -6,6 +6,9 @@ var layoutIndex = 0;
 var chartWidth = 710;
 var chartHeight = 700;
 
+var bubbleWidth = 500;
+var bubbleHeight = 500;
+
 var numPerColumn = 60;
 var nodeHeight = 4;
 var padding = 1;
@@ -16,8 +19,8 @@ var scrollEntityType = null;
 
 var base = d3.select("#vis");
 
-base.style("width", chartWidth + "px")
-		.style("height", chartHeight + "px")
+base.style("width", bubbleWidth + "px")
+		.style("height", bubbleHeight + "px")
 
 var chart = base.append("canvas")
 		.style("width", chartWidth + 'px')
@@ -25,7 +28,6 @@ var chart = base.append("canvas")
 	  .attr("width", chartWidth)
 	  .attr("height", chartHeight)
 		.style("position", "absolute")
-		.style("top", "80px")
 		;
 
 
@@ -76,7 +78,7 @@ function drawCanvas() {
 
 
   var layoutMode = layoutType[layoutIndex];
-  
+
   context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
 
   if(["decade", "decade-split"].indexOf(layoutMode) !== -1) {
@@ -90,9 +92,9 @@ function drawCanvas() {
   			var label = decadeTypeLabels[l];
 	  		context.fillStyle = subjectColors[label.label];
 				//context.textAlign = "center";
-				context.fillText(label.label, 
-					50, 
-					chartHeight - 180 + decadeHeightPadding - ( (label.baseLine + (label.maxYears / 2)) * 5 )); 
+				context.fillText(label.label,
+					50,
+					chartHeight - 180 + decadeHeightPadding - ( (label.baseLine + (label.maxYears / 2)) * 5 ));
 
   		}
 
@@ -114,7 +116,7 @@ function drawCanvas() {
 
 			context.fillStyle = "white";
 			context.textAlign = "center";
-			context.fillText(x +"s", yearsXScale(x)+ 30, chartHeight - 165 + decadeHeightPadding); 
+			context.fillText(x +"s", yearsXScale(x)+ 30, chartHeight - 165 + decadeHeightPadding);
 
   	}
 
@@ -174,15 +176,15 @@ function drawDataBinding() {
 function updateVoronoi () {
 
   var layoutMode = layoutType[layoutIndex];
-  
+
   var voronoi = d3.geom.voronoi()
-		.x(function(d) { 
+		.x(function(d) {
 			var layout = d.layout[layoutMode];
-			return layout.x; 
+			return layout.x;
 		})
-		.y(function(d) { 
+		.y(function(d) {
 			var layout = d.layout[layoutMode];
-			return layout.y; 
+			return layout.y;
 		})
 		.clipExtent([[0, 0], [chart.attr("width"), chart.attr("height")]]);
 
@@ -252,8 +254,8 @@ function showTooltip(d) {
 		for(var w in works){
 
 			var workImage = "";
-			if(works[w].imageURL !== null && 
-				typeof works[w].imageURL !== "undefined" 
+			if(works[w].imageURL !== null &&
+				typeof works[w].imageURL !== "undefined"
 				&& works[w].imageURL !== "undefined"){
 				workImage = `<div style='background-image: url("http:${works[w].imageURL}")' class='voronoi-tooltip-image works-image'/></div>`;
 			}
@@ -265,9 +267,9 @@ function showTooltip(d) {
 		}
 
 		worksRow = `<tr>
-								<td colspan="2" class="works-list"> 
+								<td colspan="2" class="works-list">
 									<table>
-										${worksHTML} 
+										${worksHTML}
 									<table>
 								</td>
 							</tr>`;
@@ -283,7 +285,7 @@ function showTooltip(d) {
 						 	 <table>
 								<tbody>
 									<tr>
-										<td> 
+										<td>
 											${imageHTML}
 											<br>
 											<b> ${d.Name} <b>
@@ -293,7 +295,7 @@ function showTooltip(d) {
 									${worksRow}
 								</tbody>
 							</table>
-						</span>`; 
+						</span>`;
 		}
 	});
 	$(this).popover('show');
@@ -405,11 +407,11 @@ function drawIntroPicture() {
         return d[2]
       })
 
-		
+
 
 		//var dotPlotDots = d3.selectAll(".dot-plot");
 
-		// dotPlotDots
+		// dotPlot
 		// 	.transition()
 		// 	.duration(5000)
 		// 	.delay(function(d,i){
@@ -426,26 +428,26 @@ function drawIntroPicture() {
 		// 	})
 		// 	;
 
-		// function twinkle(){
-		//   setInterval(function(){
-		//     dotPlotDots
-		//       .transition()
-		//       .duration(5000)
-		//       .delay(function(d,i){
-		//         return Math.random()*5000;
-		//       })
-		//       .attr("r",0)
-		//       .transition()
-		//       .duration(5000)
-		//       .delay(function(d,i){
-		//         return Math.random()*5000 + 8000;
-		//       })
-		//       .attr("r",function(d,i){
-		//         return d[2];
-		//       })
-		//       ;
-		//   }, 18000);
-		// }
+		function twinkle(){
+		  setInterval(function(){
+		    dotPlot
+		      .transition()
+		      .duration(5000)
+		      .delay(function(d,i){
+		        return Math.random()*5000;
+		      })
+		      .attr("r",0)
+		      .transition()
+		      .duration(5000)
+		      .delay(function(d,i){
+		        return Math.random()*5000 + 8000;
+		      })
+		      .attr("r",function(d,i){
+		        return d[2];
+		      })
+		      ;
+		  }, 18000);
+		}
 
 		// twinkle();
 
@@ -460,11 +462,11 @@ function drawIntroPicture() {
 
 $(document).ready(function() {
 
-	drawIntroPicture();
+	// drawIntroPicture();
 
 	loadData(function() {
 
-		
+
 		var voronoi = d3.geom.voronoi()
 			.x(function(d, i) { return pictureCoords[i][0]; })
 			.y(function(d, i) { return pictureCoords[i][1]; })
@@ -534,7 +536,7 @@ $(document).ready(function() {
 
 
 			  thisType = d.mainSubjectType;
-				
+
 				entityTypeYears = {};
 			}
 
@@ -617,6 +619,13 @@ $(document).ready(function() {
 
 		var controller = new ScrollMagic.Controller();
 
+		var pinFirstChart = new ScrollMagic.Scene({triggerElement: "#trigger-2",triggerHook:0, offset:-100,duration:700})
+			// .addIndicators({name: "pin first chart"}) // add indicators (requires plugin)
+			.setPin("#vis", {pushFollowers: false})
+			.addTo(controller)
+			;
+
+
 		// var pictureEvent = new ScrollMagic.Scene({
 		// 		triggerElement: "#trigger-1",
 		// 		duration:400,
@@ -652,51 +661,41 @@ $(document).ready(function() {
 
 		var chartEvent = new ScrollMagic.Scene({
 				triggerElement: "#trigger-2",
-				duration:500,
+				duration:1000,
 				triggerHook:0,
 				offset:10
 			})
 		  .addIndicators({name: "thing"}) // add indicators
 		  .addTo(controller)
 		  .on("enter", function (e) {
-			
-		  	d3.select("#vis")
-		  		.style("position", "fixed")
-		  		.style("top", "0px");
-		
 		  	drawCanvas();
 		  })
 		  .on("leave",function(e){
-		  	d3.select("#vis")
-			  		.style("position", "relative")
-		  			.style("top", "initial");
-		
 			  scrollEntityType = null;
-			  $("#section-header").html("");
-		
+			  // $("#section-header").html("");
 		  	drawCanvas();
 		  })
 		  .on("progress", function (e) {
 		  	var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
-		
+
 		  	var progress = e.progress;
 		  	var progressPosition = Math.min(Math.round(progress * entityTypes.length), entityTypes.length );
-		
+
 		  	var newScrollEntityType = entityTypes[progressPosition];
-		
+
 		  	if(scrollEntityType !== newScrollEntityType){
-		
+
 		  		scrollEntityType = newScrollEntityType;
 
 		  		var typeCount = data.filter(function(d){ return d.mainSubjectType === scrollEntityType; }).length;
-		
+
 			  	drawCanvas();
-		
-				  $("#section-header")
-				  	.html(scrollEntityType + " - <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + " pages)</small> </small>")
-				  	.css("color", subjectColors[scrollEntityType])
-				  	;
-		
+
+				  // $("#section-header")
+				  // 	.html(scrollEntityType + " - <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + " pages)</small> </small>")
+				  // 	.css("color", subjectColors[scrollEntityType])
+				  // 	;
+
 			  }
 			});
 
