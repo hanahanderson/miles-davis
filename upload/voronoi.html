@@ -2,20 +2,20 @@
 <html>
 	<head>
 		<title></title>
-		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-		<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.12/d3.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.12/d3.min.js"></script>
 
 		<script type="text/javascript" src="http://cdn.rawgit.com/caolan/async/master/dist/async.min.js"></script>
 		<script type="text/javascript" src="http://cdn.rawgit.com/suprb/Nested/master/jquery.nested.js"></script>
 
-		<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.6.1/lodash.min.js"></script>
-		<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.6.1/lodash.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.js"></script>
     <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.velocity.js"</script>-->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"> </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"> </script>
 
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
 		<script src="https://use.typekit.net/dsp5jwb.js"></script>
 		<script>try{Typekit.load({ async: true });}catch(e){}</script>
@@ -50,11 +50,10 @@
 			<p class="chart-title-sub">The 4,000 Wikipedia Pages on which he's Mentioned</p>
 		</div>
 		<div id="trigger-1" class="spacer s0"></div>
-		<div id="trigger-2" class="spacer s0"></div>
 
 
 		<div class="first-chart-container">
-			<div id="vis">
+			<div id="vis-1" class="vis-container">
 				<button id="transform-to-decades">click</button>
 				<div class="first-chart-filters">
 					<div class="filter-head">
@@ -62,56 +61,11 @@
 						</p>
 					</div>
 					<div class="filter-items">
-						<p class="first-chart-filter">Miles' Discography
-						</p>
-						<p class="first-chart-filter-spacer">|
-						</p>
-						<p class="first-chart-filter">Direct Collaborators
-						</p>
-						<p class="first-chart-filter-spacer">|
-						</p>
-						<p class="first-chart-filter">Musicians
-						</p>
-						<p class="first-chart-filter-spacer">|
-						</p>
-						<p class="first-chart-filter">Other Peeps
-						</p>
-						<p class="first-chart-filter-spacer">|
-						</p>
-						<p class="first-chart-filter">Other Recordings
-						</p>
-						<p class="first-chart-filter-spacer">|
-						</p>
-						<p class="first-chart-filter">Misc.
-						</p>
 					</div>
 				</div>
 			</div>
 			<div class="first-chart-prose">
-				<div class="first-chart-text-section">
-					<p id="section-header" class="first-chart-section-head">50% Miles Recordings/Works.</p>
-					<p id="section-header" class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>
-				</div>
-				<div class="first-chart-text-section">
-					<p id="section-header" class="first-chart-section-head">50% Musicians.</p>
-					<p id="section-header" class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>
-				</div>
-				<div class="first-chart-text-section">
-					<p id="section-header" class="first-chart-section-head">50% Direct Collaborators.</p>
-					<p id="section-header" class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>
-				</div>
-				<div class="first-chart-text-section">
-					<p id="section-header" class="first-chart-section-head">50% Other People.</p>
-					<p id="section-header" class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>
-				</div>
-				<div class="first-chart-text-section">
-					<p id="section-header" class="first-chart-section-head">50% Other Recordings.</p>
-					<p id="section-header" class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>
-				</div>
-				<div class="first-chart-text-section">
-					<p id="section-header" class="first-chart-section-head">Misc.</p>
-					<p id="section-header" class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>
-				</div>
+				
 			</div>
 		</div>
 
@@ -120,7 +74,10 @@
 			<p class="chart-title">The Wikipedia Pages, by Decade</p>
 			<p class="chart-title-sub">XXXX</p>
 		</div>
+		<div id="trigger-2" class="spacer s0"></div>
+
 		<div class="second-chart-container">
+			<div id="vis-2" class='vis-container'></div>
 		</div>
 
 	</body>

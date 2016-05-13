@@ -216,7 +216,7 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	letter-spacing: 1px;
 }
 
-#vis {
+#vis-1, #vis-2 {
 	margin: 0 auto;
 	position: relative;
 	top: 0px;
@@ -252,7 +252,7 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 
 .voronoi {
     stroke: none;
-    stroke-width: 0px;
+    /* stroke-width: 0px; */
     fill: none;
     pointer-events: all;
 }
@@ -465,10 +465,10 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 
 
 .first-chart-section-head {
-    font-size: 22px;
-    color: white;
-    font-weight: 600;
-    margin-bottom: 10px;
+    /* font-size: 22px; */
+    /* color: white; */
+    /* font-weight: 600; */
+    /* margin-bottom: 10px; */
 }
 
 .first-chart-section-text {
@@ -538,7 +538,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 }
 
 .second-chart-container {
-    height: 1000px;
+    /* min-height: 1000px; */
 }
 
 .filter-items {

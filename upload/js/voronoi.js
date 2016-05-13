@@ -1,4 +1,9 @@
 
+var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
+var visScrollEvents = [];
+
+
+var controller = new ScrollMagic.Controller();
 
 var layoutType = [ "bubble", /*"picture", "grid",*/ "decade", "decade-split"];
 var layoutIndex = 0;
@@ -17,24 +22,10 @@ var isPicture = false;
 
 var scrollEntityType = null;
 
-var base = d3.select("#vis");
-
-base.style("width", bubbleWidth + "px")
-		.style("height", bubbleHeight + "px")
-
-var chart = base.append("canvas")
-		.style("width", chartWidth + 'px')
-	  .style("height", chartHeight + 'px')
-	  .attr("width", chartWidth)
-	  .attr("height", chartHeight)
-		.style("position", "absolute")
-		;
-
 
 function d3_layout_packSort(a, b) {
 	return parseInt(b.PageViews) - parseInt(a.PageViews);
 };
-
 
 var PageViewScale = d3.scale.linear().domain([1,4062937]).range([1,4000]).clamp(true)
 
@@ -45,22 +36,66 @@ var bubble = d3.layout.pack()
   .padding(10)
   ;
 
-var context = chart.node().getContext("2d");
+
+
+var base = d3.select("#vis-1");
+
+base.style("width", bubbleWidth + "px")
+		.style("height", bubbleHeight + "px")
+
+var chart1 = base.append("canvas")
+		.style("width", bubbleWidth + 'px')
+	  .style("height", bubbleHeight + 'px')
+	  .attr("width", bubbleWidth)
+	  .attr("height", bubbleHeight)
+		.style("position", "absolute")
+		;
+
+var base2 = d3.select("#vis-2");
+
+base2.style("width", bubbleWidth + "px")
+		.style("height", bubbleHeight + "px")
+
+var chart2 = base2.append("canvas")
+		.style("width", chartWidth + 'px')
+	  .style("height", chartHeight + 'px')
+	  .attr("width", chartWidth)
+	  .attr("height", chartHeight)
+		.style("position", "absolute")
+		;
+
+
+
+
+var context1 = chart1.node().getContext("2d");
+var context2 = chart2.node().getContext("2d");
 
 // Create an in memory only element of type 'custom'
-var detachedContainer = document.createElement("custom");
+var detachedContainer1 = document.createElement("custom");
+var detachedContainer2 = document.createElement("custom");
 
 // Create a d3 selection for the detached container. We won't
 // actually be attaching it to the DOM.
-var dataContainer = d3.select(detachedContainer);
+var dataContainer1 = d3.select(detachedContainer1);
+var dataContainer2 = d3.select(detachedContainer2);
 
 //Initiate a group element to place the voronoi diagram in
-var voronoiGroup = base.append("svg")
+var voronoiGroup1 = base.append("svg")
+	.attr("width", bubbleWidth)
+	.attr("height", bubbleHeight)
+	.attr("class", "voronoi-svg")
+	.style("position", "absolute")
+	.style("top", "0px")
+	.append("g")
+	.attr("class", "voronoiWrapper")
+	;
+
+var voronoiGroup2 = base2.append("svg")
 	.attr("width", chartWidth)
 	.attr("height", chartHeight)
 	.attr("class", "voronoi-svg")
 	.style("position", "absolute")
-	.style("top", "80px")
+	.style("top", "0px")
 	.append("g")
 	.attr("class", "voronoiWrapper")
 	;
@@ -76,97 +111,128 @@ var decadeTypeLabels = [];
 
 function drawCanvas() {
 
+	var contexts = [context1, context2];
+	var charts = [chart1, chart2];
 
-  var layoutMode = layoutType[layoutIndex];
+	for(var c = 0; c < contexts.length; c++){
+		var context = contexts[c];
+		var chart = charts[c]
+		//var layoutMode = layoutType[layoutIndex];
 
-  context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
+		var layoutMode = "";
 
-  if(["decade", "decade-split"].indexOf(layoutMode) !== -1) {
+		if(c === 0){
+			layoutMode = "bubble";
+		} else if (c === 1){
+			layoutMode = "decade-split"
+		}
+	  context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
 
-  	var decadeHeightPadding = 0;
+	  if(["decade", "decade-split"].indexOf(layoutMode) !== -1) {
 
-  	if(layoutMode === "decade-split"){
-  		decadeHeightPadding = 130;
+	  	var decadeHeightPadding = 0;
 
-  		for(var l in decadeTypeLabels){
-  			var label = decadeTypeLabels[l];
-	  		context.fillStyle = subjectColors[label.label];
-				//context.textAlign = "center";
-				context.fillText(label.label,
-					50,
-					chartHeight - 180 + decadeHeightPadding - ( (label.baseLine + (label.maxYears / 2)) * 5 ));
+	  	if(layoutMode === "decade-split"){
+	  		decadeHeightPadding = 130;
 
-  		}
+	  		for(var l in decadeTypeLabels){
+	  			var label = decadeTypeLabels[l];
+		  		context.fillStyle = subjectColors[label.label];
+					//context.textAlign = "center";
+					context.fillText(label.label,
+						50,
+						chartHeight - 180 + decadeHeightPadding - ( (label.baseLine + (label.maxYears / 2)) * 5 ));
 
-  	}
-  	context.beginPath();
-		context.strokeStyle = "rgba(255,255,255,0.9)";
-		context.moveTo(yearsXScale(1940) -10 , chartHeight - 178 + decadeHeightPadding);
-		context.lineTo(yearsXScale(2017) -10, chartHeight - 178 + decadeHeightPadding);
-		context.stroke();
-		context.closePath();
+	  		}
 
-  	for(var x = 1940; x < 2020; x+= 10){
-  		context.beginPath();
-  		context.strokeStyle = "rgba(255,255,255,0.3)";
-  		context.moveTo(yearsXScale(x) -10 , 0);
-			context.lineTo(yearsXScale(x) -10, chartHeight - 165 + decadeHeightPadding);
+	  	}
+	  	context.beginPath();
+			context.strokeStyle = "rgba(255,255,255,0.9)";
+			context.moveTo(yearsXScale(1940) -10 , chartHeight - 178 + decadeHeightPadding);
+			context.lineTo(yearsXScale(2017) -10, chartHeight - 178 + decadeHeightPadding);
 			context.stroke();
 			context.closePath();
 
-			context.fillStyle = "white";
-			context.textAlign = "center";
-			context.fillText(x +"s", yearsXScale(x)+ 30, chartHeight - 165 + decadeHeightPadding);
+	  	for(var x = 1940; x < 2020; x+= 10){
+	  		context.beginPath();
+	  		context.strokeStyle = "rgba(255,255,255,0.3)";
+	  		context.moveTo(yearsXScale(x) -10 , 0);
+				context.lineTo(yearsXScale(x) -10, chartHeight - 165 + decadeHeightPadding);
+				context.stroke();
+				context.closePath();
 
-  	}
+				context.fillStyle = "white";
+				context.textAlign = "center";
+				context.fillText(x +"s", yearsXScale(x)+ 30, chartHeight - 165 + decadeHeightPadding);
+
+	  	}
 
 
-  }
+	  }
 
-  var elements = dataContainer.selectAll("custom.rect");
-  elements.each(function(d) {
+	  var elements = dataContainer1.selectAll("custom.rect");
+	  elements.each(function(d) {
 
-  	var layout = d.layout[layoutMode];
-    var node = d3.select(this);
+	  	var layout = d.layout[layoutMode];
+	    var node = d3.select(this);
 
-   // context.beginPath();
+	   // context.beginPath();
 
-    var nodeRadius = layout.r;
-    if(layout.hidden){
-    	context.fillStyle = "rgba(0,0,0,0)";
-    } else {
-    	if(layoutMode === "picture"){
-    		context.fillStyle = "whitesmoke";
+	    var nodeRadius = layout.r;
+	    if(layout.hidden){
+	    	context.fillStyle = "rgba(0,0,0,0)";
+	    } else {
+	    	if(layoutMode === "picture"){
+	    		context.fillStyle = "whitesmoke";
 
-    	} else {
-    		//context.fillStyle =	subjectColors[d.mainSubjectType];
-	    	context.fillStyle =
-	    	(scrollEntityType === null || scrollEntityType === d.mainSubjectType?
-	    		subjectColors[d.mainSubjectType] :
-	    		"rgba(255,255,255,0.4)");
+	    	} else {
+	    		context.fillStyle =	subjectColors[d.mainSubjectType];
+	    		if(scrollEntityType === null){
+	    			if(layoutMode === "bubble"){
+	    				context.fillStyle = "white";
+	    			} 
+	    		} else {
+						context.fillStyle =
+				    	(scrollEntityType === d.mainSubjectType ?
+				    		subjectColors[d.mainSubjectType] :
+				    		"rgba(255,255,255,0.4)");
+	    		}
+		    	
+		    }
+		    context.beginPath();
+		    context.arc(layout.x, layout.y, layout.r, 0, 2 * Math.PI, false);
+		    context.fill();
+		    context.closePath();
+
 	    }
-	    context.beginPath();
-	    context.arc(layout.x, layout.y, layout.r, 0, 2 * Math.PI, false);
-	    context.fill();
-	    context.closePath();
+	  });
 
-    }
-  });
+
+
+	}
+
+ 
 
 }
 
 function drawDataBinding() {
 
-  var dataBinding = dataContainer.selectAll("custom.rect")
-    .data(data, function(d) { return d.URL; });
+	var dataContainers = [dataContainer1, dataContainer2]
+	for(var x in dataContainers){
+		var dataContainer = dataContainers[x];
 
-	dataBinding.enter()
-    .append("custom")
-    .classed("rect", true)
-    .attr("r",function(d){
-			return d.r;
-		})
-		;
+		var dataBinding = dataContainer.selectAll("custom.rect")
+	    .data(data, function(d) { return d.URL; });
+
+		dataBinding.enter()
+	    .append("custom")
+	    .classed("rect", true)
+	    .attr("r",function(d){
+				return d.r;
+			})
+			;
+
+	}
 
 	drawCanvas();
 
@@ -175,31 +241,49 @@ function drawDataBinding() {
 
 function updateVoronoi () {
 
-  var layoutMode = layoutType[layoutIndex];
 
-  var voronoi = d3.geom.voronoi()
-		.x(function(d) {
-			var layout = d.layout[layoutMode];
-			return layout.x;
-		})
-		.y(function(d) {
-			var layout = d.layout[layoutMode];
-			return layout.y;
-		})
-		.clipExtent([[0, 0], [chart.attr("width"), chart.attr("height")]]);
+	var voronoiGroups = [voronoiGroup1, voronoiGroup2];
 
-  $(".voronoiWrapper").html("")
-	//Create the Voronoi diagram
-	voronoiGroup.selectAll("path")
-		.data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
-		.enter().append("path")
-		.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
-		.datum(function(d, i) { return d.point; })
-		//Give each cell a unique class where the unique part corresponds to the circle classes
-		.attr("class", function(d,i) { return "voronoi " })
-		//.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
-		.on("mouseover", showTooltip)
-		.on("mouseout",  removeTooltip);
+	for(var v = 0; v < voronoiGroups.length; v++){
+		var voronoiGroup = voronoiGroups[v];
+
+		var layoutMode = "";
+
+		if(v === 0){
+			layoutMode = "bubble";
+		} else if (v === 1){
+			layoutMode = "decade-split"
+		}
+
+	  var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 15;
+	  var yMax = d3.max(data.map(function(d) { return d.layout[layoutMode].y })) + 15;
+
+	  var voronoi = d3.geom.voronoi()
+			.x(function(d) {
+				var layout = d.layout[layoutMode];
+				return layout.x;
+			})
+			.y(function(d) {
+				var layout = d.layout[layoutMode];
+				return layout.y;
+			})
+			.clipExtent([[0, 0], [xMax, yMax]]);
+
+	  $(voronoiGroup).html("")
+		//Create the Voronoi diagram
+		voronoiGroup.selectAll("path")
+			.data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
+			.enter().append("path")
+			.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
+			.datum(function(d, i) { return d.point; })
+			//Give each cell a unique class where the unique part corresponds to the circle classes
+			.attr("class", function(d,i) { return "voronoi " })
+			.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
+			.on("mouseover", showTooltip)
+			.on("mouseout",  removeTooltip);
+
+		}
+ 
 }
 
 function drawChart() {
@@ -277,7 +361,7 @@ function showTooltip(d) {
 
 	$(this).popover({
 		placement: 'auto top', //place the tooltip above the item
-		container: '#vis', //the name (class or id) of the container
+		container: 'body', //the name (class or id) of the container
 		trigger: 'manual',
 		html : true,
 		content: function() { //the html content to show inside the tooltip
@@ -467,28 +551,28 @@ $(document).ready(function() {
 	loadData(function() {
 
 
-		var voronoi = d3.geom.voronoi()
-			.x(function(d, i) { return pictureCoords[i][0]; })
-			.y(function(d, i) { return pictureCoords[i][1]; })
-			.clipExtent([[0, 0], [picturePointWidth, picturePointHeight]]);
+		// var voronoi = d3.geom.voronoi()
+		// 	.x(function(d, i) { return pictureCoords[i][0]; })
+		// 	.y(function(d, i) { return pictureCoords[i][1]; })
+		// 	.clipExtent([[0, 0], [picturePointWidth, picturePointHeight]]);
 
-		//Create the Voronoi diagram
-			d3.select(".intro-vis-miles")
-	  		.append("svg")
-	  		.attr("class", "intro-voroni-picture")
-	    	.attr("width", picturePointWidth)
-	    	.attr("height", picturePointHeight)
-    	.selectAll("path")
-				.data(voronoi(data)) //Use vononoi() with your dataset inside
-			.enter()
-			.append("path")
-				.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
-				.datum(function(d, i) { return d.point; })
-				//Give each cell a unique class where the unique part corresponds to the circle classes
-				.attr("class", function(d,i) { return "voronoi " })
-				.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
-				.on("mouseover", showTooltip)
-				.on("mouseout",  removeTooltip);
+		// //Create the Voronoi diagram
+		// 	d3.select(".intro-vis-miles")
+	 //  		.append("svg")
+	 //  		.attr("class", "intro-voroni-picture")
+	 //    	.attr("width", picturePointWidth)
+	 //    	.attr("height", picturePointHeight)
+  //   	.selectAll("path")
+		// 		.data(voronoi(data)) //Use vononoi() with your dataset inside
+		// 	.enter()
+		// 	.append("path")
+		// 		.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
+		// 		.datum(function(d, i) { return d.point; })
+		// 		//Give each cell a unique class where the unique part corresponds to the circle classes
+		// 		.attr("class", function(d,i) { return "voronoi " })
+		// 		.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
+		// 		.on("mouseover", showTooltip)
+		// 		.on("mouseout",  removeTooltip);
 
 
 		var root = {
@@ -614,90 +698,105 @@ $(document).ready(function() {
 
   	drawCanvas();
 
-
   	removeTooltip();
 
-		var controller = new ScrollMagic.Controller();
+  	for(var x in entityTypes){
 
-		var pinFirstChart = new ScrollMagic.Scene({triggerElement: "#trigger-2",triggerHook:0, offset:-100,duration:700})
-			// .addIndicators({name: "pin first chart"}) // add indicators (requires plugin)
-			.setPin("#vis", {pushFollowers: false})
-			.addTo(controller)
-			;
+		  var typeCount = data.filter(function(d){ return d.mainSubjectType === entityTypes[x] }).length;
+
+  		$(".first-chart-prose").append(
+			  '<div class="first-chart-text-section">'
+					+ '<h1 class="first-chart-section-head ' + entityTypes[x] + '">' + entityTypes[x] + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
+					+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
+				+ '</div>'
+  		)
+
+  		$(".filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x] 
+	  														+ "' data-entity-type='"+ entityTypes[x] + "'>" 
+	  															+ entityTypes[x] 
+	  														+ "</a>");
+  	}
+  
+  	$(".first-chart-filter").on("click", function(e){
+
+  		e.preventDefault();
+  		var entityType = $(this).data("entity-type");
+  		var scrollEvent = visScrollEvents[0];
+
+  		var filterTypeIndex = entityTypes.indexOf(entityType);
+  		var startPosition = scrollEvent.scrollEvent.triggerPosition();
+
+  		var progress = filterTypeIndex / entityTypes.length;
+
+  		controller.scrollTo(startPosition + (progress * 700))
+  		controller.update(true);
+			
+  	})
 
 
-		// var pictureEvent = new ScrollMagic.Scene({
-		// 		triggerElement: "#trigger-1",
-		// 		duration:400,
-		// 		triggerHook:0,
-		// 		offset: -200
-		// 	})
-		//   .addIndicators({name: "picture"}) // add indicators
-		//   .addTo(controller)
-		//   .on("enter", function (e) {
-		//   	isPicture = true;
-		//   	$(".voronoiWrapper").hide();
-		//   	removeTooltip();
-		//
-		// 		data = data.map(function(d, i){
-		// 			var picturePoint = pictureCoords[i];
-		// 			d.x = picturePoint[0];
-		// 			d.y = picturePoint[1];
-		// 			d.r = picturePoint[2];
-		//
-		// 			d.hidden = false;
-		//
-		// 			return d;
-		// 		});
-		//
-		// 		//d3.timer(drawCanvas);
-		// 		drawCanvas();
-		//
-		//   })
-		//   .on("leave", function (e) {
-		//   	isPicture = false;
-		//   })
-		// 	;
 
-		var chartEvent = new ScrollMagic.Scene({
-				triggerElement: "#trigger-2",
-				duration:1000,
-				triggerHook:0,
-				offset:10
-			})
-		  .addIndicators({name: "thing"}) // add indicators
-		  .addTo(controller)
-		  .on("enter", function (e) {
-		  	drawCanvas();
-		  })
-		  .on("leave",function(e){
-			  scrollEntityType = null;
-			  // $("#section-header").html("");
-		  	drawCanvas();
-		  })
-		  .on("progress", function (e) {
-		  	var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
+		$(".vis-container").each(function(i, c) {
 
-		  	var progress = e.progress;
-		  	var progressPosition = Math.min(Math.round(progress * entityTypes.length), entityTypes.length );
+			var pinOffset = -100;
+			if(i === 1){
+				pinOffset = -50;
+			}
+			var pinChart = new ScrollMagic.Scene({
+					triggerElement: "#trigger-" + (i + 1),
+					triggerHook:0, 
+					offset: pinOffset,
+					duration:700
+				})
+				.addIndicators({name: "pin " + i + " chart"}) // add indicators (requires plugin)
+				.setPin("#vis-" + (i + 1), {pushFollowers: false})
+				.addTo(controller)
+				;
 
-		  	var newScrollEntityType = entityTypes[progressPosition];
 
-		  	if(scrollEntityType !== newScrollEntityType){
+			var chartEvent = new ScrollMagic.Scene({
+					triggerElement: "#trigger-" + (i + 1) ,
+					duration:700,
+					triggerHook:0,
+					offset:10
+				})
+			  .addIndicators({name: "entity type "}) // add indicators
+			  .addTo(controller)
+			  .on("enter", function (e) {
 
-		  		scrollEntityType = newScrollEntityType;
-
-		  		var typeCount = data.filter(function(d){ return d.mainSubjectType === scrollEntityType; }).length;
-
+			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
 			  	drawCanvas();
+			  })
+			  .on("leave",function(e){
+				  scrollEntityType = null;
+			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
+			  	drawCanvas();
+			  })
+			  .on("progress", function (e) {
+			  	
+			  	var progress = e.progress;
+			  	var progressPosition = Math.min(Math.round(progress * entityTypes.length), entityTypes.length );
 
-				  // $("#section-header")
-				  // 	.html(scrollEntityType + " - <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + " pages)</small> </small>")
-				  // 	.css("color", subjectColors[scrollEntityType])
-				  // 	;
+			  	var newScrollEntityType = entityTypes[progressPosition];
 
-			  }
-			});
+
+			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
+			  	$(".first-chart-section-head." + scrollEntityType + ", .first-chart-filter." + scrollEntityType).css("color",  subjectColors[scrollEntityType]);
+
+			  	if(scrollEntityType !== newScrollEntityType){
+
+			  		scrollEntityType = newScrollEntityType;
+
+				  	drawCanvas();
+
+				  }
+				});
+
+
+			 	visScrollEvents.push({
+			 		pinEvent: pinChart,
+			 		scrollEvent: chartEvent
+			 	});
+		});
 
 	})
 })
