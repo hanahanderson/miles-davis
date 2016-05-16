@@ -5,7 +5,7 @@ var visScrollEvents = [];
 
 var controller = new ScrollMagic.Controller();
 
-var layoutType = [ "bubble", /*"picture", "grid",*/ "decade", "decade-split"];
+var layoutType = [ "bubble", /*"picture", "grid",*/ "decade", "decade_split"];
 var layoutIndex = 0;
 
 var chartWidth = 710;
@@ -22,7 +22,6 @@ var isPicture = false;
 
 var scrollEntityType = null;
 
-
 function d3_layout_packSort(a, b) {
 	return parseInt(b.PageViews) - parseInt(a.PageViews);
 };
@@ -35,8 +34,6 @@ var bubble = d3.layout.pack()
   .sort(d3_layout_packSort)
   .padding(10)
   ;
-
-
 
 var base = d3.select("#vis-1");
 
@@ -63,9 +60,6 @@ var chart2 = base2.append("canvas")
 	  .attr("height", chartHeight)
 		.style("position", "absolute")
 		;
-
-
-
 
 var context1 = chart1.node().getContext("2d");
 var context2 = chart2.node().getContext("2d");
@@ -124,15 +118,15 @@ function drawCanvas() {
 		if(c === 0){
 			layoutMode = "bubble";
 		} else if (c === 1){
-			layoutMode = "decade-split"
+			layoutMode = "decade_split"
 		}
 	  context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
 
-	  if(["decade", "decade-split"].indexOf(layoutMode) !== -1) {
+	  if(["decade", "decade_split"].indexOf(layoutMode) !== -1) {
 
 	  	var decadeHeightPadding = 0;
 
-	  	if(layoutMode === "decade-split"){
+	  	if(layoutMode === "decade_split"){
 	  		decadeHeightPadding = 130;
 
 	  		for(var l in decadeTypeLabels){
@@ -190,14 +184,14 @@ function drawCanvas() {
 	    		if(scrollEntityType === null){
 	    			if(layoutMode === "bubble"){
 	    				context.fillStyle = "white";
-	    			} 
+	    			}
 	    		} else {
 						context.fillStyle =
 				    	(scrollEntityType === d.mainSubjectType ?
 				    		subjectColors[d.mainSubjectType] :
 				    		"rgba(255,255,255,0.4)");
 	    		}
-		    	
+
 		    }
 		    context.beginPath();
 		    context.arc(layout.x, layout.y, layout.r, 0, 2 * Math.PI, false);
@@ -211,7 +205,7 @@ function drawCanvas() {
 
 	}
 
- 
+
 
 }
 
@@ -238,7 +232,6 @@ function drawDataBinding() {
 
 }
 
-
 function updateVoronoi () {
 
 
@@ -252,7 +245,7 @@ function updateVoronoi () {
 		if(v === 0){
 			layoutMode = "bubble";
 		} else if (v === 1){
-			layoutMode = "decade-split"
+			layoutMode = "decade_split"
 		}
 
 	  var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 15;
@@ -278,24 +271,15 @@ function updateVoronoi () {
 			.datum(function(d, i) { return d.point; })
 			//Give each cell a unique class where the unique part corresponds to the circle classes
 			.attr("class", function(d,i) { return "voronoi " })
-			.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
+			// .style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
 			.on("mouseover", showTooltip)
 			.on("mouseout",  removeTooltip);
 
 		}
- 
+
 }
 
 function drawChart() {
-
-	// data = data.map(function(d, i){
-	// 	var picturePoint = pictureCoords[i];
-	// 	d.x = picturePoint[0];
-	// 	d.y = picturePoint[1];
-	// 	d.r = picturePoint[2];
-	// 	d.hidden = false;
-	// 	return d;
-	// });
   drawDataBinding();
 	updateVoronoi();
 }
@@ -461,8 +445,6 @@ function drawIntroPicture() {
     	.attr("class", "picture-point")
 			;
 
-
-
 		var dotPlot = svgTwo.append("g")
       .selectAll("circle")
       .data(pictureCoords)
@@ -490,10 +472,9 @@ function drawIntroPicture() {
       .attr("r",function(d){
         return d[2]
       })
+			;
 
-
-
-		//var dotPlotDots = d3.selectAll(".dot-plot");
+		var dotPlotDots = d3.selectAll(".dot-plot");
 
 		// dotPlot
 		// 	.transition()
@@ -543,10 +524,14 @@ function drawIntroPicture() {
 		// 	;
 }
 
+function thirdChart(){
+
+}
+
 
 $(document).ready(function() {
 
-	// drawIntroPicture();
+	drawIntroPicture();
 
 	loadData(function() {
 
@@ -606,7 +591,6 @@ $(document).ready(function() {
 				thisType = d.mainSubjectType;
 			}
 
-
 			if(d.mainSubjectType !== thisType){
 
 				maxYearsByType = d3.max(Object.keys(entityTypeYears).map(function(y) { return entityTypeYears[y] }));
@@ -623,8 +607,6 @@ $(document).ready(function() {
 
 				entityTypeYears = {};
 			}
-
-
 
 			var decadeLayout = { hidden: true };
 			var decadeSplitLayout = { hidden: true};
@@ -676,7 +658,7 @@ $(document).ready(function() {
 					hidden: false
 				},
 				decade: decadeLayout,
-				"decade-split": decadeSplitLayout,
+				"decade_split": decadeSplitLayout,
 				grid: {
 					x: (Math.floor(i / numPerColumn) * (nodeHeight + 2)) + 11,
 					y: ((i % numPerColumn) * (nodeHeight + 2)) + 11,
@@ -711,12 +693,12 @@ $(document).ready(function() {
 				+ '</div>'
   		)
 
-  		$(".filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x] 
-	  														+ "' data-entity-type='"+ entityTypes[x] + "'>" 
-	  															+ entityTypes[x] 
+  		$(".filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
+	  														+ "' data-entity-type='"+ entityTypes[x] + "'>"
+	  															+ entityTypes[x]
 	  														+ "</a>");
   	}
-  
+
   	$(".first-chart-filter").on("click", function(e){
 
   		e.preventDefault();
@@ -730,28 +712,295 @@ $(document).ready(function() {
 
   		controller.scrollTo(startPosition + (progress * 700))
   		controller.update(true);
-			
+
   	})
 
+		function drawThirdChart(){
+
+			var base = d3.select("#vis-3");
+
+			var thirdData = data.filter(function(d,i){
+				d.nestCount = i;
+				return d.EntityType = "musical artist";
+			})
+			;
+
+			var thirdDataNest = d3.nest().key(function(d) {
+				return Math.floor(d.nestCount/6);
+    	})
+    	.entries(thirdData.slice(0,48))
+			;
+
+			var baseDataShadow = base.append("div")
+				.attr("class","third-chart-shadow")
+				.selectAll("div")
+				.data(thirdData.slice(0,50))
+				.enter()
+				.append("div")
+				.attr("class","third-data-node-shadow")
+				.style("left",function(d,i){
+					return d.layout.decade_split.x + "px";
+				})
+				.style("top",function(d,i){
+					return d.layout.decade_split.y - 500 + "px";
+				})
+				;
+
+			var chartThreeProseSub = base.append("div").attr("class","third-chart-body-prose tk-neuzeit-grotesk")
+				.text('In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz".[2] In 2008, his 1959 album Kind of Blue received its fourth platinum certification from the Recording Industry Association of America (RIAA), for shipments of at least four million copies in the United States.[3] On December 15, 2009, the U.S. House of Representatives passed a symbolic resolution recognizing and commemorating the album Kind of Blue on its 50th anniversary, "honoring the masterpiece and reaffirming jazz as a national treasure".');
+
+			var baseDataBindWapper = base.append("div")
+				.attr("class","third-chart-data")
+				.selectAll("div")
+				.data(thirdDataNest)
+				.enter()
+				.append("div")
+				.attr("class",function(d,i){
+					if(i==0){
+						return "third-data-row third-data-freeze";
+					}
+					return "third-data-row";
+				})
+				;
+
+			var baseDataBind = baseDataBindWapper
+				.selectAll("div")
+				.data(function(d){
+					return d.values;
+				})
+				.enter()
+				.append("div")
+				.attr("class","third-data-node")
+				.style("left",function(d,i){
+					return i*150+"px";
+				})
+				;
+
+			var pinChartShadow = new ScrollMagic.Scene({
+					triggerElement: "#trigger-3",
+					triggerHook:0,
+					offset: 0,
+					duration:2000
+				})
+				.addIndicators({name: "pin 3 chart"}) // add indicators (requires plugin)
+				.setPin(".third-chart-shadow", {pushFollowers: false})
+				.addTo(controller)
+				;
+
+			var objBubble = baseDataBind.append("div")
+				.attr("class","third-section-item-bubble")
+				;
+
+			var objTitle = baseDataBind.append("p")
+				.attr("class","third-section-item-title")
+				.text(function(d){
+					return d.Name;
+				})
+				;
+
+			var objDesc = baseDataBind.append("p")
+				.attr("class","third-section-item-text")
+				.text(function(d){
+					return mentionsObj[d.URL][0]["quote"].slice(0,180);
+				})
+				;
+
+			var circleSizeScale = d3.scale.linear().domain([1,0]).range([5,40]);
+
+			var chartStage = new ScrollMagic.Scene({
+					triggerElement: "#trigger-3",
+					duration:200,
+					triggerHook:0,
+					offset:0
+				})
+			  .addIndicators({name: "stage "}) // add indicators
+			  .addTo(controller)
+			  .on("enter", function (e) {
+					chartThreeProseSub.transition().duration(300).style("opacity",0);
+			  })
+			  .on("leave",function(e){
+					if(e.target.controller().info("scrollDirection") == "REVERSE"){
+						chartThreeProseSub.transition().duration(500).style("opacity",1);
+						// objDesc.transition().duration(100).style("opacity",1);
+						//
+						// objBubble
+						// 	.transition().duration(300).style("width",40+"px").style("height",40+"px")
+						// 	;
+						//
+						// objTitle.transition().duration(100).style("opacity",1);
+					}
+					;
+
+			  })
+			  .on("progress", function (e) {
+			  	var progress = e.progress;
+					// baseDataBind
+					// 	.style("left",function(d,i){
+					// 		var pointOne;
+					// 		var pointTwo;
+					//
+					// 		pointOne = 150 * i;
+					// 		pointTwo = d.layout.decade_split.x - (130/2) + 2;
+					// 		var scale = d3.scale.linear().domain([0,1]).range([pointOne,pointTwo]).clamp(true);
+					// 		return scale(progress)+"px";
+					// 	})
+					// 	.style("top",function(d,i){
+					// 		var pointOne;
+					// 		var pointTwo;
+					// 		pointOne = 0;
+					// 		pointTwo = d.layout.decade_split.y - 730;
+					// 		var scale = d3.scale.linear().domain([0,1]).range([pointOne,pointTwo]).clamp(true);
+					// 		return scale(progress)+"px";
+					// 	})
+					// 	;
+				})
+				;
+
+			$(".third-data-row").each(function(i, c) {
+				var pinChartThird = new ScrollMagic.Scene({
+						triggerElement: c,
+						triggerHook:0,
+						offset: -200
+						// ,duration:1000
+					})
+					.addIndicators({name: "transition 3 pin"}) // add indicators (requires plugin)
+					.setPin(c, {pushFollowers: false})
+					.addTo(controller)
+					;
+
+				var moveChartThird = new ScrollMagic.Scene({
+						triggerElement: c,
+						triggerHook:0,
+						offset: -200,
+						duration:300
+					})
+					.addIndicators({name: "transition 3 section"}) // add indicators (requires plugin)
+					.addTo(controller)
+					.on("enter",function(e){
+						if(e.target.controller().info("scrollDirection") == "FORWARD"){
+							var objDesc = d3.select(c).selectAll("div").select(".third-section-item-text");
+							var objBubble = d3.select(c).selectAll("div").select("div");
+							var objTitle = d3.select(c).selectAll("div").select(".third-section-item-title");
+
+							objDesc.transition().duration(100).style("opacity",0);
+							objBubble
+								.transition().duration(300).style("width",4+"px").style("height",4+"px")
+								;
+							objTitle.transition().duration(100).style("opacity",0);
+						};
+					})
+					.on("leave",function(e){
+						if(e.target.controller().info("scrollDirection") == "REVERSE"){
+							var objDesc = d3.select(c).selectAll("div").select(".third-section-item-text");
+							var objBubble = d3.select(c).selectAll("div").select("div");
+							var objTitle = d3.select(c).selectAll("div").select(".third-section-item-title");
+
+							objDesc.transition().duration(100).style("opacity",1);
+							objBubble
+								.transition().duration(300).style("width",40+"px").style("height",40+"px")
+								;
+							objTitle.transition().duration(100).style("opacity",1);
+						}
+					})
+					.on("progress", function (e) {
+						var progress = e.progress;
+
+						d3.select(c).selectAll(".third-data-node")
+							.style("left",function(d,count){
+								var pointOne;
+								var pointTwo;
+								pointOne = 150 * count;
+								pointTwo = d.layout.decade_split.x - (130/2) + 2;
+								var scale = d3.scale.linear().domain([0,1]).range([pointOne,pointTwo]).clamp(true);
+								return scale(progress)+"px";
+							})
+							.style("top",function(d,i){
+								var pointOne;
+								var pointTwo;
+								pointOne = 0;
+								pointTwo = d.layout.decade_split.y - 700;
+								var scale = d3.scale.linear().domain([0,1]).range([pointOne,pointTwo]).clamp(true);
+								return scale(progress)+"px";
+							})
+						// 	;
+					})
+					;
+			})
+			;
 
 
+
+
+			// var chartEventThird = new ScrollMagic.Scene({
+			// 		triggerElement: "#trigger-3",
+			// 		duration:700,
+			// 		triggerHook:0,
+			// 		offset:-100
+			// 	})
+			//   .addIndicators({name: "entity type "}) // add indicators
+			//   .addTo(controller)
+			//   .on("enter", function (e) {
+			//
+			//   })
+			//   .on("leave",function(e){
+			//
+			//   })
+			//   .on("progress", function (e) {
+			//   	var progress = e.progress;
+			//
+			// 		baseDataBind
+			// 			.style("left",function(d,i){
+			// 				var pointOne;
+			// 				var pointTwo;
+			//
+			// 				pointOne = 150 * i;
+			// 				pointTwo = d.layout.decade_split.x - (130/2) + 1;
+			// 				var scale = d3.scale.linear().domain([0,1]).range([pointOne,pointTwo]).clamp(true);
+			// 				return scale(progress)+"px";
+			// 			})
+			// 			.style("top",function(d,i){
+			// 				var pointOne;
+			// 				var pointTwo;
+			// 				pointOne = (1-progress)*300;
+			// 				pointTwo = d.layout.decade_split.y - 700;
+			// 				var scale = d3.scale.linear().domain([0,1]).range([pointOne,pointTwo]).clamp(true);
+			// 				return scale(progress)+"px";
+			// 			})
+			// 			;
+			//
+			// 		objBubble
+			// 			.style("width",circleSizeScale(progress)+"px")
+			// 			.style("height",circleSizeScale(progress)+"px")
+			// 			;
+			//
+			// 	})
+			// 	;
+		}
+
+		drawThirdChart();
+
+
+
+		//build thing for each class vis-container
 		$(".vis-container").each(function(i, c) {
 
 			var pinOffset = -100;
+			var pinDuration = 700;
 			if(i === 1){
 				pinOffset = -50;
+				pinDuration = 700;
 			}
+
 			var pinChart = new ScrollMagic.Scene({
 					triggerElement: "#trigger-" + (i + 1),
-					triggerHook:0, 
+					triggerHook:0,
 					offset: pinOffset,
-					duration:700
+					duration:pinDuration
 				})
 				.addIndicators({name: "pin " + i + " chart"}) // add indicators (requires plugin)
 				.setPin("#vis-" + (i + 1), {pushFollowers: false})
 				.addTo(controller)
 				;
-
 
 			var chartEvent = new ScrollMagic.Scene({
 					triggerElement: "#trigger-" + (i + 1) ,
@@ -762,7 +1011,6 @@ $(document).ready(function() {
 			  .addIndicators({name: "entity type "}) // add indicators
 			  .addTo(controller)
 			  .on("enter", function (e) {
-
 			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
 			  	drawCanvas();
 			  })
@@ -772,12 +1020,11 @@ $(document).ready(function() {
 			  	drawCanvas();
 			  })
 			  .on("progress", function (e) {
-			  	
+
 			  	var progress = e.progress;
 			  	var progressPosition = Math.min(Math.round(progress * entityTypes.length), entityTypes.length );
 
 			  	var newScrollEntityType = entityTypes[progressPosition];
-
 
 			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
 			  	$(".first-chart-section-head." + scrollEntityType + ", .first-chart-filter." + scrollEntityType).css("color",  subjectColors[scrollEntityType]);
@@ -789,14 +1036,16 @@ $(document).ready(function() {
 				  	drawCanvas();
 
 				  }
-				});
-
+				})
+				;
 
 			 	visScrollEvents.push({
 			 		pinEvent: pinChart,
 			 		scrollEvent: chartEvent
 			 	});
 		});
+
+
 
 	})
 })
