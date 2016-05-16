@@ -127,9 +127,9 @@ body {
 
 .check-button {
   margin:4px;
-  background-color:#EFEFEF;
+  /* background-color:#EFEFEF; */
   border-radius:4px;
-  border:1px solid #D0D0D0;
+  /* border:1px solid #D0D0D0; */
   overflow:auto;
   float:left;
   display: inline-block;
@@ -151,7 +151,7 @@ body {
 }
 
 .check-button input:checked + span {
-  background-color:#911;
+  /* background-color:#911; */
   color:#fff;
   font-weight: bolder;
 }
@@ -253,7 +253,7 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 
 .voronoi {
     /* stroke: white; */
-    /* stroke-width: 1px; */
+    stroke-width: 0px;
     fill: none;
     pointer-events: all;
 }
@@ -450,7 +450,9 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     position: relative;
 }
 
-.voronoi-svg {
+#vis-1 .voronoi-svg {
+    -webkit-clip-path: circle(50% at center);
+    clip-path: circle(50% at center);
 }
 
 
@@ -550,7 +552,6 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     flex-wrap: wrap;
     justify-content: center;
 }
-
 
 .second-chart-prose {
     width: 400px;
@@ -673,14 +674,14 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 .second-chart-filters {
     position: absolute;
     top: -90px;
-    left: 0px;
+    right: 0px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
     -webkit-justify-content: space-around;
     justify-content: space-around;
-    width: 80%;
+    width: 93%;
     margin: 0 auto;
     right: 0px;
     -webkit-flex-wrap: warp;
@@ -751,4 +752,14 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     font-size: 11px;
     background-color: #111;
     z-index: 1000;
-    
+}
+
+#hidden-popover-div {
+    width: 20px;
+    height: 20px;
+    /* background-color: pink; */
+    position: fixed;
+    z-index:10;
+    border-radius: 100%;
+}
+

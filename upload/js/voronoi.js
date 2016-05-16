@@ -1,11 +1,13 @@
 
+var sectionHeaderNames = [];
 var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
 var visScrollEvents = [];
 
+var sectionScrollProgress = 0;
 
 var controller = new ScrollMagic.Controller();
 
-var layoutType = [ "bubble", /*"picture", "grid",*/ "decade", "decade_split"];
+var layoutType = [ "bubble", /*"picture", "grid",*/ "decade"/*, "decade_split"*/];
 var layoutIndex = 0;
 
 var chartWidth = 710;
@@ -21,6 +23,8 @@ var padding = 1;
 var isPicture = false;
 
 var scrollEntityType = null;
+var scrollSectionHeader = null;
+
 
 function d3_layout_packSort(a, b) {
 	return parseInt(b.PageViews) - parseInt(a.PageViews);
@@ -35,6 +39,7 @@ var bubble = d3.layout.pack()
   .padding(10)
   ;
 
+
 var base = d3.select("#vis-1");
 
 base.style("width", bubbleWidth + "px")
@@ -48,6 +53,19 @@ var chart1 = base.append("canvas")
 		.style("position", "absolute")
 		;
 
+
+var tooltip = base.append("div")
+	      .attr("class", "tooltip-container")
+	      .style("opacity", 0)
+
+var clips1 = base.append("svg")
+							.style("position", "absolute")
+							.style("top", "0px")
+								.append("svg:g").attr("id", "point-clips-1");
+
+
+
+
 var base2 = d3.select("#vis-2");
 
 base2.style("width", bubbleWidth + "px")
@@ -60,6 +78,20 @@ var chart2 = base2.append("canvas")
 	  .attr("height", chartHeight)
 		.style("position", "absolute")
 		;
+
+
+var tooltip2 = base2.append("div")
+	      .attr("class", "tooltip-container")
+	      .style("opacity", 0)
+
+var clips2 = base2.append("svg")
+							.style("position", "absolute")
+							.style("top", "0px")
+								.append("svg:g").attr("id", "point-clips-2");
+
+
+
+
 
 var context1 = chart1.node().getContext("2d");
 var context2 = chart2.node().getContext("2d");
@@ -118,7 +150,7 @@ function drawCanvas() {
 		if(c === 0){
 			layoutMode = "bubble";
 		} else if (c === 1){
-			layoutMode = "decade_split"
+			layoutMode = "decade"
 		}
 	  context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
 
@@ -181,17 +213,22 @@ function drawCanvas() {
 
 	    	} else {
 	    		context.fillStyle =	subjectColors[d.mainSubjectType];
-	    		if(scrollEntityType === null){
-	    			if(layoutMode === "bubble"){
-	    				context.fillStyle = "white";
-	    			}
-	    		} else {
+	    		if(layoutMode === "bubble"){
+    				context.fillStyle = "white";
+    			}
+	    		if(scrollEntityType !== null){
 						context.fillStyle =
 				    	(scrollEntityType === d.mainSubjectType ?
 				    		subjectColors[d.mainSubjectType] :
 				    		"rgba(255,255,255,0.4)");
 	    		}
-
+	    		if(scrollSectionHeader !== null) {
+	    			if(mentionSectionObj[scrollSectionHeader].indexOf(d.URL) !== -1){
+	    				context.fillStyle = "white";
+	    			} else {
+	    				context.fillStyle = "rgba(255,255,255,0.4)";
+	    			}
+	    		}
 		    }
 		    context.beginPath();
 		    context.arc(layout.x, layout.y, layout.r, 0, 2 * Math.PI, false);
@@ -236,17 +273,34 @@ function updateVoronoi () {
 
 
 	var voronoiGroups = [voronoiGroup1, voronoiGroup2];
+	var clips = [clips1, clips2];
 
 	for(var v = 0; v < voronoiGroups.length; v++){
 		var voronoiGroup = voronoiGroups[v];
+		var clip = clips[v];
 
 		var layoutMode = "";
 
 		if(v === 0){
 			layoutMode = "bubble";
 		} else if (v === 1){
-			layoutMode = "decade_split"
+
+			layoutMode = "decade";
+		
 		}
+
+		clip.selectAll("clipPath")
+	      .data(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))
+	    .enter().append("svg:clipPath")
+	      .attr("id", function(d, i) { return layoutMode+"-clip-"+i;})
+	    .append("svg:circle")
+	      .attr('cx', function(d) { return d.layout[layoutMode].x; })
+	      .attr('cy', function(d) { return d.layout[layoutMode].y; })
+	      .attr('r', 50);
+
+
+	  $($(".vis-container")[v]).data("layout-mode", layoutMode);
+	  
 
 	  var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 15;
 	  var yMax = d3.max(data.map(function(d) { return d.layout[layoutMode].y })) + 15;
@@ -262,7 +316,10 @@ function updateVoronoi () {
 			})
 			.clipExtent([[0, 0], [xMax, yMax]]);
 
-	  $(voronoiGroup).html("")
+	  $(voronoiGroup).html("");
+
+
+
 		//Create the Voronoi diagram
 		voronoiGroup.selectAll("path")
 			.data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
@@ -270,8 +327,9 @@ function updateVoronoi () {
 			.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
 			.datum(function(d, i) { return d.point; })
 			//Give each cell a unique class where the unique part corresponds to the circle classes
-			.attr("class", function(d,i) { return "voronoi " })
-			// .style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
+			.attr("class", function(d,i) { return "voronoi " + layoutMode})
+			.attr("clip-path", function(d,i) { return "url(#"+layoutMode+"-clip-"+i+")"; })
+			.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
 			.on("mouseover", showTooltip)
 			.on("mouseout",  removeTooltip);
 
@@ -286,6 +344,12 @@ function drawChart() {
 
 //Show the tooltip on the hovered over circle
 function showTooltip(d) {
+
+	var chartContainer = $(this).closest(".vis-container");
+	var chartContainerPosition = chartContainer.offset();
+	var layoutMode = chartContainer.data("layout-mode");
+
+	var layout = d.layout[layoutMode];
 	var imageHTML = "";
 
 	if(d.imageURL !== null && typeof d.imageURL !== "undefined" && d.imageURL !== "undefined"){
@@ -345,7 +409,7 @@ function showTooltip(d) {
 
 	$(this).popover({
 		placement: 'auto top', //place the tooltip above the item
-		container: 'body', //the name (class or id) of the container
+		container: "#" + $(chartContainer).attr("id"), //'body', //the name (class or id) of the container
 		trigger: 'manual',
 		html : true,
 		content: function() { //the html content to show inside the tooltip
@@ -365,16 +429,23 @@ function showTooltip(d) {
 							</table>
 						</span>`;
 		}
-	});
+	}).data('bs.popover').tip().attr('id', 'my-popover');
+
 	$(this).popover('show');
+
+
+
 }//function showTooltip
 
 //Hide the tooltip when the mouse moves away
 function removeTooltip() {
+
+
 	//Hide the tooltip
 	$('.popover').each(function() {
 		$(this).remove();
 	});
+
 }//function removeTooltip
 
 function getYear (yearsArray){
@@ -693,7 +764,7 @@ $(document).ready(function() {
 				+ '</div>'
   		)
 
-  		$(".filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
+  		$(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
 	  														+ "' data-entity-type='"+ entityTypes[x] + "'>"
 	  															+ entityTypes[x]
 	  														+ "</a>");
@@ -713,6 +784,32 @@ $(document).ready(function() {
   		controller.scrollTo(startPosition + (progress * 700))
   		controller.update(true);
 
+  	});
+
+
+  	sectionHeaderNames = Object.keys(mentionSectionObj).filter(function(m) { 
+  		return mentionSectionObj[m].length > 3 
+  	}).sort(function(a, b) { return mentionSectionObj[b].length - mentionSectionObj[a].length });
+
+  	for(var x in sectionHeaderNames) {
+			$(".second-chart-container .filter-items").append("<a href='#' class='second-chart-filter " + sectionHeaderNames[x].replace(/ /g, "-")
+													+ "' data-section-header='"+ sectionHeaderNames[x] + "'>"
+														+ sectionHeaderNames[x] 
+													+ "</a>");
+  	}
+
+  	$(".second-chart-filter").on("click", function(e){
+  		e.preventDefault();
+  		var sectionHeader = $(this).data("section-header");
+  		var scrollEvent = visScrollEvents[1];
+
+  		var filterTypeIndex = sectionHeaderNames.indexOf(sectionHeader);
+  		var startPosition = scrollEvent.scrollEvent.triggerPosition();
+
+  		var progress = filterTypeIndex / sectionHeaderNames.length;
+
+  		controller.scrollTo(startPosition + (progress * 700))
+  		controller.update(true);
   	})
 
 		function drawThirdChart(){
@@ -789,6 +886,17 @@ $(document).ready(function() {
 
 			var objBubble = baseDataBind.append("div")
 				.attr("class","third-section-item-bubble")
+				.style("background", function(d, i) {
+					var imageURL = "";
+
+					if(d.imageURL !== null && typeof d.imageURL !== "undefined" && d.imageURL !== "undefined"){
+						imageURL = d.imageURL;	
+					}
+					return `url("http:${imageURL}")`;
+				})
+				.style("background-size",  "cover")
+		    .style("background-position",  "50% 0%")
+		    .style("background-repeat",  "no-repeat")
 				;
 
 			var objTitle = baseDataBind.append("p")
@@ -986,16 +1094,17 @@ $(document).ready(function() {
 
 			var pinOffset = -100;
 			var pinDuration = 700;
+
 			if(i === 1){
 				pinOffset = -50;
-				pinDuration = 700;
+
 			}
 
 			var pinChart = new ScrollMagic.Scene({
 					triggerElement: "#trigger-" + (i + 1),
 					triggerHook:0,
 					offset: pinOffset,
-					duration:pinDuration
+					duration: pinDuration
 				})
 				.addIndicators({name: "pin " + i + " chart"}) // add indicators (requires plugin)
 				.setPin("#vis-" + (i + 1), {pushFollowers: false})
@@ -1004,7 +1113,7 @@ $(document).ready(function() {
 
 			var chartEvent = new ScrollMagic.Scene({
 					triggerElement: "#trigger-" + (i + 1) ,
-					duration:700,
+					duration:pinDuration,
 					triggerHook:0,
 					offset:10
 				})
@@ -1016,26 +1125,45 @@ $(document).ready(function() {
 			  })
 			  .on("leave",function(e){
 				  scrollEntityType = null;
+				  scrollSectionHeader = null;
 			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
 			  	drawCanvas();
 			  })
 			  .on("progress", function (e) {
-
+			  	sectionScrollProgress = e.progress
 			  	var progress = e.progress;
-			  	var progressPosition = Math.min(Math.round(progress * entityTypes.length), entityTypes.length );
 
-			  	var newScrollEntityType = entityTypes[progressPosition];
+			  	if(i === 0){
+				  	var progressPosition = Math.min(Math.round(progress * entityTypes.length), entityTypes.length );
+				  	var newScrollEntityType = entityTypes[progressPosition];
 
-			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
-			  	$(".first-chart-section-head." + scrollEntityType + ", .first-chart-filter." + scrollEntityType).css("color",  subjectColors[scrollEntityType]);
+				  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
+				  	$(".first-chart-section-head." + scrollEntityType + ", .first-chart-filter." + scrollEntityType).css("color",  subjectColors[scrollEntityType]);
 
-			  	if(scrollEntityType !== newScrollEntityType){
+				  	if(scrollEntityType !== newScrollEntityType){
 
-			  		scrollEntityType = newScrollEntityType;
+				  		scrollEntityType = newScrollEntityType;
 
-				  	drawCanvas();
+					  	drawCanvas();
 
-				  }
+					  };
+					}
+
+					if(i === 1){
+					  var headerProgress = Math.min(Math.round(progress * sectionHeaderNames.length), sectionHeaderNames.length );
+					  var newScrollSectionHeader = sectionHeaderNames[headerProgress];
+
+					  if(typeof newScrollSectionHeader !== "undefined"){
+							$(".second-chart-filter").css("color", "lightgrey").css("font-weight", "normal");
+					  	$(".second-chart-filter." + newScrollSectionHeader.replace(/ /g, "-")).css("color",  "white").css("font-weight", "bolder");
+
+						  if(scrollSectionHeader !== newScrollSectionHeader){
+						  	scrollSectionHeader = newScrollSectionHeader;
+						  	drawCanvas();
+						  }
+						}
+					}
+
 				})
 				;
 
