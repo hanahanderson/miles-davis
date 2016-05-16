@@ -159,7 +159,7 @@ body {
 body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 417px);}
 
 .loading-page {
-	min-height: 250px;
+	min-height: 190px;
 	width: 100%;
 	color: white;
 	max-width: 750px;
@@ -172,8 +172,9 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	flex-direction: column;
 	-webkit-justify-content: center;
 	justify-content: center;
-	margin-top: -10px;
+	margin-top: -30px;
 	z-index: 1000000;
+	position: relative;
 }
 
 .loading-page center {
@@ -188,14 +189,14 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	margin: 0px;
 	line-height: 80px;
 	text-transform: uppercase;
-	letter-spacing: 12px;
+	letter-spacing: 2px;
 }
 .loading-page h4 {
 	text-transform: uppercase;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-align: center;
-	font-weight: 400;
+	font-weight: 500;
 	letter-spacing: 2px;
 	margin-bottom: 13px;
 	font-size: 18px;
@@ -208,11 +209,11 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	-moz-osx-font-smoothing: grayscale;
 	text-align: center;
 	margin: 0 auto;
-	margin-top: 27px;
+	margin-top: 4px;
 	line-height: 1.7em;
-	font-weight: 700;
+	font-weight: 500;
 	font-size: 16px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	letter-spacing: 1px;
 }
 
@@ -251,8 +252,8 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 }
 
 .voronoi {
-    stroke: none;
-    /* stroke-width: 0px; */
+    /* stroke: white; */
+    /* stroke-width: 1px; */
     fill: none;
     pointer-events: all;
 }
@@ -301,6 +302,7 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
     justify-content: center;
     height: 450px;
     position: relative;
+    z-index: 0;
 }
 
 .picture-point {
@@ -420,18 +422,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     -moz-osx-font-smoothing: grayscale;
     width: 100%;
 }
-.chart-title{
-	color: white;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	font-size:;
-	width: 100%;
-	text-align: center;
-	line-height: 1.5em;
-	margin: 0 auto;
-	font-size: 40px;
-	font-weight: 300;
-}
+.chart-title{text-transform: uppercase;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;text-align: center;font-weight: 500;letter-spacing: 2px;margin-bottom: 13px;font-size: 22px;color: white;}
 
 
 .chart-title-container {
@@ -457,7 +448,6 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     display: -webkit-flex;
     display: flex;
     position: relative;
-    margin-bottom: 300px;
 }
 
 .voronoi-svg {
@@ -465,16 +455,21 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 
 
 .first-chart-section-head {
-    /* font-size: 22px; */
-    /* color: white; */
-    /* font-weight: 600; */
-    /* margin-bottom: 10px; */
+    font-size: 22px;
+    color: white;
+    font-weight: 300;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
 }
 
 .first-chart-section-text {
     color: white;
-    font-size: 14px;
-    line-height: 2em;
+    font-size: 15px;
+    line-height: 1.8em;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .first-chart-text-section {
@@ -486,7 +481,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 .opening-prose {
     color: white;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 19px;
     line-height: 1.5em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -538,7 +533,11 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 }
 
 .second-chart-container {
-    /* min-height: 1000px; */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    min-height: 1500px;
 }
 
 .filter-items {
@@ -551,3 +550,205 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     flex-wrap: wrap;
     justify-content: center;
 }
+
+
+.second-chart-prose {
+    width: 400px;
+}
+
+#vis-3 {
+    width: 100%;
+    position: relative;
+}
+
+.third-chart-container {
+    width: 900px;
+    margin: 0 auto;
+    height: 2000px;
+}
+
+.third-data-node {
+    width: 130px;
+    height: auto;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 0px;
+}
+
+.third-chart-data {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    width: 100%;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.third-section-item-title {
+    font-size: 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.third-section-item-text {
+    font-size: 12px;
+    color: #aaa;
+}
+
+.third-section-item-bubble {
+    width: 40px;
+    height: 40px;
+    background: white;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    background: url("http://upload.wikimedia.org/wikipedia/en/thumb/3/3c/DavisEvansSetSmall.jpg/220px-DavisEvansSetSmall.jpg");
+    background-size: contain;
+    border: 2px solid white;
+    box-shadow: 0px 0px 28px rgba(255, 255, 255, 0.49);
+}
+
+.third-chart-shadow {
+    width: 100%;
+    position: relative;
+    height: 190px;
+}
+
+.third-data-node-shadow {
+    background: #696969;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+
+.third-chart-body-prose {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    letter-spacing: .8px;
+    line-height: 1.4em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-bottom: 30px;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.chart-title-three {
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size:;
+    width: 100%;
+    text-align: center;
+    line-height: 1.5em;
+    margin: 0 auto;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.chart-title-container-three {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.third-data-row {
+    position: relative;
+    width: 100%;
+    height: 270px;
+}
+
+.second-chart-filters {
+    position: absolute;
+    top: -90px;
+    left: 0px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+    right: 0px;
+    -webkit-flex-wrap: warp;
+    flex-wrap: wrap;
+}
+
+.filter-items-section {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: middle;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.second-chart-filter {
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 13px;
+    padding-left: 11px;
+    padding-right: 11px;
+}
+
+.header .exclude {
+    fill: #111;
+}
+
+.header .include {
+    fill: white;
+}
+
+.logo-svg {
+    width: 100%;
+}
+
+
+.logo-container {
+    width: 122px;
+    height: 43px;
+    position: absolute;
+    left: 9px;
+    margin: 0 auto;
+    top: 3px;
+}
+
+.logo {font-size: 22px;font-weight: 700;position: absolute;top: 8px;color: #fff;width: 100%;margin: 0 auto;left: 14px;background: rgba(17, 17, 17, 0.57);z-index: 100;}to;
+}
+
+.header-sub-one {}
+
+.header-sub-one {margin: 0 auto;color: #737373;font-size: 11px;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;font-weight: 600;text-align: center;top: 0px;position: absolute;left: 4px;top: 19px;background-color: #111;z-index: 1000;}
+
+.header-sub-two {
+    margin: 0 auto;
+    color: #5F5E5E;
+    font-size: 11px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 600;
+    text-align: center;
+    left: 138px;
+    top: 19px;
+    position: absolute;
+    color: #737373;
+    font-size: 11px;
+    background-color: #111;
+    z-index: 1000;
+    
