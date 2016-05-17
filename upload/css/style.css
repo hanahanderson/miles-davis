@@ -258,7 +258,7 @@ body{he`: 5;background: linear-gradient(to bottom, #13051D 359px,#111 487px);}
 }
 
 .voronoi {
-    /* stroke: white; */
+    stroke: white;
     stroke-width: 0px;
     fill: none;
     pointer-events: all;

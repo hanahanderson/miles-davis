@@ -150,7 +150,10 @@ var subjectColors = {
   events: "#26A65B", //green
   places: "#9B59B6", //purple
   genres: "#3498DB", //blue
-  companies: "#BDC3C7",
+  books: "#BF55EC", //medium purple
+  films: "#3FC380", //light green
+  recording: "#52B3D9", //light blue
+  companies: "#AEA8D3",
   other: "#BDC3C7"
 }
 

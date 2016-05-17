@@ -3,6 +3,9 @@ var sectionHeaderNames = [];
 var entityTypes = []//["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
 var visScrollEvents = [];
 
+var visualisations = [];
+var numVisualisations = 2;
+
 var sectionScrollProgress = 0;
 
 var controller = new ScrollMagic.Controller();
@@ -47,83 +50,7 @@ var bubble = d3.layout.pack()
   ;
 
 
-var base = d3.select("#vis-1");
 
-base.style("width", bubbleWidth + "px")
-		.style("height", bubbleHeight + "px")
-
-var chart1 = base.append("canvas")
-		.style("width", bubbleWidth + 'px')
-	  .style("height", bubbleHeight + 'px')
-	  .attr("width", bubbleWidth)
-	  .attr("height", bubbleHeight)
-		.style("position", "absolute")
-		;
-
-var tooltip = base.append("div")
-  .attr("class", "tooltip-container")
-  .style("opacity", 0)
-
-var clips1 = base.append("svg")
-	.style("position", "absolute")
-	.style("top", "0px")
-	.append("svg:g").attr("id", "point-clips-1");
-
-var base2 = d3.select("#vis-2")
-	.style("width", bubbleWidth + "px")
-	.style("height", bubbleHeight + "px")
-	;
-
-var chart2 = base2.append("canvas")
-	.style("width", chartWidth + 'px')
-  .style("height", chartHeight + 'px')
-  .attr("width", chartWidth)
-  .attr("height", chartHeight)
-	.style("position", "absolute")
-	;
-
-var tooltip2 = base2.append("div")
-  .attr("class", "tooltip-container")
-  .style("opacity", 0)
-
-var clips2 = base2.append("svg")
-	.style("position", "absolute")
-	.style("top", "0px")
-	.append("svg:g").attr("id", "point-clips-2")
-	;
-
-var context1 = chart1.node().getContext("2d");
-var context2 = chart2.node().getContext("2d");
-
-// Create an in memory only element of type 'custom'
-var detachedContainer1 = document.createElement("custom");
-var detachedContainer2 = document.createElement("custom");
-
-// Create a d3 selection for the detached container. We won't
-// actually be attaching it to the DOM.
-var dataContainer1 = d3.select(detachedContainer1);
-var dataContainer2 = d3.select(detachedContainer2);
-
-//Initiate a group element to place the voronoi diagram in
-var voronoiGroup1 = base.append("svg")
-	.attr("width", bubbleWidth)
-	.attr("height", bubbleHeight)
-	.attr("class", "voronoi-svg")
-	.style("position", "absolute")
-	.style("top", "0px")
-	.append("g")
-	.attr("class", "voronoiWrapper")
-	;
-
-var voronoiGroup2 = base2.append("svg")
-	.attr("width", chartWidth)
-	.attr("height", chartHeight)
-	.attr("class", "voronoi-svg")
-	.style("position", "absolute")
-	.style("top", "0px")
-	.append("g")
-	.attr("class", "voronoiWrapper")
-	;
 
 var ease = d3.ease('cubic-in-out');
 var timeScale = d3.scale.linear()
@@ -136,19 +63,20 @@ var decadeTypeLabels = [];
 
 function drawCanvas() {
 
-	var contexts = [context1, context2];
-	var charts = [chart1, chart2];
 
-	for(var c = 0; c < contexts.length; c++){
-		var context = contexts[c];
-		var chart = charts[c]
+	for(var v = 0; v < visualisations.length; v++){
+
+		var vis = visualisations[v];
+
+		var context = vis.context;
+		var chart = vis.chart;
 		//var layoutMode = layoutType[layoutIndex];
 
 		var layoutMode = "";
 
-		if(c === 0){
+		if(v === 0){
 			layoutMode = "bubble";
-		} else if (c === 1){
+		} else if (v === 1){
 			layoutMode = "decade"
 		}
 	  context.clearRect(0, 0, chart.attr("width"), chart.attr("height"));
@@ -181,7 +109,7 @@ function drawCanvas() {
 	  	for(var x = 1940; x < 2020; x+= 10){
 	  		context.beginPath();
 	  		context.strokeStyle = "rgba(255,255,255,0.3)";
-	  		context.moveTo(yearsXScale(x) -10 , 0);
+	  		context.moveTo(yearsXScale(x) -10 , 300);
 				context.lineTo(yearsXScale(x) -10, chartHeight - 165 + decadeHeightPadding);
 				context.stroke();
 				context.closePath();
@@ -195,49 +123,83 @@ function drawCanvas() {
 
 	  }
 
-	  var elements = dataContainer1.selectAll("custom.rect");
-	  elements.each(function(d) {
+	  vis.circles
+	  	.style("background-color", function(d, i) { 
+	  		var layout = d.layout[layoutMode];
+	  		var backgroundColor = "";
 
-	  	var layout = d.layout[layoutMode];
-	    var node = d3.select(this);
+	  		if(layout.hidden){
+		    	backgroundColor = "rgba(0,0,0,0)";
+		    } else {
+		    	if(layoutMode === "picture"){
+		    		backgroundColor = "whitesmoke";
 
-	   // context.beginPath();
-
-	    var nodeRadius = layout.r;
-	    if(layout.hidden){
-	    	context.fillStyle = "rgba(0,0,0,0)";
-	    } else {
-	    	if(layoutMode === "picture"){
-	    		context.fillStyle = "whitesmoke";
-
-	    	} else {
-	    		context.fillStyle =	subjectColors[d.subject];
-	    		if(layoutMode === "bubble"){
-    				context.fillStyle = "white";
-    			}
-	    		if(scrollEntityType !== null){
-						context.fillStyle =
-				    	(scrollEntityType === d.subject ?
-				    		subjectColors[d.subject] :
-				    		"rgba(255,255,255,0.4)");
-	    		}
-	    		if(scrollSectionHeader !== null) {
-	    			if(mentionSectionObj[scrollSectionHeader].indexOf(d["Page Id"]) !== -1){
-	    				context.fillStyle = "white";
-	    			} else {
-	    				context.fillStyle = "rgba(255,255,255,0.4)";
+		    	} else {
+		    		backgroundColor =	subjectColors[d.subject];
+		    		if(layoutMode === "bubble"){
+	    				backgroundColor = "white";
 	    			}
-	    		}
-		    }
-		    context.beginPath();
-		    context.arc(layout.x, layout.y, layout.r, 0, 2 * Math.PI, false);
-		    context.fill();
-		    context.closePath();
+		    		if(scrollEntityType !== null){
+							backgroundColor =
+					    	(scrollEntityType === d.subject ?
+					    		subjectColors[d.subject] :
+					    		"rgba(255,255,255,0.4)");
+		    		}
+		    		if(scrollSectionHeader !== null) {
+		    			if(mentionSectionObj[scrollSectionHeader].indexOf(d["Page Id"]) !== -1){
+		    				backgroundColor = "white";
+		    			} else {
+		    				backgroundColor = "rgba(255,255,255,0.4)";
+		    			}
+		    		}
+			    }
+			  }
 
-	    }
-	  });
+	  		return backgroundColor;
+	  	})
 
 
+	  // var elements = vis.dataContainer.selectAll("custom.rect");
+	  // elements.each(function(d) {
+
+	  // 	var layout = d.layout[layoutMode];
+	  //   var node = d3.select(this);
+
+	  //  // context.beginPath();
+
+	  //   var nodeRadius = layout.r;
+	  //   if(layout.hidden){
+	  //   	context.fillStyle = "rgba(0,0,0,0)";
+	  //   } else {
+	  //   	if(layoutMode === "picture"){
+	  //   		context.fillStyle = "whitesmoke";
+
+	  //   	} else {
+	  //   		context.fillStyle =	subjectColors[d.subject];
+	  //   		if(layoutMode === "bubble"){
+   //  				context.fillStyle = "white";
+   //  			}
+	  //   		if(scrollEntityType !== null){
+			// 			context.fillStyle =
+			// 	    	(scrollEntityType === d.subject ?
+			// 	    		subjectColors[d.subject] :
+			// 	    		"rgba(255,255,255,0.4)");
+	  //   		}
+	  //   		if(scrollSectionHeader !== null) {
+	  //   			if(mentionSectionObj[scrollSectionHeader].indexOf(d["Page Id"]) !== -1){
+	  //   				context.fillStyle = "white";
+	  //   			} else {
+	  //   				context.fillStyle = "rgba(255,255,255,0.4)";
+	  //   			}
+	  //   		}
+		 //    }
+		 //    context.beginPath();
+		 //    context.arc(layout.x, layout.y, layout.r, 0, 2 * Math.PI, false);
+		 //    context.fill();
+		 //    context.closePath();
+
+	  //   }
+	  // });
 
 	}
 
@@ -245,11 +207,74 @@ function drawCanvas() {
 
 }
 
+
+
 function drawDataBinding() {
 
-	var dataContainers = [dataContainer1, dataContainer2]
-	for(var x in dataContainers){
-		var dataContainer = dataContainers[x];
+	for(var x = 1; x <= numVisualisations; x++) {
+
+		var layoutMode = "";
+
+		if(x === 1){
+			layoutMode = "bubble";
+		} else if (x === 2){
+			layoutMode = "decade"
+		}
+
+
+	  var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 50;
+	  var yMax = d3.max(data.map(function(d) { return d.layout[layoutMode].y })) + 50;
+  
+
+		var base = d3.select("#vis-" + x);
+
+		base.style("width", xMax + "px")
+				.style("height", yMax + "px")
+
+		var chart = base.append("canvas")
+				.style("width", xMax + 'px')
+			  .style("height", yMax + 'px')
+			  .attr("width", xMax)
+			  .attr("height", yMax)
+				.style("position", "absolute")
+				;
+
+		var tooltip = base.append("div")
+		  .attr("class", "tooltip-container")
+		  .style("opacity", 0)
+
+		var clips = base.append("svg")
+			.style("position", "absolute")
+			.style("top", "0px")
+			.append("svg:g").attr("id", "point-clips-" + x)
+			.selectAll("clipPath")
+	      .data(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))
+	    .enter().append("svg:clipPath")
+	      .attr("id", function(d, i) { return layoutMode+"-clip-"+i;})
+	    .append("svg:circle");
+
+
+		var context = chart.node().getContext("2d");
+		var detachedContainer = document.createElement("custom");
+		var dataContainer = d3.select(detachedContainer);
+
+
+	  var voronoi = voronoiLayout(layoutMode)
+
+
+		var voronoiGroup = base.append("svg")
+				.attr("width", xMax)
+				.attr("height", yMax)
+				.attr("class", "voronoi-svg")
+				.style("position", "absolute")
+				.style("top", "0px")
+			.append("g")
+				.attr("class", "voronoiWrapper")
+			.selectAll("path")
+				.data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
+			.enter()
+				.append("path")
+		;
 
 		var dataBinding = dataContainer.selectAll("custom.rect")
 	    .data(data, function(d) { return d["Page Id"]; });
@@ -262,37 +287,89 @@ function drawDataBinding() {
 			})
 			;
 
-	}
+		var circles = base.selectAll(".node")
+      	.data(data, function(d) { return d["Page Id"]; })
+    	.enter()
+			.append("div")
+				.attr("class", "node")
+				.attr("id", function(d, i) { return layoutMode + "-" + d["Page Id"] })
+				.style("border-radius", "100%")
+				.style("position", "absolute")
+				.style("width", function(d, i) { 
+		  		var layout = d.layout[layoutMode];
+		  		return (layout.r * 2) + "px";
+		  	})
+		  	.style("height", function(d, i) { 
+		  		var layout = d.layout[layoutMode];
+		  		return (layout.r * 2) + "px";
+		  	})
+		  	.style("left", function(d, i) { 
+		  		var layout = d.layout[layoutMode];
+		  		return (layout.x - layout.r) + "px";
+		  	})
+		  	.style("top", function(d, i) { 
+		  		var layout = d.layout[layoutMode];
+		  		return (layout.y - layout.r) + "px";
+		  	})
+				;
+
+
+		visualisations.push({
+			base: base,
+			chart: chart,
+			tooltip: tooltip,
+			clips: clips,
+			context: context,
+			detachedContainer: detachedContainer,
+			dataContainer: dataContainer,
+			voronoiGroup: voronoiGroup,
+			circles: circles
+		});
+
+	}//for
 
 	drawCanvas();
 
 }
 
+function voronoiLayout (layoutMode) {
+
+  var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 15;
+  var yMax = d3.max(data.map(function(d) { return d.layout[layoutMode].y })) + 15;
+
+  var voronoi = d3.geom.voronoi()
+		.x(function(d) {
+			var layout = d.layout[layoutMode];
+			return layout.x;
+		})
+		.y(function(d) {
+			var layout = d.layout[layoutMode];
+			return layout.y;
+		})
+		.clipExtent([[0, 0], [xMax, yMax]]);
+
+	return voronoi;
+
+} 
+
 function updateVoronoi () {
 
+	for(var v = 0; v < visualisations.length; v++){
+		
+		var vis = visualisations[v];
 
-	var voronoiGroups = [voronoiGroup1, voronoiGroup2];
-	var clips = [clips1, clips2];
-
-	for(var v = 0; v < voronoiGroups.length; v++){
-		var voronoiGroup = voronoiGroups[v];
-		var clip = clips[v];
+		var voronoiGroup = vis.voronoiGroup;
+		var clips = vis.clips;
 
 		var layoutMode = "";
 
 		if(v === 0){
 			layoutMode = "bubble";
 		} else if (v === 1){
-
 			layoutMode = "decade";
-
 		}
 
-		clip.selectAll("clipPath")
-	      .data(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))
-	    .enter().append("svg:clipPath")
-	      .attr("id", function(d, i) { return layoutMode+"-clip-"+i;})
-	    .append("svg:circle")
+		clips
 	      .attr('cx', function(d) { return d.layout[layoutMode].x; })
 	      .attr('cy', function(d) { return d.layout[layoutMode].y; })
 	      .attr('r', 50);
@@ -301,28 +378,30 @@ function updateVoronoi () {
 	  $($(".vis-container")[v]).data("layout-mode", layoutMode);
 
 
-	  var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 15;
-	  var yMax = d3.max(data.map(function(d) { return d.layout[layoutMode].y })) + 15;
+	  // var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 15;
+	  // var yMax = d3.max(data.map(function(d) { return d.layout[layoutMode].y })) + 15;
 
-	  var voronoi = d3.geom.voronoi()
-			.x(function(d) {
-				var layout = d.layout[layoutMode];
-				return layout.x;
-			})
-			.y(function(d) {
-				var layout = d.layout[layoutMode];
-				return layout.y;
-			})
-			.clipExtent([[0, 0], [xMax, yMax]]);
+	  // var voronoi = d3.geom.voronoi()
+			// .x(function(d) {
+			// 	var layout = d.layout[layoutMode];
+			// 	return layout.x;
+			// })
+			// .y(function(d) {
+			// 	var layout = d.layout[layoutMode];
+			// 	return layout.y;
+			// })
+			// .clipExtent([[0, 0], [xMax, yMax]]);
 
-	  $(voronoiGroup).html("");
+	  //$(voronoiGroup).html("");
 
+	  var voronoi = voronoiLayout(layoutMode)
 
 
 		//Create the Voronoi diagram
-		voronoiGroup.selectAll("path")
-			.data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
-			.enter().append("path")
+		voronoiGroup
+			//.selectAll("path")
+			// .data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
+			// .enter().append("path")
 			.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
 			.datum(function(d, i) { return d.point; })
 			//Give each cell a unique class where the unique part corresponds to the circle classes
@@ -432,8 +511,6 @@ function showTooltip(d) {
 
 	$(this).popover('show');
 
-
-
 }//function showTooltip
 
 //Hide the tooltip when the mouse moves away
@@ -467,22 +544,8 @@ function getYear (yearsArray){
 
 }
 
-var isDecadeHistogram = false;
-
-$("#transform-to-decades").on("click", function() {
-
-	layoutIndex ++;
-	if(layoutIndex >= layoutType.length){
-		layoutIndex = 0;
-	}
-
-	updateVoronoi();
-	drawDataBinding();
-
-});
-
 var picturePointWidth = 709,
-				picturePointHeight = 406;
+	picturePointHeight = 406;
 
 function drawIntroPicture() {
 
@@ -629,49 +692,12 @@ $(document).ready(function() {
 
 		entityTypes = d3.set(data.map((d) => { return d.subject })).values();
 
-		// var voronoi = d3.geom.voronoi()
-		// 	.x(function(d, i) { return pictureCoords[i][0]; })
-		// 	.y(function(d, i) { return pictureCoords[i][1]; })
-		// 	.clipExtent([[0, 0], [picturePointWidth, picturePointHeight]]);
-
-		// //Create the Voronoi diagram
-		// 	d3.select(".intro-vis-miles")
-	 //  		.append("svg")
-	 //  		.attr("class", "intro-voroni-picture")
-	 //    	.attr("width", picturePointWidth)
-	 //    	.attr("height", picturePointHeight)
-  //   	.selectAll("path")
-		// 		.data(voronoi(data)) //Use vononoi() with your dataset inside
-		// 	.enter()
-		// 	.append("path")
-		// 		.attr("d", function(d, i) { return "M" + d.join("L") + "Z"; })
-		// 		.datum(function(d, i) { return d.point; })
-		// 		//Give each cell a unique class where the unique part corresponds to the circle classes
-		// 		.attr("class", function(d,i) { return "voronoi " })
-		// 		.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
-		// 		.on("mouseover", showTooltip)
-		// 		.on("mouseout",  removeTooltip);
-
 
 		var root = {
 			children: data
 		};
 		var packData = bubble.nodes(root);
 		packData.splice(0, 1);
-
-		// var node = svgBubble.selectAll(".node")
-  //     .data(packData)
-  //   	.enter()
-		// 	.append("circle")
-  //     .attr("cx", function(d) {
-		// 		return d.x;
-		// 	})
-		// 	.attr("cy", function(d) {
-		// 		return d.y;
-		// 	})
-		// 	.style("fill","white")
-		// 	.attr("r", function(d) { return d.r; })
-		// 	;
 
   	var years = {};
   	var maxYearsByType = 0;
@@ -842,7 +868,7 @@ $(document).ready(function() {
 
 			var thirdData = data.filter(function(d,i){
 				d.nestCount = i;
-				return d.EntityType = "musical artist";
+				return d.subject === "musicians";
 			})
 			;
 
