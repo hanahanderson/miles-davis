@@ -25,15 +25,25 @@ var padding = 1;
 
 var isPicture = false;
 
-var scrollEntityType = null;
+var scrollEntityTypePosition = null;
 var scrollSectionHeader = null;
 
 
 function d3_layout_packSort(a, b) {
 	return parseInt(b.PageViews) - parseInt(a.PageViews);
+	// var aVal = 0;
+	// var bVal = 0;
+	// if(typeof associatedLinksToObj[a["Page Id"]] !== "undefined"){
+	// 	aVal = associatedLinksToObj[a["Page Id"]].length;
+	// } 
+	// if(typeof associatedLinksToObj[b["Page Id"]] !== "undefined"){
+	// 	bVal = associatedLinksToObj[b["Page Id"]].length;
+	// } 
+ // 	return bVal - aVal;
 };
 
 var PageViewScale = d3.scale.linear().domain([1,4062937]).range([1,4000]).clamp(true)
+var mostConnectedScale = d3.scale.linear().domain([1, 574]).range([1,4000]).clamp(true)
 
 var bubble = d3.layout.pack()
   .size([500, 500])
@@ -42,6 +52,12 @@ var bubble = d3.layout.pack()
 			console.log(d);
 		}
 		return PageViewScale(parseInt(d.PageViews));
+
+		// var val = 0;
+		// if(typeof associatedLinksToObj[d["Page Id"]] !== "undefined"){
+		// 	val = associatedLinksToObj[d["Page Id"]].length;
+		// }
+		// return mostConnectedScale(val)
 	})
 	// .value(function(d) { return 10;})
 	// .sort(null)
@@ -139,12 +155,15 @@ function drawCanvas() {
 		    		if(layoutMode === "bubble"){
 	    				backgroundColor = "white";
 	    			}
-		    		if(scrollEntityType !== null){
-							backgroundColor =
-					    	(scrollEntityType === d.subject ?
+	    			if(scrollEntityTypePosition !== null){
+	    				var entityTypeFilter = entityTypeFilters[scrollEntityTypePosition];
+
+	    				backgroundColor =
+					    	( entityTypeFilter.highlight(d)?
 					    		subjectColors[d.subject] :
 					    		"rgba(255,255,255,0.4)");
-		    		}
+	    			} 
+
 		    		if(scrollSectionHeader !== null) {
 		    			if(mentionSectionObj[scrollSectionHeader].indexOf(d["Page Id"]) !== -1){
 		    				backgroundColor = "white";
@@ -275,6 +294,10 @@ function drawDataBinding() {
 			.enter()
 				.append("path")
 		;
+
+		voronoiGroup
+			.on("mouseover", showTooltip)
+			.on("mouseout",  removeTooltip);
 
 		var dataBinding = dataContainer.selectAll("custom.rect")
 	    .data(data, function(d) { return d["Page Id"]; });
@@ -408,9 +431,7 @@ function updateVoronoi () {
 			.attr("class", function(d,i) { return "voronoi " + layoutMode})
 			.attr("clip-path", function(d,i) { return "url(#"+layoutMode+"-clip-"+i+")"; })
 			.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
-			.on("mouseover", showTooltip)
-			.on("mouseout",  removeTooltip);
-
+		
 		}
 
 }
@@ -497,6 +518,10 @@ function showTooltip(d) {
 									<tr>
 										<td>
 											${imageHTML}
+											<br>
+											<b style='color: ${subjectColors[d.subject]}; text-transform: uppercase'> 
+												${d.subject}
+											</b>
 											<br>
 											<b> ${d.Name} <b>
 										</td>
@@ -683,6 +708,26 @@ function thirdChart(){
 
 }
 
+var entityTypeFilters = [{
+	name: "Mentioned on Miles Davis' page",
+	highlight: function(d) { return d.linked_from_miles }
+}, {
+	name: "Miles Davis Work",
+	highlight: function(d) { return d.miles_work }
+}, {
+	name: "Recordings",
+	highlight: function(d) { return d.subject === "recording" }
+}, {
+	name: "People/Musicians",
+	highlight: function(d) { return ["people", "musicians"].indexOf(d.subject) !== -1}
+}, {
+	name: "Places",
+	highlight: function(d) { return d.subject === "places" }
+}, {
+	name: "Other",
+	highlight: function(d) { return ["other", "books", "works", "films", "genres"].indexOf(d.subject) !== -1 }
+}]
+
 
 $(document).ready(function() {
 
@@ -804,38 +849,37 @@ $(document).ready(function() {
 
   	removeTooltip();
 
-  	for(var x in entityTypes){
+  	for(var x = 0; x < entityTypeFilters.length; x++){
 
-		  var typeCount = data.filter(function(d){ return d.subject === entityTypes[x] }).length;
+		  var typeCount = data.filter(function(d){ return entityTypeFilters[x].highlight(d); }).length;
 
   		$(".first-chart-prose").append(
 			  '<div class="first-chart-text-section">'
-					+ '<h1 class="first-chart-section-head ' + entityTypes[x] + '">' + entityTypes[x] + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
+					+ '<h1 class="first-chart-section-head">' + entityTypeFilters[x].name + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
 					+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
 				+ '</div>'
   		)
 			
-  		$(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
-	  														+ "' data-entity-type='"+ entityTypes[x] + "'>"
-	  															+ entityTypes[x]
+  		$(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter' data-entity-type-filter-index='" + x + "'>"
+	  															+ entityTypeFilters[x].name
 	  														+ "</a>");
   	}
 
-  	$(".first-chart-filter").on("click", function(e){
+  	$(".first-chart-filter").each(function(i, f) {
+  		$(f).on("click", function(e){
 
-  		e.preventDefault();
-  		var entityType = $(this).data("entity-type");
-  		var scrollEvent = visScrollEvents[0];
+	  		e.preventDefault();
+	  		var scrollEvent = visScrollEvents[0];
 
-  		var filterTypeIndex = entityTypes.indexOf(entityType);
-  		var startPosition = scrollEvent.scrollEvent.triggerPosition();
+	  		var startPosition = scrollEvent.scrollEvent.triggerPosition();
 
-  		var progress = filterTypeIndex / entityTypes.length;
+	  		var progress = i / entityTypeFilters.length;
 
-  		controller.scrollTo(startPosition + (progress * 700))
-  		controller.update(true);
+	  		controller.scrollTo(startPosition + (progress * 700) + 1)
+	  		controller.update(true);
 
-  	});
+	  	});
+  	})
 
   	sectionHeaderNames = Object.keys(mentionSectionObj).filter(function(m) {
   		return mentionSectionObj[m].length > 3
@@ -848,18 +892,22 @@ $(document).ready(function() {
 													+ "</a>");
   	}
 
-  	$(".second-chart-filter").on("click", function(e){
-  		e.preventDefault();
-  		var sectionHeader = $(this).data("section-header");
-  		var scrollEvent = visScrollEvents[1];
+  	$(".second-chart-filter").each(function(i, f) {
 
-  		var filterTypeIndex = sectionHeaderNames.indexOf(sectionHeader);
-  		var startPosition = scrollEvent.scrollEvent.triggerPosition();
+  		$(f).on("click", function(e){
+	  		e.preventDefault();
+	  		var sectionHeader = $(this).data("section-header");
+	  		var scrollEvent = visScrollEvents[1];
 
-  		var progress = filterTypeIndex / sectionHeaderNames.length;
+	  		var filterTypeIndex = sectionHeaderNames.indexOf(sectionHeader);
+	  		var startPosition = scrollEvent.scrollEvent.triggerPosition();
 
-  		controller.scrollTo(startPosition + (progress * 700))
-  		controller.update(true);
+	  		var progress = filterTypeIndex / sectionHeaderNames.length;
+
+	  		controller.scrollTo(startPosition + (progress * 700))
+	  		controller.update(true);
+	  	})
+
   	})
 
 		function drawThirdChart(){
@@ -1174,7 +1222,7 @@ $(document).ready(function() {
 			  	drawCanvas();
 			  })
 			  .on("leave",function(e){
-				  scrollEntityType = null;
+				  scrollEntityTypePosition = null;
 				  scrollSectionHeader = null;
 			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
 			  	drawCanvas();
@@ -1184,16 +1232,19 @@ $(document).ready(function() {
 			  	var progress = e.progress;
 
 			  	if(i === 0){
-				  	var progressPosition = Math.min(Math.round(progress * entityTypes.length), entityTypes.length );
-				  	var newScrollEntityType = entityTypes[progressPosition];
+				  	var progressPosition = Math.min(Math.floor(progress * entityTypeFilters.length), entityTypeFilters.length - 1 );
+				  	
+				  	$(".first-chart-section-head, .first-chart-filter")
+				  		.css("color", "lightgrey")
+				  		.css("font-weight", "normal");
 
-				  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
-				  	$(".first-chart-section-head." + scrollEntityType + ", .first-chart-filter." + scrollEntityType).css("color",  subjectColors[scrollEntityType]);
+				  	$(".first-chart-section-head:nth-of-type(" + (progressPosition + 1) + "), .first-chart-filter:nth-of-type(" + (progressPosition + 1) + ")")
+				  	.css("color",  "white")
+				  	.css("font-weight", "bolder");;
 
-				  	if(scrollEntityType !== newScrollEntityType){
+				  	if(scrollEntityTypePosition !== progressPosition){
 
-				  		scrollEntityType = newScrollEntityType;
-
+				  		scrollEntityTypePosition = progressPosition;
 					  	drawCanvas();
 
 					  };

@@ -158,7 +158,8 @@ var subjectColors = {
 }
 
 var pageIdObj = {};
-var associatedLinksObj = {};
+var associatedLinksFromObj = {};
+var associatedLinksToObj = {};
 var associatedLinks = [];
 
 var milesDavisPageId;
@@ -209,10 +210,16 @@ function loadData(callback){
           var numOccurences = link["Num Occurences"];
 
           if(typeof sourceId !== "undefined" && typeof destinationId !== "undefined"){
-            if(typeof associatedLinksObj[sourceId] === "undefined"){
-              associatedLinksObj[sourceId] = [];
+            if(typeof associatedLinksFromObj[sourceId] === "undefined"){
+              associatedLinksFromObj[sourceId] = [];
             }
-            associatedLinksObj[sourceId].push({link: destinationId, numOccurences: numOccurences});
+            associatedLinksFromObj[sourceId].push({link: destinationId, numOccurences: numOccurences});
+
+            if(typeof associatedLinksToObj[destinationId] === "undefined"){
+              associatedLinksToObj[destinationId] = [];
+            }
+            associatedLinksToObj[destinationId].push({linkedFrom: sourceId, numOccurences: numOccurences});
+
 
             associatedLinks.push({
               source: sourceId,
@@ -423,6 +430,9 @@ function loadData(callback){
           other: 0
         }
 
+        var pagesLinkedFromMiles = associatedLinksFromObj[milesDavisPageId].map(function(l) { return l.link });
+        var pagesLinkedFromDiscography = associatedLinksFromObj[milesDavisDiscographyId].map(function(l) { return l.link });
+
         async.forEach(data, function(d, cb1) {
 
           d.imageURL = imageObj[d["Page Id"]];
@@ -430,11 +440,10 @@ function loadData(callback){
           d.years = [];
           d.associatedYears = [];
 
-          d.linked_from_miles = (associatedLinksObj[milesDavisPageId].indexOf(d["Page Id"]) !== -1);
-
+          d.linked_from_miles = ( pagesLinkedFromMiles.indexOf(d["Page Id"]) !== -1);
           d.miles_work = (d.miles_work === "1");
 
-          if(associatedLinksObj[milesDavisDiscographyId].indexOf(d["Page Id"]) !== -1){
+          if(pagesLinkedFromDiscography.indexOf(d["Page Id"]) !== -1){
             d.miles_work = true;
           }
         
