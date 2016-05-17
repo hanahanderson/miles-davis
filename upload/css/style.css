@@ -162,7 +162,6 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	min-height: 190px;
 	width: 100%;
 	color: white;
-	max-width: 750px;
 	margin: 0 auto;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -181,29 +180,29 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 }
 
 .loading-page h1 {
-	font-size: 78px;
+	font-size: 178px;
 	font-weight: 600;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-align: center;
-	margin: 0px;
-	line-height: 80px;
+	line-height: .9em;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 0px;
+	max-width: 750px;
+	margin: 0 auto;
 }
 .loading-page h4 {
 	text-transform: uppercase;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-align: center;
-	font-weight: 500;
+	font-weight: 600;
 	letter-spacing: 2px;
-	margin-bottom: 13px;
 	font-size: 18px;
 }
 .loading-page p {
 	color: white;
-	width: 380px;
+	width: 440px;
 	text-align: center;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -212,7 +211,7 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	margin-top: 4px;
 	line-height: 1.7em;
 	font-weight: 500;
-	font-size: 16px;
+	font-size: 19px;
 	/* text-transform: uppercase; */
 	letter-spacing: 1px;
 }
@@ -713,7 +712,8 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 }
 
 .header .include {
-    fill: white;
+    fill: rgb(255, 38, 52);
+    fill: rgb(247, 244, 89);
 }
 
 .logo-svg {
@@ -761,5 +761,3 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     position: fixed;
     z-index:10;
     border-radius: 100%;
-}
-
