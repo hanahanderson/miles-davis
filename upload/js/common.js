@@ -154,22 +154,72 @@ var subjectColors = {
   other: "#BDC3C7"
 }
 
+var pageIdObj = {};
+var associatedLinksObj = {};
+var associatedLinks = [];
+
+var milesDavisPageId;
+var milesDavisDiscographyId;
+
 function loadData(callback){
 
-
-
   async.series({
+    getPageId: function(cb) {
+      d3.tsv(`./../data/page-ids.tsv`, function(error, rows) {
+        if (error) throw error;
+
+          rows.forEach(function (d) {
+            pageIdObj[d["URL"].toLowerCase()] = d["Page Id"];
+
+            if(d["URL"].toLowerCase() === "Miles_Davis".toLowerCase()) {
+              milesDavisPageId = d["Page Id"];
+            } 
+
+            if(d["URL"].toLowerCase() === "Miles_Davis_Discography".toLowerCase()) {
+              milesDavisDiscographyId = d["Page Id"];
+            }
+          })
+
+          cb();
+
+      });
+    },
     getImageData: function (cb) {
       d3.tsv(`./../data/d3-data-obj-image.tsv`, function(error, imageData) {
         if (error) throw error;
 
         imageObj = {};
         imageData.forEach(function (d) {
-          imageObj[d["Page URL"]] = d["image URL"];
+          imageObj[d["Page Id"]] = d["image URL"];
         })
 
         cb();
       });
+    },
+    getAssociateLinks: function(cb) {
+      d3.tsv(`./../data/interconnected.tsv`, function(error, links) {
+        if (error) throw error;
+
+        links.forEach(function(link){
+          var sourceId = pageIdObj[link["Page"].toLowerCase()];
+          var destinationId = pageIdObj[link["Link"].toLowerCase()];
+          var numOccurences = link["Num Occurences"];
+
+          if(typeof sourceId !== "undefined" && typeof destinationId !== "undefined"){
+            if(typeof associatedLinksObj[sourceId] === "undefined"){
+              associatedLinksObj[sourceId] = [];
+            }
+            associatedLinksObj[sourceId].push({link: destinationId, numOccurences: numOccurences});
+
+            associatedLinks.push({
+              source: sourceId,
+              destination: destinationId,
+              numOccurences: numOccurences
+            })
+          }
+        })
+        cb();
+      })
     },
     getSubjects: function (cb) {
       d3.tsv(`./../data/d3-data-obj-subject.tsv`, function(error, subjectData) {
@@ -185,11 +235,11 @@ function loadData(callback){
           }
           subjectObj[subject]++;
 
-          if(typeof pageSubjectObj[d.URL] === "undefined"){
-            pageSubjectObj[d.URL] = [];
+          if(typeof pageSubjectObj[d["Page Id"]] === "undefined"){
+            pageSubjectObj[d["Page Id"]] = [];
           }
 
-          pageSubjectObj[d.URL].push(subject)
+          pageSubjectObj[d["Page Id"]].push(subject)
         })
 
         cb();
@@ -204,11 +254,11 @@ function loadData(callback){
           var artistURL = d.Value.replace(/(.)+\:/, "");
           var artist = artistURL.replace(/[\_|\-]+/g, " ");
 
-          if(typeof pageArtistObj[d.URL] === "undefined"){
-            pageArtistObj[d.URL] = [];
+          if(typeof pageArtistObj[d["Page Id"]] === "undefined"){
+            pageArtistObj[d["Page Id"]] = [];
           }
 
-          pageArtistObj[d.URL].push({
+          pageArtistObj[d["Page Id"]].push({
             value: d.Value,
             name: artist
           });
@@ -217,7 +267,7 @@ function loadData(callback){
             artistOfObj[artistURL] = [];
           }
 
-          artistOfObj[artistURL].push(d.URL);
+          artistOfObj[artistURL].push(d["Page Id"]);
 
         });
 
@@ -242,16 +292,16 @@ function loadData(callback){
               connectionAttr.push(attr)
             }
 
-            if(typeof pageLinkMappingObj[d.URL] === "undefined"){
-              pageLinkMappingObj[d.URL] = {};
+            if(typeof pageLinkMappingObj[d["Page Id"]] === "undefined"){
+              pageLinkMappingObj[d["Page Id"]] = {};
             }
 
-            if(typeof pageLinkMappingObj[d.URL][attr] === "undefined"){
-              pageLinkMappingObj[d.URL][attr] = [];
+            if(typeof pageLinkMappingObj[d["Page Id"]][attr] === "undefined"){
+              pageLinkMappingObj[d["Page Id"]][attr] = [];
             }
 
-            if(pageLinkMappingObj[d.URL][attr].indexOf(d.Value) === -1){
-              pageLinkMappingObj[d.URL][attr].push(d.Value)
+            if(pageLinkMappingObj[d["Page Id"]][attr].indexOf(d.Value) === -1){
+              pageLinkMappingObj[d["Page Id"]][attr].push(d.Value)
             }
           }
 
@@ -284,97 +334,76 @@ function loadData(callback){
         cb();
       });
     },
-    getGenreData: function (cb) {
-        d3.tsv(`./../data/d3-data-obj-genres.tsv`, function(error, genreData) {
-          if (error) throw error;
-          genres = genreData;
+    // getGenreData: function (cb) {
+    //   d3.tsv(`./../data/d3-data-obj-genres.tsv`, function(error, genreData) {
+    //     if (error) throw error;
+    //     genres = genreData;
 
-          genreObj = {};
-          genres.forEach(function (d) {
-            if(typeof genreObj[d.URL] === "undefined"){
-             genreObj[d.URL] = {};
-            }
+    //     genreObj = {};
+    //     genres.forEach(function (d) {
+    //       if(typeof genreObj[d["Page Id"]] === "undefined"){
+    //        genreObj[d["Page Id"]] = {};
+    //       }
 
-            var genreAttr = d.GenreAttr.replace(/(.)+\:/, "");
-            var val = d.Genre.replace(/(.)+\:/, "");
+    //       var genreAttr = d.GenreAttr.replace(/(.)+\:/, "");
+    //       var val = d.Genre.replace(/(.)+\:/, "");
 
-            if(typeof genreObj[d.URL][genreAttr] === "undefined"){
-              genreObj[d.URL][genreAttr] = [];
-            }
-            if(genreObj[d.URL][genreAttr].indexOf(val) === -1){
-              genreObj[d.URL][genreAttr].push(val)
-            }
-          })
+    //       if(typeof genreObj[d["Page Id"]][genreAttr] === "undefined"){
+    //         genreObj[d["Page Id"]][genreAttr] = [];
+    //       }
+    //       if(genreObj[d["Page Id"]][genreAttr].indexOf(val) === -1){
+    //         genreObj[d["Page Id"]][genreAttr].push(val)
+    //       }
+    //     })
 
-          // console.log(popularGenres.length)
-          // console.log(popularGenres)
-          cb();
-        });
-      },
-      // getType: function (cb) {
-      //   d3.tsv(`./../data/d3-data-obj-types.tsv`, function(error, typeData) {
-      //     if (error) throw error;
-      //     types = typeData;
+    //     // console.log(popularGenres.length)
+    //     // console.log(popularGenres)
+    //     cb();
+    //   });
+    // },
+    // getFrom: function (cb) {
+    //   d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
+    //     if (error) throw error;
+    //     froms = fromData;
 
-      //     var typeObj = {};
-      //     types.forEach(function (d) {
-      //       var rdfType = d.Value
-      //                   //.replace(/(.)+\:/, "")
-      //                   .replace(/[\_|\-]+/g, " ").toLowerCase();
-      //       if(typeof typeObj[rdfType] === "undefined"){
-      //        typeObj[rdfType] = 0;
-      //       }
-      //       typeObj[rdfType]++
-      //     })
+    //     locationSubjectObj = {};
+    //     placeObj = {};
+    //     froms.forEach(function (d) {
 
-      //     var popularTypes = Object.keys(typeObj).sort(function (a, b) { return typeObj[b] - typeObj[a] });
-      //     // console.log(popularTypes.length)
-      //     // console.log(popularTypes.map(function (t) { return `${typeObj[t]}\t${t}\n`}).join(""))
+    //       var parts = d.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
 
-      //     cb();
-      //   });
-      // },
-    getFrom: function (cb) {
-      d3.tsv(`./../data/d3-data-obj-from.tsv`, function(error, fromData) {
-        if (error) throw error;
-        froms = fromData;
+    //       if(typeof locationSubjectObj[parts[0]] === "undefined"){
+    //        locationSubjectObj[parts[0]] = [];
+    //       }
+    //       locationSubjectObj[parts[0]].push(d);
 
-        locationSubjectObj = {};
-        placeObj = {};
-        froms.forEach(function (d) {
+    //       var place = parts[1].replace(/(.)+\,/, "").replace(/\_/g, " ").trim();
 
-          var parts = d.Value.replace(/(.)+\:/, "").toLowerCase().split("_from_");
+    //       if(typeof placeObj[place] === "undefined"){
+    //        placeObj[place] = [];
+    //       }
+    //       placeObj[place].push(d);
 
-          if(typeof locationSubjectObj[parts[0]] === "undefined"){
-           locationSubjectObj[parts[0]] = [];
-          }
-          locationSubjectObj[parts[0]].push(d);
+    //       if(typeof pageLocationObj[d["Page Id"]] === "undefined"){
+    //         pageLocationObj[d["Page Id"]] = [];
+    //       }
 
-          var place = parts[1].replace(/(.)+\,/, "").replace(/\_/g, " ").trim();
+    //       if(pageLocationObj[d["Page Id"]].indexOf(place) === -1){
+    //         pageLocationObj[d["Page Id"]].push(place);
 
-          if(typeof placeObj[place] === "undefined"){
-           placeObj[place] = [];
-          }
-          placeObj[place].push(d);
+    //       }
 
-          if(typeof pageLocationObj[d.URL] === "undefined"){
-            pageLocationObj[d.URL] = [];
-          }
+    //     })
 
-          if(pageLocationObj[d.URL].indexOf(place) === -1){
-            pageLocationObj[d.URL].push(place);
+    //     // console.log(locationSubjectObj);
+    //     // console.log(placeObj);
 
-          }
-
-        })
-
-        // console.log(locationSubjectObj);
-        // console.log(placeObj);
-
-        cb();
-      });
-    },
+    //     cb();
+    //   });
+    // },
     getPageData: function (cb) {
+
+
       d3.tsv(`./../data/d3-data-obj.tsv`, function(error, pageData) {
         if (error) throw error;
 
@@ -393,24 +422,32 @@ function loadData(callback){
 
         async.forEach(data, function(d, cb1) {
 
-          d.imageURL = imageObj[d.URL];
-          d.subjects = pageSubjectObj[d.URL];
+          d.imageURL = imageObj[d["Page Id"]];
+          d.subjects = pageSubjectObj[d["Page Id"]];
           d.years = [];
           d.associatedYears = [];
 
+          d.linked_from_miles = (associatedLinksObj[milesDavisPageId].indexOf(d["Page Id"]) !== -1);
 
-          if(typeof pageLinkMappingObj[d.URL] !== "undefined"){
-            d.otherPageLinks = pageLinkMappingObj[d.URL];
+          d.miles_work = (d.miles_work === "1");
+
+          if(associatedLinksObj[milesDavisDiscographyId].indexOf(d["Page Id"]) !== -1){
+            d.miles_work = true;
+          }
+        
+
+          if(typeof pageLinkMappingObj[d["Page Id"]] !== "undefined"){
+            d.otherPageLinks = pageLinkMappingObj[d["Page Id"]];
           }
 
-          if(typeof pageArtistObj[d.URL] !== "undefined"){
-            d.artists = pageArtistObj[d.URL];
+          if(typeof pageArtistObj[d["Page Id"]] !== "undefined"){
+            d.artists = pageArtistObj[d["Page Id"]];
           }
-          if(typeof artistOfObj[d.URL] !== "undefined"){
-            d.artistsOf = artistOfObj[d.URL];
+          if(typeof artistOfObj[d["Page Id"]] !== "undefined"){
+            d.artistsOf = artistOfObj[d["Page Id"]];
           }
-          if(typeof pageLocationObj[d.URL] !== "undefined"){
-            d.locations = pageLocationObj[d.URL]
+          if(typeof pageLocationObj[d["Page Id"]] !== "undefined"){
+            d.locations = pageLocationObj[d["Page Id"]]
           }
 
 
@@ -487,7 +524,7 @@ function loadData(callback){
               }
             }
 
-            mainSubjectObj[d.URL] = d.mainSubjectType;
+            mainSubjectObj[d["Page Id"]] = d.mainSubjectType;
 
             subjectIdentifierCount[d.mainSubjectType]++;
             async.setImmediate(function() { cb1(); });
@@ -495,20 +532,13 @@ function loadData(callback){
 
         }, function() {
 
-          var typeOrder = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"]
+          var typeOrder = ["recording", "musicians", "people", "places", "events"]
           data = data.sort(function (a, b) {
 
-            if(a.mainSubjectType !== b.mainSubjectType){
-              return typeOrder.indexOf(a.mainSubjectType) - typeOrder.indexOf(b.mainSubjectType);
+            if(a.subject !== b.subject){
+              return typeOrder.indexOf(a.subject) - typeOrder.indexOf(b.subject);
             } else {
-              if(a.mainSubjectType === "works"){
-                if(typeof a.artists === "undefined" && typeof b.artists !== "undefined"){
-                  return 1;
-                }
-                if(typeof b.artists === "undefined" && typeof a.artists !== "undefined"){
-                  return -1;
-                }
-              }
+              
               return parseInt(b.PageViews) - parseInt(a.PageViews);
             }
 
@@ -547,10 +577,10 @@ function loadData(callback){
         });
 
         mentions.forEach(function (d) {
-          if(typeof mentionsObj[d.URL] === "undefined"){
-            mentionsObj[d.URL] = [];
+          if(typeof mentionsObj[d["Page Id"]] === "undefined"){
+            mentionsObj[d["Page Id"]] = [];
           }
-          mentionsObj[d.URL].push(d);
+          mentionsObj[d["Page Id"]].push(d);
 
           var sectionHeader = d.sectionHeader.replace(/[^a-z|A-Z|0-9|\s]/gi, "").toLowerCase();
           if(sectionHeader.trim().length === 0) {
@@ -561,11 +591,11 @@ function loadData(callback){
             mentionSectionObj[sectionHeader] = [];
           }
 
-          if(mentionSectionObj[sectionHeader].indexOf(d.URL) === -1){
-            mentionSectionObj[sectionHeader].push(d.URL);
+          if(mentionSectionObj[sectionHeader].indexOf(d["Page Id"]) === -1){
+            mentionSectionObj[sectionHeader].push(d["Page Id"]);
           }
 
-          var mainSubjectType = mainSubjectObj[d.URL];
+          var mainSubjectType = mainSubjectObj[d["Page Id"]];
 
           if(typeof subjectMentionMappingObj[mainSubjectType] !== "undefined"){
             if(subjectMentionMappingObj[mainSubjectType].indexOf(sectionHeader) === -1 ){
@@ -596,11 +626,10 @@ function loadData(callback){
         cb();
       });
     },
+
     done: function () {
 
-
     	callback();
-
 
     }
   })

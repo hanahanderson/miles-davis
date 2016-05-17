@@ -1,6 +1,6 @@
 
 var sectionHeaderNames = [];
-var entityTypes = ["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
+var entityTypes = []//["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
 var visScrollEvents = [];
 
 var sectionScrollProgress = 0;
@@ -211,18 +211,18 @@ function drawCanvas() {
 	    		context.fillStyle = "whitesmoke";
 
 	    	} else {
-	    		context.fillStyle =	subjectColors[d.mainSubjectType];
+	    		context.fillStyle =	subjectColors[d.subject];
 	    		if(layoutMode === "bubble"){
     				context.fillStyle = "white";
     			}
 	    		if(scrollEntityType !== null){
 						context.fillStyle =
-				    	(scrollEntityType === d.mainSubjectType ?
-				    		subjectColors[d.mainSubjectType] :
+				    	(scrollEntityType === d.subject ?
+				    		subjectColors[d.subject] :
 				    		"rgba(255,255,255,0.4)");
 	    		}
 	    		if(scrollSectionHeader !== null) {
-	    			if(mentionSectionObj[scrollSectionHeader].indexOf(d.URL) !== -1){
+	    			if(mentionSectionObj[scrollSectionHeader].indexOf(d["Page Id"]) !== -1){
 	    				context.fillStyle = "white";
 	    			} else {
 	    				context.fillStyle = "rgba(255,255,255,0.4)";
@@ -252,7 +252,7 @@ function drawDataBinding() {
 		var dataContainer = dataContainers[x];
 
 		var dataBinding = dataContainer.selectAll("custom.rect")
-	    .data(data, function(d) { return d.URL; });
+	    .data(data, function(d) { return d["Page Id"]; });
 
 		dataBinding.enter()
 	    .append("custom")
@@ -356,9 +356,9 @@ function showTooltip(d) {
 	}
 
 	var mentionsHTML = "";
-	if(typeof mentionsObj[d.URL] !== "undefined"){
+	if(typeof mentionsObj[d["Page Id"]] !== "undefined"){
 		var mentionsBySection = {};
-		mentionsObj[d.URL].forEach(function(m) {
+		mentionsObj[d["Page Id"]].forEach(function(m) {
 			if(typeof mentionsBySection[m.sectionHeader] === "undefined"){
 				mentionsBySection[m.sectionHeader] = [];
 			}
@@ -627,6 +627,7 @@ $(document).ready(function() {
 
 	loadData(function() {
 
+		entityTypes = d3.set(data.map((d) => { return d.subject })).values();
 
 		// var voronoi = d3.geom.voronoi()
 		// 	.x(function(d, i) { return pictureCoords[i][0]; })
@@ -682,10 +683,10 @@ $(document).ready(function() {
 		data = packData.map(function(d, i){
 
 			if(typeof thisType === "undefined"){
-				thisType = d.mainSubjectType;
+				thisType = d.subject;
 			}
 
-			if(d.mainSubjectType !== thisType){
+			if(d.subject !== thisType){
 
 				maxYearsByType = d3.max(Object.keys(entityTypeYears).map(function(y) { return entityTypeYears[y] }));
 
@@ -698,7 +699,7 @@ $(document).ready(function() {
 
 				maxYearBase += maxYearsByType;
 
-			  thisType = d.mainSubjectType;
+			  thisType = d.subject;
 
 				entityTypeYears = {};
 			}
@@ -779,19 +780,19 @@ $(document).ready(function() {
 
   	for(var x in entityTypes){
 
-		  var typeCount = data.filter(function(d){ return d.mainSubjectType === entityTypes[x] }).length;
+		  var typeCount = data.filter(function(d){ return d.subject === entityTypes[x] }).length;
 
-  		// $(".first-chart-prose").append(
-			//   '<div class="first-chart-text-section">'
-			// 		+ '<h1 class="first-chart-section-head ' + entityTypes[x] + '">' + entityTypes[x] + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
-			// 		+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
-			// 	+ '</div>'
-  		// )
-			//
-  		// $(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
-	  	// 													+ "' data-entity-type='"+ entityTypes[x] + "'>"
-	  	// 														+ entityTypes[x]
-	  	// 													+ "</a>");
+  		$(".first-chart-prose").append(
+			  '<div class="first-chart-text-section">'
+					+ '<h1 class="first-chart-section-head ' + entityTypes[x] + '">' + entityTypes[x] + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
+					+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
+				+ '</div>'
+  		)
+			
+  		$(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
+	  														+ "' data-entity-type='"+ entityTypes[x] + "'>"
+	  															+ entityTypes[x]
+	  														+ "</a>");
   	}
 
   	$(".first-chart-filter").on("click", function(e){
@@ -932,7 +933,7 @@ $(document).ready(function() {
 			var objDesc = baseDataBind.append("p")
 				.attr("class","third-section-item-text")
 				.text(function(d){
-					return mentionsObj[d.URL][0]["quote"].slice(0,180);
+					return mentionsObj[d["Page Id"]][0]["quote"].slice(0,180);
 				})
 				;
 

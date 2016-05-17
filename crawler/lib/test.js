@@ -87,73 +87,73 @@ function getSubject(URL, callback) {
 
 }
 
+var urlList = [];
+var urlIDMap = {};
 
 async.series({
-	subjects: (cb) => {
-    fs.readFile(`${__dirname}/../../data/d3-data-obj-subject.tsv`, "utf8", (error, rows) => {
-      if (error) throw error;
+	// subjects: (cb) => {
+ //    fs.readFile(`${__dirname}/../../data/d3-data-obj-subject.tsv`, "utf8", (error, rows) => {
+ //      if (error) throw error;
 
-      async.forEach(rows.split("\n").slice(1), (row, cb1) => {
+ //      async.forEach(rows.split("\n").slice(1), (row, cb1) => {
 
-      	if(row.length > 0){
-      		var parts = row.split("\t");
-	      	var URL = parts[0];
-	        var subject = parts[3]
-	                    .replace(/(.)+\:/, "")
-	                    .replace(/[\_|\-]+/g, " ").toLowerCase();
+ //      	if(row.length > 0){
+ //      		var parts = row.split("\t");
+	//       	var URL = parts[0];
+	//         var subject = parts[3]
+	//                     .replace(/(.)+\:/, "")
+	//                     .replace(/[\_|\-]+/g, " ").toLowerCase();
 	       
 
-	        if(typeof pageSubjectObj[URL] === "undefined"){
-	          pageSubjectObj[URL] = [];
-	        }
+	//         if(typeof pageSubjectObj[URL] === "undefined"){
+	//           pageSubjectObj[URL] = [];
+	//         }
 
-	        pageSubjectObj[URL].push(subject)
-	       }
+	//         pageSubjectObj[URL].push(subject)
+	//        }
 
-	      async.setImmediate(() => { cb1(); });
+	//       async.setImmediate(() => { cb1(); });
 
-      }, () => {
-      	cb();
+ //      }, () => {
+ //      	cb();
 
-      })
+ //      })
 
-    });
-	},
-	mentions: (cb) => {
-		fs.readFile(`${__dirname}/../../data/d3-data-obj-mentions.tsv`, "utf8", (error, rows) => {
-      if (error) throw error;
+ //    });
+	// },
+	// mentions: (cb) => {
+	// 	fs.readFile(`${__dirname}/../../data/d3-data-obj-mentions.tsv`, "utf8", (error, rows) => {
+ //      if (error) throw error;
     	
-    	async.forEach(rows.split("\n").slice(1), (row, cb1) => {
+ //    	async.forEach(rows.split("\n").slice(1), (row, cb1) => {
 
-    		if(row.length > 0){
-      		var parts = row.split("\t");
-	      	var URL = parts[0];
-	      	var sectionIndex = parts[4];
+ //    		if(row.length > 0){
+ //      		var parts = row.split("\t");
+	//       	var URL = parts[0];
+	//       	var sectionIndex = parts[4];
 
-	        var sectionHeader = parts[2].replace(/[^a-z|A-Z|0-9|\s]/gi, "").toLowerCase();
-	        if(sectionHeader.trim().length === 0) {
-	          sectionHeader = "first paragraph";
-	          sectionIndex = 0;
-	        }
+	//         var sectionHeader = parts[2].replace(/[^a-z|A-Z|0-9|\s]/gi, "").toLowerCase();
+	//         if(sectionHeader.trim().length === 0) {
+	//           sectionHeader = "first paragraph";
+	//           sectionIndex = 0;
+	//         }
 
-	        if(typeof mentionsObj[URL] === "undefined"){
-	          mentionsObj[URL] = [];
-	        }
+	//         if(typeof mentionsObj[URL] === "undefined"){
+	//           mentionsObj[URL] = [];
+	//         }
 
-	        mentionsObj[URL].push({sectionHeader: sectionHeader, sectionIndex: sectionIndex});
-	      }
+	//         mentionsObj[URL].push({sectionHeader: sectionHeader, sectionIndex: sectionIndex});
+	//       }
 
-	      async.setImmediate(() => { cb1(); });
+	//       async.setImmediate(() => { cb1(); });
 
-      }, () => {
-      	cb();
+ //      }, () => {
+ //      	cb();
 
-      });
+ //      });
 
-    });
-
-
-	},
+ //    });
+	// },
 	data: (cb) => {
 		fs.readFile(`${__dirname}/../../data/d3-data-obj.tsv`, "utf8", (error, rows) => {
       if (error) throw error;
@@ -169,58 +169,131 @@ async.series({
       		var entityType = parts[2];
       		var pageViews = parts[3];
 
-      		getSubject(URL, function(subjectIdentifiers){
+      	// 	getSubject(URL, function(subjectIdentifiers){
             
-            var mostIdentifiers = Object.keys(subjectIdentifiers)
-                                    .filter(function(sub){
-                                      return subjectIdentifiers[sub].length > 0;
-                                    }).sort((a, b) => { return subjectIdentifiers[b].length - subjectIdentifiers[a].length});
+       //      var mostIdentifiers = Object.keys(subjectIdentifiers)
+       //                              .filter(function(sub){
+       //                                return subjectIdentifiers[sub].length > 0;
+       //                              }).sort((a, b) => { return subjectIdentifiers[b].length - subjectIdentifiers[a].length});
 
-            var mainSubjectType = "other";
-            if(mostIdentifiers.length > 0){
+       //      var mainSubjectType = "other";
+       //      if(mostIdentifiers.length > 0){
 
-              mainSubjectType = mostIdentifiers[0];
+       //        mainSubjectType = mostIdentifiers[0];
 
-              if(mainSubjectType === "people" && subjectIdentifiers["musicians"].length > 0){
-                mainSubjectType = "musicians";
-              }
+       //        if(mainSubjectType === "people" && subjectIdentifiers["musicians"].length > 0){
+       //          mainSubjectType = "musicians";
+       //        }
 
-            }
+       //      }
 
-            for(var x in subjectIdentifiers){
-              if(x.match(entityType, "gi")){
-                mainSubjectType = x;
-              }
-            }
+       //      for(var x in subjectIdentifiers){
+       //        if(x.match(entityType, "gi")){
+       //          mainSubjectType = x;
+       //        }
+       //      }
 
-            async.forEachSeries(mentionsObj[URL], (mention, cb2) => {
+       //      async.forEachSeries(mentionsObj[URL], (mention, cb2) => {
 								
-							outputRow += `${URL}\t${name}\t${mainSubjectType}\t${mention.sectionHeader}\t${mention.sectionIndex}\t${pageViews}\n`;
-							async.setImmediate(function() { cb2(); });
+							// outputRow += `${URL}\t${name}\t${mainSubjectType}\t${mention.sectionHeader}\t${mention.sectionIndex}\t${pageViews}\n`;
+							// async.setImmediate(function() { cb2(); });
 
-            }, () => {
-            	async.setImmediate(function() { cb1(); });
-            })
-          });
+       //      }, () => {
+       //      	async.setImmediate(function() { cb1(); });
+       //      })
+       //    });
+
+          if(urlList.indexOf(URL) === -1) {
+            urlList.push(URL)
+          }
+          async.setImmediate(() => { cb1(); });
 
       	} else {
-      		cb1();
+      		async.setImmediate(() => { cb1(); });
       	}
 
       }, () => {
 
-      	fs.writeFile(`${__dirname}/../../data/google-docs-data.tsv`, outputRow);
-      	cb();
-      });
 
+          urlList = urlList.sort((a,b) => { 
+            if(a.toLowerCase() < b.toLowerCase()){ 
+              return -1; 
+            } else if(b.toLowerCase() < a.toLowerCase()){ 
+              return 1; 
+            } else {
+              return 0;
+            }
+          });
+
+          var pageIdRows = "Page Id\tURL\n";
+
+          var i = 0;
+          async.forEach(urlList, (u, cb2) => { 
+            pageIdRows += `page-${i}\t${u}\n`;
+            urlIDMap[u.toLowerCase()] = `page-${i}`;
+            i++;
+            async.setImmediate(() => { cb2(); });
+          }, () => {
+            fs.writeFile(`${__dirname}/../../data/page-ids.tsv`, pageIdRows);
+          cb();
+          })
+          
+         //fs.writeFile(`${__dirname}/../../data/google-docs-data.tsv`, outputRow);
+      });
 
     });
 	},
+  readRemapped: (cb) => {
+
+    fs.readFile(`${__dirname}/../../data/re-mapped-data.tsv`, "utf8", (error, rows) => {
+      if (error) throw error;
+        
+      var outputRows = "";
+
+      var index = 0;
+      async.forEachSeries(rows.split("\n"), (row, cb1) => { 
+
+        if(row.length > 0){
+          if(index === 0){
+            row = "Page Id\t" + row;
+          } else {
+            var parts = row.split("\t");
+            var URL = parts[0];
+
+            var pageID = urlIDMap[URL.toLowerCase()];
+
+            row = pageID + "\t" + row;
+          }
+          outputRows += row + "\n";
+        }
+        index++;
+        async.setImmediate(() => { cb1() });
+      }, () => {
+         fs.writeFile(`${__dirname}/../../data/re-mapped-data-id.tsv`, outputRows);
+        cb();
+      });
+    });
+
+  },
 	done: () => {
 
 		console.log("done")
 	}
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
