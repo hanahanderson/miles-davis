@@ -156,7 +156,7 @@ body {
   font-weight: bolder;
 }
 
-body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 417px);}
+body{he`: 5;background: linear-gradient(to bottom, #13051D 359px,#111 487px);}
 
 .loading-page {
 	min-height: 190px;
@@ -171,9 +171,10 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	flex-direction: column;
 	-webkit-justify-content: center;
 	justify-content: center;
-	margin-top: -30px;
+	margin-top: -50px;
 	z-index: 1000000;
 	position: relative;
+	padding-top: 40px;
 }
 
 .loading-page center {
@@ -190,6 +191,8 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	letter-spacing: 0px;
 	max-width: 750px;
 	margin: 0 auto;
+	position: relative;
+	z-index: 10;
 }
 .loading-page h4 {
 	text-transform: uppercase;
@@ -199,6 +202,9 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	font-weight: 600;
 	letter-spacing: 2px;
 	font-size: 18px;
+	position: relative;
+	z-index: 1000000;
+	margin-top: 20px;
 }
 .loading-page p {
 	color: white;
@@ -214,6 +220,7 @@ body{he`: 5;background: linear-gradient(to bottom, rgb(23, 24, 29) 169px,#111 41
 	font-size: 19px;
 	/* text-transform: uppercase; */
 	letter-spacing: 1px;
+	z-index: 1000000000;
 }
 
 #vis-1, #vis-2 {
@@ -405,10 +412,12 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     left: 0px;
     right: 0px;
     width: 100%;
-    top: 0px;
-    height: 100%;
-    background: linear-gradient(rgba(0, 0, 0,0) 339px,rgb(17, 17, 17) 417px);
+    top: -40px;
+    height: 410px;
+    background: linear-gradient(rgba(0, 0, 0,0) 0px,rgb(17, 17, 17) 410px);
     pointer-events: none;
+    z-index: 10;
+    position: absolute;
 }
 
 
@@ -481,8 +490,8 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 
 .opening-prose {
     color: white;
-    font-weight: 400;
-    font-size: 19px;
+    font-weight: 300;
+    font-size: 21px;
     line-height: 1.5em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -713,7 +722,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 
 .header .include {
     fill: rgb(255, 38, 52);
-    fill: rgb(247, 244, 89);
+    fill: white;
 }
 
 .logo-svg {
@@ -761,3 +770,36 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     position: fixed;
     z-index:10;
     border-radius: 100%;
+}
+
+
+.star-filler-two {
+    position: absolute;
+    top: -40px;
+    left: 0px;
+    width: 100%;
+    height: 410px;
+    z-index: 0;
+}
+
+
+.first-chart-prose-section {
+    width: 80%;
+}
+
+.first-chart-prose-title {
+    color: white;
+    font-weight: 600;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 8px;
+    letter-spacing: 4px;
+}
+
+.first-chart-prose-body {
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

@@ -491,7 +491,7 @@ function drawIntroPicture() {
 			.attr("height", "100%")
 			.append("g")
 			.selectAll("circle")
-			.data(d3.range(300))
+			.data(d3.range(600))
 			.enter()
 			.append("circle")
 			.attr("fill", function(d,i){
@@ -513,17 +513,17 @@ function drawIntroPicture() {
 			.attr("height", "100%")
 			.append("g")
 			.selectAll("circle")
-			.data(d3.range(600))
+			.data(d3.range(1500))
 			.enter()
 			.append("circle")
 			.attr("fill", function(d,i){
 				return "white"
 			})
 			.attr("cx", function(d){
-				return Math.ceil(Math.random()*100)+"%";
+				return Math.random()*100+"%";
 			})
 			.attr("cy",function(d){
-				return Math.ceil(Math.random()*100)+"%";
+				return Math.random()*100+"%";
 			})
 			.attr("r",function(d){
 				return Math.random();
@@ -781,17 +781,17 @@ $(document).ready(function() {
 
 		  var typeCount = data.filter(function(d){ return d.mainSubjectType === entityTypes[x] }).length;
 
-  		$(".first-chart-prose").append(
-			  '<div class="first-chart-text-section">'
-					+ '<h1 class="first-chart-section-head ' + entityTypes[x] + '">' + entityTypes[x] + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
-					+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
-				+ '</div>'
-  		)
-
-  		$(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
-	  														+ "' data-entity-type='"+ entityTypes[x] + "'>"
-	  															+ entityTypes[x]
-	  														+ "</a>");
+  		// $(".first-chart-prose").append(
+			//   '<div class="first-chart-text-section">'
+			// 		+ '<h1 class="first-chart-section-head ' + entityTypes[x] + '">' + entityTypes[x] + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
+			// 		+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
+			// 	+ '</div>'
+  		// )
+			//
+  		// $(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
+	  	// 													+ "' data-entity-type='"+ entityTypes[x] + "'>"
+	  	// 														+ entityTypes[x]
+	  	// 													+ "</a>");
   	}
 
   	$(".first-chart-filter").on("click", function(e){
