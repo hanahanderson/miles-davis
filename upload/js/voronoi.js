@@ -34,7 +34,14 @@ var PageViewScale = d3.scale.linear().domain([1,4062937]).range([1,4000]).clamp(
 
 var bubble = d3.layout.pack()
   .size([500, 500])
-	.value(function(d) { return PageViewScale(parseInt(d.PageViews)); })
+	.value(function(d,i) {
+		if(i == 0){
+			console.log(d);
+		}
+		return PageViewScale(parseInt(d.PageViews));
+	})
+	// .value(function(d) { return 10;})
+	// .sort(null)
   .sort(d3_layout_packSort)
   .padding(10)
   ;
@@ -53,45 +60,37 @@ var chart1 = base.append("canvas")
 		.style("position", "absolute")
 		;
 
-
 var tooltip = base.append("div")
-	      .attr("class", "tooltip-container")
-	      .style("opacity", 0)
+  .attr("class", "tooltip-container")
+  .style("opacity", 0)
 
 var clips1 = base.append("svg")
-							.style("position", "absolute")
-							.style("top", "0px")
-								.append("svg:g").attr("id", "point-clips-1");
+	.style("position", "absolute")
+	.style("top", "0px")
+	.append("svg:g").attr("id", "point-clips-1");
 
-
-
-
-var base2 = d3.select("#vis-2");
-
-base2.style("width", bubbleWidth + "px")
-		.style("height", bubbleHeight + "px")
+var base2 = d3.select("#vis-2")
+	.style("width", bubbleWidth + "px")
+	.style("height", bubbleHeight + "px")
+	;
 
 var chart2 = base2.append("canvas")
-		.style("width", chartWidth + 'px')
-	  .style("height", chartHeight + 'px')
-	  .attr("width", chartWidth)
-	  .attr("height", chartHeight)
-		.style("position", "absolute")
-		;
-
+	.style("width", chartWidth + 'px')
+  .style("height", chartHeight + 'px')
+  .attr("width", chartWidth)
+  .attr("height", chartHeight)
+	.style("position", "absolute")
+	;
 
 var tooltip2 = base2.append("div")
-	      .attr("class", "tooltip-container")
-	      .style("opacity", 0)
+  .attr("class", "tooltip-container")
+  .style("opacity", 0)
 
 var clips2 = base2.append("svg")
-							.style("position", "absolute")
-							.style("top", "0px")
-								.append("svg:g").attr("id", "point-clips-2");
-
-
-
-
+	.style("position", "absolute")
+	.style("top", "0px")
+	.append("svg:g").attr("id", "point-clips-2")
+	;
 
 var context1 = chart1.node().getContext("2d");
 var context2 = chart2.node().getContext("2d");
@@ -286,7 +285,7 @@ function updateVoronoi () {
 		} else if (v === 1){
 
 			layoutMode = "decade";
-		
+
 		}
 
 		clip.selectAll("clipPath")
@@ -300,7 +299,7 @@ function updateVoronoi () {
 
 
 	  $($(".vis-container")[v]).data("layout-mode", layoutMode);
-	  
+
 
 	  var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 15;
 	  var yMax = d3.max(data.map(function(d) { return d.layout[layoutMode].y })) + 15;
@@ -492,7 +491,7 @@ function drawIntroPicture() {
 			.attr("height", "100%")
 			.append("g")
 			.selectAll("circle")
-			.data(d3.range(300))
+			.data(d3.range(600))
 			.enter()
 			.append("circle")
 			.attr("fill", function(d,i){
@@ -503,6 +502,28 @@ function drawIntroPicture() {
 			})
 			.attr("cy",function(d){
 				return Math.ceil(Math.random()*100)+"%";
+			})
+			.attr("r",function(d){
+				return Math.random();
+			})
+			;
+
+		d3.selectAll(".star-filler-two").append("svg")
+			.attr("width", "100%")
+			.attr("height", "100%")
+			.append("g")
+			.selectAll("circle")
+			.data(d3.range(1500))
+			.enter()
+			.append("circle")
+			.attr("fill", function(d,i){
+				return "white"
+			})
+			.attr("cx", function(d){
+				return Math.random()*100+"%";
+			})
+			.attr("cy",function(d){
+				return Math.random()*100+"%";
 			})
 			.attr("r",function(d){
 				return Math.random();
@@ -636,6 +657,7 @@ $(document).ready(function() {
 		};
 		var packData = bubble.nodes(root);
 		packData.splice(0, 1);
+
 		// var node = svgBubble.selectAll(".node")
   //     .data(packData)
   //   	.enter()
@@ -656,6 +678,7 @@ $(document).ready(function() {
   	var entityTypeYears = {};
 
   	var thisType;
+
 		data = packData.map(function(d, i){
 
 			if(typeof thisType === "undefined"){
@@ -665,14 +688,15 @@ $(document).ready(function() {
 			if(d.mainSubjectType !== thisType){
 
 				maxYearsByType = d3.max(Object.keys(entityTypeYears).map(function(y) { return entityTypeYears[y] }));
+
 				decadeTypeLabels.push({
 					label: thisType,
 					maxYears: maxYearsByType,
 					baseLine: maxYearBase
-				});
+				})
+				;
 
 				maxYearBase += maxYearsByType;
-
 
 			  thisType = d.mainSubjectType;
 
@@ -757,17 +781,17 @@ $(document).ready(function() {
 
 		  var typeCount = data.filter(function(d){ return d.mainSubjectType === entityTypes[x] }).length;
 
-  		$(".first-chart-prose").append(
-			  '<div class="first-chart-text-section">'
-					+ '<h1 class="first-chart-section-head ' + entityTypes[x] + '">' + entityTypes[x] + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
-					+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
-				+ '</div>'
-  		)
-
-  		$(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
-	  														+ "' data-entity-type='"+ entityTypes[x] + "'>"
-	  															+ entityTypes[x]
-	  														+ "</a>");
+  		// $(".first-chart-prose").append(
+			//   '<div class="first-chart-text-section">'
+			// 		+ '<h1 class="first-chart-section-head ' + entityTypes[x] + '">' + entityTypes[x] + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
+			// 		+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
+			// 	+ '</div>'
+  		// )
+			//
+  		// $(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter " + entityTypes[x]
+	  	// 													+ "' data-entity-type='"+ entityTypes[x] + "'>"
+	  	// 														+ entityTypes[x]
+	  	// 													+ "</a>");
   	}
 
   	$(".first-chart-filter").on("click", function(e){
@@ -786,15 +810,14 @@ $(document).ready(function() {
 
   	});
 
-
-  	sectionHeaderNames = Object.keys(mentionSectionObj).filter(function(m) { 
-  		return mentionSectionObj[m].length > 3 
+  	sectionHeaderNames = Object.keys(mentionSectionObj).filter(function(m) {
+  		return mentionSectionObj[m].length > 3
   	}).sort(function(a, b) { return mentionSectionObj[b].length - mentionSectionObj[a].length });
 
   	for(var x in sectionHeaderNames) {
 			$(".second-chart-container .filter-items").append("<a href='#' class='second-chart-filter " + sectionHeaderNames[x].replace(/ /g, "-")
 													+ "' data-section-header='"+ sectionHeaderNames[x] + "'>"
-														+ sectionHeaderNames[x] 
+														+ sectionHeaderNames[x]
 													+ "</a>");
   	}
 
@@ -890,7 +913,7 @@ $(document).ready(function() {
 					var imageURL = "";
 
 					if(d.imageURL !== null && typeof d.imageURL !== "undefined" && d.imageURL !== "undefined"){
-						imageURL = d.imageURL;	
+						imageURL = d.imageURL;
 					}
 					return `url("http:${imageURL}")`;
 				})
