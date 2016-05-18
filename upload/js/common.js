@@ -177,7 +177,7 @@ function loadData(callback){
 
             if(d["URL"].toLowerCase() === "Miles_Davis".toLowerCase()) {
               milesDavisPageId = d["Page Id"];
-            } 
+            }
 
             if(d["URL"].toLowerCase() === "Miles_Davis_Discography".toLowerCase()) {
               milesDavisDiscographyId = d["Page Id"];
@@ -446,7 +446,7 @@ function loadData(callback){
           if(pagesLinkedFromDiscography.indexOf(d["Page Id"]) !== -1){
             d.miles_work = true;
           }
-        
+
 
           if(typeof pageLinkMappingObj[d["Page Id"]] !== "undefined"){
             d.otherPageLinks = pageLinkMappingObj[d["Page Id"]];
@@ -550,7 +550,7 @@ function loadData(callback){
             if(a.subject !== b.subject){
               return typeOrder.indexOf(a.subject) - typeOrder.indexOf(b.subject);
             } else {
-              
+
               return parseInt(b.PageViews) - parseInt(a.PageViews);
             }
 

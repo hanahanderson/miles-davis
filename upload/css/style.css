@@ -181,7 +181,7 @@ body{he`: 5;background: linear-gradient(to bottom, #13051D 359px,#111 487px);}
 }
 
 .loading-page h1 {
-	font-size: 178px;
+	font-size: 108px;
 	font-weight: 600;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -189,26 +189,28 @@ body{he`: 5;background: linear-gradient(to bottom, #13051D 359px,#111 487px);}
 	line-height: .9em;
 	text-transform: uppercase;
 	letter-spacing: 0px;
-	max-width: 750px;
+	max-width: 470px;
 	margin: 0 auto;
 	position: relative;
 	z-index: 10;
+	margin-bottom: 30px;
 }
 .loading-page h4 {
 	text-transform: uppercase;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-align: center;
-	font-weight: 600;
+	font-weight: 500;
 	letter-spacing: 2px;
 	font-size: 18px;
 	position: relative;
 	z-index: 1000000;
 	margin-top: 20px;
+	margin-bottom: 10px;
 }
 .loading-page p {
 	color: white;
-	width: 440px;
+	width: 370px;
 	text-align: center;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -217,23 +219,19 @@ body{he`: 5;background: linear-gradient(to bottom, #13051D 359px,#111 487px);}
 	margin-top: 4px;
 	line-height: 1.7em;
 	font-weight: 500;
-	font-size: 19px;
+	font-size: 18px;
 	/* text-transform: uppercase; */
-	letter-spacing: 1px;
 	z-index: 1000000000;
 }
 
 #vis-1, #vis-2 {
-	margin: 0 auto;
-	position: relative;
-	top: 0px;
+	/* margin: 0 auto; */
 	width: 100%;
-	left: 0px;
-	right: 0px;
-	margin: 0 auto;
-	-webkit-flex-grow: 1;
-	flex-grow: 1;
-	height: 100%;
+	/* margin: 0 auto; */
+	/* -webkit-flex-grow: 1; */
+	/* flex-grow: 0; */
+	height: 500px;
+	width: 500px;
 }
 
 
@@ -430,24 +428,29 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     -moz-osx-font-smoothing: grayscale;
     width: 100%;
 }
-.chart-title{text-transform: uppercase;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;text-align: center;font-weight: 500;letter-spacing: 2px;margin-bottom: 13px;font-size: 22px;color: white;}
+.chart-title{-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;text-align: left;font-weight: 700;margin-bottom: 4px;font-size: 13px;color: white;text-transform: uppercase;letter-spacing: 1.6px;}
 
 
 .chart-title-container {
-    margin-top: 130px;
-    margin-bottom: 90px;
 }
 
 .chart-title-sub {
     color: white;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    text-align: center;
+    text-align: left;
     margin-top: 3px;
+    width: 400px;
+    margin: 0px;
+    line-height: 31px;
+    text-align: left;
+    font-size: 22px;
+    font-weight: 500;
 }
 
 .first-chart-prose {
-    width: 500px;
+    width: 400px;
+    margin-left: 40px;
 }
 
 .first-chart-container {
@@ -456,6 +459,9 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     display: -webkit-flex;
     display: flex;
     position: relative;
+    -webkit-justify-content: center;
+    justify-content: center;
+    margin-bottom: 200px;
 }
 
 #vis-1 .voronoi-svg {
@@ -464,14 +470,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 }
 
 
-.first-chart-section-head {
-    font-size: 22px;
-    color: white;
-    font-weight: 300;
-    margin-bottom: 10px;
-    text-transform: capitalize;
-    letter-spacing: 1px;
-}
+.first-chart-section-head {color: white;}
 
 .first-chart-section-text {
     color: white;
@@ -490,43 +489,44 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 
 .opening-prose {
     color: white;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 21px;
     line-height: 1.5em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    margin-bottom: 40px;
 }
 
 .opening-prose-container {
-    width: 630px;
+    width: 700px;
     margin: 0 auto;
     margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 .first-chart-filter {
-    color: white;
+    color: grey;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 13px;
-    padding-left: 11px;
     padding-right: 11px;
+    pointer-events: all;
+    cursor: pointer;
+    cursor: hand;
 }
 
 .first-chart-filters {
-    position: absolute;
-    bottom: -58px;
-    left: 0px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
     -webkit-justify-content: space-around;
     justify-content: space-around;
-    width: 80%;
     margin: 0 auto;
-    right: 0px;
     -webkit-flex-wrap: warp;
     flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .first-chart-filter-spacer {
@@ -542,28 +542,20 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     margin-bottom: 5px;
 }
 
-.second-chart-container {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    min-height: 1500px;
-}
+.second-chart-container {display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;position: relative;-webkit-justify-content: center;justify-content: center;margin-bottom: 100px;}
 
 .filter-items {
     display: -webkit-box;
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
-    -webkit-justify-content: middle;
+    -webkit-justify-content: flex-start;
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
-.second-chart-prose {
-    width: 400px;
-}
+.second-chart-prose {width: 400px;margin-left: 40px;}
 
 #vis-3 {
     width: 100%;
@@ -680,20 +672,17 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 }
 
 .second-chart-filters {
-    position: absolute;
-    top: -90px;
-    right: 0px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
     -webkit-justify-content: space-around;
     justify-content: space-around;
-    width: 93%;
+    width: 100%;
     margin: 0 auto;
-    right: 0px;
     -webkit-flex-wrap: warp;
     flex-wrap: wrap;
+    height: 0px;
 }
 
 .filter-items-section {
@@ -744,7 +733,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 
 .header-sub-one {}
 
-.header-sub-one {margin: 0 auto;color: #737373;font-size: 11px;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;font-weight: 600;text-align: center;top: 0px;position: absolute;left: 4px;top: 19px;background-color: #111;z-index: 1000;}
+.header-sub-one {margin: 0 auto;color: white;font-size: 11px;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;font-weight: 600;text-align: center;top: 0px;position: absolute;left: 4px;top: 19px;background-color: #111;z-index: 1000;}
 
 .header-sub-two {
     margin: 0 auto;
@@ -757,7 +746,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     left: 138px;
     top: 19px;
     position: absolute;
-    color: #737373;
+    color: white;
     font-size: 11px;
     background-color: #111;
     z-index: 1000;
@@ -784,7 +773,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
 
 
 .first-chart-prose-section {
-    width: 80%;
+    max-width: 350px;
 }
 
 .first-chart-prose-title {
@@ -803,3 +792,92 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+.node {
+    background: white;
+}
+
+.node-first-chart {
+    background-color: white;
+    border-radius: 50%;
+}
+
+.first-chart-data {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    -moz-perspective: 1000;
+    -ms-perspective: 1000;
+    perspective: 1000;
+}
+
+.second-chart-data {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-perspective: 1000;
+    -moz-perspective: 1000;
+    -ms-perspective: 1000;
+    perspective: 1000;
+}
+
+.node-second-chart {
+    position: absolute;
+    border-radius: 50%;
+    background: white;
+}
+
+.second-chart-data {}
+
+.first-chart-filter:hover {
+    text-decoration: underline;
+}
+
+.filtered-recording .recording{
+	background-color:red;
+}
+
+
+.second-chart-prose-body {
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 14px;
+}
+
+.tooltip-container {
+    height: 100px;
+    position: absolute;
+    height: auto;
+    padding: 7px;
+    -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.10);
+    -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+    box-shadow: 2px 2px 10px #333;
+    pointer-events: auto;
+    text-align: left;
+    background-color: #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    width: 300;
+    z-index: 1000000000000;
+    font-size: 14px;
+    font-weight: 100;
+    width: 300px;
