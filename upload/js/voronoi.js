@@ -35,10 +35,10 @@ function d3_layout_packSort(a, b) {
 	// var bVal = 0;
 	// if(typeof associatedLinksToObj[a["Page Id"]] !== "undefined"){
 	// 	aVal = associatedLinksToObj[a["Page Id"]].length;
-	// } 
+	// }
 	// if(typeof associatedLinksToObj[b["Page Id"]] !== "undefined"){
 	// 	bVal = associatedLinksToObj[b["Page Id"]].length;
-	// } 
+	// }
  // 	return bVal - aVal;
 };
 
@@ -48,10 +48,10 @@ var mostConnectedScale = d3.scale.linear().domain([1, 574]).range([1,4000]).clam
 var bubble = d3.layout.pack()
   .size([500, 500])
 	.value(function(d,i) {
-		if(i == 0){
-			console.log(d);
-		}
-		return PageViewScale(parseInt(d.PageViews));
+	if(i == 0){
+		// console.log(d);
+	}
+	return PageViewScale(parseInt(d.PageViews));
 
 		// var val = 0;
 		// if(typeof associatedLinksToObj[d["Page Id"]] !== "undefined"){
@@ -65,9 +65,6 @@ var bubble = d3.layout.pack()
   .padding(10)
   ;
 
-
-
-
 var ease = d3.ease('cubic-in-out');
 var timeScale = d3.scale.linear()
 	.domain([0, 1000])
@@ -78,7 +75,6 @@ var yearsXScale = d3.scale.linear().domain([minYear, 2016]).range([10, chartWidt
 var decadeTypeLabels = [];
 
 function drawCanvas() {
-
 
 	for(var v = 0; v < visualisations.length; v++){
 
@@ -140,7 +136,7 @@ function drawCanvas() {
 	  }
 
 	  vis.circles
-	  	.style("background-color", function(d, i) { 
+	  	.style("background-color", function(d, i) {
 	  		var layout = d.layout[layoutMode];
 	  		var backgroundColor = "";
 
@@ -162,7 +158,7 @@ function drawCanvas() {
 					    	( entityTypeFilter.highlight(d)?
 					    		subjectColors[d.subject] :
 					    		"rgba(255,255,255,0.4)");
-	    			} 
+	    			}
 
 		    		if(scrollSectionHeader !== null) {
 		    			if(mentionSectionObj[scrollSectionHeader].indexOf(d["Page Id"]) !== -1){
@@ -226,12 +222,9 @@ function drawCanvas() {
 
 }
 
-
-
 function drawDataBinding() {
 
 	for(var x = 1; x <= numVisualisations; x++) {
-
 		var layoutMode = "";
 
 		if(x === 1){
@@ -240,118 +233,226 @@ function drawDataBinding() {
 			layoutMode = "decade"
 		}
 
-
 	  var xMax = d3.max(data.map(function(d) { return d.layout[layoutMode].x })) + 50;
 	  var yMax = d3.max(data.map(function(d) { return d.layout[layoutMode].y })) + 50;
-  
 
 		var base = d3.select("#vis-" + x);
 
-		base.style("width", xMax + "px")
-				.style("height", yMax + "px")
-
-		var chart = base.append("canvas")
-				.style("width", xMax + 'px')
-			  .style("height", yMax + 'px')
-			  .attr("width", xMax)
-			  .attr("height", yMax)
-				.style("position", "absolute")
-				;
-
-		var tooltip = base.append("div")
-		  .attr("class", "tooltip-container")
-		  .style("opacity", 0)
-
-		var clips = base.append("svg")
-			.style("position", "absolute")
-			.style("top", "0px")
-			.append("svg:g").attr("id", "point-clips-" + x)
-			.selectAll("clipPath")
-	      .data(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))
-	    .enter().append("svg:clipPath")
-	      .attr("id", function(d, i) { return layoutMode+"-clip-"+i;})
-	    .append("svg:circle");
-
-
-		var context = chart.node().getContext("2d");
-		var detachedContainer = document.createElement("custom");
-		var dataContainer = d3.select(detachedContainer);
-
-
-	  var voronoi = voronoiLayout(layoutMode)
-
-
-		var voronoiGroup = base.append("svg")
-				.attr("width", xMax)
-				.attr("height", yMax)
-				.attr("class", "voronoi-svg")
-				.style("position", "absolute")
-				.style("top", "0px")
-			.append("g")
-				.attr("class", "voronoiWrapper")
-			.selectAll("path")
-				.data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
-			.enter()
-				.append("path")
-		;
-
-		voronoiGroup
-			.on("mouseover", showTooltip)
-			.on("mouseout",  removeTooltip);
-
-		var dataBinding = dataContainer.selectAll("custom.rect")
-	    .data(data, function(d) { return d["Page Id"]; });
-
-		dataBinding.enter()
-	    .append("custom")
-	    .classed("rect", true)
-	    .attr("r",function(d){
-				return d.r;
+		base
+			.style("width", xMax + "px")
+			.style("height", yMax + "px")
+			.on("mousemove",function(d,i){
+				var coordinates = d3.mouse(this);
+				d3.select(".tooltip-container")
+					.style("top",function(d){
+						return coordinates[1] + 20 + "px";
+					})
+					.style("left",function(d){
+						return coordinates[0] + 20 + "px";
+					})
+					;
 			})
 			;
 
-		var circles = base.selectAll(".node")
-      	.data(data, function(d) { return d["Page Id"]; })
-    	.enter()
+		// var chart = base.append("canvas")
+		// 		.style("width", xMax + 'px')
+		// 	  .style("height", yMax + 'px')
+		// 	  .attr("width", xMax)
+		// 	  .attr("height", yMax)
+		// 		.style("position", "absolute")
+		// 		;
+
+		var tooltip = base.append("div")
+		  .attr("class", "tooltip-container hidden")
+		  // .style("opacity", 0)
+			;
+
+		// var clips = base.append("svg")
+		// 	.style("position", "absolute")
+		// 	.style("top", "0px")
+		// 	.append("svg:g").attr("id", "point-clips-" + x)
+		// 	.selectAll("clipPath")
+	  //   .data(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))
+	  //   .enter()
+		// 	.append("svg:clipPath")
+	  //   .attr("id", function(d, i) { return layoutMode+"-clip-"+i;})
+	  //   .append("svg:circle")
+		// 	;
+
+		// var context = chart.node().getContext("2d");
+		// var detachedContainer = document.createElement("custom");
+		// var dataContainer = d3.select(detachedContainer);
+
+	  // var voronoi = voronoiLayout(layoutMode)
+		//
+		// var voronoiGroup = base.append("svg")
+		// 		.attr("width", xMax)
+		// 		.attr("height", yMax)
+		// 		.attr("class", "voronoi-svg")
+		// 		.style("position", "absolute")
+		// 		.style("top", "0px")
+		// 		.append("g")
+		// 		.attr("class", "voronoiWrapper")
+		// 		.selectAll("path")
+		// 		.data(voronoi(data.filter(function(d) { return !d.layout[layoutMode].hidden; }))) //Use vononoi() with your dataset inside
+		// 		.enter()
+		// 		.append("path")
+		// 		;
+		//
+		// voronoiGroup
+		// 	.on("mouseover", showTooltip)
+		// 	.on("mouseout",  removeTooltip);
+
+		// var dataBinding = dataContainer.selectAll("custom.rect")
+	  //   .data(data, function(d) { return d["Page Id"]; });
+
+		// dataBinding.enter()
+	  //   .append("custom")
+	  //   .classed("rect", true)
+	  //   .attr("r",function(d){
+		// 		return d.r;
+		// 	})
+		// 	;
+
+		var circles = base.append("div")
+			.attr("class",function(d){
+				if(x==1){
+					return "first-chart-data";
+				}
+				return "second-chart-data";
+			})
+			.selectAll("div")
+			.data(data,function(d){
+				return d.page_id;
+			})
+  		.enter()
 			.append("div")
-				.attr("class", "node")
-				.attr("id", function(d, i) { return layoutMode + "-" + d["Page Id"] })
-				.style("border-radius", "100%")
-				.style("position", "absolute")
-				.style("width", function(d, i) { 
-		  		var layout = d.layout[layoutMode];
-		  		return (layout.r * 2) + "px";
-		  	})
-		  	.style("height", function(d, i) { 
-		  		var layout = d.layout[layoutMode];
-		  		return (layout.r * 2) + "px";
-		  	})
-		  	.style("left", function(d, i) { 
-		  		var layout = d.layout[layoutMode];
-		  		return (layout.x - layout.r) + "px";
-		  	})
-		  	.style("top", function(d, i) { 
-		  		var layout = d.layout[layoutMode];
-		  		return (layout.y - layout.r) + "px";
-		  	})
-				;
+			.attr("class", function(d){
+				if(x==1){
+					return "node-first-chart " + d.subject;
+				}
+				return "node-second-chart " + d.subject;
+			})
+			// .attr("id", function(d, i) { return layoutMode + "-" + d["Page Id"] })
+			.style("position", "absolute")
+			.style("width", function(d, i) {
+	  		var layout = d.layout[layoutMode];
+	  		return (layout.r * 2) + "px";
+	  	})
+	  	.style("height", function(d, i) {
+	  		var layout = d.layout[layoutMode];
+	  		return (layout.r * 2) + "px";
+	  	})
+	  	.style("left", function(d, i) {
+	  		var layout = d.layout[layoutMode];
+	  		return (layout.x - layout.r) + "px";
+	  	})
+	  	.style("top", function(d, i) {
+	  		var layout = d.layout[layoutMode];
+	  		return (layout.y - layout.r) + "px";
+	  	})
+			.on("mouseover", showTooltip)
+			.on("mouseout",  removeTooltip);
+			;
 
+		// visualisations.push({
+		// 	base: base,
+		// 	// chart: chart,
+		// 	tooltip: tooltip,
+		// 	clips: clips,
+		// 	// context: context,
+		// 	// detachedContainer: detachedContainer,
+		// 	// dataContainer: dataContainer,
+		// 	voronoiGroup: voronoiGroup,
+		// 	circles: circles
+		// });
 
-		visualisations.push({
-			base: base,
-			chart: chart,
-			tooltip: tooltip,
-			clips: clips,
-			context: context,
-			detachedContainer: detachedContainer,
-			dataContainer: dataContainer,
-			voronoiGroup: voronoiGroup,
-			circles: circles
-		});
+			function drawFilters(){
+				if(x==1){
+
+					for(var itemNumber = 0; itemNumber < entityTypeFilters.length; itemNumber++){
+
+						var typeCount = data.filter(function(d){ return entityTypeFilters[itemNumber].highlight(d); }).length;
+
+						d3.select(".first-chart-prose").append("div")
+							.attr("class","first-chart-text-section")
+							.html(
+								'<h1 class="first-chart-section-head">' + entityTypeFilters[itemNumber].name + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
+								+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
+							);
+
+						//please use d3 for creating elements moving forward;
+						var firstChartFilters = d3.select(".first-chart-container").select(".filter-items")
+							.append("div")
+							.datum({name:entityTypeFilters[itemNumber].name,entityNumber:itemNumber})
+							// .attr("href","#")
+							.attr("class","first-chart-filter")
+							.attr("data-entity-type-filter-index",itemNumber)
+							.text(entityTypeFilters[itemNumber].name)
+							.on("click",function(d){
+								d3.select(".first-chart-data").classed("filtered-recording",true);
+							})
+							;
+
+						// $(".first-chart-filter").each(function(i, f) {
+						// 	$(f).on("click", function(e){
+						//
+						// 		// e.preventDefault();
+						// 		// var scrollEvent = visScrollEvents[0];
+						// 		// var startPosition = scrollEvent.scrollEvent.triggerPosition();
+						// 		// var progress = i / entityTypeFilters.length;
+						// 		// controller.scrollTo(startPosition + (progress * 700) + 1)
+						// 		// controller.update(true);
+						// 	});
+						// })
+					}
+				}
+				else if(x==2){
+
+					sectionHeaderNames = Object.keys(mentionSectionObj).filter(function(m) {
+						return mentionSectionObj[m].length > 3
+					}).sort(function(a, b) { return mentionSectionObj[b].length - mentionSectionObj[a].length });
+					//
+					for( var sectionItem in sectionHeaderNames) {
+
+						d3.select(".second-chart-container").select(".filter-items")
+							.append("div")
+							.datum({name:entityTypeFilters[sectionItem],entityNumber:sectionItem})
+							// .attr("href","#")
+							.attr("class","second-chart-filter " + sectionHeaderNames[sectionItem].replace(/ /g, "-"))
+							.attr("data-section-header",sectionHeaderNames[sectionItem])
+							.text(sectionHeaderNames[sectionItem])
+							.on("click",function(d){
+								// d3.select(".first-chart-data").classed("filtered-recording",true);
+							})
+							;
+					}
+
+					// $(".second-chart-filter").each(function(i, f) {
+					//
+					// 	$(f).on("click", function(e){
+					// 		e.preventDefault();
+					// 		var sectionHeader = $(this).data("section-header");
+					// 		var scrollEvent = visScrollEvents[1];
+					//
+					// 		var filterTypeIndex = sectionHeaderNames.indexOf(sectionHeader);
+					// 		var startPosition = scrollEvent.scrollEvent.triggerPosition();
+					//
+					// 		var progress = filterTypeIndex / sectionHeaderNames.length;
+					//
+					// 		controller.scrollTo(startPosition + (progress * 700))
+					// 		controller.update(true);
+					// 	})
+					// }
+				}
+			}
+
+			drawFilters();
+
 
 	}//for
 
-	drawCanvas();
+	// drawCanvas();
 
 }
 
@@ -373,12 +474,12 @@ function voronoiLayout (layoutMode) {
 
 	return voronoi;
 
-} 
+}
 
 function updateVoronoi () {
 
 	for(var v = 0; v < visualisations.length; v++){
-		
+
 		var vis = visualisations[v];
 
 		var voronoiGroup = vis.voronoiGroup;
@@ -396,7 +497,6 @@ function updateVoronoi () {
 	      .attr('cx', function(d) { return d.layout[layoutMode].x; })
 	      .attr('cy', function(d) { return d.layout[layoutMode].y; })
 	      .attr('r', 50);
-
 
 	  $($(".vis-container")[v]).data("layout-mode", layoutMode);
 
@@ -431,7 +531,7 @@ function updateVoronoi () {
 			.attr("class", function(d,i) { return "voronoi " + layoutMode})
 			.attr("clip-path", function(d,i) { return "url(#"+layoutMode+"-clip-"+i+")"; })
 			.style("stroke", "#2074A0") //I use this to look at how the cells are dispersed as a check
-		
+
 		}
 
 }
@@ -443,6 +543,10 @@ function drawChart() {
 
 //Show the tooltip on the hovered over circle
 function showTooltip(d) {
+
+	d3.select(this)
+		.style("background-color","red")
+		;
 
 	var chartContainer = $(this).closest(".vis-container");
 	var chartContainerPosition = chartContainer.offset();
@@ -456,9 +560,9 @@ function showTooltip(d) {
 	}
 
 	var mentionsHTML = "";
-	if(typeof mentionsObj[d["Page Id"]] !== "undefined"){
+	if(typeof mentionsObj["page-"+d["page_id"]] !== "undefined"){
 		var mentionsBySection = {};
-		mentionsObj[d["Page Id"]].forEach(function(m) {
+		mentionsObj["page-"+d["page_id"]].forEach(function(m) {
 			if(typeof mentionsBySection[m.sectionHeader] === "undefined"){
 				mentionsBySection[m.sectionHeader] = [];
 			}
@@ -506,46 +610,86 @@ function showTooltip(d) {
 							</tr>`;
 	}
 
-	$(this).popover({
-		placement: 'auto top', //place the tooltip above the item
-		container: "#" + $(chartContainer).attr("id"), //'body', //the name (class or id) of the container
-		trigger: 'manual',
-		html : true,
-		content: function() { //the html content to show inside the tooltip
-			return `<span class="voronoi-tooltip">
-						 	 <table>
-								<tbody>
-									<tr>
-										<td>
-											${imageHTML}
-											<br>
-											<b style='color: ${subjectColors[d.subject]}; text-transform: uppercase'> 
-												${d.subject}
-											</b>
-											<br>
-											<b> ${d.Name} <b>
-										</td>
-										<td class="quote-container"> ${mentionsHTML} </td>
-									</tr>
-									${worksRow}
-								</tbody>
-							</table>
-						</span>`;
-		}
-	}).data('bs.popover').tip().attr('id', 'my-popover');
 
-	$(this).popover('show');
+	d3.select(".tooltip-container")
+		.style("top","0px")
+		.style("left","0px")
+		.classed("hidden",false)
+		.append("div")
+		.attr("class","tooltip-content")
+		.html(`<span class="voronoi-tooltip">
+						 <table>
+							<tbody>
+								<tr>
+									<td>
+										${imageHTML}
+										<br>
+										<b style='color: ${subjectColors[d.subject]}; text-transform: uppercase'>
+											${d.subject}
+										</b>
+										<br>
+										<b> ${d.Name} <b>
+									</td>
+									<td class="quote-container"> ${mentionsHTML} </td>
+								</tr>
+								${worksRow}
+							</tbody>
+						</table>
+					</span>`)
+		;
+
+
+	// $(this).popover({
+	// 	placement: 'auto top', //place the tooltip above the item
+	// 	container: "#" + $(chartContainer).attr("id"), //'body', //the name (class or id) of the container
+	// 	trigger: 'manual',
+	// 	html : true,
+	// 	content: function() { //the html content to show inside the tooltip
+	// 		return `<span class="voronoi-tooltip">
+	// 					 	 <table>
+	// 							<tbody>
+	// 								<tr>
+	// 									<td>
+	// 										${imageHTML}
+	// 										<br>
+	// 										<b style='color: ${subjectColors[d.subject]}; text-transform: uppercase'>
+	// 											${d.subject}
+	// 										</b>
+	// 										<br>
+	// 										<b> ${d.Name} <b>
+	// 									</td>
+	// 									<td class="quote-container"> ${mentionsHTML} </td>
+	// 								</tr>
+	// 								${worksRow}
+	// 							</tbody>
+	// 						</table>
+	// 					</span>`;
+	// 	}
+	// }).data('bs.popover').tip().attr('id', 'my-popover');
+	//
+	// $(this).popover('show');
 
 }//function showTooltip
 
 //Hide the tooltip when the mouse moves away
 function removeTooltip() {
 
+	d3.select(this)
+		.style("background-color",null)
+		;
 
-	//Hide the tooltip
-	$('.popover').each(function() {
-		$(this).remove();
-	});
+	d3.select(".tooltip-container")
+		.style("top","0px")
+		.style("left","0px")
+		.classed("hidden",true)
+		.select(".tooltip-content")
+		.remove()
+		;
+
+	// //Hide the tooltip
+	// $('.popover').each(function() {
+	// 	$(this).remove();
+	// });
 
 }//function removeTooltip
 
@@ -634,13 +778,13 @@ function drawIntroPicture() {
 				if(d[2]> 1){
           return "dot-plot circle-plot";
         }
-        else if(Math.random()>.75){
+        else if(Math.random()>.4){
           return "dot-plot circle-plot"
         }
-        else if(Math.random()>.5){
-					return "circle-plot"
-					// return "dot-plot-two circle-plot"
-        }
+        // else if(Math.random()>.5){
+				// 	return "circle-plot"
+				// 	// return "dot-plot-two circle-plot"
+        // }
 				return "circle-plot"
       })
       .attr("cx", function(d){
@@ -656,7 +800,7 @@ function drawIntroPicture() {
 
 		var dotPlotDots = d3.selectAll(".dot-plot");
 
-		// dotPlot
+		// dotPlotDots
 		// 	.transition()
 		// 	.duration(5000)
 		// 	.delay(function(d,i){
@@ -675,7 +819,7 @@ function drawIntroPicture() {
 
 		function twinkle(){
 		  setInterval(function(){
-		    dotPlot
+		    dotPlotDots
 		      .transition()
 		      .duration(5000)
 		      .delay(function(d,i){
@@ -704,30 +848,27 @@ function drawIntroPicture() {
 		// 	;
 }
 
-function thirdChart(){
-
-}
-
-var entityTypeFilters = [{
-	name: "Mentioned on Miles Davis' page",
-	highlight: function(d) { return d.linked_from_miles }
-}, {
-	name: "Miles Davis Work",
-	highlight: function(d) { return d.miles_work }
-}, {
-	name: "Recordings",
-	highlight: function(d) { return d.subject === "recording" }
-}, {
-	name: "People/Musicians",
-	highlight: function(d) { return ["people", "musicians"].indexOf(d.subject) !== -1}
-}, {
-	name: "Places",
-	highlight: function(d) { return d.subject === "places" }
-}, {
-	name: "Other",
-	highlight: function(d) { return ["other", "books", "works", "films", "genres"].indexOf(d.subject) !== -1 }
-}]
-
+var entityTypeFilters = [
+	{
+		name: "Mentioned on Miles Davis' page",
+		highlight: function(d) { return d.linked_from_miles }
+	}, {
+		name: "Miles Davis Work",
+		highlight: function(d) { return d.miles_work }
+	}, {
+		name: "Recordings",
+		highlight: function(d) { return d.subject === "recording" }
+	}, {
+		name: "People/Musicians",
+		highlight: function(d) { return ["people", "musicians"].indexOf(d.subject) !== -1}
+	}, {
+		name: "Places",
+		highlight: function(d) { return d.subject === "places" }
+	}, {
+		name: "Other",
+		highlight: function(d) { return ["other", "books", "works", "films", "genres"].indexOf(d.subject) !== -1 }
+	}
+]
 
 $(document).ready(function() {
 
@@ -736,7 +877,6 @@ $(document).ready(function() {
 	loadData(function() {
 
 		entityTypes = d3.set(data.map((d) => { return d.subject })).values();
-
 
 		var root = {
 			children: data
@@ -842,73 +982,21 @@ $(document).ready(function() {
 			baseLine: maxYearBase
 		});
 
+		for (item in data){
+			var id = +data[item]["Page Id"].replace("page-","");
+			data[item]["page_id"] = id;
+			delete data[item]["Page Id"];
+		}
+
+		console.log(data);
+
 		drawDataBinding();
+
 		updateVoronoi();
-
-  	drawCanvas();
-
-  	removeTooltip();
-
-  	for(var x = 0; x < entityTypeFilters.length; x++){
-
-		  var typeCount = data.filter(function(d){ return entityTypeFilters[x].highlight(d); }).length;
-
-  		$(".first-chart-prose").append(
-			  '<div class="first-chart-text-section">'
-					+ '<h1 class="first-chart-section-head">' + entityTypeFilters[x].name + " <small>" + ((typeCount / data.length) * 100).toFixed(0) + "% of Pages <small>(" + typeCount + ' pages)</small> </small></h1>'
-					+ '<p class="first-chart-section-text">In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[2] which recognized him as "one of the key figures in the history of jazz"</p>'
-				+ '</div>'
-  		)
-			
-  		$(".first-chart-container .filter-items").append("<a href='#' class='first-chart-filter' data-entity-type-filter-index='" + x + "'>"
-	  															+ entityTypeFilters[x].name
-	  														+ "</a>");
-  	}
-
-  	$(".first-chart-filter").each(function(i, f) {
-  		$(f).on("click", function(e){
-
-	  		e.preventDefault();
-	  		var scrollEvent = visScrollEvents[0];
-
-	  		var startPosition = scrollEvent.scrollEvent.triggerPosition();
-
-	  		var progress = i / entityTypeFilters.length;
-
-	  		controller.scrollTo(startPosition + (progress * 700) + 1)
-	  		controller.update(true);
-
-	  	});
-  	})
-
-  	sectionHeaderNames = Object.keys(mentionSectionObj).filter(function(m) {
-  		return mentionSectionObj[m].length > 3
-  	}).sort(function(a, b) { return mentionSectionObj[b].length - mentionSectionObj[a].length });
-
-  	for(var x in sectionHeaderNames) {
-			$(".second-chart-container .filter-items").append("<a href='#' class='second-chart-filter " + sectionHeaderNames[x].replace(/ /g, "-")
-													+ "' data-section-header='"+ sectionHeaderNames[x] + "'>"
-														+ sectionHeaderNames[x]
-													+ "</a>");
-  	}
-
-  	$(".second-chart-filter").each(function(i, f) {
-
-  		$(f).on("click", function(e){
-	  		e.preventDefault();
-	  		var sectionHeader = $(this).data("section-header");
-	  		var scrollEvent = visScrollEvents[1];
-
-	  		var filterTypeIndex = sectionHeaderNames.indexOf(sectionHeader);
-	  		var startPosition = scrollEvent.scrollEvent.triggerPosition();
-
-	  		var progress = filterTypeIndex / sectionHeaderNames.length;
-
-	  		controller.scrollTo(startPosition + (progress * 700))
-	  		controller.update(true);
-	  	})
-
-  	})
+		//
+  	// drawCanvas();
+		//
+  	// removeTooltip();
 
 		function drawThirdChart(){
 
@@ -1007,7 +1095,7 @@ $(document).ready(function() {
 			var objDesc = baseDataBind.append("p")
 				.attr("class","third-section-item-text")
 				.text(function(d){
-					return mentionsObj[d["Page Id"]][0]["quote"].slice(0,180);
+					return mentionsObj["page-"+d["page_id"]][0]["quote"].slice(0,180);
 				})
 				;
 
@@ -1185,32 +1273,30 @@ $(document).ready(function() {
 
 		drawThirdChart();
 
-
-
 		//build thing for each class vis-container
 		$(".vis-container").each(function(i, c) {
 
-			var pinOffset = -100;
-			var pinDuration = 700;
+			var pinOffset = 100;
+			var pinDuration = 400;
 
 			if(i === 1){
 				pinOffset = -50;
-
 			}
 
 			var pinChart = new ScrollMagic.Scene({
-					triggerElement: "#trigger-" + (i + 1),
+					triggerElement: ".trigger-" + (i + 1),
 					triggerHook:0,
 					offset: pinOffset,
 					duration: pinDuration
 				})
 				.addIndicators({name: "pin " + i + " chart"}) // add indicators (requires plugin)
-				.setPin("#vis-" + (i + 1), {pushFollowers: false})
+				.setPin("#vis-" + (i + 1))
+				// .setPin("#vis-" + (i + 1), {pushFollowers: false})
 				.addTo(controller)
 				;
 
 			var chartEvent = new ScrollMagic.Scene({
-					triggerElement: "#trigger-" + (i + 1) ,
+					triggerElement: ".trigger-" + (i + 1) ,
 					duration:pinDuration,
 					triggerHook:0,
 					offset:10
@@ -1218,60 +1304,68 @@ $(document).ready(function() {
 			  .addIndicators({name: "entity type "}) // add indicators
 			  .addTo(controller)
 			  .on("enter", function (e) {
-			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
-			  	drawCanvas();
+			  	// $(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
+			  	// drawCanvas();
 			  })
 			  .on("leave",function(e){
 				  scrollEntityTypePosition = null;
 				  scrollSectionHeader = null;
-			  	$(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
-			  	drawCanvas();
+			  	// $(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
+			  	// drawCanvas();
 			  })
 			  .on("progress", function (e) {
 			  	sectionScrollProgress = e.progress
 			  	var progress = e.progress;
-
 			  	if(i === 0){
 				  	var progressPosition = Math.min(Math.floor(progress * entityTypeFilters.length), entityTypeFilters.length - 1 );
-				  	
-				  	$(".first-chart-section-head, .first-chart-filter")
-				  		.css("color", "lightgrey")
-				  		.css("font-weight", "normal");
 
-				  	$(".first-chart-section-head:nth-of-type(" + (progressPosition + 1) + "), .first-chart-filter:nth-of-type(" + (progressPosition + 1) + ")")
-				  	.css("color",  "white")
-				  	.css("font-weight", "bolder");;
+
+				  	// $(".first-chart-section-head, .first-chart-filter")
+				  	// 	// .css("color", "lightgrey")
+				  	// 	// .css("font-weight", "normal")
+						// 	;
+
+				  	// $(".first-chart-section-head:nth-of-type(" + (progressPosition + 1) + "), .first-chart-filter:nth-of-type(" + (progressPosition + 1) + ")")
+				  	// .css("color",  "white")
+				  	// .css("font-weight", "bolder");;
 
 				  	if(scrollEntityTypePosition !== progressPosition){
 
 				  		scrollEntityTypePosition = progressPosition;
-					  	drawCanvas();
+
+							if(scrollEntityTypePosition == 3){
+								d3.select(".first-chart-data").classed("filtered-recording",true);
+							}
+							else{
+								d3.select(".first-chart-data").classed("filtered-recording",false);
+							}
+							// drawCanvas();
 
 					  };
 					}
 
 					if(i === 1){
-					  var headerProgress = Math.min(Math.round(progress * sectionHeaderNames.length), sectionHeaderNames.length );
-					  var newScrollSectionHeader = sectionHeaderNames[headerProgress];
-
-					  if(typeof newScrollSectionHeader !== "undefined"){
-							$(".second-chart-filter").css("color", "lightgrey").css("font-weight", "normal");
-					  	$(".second-chart-filter." + newScrollSectionHeader.replace(/ /g, "-")).css("color",  "white").css("font-weight", "bolder");
-
-						  if(scrollSectionHeader !== newScrollSectionHeader){
-						  	scrollSectionHeader = newScrollSectionHeader;
-						  	drawCanvas();
-						  }
-						}
+					  // var headerProgress = Math.min(Math.round(progress * sectionHeaderNames.length), sectionHeaderNames.length );
+					  // var newScrollSectionHeader = sectionHeaderNames[headerProgress];
+						//
+					  // if(typeof newScrollSectionHeader !== "undefined"){
+						// 	$(".second-chart-filter").css("color", "lightgrey").css("font-weight", "normal");
+					  // 	$(".second-chart-filter." + newScrollSectionHeader.replace(/ /g, "-")).css("color",  "white").css("font-weight", "bolder");
+						//
+						//   if(scrollSectionHeader !== newScrollSectionHeader){
+						//   	scrollSectionHeader = newScrollSectionHeader;
+						//   	drawCanvas();
+						//   }
+						// }
 					}
 
 				})
 				;
 
-			 	visScrollEvents.push({
-			 		pinEvent: pinChart,
-			 		scrollEvent: chartEvent
-			 	});
+				// 	visScrollEvents.push({
+				// 		pinEvent: pinChart,
+				// 		scrollEvent: chartEvent
+				// 	});
 		});
 
 
