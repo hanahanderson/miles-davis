@@ -797,7 +797,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     background: white;
 }
 
-.node-first-chart {
+.node-first-chart .circle {
     background-color: white;
     border-radius: 50%;
 }
@@ -838,7 +838,7 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     perspective: 1000;
 }
 
-.node-second-chart {
+.node-second-chart .circle {
     position: absolute;
     border-radius: 50%;
     background: white;
@@ -850,8 +850,131 @@ canvas {-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0
     text-decoration: underline;
 }
 
+
+
+.is-filtered .circle{
+  background-color: rgba(255, 255, 255, 0.13);
+}
+
+.filtered-header-first-paragraph .first-paragraph .works,
+.filtered-header-track-listing .track-listing .works,
+.filtered-header-biography .biography .works,
+.filtered-header-discography .discography .works,
+.filtered-header-history .history .works,
+.filtered-linked-from-miles .linked-from-miles .works,
+.filtered-miles-work .miles-work .works,
+.filtered-works .works{
+    background-color: #F7CA18;
+}
+
+.filtered-header-first-paragraph .first-paragraph .musicians,
+.filtered-header-track-listing .track-listing .musicians,
+.filtered-header-biography .biography .musicians,
+.filtered-header-discography .discography .musicians,
+.filtered-header-history .history .musicians,
+.filtered-linked-from-miles .linked-from-miles .musicians,
+.filtered-miles-work .miles-work .musicians,
+.filtered-musicians .musicians{
+    background-color: #D91E18;
+}
+
+.filtered-header-first-paragraph .first-paragraph .people,
+.filtered-header-track-listing .track-listing .people,
+.filtered-header-biography .biography .people,
+.filtered-header-discography .discography .people,
+.filtered-header-history .history .people,
+.filtered-linked-from-miles .linked-from-miles .people,
+.filtered-miles-work .miles-work .people,
+.filtered-people .people{
+    background-color: #E87E04;
+}
+
+.filtered-header-first-paragraph .first-paragraph .events,
+.filtered-header-track-listing .track-listing .events,
+.filtered-header-biography .biography .events,
+.filtered-header-discography .discography .events,
+.filtered-header-history .history .events,
+.filtered-linked-from-miles .linked-from-miles .events,
+.filtered-miles-work .miles-work .events,
+.filtered-events .events{
+    background-color: #26A65B;
+}
+
+.filtered-header-first-paragraph .first-paragraph .places,
+.filtered-header-track-listing .track-listing .places,
+.filtered-header-biography .biography .places,
+.filtered-header-discography .discography .places,
+.filtered-header-history .history .places,
+.filtered-linked-from-miles .linked-from-miles .places,
+.filtered-miles-work .miles-work .places,
+.filtered-places .places{
+    background-color: #9B59B6;
+}
+
+.filtered-header-first-paragraph .first-paragraph .genres,
+.filtered-header-track-listing .track-listing .genres,
+.filtered-header-biography .biography .genres,
+.filtered-header-discography .discography .genres,
+.filtered-header-history .history .genres,
+.filtered-linked-from-miles .linked-from-miles .genres,
+.filtered-miles-work .miles-work .genres,
+.filtered-genres .genres{
+    background-color: #3498DB;
+}
+
+.filtered-header-first-paragraph .first-paragraph .books,
+.filtered-header-track-listing .track-listing .books,
+.filtered-header-biography .biography .books,
+.filtered-header-discography .discography .books,
+.filtered-header-history .history .books,
+.filtered-linked-from-miles .linked-from-miles .books,
+.filtered-miles-work .miles-work .books,
+.filtered-books .books{
+    background-color: #BF55EC;
+}
+
+.filtered-header-first-paragraph .first-paragraph .films,
+.filtered-header-track-listing .track-listing .films,
+.filtered-header-biography .biography .films,
+.filtered-header-discography .discography .films,
+.filtered-header-history .history .films,
+.filtered-linked-from-miles .linked-from-miles .films,
+.filtered-miles-work .miles-work .films,
+.filtered-films .films{
+    background-color: #3FC380;
+}
+
+.filtered-header-first-paragraph .first-paragraph .recording,
+.filtered-header-track-listing .track-listing .recording,
+.filtered-header-biography .biography .recording,
+.filtered-header-discography .discography .recording,
+.filtered-header-history .history .recording,
+.filtered-linked-from-miles .linked-from-miles .recording,
+.filtered-miles-work .miles-work .recording,
 .filtered-recording .recording{
-	background-color:red;
+    background-color: #52B3D9;
+}
+
+.filtered-header-first-paragraph .first-paragraph .companies,
+.filtered-header-track-listing .track-listing .companies,
+.filtered-header-biography .biography .companies,
+.filtered-header-discography .discography .companies,
+.filtered-header-history .history .companies,
+.filtered-linked-from-miles .linked-from-miles .companies,
+.filtered-miles-work .miles-work .companies,
+.filtered-companies .companies{
+    background-color: #AEA8D3;
+}
+
+.filtered-header-first-paragraph .first-paragraph .other,
+.filtered-header-track-listing .track-listing .other,
+.filtered-header-biography .biography .other,
+.filtered-header-discography .discography .other,
+.filtered-header-history .history .other,
+.filtered-linked-from-miles .linked-from-miles .other,
+.filtered-miles-work .miles-work .other,
+.filtered-other .other{
+    background-color: #BDC3C7;
 }
 
 

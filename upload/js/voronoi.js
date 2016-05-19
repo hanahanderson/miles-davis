@@ -1,4 +1,7 @@
 
+var pinOffset = 100;
+var pinDuration = 400;
+
 var sectionHeaderNames = [];
 var entityTypes = []//["musicians", "works", "people", "genres", "events", "places", "companies", "other"];
 var visScrollEvents = [];
@@ -314,45 +317,67 @@ function drawDataBinding() {
 		// 	})
 		// 	;
 
-		var circles = base.append("div")
-			.attr("class",function(d){
-				if(x==1){
-					return "first-chart-data";
-				}
-				return "second-chart-data";
-			})
+		var circles = 
+			base.append("div")
+				.attr("class",function(d){
+					if(x==1){
+						return "first-chart-data";
+					}
+					return "second-chart-data";
+				})
 			.selectAll("div")
-			.data(data,function(d){
-				return d.page_id;
-			})
+				.data(data,function(d){
+					return d.page_id;
+				})
   		.enter()
 			.append("div")
-			.attr("class", function(d){
-				if(x==1){
-					return "node-first-chart " + d.subject;
-				}
-				return "node-second-chart " + d.subject;
-			})
+				.attr("class", function(d){
+
+					var nth = "";
+					if(x===1){
+						nth = "first";
+					} else if (x === 2) {
+						nth = "second";
+					}
+					var className = "node-"+nth+"-chart " + d.subject;
+					if(d.linked_from_miles) {
+						className += " linked-from-miles";
+					}
+					if(d.miles_work) {
+						className += " miles-work";
+					}
+
+
+					if(typeof mentionsObj[d.page_id] !== "undefined") {
+						className += " " + mentionsObj[d.page_id].map(function(m) { return m.sectionHeader.toLowerCase().replace(/ /g, "-") }).join(" ") 
+					}
+
+					return className;
+				})
+			.append("div")
+				.attr("class", function(d) {
+					return d.subject + " circle"
+				})
 			// .attr("id", function(d, i) { return layoutMode + "-" + d["Page Id"] })
-			.style("position", "absolute")
-			.style("width", function(d, i) {
-	  		var layout = d.layout[layoutMode];
-	  		return (layout.r * 2) + "px";
-	  	})
-	  	.style("height", function(d, i) {
-	  		var layout = d.layout[layoutMode];
-	  		return (layout.r * 2) + "px";
-	  	})
-	  	.style("left", function(d, i) {
-	  		var layout = d.layout[layoutMode];
-	  		return (layout.x - layout.r) + "px";
-	  	})
-	  	.style("top", function(d, i) {
-	  		var layout = d.layout[layoutMode];
-	  		return (layout.y - layout.r) + "px";
-	  	})
-			.on("mouseover", showTooltip)
-			.on("mouseout",  removeTooltip);
+				.style("position", "absolute")
+				.style("width", function(d, i) {
+		  		var layout = d.layout[layoutMode];
+		  		return (layout.r * 2) + "px";
+		  	})
+		  	.style("height", function(d, i) {
+		  		var layout = d.layout[layoutMode];
+		  		return (layout.r * 2) + "px";
+		  	})
+		  	.style("left", function(d, i) {
+		  		var layout = d.layout[layoutMode];
+		  		return (layout.x - layout.r) + "px";
+		  	})
+		  	.style("top", function(d, i) {
+		  		var layout = d.layout[layoutMode];
+		  		return (layout.y - layout.r) + "px";
+		  	})
+				.on("mouseover", showTooltip)
+				.on("mouseout",  removeTooltip);
 			;
 
 		// visualisations.push({
@@ -386,23 +411,34 @@ function drawDataBinding() {
 							.append("div")
 							.datum({name:entityTypeFilters[itemNumber].name,entityNumber:itemNumber})
 							// .attr("href","#")
-							.attr("class","first-chart-filter")
+							.attr("class", function(d) { 
+								var className = "first-chart-filter";
+								if(d.entityNumber <= 1){
+									className += " hidden";
+								}
+								return className;
+							})
 							.attr("data-entity-type-filter-index",itemNumber)
 							.text(entityTypeFilters[itemNumber].name)
-							.on("click",function(d){
-								d3.select(".first-chart-data").classed("filtered-recording",true);
+							.on("click",function(d, i){
+								var scrollEvent = visScrollEvents[0];
+								var startPosition = scrollEvent.scrollEvent.triggerPosition();
+								var progress = d.entityNumber / entityTypeFilters.length;
+								controller.scrollTo(startPosition + (progress * pinDuration) + 1)
+								controller.update(true);
+								//d3.select(".first-chart-data").classed("filtered-recording",true);
 							})
 							;
 
 						// $(".first-chart-filter").each(function(i, f) {
 						// 	$(f).on("click", function(e){
-						//
-						// 		// e.preventDefault();
-						// 		// var scrollEvent = visScrollEvents[0];
-						// 		// var startPosition = scrollEvent.scrollEvent.triggerPosition();
-						// 		// var progress = i / entityTypeFilters.length;
-						// 		// controller.scrollTo(startPosition + (progress * 700) + 1)
-						// 		// controller.update(true);
+						
+						// 		e.preventDefault();
+						// 		var scrollEvent = visScrollEvents[0];
+						// 		var startPosition = scrollEvent.scrollEvent.triggerPosition();
+						// 		var progress = i / entityTypeFilters.length;
+						// 		controller.scrollTo(startPosition + (progress * pinDuration) + 1)
+						// 		controller.update(true);
 						// 	});
 						// })
 					}
@@ -560,9 +596,9 @@ function showTooltip(d) {
 	}
 
 	var mentionsHTML = "";
-	if(typeof mentionsObj["page-"+d["page_id"]] !== "undefined"){
+	if(typeof mentionsObj[d["page_id"]] !== "undefined"){
 		var mentionsBySection = {};
-		mentionsObj["page-"+d["page_id"]].forEach(function(m) {
+		mentionsObj[d["page_id"]].forEach(function(m) {
 			if(typeof mentionsBySection[m.sectionHeader] === "undefined"){
 				mentionsBySection[m.sectionHeader] = [];
 			}
@@ -851,22 +887,28 @@ function drawIntroPicture() {
 var entityTypeFilters = [
 	{
 		name: "Mentioned on Miles Davis' page",
-		highlight: function(d) { return d.linked_from_miles }
+		highlight: function(d) { return d.linked_from_miles },
+		classNames: ["linked-from-miles"]
 	}, {
 		name: "Miles Davis Work",
-		highlight: function(d) { return d.miles_work }
+		highlight: function(d) { return d.miles_work },
+		classNames: ["miles-work"]
 	}, {
 		name: "Recordings",
-		highlight: function(d) { return d.subject === "recording" }
+		highlight: function(d) { return d.subject === "recording" },
+		classNames: ["recording"]
 	}, {
 		name: "People/Musicians",
-		highlight: function(d) { return ["people", "musicians"].indexOf(d.subject) !== -1}
+		highlight: function(d) { return ["people", "musicians"].indexOf(d.subject) !== -1},
+		classNames: ["people", "musicians"]
 	}, {
 		name: "Places",
-		highlight: function(d) { return d.subject === "places" }
+		highlight: function(d) { return d.subject === "places" },
+		classNames: ["places"]
 	}, {
 		name: "Other",
-		highlight: function(d) { return ["other", "books", "works", "films", "genres"].indexOf(d.subject) !== -1 }
+		highlight: function(d) { return ["other", "books", "works", "films", "genres"].indexOf(d.subject) !== -1 },
+		classNames: ["other", "books", "works", "films", "genres"]
 	}
 ]
 
@@ -933,7 +975,7 @@ $(document).ready(function() {
 
 				decadeLayout = {
 					x: yearsXScale(matchedYear),
-					y: chartHeight - ((years[matchedYear] * 5) + 180),
+					y: 400 - ((years[matchedYear] * 5) + 180),
 					r: 2,
 					hidden: false
 				}
@@ -983,12 +1025,11 @@ $(document).ready(function() {
 		});
 
 		for (item in data){
-			var id = +data[item]["Page Id"].replace("page-","");
+			var id = +data[item]["Page Id"];
 			data[item]["page_id"] = id;
 			delete data[item]["Page Id"];
 		}
 
-		console.log(data);
 
 		drawDataBinding();
 
@@ -1095,7 +1136,7 @@ $(document).ready(function() {
 			var objDesc = baseDataBind.append("p")
 				.attr("class","third-section-item-text")
 				.text(function(d){
-					return mentionsObj["page-"+d["page_id"]][0]["quote"].slice(0,180);
+					return mentionsObj[d["page_id"]][0]["quote"].slice(0,180);
 				})
 				;
 
@@ -1276,11 +1317,16 @@ $(document).ready(function() {
 		//build thing for each class vis-container
 		$(".vis-container").each(function(i, c) {
 
-			var pinOffset = 100;
-			var pinDuration = 400;
 
-			if(i === 1){
-				pinOffset = -50;
+			// if(i === 1){
+			// 	pinOffset = -50;
+			// }
+
+			var nth = "";
+			if(i === 0){
+				nth = "first";
+			} else if (i === 1) {
+				nth = "second";
 			}
 
 			var pinChart = new ScrollMagic.Scene({
@@ -1295,6 +1341,7 @@ $(document).ready(function() {
 				.addTo(controller)
 				;
 
+
 			var chartEvent = new ScrollMagic.Scene({
 					triggerElement: ".trigger-" + (i + 1) ,
 					duration:pinDuration,
@@ -1306,12 +1353,23 @@ $(document).ready(function() {
 			  .on("enter", function (e) {
 			  	// $(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
 			  	// drawCanvas();
+
+			 
+			  	d3.select("."+nth+"-chart-data").classed("is-filtered", true);
 			  })
 			  .on("leave",function(e){
 				  scrollEntityTypePosition = null;
 				  scrollSectionHeader = null;
 			  	// $(".first-chart-section-head, .first-chart-filter").css("color", "lightgrey");
 			  	// drawCanvas();
+			  	for(var x in entityTypeFilters){
+			  		var oldClasses = entityTypeFilters[x]
+					  									.classNames.map(function(c){ return "filtered-" + c }).join(" ")
+					  d3.select("."+nth+"-chart-data").classed(oldClasses, false);
+			  	}
+
+			  	d3.select("."+nth+"-chart-data").classed("is-filtered", false);
+
 			  })
 			  .on("progress", function (e) {
 			  	sectionScrollProgress = e.progress
@@ -1320,52 +1378,67 @@ $(document).ready(function() {
 				  	var progressPosition = Math.min(Math.floor(progress * entityTypeFilters.length), entityTypeFilters.length - 1 );
 
 
-				  	// $(".first-chart-section-head, .first-chart-filter")
-				  	// 	// .css("color", "lightgrey")
-				  	// 	// .css("font-weight", "normal")
-						// 	;
+				  	$(".first-chart-section-head, .first-chart-filter")
+				  		.css("color", "lightgrey")
+				  		.css("font-weight", "normal")
+							;
 
-				  	// $(".first-chart-section-head:nth-of-type(" + (progressPosition + 1) + "), .first-chart-filter:nth-of-type(" + (progressPosition + 1) + ")")
-				  	// .css("color",  "white")
-				  	// .css("font-weight", "bolder");;
+				  	$(".first-chart-section-head:nth-of-type(" + (progressPosition + 1) + "), .first-chart-filter:nth-of-type(" + (progressPosition + 1) + ")")
+				  	.css("color",  "white")
+				  	.css("font-weight", "bolder");;
 
 				  	if(scrollEntityTypePosition !== progressPosition){
 
-				  		scrollEntityTypePosition = progressPosition;
+				  		if(scrollEntityTypePosition !== null) {
+					  		var oldClasses = entityTypeFilters[scrollEntityTypePosition]
+					  											.classNames.map(function(c){ return "filtered-" + c }).join(" ")
 
-							if(scrollEntityTypePosition == 3){
-								d3.select(".first-chart-data").classed("filtered-recording",true);
+								d3.select(".first-chart-data").classed(oldClasses, false);
 							}
-							else{
-								d3.select(".first-chart-data").classed("filtered-recording",false);
-							}
+
+				  		var newClasses = entityTypeFilters[progressPosition]
+				  											.classNames.map(function(c){ return "filtered-" + c }).join(" ")
+
+
+							d3.select(".first-chart-data").classed(newClasses, true);
+
+				  		scrollEntityTypePosition = progressPosition;
 							// drawCanvas();
 
 					  };
 					}
 
 					if(i === 1){
-					  // var headerProgress = Math.min(Math.round(progress * sectionHeaderNames.length), sectionHeaderNames.length );
-					  // var newScrollSectionHeader = sectionHeaderNames[headerProgress];
-						//
-					  // if(typeof newScrollSectionHeader !== "undefined"){
-						// 	$(".second-chart-filter").css("color", "lightgrey").css("font-weight", "normal");
-					  // 	$(".second-chart-filter." + newScrollSectionHeader.replace(/ /g, "-")).css("color",  "white").css("font-weight", "bolder");
-						//
-						//   if(scrollSectionHeader !== newScrollSectionHeader){
-						//   	scrollSectionHeader = newScrollSectionHeader;
-						//   	drawCanvas();
-						//   }
-						// }
+					  var headerProgress = Math.min(Math.round(progress * sectionHeaderNames.length), sectionHeaderNames.length );
+					  var newScrollSectionHeader = sectionHeaderNames[headerProgress];
+						
+					  if(typeof newScrollSectionHeader !== "undefined"){
+							$(".second-chart-filter").css("color", "lightgrey").css("font-weight", "normal");
+					  	$(".second-chart-filter." + newScrollSectionHeader.replace(/ /g, "-")).css("color",  "white").css("font-weight", "bolder");
+						
+						  if(scrollSectionHeader !== newScrollSectionHeader){
+
+					  		if(scrollSectionHeader !== null) {
+						  		var oldClasses = "filtered-header-" + scrollSectionHeader.replace(/ /g, "-");
+									d3.select(".second-chart-data").classed(oldClasses, false);
+								}
+
+					  		var newClasses = "filtered-header-" +newScrollSectionHeader.replace(/ /g, "-")
+					  		d3.select(".second-chart-data").classed(newClasses, true);
+
+						  	scrollSectionHeader = newScrollSectionHeader;
+						  	//drawCanvas();
+						  }
+						}
 					}
 
 				})
 				;
 
-				// 	visScrollEvents.push({
-				// 		pinEvent: pinChart,
-				// 		scrollEvent: chartEvent
-				// 	});
+				visScrollEvents.push({
+					pinEvent: pinChart,
+					scrollEvent: chartEvent
+				});
 		});
 
 
